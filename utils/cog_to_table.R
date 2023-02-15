@@ -8,8 +8,7 @@ reassign_name_as_time <- function(x) {
 
 build_table <- function(path, shp) {
 
-  dat <- 
-    list.files(path, full.names = T, include.dirs = FALSE) %>% 
+  out <- list.files(path, full.names = T, include.dirs = FALSE) %>% 
     grep(".json", ., value = T, invert = T) %>% 
     grep("/derived", ., value = T, invert = T) %>% 
     tibble::tibble(f = .) %>% 
@@ -17,7 +16,16 @@ build_table <- function(path, shp) {
     tidyr::separate(base, c("model", "scenario", "drop", "variable"), sep = "_") %>% 
     dplyr::rowwise() %>% 
     dplyr::mutate(r = list(terra::rast(f))) %>% 
-    dplyr::select(-c(f, drop)) %>% 
+    dplyr::mutate(r = list(reassign_name_as_time(r))) %>% 
+    dplyr::select(-c(f, drop)) 
+  
+  out %<>%
+    dplyr::mutate(r = list(normals::spat_summary(r, shp, attr_id = "county_name", name_to = "date", fun = "mean"))) %>%
+    tidyr::unnest(cols=r) %>%
+    sf::st_drop_geometry() %>% 
+    dplyr::select(-geometry) %>% 
+    dplyr::mutate(date = lubridate::as_date(date))
+  
     tidyr::pivot_wider(names_from = scenario, values_from = r) %>% 
     tidyr::pivot_longer(dplyr::starts_with("ssp"), names_to = "scenario") %>% 
     dplyr::rowwise() %>% 
@@ -27,12 +35,7 @@ build_table <- function(path, shp) {
   summarized <- dat %>% 
     dplyr::filter(model != "MIROC6", variable != "huss") %>% 
     dplyr::rowwise() %>% 
-    dplyr::mutate(r = list(reassign_name_as_time(r))) %>% 
-    dplyr::mutate(r = list(normals::spat_summary(r, shp, attr_id = "county_name", name_to = "date", fun = "mean"))) %>%
-    tidyr::unnest(summarized, cols=r) %>%
-    sf::st_drop_geometry() %>% 
-    dplyr::select(-geometry) %>% 
-    dplyr::mutate(date = lubridate::as_date(date))
+
 
   return(summarized)  
 }
