@@ -1,18 +1,12 @@
-create extension postgis;
-create extension postgis_raster;
+create table "data".derived;
+
+drop extension postgis_raster;
+drop extension postgis;
+
+create extension postgis schema "data";
+create extension postgis_raster schema "data";
 
 alter database gis set postgis.enable_outdb_rasters = true;
 alter database gis set postgis.gdal_enabled_drivers to 'ENABLE_ALL';
 
-UPDATE pg_extension
-SET extrelocatable = TRUE
-WHERE extname = 'postgis';
-
-UPDATE pg_extension
-SET extrelocatable = TRUE
-WHERE extname = 'postgis_raster';
-
-ALTER EXTENSION postgis_raster
-SET SCHEMA data;
-
-psql "dbname=gis options=--search_path=data" -a -f /usr/share/postgresql/15/contrib/postgis-3.3/spatial_ref_sys.sql -U mco
+alter database gis set search_path to 'data';
