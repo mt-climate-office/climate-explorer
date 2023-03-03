@@ -245,7 +245,3 @@ make_monthly_plot <- function(dat, location, variable, us_units) {
     coord_cartesian(clip = "off")
 }
 
-make_timeseries_plot(test, variable = "tasmax", location = "Missoula County")
-make_monthly_plot(test, variable = "tasmax", location = "Missoula County", us_units = T)
-
-dat <- readr::read_csv("./app/preprocess.csv")
