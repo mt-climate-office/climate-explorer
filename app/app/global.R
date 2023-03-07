@@ -5,6 +5,7 @@ dotenv::load_dot_env(".env")
 con <- DBI::dbConnect(
   RPostgres::Postgres(),
   host = Sys.getenv("POSTGRES_HOSTNAME"),
+  # host = "db",
   dbname = Sys.getenv("POSTGRES_DBNAME"),
   user = Sys.getenv("POSTGRES_USER"),
   password = Sys.getenv("POSTGRES_PASSWORD")

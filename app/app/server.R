@@ -33,13 +33,17 @@ function(input, output, session) {
     r <- rasters %>%
       dplyr::filter(variable == input$variable,
                     scenario == input$scenario,
-                    period == input$reference) %$%
-      stars::read_stars(f[[1]])
+                    period == input$reference) %>%
+      head(1) %>% 
+      dplyr::pull(f) %>%
+      terra::rast() %>% 
+      terra::crop(counties, mask = TRUE, snap = "out", touches=TRUE) 
 
     leafletProxy("map", data = counties) %>%
       removeTiles(layerId = "geo") %>%
-      leafem::addGeoRaster(x = r, layerId = "geo") %>%
-      addLegend("bottomleft", layerId="colorLegend", colors = brewer.pal(10, "RdBu"), labels = letters[1:10]) %>%
+      addRasterImage(x=r, layerId = "geo") %>%
+      # addLegend(position = "bottomleft") %>%
+      # addLegend("bottomleft", layerId="colorLegend", colors = brewer.pal(10, "RdBu"), labels = letters[1:10]) %>%
       setView(lng = -107.5, lat = 47, zoom = 7)
       # pal=pal, values=colorData, title=colorBy,
   })

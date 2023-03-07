@@ -126,8 +126,7 @@ convert_units <- function(dat, variable, us_units) {
 }
 
 prep_for_timeseries <- function(dat, location, v, us_units) {
-  fun = ifelse(variable == "pr", sum, mean)
-  
+
   dat %>% 
     dplyr::filter(county_fips == location, variable == v) %>% 
     dplyr::group_by(year=lubridate::year(date), scenario, model) %>% 
