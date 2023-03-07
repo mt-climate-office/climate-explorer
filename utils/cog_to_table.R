@@ -33,9 +33,10 @@ build_table <- function(path, shp) {
     dplyr::select(-historical, -value)
   
   summarized <- dat %>% 
-    dplyr::filter(model != "MIROC6", variable != "huss") %>% 
-    dplyr::rowwise() %>% 
-
+    dplyr::filter(model != "MIROC6", variable != "huss") %>%
+    dplyr::rename(c(sub_region = county_name)) %>% 
+    dplyr::mutate(region_type = "county") %>% 
+    dplyr::select(region_type, sub_region, model, scenario, variable, date, value) 
 
   return(summarized)  
 }
@@ -45,4 +46,3 @@ shp <- urbnmapr::get_urbn_map(map = "counties", sf = TRUE) %>%
   sf::st_transform(crs = sf::st_crs(4326)) %>% 
   dplyr::filter(state_name == "Montana") %>% 
   dplyr::select(county_name)
-

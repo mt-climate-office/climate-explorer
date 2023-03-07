@@ -2,30 +2,33 @@ version: '3.9'
 
 services:
     db:
-      image: postgis/postgis:15-3
       container_name: db
+      image: postgres:15
       env_file: 
-        - .env
-      ports: 
-        - 5434:5432
-      volumes: 
-        - db-data:/var/lib/postgresql
-      networks:
-        - pg
+          - .env
+      ports:
+          - 5432:5432
+      # user: "1001:1001"
+      volumes:
+          - db-data:/var/lib/postgresql/data
+          - ./db/postgres.conf:/etc/postgresql/postgresql.conf
+          - ./db/data:/data
+
+      command: postgres -c config_file=/etc/postgresql/postgresql.conf
       restart: on-failure
       healthcheck:
-        test: "exit 0"
+          test: "exit 0"
 
-    api:
-      container_name: api
-      restart: always
-      build: ./api
-      env_file: 
-        - .env
-      networks:
-        - pg
-      ports: 
-        - 8080:80
+    # api:
+    #   container_name: api
+    #   restart: always
+    #   build: ./api
+    #   env_file: 
+    #     - .env
+    #   networks:
+    #     - pg
+    #   ports: 
+    #     - 8080:80
 
 volumes:
   db-data:

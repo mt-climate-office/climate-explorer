@@ -1,6 +1,5 @@
 library(magrittr)
 library(ggplot2)
-library(mgcv)
 
 name_mapper <- list(
   "tas"="Temperature",
@@ -10,7 +9,8 @@ name_mapper <- list(
   "pr" = "Precipitation",
   "rsds" = "Short Wave Radiation", 
   "rlds" = "Long Wave Radiation",
-  "hurs" = "Relative Humidity"
+  "hurs" = "Relative Humidity",
+  "penman" = "Potential ET"
 )
 
 orig_units <- list(
@@ -21,7 +21,8 @@ orig_units <- list(
   "sfcWind" = "m/s",
   "tas" = "kelvin",
   "tasmax" = "kelvin", 
-  "tasmin" = "kelvin"
+  "tasmin" = "kelvin",
+  "penman" = "mm"
 )
 
 units_us <- list(
@@ -32,7 +33,8 @@ units_us <- list(
   "sfcWind" = "mi/hr",
   "tas" = "degF",
   "tasmax" = "degF", 
-  "tasmin" = "degF"
+  "tasmin" = "degF",
+  "penman" = "in"
 )
 
 units_metric <- list(
@@ -52,13 +54,13 @@ colors =
     "transparent",
     " "  = "transparent",
     "  "  = "transparent",
-    "Moderating Emissions (SSP1-2.6)" = rgb(34,46,77,
+    "Moderating Emissions\n(SSP1-2.6)" = rgb(34,46,77,
                                             maxColorValue = 255),
-    "Middle of the Road (SSP2-4.5)" = rgb(223,146,71,
+    "Middle of the Road\n(SSP2-4.5)" = rgb(223,146,71,
                                           maxColorValue = 255),
-    "High Emissions (SSP3-7.0)" = rgb(187,54,51,
+    "High Emissions\n(SSP3-7.0)" = rgb(187,54,51,
                                       maxColorValue = 255),
-    "Accelerating Emissions (SSP5-8.5)" = rgb(122,41,40,
+    "Accelerating Emissions\n(SSP5-8.5)" = rgb(122,41,40,
                                               maxColorValue = 255)
     
   )
@@ -69,17 +71,17 @@ factor_scenario <- function(dat) {
     scenario = dplyr::recode(
       scenario, 
       "historical" = "Historical Emissions",
-      "ssp126" = "Moderating Emissions (SSP1-2.6)",
-      "ssp245" = "Middle of the Road (SSP2-4.5)",
-      "ssp370" = "High Emissions (SSP3-7.0)",
-      "ssp585" = "Accelerating Emissions (SSP5-8.5)"
+      "ssp126" = "Moderating Emissions\n(SSP1-2.6)",
+      "ssp245" = "Middle of the Road\n(SSP2-4.5)",
+      "ssp370" = "High Emissions\n(SSP3-7.0)",
+      "ssp585" = "Accelerating Emissions\n(SSP5-8.5)"
     ) %>% 
       factor(
         levels = c("Historical Emissions",
-                   "Moderating Emissions (SSP1-2.6)",
-                   "Middle of the Road (SSP2-4.5)",
-                   "High Emissions (SSP3-7.0)",
-                   "Accelerating Emissions (SSP5-8.5)")
+                   "Moderating Emissions\n(SSP1-2.6)",
+                   "Middle of the Road\n(SSP2-4.5)",
+                   "High Emissions\n(SSP3-7.0)",
+                   "Accelerating Emissions\n(SSP5-8.5)")
       )
   )
 }
@@ -100,15 +102,13 @@ build_titles <- function(location, variable, us_units, monthly = FALSE) {
   
   list(
     "y" = glue::glue("{name_mapper[[variable]]} [{unit}]"),
-    "title" = glue::glue("{pretext} of {name_mapper[[variable]]} for {location}")
+    "title" = glue::glue("{pretext} of\n{name_mapper[[variable]]} for {location}")
   )
 }
 
-filter_and_convert_units <- function(dat, location, variable, us_units) {
+convert_units <- function(dat, variable, us_units) {
   
   dat %>%
-    dplyr::filter(county_name == location, 
-                  variable == !!variable) %>% 
       dplyr::mutate(
         value = units::set_units(value, !!orig_units[[variable]]),
         value = units::set_units(value, !!units_metric[[variable]])
@@ -125,14 +125,18 @@ filter_and_convert_units <- function(dat, location, variable, us_units) {
       } 
 }
 
-prep_for_timeseries <- function(dat, location, variable, us_units) {
+prep_for_timeseries <- function(dat, location, v, us_units) {
   fun = ifelse(variable == "pr", sum, mean)
   
   dat %>% 
-    filter_and_convert_units(location, variable, us_units) %>%
+    dplyr::filter(county_fips == location, variable == v) %>% 
     dplyr::group_by(year=lubridate::year(date), scenario, model) %>% 
-    dplyr::summarise(value = fun(value), 
-                     .groups = "drop") %>% 
+    dplyr::summarise(
+      value = ifelse(v %in% c("pr", "penman", "hargreaves"), sum(value), mean(value)), 
+      .groups = "drop"
+    ) %>% 
+    dplyr::collect() %>%
+    convert_units(v, TRUE) %>%
     dplyr::group_by(year, scenario) %>% 
     dplyr::summarise(
       upper = quantile(value, 0.9) %>% as.numeric(),
@@ -145,10 +149,14 @@ prep_for_timeseries <- function(dat, location, variable, us_units) {
 }
 
 make_timeseries_plot <- function(dat, location = "Beaverhead County", variable = "tas", us_units=TRUE) {
+  loc <- dat %>% 
+    dplyr::filter(county_fips == location) %>% 
+    head(1) %>% 
+    dplyr::collect() %>% 
+    dplyr::pull(name)
   
   to_plot <- prep_for_timeseries(dat, location, variable, us_units)
-  
-  titles <- build_titles(location, variable, us_units)
+  titles <- build_titles(loc, variable, us_units)
     
   ggplot(to_plot, aes(x=year, color=scenario, fill=scenario)) +
       geom_line(aes(y=value)) + 
@@ -174,12 +182,15 @@ make_timeseries_plot <- function(dat, location = "Beaverhead County", variable =
         axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0)),
         plot.margin=unit(c(0.1,0.2,0.1,0.1), "in")
       ) +
-      ggplot2::guides(colour = guide_legend(ncol = 3)) +
+      ggplot2::guides(colour = guide_legend(ncol = 2)) +
       coord_cartesian(clip = "off")
 }
 
-prep_for_monthly_plot <- function(dat, location, variable = "tas", us_units = T) {
-  out <- filter_and_convert_units(dat, location , variable, us_units) %>% 
+prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
+    
+  out <- dat %>% 
+    dplyr::filter(county_fips == location, variable == v) %>% 
+    dplyr::collect() %>%
     dplyr::mutate(
       year = lubridate::year(date), 
       month = month.name[lubridate::month(date)],
@@ -191,6 +202,7 @@ prep_for_monthly_plot <- function(dat, location, variable = "tas", us_units = T)
       scenario = ifelse(year >= 2015 & year <= 2020, "historical", scenario)
     )  %>% 
     dplyr::filter(!is.na(grp)) %>% 
+    convert_units(v, us_units) %>% 
     dplyr::group_by(scenario, month, grp) %>% 
     dplyr::summarise(
       upper = quantile(value, 0.9) %>% as.numeric(),
@@ -219,9 +231,16 @@ prep_for_monthly_plot <- function(dat, location, variable = "tas", us_units = T)
 }
 
 make_monthly_plot <- function(dat, location, variable, us_units) {
-  titles <- build_titles(location, variable, us_units, monthly = T)
+  loc <- dat %>% 
+    dplyr::filter(county_fips == location) %>% 
+    head(1) %>% 
+    dplyr::collect() %>% 
+    dplyr::pull(name)
+
+  to_plot <- prep_for_monthly_plot(dat, location, variable, us_units) 
+  titles <- build_titles(loc, variable, us_units, monthly = T)
   
-  prep_for_monthly_plot(dat, location, variable, us_units) %>% 
+  to_plot %>%
     ggplot(aes(x=month, color=scenario)) + 
       geom_pointrange(aes(y=value, ymin=lower, ymax=upper), position = position_dodge(width=0.25)) + 
       geom_line(aes(y=value, group=scenario)) +
@@ -241,7 +260,19 @@ make_monthly_plot <- function(dat, location, variable, us_units) {
       axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0)),
       plot.margin=unit(c(0.1,0.2,0.1,0.1), "in")
     ) +
-    ggplot2::guides(colour = guide_legend(ncol = 3)) +
+    ggplot2::guides(colour = guide_legend(ncol = 2)) +
     coord_cartesian(clip = "off")
 }
 
+placeholder_graph <- function() {
+  
+  tibble::tibble(x=1, y=1, txt="Click a county to plot data!") %>% 
+    ggplot(aes(x=x, y=y)) + 
+      geom_text(aes(label=txt), size=10) + 
+      theme_minimal() +
+      theme(
+        axis.ticks = element_blank(),
+        axis.text = element_blank(),
+        axis.title = element_blank()
+      )
+}
