@@ -1,6 +1,6 @@
 install.packages(c(
-  "devtools", 
-  "terra", 
+  "devtools",
+  "terra",
   "dplyr",
   "dotenv",
   "DBI",
@@ -8,9 +8,11 @@ install.packages(c(
   "sf",
   "tidyr",
   "ggplot2",
-  "RColorBrewer", 
+  "RColorBrewer",
   "scales",
-  "lattice"
+  "lattice",
+  "dbplyr"
 ))
 
 devtools::install_github("rstudio/leaflet")
+devtools::install_github("r-spatial/leafem")

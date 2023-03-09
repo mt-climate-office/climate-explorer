@@ -128,7 +128,7 @@ convert_units <- function(dat, variable, us_units) {
 prep_for_timeseries <- function(dat, location, v, us_units) {
 
   dat %>% 
-    dplyr::filter(county_fips == location, variable == v) %>% 
+    dplyr::filter(id == location, variable == v) %>% 
     dplyr::group_by(year=lubridate::year(date), scenario, model) %>% 
     dplyr::summarise(
       value = ifelse(v %in% c("pr", "penman", "hargreaves"), sum(value), mean(value)), 
@@ -149,7 +149,7 @@ prep_for_timeseries <- function(dat, location, v, us_units) {
 
 make_timeseries_plot <- function(dat, location = "Beaverhead County", variable = "tas", us_units=TRUE) {
   loc <- dat %>% 
-    dplyr::filter(county_fips == location) %>% 
+    dplyr::filter(id == location) %>% 
     head(1) %>% 
     dplyr::collect() %>% 
     dplyr::pull(name)
@@ -188,7 +188,7 @@ make_timeseries_plot <- function(dat, location = "Beaverhead County", variable =
 prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
     
   out <- dat %>% 
-    dplyr::filter(county_fips == location, variable == v) %>% 
+    dplyr::filter(id == location, variable == v) %>% 
     dplyr::collect() %>%
     dplyr::mutate(
       year = lubridate::year(date), 
@@ -231,7 +231,7 @@ prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
 
 make_monthly_plot <- function(dat, location, variable, us_units) {
   loc <- dat %>% 
-    dplyr::filter(county_fips == location) %>% 
+    dplyr::filter(id == location) %>% 
     head(1) %>% 
     dplyr::collect() %>% 
     dplyr::pull(name)
