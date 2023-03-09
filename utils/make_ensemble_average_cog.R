@@ -14,7 +14,7 @@ subset_mean <- function(r, start_year, end_year, func) {
     terra::app(func)
   
 }
-
+# TODO: Make it an annual sum for ppt and et.
 out_dir = "./data"
 
 tibble::tibble(f = files) %>% 
@@ -38,7 +38,11 @@ tibble::tibble(f = files) %>%
   dplyr::select(
     model, variable, name, r
   ) %>% 
-  dplyr::filter(model != "MIROC6", variable != "huss") %>% 
+  dplyr::filter(
+    model != "MIROC6",
+    variable != "huss",
+  ) %>% 
+  dplyr::mutate(f = ifelse(variable %in% c("hargreaves", "penman", "pr"), "sum", "mean"))
   dplyr::mutate(
     reference = list(subset_mean(r, 1991, 2020, "mean")), 
     mid = list(subset_mean(r, 2040, 2069, "mean")),
