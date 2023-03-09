@@ -1,4 +1,4 @@
-create schema blm.future;
+CREATE SCHEMA future AUTHORIZATION mco;
 create table future.county();
 alter table future.county
 	add column "name" varchar(64),
