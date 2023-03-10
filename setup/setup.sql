@@ -1,4 +1,4 @@
-CREATE SCHEMA future AUTHORIZATION mco;
+create schema future AUTHORIZATION mco;
 create table future.county();
 alter table future.county
 	add column "name" varchar(64),
@@ -13,7 +13,6 @@ CREATE UNIQUE INDEX county_unique_index ON future.county USING btree (id, variab
 
 set datestyle to ISO, YMD;
 copy future.county (model, scenario, variable, "name", "date", value, id) from '/data/county.csv' delimiter ',' csv header;
---
 
 create table future.huc();
 alter table future.huc
