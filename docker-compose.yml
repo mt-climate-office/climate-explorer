@@ -31,8 +31,7 @@ services:
             - 3838
         networks:
             - pg
-            - web-for-app
-    # api:
+
     #   container_name: api
     #   restart: always
     #   build: ./api
@@ -49,6 +48,3 @@ volumes:
 
 networks: 
     pg:
-    web-for-app:
-        external: 
-            name: web

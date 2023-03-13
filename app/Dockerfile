@@ -17,4 +17,18 @@ RUN chmod a+x /opt/scripts/install.R
 
 RUN Rscript /opt/scripts/install.R
 
+WORKDIR /home/app
+
 COPY ./app/ .
+
+RUN echo "local(options(shiny.port = 3838, shiny.host = '0.0.0.0'))" > /usr/local/lib/R/etc/Rprofile.site
+
+RUN addgroup --system app && adduser --system --ingroup app app
+
+RUN chown app:app -R /home/app
+USER app
+
+# Open Port 3838 of the container
+EXPOSE 3838
+
+CMD ["R", "-e", "shiny::runApp('/home/app')"]
