@@ -23,12 +23,12 @@ services:
 
     app:
         container_name: app
-        restart: on-failure
+        restart: unless-stopped
         build: ./app
         env_file: 
             - .env
-        ports:
-            - 3838:80
+        expose:
+            - 3838
         networks:
             - pg
     # api:

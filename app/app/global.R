@@ -1,6 +1,6 @@
 library(magrittr)
 
-dotenv::load_dot_env(".env")
+# dotenv::load_dot_env(".env")
 
 con <- DBI::dbConnect(
   RPostgres::Postgres(),
