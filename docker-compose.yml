@@ -28,7 +28,7 @@ services:
         env_file: 
             - .env
         ports:
-            - 3838:3838
+            - 3838:80
         networks:
             - pg
     # api:
