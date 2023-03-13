@@ -21,8 +21,8 @@ services:
         networks:
             - pg
 
-    app:
-        container_name: app
+    climate:
+        container_name: climate
         restart: unless-stopped
         build: ./app
         env_file: 
