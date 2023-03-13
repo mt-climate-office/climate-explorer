@@ -31,7 +31,7 @@ services:
             - 3838
         networks:
             - pg
-            - web
+            - web-for-app
     # api:
     #   container_name: api
     #   restart: always
@@ -46,3 +46,9 @@ services:
 volumes:
     db-data:
     db-backups:
+
+networks: 
+    pg:
+    web-for-app:
+        external: 
+            name: web
