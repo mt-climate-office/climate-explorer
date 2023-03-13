@@ -4,7 +4,7 @@ library(magrittr)
 
 con <- DBI::dbConnect(
   RPostgres::Postgres(),
-  # host = Sys.getenv("POSTGRES_HOSTNAME"),
+  # host = "localhost",
   host = "db",
   dbname = Sys.getenv("POSTGRES_DBNAME"),
   user = Sys.getenv("POSTGRES_USER"),
