@@ -13,10 +13,10 @@ function(input, output, session) {
       addPolygons(
         data = counties, fill = TRUE, color = "black", weight = 2, 
         popup = ~name, layerId = ~id, group = "Counties") %>% 
-      addPolygons(data = hucs, fill = TRUE, color = "black", weight = 2, 
-                  popup = ~name, layerId = ~id, group = "HUCs") %>% 
+      # addPolygons(data = hucs, fill = TRUE, color = "black", weight = 2, 
+      #             popup = ~name, layerId = ~id, group = "HUCs") %>% 
       addLayersControl(
-        baseGroups = c("Counties", "HUCs"),
+        baseGroups = c("Counties"), # , "HUCs"
         options = layersControlOptions(
           collapsed = FALSE,
           position = "topleft"
