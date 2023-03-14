@@ -45,7 +45,8 @@ units_metric <- list(
   "sfcWind" = "m/s",
   "tas" = "degC",
   "tasmax" = "degC", 
-  "tasmin" = "degC"
+  "tasmin" = "degC",
+  "penman" = "mm"
 )
 
 colors = 
@@ -135,7 +136,7 @@ prep_for_timeseries <- function(dat, location, v, us_units) {
       .groups = "drop"
     ) %>% 
     dplyr::collect() %>%
-    convert_units(v, TRUE) %>%
+  convert_units(v, TRUE) %>%
     dplyr::group_by(year, scenario) %>% 
     dplyr::summarise(
       upper = quantile(value, 0.9) %>% as.numeric(),
@@ -192,7 +193,7 @@ prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
     dplyr::collect() %>%
     dplyr::mutate(
       year = lubridate::year(date), 
-      month = month.name[lubridate::month(date)],
+      month = month.abb[lubridate::month(date)],
       grp = dplyr::case_when(
         year %in% 1991:2020 ~ "Reference Period (1991-2020)", 
         year %in% 2040:2069 ~ "Mid Century (2040-2069)",
@@ -219,7 +220,7 @@ prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
     dplyr::filter(out, scenario != "historical")
   ) %>% 
     dplyr::mutate(
-      month = factor(month, levels = month.name),
+      month = factor(month, levels = month.abb),
       grp = factor(grp, levels = c(
         "Reference Period (1991-2020)",
         "Mid Century (2040-2069)",

@@ -1,11 +1,11 @@
 library(magrittr)
 
-# dotenv::load_dot_env(".env")
+dotenv::load_dot_env(".env")
 
 con <- DBI::dbConnect(
   RPostgres::Postgres(),
-  # host = "localhost",
-  host = "db",
+  host = "localhost",
+  # host = "db",
   dbname = Sys.getenv("POSTGRES_DBNAME"),
   user = Sys.getenv("POSTGRES_USER"),
   password = Sys.getenv("POSTGRES_PASSWORD")

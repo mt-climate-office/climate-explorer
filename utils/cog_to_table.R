@@ -1,12 +1,12 @@
 library(magrittr)
 
-
 reassign_name_as_time <- function(x) {
   names(x) <- terra::time(x)
   return(x)
 }
 
-build_table <- function(path, shp, attr_id, region_type, out_dir = "./db/data/") {
+
+build_table <- function(path, shp, region_type, out_dir = "./db/data/") {
   
   print(glue::glue("Working on {region_type}"))
   out <- list.files(path, full.names = T, include.dirs = FALSE) %>% 
@@ -21,27 +21,28 @@ build_table <- function(path, shp, attr_id, region_type, out_dir = "./db/data/")
     dplyr::select(-c(f, drop)) 
   
   out %<>%
-    dplyr::mutate(r = list(normals::spat_summary(r, shp, attr_id = attr_id, name_to = "date", fun = "mean"))) %>%
+    dplyr::mutate(r = list(normals::spat_summary(r, shp, attr_id = "id", name_to = "date", fun = "mean"))) %>%
     tidyr::unnest(cols=r) %>%
     sf::st_drop_geometry() %>% 
     dplyr::select(-geometry) %>% 
-    dplyr::mutate(date = lubridate::as_date(date),
-                  value = round(value, 3)) %>% 
-    dplyr::filter(!is.na(value))
+    tidyr::separate(date, c("year", "month"), sep = "\\.") %>% 
+    dplyr::mutate(
+      month = paste0("0.", month) %>% 
+        stringr::str_replace("NA", "0") %>% 
+        as.numeric() %>% 
+        magrittr::multiply_by(12) %>% 
+        round() %>%
+        magrittr::add(1), 
+      date = glue::glue("{year}-{stringr::str_pad(month, 2, pad='0')}-01") %>% 
+        lubridate::as_date(),
+      value = round(value, 3),
+      id = zone
+    ) %>% 
+    dplyr::select(-zone, -year, -month) %>%
+    dplyr::filter(!is.na(value)) %>% 
+    dplyr::select(model, scenario, variable, name, date, value, id) 
   
   readr::write_csv(out, file.path(out_dir, paste0(region_type, ".csv")))
-  
-  #   tidyr::pivot_wider(names_from = scenario, values_from = r) %>% 
-  #   tidyr::pivot_longer(dplyr::starts_with("ssp"), names_to = "scenario") %>% 
-  #   dplyr::rowwise() %>% 
-  #   dplyr::mutate(r = list(c(historical, value))) %>% 
-  #   dplyr::select(-historical, -value)
-  # 
-  # summarized <- out %>% 
-  #   dplyr::filter(model == "MIROC6", variable == "huss") %>%
-  #   dplyr::rename(c(sub_region = county_name)) %>% 
-  #   dplyr::mutate(region_type = "county") %>% 
-  #   dplyr::select(region_type, sub_region, model, scenario, variable, date, value) 
 
   return(out)  
 }
@@ -54,4 +55,4 @@ county <- urbnmapr::get_urbn_map(map = "counties", sf = TRUE) %>%
   dplyr::select(name=county_name, id=county_fips)
 
 # build_table(path, huc, "name", "huc", "~/git/report-builder/db/data/")
-build_table(path, county, "name", "county", "~/git/report-builder/db/data/")
+build_table(path, county, "county", "~/git/report-builder/db/data/")

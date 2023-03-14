@@ -42,8 +42,8 @@ navbarPage("Montana Climate Office", id="nav",
 
       # Shiny versions prior to 0.11 should use class = "modal" instead.
       absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
-        draggable = FALSE, top = 60, left = "auto", right = 20, bottom = "auto",
-        width = 500, height = 750,
+        draggable = FALSE, top = 65, left = "auto", right = 10, bottom = 0,
+        width = 500, height = 'calc(100vh - 1px)',
 
         h2("Climate Explorer"),
 

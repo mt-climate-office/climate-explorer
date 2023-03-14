@@ -7,14 +7,16 @@ files <- list.files(data_dir, full.names = T, pattern = ".tif") %>%
 subset_mean <- function(r, start_year, end_year, func) {
   
   years <- terra::time(r) %>% 
-    lubridate::year() %>% 
+    stringr::str_sub(end=4) %>% 
+    as.numeric() %>% 
     {which(. %in% start_year:end_year)}
 
-  terra::subset(r, years) %>% 
-    terra::app(func)
-  
+  terra::subset(r, years) %>%
+    terra::tapp(index = "years", fun = func) %>% 
+    terra::app("mean")
 }
-# TODO: Make it an annual sum for ppt and et.
+
+
 out_dir = "./data"
 
 tibble::tibble(f = files) %>% 
@@ -27,7 +29,7 @@ tibble::tibble(f = files) %>%
   tidyr::pivot_wider(
     names_from = time, 
     values_from = r
-  ) %>% 
+  ) %>%
   tidyr::pivot_longer(
     cols = dplyr::starts_with("ssp")
   ) %>% 
@@ -42,11 +44,11 @@ tibble::tibble(f = files) %>%
     model != "MIROC6",
     variable != "huss",
   ) %>% 
-  dplyr::mutate(f = ifelse(variable %in% c("hargreaves", "penman", "pr"), "sum", "mean"))
+  dplyr::mutate(f = ifelse(variable %in% c("hargreaves", "penman", "pr"), "sum", "mean")) %>%
   dplyr::mutate(
-    reference = list(subset_mean(r, 1991, 2020, "mean")), 
-    mid = list(subset_mean(r, 2040, 2069, "mean")),
-    end = list(subset_mean(r, 2070, 2099, "mean"))
+    reference = list(subset_mean(r, 1991, 2020, f)), 
+    mid = list(subset_mean(r, 2040, 2069, f)),
+    end = list(subset_mean(r, 2070, 2099, f))
   ) %>% 
   dplyr::group_by(
       variable, scenario=name
