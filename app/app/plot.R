@@ -128,7 +128,7 @@ convert_units <- function(dat, variable, us_units) {
 
 prep_for_timeseries <- function(dat, location, v, us_units) {
 
-  dat %>% 
+  out <- dat %>% 
     dplyr::filter(id == location, variable == v) %>% 
     dplyr::group_by(year=lubridate::year(date), scenario, model) %>% 
     dplyr::summarise(
@@ -136,7 +136,7 @@ prep_for_timeseries <- function(dat, location, v, us_units) {
       .groups = "drop"
     ) %>% 
     dplyr::collect() %>%
-  convert_units(v, TRUE) %>%
+    convert_units(v, TRUE) %>%
     dplyr::group_by(year, scenario) %>% 
     dplyr::summarise(
       upper = quantile(value, 0.9) %>% as.numeric(),
@@ -144,11 +144,12 @@ prep_for_timeseries <- function(dat, location, v, us_units) {
       value = median(value),
       .groups = "drop"
     ) %>% 
-    factor_scenario()
+    factor_scenario() 
   
+  return(out)
 }
 
-make_timeseries_plot <- function(dat, location = "Beaverhead County", variable = "tas", us_units=TRUE) {
+make_timeseries_plot <- function(dat, location = "Beaverhead County", variable = "tas", us_units=TRUE, difference=FALSE) {
   loc <- dat %>% 
     dplyr::filter(id == location) %>% 
     head(1) %>% 
@@ -156,9 +157,23 @@ make_timeseries_plot <- function(dat, location = "Beaverhead County", variable =
     dplyr::pull(name)
   
   to_plot <- prep_for_timeseries(dat, location, variable, us_units)
+  if (difference) {
+      avg <- to_plot %>% 
+        dplyr::filter(year <= 2020, year >=1991) %>%
+        dplyr::pull(value) %>% 
+        mean()
+    
+      to_plot %<>% 
+        dplyr::mutate(
+          upper = upper - avg,
+          lower = lower - avg,
+          value = value - avg
+        )
+  } 
+
   titles <- build_titles(loc, variable, us_units)
     
-  ggplot(to_plot, aes(x=year, color=scenario, fill=scenario)) +
+  plt <- ggplot(to_plot, aes(x=year, color=scenario, fill=scenario)) +
       geom_line(aes(y=value)) + 
       geom_ribbon(aes(ymin=lower, ymax = upper),                
                   color = NA,
@@ -184,6 +199,12 @@ make_timeseries_plot <- function(dat, location = "Beaverhead County", variable =
       ) +
       ggplot2::guides(colour = guide_legend(ncol = 2)) +
       coord_cartesian(clip = "off")
+  
+  if (difference) {
+    plt = plt + geom_hline(yintercept=0)
+  }
+  
+  return(plt)
 }
 
 prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
@@ -230,7 +251,7 @@ prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
     factor_scenario()
 }
 
-make_monthly_plot <- function(dat, location, variable, us_units) {
+make_monthly_plot <- function(dat, location, variable, us_units, difference) {
   loc <- dat %>% 
     dplyr::filter(id == location) %>% 
     head(1) %>% 
@@ -240,7 +261,25 @@ make_monthly_plot <- function(dat, location, variable, us_units) {
   to_plot <- prep_for_monthly_plot(dat, location, variable, us_units) 
   titles <- build_titles(loc, variable, us_units, monthly = T)
   
-  to_plot %>%
+  if (difference) {
+    
+    avg <-  to_plot %>% 
+      dplyr::select(-upper, -lower, -grp) %>% 
+      dplyr::distinct() %>% 
+      dplyr::filter(scenario == "Historical Emissions") %>% 
+      dplyr::select(month, avg=value)
+    
+    to_plot %<>%
+      dplyr::filter(scenario != "Historical Emissions") %>% 
+      dplyr::left_join(avg, by="month") %>% 
+      dplyr::mutate(
+        upper = upper - avg, 
+        lower = lower - avg, 
+        value = value - avg
+      )
+  }
+  
+  plt <- to_plot %>%
     ggplot(aes(x=month, color=scenario)) + 
       geom_pointrange(aes(y=value, ymin=lower, ymax=upper), position = position_dodge(width=0.25)) + 
       geom_line(aes(y=value, group=scenario)) +
@@ -262,6 +301,12 @@ make_monthly_plot <- function(dat, location, variable, us_units) {
     ) +
     ggplot2::guides(colour = guide_legend(ncol = 2)) +
     coord_cartesian(clip = "off")
+
+  if (difference) {
+    plt = plt + geom_hline(yintercept=0)
+  }
+  
+  return(plt)
 }
 
 placeholder_graph <- function() {

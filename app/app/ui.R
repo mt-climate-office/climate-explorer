@@ -42,8 +42,8 @@ navbarPage("Montana Climate Office", id="nav",
 
       # Shiny versions prior to 0.11 should use class = "modal" instead.
       absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
-        draggable = FALSE, top = 65, left = "auto", right = 10, bottom = 0,
-        width = 500, height = 'calc(100vh - 1px)',
+        draggable = FALSE, top = 65, left = "auto", right = 10, bottom = "auto",
+        width = 500, height = 'calc(95vh - 1px)',
 
         h2("Climate Explorer"),
 
@@ -51,6 +51,12 @@ navbarPage("Montana Climate Office", id="nav",
         selectInput("scenario", "Scenario", scenarios),
         selectInput("plot_type", "Plot Type", plot_types),
         selectInput("reference", "Time Period", reference),
+        radioButtons(
+          "map_type", "Map Type:",
+          c("Period Average" = "raw",
+            "Difference" = "diff"),
+          inline = TRUE
+        ),
         plotOutput("outPlot", height = 500),
       ),
 
@@ -58,5 +64,7 @@ navbarPage("Montana Climate Office", id="nav",
         'Data from', tags$em('NASA Global Daily Downscaled Projections, CMIP6 (NEX-GDDP-CMIP6)'), ' Thrasher, B., Wang, W., Michaelis, A. et al. (2022).'
       )
     )
-  )
+  ),
+  tabPanel("Historical Trends"),
+  tabPanel("Generate Report")
 )

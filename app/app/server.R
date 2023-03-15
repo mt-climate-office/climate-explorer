@@ -38,44 +38,54 @@ function(input, output, session) {
     
     dat <- dplyr::tbl(con, RPostgres::Id(schema = "future", table = click[[1]])) 
     
-    return(plt(dat, click[[2]], input$variable, TRUE))
+    return(plt(dat, click[[2]], input$variable, TRUE, input$map_type=="diff"))
   })
 
-
+  observeEvent(input$map_type, {
+    if (input$map_type == "raw") {
+      choices <- c(
+        "End of Century" = "end",
+        "Mid Century" = "mid", 
+        "Reference Period" = "reference"
+      )
+    } else {
+      choices <- c(
+        "End of Century" = "end",
+        "Mid Century" = "mid"
+      )
+    }
+    
+    updateSelectInput(
+      session, "reference",
+      choices = choices
+    )
+  })
   # This observer is responsible for maintaining the circles and legend,
   # according to the variables the user has chosen to map to color and size.
   observe({
-    print(input$reference)
-    # r <- rasters %>%
-    #   dplyr::filter(variable == input$variable,
-    #                 scenario == input$scenario,
-    #                 period == input$reference) %>%
-    #   head(1) %>% 
-    #   dplyr::pull(f) # %>%
-      # terra::rast() #  %>% 
-      # terra::crop(counties, mask = TRUE, snap = "out", touches=TRUE) 
     
-    r <- glue::glue(
-      "https://data.climate.umt.edu/mca/cmip/derived/{input$variable}_{input$scenario}_{input$reference}.tif"
-    )
-    
-    pal <- colorNumeric(
-      palette = "YlGnBu",
-      domain = terra::rast(r) %>% 
-        terra::values()
-    )
-    
+    info <- handle_raster_plotting_logic(input)
+
     leafletProxy("map", data = counties) %>%
       removeTiles(layerId = "geo") %>%
       leafem::addGeotiff(
-        url = r,
-        autozoom = FALSE
+        url = info$r,
+        autozoom = FALSE,
+        colorOptions = leafem::colorOptions(
+          palette = info$pal,
+          breaks = seq(info$mn, info$mx, length.out=500),
+          domain = c(info$mn, info$mx)
+        ),
+        layerId = "geo"
       ) %>%
-      # addRasterImage(x=r, layerId = "geo") %>%
-      # addLegend(position = "bottomleft") %>%
-      # addLegend("bottomleft", layerId="colorLegend", colors = brewer.pal(10, "RdBu"), labels = letters[1:10]) %>%
-      setView(lng = -107.5, lat = 47, zoom = 7)
-      # pal=pal, values=colorData, title=colorBy,
+      addLegend(
+        position="bottomleft",
+        layerId="colorLegend",
+        colors = info$pal(10),
+        labels = info$labels,
+        title = legend_title(input$variable)
+      ) %>%
+      setView(lng = -107.5, lat = 47, zoom = 6)
   })
 }
 
