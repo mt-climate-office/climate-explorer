@@ -11,7 +11,9 @@ install.packages(c(
   "RColorBrewer",
   "scales",
   "lattice",
-  "dbplyr"
+  "dbplyr",
+  "readr",
+  "viridisLite"
 ))
 
 devtools::install_github("rstudio/leaflet")
