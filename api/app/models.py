@@ -1,11 +1,18 @@
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import Column, Date, Numeric, String
+
 from database import Base
 
-class Product(Base):
-    __tablename__ = 'products'
 
-    id = Column(Integer, primary_key=True, index=True)
-    name = Column(String(50), nullable=False)
-    description = Column(String(255))
-    price = Column(Integer, nullable=False)
-    quantity = Column(Integer, nullable=False)
+class County(Base):
+    __tablename__ = "county"
+    __table_args__ = {"schema": "future", "extend_existing": True}
+
+    name = Column(String)
+    id = Column(String, primary_key=True, index = True)
+    model = Column(String, primary_key=True, index = True)
+    scenario = Column(String, primary_key=True, index = True)
+    variable = Column(String, primary_key=True, index = True)
+    date = Column(Date, primary_key=True, index=True)
+    value = Column(Numeric)
+
+

@@ -26,8 +26,22 @@ services:
         restart: always
         env_file:
             - ./.env
-        expose:
-            - "3838"
+        ports:
+            - "3838:3838"
+        networks:
+            - web
+
+    blm_api:
+        container_name: blm_api
+        restart: always
+        build: ./api
+        environment:
+            - TIMEOUT=480
+            - GRACEFUL_TIMEOUT=480
+        env_file:
+            - ./.env
+        ports:
+            - "80:80"
         networks:
             - web
 

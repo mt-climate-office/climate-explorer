@@ -1,14 +1,18 @@
 import os
+
+from simplejson import dumps
 from sqlalchemy import create_engine
-from sqlalchemy.orm import scoped_session, sessionmaker
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
 
-DATABASE_URL = os.environ.get('DATABASE_URL')
+user = os.getenv("POSTGRES_USER")
+password = os.getenv("POSTGRES_PASSWORD")
+dbname = os.getenv("POSTGRES_DBNAME")
+hostname = os.getenv("POSTGRES_HOSTNAME")
 
-engine = create_engine(DATABASE_URL)
-db_session = scoped_session(sessionmaker(autocommit=False,
-                                         autoflush=False,
-                                         bind=engine))
+SQLALCHEMY_DATABASE_URL = f"postgresql://{user}:{password}@{hostname}:5432/{dbname}"
 
-def init_db():
-    from models import Base
-    Base.metadata.create_all(bind=engine)
+engine = create_engine(SQLALCHEMY_DATABASE_URL, json_serializer=dumps)
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+
+Base = declarative_base()

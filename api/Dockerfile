@@ -1,6 +1,10 @@
 FROM python:3.11-slim
 
-RUN apt-get update && apt-get -y install curl
+RUN apt-get update && \
+  apt-get -y install curl && \
+  apt-get -y install libpq-dev gcc
+
+WORKDIR /code
 
 # Install Poetry
 RUN curl -sSL https://install.python-poetry.org | POETRY_HOME=/opt/poetry python3 && \
@@ -9,12 +13,10 @@ RUN curl -sSL https://install.python-poetry.org | POETRY_HOME=/opt/poetry python
     poetry config virtualenvs.create false
 
 # Copy using poetry.lock* in case it doesn't exist yet
-COPY ./pyproject.toml ./poetry.lock* /app/
-
-WORKDIR /app
+COPY ./pyproject.toml ./poetry.lock* ./
 
 RUN poetry install --no-root --no-dev
 
-COPY ./app/ /app/
+COPY ./app/ ./
 
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
