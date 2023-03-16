@@ -6,7 +6,7 @@ function(input, output, session) {
 
   ## Interactive Map ###########################################
   # Create the map
-  output$map <- renderLeaflet({
+  output$map_future <- renderLeaflet({
     leaflet() %>%
       addTiles() %>%
       setView(lng = -107.5, lat = 47, zoom = 7) %>% 
@@ -26,7 +26,7 @@ function(input, output, session) {
   })
 
   output$outPlot <- renderPlot({
-    click <- input$map_shape_click 
+    click <- input$map_future_shape_click 
     if (is.null(click)) {
       return(placeholder_graph())
     }
@@ -66,7 +66,7 @@ function(input, output, session) {
     
     info <- handle_raster_plotting_logic(input)
 
-    leafletProxy("map", data = counties) %>%
+    leafletProxy("map_future", data = counties) %>%
       removeTiles(layerId = "geo") %>%
       leafem::addGeotiff(
         url = info$r,

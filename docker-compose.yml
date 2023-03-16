@@ -5,13 +5,13 @@ services:
         container_name: db
         image: postgres:15
         env_file: 
-            - .env
+            - ./.env
         ports:
             - 5432:5432
         # user: "1001:1001"
         volumes:
             - db-data:/var/lib/postgresql/data
-            - ./db/postgres.conf:/etc/postgresql/postgresql.conf
+            - .db/postgres.conf:/etc/postgresql/postgresql.conf
             - ./db/data:/data
 
         command: postgres -c config_file=/etc/postgresql/postgresql.conf
@@ -19,32 +19,23 @@ services:
         healthcheck:
             test: "exit 0"
         networks:
-            - pg
+            - web
 
     climate:
         container_name: climate
-        restart: unless-stopped
         build: ./app
-        env_file: 
-            - .env
+        restart: always
+        env_file:
+            - ./.env
         expose:
-            - 3838
+            - "3838"
         networks:
-            - pg
-
-    #   container_name: api
-    #   restart: always
-    #   build: ./api
-    #   env_file: 
-    #     - .env
-    #   networks:
-    #     - pg
-    #   ports: 
-    #     - 8080:80
+            - web
 
 volumes:
     db-data:
     db-backups:
 
 networks: 
-    pg:
+    web:
+        external: true

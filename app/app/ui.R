@@ -38,7 +38,7 @@ navbarPage("Montana Climate Office", id="nav",
       ),
 
       # If not using custom CSS, set height of leafletOutput to a number instead of percent
-      leafletOutput("map", width="100%", height="100%"),
+      leafletOutput("map_future", width="100%", height="100%"),
 
       # Shiny versions prior to 0.11 should use class = "modal" instead.
       absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
@@ -54,10 +54,10 @@ navbarPage("Montana Climate Office", id="nav",
         radioButtons(
           "map_type", "Map Type:",
           c("Period Average" = "raw",
-            "Difference" = "diff"),
+            "Difference from Normal" = "diff"),
           inline = TRUE
         ),
-        plotOutput("outPlot", height = 500),
+        plotly::plotlyOutput("outPlot", height = 500),
       ),
 
       tags$div(id="cite",
