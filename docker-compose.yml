@@ -11,7 +11,7 @@ services:
         # user: "1001:1001"
         volumes:
             - db-data:/var/lib/postgresql/data
-            - .db/postgres.conf:/etc/postgresql/postgresql.conf
+            - ./db/postgres.conf:/etc/postgresql/postgresql.conf
             - ./db/data:/data
 
         command: postgres -c config_file=/etc/postgresql/postgresql.conf
