@@ -35,13 +35,10 @@ services:
         container_name: blm_api
         restart: always
         build: ./api
-        environment:
-            - TIMEOUT=480
-            - GRACEFUL_TIMEOUT=480
         env_file:
             - ./.env
         ports:
-            - "80:80"
+            - "80:8000"
         networks:
             - web
 

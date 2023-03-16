@@ -4,8 +4,8 @@ library(magrittr)
 
 con <- DBI::dbConnect(
   RPostgres::Postgres(),
-  # host = "fcfc-mesonet-staging.cfc.umt.edu",
-  host = "db",
+  host = "fcfc-mesonet-staging.cfc.umt.edu",
+  # host = "db",
   dbname = Sys.getenv("POSTGRES_DBNAME"),
   user = Sys.getenv("POSTGRES_USER"),
   password = Sys.getenv("POSTGRES_PASSWORD")

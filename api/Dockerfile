@@ -1,22 +1,19 @@
-FROM python:3.11-slim
+FROM rstudio/plumber:v1.2.0
 
-RUN apt-get update && \
-  apt-get -y install curl && \
-  apt-get -y install libpq-dev gcc
+RUN apt update && \
+    apt install -y libpq-dev && \
+    apt install -y libudunits2-dev
+    
+RUN R -e "install.packages('dplyr')"
+RUN R -e "install.packages('DBI')"
+RUN R -e "install.packages('RPostgres')"
+RUN R -e "install.packages('tidyr')"
+RUN R -e "install.packages('ggplot2')"
+RUN R -e "install.packages('dbplyr')"
+RUN R -e "install.packages('units')"
 
-WORKDIR /code
+RUN mkdir /app
+COPY plumber.R /app/
+COPY crud.R /app/
 
-# Install Poetry
-RUN curl -sSL https://install.python-poetry.org | POETRY_HOME=/opt/poetry python3 && \
-    cd /usr/local/bin && \
-    ln -s /opt/poetry/bin/poetry && \
-    poetry config virtualenvs.create false
-
-# Copy using poetry.lock* in case it doesn't exist yet
-COPY ./pyproject.toml ./poetry.lock* ./
-
-RUN poetry install --no-root --no-dev
-
-COPY ./app/ ./
-
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
+CMD ["/app/plumber.R"]
