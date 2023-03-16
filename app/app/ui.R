@@ -57,7 +57,7 @@ navbarPage("Montana Climate Office", id="nav",
             "Difference from Normal" = "diff"),
           inline = TRUE
         ),
-        plotly::plotlyOutput("outPlot", height = 500),
+        plotOutput("outPlot", height = 500),
       ),
 
       tags$div(id="cite",
