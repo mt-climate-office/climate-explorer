@@ -11,9 +11,9 @@ RUN R -e "install.packages('tidyr')"
 RUN R -e "install.packages('ggplot2')"
 RUN R -e "install.packages('dbplyr')"
 RUN R -e "install.packages('units')"
+RUN R -e "install.packages('readr')"
 
 RUN mkdir /app
-COPY plumber.R /app/
-COPY crud.R /app/
+COPY ./*.R /app/
 
-CMD ["/app/plumber.R"]
+ENTRYPOINT ["R", "-f", "/app/startup.R", "--slave"]

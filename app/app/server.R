@@ -1,5 +1,6 @@
 library(leaflet)
 library(leafem)
+library(ggplot2)
 source("./plot.R")
 
 function(input, output, session) {
@@ -27,18 +28,29 @@ function(input, output, session) {
 
   output$outPlot <- renderPlot({
     click <- input$map_future_shape_click 
+    
     if (is.null(click)) {
       return(placeholder_graph())
     }
-    plt <- ifelse(input$plot_type == "timeseries", make_timeseries_plot, make_monthly_plot)
     
     click <- click$id %>% 
       stringr::str_split("_") %>% 
       unlist()
     
-    dat <- dplyr::tbl(con, RPostgres::Id(schema = "future", table = click[[1]])) 
-    
-    return(plt(dat, click[[2]], input$variable, TRUE, input$map_type=="diff"))
+    dat <- glue::glue(
+        "http://blm_api/data/{input$plot_type}/{click[[2]]}/{input$variable}/?diff={input$map_type}"
+      ) %>%
+        readr::read_csv() %>% 
+        factor_scenario() 
+
+    if (input$plot_type == "monthly") {
+      plt <- dat %>% 
+        dplyr::mutate(month = factor(month, levels = month.abb)) %>%
+        make_monthly_plot(TRUE, input$map_type) 
+    } else {
+      plt <- make_timeseries_plot(dat, TRUE, input$map_type)
+    }
+    return(plt)
   })
 
   observeEvent(input$map_type, {

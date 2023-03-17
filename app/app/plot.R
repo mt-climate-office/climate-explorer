@@ -56,13 +56,13 @@ colors =
     " "  = "transparent",
     "  "  = "transparent",
     "Moderating Emissions\n(SSP1-2.6)" = rgb(34,46,77,
-                                            maxColorValue = 255),
+                                             maxColorValue = 255),
     "Middle of the Road\n(SSP2-4.5)" = rgb(223,146,71,
-                                          maxColorValue = 255),
+                                           maxColorValue = 255),
     "High Emissions\n(SSP3-7.0)" = rgb(187,54,51,
-                                      maxColorValue = 255),
+                                       maxColorValue = 255),
     "Accelerating Emissions\n(SSP5-8.5)" = rgb(122,41,40,
-                                              maxColorValue = 255)
+                                               maxColorValue = 255)
     
   )
 
@@ -88,7 +88,7 @@ factor_scenario <- function(dat) {
 }
 
 build_titles <- function(location, variable, us_units, monthly = FALSE) {
-  
+
   if (us_units) {
     unit <- units_us[[variable]]
   } else {
@@ -110,31 +110,39 @@ build_titles <- function(location, variable, us_units, monthly = FALSE) {
 convert_units <- function(dat, variable, us_units) {
   
   dat %>%
-      dplyr::mutate(
-        value = units::set_units(value, !!orig_units[[variable]]),
-        value = units::set_units(value, !!units_metric[[variable]])
-      ) %>% 
-      {
-        if (us_units) {
-          dplyr::mutate(
-            ., value = units::set_units(value, !!units_us[[variable]]) %>% 
-              units::drop_units()
-          )
-        } else {
-          units::drop_units(.)
-        }
-      } 
+    dplyr::mutate(
+      value = units::set_units(value, !!orig_units[[variable]]),
+      value = units::set_units(value, !!units_metric[[variable]])
+    ) %>% 
+    {
+      if (us_units) {
+        dplyr::mutate(
+          ., value = units::set_units(value, !!units_us[[variable]]) %>% 
+            units::drop_units()
+        )
+      } else {
+        units::drop_units(.)
+      }
+    } 
 }
 
-prep_for_timeseries <- function(dat, location, v, us_units) {
-
-  out <- dat %>% 
+prep_for_timeseries <- function(dat, location, v, us_units=TRUE) {
+  
+  loc <- dat %>% 
+    dplyr::filter(id == location) %>% 
+    head(1) %>% 
+    dplyr::collect() %>% 
+    dplyr::pull(name)
+  
+  dat %>% 
     dplyr::filter(id == location, variable == v) %>% 
     dplyr::group_by(year=lubridate::year(date), scenario, model) %>% 
     dplyr::summarise(
       value = ifelse(v %in% c("pr", "penman", "hargreaves"), sum(value), mean(value)), 
       .groups = "drop"
     ) %>% 
+    dplyr::collect() %>%
+    convert_units(v, TRUE) %>%
     dplyr::group_by(year, scenario) %>% 
     dplyr::summarise(
       upper = quantile(value, 0.9) %>% as.numeric(),
@@ -142,61 +150,58 @@ prep_for_timeseries <- function(dat, location, v, us_units) {
       value = median(value),
       .groups = "drop"
     ) %>% 
-    factor_scenario() 
+    factor_scenario() %>%
+    dplyr::mutate(
+      location = loc, 
+      variable = v
+    )
   
-  return(out)
 }
 
-make_timeseries_plot <- function(dat, location = "Beaverhead County", variable = "tas", us_units=TRUE, difference=FALSE) {
-  loc <- dat %>% 
-    dplyr::filter(id == location) %>% 
-    head(1) %>% 
-    dplyr::collect() %>% 
-    dplyr::pull(name)
-  
-  to_plot <- prep_for_timeseries(dat, location, variable, us_units)
-  if (difference) {
-      avg <- to_plot %>% 
-        dplyr::filter(year <= 2020, year >=1991) %>%
-        dplyr::pull(value) %>% 
-        mean()
-    
-      to_plot %<>% 
-        dplyr::mutate(
-          upper = upper - avg,
-          lower = lower - avg,
-          value = value - avg
-        )
-  } 
+make_timeseries_plot <- function(dat, us_units=TRUE, difference=FALSE) {
 
-  titles <- build_titles(loc, variable, us_units)
+  if (difference) {
+    avg <- dat %>% 
+      dplyr::filter(year <= 2020, year >=1991) %>%
+      dplyr::pull(value) %>% 
+      mean()
     
-  plt <- ggplot(to_plot, aes(x=year, color=scenario, fill=scenario)) +
-      geom_line(aes(y=value)) + 
-      geom_ribbon(aes(ymin=lower, ymax = upper),                
-                  color = NA,
-                  alpha = 0.5,
-                  linewidth = 0.25) +
-      scale_x_continuous(expand = c(0,0),
-                         breaks = seq(1950,2100,25),
-                         limits = c(1950,2100)) +
-      labs(x = NULL,
-           y = titles[["y"]],
-           title = titles[["title"]] 
-           ) +
-      theme_minimal(14) +
-      scale_color_manual(values = colors) +
-      scale_fill_manual(values = colors) +
-      theme(
-        legend.title = element_blank(),
-        # legend.justification = c(1, 1),
-        legend.position = "bottom",
-        legend.key.width = unit(0.25,"in"),
-        axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0)),
-        plot.margin=unit(c(0.1,0.2,0.1,0.1), "in")
-      ) +
-      ggplot2::guides(colour = guide_legend(ncol = 2)) +
-      coord_cartesian(clip = "off")
+    dat %<>% 
+      dplyr::mutate(
+        upper = upper - avg,
+        lower = lower - avg,
+        value = value - avg
+      )
+  } 
+  
+  titles <- build_titles(dat$location[[1]], dat$variable[[1]], us_units)
+  
+  plt <- ggplot(dat, aes(x=year, color=scenario, fill=scenario)) +
+    geom_line(aes(y=value)) + 
+    geom_ribbon(aes(ymin=lower, ymax = upper),                
+                color = NA,
+                alpha = 0.5,
+                linewidth = 0.25) +
+    scale_x_continuous(expand = c(0,0),
+                       breaks = seq(1950,2100,25),
+                       limits = c(1950,2100)) +
+    labs(x = NULL,
+         y = titles[["y"]],
+         title = titles[["title"]] 
+    ) +
+    theme_minimal(14) +
+    scale_color_manual(values = colors) +
+    scale_fill_manual(values = colors) +
+    theme(
+      legend.title = element_blank(),
+      # legend.justification = c(1, 1),
+      legend.position = "bottom",
+      legend.key.width = unit(0.25,"in"),
+      axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0)),
+      plot.margin=unit(c(0.1,0.2,0.1,0.1), "in")
+    ) +
+    ggplot2::guides(colour = guide_legend(ncol = 2)) +
+    coord_cartesian(clip = "off")
   
   if (difference) {
     plt = plt + geom_hline(yintercept=0)
@@ -206,7 +211,13 @@ make_timeseries_plot <- function(dat, location = "Beaverhead County", variable =
 }
 
 prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
-    
+  
+  loc <- dat %>% 
+    dplyr::filter(id == location) %>% 
+    head(1) %>% 
+    dplyr::collect() %>% 
+    dplyr::pull(name)
+  
   out <- dat %>% 
     dplyr::filter(id == location, variable == v) %>% 
     dplyr::collect() %>%
@@ -246,28 +257,27 @@ prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
         "End-of-Century (2070-2099)")
       )
     ) %>% 
-    factor_scenario()
+    factor_scenario() %>% 
+    dplyr::mutate(
+      location = loc, 
+      variable = v
+    )
 }
 
-make_monthly_plot <- function(dat, location, variable, us_units, difference) {
-  loc <- dat %>% 
-    dplyr::filter(id == location) %>% 
-    head(1) %>% 
-    dplyr::collect() %>% 
-    dplyr::pull(name)
+make_monthly_plot <- function(dat, us_units=TRUE, difference=FALSE) {
 
-  to_plot <- prep_for_monthly_plot(dat, location, variable, us_units) 
-  titles <- build_titles(loc, variable, us_units, monthly = T)
+  
+  titles <- build_titles(dat$location[[1]], dat$variable[[1]], us_units, monthly = T)
   
   if (difference) {
     
-    avg <-  to_plot %>% 
+    avg <-  dat %>% 
       dplyr::select(-upper, -lower, -grp) %>% 
       dplyr::distinct() %>% 
       dplyr::filter(scenario == "Historical Emissions") %>% 
       dplyr::select(month, avg=value)
     
-    to_plot %<>%
+    dat %<>%
       dplyr::filter(scenario != "Historical Emissions") %>% 
       dplyr::left_join(avg, by="month") %>% 
       dplyr::mutate(
@@ -277,15 +287,15 @@ make_monthly_plot <- function(dat, location, variable, us_units, difference) {
       )
   }
   
-  plt <- to_plot %>%
+  plt <- dat %>%
     ggplot(aes(x=month, color=scenario)) + 
-      geom_pointrange(aes(y=value, ymin=lower, ymax=upper), position = position_dodge(width=0.25)) + 
-      geom_line(aes(y=value, group=scenario)) +
-      facet_grid(rows="grp") +
-      labs(x = NULL,
-           y = titles[["y"]],
-           title = titles[["title"]]
-      ) +
+    geom_pointrange(aes(y=value, ymin=lower, ymax=upper), position = position_dodge(width=0.25)) + 
+    geom_line(aes(y=value, group=scenario)) +
+    facet_grid(rows="grp") +
+    labs(x = NULL,
+         y = titles[["y"]],
+         title = titles[["title"]]
+    ) +
     theme_minimal(14) +
     scale_color_manual(values = colors) +
     scale_fill_manual(values = colors) +
@@ -299,7 +309,7 @@ make_monthly_plot <- function(dat, location, variable, us_units, difference) {
     ) +
     ggplot2::guides(colour = guide_legend(ncol = 2)) +
     coord_cartesian(clip = "off")
-
+  
   if (difference) {
     plt = plt + geom_hline(yintercept=0)
   }
@@ -311,11 +321,11 @@ placeholder_graph <- function() {
   
   tibble::tibble(x=1, y=1, txt="Click a county to plot data!") %>% 
     ggplot(aes(x=x, y=y)) + 
-      geom_text(aes(label=txt), size=10) + 
-      theme_minimal() +
-      theme(
-        axis.ticks = element_blank(),
-        axis.text = element_blank(),
-        axis.title = element_blank()
-      )
+    geom_text(aes(label=txt), size=10) + 
+    theme_minimal() +
+    theme(
+      axis.ticks = element_blank(),
+      axis.text = element_blank(),
+      axis.title = element_blank()
+    )
 }

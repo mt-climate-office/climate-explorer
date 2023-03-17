@@ -53,8 +53,8 @@ navbarPage("Montana Climate Office", id="nav",
         selectInput("reference", "Time Period", reference),
         radioButtons(
           "map_type", "Map Type:",
-          c("Period Average" = "raw",
-            "Difference from Normal" = "diff"),
+          c("Period Average" = FALSE,
+            "Difference from Normal" = TRUE),
           inline = TRUE
         ),
         plotOutput("outPlot", height = 500),

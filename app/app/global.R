@@ -1,16 +1,5 @@
 library(magrittr)
 
-# dotenv::load_dot_env(".env")
-
-con <- DBI::dbConnect(
-  RPostgres::Postgres(),
-  host = "fcfc-mesonet-staging.cfc.umt.edu",
-  # host = "db",
-  dbname = Sys.getenv("POSTGRES_DBNAME"),
-  user = Sys.getenv("POSTGRES_USER"),
-  password = Sys.getenv("POSTGRES_PASSWORD")
-)
-
 counties <- sf::read_sf("./data/counties.shp") %>% 
   dplyr::select(id=cnty_fp, name=cnty_nm) %>%
   dplyr::mutate(id = glue::glue("county_{id}"))
@@ -61,22 +50,22 @@ legend_title <- function(variable) {
 
 handle_raster_plotting_logic <- function(input) {
   
-  if (input$map_type == "raw") {
-    r <- glue::glue(
-      "https://data.climate.umt.edu/mca/cmip/derived/{input$variable}_{input$scenario}_{input$reference}.tif"
-    )
-  } else {
+  if (input$map_type) {
     r <- glue::glue(
       "https://data.climate.umt.edu/mca/cmip/derived/difference/{input$variable}_{input$scenario}_{input$reference}.tif"
     )
+  } else {
+    r <- glue::glue(
+      "https://data.climate.umt.edu/mca/cmip/derived/{input$variable}_{input$scenario}_{input$reference}.tif"
+    )
   }
 
-  
+  filt_val = ifelse(input$map_type, "diff", "raw")
   vals <- legend_info %>% 
     dplyr::filter(variable == input$variable,
-                  type == input$map_type)
+                  type == filt_val)
   
-  if (input$map_type == "diff") {
+  if (input$map_type) {
     pal <- RColorBrewer::brewer.pal(10, "RdBu") %>% 
       rev() %>% 
       colorRampPalette()
@@ -102,4 +91,17 @@ handle_raster_plotting_logic <- function(input) {
     "breaks" = breaks,
     "labels" = labels
   ))
+}
+
+placeholder_graph <- function() {
+  
+  tibble::tibble(x=1, y=1, txt="Click a county to plot data!") %>% 
+    ggplot(aes(x=x, y=y)) + 
+    geom_text(aes(label=txt), size=10) + 
+    theme_minimal() +
+    theme(
+      axis.ticks = element_blank(),
+      axis.text = element_blank(),
+      axis.title = element_blank()
+    )
 }
