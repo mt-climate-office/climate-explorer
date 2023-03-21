@@ -1,12 +1,13 @@
 library(leaflet)
 library(leafem)
+library(ggplot2)
 source("./plot.R")
 
 function(input, output, session) {
 
   ## Interactive Map ###########################################
   # Create the map
-  output$map <- renderLeaflet({
+  output$map_future <- renderLeaflet({
     leaflet() %>%
       addTiles() %>%
       setView(lng = -107.5, lat = 47, zoom = 7) %>% 
@@ -26,56 +27,77 @@ function(input, output, session) {
   })
 
   output$outPlot <- renderPlot({
-    click <- input$map_shape_click 
+    click <- input$map_future_shape_click 
+    
     if (is.null(click)) {
       return(placeholder_graph())
     }
-    plt <- ifelse(input$plot_type == "timeseries", make_timeseries_plot, make_monthly_plot)
     
     click <- click$id %>% 
       stringr::str_split("_") %>% 
       unlist()
     
-    dat <- dplyr::tbl(con, RPostgres::Id(schema = "future", table = click[[1]])) 
-    
-    return(plt(dat, click[[2]], input$variable, TRUE))
+    dat <- glue::glue(
+        "http://blm_api/data/{input$plot_type}/{click[[2]]}/{input$variable}/?diff={input$map_type}"
+      ) %>%
+        readr::read_csv() %>% 
+        factor_scenario() 
+
+    if (input$plot_type == "monthly") {
+      plt <- dat %>% 
+        dplyr::mutate(month = factor(month, levels = month.abb)) %>%
+        make_monthly_plot(TRUE, input$map_type) 
+    } else {
+      plt <- make_timeseries_plot(dat, TRUE, input$map_type)
+    }
+    return(plt)
   })
 
-
+  observeEvent(input$map_type, {
+    if (input$map_type == "raw") {
+      choices <- c(
+        "End of Century" = "end",
+        "Mid Century" = "mid", 
+        "Reference Period" = "reference"
+      )
+    } else {
+      choices <- c(
+        "End of Century" = "end",
+        "Mid Century" = "mid"
+      )
+    }
+    
+    updateSelectInput(
+      session, "reference",
+      choices = choices
+    )
+  })
   # This observer is responsible for maintaining the circles and legend,
   # according to the variables the user has chosen to map to color and size.
   observe({
-    print(input$reference)
-    # r <- rasters %>%
-    #   dplyr::filter(variable == input$variable,
-    #                 scenario == input$scenario,
-    #                 period == input$reference) %>%
-    #   head(1) %>% 
-    #   dplyr::pull(f) # %>%
-      # terra::rast() #  %>% 
-      # terra::crop(counties, mask = TRUE, snap = "out", touches=TRUE) 
     
-    r <- glue::glue(
-      "https://data.climate.umt.edu/mca/cmip/derived/{input$variable}_{input$scenario}_{input$reference}.tif"
-    )
-    
-    pal <- colorNumeric(
-      palette = "YlGnBu",
-      domain = terra::rast(r) %>% 
-        terra::values()
-    )
-    
-    leafletProxy("map", data = counties) %>%
+    info <- handle_raster_plotting_logic(input)
+
+    leafletProxy("map_future", data = counties) %>%
       removeTiles(layerId = "geo") %>%
       leafem::addGeotiff(
-        url = r,
-        autozoom = FALSE
+        url = info$r,
+        autozoom = FALSE,
+        colorOptions = leafem::colorOptions(
+          palette = info$pal,
+          breaks = seq(info$mn, info$mx, length.out=500),
+          domain = c(info$mn, info$mx)
+        ),
+        layerId = "geo"
       ) %>%
-      # addRasterImage(x=r, layerId = "geo") %>%
-      # addLegend(position = "bottomleft") %>%
-      # addLegend("bottomleft", layerId="colorLegend", colors = brewer.pal(10, "RdBu"), labels = letters[1:10]) %>%
-      setView(lng = -107.5, lat = 47, zoom = 7)
-      # pal=pal, values=colorData, title=colorBy,
+      addLegend(
+        position="bottomleft",
+        layerId="colorLegend",
+        colors = info$pal(10),
+        labels = info$labels,
+        title = legend_title(input$variable)
+      ) %>%
+      setView(lng = -107.5, lat = 47, zoom = 6)
   })
 }
 

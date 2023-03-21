@@ -10,12 +10,23 @@ RUN rm -rf /srv/shiny-server/*
 
 WORKDIR /srv/shiny-server/
 
-RUN mkdir /opt/scripts
-COPY ./install.R /opt/scripts
+RUN R -e "install.packages('devtools')"
+RUN R -e "install.packages('terra')"
+RUN R -e "install.packages('dplyr')"
+RUN R -e "install.packages('DBI')"
+RUN R -e "install.packages('RPostgres')"
+RUN R -e "install.packages('sf')"
+RUN R -e "install.packages('tidyr')"
+RUN R -e "install.packages('ggplot2')"
+RUN R -e "install.packages('RColorBrewer')"
+RUN R -e "install.packages('scales')"
+RUN R -e "install.packages('lattice')"
+RUN R -e "install.packages('dbplyr')"
+RUN R -e "install.packages('readr')"
+RUN R -e "install.packages('viridisLite')"
 
-RUN chmod a+x /opt/scripts/install.R
-
-RUN Rscript /opt/scripts/install.R
+RUN R -e "devtools::install_github('rstudio/leaflet')"
+RUN R -e "devtools::install_github('r-spatial/leafem')"
 
 WORKDIR /home/app
 

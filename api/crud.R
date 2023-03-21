@@ -88,7 +88,7 @@ factor_scenario <- function(dat) {
 }
 
 build_titles <- function(location, variable, us_units, monthly = FALSE) {
-
+  
   if (us_units) {
     unit <- units_us[[variable]]
   } else {
