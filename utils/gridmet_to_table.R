@@ -45,10 +45,12 @@ test <- list.files(
     name = basename(r) %>%
       tools::file_path_sans_ext()
   ) %>%
-  head(50) %>%
   tidyr::separate(name, c("variable", "year")) %>%
   dplyr::mutate(func = ifelse(variable %in% c("pr", "etr", "pet"), "sum", "mean")) %>% 
   dplyr::group_by(variable) %>% 
   dplyr::summarise(
     out = list(zonal_info(r, unique(func)))
-  )
+  ) %>% 
+  tidyr::unnest(out) %>%
+  dplyr::select(name, id, variable, date, value) %>% 
+  readr::write_csv("./db/data/county_historical.csv")

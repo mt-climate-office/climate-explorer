@@ -1,48 +1,49 @@
 # plumber.R
 source("./crud.R")
 
-# dotenv::load_dot_env("../.env")
+dotenv::load_dot_env("../.env")
 con <- DBI::dbConnect(
   RPostgres::Postgres(),
-  # host = "fcfc-mesonet-staging.cfc.umt.edu",
-  host = "db",
+  host = "fcfc-mesonet-staging.cfc.umt.edu",
+  # host = "db",
   dbname = Sys.getenv("POSTGRES_DBNAME"),
   user = Sys.getenv("POSTGRES_USER"),
   password = Sys.getenv("POSTGRES_PASSWORD")
 )
 
-#* Echo the parameter that was sent in
-#* @param msg The message to echo back.
-#* @get /echo
-function(msg=""){
-  list(msg = paste0("The message is: '", msg, "'"))
+#* Plot out data from the iris dataset
+#* @get /data/historical/<location:str>/<variable:str>/
+#* @param location:str The county FIPS code to gather data for.
+#* @param variable:str The variable to gather data for. 
+#* @param date_start:str The date (as YYYY-MM-DD) to start gathering data for.
+#* @param date_end:str The date (as YYYY-MM-DD) to stop gathering data at.
+#* @param us_units:bool Whether to use U.S. units or SI Units
+#* @serializer csv
+function(
+    location, variable, date_start="1970-01-01", 
+    date_end="2021-01-01", us_units=TRUE
+) {
+  
+  dplyr::tbl(con, RPostgres::Id(schema = "historical", table = "county")) %>% 
+    dplyr::filter(id == location, variable == !!variable) %>%
+    dplyr::filter(date > date_start, date < date_end) %>% 
+    dplyr::collect() %>% 
+    convert_units(variable, us_units)
 }
 
-#* Plot projected change in monthly average climate conditions. 
-#* @get /plot/monthly/<location>/<variable>/
+#* Plot out data from the iris dataset
+#* @get /data/historical/<location:str>/<variable:str>/
+#* @param location:str The county FIPS code to gather data for.
+#* @param variable:str The variable to gather data for. 
 #* @param diff:bool Whether or not the plot should be a difference from normal. 
 #* @param us_units:bool Whether to use U.S. units or SI Units
-#* @serializer png
+#* @param data_type:str Options include 'timeseries' to clean the data for timeseries
+#* analysis or 'monthly' to aggregate the data by month.
+#* @serializer csv
 function(location, variable, diff=FALSE, us_units=TRUE){
-
+  
   dplyr::tbl(con, RPostgres::Id(schema = "future", table = "county")) %>% 
-    prep_for_monthly_plot(location, variable, us_units) %>%
-    make_monthly_plot(us_units, diff) %>% 
-    print()
-
-}
-
-#* Plot a timeseries of projected changes in climate conditions.
-#* @get /plot/timeseries/<location:str>/<variable:str>/
-#* @param diff:bool Whether or not the plot should be a difference from normal. 
-#* @param us_units:bool Whether to use U.S. units or SI Units
-#* @serializer png
-function(location, variable, diff=FALSE, us_units=TRUE){
-
-  dplyr::tbl(con, RPostgres::Id(schema = "future", table = "county")) %>% 
-    prep_for_timeseries(location, variable, us_units) %>% 
-    make_timeseries_plot(us_units, diff) %>% 
-    print()
+    prep_for_monthly_plot(location, variable, us_units = us_units)
   
 }
 

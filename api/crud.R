@@ -10,7 +10,18 @@ name_mapper <- list(
   "rsds" = "Short Wave Radiation", 
   "rlds" = "Long Wave Radiation",
   "hurs" = "Relative Humidity",
-  "penman" = "Potential ET"
+  "penman" = "Potential ET",
+  "erc" = "Energy Release Component",
+  "etr" = "Potential ET (Alfalfa)",
+  "pet" = "Potential ET (Grass)",
+  "rmax" = "Maximum Relative Humidity",
+  "rmin" = "Minimum Relative Humidity",
+  "sph" = "Specific Humidity",
+  "th" = "Wind Direction",
+  "tmmn" = "Minumum Temperature",
+  "tmmx" = "Maximum Temperature",
+  "vpd" = "Vapor Pressure Deficit",
+  "vs" = "Wind Speed"
 )
 
 orig_units <- list(
@@ -22,7 +33,17 @@ orig_units <- list(
   "tas" = "kelvin",
   "tasmax" = "kelvin", 
   "tasmin" = "kelvin",
-  "penman" = "mm"
+  "penman" = "mm",
+  "erc" = "unitless",
+  "etr" = "mm",
+  "pet" = "mm",
+  "rmax" = "percent",
+  "rmin" = "percent",
+  "sph" = "kg/kg",
+  "tmmn" = "K",
+  "tmmx" = "K",
+  "vpd" = "kPa",
+  "vs" = "m/s"
 )
 
 units_us <- list(
@@ -34,7 +55,17 @@ units_us <- list(
   "tas" = "degF",
   "tasmax" = "degF", 
   "tasmin" = "degF",
-  "penman" = "in"
+  "penman" = "in",
+  "erc" = "unitless",
+  "etr" = "in",
+  "pet" = "in",
+  "rmax" = "percent",
+  "rmin" = "percent",
+  "sph" = "kg/kg",
+  "tmmn" = "degF",
+  "tmmx" = "degF",
+  "vpd" = "millibar",
+  "vs" = "mi/hr"
 )
 
 units_metric <- list(
@@ -46,7 +77,17 @@ units_metric <- list(
   "tas" = "degC",
   "tasmax" = "degC", 
   "tasmin" = "degC",
-  "penman" = "mm"
+  "penman" = "mm",
+  "erc" = "unitless",
+  "etr" = "mm",
+  "pet" = "mm",
+  "rmax" = "percent",
+  "rmin" = "percent",
+  "sph" = "kg/kg",
+  "tmmn" = "degC",
+  "tmmx" = "degC",
+  "vpd" = "kPa",
+  "vs" = "m/s"
 )
 
 colors = 
