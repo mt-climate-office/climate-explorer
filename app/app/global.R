@@ -14,6 +14,7 @@ rasters <- list.files("./data", pattern = ".tif", full.names = T) %>%
   tidyr::separate(base, c("variable", "scenario", "period"))
 
 legend_info <- readr::read_csv("./data/legend.csv")
+legend_gridmet <- readr::read_csv("./data/gridmet_legend.csv")
 
 pals <- function(x) {
   switch(
@@ -34,7 +35,16 @@ change_units <- function(value, variable) {
     "pr" = value / 25.4,
     "penman" = value /25.4,
     "sfcWind" = value * 2.237,
-    (value - 273.15) * 1.8 + 32
+    "vs" = value * 2.237,
+    "tas" = (value - 273.15) * 1.8 + 32,
+    "tasmin" = (value - 273.15) * 1.8 + 32,
+    "tasmax" = (value - 273.15) * 1.8 + 32,
+    "tmmn" = (value - 273.15) * 1.8 + 32,
+    "tmmx" = (value - 273.15) * 1.8 + 32, 
+    "etr" = (value / 25.4)*365,
+    "pet" = (value / 25.4)*365,
+    "vpd" = value * 10,
+    value
   )
 }
 
@@ -44,7 +54,19 @@ legend_title <- function(variable) {
     "pr" = "Precipitation [in]",
     "penman" = "Reference ET [in]",
     "sfcWind" = "Wind Speed [mph]",
-    "Temperature [degF]"
+    "tas" = "Temperature [degF]",
+    "tasmin" = "Temperature [degF]",
+    "tasmax" = "Temperature [degF]",
+    "tmmx" = "Temperature [degF]",
+    "tmmn" = "Temperature [degF]",
+    "etr" = "Reference ET [in]",
+    "pet" = "Reference ET [in]",
+    "vs" = "Wind Speed [mph]",
+    "vpd" = "Vapor Pressure Deficit [mbar]",
+    "rmax" = "Relative Humidiy [%]",
+    "rmin" = "Relative Humidity [%]",
+    "sph" = "Speciiy Humidity [%]",
+    "erc" = "Energy Release"
   )
 }
 
@@ -104,4 +126,50 @@ placeholder_graph <- function() {
       axis.text = element_blank(),
       axis.title = element_blank()
     )
+}
+
+
+gridmet_colors  = list(
+  'pr'='YlGnBu',
+  'pet'='OrRd',
+  'etr'='OrRd',
+  'tmmn'='Blues',
+  'tmmx'='Reds',
+  'rmax'='PuBuGn',
+  'rmin'='PuBuGn',
+  'th'='PuRd',
+  'erc'='PuRd',
+  'vpd'='OrRd',
+  'vs'='RdPu',
+  'sph'='Oranges',
+  'srad'='YlOrRd'
+)
+
+gridmet_legend <- function(input) {
+  print(input$historical_variable)
+  print(input$historical_period)
+  vals <- dplyr::filter(
+    legend_gridmet, 
+    variable == input$historical_variable,
+    time == tolower(input$historical_period)
+  )
+  print(vals)
+  mn <- floor(vals$mn)
+  mx <- ceiling(vals$mx)
+  pal <- RColorBrewer::brewer.pal(10, gridmet_colors[[input$historical_variable]]) %>% 
+    rev() %>% 
+    colorRampPalette()
+  breaks = seq(mn, mx, length.out=10)
+  labels <- round(breaks) %>% 
+    change_units(input$historical_variable) %>% 
+    round()
+  
+
+  return(list(
+    "mn" = mn,
+    "mx" = mx,
+    "pal" = pal, 
+    "breaks" = breaks,
+    "labels" = labels
+  ))
 }

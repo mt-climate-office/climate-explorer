@@ -1,7 +1,7 @@
 # plumber.R
 source("./crud.R")
 
-dotenv::load_dot_env("../.env")
+# dotenv::load_dot_env("../.env")
 con <- DBI::dbConnect(
   RPostgres::Postgres(),
   host = "fcfc-mesonet-staging.cfc.umt.edu",
@@ -32,41 +32,32 @@ function(
 }
 
 #* Plot out data from the iris dataset
-#* @get /data/historical/<location:str>/<variable:str>/
+#* @get /data/future/<location:str>/<variable:str>/
 #* @param location:str The county FIPS code to gather data for.
 #* @param variable:str The variable to gather data for. 
 #* @param diff:bool Whether or not the plot should be a difference from normal. 
 #* @param us_units:bool Whether to use U.S. units or SI Units
-#* @param data_type:str Options include 'timeseries' to clean the data for timeseries
+#* @param table_type:str Options include 'timeseries' to clean the data for timeseries
 #* analysis or 'monthly' to aggregate the data by month.
 #* @serializer csv
-function(location, variable, diff=FALSE, us_units=TRUE){
+function(
+    location, variable, diff=FALSE, us_units=TRUE, table_type=c("timeseries", "monthly")
+) {
+  table_type = match.arg(table_type)
+  
+  f = switch(
+    table_type,
+    "timeseries" = prep_for_timeseries,
+    "monthly" = prep_for_monthly_plot,
+    function(x) {
+      print("There is an error...")
+    }
+  )
   
   dplyr::tbl(con, RPostgres::Id(schema = "future", table = "county")) %>% 
-    prep_for_monthly_plot(location, variable, us_units = us_units)
+    f(location=location, v=variable, us_units = us_units) %>% 
+    plumber::as_attachment(glue::glue("historical_{location}_{variable}_{table_type}.csv"))
   
 }
 
-#* Plot out data from the iris dataset
-#* @get /data/monthly/<location:str>/<variable:str>/
-#* @param diff:bool Whether or not the plot should be a difference from normal. 
-#* @param us_units:bool Whether to use U.S. units or SI Units
-#* @serializer csv
-function(location, variable, diff=FALSE, us_units=TRUE){
 
-  dplyr::tbl(con, RPostgres::Id(schema = "future", table = "county")) %>% 
-    prep_for_monthly_plot(location, variable, us_units = us_units)
-  
-}
-
-#* Plot out data from the iris dataset
-#* @get /data/timeseries/<location:str>/<variable:str>/
-#* @param diff:bool Whether or not the plot should be a difference from normal. 
-#* @param us_units:bool Whether to use U.S. units or SI Units
-#* @serializer csv
-function(location, variable, diff=FALSE, us_units=TRUE){
-  
-  dplyr::tbl(con, RPostgres::Id(schema = "future", table = "county")) %>% 
-    prep_for_timeseries(location, variable, us_units = us_units)
-  
-}
