@@ -24,7 +24,7 @@ RUN R -e "install.packages('lattice')"
 RUN R -e "install.packages('dbplyr')"
 RUN R -e "install.packages('readr')"
 RUN R -e "install.packages('viridisLite')"
-RUN R -e "install.package('quarto')"
+RUN R -e "install.packages('quarto')"
 
 RUN R -e "devtools::install_github('rstudio/leaflet')"
 RUN R -e "devtools::install_github('r-spatial/leafem')"
