@@ -5,16 +5,14 @@ RUN apt update && \
     apt install -y libudunits2-dev && \
     apt install -y libproj-dev && \
     apt install -y libgdal-dev && \
-    apt install -y gdebi-core
+    apt install -y gdebi-core && \
+    apt install -y curl
     
 
-COPY ./quarto-linux-amd64.deb  /
-RUN gdebi /quarto-linux-amd64.deb
-RUN rm /quarto-linux-amd64.deb
-
+RUN curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb
+RUN gdebi --non-interactive quarto-linux-amd64.deb
 
 RUN rm -rf /srv/shiny-server/*
-
 WORKDIR /srv/shiny-server/
 
 RUN R -e "install.packages('devtools')"
