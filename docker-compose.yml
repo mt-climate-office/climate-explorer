@@ -26,10 +26,10 @@ services:
         restart: always
         env_file:
             - ./.env
-        ports:
-            - "3838:3838"
-        # expose:
-            # - "3838"
+        # ports:
+        #     - "3838:3838"
+        expose:
+        - "3838"
         networks:
             - web
 
@@ -39,8 +39,8 @@ services:
         build: ./api
         env_file:
             - ./.env
-        ports:
-            - "80:80"
+        # ports:
+        #     - "80:80"
         expose: 
             - "80"
         networks:

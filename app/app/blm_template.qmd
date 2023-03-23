@@ -1,0 +1,11 @@
+---
+format:
+  pdf: 
+    output-file: "qmd_output.pdf"
+params:
+  username: NA
+---
+
+# Heading
+
+My name is `r params$username`.

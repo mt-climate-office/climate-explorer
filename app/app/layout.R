@@ -74,8 +74,22 @@ historical_panel <- absolutePanel(
   
   h2("GridMET Trends"),
   
-  selectInput("historical_variable", "Variable", gridmet_variables),
+  selectInput("historical_variable", "Variable", gridmet_variables, selected="pr"),
   selectInput("historical_period", "Time Period", time_periods),
 
   plotOutput("historical_outPlot", height = 500),
+)
+
+# Shiny versions prior to 0.11 should use class = "modal" instead.
+report_panel <- absolutePanel(
+  id = "controls", class = "panel panel-default", fixed = TRUE,
+  draggable = FALSE, top = 65, left = "auto", right = 10, bottom = "auto",
+  width = 500, height = 'calc(95vh - 1px)',
+  
+  h2("Create a Report"),
+  
+  selectInput("report_gridmet", "Historical Variables", gridmet_variables, multiple=TRUE),
+  selectInput("report_cmip", "Future Variables", variables, multiple=TRUE),
+  selectInput("report_scenarios", "Emission Scenarios", scenarios, multiple=TRUE, selected = c("ssp245", "ssp370")),
+  downloadButton(outputId = "report", label = "Generate Report:"),
 )

@@ -7,7 +7,7 @@ function(input, output, session) {
 
   ## Interactive Map ###########################################
   # Create the map
-  output$map_future <- output$map_historical <- renderLeaflet({
+  output$map_future <- output$map_historical <- output$map_report <- renderLeaflet({
     leaflet() %>%
       addTiles() %>%
       setView(lng = -107.5, lat = 47, zoom = 7) %>% 
@@ -67,8 +67,10 @@ function(input, output, session) {
     print(click)
     dat <- glue::glue(
       "http://blm_api/data/historical/{click[[2]]}/{input$historical_variable}/"
-    ) %T>% print() %>% 
+    ) %>% 
       readr::read_csv() 
+    
+    name <- dat$name[[1]]
     
     if (input$historical_period != "Annual") {
       dat <- dat %>% 
@@ -76,12 +78,16 @@ function(input, output, session) {
           lubridate::month(date) == which(tolower(month.abb) == tolower(input$historical_period))
         )
     } else {
-      dat %>% 
-        dplyr::group_by(year = lubridate::year(date)) %>% 
+      dat <- dat %>% 
+        dplyr::mutate(date = lubridate::floor_date(date, "year")) %>%
+        dplyr::group_by(date) %>% 
         dplyr::summarise(
-          value = ifelse(variable %in% c("pr", "pet", "etr"), sum(value), mean(value)), 
-        ) %>% 
-        dplyr::mutate(year = as.Date())
+          value = dplyr::if_else(
+            dplyr::first(variable %in% c("pr", "pet", "etr")), 
+            sum(value), 
+            mean(value)
+          ) 
+        ) 
     }
     
     plt <- dat %>% 
@@ -89,7 +95,12 @@ function(input, output, session) {
         geom_point() + 
         geom_line() + 
         geom_smooth(method = "lm") + 
-        theme_minimal() 
+        theme_minimal() + 
+        labs(
+          x="Year", 
+          y=legend_title(input$historical_variable),
+          title = glue::glue("Trend in {name} {tools::toTitleCase(input$historical_period)} {legend_title(input$historical_variable)}")
+        )
     
     return(plt)
   })
@@ -172,6 +183,17 @@ function(input, output, session) {
       ) %>%
       setView(lng = -107.5, lat = 47, zoom = 6)
   })
+  
+  output$report <- downloadHandler(
+    filename = "test.pdf",
+    content = function(file) {
+      
+      quarto::quarto_render("blm_template.qmd", 
+                            execute_params = list(username = input$report_scenarios))
+      
+      file.copy("qmd_output.pdf", file)
+      
+    }
+  )
 }
-
   
