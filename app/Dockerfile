@@ -6,11 +6,13 @@ RUN apt update && \
     apt install -y libproj-dev && \
     apt install -y libgdal-dev && \
     apt install -y gdebi-core && \
-    apt install -y curl
+    apt install -y curl && \ 
+    apt install -y pandoc
     
 
 RUN curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb
 RUN gdebi --non-interactive quarto-linux-amd64.deb
+RUN quarto install tinytex
 
 RUN rm -rf /srv/shiny-server/*
 WORKDIR /srv/shiny-server/
