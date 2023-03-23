@@ -3,9 +3,72 @@ format:
   pdf: 
     output-file: "qmd_output.pdf"
 params:
-  username: NA
+  scenarios: NA
+  gridmet: NA
+  cmip: NA
+  location_id: NA
+  location_name: NA
 ---
 
-# Heading
+# Climate Report for `r params$location_name`
+```{r setup, echo=FALSE}
+source("./plot.R")
 
-My name is `r params$username`.
+  # dat <- glue::glue(
+  #     "http://blm_api/data/future/{click[[2]]}/{input$variable}/?diff={input$map_type}&table_type={input$plot_type}"
+  #   ) %>%
+  #     readr::read_csv() %>% 
+  #     factor_scenario() 
+  # 
+  #   if (input$plot_type == "monthly") {
+  #     plt <- dat %>% 
+  #       dplyr::mutate(month = factor(month, levels = month.abb)) %>%
+  #       make_monthly_plot(TRUE, input$map_type) 
+  #   } else {
+  #     plt <- make_timeseries_plot(dat, TRUE, input$map_type)
+  #   }
+
+```
+# Historical Trends
+Climate has changed over the last 50 years in `r params$location_name`. Here are some figures to prove it...
+
+``` {r historical_plots, echo=FALSE, warning=FALSE, message=FALSE}
+#| label: fig-hist
+#| fig.width: 10
+#| fig.height: 15
+
+    dat <- glue::glue(
+      "http://blm_api/data/historical/{params$location}/{params$gridmet[[1]]}/"
+    ) %>% 
+      readr::read_csv() 
+    print(dat)
+    name <- "test"
+    
+    dat <- dat %>% 
+      dplyr::mutate(date = lubridate::floor_date(date, "year")) %>%
+      dplyr::group_by(date) %>% 
+      dplyr::summarise(
+        value = dplyr::if_else(
+          dplyr::first(variable %in% c("pr", "pet", "etr")), 
+          sum(value), 
+          mean(value)
+        ) 
+      ) 
+
+    
+   dat %>% 
+      ggplot(aes(x=date, y=value)) + 
+        geom_point() + 
+        geom_line() + 
+        geom_smooth(method = "lm") + 
+        theme_minimal() + 
+        labs(
+          x="Year", 
+          y=legend_title(input$historical_variable),
+          title = glue::glue("Trend in {name} Annual {legend_title(input$params$gridmet[[1]])}")
+        )
+
+  
+```
+
+My name is `r params$cmip`.

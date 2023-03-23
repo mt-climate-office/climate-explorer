@@ -185,11 +185,31 @@ function(input, output, session) {
   })
   
   output$report <- downloadHandler(
-    filename = "test.pdf",
+    filename = function() {
+      location <- "test"
+      glue::glue('{location}_climReport_{stringr::str_replace_all(Sys.Date(), "-", "")}.pdf')
+    },
     content = function(file) {
+      click <- input$map_report_shape_click 
+
+      click <- click$id %>% 
+        stringr::str_split("_") %>% 
+        unlist()
       
-      quarto::quarto_render("blm_template.qmd", 
-                            execute_params = list(username = input$report_scenarios))
+      if (length(input$report_gridmet) == 0) {
+        showNotification("You must select a gridMET variable!", type = "error")
+        return()
+      }
+      quarto::quarto_render(
+        "blm_template.qmd", 
+        execute_params = list(
+          scenarios = input$report_scenarios,
+          gridmet = input$report_gridmet,
+          cmip = input$report_cmip,
+          location_id = click[[2]],
+          location_name = "test"
+        )
+      )
       
       file.copy("qmd_output.pdf", file)
       
