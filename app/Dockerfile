@@ -4,7 +4,14 @@ RUN apt update && \
     apt install -y libpq-dev && \
     apt install -y libudunits2-dev && \
     apt install -y libproj-dev && \
-    apt install -y libgdal-dev
+    apt install -y libgdal-dev && \
+    apt install -y gdebi-core
+    
+
+COPY ./quarto-linux-amd64.deb  /
+RUN gdebi /quarto-linux-amd64.deb
+RUN rm /quarto-linux-amd64.deb
+
 
 RUN rm -rf /srv/shiny-server/*
 
