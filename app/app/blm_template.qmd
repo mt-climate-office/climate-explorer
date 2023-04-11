@@ -38,7 +38,7 @@ Climate has changed over the last 50 years in `r params$location_name`. Here are
 #| fig.height: 15
 
     dat <- glue::glue(
-      "http://blm_api/data/historical/{params$location}/{params$gridmet[[1]]}/"
+      "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{params$location}/{params$gridmet[[1]]}/"
     ) %>% 
       readr::read_csv() 
     print(dat)

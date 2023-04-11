@@ -91,5 +91,6 @@ report_panel <- absolutePanel(
   selectInput("report_gridmet", "Historical Variables", gridmet_variables, multiple=TRUE),
   selectInput("report_cmip", "Future Variables", variables, multiple=TRUE),
   selectInput("report_scenarios", "Emission Scenarios", scenarios, multiple=TRUE, selected = c("ssp245", "ssp370")),
+  span(h4("Selected Location: "), textOutput("report_text")),
   downloadButton(outputId = "report", label = "Generate Report:"),
 )

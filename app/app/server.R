@@ -64,7 +64,6 @@ function(input, output, session) {
       stringr::str_split("_") %>% 
       unlist()
     
-    print(click)
     dat <- glue::glue(
       "http://blm_api/data/historical/{click[[2]]}/{input$historical_variable}/"
     ) %>% 
@@ -184,10 +183,27 @@ function(input, output, session) {
       setView(lng = -107.5, lat = 47, zoom = 6)
   })
   
+  output$report_text <- renderText({
+    click <- input$map_report_shape_click 
+    if (is.null(click)) {
+      return(paste("No Location Selected. Click a location to generate a report."))
+    } else {
+      click <- click$id %>% 
+        stringr::str_split("_") %>% 
+        unlist()
+      print(click)
+      return(paste(click[[3]]))
+    }
+  })
+
   output$report <- downloadHandler(
     filename = function() {
-      location <- "test"
-      glue::glue('{location}_climReport_{stringr::str_replace_all(Sys.Date(), "-", "")}.pdf')
+      click <- input$map_report_shape_click 
+      click <- click$id %>% 
+        stringr::str_split("_") %>% 
+        unlist()      
+      
+      glue::glue('{click[[2]]}_climReport_{stringr::str_replace_all(Sys.Date(), "-", "")}.pdf')
     },
     content = function(file) {
       click <- input$map_report_shape_click 

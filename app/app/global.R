@@ -2,7 +2,7 @@ library(magrittr)
 
 counties <- sf::read_sf("./data/counties.shp") %>% 
   dplyr::select(id=cnty_fp, name=cnty_nm) %>%
-  dplyr::mutate(id = glue::glue("county_{id}"))
+  dplyr::mutate(id = glue::glue("county_{id}_{name}"))
 
 hucs <- sf::read_sf("./data/mt_hucs.geojson") %>% 
   dplyr::mutate(id = glue::glue("huc_{id}"))
