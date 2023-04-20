@@ -66,6 +66,17 @@ colors =
     
   )
 
+scenario_code_to_long <- function(x) {
+  switch(
+    x,
+    "hist" = 'Historical Emissions',
+    "ssp126" = "Moderating Emissions\n(SSP1-2.6)",
+    "ssp245" = "Middle of the Road\n(SSP2-4.5)",
+    "ssp370" = "High Emissions\n(SSP3-7.0)",
+    "ssp585" = "Accelerating Emissions\n(SSP5-8.5)",
+  )
+}
+
 factor_scenario <- function(dat) {
   dplyr::mutate(
     dat, 

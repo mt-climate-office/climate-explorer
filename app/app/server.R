@@ -191,7 +191,6 @@ function(input, output, session) {
       click <- click$id %>% 
         stringr::str_split("_") %>% 
         unlist()
-      print(click)
       return(paste(click[[3]]))
     }
   })
@@ -223,7 +222,7 @@ function(input, output, session) {
           gridmet = input$report_gridmet,
           cmip = input$report_cmip,
           location_id = click[[2]],
-          location_name = "test"
+          location_name = click[[3]]
         )
       )
       

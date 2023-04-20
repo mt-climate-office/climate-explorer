@@ -2,6 +2,11 @@
 format:
   pdf: 
     output-file: "qmd_output.pdf"
+    geometry: 
+      - top=20mm
+      - bottom=20mm
+      - left=20mm
+      - right=20mm
 params:
   scenarios: NA
   gridmet: NA
@@ -13,20 +18,58 @@ params:
 # Climate Report for `r params$location_name`
 ```{r setup, echo=FALSE}
 source("./plot.R")
+source("./global.R")
 
-  # dat <- glue::glue(
-  #     "http://blm_api/data/future/{click[[2]]}/{input$variable}/?diff={input$map_type}&table_type={input$plot_type}"
-  #   ) %>%
-  #     readr::read_csv() %>% 
-  #     factor_scenario() 
-  # 
-  #   if (input$plot_type == "monthly") {
-  #     plt <- dat %>% 
-  #       dplyr::mutate(month = factor(month, levels = month.abb)) %>%
-  #       make_monthly_plot(TRUE, input$map_type) 
-  #   } else {
-  #     plt <- make_timeseries_plot(dat, TRUE, input$map_type)
-  #   }
+wrangle_historical <- function(id, name, element) {
+  dat <- glue::glue(
+    "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{id}/{element}/"
+  ) %>% 
+    readr::read_csv(show_col_types = FALSE) 
+
+  dat <- dat %>% 
+    dplyr::mutate(date = lubridate::floor_date(date, "year")) %>%
+    dplyr::group_by(date) %>% 
+    dplyr::summarise(
+      value = dplyr::if_else(
+        dplyr::first(variable %in% c("pr", "pet", "etr")), 
+        sum(value), 
+        mean(value)
+      ) 
+    ) 
+  
+  
+  dat %>% 
+    ggplot(aes(x=date, y=value)) + 
+    geom_point() + 
+    geom_line() + 
+    geom_smooth(method = "lm") + 
+    theme_minimal() + 
+    labs(
+      x="Year", 
+      y=legend_title(element),
+      title = glue::glue("Trend in {name} Annual {legend_title(element)}")
+    )
+}
+
+wrangle_future <- function(id, variable, type, scenarios) {
+  
+  scenarios = lapply(c("hist", scenarios), scenario_code_to_long)
+  dat <- glue::glue(
+    "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/future/{id}/{variable}/?table_type={type}"
+  ) %>%
+    readr::read_csv(show_col_types = FALSE) %>% 
+    dplyr::filter(scenario %in% scenarios) %>%
+    factor_scenario() 
+  
+  if (type == "monthly") {
+    plt <- dat %>% 
+      dplyr::mutate(month = factor(month, levels = month.abb)) %>%
+      make_monthly_plot(TRUE, FALSE) 
+  } else {
+    plt <- make_timeseries_plot(dat, TRUE, FALSE)
+  }
+  return(plt)
+}
 
 ```
 # Historical Trends
@@ -34,41 +77,39 @@ Climate has changed over the last 50 years in `r params$location_name`. Here are
 
 ``` {r historical_plots, echo=FALSE, warning=FALSE, message=FALSE}
 #| label: fig-hist
-#| fig.width: 10
-#| fig.height: 15
+#| fig-cap: !expr glue::glue("Historical climate trends in {params$location_name}")
 
-    dat <- glue::glue(
-      "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{params$location}/{params$gridmet[[1]]}/"
-    ) %>% 
-      readr::read_csv() 
-    print(dat)
-    name <- "test"
-    
-    dat <- dat %>% 
-      dplyr::mutate(date = lubridate::floor_date(date, "year")) %>%
-      dplyr::group_by(date) %>% 
-      dplyr::summarise(
-        value = dplyr::if_else(
-          dplyr::first(variable %in% c("pr", "pet", "etr")), 
-          sum(value), 
-          mean(value)
-        ) 
-      ) 
-
-    
-   dat %>% 
-      ggplot(aes(x=date, y=value)) + 
-        geom_point() + 
-        geom_line() + 
-        geom_smooth(method = "lm") + 
-        theme_minimal() + 
-        labs(
-          x="Year", 
-          y=legend_title(input$historical_variable),
-          title = glue::glue("Trend in {name} Annual {legend_title(input$params$gridmet[[1]])}")
-        )
-
-  
+purrr::map(params$gridmet, function(x) {
+  wrangle_historical(params$location_id, params$location_name, x)  
+}) %>% cowplot::plot_grid(plotlist=., nrow=length(params$gridmet))
 ```
 
-My name is `r params$cmip`.
+
+# Climate Projections
+It is projected that climate in `r params$location_name` will change considerably by the end of the century, depending on the emissions scenario.
+
+## Timeseries of Projections
+Here is a timeseries of how climate is projected to change by 2100:
+
+``` {r future_timeseries, echo=FALSE, warning=FALSE, message=FALSE}
+#| label: fig-timeseries
+#| fig-cap: !expr glue::glue("Timeseries of projected changes in {params$location_name}")
+
+
+purrr::map(params$cmip, function(x) {
+  wrangle_future(params$location_id, x, "timeseries", params$scenarios)  
+}) %>% cowplot::plot_grid(plotlist=., nrow=length(params$cmip))
+```
+
+
+## Monthly Climate Projections
+There can be a large variability of how climate changes across the year. Below are plots of projected change in monthly conditions over the next century:
+
+``` {r future_boxplot, echo=FALSE, warning=FALSE, message=FALSE}
+#| label: fig-boxplot
+#| fig-cap: !expr glue::glue("Projected changes in monthly climate in {params$location_name}")
+
+purrr::map(params$cmip, function(x) {
+  wrangle_future(params$location_id, x, "monthly", params$scenarios)  
+}) %>% cowplot::plot_grid(plotlist=., nrow=length(params$cmip))
+```

@@ -13,8 +13,8 @@ rasters <- list.files("./data", pattern = ".tif", full.names = T) %>%
                   tools::file_path_sans_ext()) %>%
   tidyr::separate(base, c("variable", "scenario", "period"))
 
-legend_info <- readr::read_csv("./data/legend.csv")
-legend_gridmet <- readr::read_csv("./data/gridmet_legend.csv")
+legend_info <- readr::read_csv("./data/legend.csv", show_col_types = FALSE)
+legend_gridmet <- readr::read_csv("./data/gridmet_legend.csv", show_col_types = FALSE)
 
 pals <- function(x) {
   switch(

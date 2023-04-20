@@ -11,6 +11,7 @@ scenarios <- c(
   "SSP5-8.5" = "ssp585"
 )
 
+
 variables <- c(
   "Potential ET" = "penman",
   "Avg. Air Temperature" = "tas",
