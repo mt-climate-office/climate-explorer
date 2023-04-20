@@ -78,6 +78,8 @@ Climate has changed over the last 50 years in `r params$location_name`. Here are
 ``` {r historical_plots, echo=FALSE, warning=FALSE, message=FALSE}
 #| label: fig-hist
 #| fig-cap: !expr glue::glue("Historical climate trends in {params$location_name}")
+#| fig.width: 9
+#| fig.height: 14
 
 purrr::map(params$gridmet, function(x) {
   wrangle_historical(params$location_id, params$location_name, x)  
@@ -94,7 +96,8 @@ Here is a timeseries of how climate is projected to change by 2100:
 ``` {r future_timeseries, echo=FALSE, warning=FALSE, message=FALSE}
 #| label: fig-timeseries
 #| fig-cap: !expr glue::glue("Timeseries of projected changes in {params$location_name}")
-
+#| fig.width: 9
+#| fig.height: 14
 
 purrr::map(params$cmip, function(x) {
   wrangle_future(params$location_id, x, "timeseries", params$scenarios)  
@@ -108,6 +111,8 @@ There can be a large variability of how climate changes across the year. Below a
 ``` {r future_boxplot, echo=FALSE, warning=FALSE, message=FALSE}
 #| label: fig-boxplot
 #| fig-cap: !expr glue::glue("Projected changes in monthly climate in {params$location_name}")
+#| fig.width: 9
+#| fig.height: 14
 
 purrr::map(params$cmip, function(x) {
   wrangle_future(params$location_id, x, "monthly", params$scenarios)  
