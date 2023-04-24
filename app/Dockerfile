@@ -12,7 +12,6 @@ RUN apt update && \
 
 RUN curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb
 RUN gdebi --non-interactive quarto-linux-amd64.deb
-RUN quarto install tinytex
 
 RUN rm -rf /srv/shiny-server/*
 WORKDIR /srv/shiny-server/
@@ -41,6 +40,9 @@ RUN R -e "install.packages('purrr')"
 RUN R -e "install.packages('cowplot')"
 
 WORKDIR /home/app
+
+# Install tinytex after specifying workdir. 
+RUN quarto install tinytex
 
 COPY ./app/ .
 
