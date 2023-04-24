@@ -38,10 +38,12 @@ function(
 #* @param diff:bool Whether or not the plot should be a difference from normal. 
 #* @param us_units:bool Whether to use U.S. units or SI Units
 #* @param table_type:str Options include 'timeseries' to clean the data for timeseries
+#* @param scenarios:str A comma separated list of scenarios to include. Options include ssp126, ssp245, ssp370, ssp585
 #* analysis or 'monthly' to aggregate the data by month.
 #* @serializer csv
 function(
-    location, variable, diff=FALSE, us_units=TRUE, table_type=c("timeseries", "monthly")
+    location, variable, diff=FALSE, us_units=TRUE, 
+    table_type=c("timeseries", "monthly"), scenarios="ssp245,ssp370"
 ) {
   table_type = match.arg(table_type)
   
@@ -54,9 +56,12 @@ function(
     }
   )
   
+  scenarios = stringr::str_replace(scenarios, ",", "|")
+  scenarios = glue::glue("{scenarios}|historical")
+  
   dplyr::tbl(con, RPostgres::Id(schema = "future", table = "county")) %>% 
-    f(location=location, v=variable, us_units = us_units) %>% 
-    plumber::as_attachment(glue::glue("historical_{location}_{variable}_{table_type}.csv"))
+    f(location=location, v=variable, us_units = us_units, scenarios=scenarios) %>% 
+    plumber::as_attachment(glue::glue("future_{location}_{variable}_{table_type}.csv"))
   
 }
 

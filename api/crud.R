@@ -177,6 +177,7 @@ prep_for_timeseries <- function(dat, location, v, us_units=TRUE) {
   
   dat %>% 
     dplyr::filter(id == location, variable == v) %>% 
+    dplyr::filter(stringr::str_detect(scenario, scenarios)) %>% 
     dplyr::group_by(year=lubridate::year(date), scenario, model) %>% 
     dplyr::summarise(
       value = ifelse(v %in% c("pr", "penman", "hargreaves"), sum(value), mean(value)), 
@@ -251,7 +252,7 @@ make_timeseries_plot <- function(dat, us_units=TRUE, difference=FALSE) {
   return(plt)
 }
 
-prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
+prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T, scenarios) {
   
   loc <- dat %>% 
     dplyr::filter(id == location) %>% 
@@ -260,7 +261,8 @@ prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
     dplyr::pull(name)
   
   out <- dat %>% 
-    dplyr::filter(id == location, variable == v) %>% 
+    dplyr::filter(id == location, variable == v) %>%
+    dplyr::filter(stringr::str_detect(scenario, scenarios)) %>% 
     dplyr::collect() %>%
     dplyr::mutate(
       year = lubridate::year(date), 
