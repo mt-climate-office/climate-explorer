@@ -167,7 +167,7 @@ convert_units <- function(dat, variable, us_units) {
     } 
 }
 
-prep_for_timeseries <- function(dat, location, v, us_units=TRUE) {
+prep_for_timeseries <- function(dat, location, v, us_units=TRUE, scenarios) {
   
   loc <- dat %>% 
     dplyr::filter(id == location) %>% 
