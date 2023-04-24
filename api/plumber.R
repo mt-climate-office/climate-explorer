@@ -43,7 +43,7 @@ function(
 #* @serializer csv
 function(
     location, variable, diff=FALSE, us_units=TRUE, 
-    table_type=c("timeseries", "monthly"), scenarios="ssp245,ssp370"
+    table_type=c("timeseries", "monthly"), scenarios="ssp126,ssp245,ssp370,ssp585"
 ) {
   table_type = match.arg(table_type)
   
@@ -56,7 +56,7 @@ function(
     }
   )
   
-  scenarios = stringr::str_replace(scenarios, ",", "|")
+  scenarios = stringr::str_replace_all(scenarios, ",", "|")
   scenarios = glue::glue("{scenarios}|historical")
   
   dplyr::tbl(con, RPostgres::Id(schema = "future", table = "county")) %>% 
