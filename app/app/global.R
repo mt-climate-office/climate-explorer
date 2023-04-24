@@ -72,16 +72,6 @@ legend_title <- function(variable) {
 
 handle_raster_plotting_logic <- function(input) {
   
-  if (input$map_type) {
-    r <- glue::glue(
-      "https://data.climate.umt.edu/mca/cmip/derived/difference/{input$variable}_{input$scenario}_{input$reference}.tif"
-    )
-  } else {
-    r <- glue::glue(
-      "https://data.climate.umt.edu/mca/cmip/derived/{input$variable}_{input$scenario}_{input$reference}.tif"
-    )
-  }
-
   filt_val = ifelse(input$map_type, "diff", "raw")
   vals <- legend_info %>% 
     dplyr::filter(variable == input$variable,
@@ -106,12 +96,14 @@ handle_raster_plotting_logic <- function(input) {
       round()
   }
   return(list(
-    "r" = r,
     "mn" = mn,
     "mx" = mx,
     "pal" = pal, 
     "breaks" = breaks,
-    "labels" = labels
+    "labels" = labels,
+    "variable" = input$variable, 
+    "reference" = input$reference,
+    "type" = input$map_type
   ))
 }
 
@@ -146,8 +138,7 @@ gridmet_colors  = list(
 )
 
 gridmet_legend <- function(input) {
-  print(input$historical_variable)
-  print(input$historical_period)
+
   vals <- dplyr::filter(
     legend_gridmet, 
     variable == input$historical_variable,
@@ -170,6 +161,57 @@ gridmet_legend <- function(input) {
     "mx" = mx,
     "pal" = pal, 
     "breaks" = breaks,
-    "labels" = labels
+    "labels" = labels,
   ))
+}
+
+get_layers <- function(scenario, variable, reference, type) {
+  if (type) {
+    out <- glue::glue("https://data.climate.umt.edu/mca/cmip/derived/difference/{variable}_{scenario}_{reference}.tif")
+  } else {
+    out <- glue::glue("https://data.climate.umt.edu/mca/cmip/derived/{variable}_{scenario}_{reference}.tif")
+  }
+  return(out)
+}
+
+scenario_switch <- function(x) {
+  switch(
+    x, 
+    "ssp126" = "SSP1-2.6", 
+    "ssp245" = "SSP2-4.5", 
+    "ssp370" = "SSP3-7.0", 
+    "ssp585" = "SSP5-8.5"
+  )
+}
+
+add_layers <- function(leaf, scenario, info, with_legend = FALSE) {
+
+  leaf %>%
+    leafem::addGeotiff(
+      url = get_layers(scenario, info$variable, info$reference, info$type),
+      autozoom = FALSE,
+      colorOptions = leafem::colorOptions(
+        palette = info$pal,
+        breaks = seq(info$mn, info$mx, length.out=500),
+        domain = c(info$mn, info$mx)
+      ),
+      group = scenario_switch(scenario),
+      layerId = scenario_switch(scenario)
+    ) %>%
+    setView(lng = -107.5, lat = 47, zoom = 6) %>%
+    addLayersControl(
+      overlayGroups = c("Counties"), # , "HUCs"
+      baseGroups = c("SSP1-2.6", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5"),
+      options = layersControlOptions(
+        collapsed = FALSE,
+        position = "topleft"
+      )
+    ) %>%     
+      addLegend(
+        position="bottomleft",
+        layerId="colorLegend",
+        colors = info$pal(10),
+        labels = info$labels,
+        title = legend_title(info$variable)
+    )
 }

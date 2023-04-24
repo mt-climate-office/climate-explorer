@@ -17,7 +17,7 @@ function(input, output, session) {
       # addPolygons(data = hucs, fill = TRUE, color = "black", weight = 2, 
       #             popup = ~name, layerId = ~id, group = "HUCs") %>% 
       addLayersControl(
-        baseGroups = c("Counties"), # , "HUCs"
+        overlayGroups = c("Counties"), # , "HUCs"
         options = layersControlOptions(
           collapsed = FALSE,
           position = "topleft"
@@ -37,8 +37,11 @@ function(input, output, session) {
       stringr::str_split("_") %>% 
       unlist()
     
+    scenarios <- paste(input$scenario, collapse = ",")
+
     dat <- glue::glue(
-        "http://blm_api/data/future/{click[[2]]}/{input$variable}/?diff={input$map_type}&table_type={input$plot_type}"
+        "http://blm_api/data/future/{click[[2]]}/{input$variable}/?diff={input$map_type}&table_type={input$plot_type}&scenarios={scenarios}"
+        # "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/future/{click[[2]]}/{input$variable}/?diff={input$map_type}&table_type={input$plot_type}&scenarios={scenarios}"
       ) %>%
         readr::read_csv() %>% 
         factor_scenario() 
@@ -66,6 +69,8 @@ function(input, output, session) {
     
     dat <- glue::glue(
       "http://blm_api/data/historical/{click[[2]]}/{input$historical_variable}/"
+      # "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{click[[2]]}/{input$historical_variable}/"
+
     ) %>% 
       readr::read_csv() 
     
@@ -131,26 +136,14 @@ function(input, output, session) {
     
     info <- handle_raster_plotting_logic(input)
 
-    leafletProxy("map_future", data = counties) %>%
-      removeTiles(layerId = "geo") %>%
-      leafem::addGeotiff(
-        url = info$r,
-        autozoom = FALSE,
-        colorOptions = leafem::colorOptions(
-          palette = info$pal,
-          breaks = seq(info$mn, info$mx, length.out=500),
-          domain = c(info$mn, info$mx)
-        ),
-        layerId = "geo"
+    leafletProxy("map_future", data = counties) %>% 
+      removeTiles(
+        layerId = c("SSP1-2.6", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5")
       ) %>%
-      addLegend(
-        position="bottomleft",
-        layerId="colorLegend",
-        colors = info$pal(10),
-        labels = info$labels,
-        title = legend_title(input$variable)
-      ) %>%
-      setView(lng = -107.5, lat = 47, zoom = 6)
+      add_layers("ssp126", info) %>%
+      add_layers("ssp245", info) %>% 
+      add_layers("ssp370", info, TRUE) %>% 
+      add_layers("ssp585", info, with_legend = TRUE)
   })
   
   historical_trigger <- reactive({
@@ -205,6 +198,7 @@ function(input, output, session) {
       glue::glue('{click[[2]]}_climReport_{stringr::str_replace_all(Sys.Date(), "-", "")}.pdf')
     },
     content = function(file) {
+      showModal(modalDialog("Generating report, please wait. This could take a minute or two!", footer=NULL))
       click <- input$map_report_shape_click 
 
       click <- click$id %>% 
@@ -227,6 +221,7 @@ function(input, output, session) {
       )
       
       file.copy("qmd_output.pdf", file)
+      on.exit(removeModal())
       
     }
   )

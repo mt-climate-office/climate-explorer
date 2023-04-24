@@ -36,7 +36,7 @@ future_panel <- absolutePanel(
   h2("CMIP6 Projections"),
   
   selectInput("variable", "Variable", variables),
-  selectInput("scenario", "Scenario", scenarios),
+  selectInput("scenario", "Scenario", scenarios, multiple = TRUE, selected = c("ssp245", "ssp370")),
   selectInput("plot_type", "Plot Type", plot_types),
   selectInput("reference", "Time Period", reference),
   radioButtons(
@@ -93,5 +93,7 @@ report_panel <- absolutePanel(
   selectInput("report_cmip", "Future Variables", variables, multiple=TRUE),
   selectInput("report_scenarios", "Emission Scenarios", scenarios, multiple=TRUE, selected = c("ssp245", "ssp370")),
   span(h4("Selected Location: "), textOutput("report_text")),
-  downloadButton(outputId = "report", label = "Generate Report:"),
+  downloadButton(outputId = "report", label = "Generate Report"),
+  br(),
+  textOutput("report_loading")
 )

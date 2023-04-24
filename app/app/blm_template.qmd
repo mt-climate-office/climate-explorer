@@ -23,6 +23,7 @@ source("./global.R")
 wrangle_historical <- function(id, name, element) {
   dat <- glue::glue(
     "http://blm_api/data/historical/{id}/{element}/"
+    # "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{id}/{element}/"
   ) %>% 
     readr::read_csv(show_col_types = FALSE) 
 
@@ -53,12 +54,12 @@ wrangle_historical <- function(id, name, element) {
 
 wrangle_future <- function(id, variable, type, scenarios) {
   
-  scenarios = lapply(c("hist", scenarios), scenario_code_to_long)
+  scenarios = paste(scenarios, collapse = ",")
   dat <- glue::glue(
-    "http://blm_api/data/future/{id}/{variable}/?table_type={type}"
+    "http://blm_api/data/future/{id}/{variable}/?table_type={type}&scenarios={scenarios}"
+    # "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/future/{id}/{variable}/?table_type={type}"
   ) %>%
     readr::read_csv(show_col_types = FALSE) %>% 
-    dplyr::filter(scenario %in% scenarios) %>%
     factor_scenario() 
   
   if (type == "monthly") {
