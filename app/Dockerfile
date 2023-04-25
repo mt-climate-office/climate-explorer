@@ -43,7 +43,7 @@ WORKDIR /home/app
 
 # Install tinytex after specifying workdir. 
 RUN quarto install tinytex
-RUN ln -s /root/bin/* /usr/local/bin
+RUN ln -s /root/bin/*/ /usr/local/bin
 RUN /root/.TinyTeX/bin/*/tlmgr path add
 
 COPY ./app/ .
