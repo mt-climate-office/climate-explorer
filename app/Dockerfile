@@ -41,11 +41,6 @@ RUN R -e "install.packages('cowplot')"
 
 WORKDIR /home/app
 
-# Install tinytex after specifying workdir. 
-USER app
-RUN quarto install tool tinytex
-USER root
-
 COPY ./app/ .
 
 RUN echo "local(options(shiny.port = 3838, shiny.host = '0.0.0.0'))" > /usr/local/lib/R/etc/Rprofile.site
@@ -54,6 +49,9 @@ RUN addgroup --system app && adduser --system --ingroup app app
 
 RUN chown app:app -R /home/app
 USER app
+
+# Install tinytex after specifying workdir. 
+RUN quarto install tool tinytex
 
 # Open Port 3838 of the container
 EXPOSE 3838
