@@ -42,8 +42,9 @@ RUN R -e "install.packages('cowplot')"
 WORKDIR /home/app
 
 # Install tinytex after specifying workdir. 
-RUN wget -qO- "https://yihui.org/tinytex/install-unx.sh" | sh -s - --admin --no-path
-RUN /root/.TinyTeX/bin/*/tlmgr path add
+RUN quarto install tinytex
+RUN copy /root/bin/* /usr/local/bin
+
 
 COPY ./app/ .
 
