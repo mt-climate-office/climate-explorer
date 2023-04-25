@@ -42,9 +42,7 @@ RUN R -e "install.packages('cowplot')"
 WORKDIR /home/app
 
 # Install tinytex after specifying workdir. 
-RUN quarto install tinytex
-RUN copy /root/bin/* /usr/local/bin
-
+RUN quarto install tool tinytex --no-prompt --update-path
 
 COPY ./app/ .
 
