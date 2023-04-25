@@ -16,6 +16,12 @@ rasters <- list.files("./data", pattern = ".tif", full.names = T) %>%
 legend_info <- readr::read_csv("./data/legend.csv", show_col_types = FALSE)
 legend_gridmet <- readr::read_csv("./data/gridmet_legend.csv", show_col_types = FALSE)
 
+API_URL <- ifelse(
+  Sys.getenv("IN_DOCKER") == "",
+  "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/",
+  "http://blm_api/"
+)
+
 pals <- function(x) {
   switch(
     x, 
@@ -48,25 +54,47 @@ change_units <- function(value, variable) {
   )
 }
 
-legend_title <- function(variable) {
+legend_title <- function(variable, units=TRUE) {
   switch(
     variable,
-    "pr" = "Precipitation [in]",
-    "penman" = "Reference ET [in]",
-    "sfcWind" = "Wind Speed [mph]",
-    "tas" = "Temperature [degF]",
-    "tasmin" = "Temperature [degF]",
-    "tasmax" = "Temperature [degF]",
-    "tmmx" = "Temperature [degF]",
-    "tmmn" = "Temperature [degF]",
-    "etr" = "Reference ET [in]",
-    "pet" = "Reference ET [in]",
-    "vs" = "Wind Speed [mph]",
-    "vpd" = "Vapor Pressure Deficit [mbar]",
-    "rmax" = "Relative Humidiy [%]",
-    "rmin" = "Relative Humidity [%]",
-    "sph" = "Speciiy Humidity [%]",
-    "erc" = "Energy Release"
+    "pr" = ifelse(units, "Precipitation [in]", "Precipitation"),
+    "penman" = ifelse(units, "Reference ET [in]", "Reference ET"),
+    "sfcWind" = ifelse(units, "Wind Speed [mph]", "Wind Speed"),
+    "tas" = ifelse(units, "Temperature [degF]", "Temperature"),
+    "tasmin" = ifelse(units, "Min. Temperature [degF]", "Min. Temperature"),
+    "tasmax" = ifelse(units, "Max. Temperature [degF]", "Max. Temperature"),
+    "tmmx" = ifelse(units, "Max. Temperature [degF]", "Max. Temperature"),
+    "tmmn" = ifelse(units, "Min. Temperature [degF]", "Min. Temperature"),
+    "etr" = ifelse(units, "Reference ET [in]", "Reference ET"),
+    "pet" = ifelse(units, "Reference ET [in]", "Reference ET"),
+    "vs" = ifelse(units, "Wind Speed [mph]", "Wind Speed"),
+    "vpd" = ifelse(units, "Vapor Pressure Deficit [mbar]", "Vapor Pressure Deficit"),
+    "rmax" = ifelse(units, "Max. Relative Humidiy [%]", "Max. Relative Humidiy"),
+    "rmin" = ifelse(units, "Min. Relative Humidity [%]", "Min. Relative Humidity"),
+    "sph" = ifelse(units, "Specific Humidity [%]", "Specific Humidity"),
+    "erc" = ifelse(units, "Energy Release","Energy Release")
+  )
+}
+
+text_units <- function(variable) {
+  switch(
+    variable,
+    "pr" = "inches",
+    "penman" =  "inches",
+    "sfcWind" = "miles per hour",
+    "tas" = "degF",
+    "tasmin" = "degF",
+    "tasmax" = "degF",
+    "tmmx" = "degF",
+    "tmmn" = "degF",
+    "etr" =  "inches",
+    "pet" =  "inches",
+    "vs" = "miles per hour",
+    "vpd" = "milibars",
+    "rmax" = "percent",
+    "rmin" = "percent",
+    "sph" = "percent",
+    "erc" = ""
   )
 }
 
@@ -91,9 +119,12 @@ handle_raster_plotting_logic <- function(input) {
     mx <- ceiling(vals$mx)
     pal <- pals(input$variable)
     breaks = seq(mn, mx, length.out=10)
-    labels <- round(seq(mn, mx, length.out=10)) %>%
-      change_units(input$variable) %>% 
-      round()
+    labels <- breaks %>%
+      change_units(input$variable) 
+    round_val = ifelse(
+      max(labels) - min(labels) < 10, 2, 0
+    )
+    labels <- round(labels, round_val)
   }
   return(list(
     "mn" = mn,
@@ -144,24 +175,27 @@ gridmet_legend <- function(input) {
     variable == input$historical_variable,
     time == tolower(input$historical_period)
   )
-  print(vals)
   mn <- floor(vals$mn)
   mx <- ceiling(vals$mx)
-  pal <- RColorBrewer::brewer.pal(10, gridmet_colors[[input$historical_variable]]) %>% 
+  pal <- RColorBrewer::brewer.pal(9, gridmet_colors[[input$historical_variable]]) %>% 
     rev() %>% 
     colorRampPalette()
-  breaks = seq(mn, mx, length.out=10)
-  labels <- round(breaks) %>% 
-    change_units(input$historical_variable) %>% 
-    round()
   
-
+  breaks = seq(mn, mx, length.out=10)
+  labels <- breaks %>% 
+    change_units(input$historical_variable) 
+  
+  round_val = ifelse(
+    max(labels) - min(labels) < 10, 2, 0
+  )
+  labels <- round(labels, round_val)
+  
   return(list(
     "mn" = mn,
     "mx" = mx,
     "pal" = pal, 
     "breaks" = breaks,
-    "labels" = labels,
+    "labels" = labels
   ))
 }
 

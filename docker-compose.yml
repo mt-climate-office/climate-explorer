@@ -22,6 +22,8 @@ services:
 
     climate:
         container_name: climate
+        environment:
+            - IN_DOCKER=TRUE
         build: ./app
         restart: always
         env_file:

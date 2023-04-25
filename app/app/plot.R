@@ -209,7 +209,8 @@ make_timeseries_plot <- function(dat, us_units=TRUE, difference=FALSE) {
       legend.position = "bottom",
       legend.key.width = unit(0.25,"in"),
       axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0)),
-      plot.margin=unit(c(0.1,0.2,0.1,0.1), "in")
+      plot.margin=unit(c(0.1,0.2,0.1,0.1), "in"),
+      plot.title = element_text(hjust=0.5)
     ) +
     ggplot2::guides(colour = guide_legend(ncol = 2)) +
     coord_cartesian(clip = "off")
@@ -276,7 +277,6 @@ prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
 }
 
 make_monthly_plot <- function(dat, us_units=TRUE, difference=FALSE) {
-
   
   titles <- build_titles(dat$location[[1]], dat$variable[[1]], us_units, monthly = T)
   
@@ -316,7 +316,8 @@ make_monthly_plot <- function(dat, us_units=TRUE, difference=FALSE) {
       legend.position = "bottom",
       legend.key.width = unit(0.25,"in"),
       axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0)),
-      plot.margin=unit(c(0.1,0.2,0.1,0.1), "in")
+      plot.margin=unit(c(0.1,0.2,0.1,0.1), "in"),
+      plot.title = element_text(hjust=0.5)
     ) +
     ggplot2::guides(colour = guide_legend(ncol = 2)) +
     coord_cartesian(clip = "off")
@@ -339,4 +340,56 @@ placeholder_graph <- function() {
       axis.text = element_blank(),
       axis.title = element_blank()
     )
+}
+
+make_historical_plot <- function(dat, variable, period="Annual") {
+  name <- dat$name[[1]]
+  
+  if (period != "Annual") {
+    dat <- dat %>% 
+      dplyr::filter(
+        lubridate::month(date) == which(tolower(month.abb) == tolower(period))
+      )
+  } else {
+    dat <- dat %>% 
+      dplyr::mutate(date = lubridate::floor_date(date, "year")) %>%
+      dplyr::group_by(date) %>% 
+      dplyr::summarise(
+        value = dplyr::if_else(
+          dplyr::first(variable %in% c("pr", "pet", "etr")), 
+          sum(value), 
+          mean(value)
+        ) 
+      ) 
+  }
+  
+  p_value <- lm(dat$value ~ dat$date) %>% 
+    summary() %>% 
+    purrr::pluck("coefficients") %>% 
+    purrr::pluck(-1)
+  
+  plt <- dat %>% 
+    ggplot(aes(x=date, y=value)) + 
+    geom_point() + 
+    geom_line() + 
+    theme_minimal() + 
+    labs(
+      x="Year", 
+      y=legend_title(variable),
+      title = glue::glue("Trend in {name} {stringr::str_to_title(period)} {legend_title(variable)}"),
+    ) + 
+    theme(
+      plot.title = element_text(hjust=0.5)
+    )
+  
+  if (p_value <= 0.05) {
+    plt <- plt +
+      geom_smooth(formula = y ~ x, method = "lm") + 
+      labs(subtitle = "Trend is Statistically Significant") + 
+      theme(
+        plot.subtitle = element_text(face="bold", hjust=0.5)
+      )
+  }
+  
+  return(plt)
 }

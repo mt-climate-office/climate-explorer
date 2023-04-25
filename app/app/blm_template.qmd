@@ -8,11 +8,11 @@ format:
       - left=20mm
       - right=20mm
 params:
-  scenarios: NA
-  gridmet: NA
-  cmip: NA
-  location_id: NA
-  location_name: NA
+  scenarios:  !expr c("ssp245", "ssp370")
+  gridmet: !expr c("tmmx", "tmmn")
+  cmip: !expr c("tas", "tasmax")
+  location_id: "30001"
+  location_name: "Test Location" 
 ---
 
 # Climate Report for `r params$location_name`
@@ -20,48 +20,89 @@ params:
 source("./plot.R")
 source("./global.R")
 
-wrangle_historical <- function(id, name, element) {
-  dat <- glue::glue(
-    "http://blm_api/data/historical/{id}/{element}/"
-    # "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{id}/{element}/"
+get_historical <- function(id, element) {
+  glue::glue(
+    "{API_URL}/data/historical/{id}/{element}/"
   ) %>% 
     readr::read_csv(show_col_types = FALSE) 
-
-  dat <- dat %>% 
-    dplyr::mutate(date = lubridate::floor_date(date, "year")) %>%
-    dplyr::group_by(date) %>% 
-    dplyr::summarise(
-      value = dplyr::if_else(
-        dplyr::first(variable %in% c("pr", "pet", "etr")), 
-        sum(value), 
-        mean(value)
-      ) 
-    ) 
-  
-  
-  dat %>% 
-    ggplot(aes(x=date, y=value)) + 
-    geom_point() + 
-    geom_line() + 
-    geom_smooth(method = "lm") + 
-    theme_minimal() + 
-    labs(
-      x="Year", 
-      y=legend_title(element),
-      title = glue::glue("Trend in {name} Annual {legend_title(element)}")
-    )
 }
 
-wrangle_future <- function(id, variable, type, scenarios) {
-  
+get_future <- function(id, variable, type, scenarios){
   scenarios = paste(scenarios, collapse = ",")
   dat <- glue::glue(
-    "http://blm_api/data/future/{id}/{variable}/?table_type={type}&scenarios={scenarios}"
-    # "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/future/{id}/{variable}/?table_type={type}"
+    "{API_URL}/data/future/{id}/{variable}/"
   ) %>%
-    readr::read_csv(show_col_types = FALSE) %>% 
+    httr::GET(
+      query = list(
+        table_type = type,
+        scenarios = scenarios
+      )
+    ) %>% 
+    httr::content(show_col_types = FALSE) %>%
     factor_scenario() 
+}
+
+calc_historical_pvalue <- function(timescale, dat) {
+    if (timescale == "Annual") {
+      dat <- dat %>% 
+        dplyr::mutate(date = lubridate::floor_date(date, "year")) %>%
+        dplyr::group_by(date) %>% 
+        dplyr::summarise(
+          value = dplyr::if_else(
+            dplyr::first(variable %in% c("pr", "pet", "etr")), 
+            sum(value), 
+            mean(value)
+          ) 
+        ) 
+    } else {
+      dat <- dat %>% 
+        dplyr::filter(which(month.name == timescale) == lubridate::month(date)) 
+    }
+
+   fit <- lm(dat$value ~ dat$date) %>% 
+      summary() %>%
+      purrr::pluck("coefficients") 
+    
+   return(tibble::tibble(
+     p_value = purrr::pluck(fit, -1),
+     slope = purrr::pluck(fit, 2)
+   ) %>% 
+     dplyr::mutate(
+       p_value = p_value <=0.05,
+       slope = slope * 10,
+       timescale = timescale
+     ))
+}
+
+historical_interpretive_text <- function(dat) {
+
+  p_values <- c("Annual", month.name) %>% 
+    magrittr::set_names(c("Annual", month.name)) %>% 
+    purrr::map_df(calc_historical_pvalue, dat=dat)
   
+  txt = "Between 1979 and 2020, there has been"
+  if (!dplyr::filter(p_values, timescale == "Annual") %$% p_value) {
+    txt = glue::glue("{txt} no statistically significant change in {tolower(legend_title(dat$variable[[1]], FALSE))} in {dat$name[[1]]} at an annual timescale.")
+  } else {
+    change <- dplyr::filter(p_values, timescale == "Annual") %$%
+      round(slope, 4)
+    txt = glue::glue("{txt} a statistically significant change in {tolower(legend_title(dat$variable[[1]], FALSE))} of {change} {text_units(dat$variable[[1]])} per decade at an annual timescale.")
+  }
+  
+  filt <- p_values %>% 
+    dplyr::filter(p_value) %>%
+    dplyr::rowwise() %>% 
+    dplyr::mutate(text = glue::glue("{timescale} ({round(slope,4)} {text_units(dat$variable[[1]])} per decade)")) %>% 
+    dplyr::filter(timescale != "Annual")
+  
+  if (nrow(filt) == 0) {
+    txt <- glue::glue("{txt} When looking at monthly data, there has also been no significant trend in {tolower(legend_title(dat$variable[[1]], FALSE))} across the same time period.")
+  } else {
+    glue::glue("{txt} When looking at monthly data, there have been significant changes in {tolower(legend_title(dat$variable[[1]], FALSE))} in {knitr::combine_words(filt$text)}")
+  }
+}
+
+plot_future <- function(dat, type) {
   if (type == "monthly") {
     plt <- dat %>% 
       dplyr::mutate(month = factor(month, levels = month.abb)) %>%
@@ -72,19 +113,56 @@ wrangle_future <- function(id, variable, type, scenarios) {
   return(plt)
 }
 
+historical_df <- tibble::tibble(
+  variable = params$gridmet
+) %>% 
+  dplyr::rowwise() %>% 
+  dplyr::mutate(
+    df = list(get_historical(params$location_id, variable)),
+    plots = list(make_historical_plot(df, variable, "Annual"))
+  )
+
+
+future_df <- tibble::tibble(
+  variable = params$cmip
+) %>% 
+  dplyr::rowwise() %>% 
+  dplyr::mutate(
+    monthly = list(get_future(params$location_id, variable, "monthly", params$scenarios)),
+    timeseries = list(get_future(params$location_id, variable, "timeseries", params$scenarios))
+  ) %>% 
+  tidyr::pivot_longer(
+    c("monthly", "timeseries"),
+    names_to = "type",
+    values_to = "df"
+  ) %>% 
+  dplyr::rowwise() %>% 
+  dplyr::mutate(
+    plot = list(plot_future(df, type))
+  )
 ```
 # Historical Trends
 Climate has changed over the last 50 years in `r params$location_name`. Here are some figures to prove it...
 
-``` {r historical_plots, echo=FALSE, warning=FALSE, message=FALSE}
-#| label: fig-hist
-#| fig-cap: !expr glue::glue("Historical climate trends in {params$location_name}")
-#| fig.width: 9
-#| fig.height: 14
+``` {r}
+#| output: asis
 
-purrr::map(params$gridmet, function(x) {
-  wrangle_historical(params$location_id, params$location_name, x)  
-}) %>% cowplot::plot_grid(plotlist=., nrow=length(params$gridmet))
+res <- purrr::pmap_chr(historical_df, \(variable, df, plots) { 
+  knitr::knit_child(text = c(
+    "## Historical Trends in `r variable`",
+    "",
+    "`r historical_interpretive_text(df)`",
+    "",
+    "```{r}",
+    "#| label: fig-hist",
+    "#| fig-cap: !expr glue::glue('Historical climate trends in {variable}')",
+    "#| fig.width: 9",
+    "#| fig.height: 14",
+    "plots",
+    "```",
+    ""), quiet = TRUE)
+})
+cat(res, sep = "\n")
 ```
 
 

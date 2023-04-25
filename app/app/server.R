@@ -3,6 +3,7 @@ library(leafem)
 library(ggplot2)
 source("./plot.R")
 
+
 function(input, output, session) {
 
   ## Interactive Map ###########################################
@@ -28,7 +29,6 @@ function(input, output, session) {
 
   output$outPlot <- renderPlot({
     click <- input$map_future_shape_click 
-    
     if (is.null(click)) {
       return(placeholder_graph())
     }
@@ -40,10 +40,16 @@ function(input, output, session) {
     scenarios <- paste(input$scenario, collapse = ",")
 
     dat <- glue::glue(
-        "http://blm_api/data/future/{click[[2]]}/{input$variable}/?diff={input$map_type}&table_type={input$plot_type}&scenarios={scenarios}"
-        # "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/future/{click[[2]]}/{input$variable}/?diff={input$map_type}&table_type={input$plot_type}&scenarios={scenarios}"
+        "{API_URL}/data/future/{click[[2]]}/{input$variable}/"
       ) %>%
-        readr::read_csv() %>% 
+        httr::GET(
+          query = list(
+            diff = input$map_type,
+            table_type = input$plot_type,
+            scenarios = scenarios
+          )
+        ) %>%
+        httr::content(show_col_types = FALSE) %>% 
         factor_scenario() 
 
     if (input$plot_type == "monthly") {
@@ -68,44 +74,12 @@ function(input, output, session) {
       unlist()
     
     dat <- glue::glue(
-      "http://blm_api/data/historical/{click[[2]]}/{input$historical_variable}/"
-      # "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{click[[2]]}/{input$historical_variable}/"
+      "{API_URL}/data/historical/{click[[2]]}/{input$historical_variable}/"
 
     ) %>% 
-      readr::read_csv() 
+      readr::read_csv(show_col_types = FALSE) 
     
-    name <- dat$name[[1]]
-    
-    if (input$historical_period != "Annual") {
-      dat <- dat %>% 
-        dplyr::filter(
-          lubridate::month(date) == which(tolower(month.abb) == tolower(input$historical_period))
-        )
-    } else {
-      dat <- dat %>% 
-        dplyr::mutate(date = lubridate::floor_date(date, "year")) %>%
-        dplyr::group_by(date) %>% 
-        dplyr::summarise(
-          value = dplyr::if_else(
-            dplyr::first(variable %in% c("pr", "pet", "etr")), 
-            sum(value), 
-            mean(value)
-          ) 
-        ) 
-    }
-    
-    plt <- dat %>% 
-      ggplot(aes(x=date, y=value)) + 
-        geom_point() + 
-        geom_line() + 
-        geom_smooth(method = "lm") + 
-        theme_minimal() + 
-        labs(
-          x="Year", 
-          y=legend_title(input$historical_variable),
-          title = glue::glue("Trend in {name} {tools::toTitleCase(input$historical_period)} {legend_title(input$historical_variable)}")
-        )
-    
+    plt <- make_historical_plot(dat, input$historical_variable, input$historical_period)
     return(plt)
   })
 
@@ -146,14 +120,12 @@ function(input, output, session) {
       add_layers("ssp585", info, with_legend = TRUE)
   })
   
-  historical_trigger <- reactive({
-    list(input$historical_variable, input$historical_period)
-  })
-  
-  observeEvent(ignoreInit = TRUE, historical_trigger(), {
-
+  observe({
+    # Add this here so it is triggered when the tab switches. 
+    input$nav
     url = glue::glue("https://data.climate.umt.edu/mt-normals/cog/{input$historical_variable}/{tolower(input$historical_period)}_mean.tif")
     info <- gridmet_legend(input)
+
     leafletProxy("map_historical", data = counties) %>%
       removeTiles(layerId = "geo") %>%
       leafem::addGeotiff(
