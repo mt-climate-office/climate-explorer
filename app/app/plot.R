@@ -137,38 +137,6 @@ convert_units <- function(dat, variable, us_units) {
     } 
 }
 
-prep_for_timeseries <- function(dat, location, v, us_units=TRUE) {
-  
-  loc <- dat %>% 
-    dplyr::filter(id == location) %>% 
-    head(1) %>% 
-    dplyr::collect() %>% 
-    dplyr::pull(name)
-  
-  dat %>% 
-    dplyr::filter(id == location, variable == v) %>% 
-    dplyr::group_by(year=lubridate::year(date), scenario, model) %>% 
-    dplyr::summarise(
-      value = ifelse(v %in% c("pr", "penman", "hargreaves"), sum(value), mean(value)), 
-      .groups = "drop"
-    ) %>% 
-    dplyr::collect() %>%
-    convert_units(v, TRUE) %>%
-    dplyr::group_by(year, scenario) %>% 
-    dplyr::summarise(
-      upper = quantile(value, 0.9) %>% as.numeric(),
-      lower = quantile(value, 0.1) %>% as.numeric(),
-      value = median(value),
-      .groups = "drop"
-    ) %>% 
-    factor_scenario() %>%
-    dplyr::mutate(
-      location = loc, 
-      variable = v
-    )
-  
-}
-
 make_timeseries_plot <- function(dat, us_units=TRUE, difference=FALSE) {
 
   if (difference) {
@@ -222,60 +190,6 @@ make_timeseries_plot <- function(dat, us_units=TRUE, difference=FALSE) {
   return(plt)
 }
 
-prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T) {
-  
-  loc <- dat %>% 
-    dplyr::filter(id == location) %>% 
-    head(1) %>% 
-    dplyr::collect() %>% 
-    dplyr::pull(name)
-  
-  out <- dat %>% 
-    dplyr::filter(id == location, variable == v) %>% 
-    dplyr::collect() %>%
-    dplyr::mutate(
-      year = lubridate::year(date), 
-      month = month.abb[lubridate::month(date)],
-      grp = dplyr::case_when(
-        year %in% 1991:2020 ~ "Reference Period (1991-2020)", 
-        year %in% 2040:2069 ~ "Mid Century (2040-2069)",
-        year %in% 2970:2099 ~ "End-of-Century (2070-2099)"
-      ), 
-      scenario = ifelse(year >= 2015 & year <= 2020, "historical", scenario)
-    )  %>% 
-    dplyr::filter(!is.na(grp)) %>% 
-    convert_units(v, us_units) %>% 
-    dplyr::group_by(scenario, month, grp) %>% 
-    dplyr::summarise(
-      upper = quantile(value, 0.9) %>% as.numeric(),
-      lower = quantile(value, 0.1) %>% as.numeric(),
-      value = median(value),
-      .groups = "drop"
-    ) 
-  
-  filt <- out %>% 
-    dplyr::filter(scenario == "historical") 
-  
-  dplyr::bind_rows(
-    dplyr::mutate(filt, grp = "Mid Century (2040-2069)"),
-    dplyr::mutate(filt, grp = "End-of-Century (2070-2099)"),
-    dplyr::filter(out, scenario != "historical")
-  ) %>% 
-    dplyr::mutate(
-      month = factor(month, levels = month.abb),
-      grp = factor(grp, levels = c(
-        "Reference Period (1991-2020)",
-        "Mid Century (2040-2069)",
-        "End-of-Century (2070-2099)")
-      )
-    ) %>% 
-    factor_scenario() %>% 
-    dplyr::mutate(
-      location = loc, 
-      variable = v
-    )
-}
-
 make_monthly_plot <- function(dat, us_units=TRUE, difference=FALSE) {
   
   titles <- build_titles(dat$location[[1]], dat$variable[[1]], us_units, monthly = T)
@@ -299,6 +213,7 @@ make_monthly_plot <- function(dat, us_units=TRUE, difference=FALSE) {
   }
   
   plt <- dat %>%
+    dplyr::mutate(grp = stringr::str_replace(grp, "\\(", "\n(")) %>%
     ggplot(aes(x=month, color=scenario)) + 
     geom_pointrange(aes(y=value, ymin=lower, ymax=upper), position = position_dodge(width=0.25)) + 
     geom_line(aes(y=value, group=scenario)) +

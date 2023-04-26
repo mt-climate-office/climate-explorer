@@ -7,11 +7,12 @@ format:
       - bottom=10mm
       - left=10mm
       - right=10mm
+    number-sections: true
 params:
   scenarios:  !expr c("ssp245", "ssp370")
-  gridmet: !expr c("tmmx", "tmmn")
+  gridmet: !expr c("tmmx", "tmmn", "vs")
   cmip: !expr c("tas", "tasmax")
-  location_id: "30001"
+  location_id: "30063"
   location_name: "Test Location" 
 ---
 
@@ -53,13 +54,13 @@ calc_historical_pvalue <- function(timescale, dat) {
             sum(value), 
             mean(value)
           ) 
-        ) 
+        )
     } else {
       dat <- dat %>% 
         dplyr::filter(which(month.name == timescale) == lubridate::month(date)) 
     }
 
-   fit <- lm(dat$value ~ dat$date) %>% 
+   fit <- lm(dat$value ~ lubridate::year(dat$date)) %>% 
       summary() %>%
       purrr::pluck("coefficients") 
     
@@ -69,7 +70,7 @@ calc_historical_pvalue <- function(timescale, dat) {
    ) %>% 
      dplyr::mutate(
        p_value = p_value <=0.05,
-       slope = slope * 10,
+       slope = round(slope * 10, 2),
        timescale = timescale
      ))
 }
@@ -143,7 +144,8 @@ future_monthly_table <- function(dat) {
           "Mid Century (2040-2069)" = 12,
           "End-of-Century (2070-2099)" = 12
         )
-      )
+      ) %>% 
+      kableExtra::kable_styling(font_size = 8)
 }
 
 future_monthly_text <- function(dat) {
@@ -213,7 +215,7 @@ future_timeseries_text <- function(dat) {
       scenario = stringr::str_split(scenario, "\n") %>% 
                     unlist() %>% 
                     purrr::pluck(1),
-      txt = glue::glue("under the {tolower(scenario)} emissions scenario, {tolower(legend_title(dat$variable[[1]]))} will {ifelse(slope > 0, 'increase', 'decrease')} at a rate of {round(slope, 2)} {text_units(dat$variable[[1]])} per decade")
+      txt = glue::glue("under the {tolower(scenario)} emissions scenario, {tolower(legend_title(dat$variable[[1]], FALSE))} will {ifelse(slope > 0, 'increase', 'decrease')} at a rate of {round(slope, 2)} {text_units(dat$variable[[1]])} per decade")
     )
   
   txt = "Between 1950 and 2099, it is projected that"
@@ -223,7 +225,7 @@ future_timeseries_text <- function(dat) {
     txt = glue::glue("{txt} {knitr::combine_words(p_vals$txt)}.")
   }
   
-  txt = glue::glue("{txt} Below, a timeseries plot shows projected changes in  {tolower(legend_title(dat$variable[[1]]))} under these different emission scenarios.")
+  txt = glue::glue("{txt} Below, a timeseries plot shows projected changes in  {tolower(legend_title(dat$variable[[1]], FALSE))} under these different emission scenarios.")
   return(txt)
 }
 
@@ -281,9 +283,10 @@ res <- purrr::pmap_chr(historical_df, \(variable, df, plots) {
     "",
     "```{r}",
     "#| echo: false",
+    "#| fig-cap: !expr stringr::str_to_title(glue::glue('Historical annual {legend_title(variable, FALSE)} trends across {params$location_name}'))",
     "plots",
     "```",
-    ""), envir = environment(), quiet = TRUE)
+    "\\pagebreak"), envir = environment(), quiet = TRUE)
 })
 cat(res, sep = "\n")
 ```
@@ -304,8 +307,11 @@ res <- purrr::pmap_chr(
     "",
     "```{r}",
     "#| echo: false",
+    "#| fig-cap: !expr stringr::str_to_title(glue::glue('Projected timeseries of annual {legend_title(variable, FALSE)} in {params$location_name}'))",
     "plot_timeseries",
     "```",
+    "",
+    "\\pagebreak",
     "",
     "## Projected Monthly Changes in `r legend_title(variable, FALSE)` in `r params$location_name`",
     "",
@@ -313,17 +319,19 @@ res <- purrr::pmap_chr(
     "",
     "```{r}",
     "#| echo: false",
-    "#| tbl-cap: !expr glue::glue('Projected monthly {legend_title(variable, FALSE)} changes in {params$location_name}')",
+    "#| tbl-cap: !expr stringr::str_to_title(glue::glue('Projected monthly {legend_title(variable, FALSE)} changes in {params$location_name}'))",
     "future_monthly_table(df_monthly)",
     "```",
     "",
     "```{r}",
     "#| echo: false",
-    "#| fig-width: 7",
-    "#| fig-height: 6.5",
+    "#| fig-width: 5",
+    "#| fig-height: 4.5",
+    "#| fig-cap: !expr stringr::str_to_title(glue::glue('Projected monthly {legend_title(variable, FALSE)} changes in {params$location_name}'))",
     "plot_monthly",
     "```",
-    ""), envir = environment(), quiet = TRUE)
+    "",
+    "\\pagebreak"), envir = environment(), quiet = TRUE)
 })
 cat(res, sep = "\n")
 ```
