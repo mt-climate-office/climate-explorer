@@ -3,10 +3,10 @@ format:
   pdf: 
     output-file: "qmd_output.pdf"
     geometry: 
-      - top=20mm
-      - bottom=20mm
-      - left=20mm
-      - right=20mm
+      - top=10mm
+      - bottom=10mm
+      - left=10mm
+      - right=10mm
 params:
   scenarios:  !expr c("ssp245", "ssp370")
   gridmet: !expr c("tmmx", "tmmn")
@@ -122,6 +122,9 @@ future_monthly_table <- function(dat) {
       )
     
     dat %>% 
+      dplyr::mutate(
+        value = round(value, 2) 
+      ) %>% 
       dplyr::select(
         Scenario = scenario,
         Month = month,
@@ -165,14 +168,15 @@ future_monthly_text <- function(dat) {
         scenario = stringr::str_split(scenario, "\n") %>% 
                       unlist() %>% 
                       purrr::pluck(1)
-      ) %>%
-      
-      dat%>% dplyr::mutate(txt = glue::glue("{month} is projected to see the largest {ifelse(value > 0, 'increase', 'decrease')} in {tolower(legend_title(v, FALSE))} ({round(value, 2)} {text_units(v)}) under the {tolower(scenario)} scenario relative to the 1991 - 2020 baseline.")) %>%
+      ) %>% 
+      dplyr::mutate(txt = glue::glue("{month} is projected to see the largest {ifelse(value > 0, 'increase', 'decrease')} in {tolower(legend_title(v, FALSE))} ({round(value, 2)} {text_units(v)}) under the {tolower(scenario)} scenario relative to the 1991 - 2020 baseline")) %>%
       dplyr::group_by(grp) %>% 
       dplyr::summarise(txt = knitr::combine_words(txt)) %>% 
-      dplyr::mutate(txt = glue::glue("By {tolower(grp)}, {txt}"))
+      dplyr::mutate(txt = glue::glue("By {tolower(grp)}, {txt}."))
     
-    txt = glue::glue("In addition to changing at annual time scales, {tolower(legend_title(v, FALSE))} is also projected to change at the monthly scale. {dplyr::filter(dat, grp == 'Mid Century (2040-2069)') %$% txt} {{dplyr::filter(dat, grp == 'End-of-Century (2070-2099)') %$% txt}}. Below, a table and graph showing changes in {tolower(legend_title(v, FALSE))} for {lapply(params$scenarios, scenario_switch) %>% knitr::combine_words()} scenarios is provided to give a monthly breakdown of projected changes.")
+    txt = glue::glue("In addition to changing at annual time scales, {tolower(legend_title(v, FALSE))} is also projected to change at the monthly scale. {dplyr::filter(dat, grp == 'Mid Century (2040-2069)') %$% txt} {dplyr::filter(dat, grp == 'End-of-Century (2070-2099)') %$% txt}. Below, a table and graph showing changes in {tolower(legend_title(v, FALSE))} for the {lapply(params$scenarios, scenario_switch) %>% knitr::combine_words()} scenarios is provided to give a monthly breakdown of projected changes.")
+    
+    return(txt)
 }
 
 future_timeseries_text <- function(dat) {
@@ -219,37 +223,7 @@ future_timeseries_text <- function(dat) {
     txt = glue::glue("{txt} {knitr::combine_words(p_vals$txt)}.")
   }
   
-  txt = glue::glue("Below, a timeseries plot shows projected changes in  {tolower(legend_title(dat$variable[[1]]))} under these different emission scenarios.")
-```
- 
- 
-```{r}
-  p_values <- c("Annual", month.name) %>% 
-    magrittr::set_names(c("Annual", month.name)) %>% 
-    purrr::map_df(calc_historical_pvalue, dat=dat)
-  
-  txt = "Between 1979 and 2020, there has been"
-  if (!dplyr::filter(p_values, timescale == "Annual") %$% p_value) {
-    txt = glue::glue("{txt} no statistically significant change in {tolower(legend_title(dat$variable[[1]], FALSE))} in {dat$name[[1]]} at an annual timescale.")
-  } else {
-    change <- dplyr::filter(p_values, timescale == "Annual") %$%
-      round(slope, 4)
-    txt = glue::glue("{txt} a statistically significant change in {tolower(legend_title(dat$variable[[1]], FALSE))} of {change} {text_units(dat$variable[[1]])} per decade at an annual timescale.")
-  }
-  
-  filt <- p_values %>% 
-    dplyr::filter(p_value) %>%
-    dplyr::rowwise() %>% 
-    dplyr::mutate(text = glue::glue("{timescale} ({round(slope,4)} {text_units(dat$variable[[1]])} per decade)")) %>% 
-    dplyr::filter(timescale != "Annual")
-  
-  if (nrow(filt) == 0) {
-    txt <- glue::glue("{txt} When looking at monthly data, there has also been no significant trend in {tolower(legend_title(dat$variable[[1]], FALSE))} across the same time period.")
-  } else {
-    txt <- glue::glue("{txt} When looking at monthly data, there have been significant changes in {tolower(legend_title(dat$variable[[1]], FALSE))} in {knitr::combine_words(filt$text)}.")
-  }
-  
-  txt <- glue::glue("{txt} Below, annual trends in {tolower(legend_title(dat$variable[[1]], FALSE))} are plotted for the GridMet period of record.")
+  txt = glue::glue("{txt} Below, a timeseries plot shows projected changes in  {tolower(legend_title(dat$variable[[1]]))} under these different emission scenarios.")
   return(txt)
 }
 
@@ -290,9 +264,10 @@ future_df <- tibble::tibble(
   dplyr::rowwise() %>% 
   dplyr::mutate(
     plot = list(plot_future(df, type))
-  )
+  ) %>% 
+  tidyr::pivot_wider(names_from = "type", values_from = c("df", "plot"))
 ```
-# Historical Trends
+# Historical Climate Trends for `r params$location_name`
 Climate has changed over the last 50 years in `r params$location_name`. In this analysis, we use [GridMet](https://www.climatologylab.org/gridmet.html) meteorology to look at trends in climate in `r params$location_name` since 1979. We do this analysis for `r lapply(params$gridmet, function(x) {tolower(legend_title(x, FALSE))}) %>% knitr::combine_words()` in the section below.
 
 ``` {r}
@@ -300,7 +275,7 @@ Climate has changed over the last 50 years in `r params$location_name`. In this 
 #| echo: false
 res <- purrr::pmap_chr(historical_df, \(variable, df, plots) { 
   knitr::knit_child(text = c(
-    "## Historical Trends in `r variable`",
+    "## Historical Trends in `r legend_title(variable, FALSE)` in `r params$location_name`",
     "",
     "`r historical_interpretive_text(df)`",
     "",
@@ -313,14 +288,42 @@ res <- purrr::pmap_chr(historical_df, \(variable, df, plots) {
 cat(res, sep = "\n")
 ```
 
+# Future Climate Projection for `r params$location_name`
 
-# Climate Projections
-It is projected that climate in `r params$location_name` will change considerably by the end of the century, depending on the emissions scenario.
-
-## Timeseries of Projections
-Here is a timeseries of how climate is projected to change by 2100:
-
-
-## Monthly Climate Projections
-There can be a large variability of how climate changes across the year. Below are plots of projected change in monthly conditions over the next century:
-
+``` {r}
+#| output: asis
+#| echo: false
+res <- purrr::pmap_chr(
+  future_df,
+  \(variable, df_monthly, df_timeseries, plot_monthly, plot_timeseries
+) { 
+  knitr::knit_child(text = c(
+    "## Projected Annual Changes in `r legend_title(variable, FALSE)` in `r params$location_name`",
+    "",
+    "`r future_timeseries_text(df_timeseries)`",
+    "",
+    "```{r}",
+    "#| echo: false",
+    "plot_timeseries",
+    "```",
+    "",
+    "## Projected Monthly Changes in `r legend_title(variable, FALSE)` in `r params$location_name`",
+    "",
+    "`r future_monthly_text(df_monthly)`",
+    "",
+    "```{r}",
+    "#| echo: false",
+    "#| tbl-cap: !expr glue::glue('Projected monthly {legend_title(variable, FALSE)} changes in {params$location_name}')",
+    "future_monthly_table(df_monthly)",
+    "```",
+    "",
+    "```{r}",
+    "#| echo: false",
+    "#| fig-width: 7",
+    "#| fig-height: 6.5",
+    "plot_monthly",
+    "```",
+    ""), envir = environment(), quiet = TRUE)
+})
+cat(res, sep = "\n")
+```
