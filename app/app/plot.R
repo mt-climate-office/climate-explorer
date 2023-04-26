@@ -366,6 +366,7 @@ make_historical_plot <- function(dat, variable, period="Annual") {
   p_value <- lm(dat$value ~ dat$date) %>% 
     summary() %>% 
     purrr::pluck("coefficients") %>% 
+    # as.numeric() %>%
     purrr::pluck(-1)
   
   plt <- dat %>% 
