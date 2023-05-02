@@ -308,6 +308,7 @@ res <- purrr::pmap_chr(
     "```{r}",
     "#| echo: false",
     "#| fig-cap: !expr stringr::str_to_title(glue::glue('Projected timeseries of annual {legend_title(variable, FALSE)} in {params$location_name}'))",
+    "#| fig-height: 5",
     "plot_timeseries",
     "```",
     "",

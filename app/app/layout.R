@@ -5,20 +5,27 @@ plot_types <- c(
 )
 
 scenarios <- c(
-  "SSP1-2.6" = "ssp126",
-  "SSP2-4.5" = "ssp245",
-  "SSP3-7.0" = "ssp370",
-  "SSP5-8.5" = "ssp585"
+  "Moderating Emissions (SSP1-2.6)" = "ssp126",
+  "Middle of the Road (SSP2-4.5)" = "ssp245",
+  "High Emissions (SSP3-7.0)" = "ssp370",
+  "Accelerating Emissions (SSP5-8.5)" = "ssp585"
 )
 
 
-variables <- c(
-  "Potential ET" = "penman",
-  "Avg. Air Temperature" = "tas",
-  "Max. Air Temperature" = "tasmax",
-  "Min. Air Temperature" = "tasmin",
-  "Wind Speed" = "sfcWind",
-  "Precipitation" = "pr"
+variables <- list(
+  `CMIP6 Variables` = c(
+    "Potential ET" = "penman",
+    "Avg. Air Temperature" = "tas",
+    "Max. Air Temperature" = "tasmax",
+    "Min. Air Temperature" = "tasmin",
+    "Wind Speed" = "sfcWind",
+    "Precipitation" = "pr"
+  ),
+  `Derived Variables` = c(
+    "Days Above 90°F" = "above90",
+    "Frost Free Days" = "frostfree",
+    "Growing Degree Days" = "gdd"
+  )
 )
 
 reference <- c(
@@ -31,11 +38,11 @@ reference <- c(
 future_panel <- absolutePanel(
   id = "controls", class = "panel panel-default", fixed = TRUE,
   draggable = FALSE, top = 65, left = "auto", right = 10, bottom = "auto",
-  width = 500, height = 'calc(95vh - 1px)',
+  width = 500, height = "90vh",
   
   h2("CMIP6 Projections"),
   
-  selectInput("variable", "Variable", variables),
+  selectInput("variable", "Variable", variables, selected = "tas"),
   selectInput("scenario", "Scenario", scenarios, multiple = TRUE, selected = c("ssp245", "ssp370")),
   selectInput("plot_type", "Plot Type", plot_types),
   selectInput("reference", "Time Period", reference),
@@ -45,7 +52,7 @@ future_panel <- absolutePanel(
       "Difference from Normal" = TRUE),
     inline = TRUE
   ),
-  plotOutput("outPlot", height = 500),
+  plotly::plotlyOutput("outPlot", height = 500),
 )
 
 gridmet_variables <- c(
@@ -71,27 +78,28 @@ time_periods <- c("Annual", tolower(month.abb)) %>%
 historical_panel <- absolutePanel(
   id = "controls", class = "panel panel-default", fixed = TRUE,
   draggable = FALSE, top = 65, left = "auto", right = 10, bottom = "auto",
-  width = 500, height = 'calc(95vh - 1px)',
+  width = 500, height = "90vh",
   
   h2("GridMET Trends"),
   
   selectInput("historical_variable", "Variable", gridmet_variables, selected="pr"),
   selectInput("historical_period", "Time Period", time_periods),
 
-  plotOutput("historical_outPlot", height = 500),
+  plotly::plotlyOutput("historical_outPlot", height = 500),
 )
 
 # Shiny versions prior to 0.11 should use class = "modal" instead.
 report_panel <- absolutePanel(
   id = "controls", class = "panel panel-default", fixed = TRUE,
   draggable = FALSE, top = 65, left = "auto", right = 10, bottom = "auto",
-  width = 500, height = 'calc(95vh - 1px)',
+  width = 500, height = "90vh",
   
   h2("Create a Report"),
   
   selectInput("report_gridmet", "Historical Variables", gridmet_variables, multiple=TRUE),
   selectInput("report_cmip", "Future Variables", variables, multiple=TRUE),
   selectInput("report_scenarios", "Emission Scenarios", scenarios, multiple=TRUE, selected = c("ssp245", "ssp370")),
+  checkboxInput("monthly", "Show Monthly Plots", FALSE),
   span(h4("Selected Location: "), textOutput("report_text")),
   downloadButton(outputId = "report", label = "Generate Report"),
   br(),

@@ -27,7 +27,7 @@ function(input, output, session) {
     
   })
 
-  output$outPlot <- renderPlot({
+  output$outPlot <- plotly::renderPlotly({
     click <- input$map_future_shape_click 
     if (is.null(click)) {
       return(placeholder_graph())
@@ -55,14 +55,24 @@ function(input, output, session) {
     if (input$plot_type == "monthly") {
       plt <- dat %>% 
         dplyr::mutate(month = factor(month, levels = month.abb)) %>%
-        make_monthly_plot(TRUE, input$map_type) 
+        make_monthly_plot(TRUE, input$map_type, size=10) 
     } else {
-      plt <- make_timeseries_plot(dat, TRUE, input$map_type)
+      plt <- make_timeseries_plot(dat, TRUE, input$map_type, size=10)
     }
-    return(plt)
+    return(
+      plotly::ggplotly(plt) %>%
+        plotly::layout(legend = list(
+          orientation = "h",   # show entries horizontally
+          xanchor = "center",  # use center of legend as anchor
+          x = 0.5,
+          title = "",
+          yaxis = list(automargin=TRUE)
+        )) %>%
+        clean_pltly_legend()
+    )
   })
   
-  output$historical_outPlot <- renderPlot({
+  output$historical_outPlot <- plotly::renderPlotly({
     click <- input$map_historical_shape_click 
     
     if (is.null(click)) {
@@ -80,7 +90,7 @@ function(input, output, session) {
       readr::read_csv(show_col_types = FALSE) 
     
     plt <- make_historical_plot(dat, input$historical_variable, input$historical_period)
-    return(plt)
+    return(plotly::ggplotly(plt))
   })
 
   observeEvent(input$map_type, {
@@ -107,6 +117,7 @@ function(input, output, session) {
   # This observer is responsible for maintaining the circles and legend,
   # according to the variables the user has chosen to map to color and size.
   observe({
+    input$nav
     
     info <- handle_raster_plotting_logic(input)
 
@@ -117,7 +128,9 @@ function(input, output, session) {
       add_layers("ssp126", info) %>%
       add_layers("ssp245", info) %>% 
       add_layers("ssp370", info, TRUE) %>% 
-      add_layers("ssp585", info, with_legend = TRUE)
+      add_layers("ssp585", info, with_legend = TRUE) %>%
+      setView(lng = -107.5, lat = 47, zoom = 7)
+      
   })
   
   observe({
@@ -145,7 +158,7 @@ function(input, output, session) {
         labels = info$labels,
         title = legend_title(input$historical_variable)
       ) %>%
-      setView(lng = -107.5, lat = 47, zoom = 6)
+      setView(lng = -107.5, lat = 47, zoom = 7)
   })
   
   output$report_text <- renderText({

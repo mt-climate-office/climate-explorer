@@ -8,7 +8,7 @@ div.outer {
   left: 0;
   right: 0;
   bottom: 0;
-  overflow: hidden;
+  /*overflow: hidden;*/
   padding: 0;
 }
 
@@ -22,11 +22,11 @@ h1, h2, h3, h4 { font-weight: 400; }
 #controls {
   /* Appearance */
   background-color: white;
-  padding: 0 20px 20px 20px;
+  padding: 20px 20px 20px 20px;
   /* cursor: move; */
   /* Fade out while not hovering */
   opacity: 0.95;
-  zoom: 0.9;
+  zoom: 1;
   overflow-y: auto;
 }
 

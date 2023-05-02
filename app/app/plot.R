@@ -55,13 +55,13 @@ colors =
     "transparent",
     " "  = "transparent",
     "  "  = "transparent",
-    "Moderating Emissions\n(SSP1-2.6)" = rgb(34,46,77,
+    "SSP1-2.6" = rgb(34,46,77,
                                              maxColorValue = 255),
-    "Middle of the Road\n(SSP2-4.5)" = rgb(223,146,71,
+    "SSP2-4.5" = rgb(223,146,71,
                                            maxColorValue = 255),
-    "High Emissions\n(SSP3-7.0)" = rgb(187,54,51,
+    "SSP3-7.0" = rgb(187,54,51,
                                        maxColorValue = 255),
-    "Accelerating Emissions\n(SSP5-8.5)" = rgb(122,41,40,
+    "SSP5-8.5" = rgb(122,41,40,
                                                maxColorValue = 255)
     
   )
@@ -78,22 +78,18 @@ scenario_code_to_long <- function(x) {
 }
 
 factor_scenario <- function(dat) {
+  # readr::write_csv(dat, "./test.csv")
+  # dat <- readr::read_csv("./app/app/test.csv")
   dplyr::mutate(
-    dat, 
-    scenario = dplyr::recode(
-      scenario, 
-      "historical" = "Historical Emissions",
-      "ssp126" = "Moderating Emissions\n(SSP1-2.6)",
-      "ssp245" = "Middle of the Road\n(SSP2-4.5)",
-      "ssp370" = "High Emissions\n(SSP3-7.0)",
-      "ssp585" = "Accelerating Emissions\n(SSP5-8.5)"
-    ) %>% 
+    dat,
+    scenario = stringr::str_remove(scenario, ".*\n|") %>% 
+      stringr::str_replace_all("\\(|\\)", "") %>% 
       factor(
         levels = c("Historical Emissions",
-                   "Moderating Emissions\n(SSP1-2.6)",
-                   "Middle of the Road\n(SSP2-4.5)",
-                   "High Emissions\n(SSP3-7.0)",
-                   "Accelerating Emissions\n(SSP5-8.5)")
+                   "SSP1-2.6",
+                   "SSP2-4.5",
+                   "SSP3-7.0",
+                   "SSP5-8.5")
       )
   )
 }
@@ -137,8 +133,8 @@ convert_units <- function(dat, variable, us_units) {
     } 
 }
 
-make_timeseries_plot <- function(dat, us_units=TRUE, difference=FALSE) {
-
+make_timeseries_plot <- function(dat, us_units=TRUE, difference=FALSE, size=14) {
+  
   if (difference) {
     avg <- dat %>% 
       dplyr::filter(year <= 2020, year >=1991) %>%
@@ -168,7 +164,7 @@ make_timeseries_plot <- function(dat, us_units=TRUE, difference=FALSE) {
          y = titles[["y"]],
          title = titles[["title"]] 
     ) +
-    theme_minimal(14) +
+    theme_minimal(size) +
     scale_color_manual(values = colors) +
     scale_fill_manual(values = colors) +
     theme(
@@ -190,7 +186,7 @@ make_timeseries_plot <- function(dat, us_units=TRUE, difference=FALSE) {
   return(plt)
 }
 
-make_monthly_plot <- function(dat, us_units=TRUE, difference=FALSE) {
+make_monthly_plot <- function(dat, us_units=TRUE, difference=FALSE, size=14) {
   
   titles <- build_titles(dat$location[[1]], dat$variable[[1]], us_units, monthly = T)
   
@@ -222,7 +218,7 @@ make_monthly_plot <- function(dat, us_units=TRUE, difference=FALSE) {
          y = titles[["y"]],
          title = titles[["title"]]
     ) +
-    theme_minimal(14) +
+    theme_minimal(size) +
     scale_color_manual(values = colors) +
     scale_fill_manual(values = colors) +
     theme(
@@ -230,12 +226,13 @@ make_monthly_plot <- function(dat, us_units=TRUE, difference=FALSE) {
       # legend.justification = c(1, 1),
       legend.position = "bottom",
       legend.key.width = unit(0.25,"in"),
-      axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0)),
+      # axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0)),
       plot.margin=unit(c(0.1,0.2,0.1,0.1), "in"),
       plot.title = element_text(hjust=0.5)
-    ) +
-    ggplot2::guides(colour = guide_legend(ncol = 2)) +
-    coord_cartesian(clip = "off")
+    ) + 
+    coord_cartesian(clip="off")
+    # ggplot2::guides(colour = guide_legend(ncol = 2)) +
+    # coord_cartesian(clip = "off")
   
   if (difference) {
     plt = plt + geom_hline(yintercept=0)
@@ -248,7 +245,7 @@ placeholder_graph <- function() {
   
   tibble::tibble(x=1, y=1, txt="Click a county to plot data!") %>% 
     ggplot(aes(x=x, y=y)) + 
-    geom_text(aes(label=txt), size=10) + 
+    geom_text(aes(label=txt), size=8) + 
     theme_minimal() +
     theme(
       axis.ticks = element_blank(),
@@ -301,11 +298,84 @@ make_historical_plot <- function(dat, variable, period="Annual") {
   if (p_value <= 0.05) {
     plt <- plt +
       geom_smooth(formula = y ~ x, method = "lm") + 
-      labs(subtitle = "Trend is Statistically Significant") + 
+      labs(subtitle = "Trend per Decade is Statistically Significant") + 
       theme(
         plot.subtitle = element_text(face="bold", hjust=0.5)
       )
   }
   
   return(plt)
+}
+
+
+clean_pltly_legend <- function(.pltly_obj, .new_legend = c()) {
+  library(purrr)
+  library(stringr)
+  # Cleans up a plotly object legend, particularly when ggplot is facetted
+  
+  assign_leg_grp <- function(.legend_group, .leg_nms) {
+    # Assigns a legend group from the list of possible entries
+    # Used to modify the legend settings for a plotly object
+    
+    leg_nms_rem <- .leg_nms
+    
+    parse_leg_nms <- function(.leg_options) {
+      # Assigns a .leg_name, if possible
+      # .leg_options is a 2-element list: 1 = original value; 2 = remaining options
+      
+      if (is.na(.leg_options)) {
+        .leg_options
+      } else if(length(leg_nms_rem) == 0) {
+        # No more legend names to assign
+        .leg_options
+      } else {
+        # Transfer the first element of the remaining options
+        leg_nm_new <- leg_nms_rem[[1]]
+        leg_nms_rem <<- leg_nms_rem[-1]
+        
+        leg_nm_new
+      }
+      
+    }
+    
+    .legend_group %>% 
+      map(~ parse_leg_nms(.))
+    
+  }
+  
+  simplify_leg_grps <- function(.legendgroup_vec) {
+    # Simplifies legend groups by removing brackets, position numbers and then de-duplicating
+    
+    leg_grp_cln <-
+      map_chr(.legendgroup_vec, ~ str_replace_all(., c("^\\(" = "", ",\\d+\\)$" = "")))
+    
+    modify_if(leg_grp_cln, duplicated(leg_grp_cln), ~ NA_character_)
+    
+  }
+  
+  pltly_obj_data <-
+    .pltly_obj$x$data
+  
+  pltly_leg_grp <-
+    # pltly_leg_grp is a character vector where each element represents a legend group. Element is NA if legend group not required or doesn't exist
+    pltly_obj_data%>% 
+    map(~ pluck(., "legendgroup")) %>% 
+    map_chr(~ if (is.null(.)) {NA_character_} else {.}) %>%
+    # Elements where showlegend = FALSE have legendgroup = NULL. 
+    
+    simplify_leg_grps() %>% 
+    
+    assign_leg_grp(.new_legend) 
+  
+  pltly_obj_data_new <-
+    pltly_obj_data %>% 
+    map2(pltly_leg_grp, ~ list_modify(.x, legendgroup = .y)) %>%
+    map2(pltly_leg_grp, ~ list_modify(.x, name = .y)) %>%
+    map2(pltly_leg_grp, ~ list_modify(.x, showlegend = !is.na(.y)))
+  # i.e. showlegend set to FALSE when is.na(pltly_leg_grp), TRUE when not is.na(pltly_leg_grp)
+  
+  .pltly_obj$x$data <- pltly_obj_data_new
+  
+  .pltly_obj
+  
 }

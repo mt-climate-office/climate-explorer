@@ -232,7 +232,7 @@ add_layers <- function(leaf, scenario, info, with_legend = FALSE) {
       group = scenario_switch(scenario),
       layerId = scenario_switch(scenario)
     ) %>%
-    setView(lng = -107.5, lat = 47, zoom = 6) %>%
+    setView(lng = -107.5, lat = 47, zoom = 7) %>%
     addLayersControl(
       overlayGroups = c("Counties"), # , "HUCs"
       baseGroups = c("SSP1-2.6", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5"),
