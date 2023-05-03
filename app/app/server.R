@@ -211,6 +211,7 @@ function(input, output, session) {
           scenarios = input$report_scenarios,
           gridmet = input$report_gridmet,
           cmip = input$report_cmip,
+          location_type = click[[1]],
           location_id = click[[2]],
           location_name = click[[3]]
         )

@@ -12,6 +12,7 @@ params:
   scenarios:  !expr c("ssp245", "ssp370")
   gridmet: !expr c("tmmx", "tmmn", "vs")
   cmip: !expr c("tas", "tasmax")
+  location_type: "county"
   location_id: "30063"
   location_name: "Test Location" 
 ---
@@ -21,17 +22,17 @@ params:
 source("./plot.R")
 source("./global.R")
 
-get_historical <- function(id, element) {
+get_historical <- function(location_type, id, element) {
   glue::glue(
-    "{API_URL}/data/historical/{id}/{element}/"
+    "{API_URL}/data/historical/{location_type}/{id}/{element}/"
   ) %>% 
     readr::read_csv(show_col_types = FALSE) 
 }
 
-get_future <- function(id, variable, type, scenarios){
+get_future <- function(location_type, id, variable, type, scenarios){
   scenarios = paste(scenarios, collapse = ",")
   dat <- glue::glue(
-    "{API_URL}/data/future/{id}/{variable}/"
+    "{API_URL}/data/future/{location_type}/{id}/{variable}/"
   ) %>%
     httr::GET(
       query = list(
@@ -245,7 +246,7 @@ historical_df <- tibble::tibble(
 ) %>% 
   dplyr::rowwise() %>% 
   dplyr::mutate(
-    df = list(get_historical(params$location_id, variable)),
+    df = list(get_historical(params$location_type, params$location_id, variable)),
     plots = list(make_historical_plot(df, variable, "Annual"))
   )
 
@@ -255,8 +256,8 @@ future_df <- tibble::tibble(
 ) %>% 
   dplyr::rowwise() %>% 
   dplyr::mutate(
-    monthly = list(get_future(params$location_id, variable, "monthly", params$scenarios)),
-    timeseries = list(get_future(params$location_id, variable, "timeseries", params$scenarios))
+    monthly = list(get_future(params$location_type, params$location_id, variable, "monthly", params$scenarios)),
+    timeseries = list(get_future(params$location_type, params$location_id, variable, "timeseries", params$scenarios))
   ) %>% 
   tidyr::pivot_longer(
     c("monthly", "timeseries"),
