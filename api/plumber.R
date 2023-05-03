@@ -7,7 +7,8 @@ con <- DBI::dbConnect(
   host = "fcfc-mesonet-db.cfc.umt.edu",
   dbname = Sys.getenv("POSTGRES_DBNAME"),
   user = Sys.getenv("POSTGRES_USER"),
-  password = Sys.getenv("POSTGRES_PASSWORD")
+  password = Sys.getenv("POSTGRES_PASSWORD"),
+  port = 5433
 )
 
 #* Get historical GridMET dat for a county or watershed.
