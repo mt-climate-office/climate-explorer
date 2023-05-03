@@ -65,13 +65,26 @@ function(input, output, session) {
     }
     return(
       plotly::ggplotly(plt) %>%
-        plotly::layout(legend = list(
-          orientation = "h",   # show entries horizontally
-          xanchor = "center",  # use center of legend as anchor
-          x = 0.5,
-          title = "",
-          yaxis = list(automargin=TRUE)
-        )) %>%
+        plotly::layout(
+          legend = list(
+            orientation = "h",   # show entries horizontally
+            xanchor = "center",  # use center of legend as anchor
+            x = 0.5,
+            title = "",
+            yaxis = list(automargin=TRUE)
+          ),
+          images = list(
+            list(source = "https://raw.githubusercontent.com/mt-climate-office/report-builder/main/app/app/data/MCO_logo.png",
+                 xref = "paper",
+                 yref = "paper",
+                 x= 0,
+                 y= 1,
+                 sizex = 0.2,
+                 sizey = 0.2,
+                 opacity = 0.8
+            )
+          )
+        ) %>%
         clean_pltly_legend()
     )
   })
