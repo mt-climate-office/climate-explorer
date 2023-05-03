@@ -35,6 +35,7 @@ RUN R -e "devtools::install_github('r-spatial/leafem')"
 RUN R -e "install.packages('purrr')"
 RUN R -e "install.packages('kableExtra')"
 RUN R -e "install.packages('lubridate')"
+RUN R -e "install.packages('plotly')"
 
 WORKDIR /home/app
 

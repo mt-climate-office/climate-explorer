@@ -5,7 +5,7 @@ counties <- sf::read_sf("./data/counties.shp") %>%
   dplyr::mutate(id = glue::glue("county_{id}_{name}"))
 
 hucs <- sf::read_sf("./data/mt_hucs.geojson") %>% 
-  dplyr::mutate(id = glue::glue("huc_{id}"))
+  dplyr::mutate(id = glue::glue("huc_{id}_{name} Watershed"))
 
 rasters <- list.files("./data", pattern = ".tif", full.names = T) %>% 
   tibble::tibble(f = .) %>% 
@@ -233,19 +233,11 @@ add_layers <- function(leaf, scenario, info, with_legend = FALSE) {
       layerId = scenario_switch(scenario)
     ) %>%
     setView(lng = -107.5, lat = 47, zoom = 7) %>%
-    addLayersControl(
-      overlayGroups = c("Counties"), # , "HUCs"
-      baseGroups = c("SSP1-2.6", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5"),
-      options = layersControlOptions(
-        collapsed = FALSE,
-        position = "topleft"
-      )
-    ) %>%     
-      addLegend(
+    addLegend(
         position="bottomleft",
         layerId="colorLegend",
         colors = info$pal(10),
         labels = info$labels,
         title = legend_title(info$variable)
-    )
+    ) 
 }

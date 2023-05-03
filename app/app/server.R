@@ -15,15 +15,16 @@ function(input, output, session) {
       addPolygons(
         data = counties, fill = TRUE, color = "black", weight = 2, 
         popup = ~name, layerId = ~id, group = "Counties") %>% 
-      # addPolygons(data = hucs, fill = TRUE, color = "black", weight = 2, 
-      #             popup = ~name, layerId = ~id, group = "HUCs") %>% 
+      addPolygons(data = hucs, fill = TRUE, color = "black", weight = 2,
+                  popup = ~name, layerId = ~id, group = "HUCs") %>%
       addLayersControl(
-        overlayGroups = c("Counties"), # , "HUCs"
+        overlayGroups = c("Counties", "HUCs"), # , "HUCs"
         options = layersControlOptions(
           collapsed = FALSE,
           position = "topleft"
         )
-      )
+      ) %>%
+      hideGroup("HUCs")
     
   })
 
@@ -38,9 +39,9 @@ function(input, output, session) {
       unlist()
     
     scenarios <- paste(input$scenario, collapse = ",")
-
+    print(click)
     dat <- glue::glue(
-        "{API_URL}/data/future/{click[[2]]}/{input$variable}/"
+        "{API_URL}/data/future/{click[[1]]}/{click[[2]]}/{input$variable}/"
       ) %>%
         httr::GET(
           query = list(
@@ -84,7 +85,7 @@ function(input, output, session) {
       unlist()
     
     dat <- glue::glue(
-      "{API_URL}/data/historical/{click[[2]]}/{input$historical_variable}/"
+      "{API_URL}/data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"
 
     ) %>% 
       readr::read_csv(show_col_types = FALSE) 
@@ -129,7 +130,14 @@ function(input, output, session) {
       add_layers("ssp245", info) %>% 
       add_layers("ssp370", info, TRUE) %>% 
       add_layers("ssp585", info, with_legend = TRUE) %>%
-      setView(lng = -107.5, lat = 47, zoom = 7)
+      updateLayersControl(
+        addOverlayGroups = c("Counties", "HUCs"), # , "HUCs"
+        addBaseGroups = c("SSP1-2.6", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5"),
+        options = layersControlOptions(
+          collapsed = FALSE,
+          position = "topleft"
+        )
+      ) 
       
   })
   
