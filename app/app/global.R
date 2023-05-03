@@ -7,6 +7,16 @@ counties <- sf::read_sf("./data/counties.shp") %>%
 hucs <- sf::read_sf("./data/mt_hucs.geojson") %>% 
   dplyr::mutate(id = glue::glue("huc_{id}_{name} Watershed"))
 
+tribes <- mcor::mt_tribal_land %>% 
+  dplyr::transmute(
+    name = Name, 
+    id = stringr::str_replace_all(Name, " ", "-") %>%
+      stringr::str_replace_all("'", "") %>% 
+      tolower()
+  ) %>% 
+  sf::st_transform(4326) %>% 
+  dplyr::mutate(id = glue::glue("tribes_{id}_{name}"))
+
 rasters <- list.files("./data", pattern = ".tif", full.names = T) %>% 
   tibble::tibble(f = .) %>% 
   dplyr::mutate(base = basename(f) %>% 

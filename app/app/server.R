@@ -17,14 +17,17 @@ function(input, output, session) {
         popup = ~name, layerId = ~id, group = "Counties") %>% 
       addPolygons(data = hucs, fill = TRUE, color = "black", weight = 2,
                   popup = ~name, layerId = ~id, group = "HUCs") %>%
+      addPolygons(data = tribes, fill = TRUE, color = "black", weight = 2,
+                  popup = ~name, layerId = ~id, group = "Tribal Lands") %>%
       addLayersControl(
-        overlayGroups = c("Counties", "HUCs"), # , "HUCs"
+        overlayGroups = c("Counties", "HUCs", "Tribal Lands"), # , "HUCs"
         options = layersControlOptions(
           collapsed = FALSE,
           position = "topleft"
         )
       ) %>%
-      hideGroup("HUCs")
+      hideGroup("HUCs") %>% 
+      hideGroup("Tribal Lands")
     
   })
 
@@ -131,7 +134,7 @@ function(input, output, session) {
       add_layers("ssp370", info, TRUE) %>% 
       add_layers("ssp585", info, with_legend = TRUE) %>%
       updateLayersControl(
-        addOverlayGroups = c("Counties", "HUCs"), # , "HUCs"
+        addOverlayGroups = c("Counties", "HUCs", "Tribal Lands"), # , "HUCs"
         addBaseGroups = c("SSP1-2.6", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5"),
         options = layersControlOptions(
           collapsed = FALSE,
