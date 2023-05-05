@@ -2,7 +2,7 @@
 source("./crud.R")
 
 # dotenv::load_dot_env("../.env")
-con <- DBI::dbConnect(
+args <- list(
   RPostgres::Postgres(),
   host = "fcfc-mesonet-db.cfc.umt.edu",
   dbname = Sys.getenv("POSTGRES_DBNAME"),
@@ -24,6 +24,9 @@ function(
     loc_type, location, variable, date_start="1970-01-01", 
     date_end="2021-01-01", us_units=TRUE
 ) {
+  
+  con <- do.call(DBI::dbConnect, args)
+  on.exit(DBI::dbDisconnect(con))
   
   dplyr::tbl(con, RPostgres::Id(schema = "historical", table = loc_type)) %>% 
     dplyr::filter(id == location, variable == !!variable) %>%
@@ -49,6 +52,9 @@ function(
 ) {
   table_type = match.arg(table_type)
   
+  con <- do.call(DBI::dbConnect, args)
+  on.exit(DBI::dbDisconnect(con))
+
   f = switch(
     table_type,
     "timeseries" = prep_for_timeseries,
@@ -68,3 +74,13 @@ function(
 }
 
 
+# #* Write new data to database.
+# #* @post /upload/<table:str>/
+# #* @parser csv
+# #* @param table:str The database table you would like to upload data to.
+# #* @param f:file The .csv file you would like to write to the database.  
+# function(
+#     table, f
+# ) {
+#   
+# }
