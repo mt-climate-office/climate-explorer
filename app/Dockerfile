@@ -36,6 +36,10 @@ RUN R -e "install.packages('purrr')"
 RUN R -e "install.packages('kableExtra')"
 RUN R -e "install.packages('lubridate')"
 RUN R -e "install.packages('plotly')"
+RUN R -e "install.packages('cowplot')"
+RUN R -e "install.packages('ggtext')"
+RUN R -e "install.packages('magick')"
+
 
 WORKDIR /home/app
 
