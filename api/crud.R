@@ -216,9 +216,9 @@ prep_for_timeseries <- function(dat, location, v, us_units=TRUE, scenarios) {
     convert_units(v, TRUE) %>%
     dplyr::group_by(year, scenario) %>% 
     dplyr::summarise(
-      upper = quantile(value, 0.9) %>% as.numeric(),
-      lower = quantile(value, 0.1) %>% as.numeric(),
-      value = median(value),
+      upper = quantile(value, 0.9) %>% as.numeric() %>% round(3),
+      lower = quantile(value, 0.1) %>% as.numeric() %>% round(3),
+      value = median(value) %>% round(3),
       .groups = "drop"
     ) %>% 
     factor_scenario() %>%
@@ -307,9 +307,9 @@ prep_for_monthly_plot <- function(dat, location, v = "tas", us_units = T, scenar
     convert_units(v, us_units) %>% 
     dplyr::group_by(scenario, month, grp) %>% 
     dplyr::summarise(
-      upper = quantile(value, 0.9) %>% as.numeric(),
-      lower = quantile(value, 0.1) %>% as.numeric(),
-      value = median(value),
+      upper = quantile(value, 0.9) %>% as.numeric() %>% round(3),
+      lower = quantile(value, 0.1) %>% as.numeric() %>% round(3),
+      value = median(value) %>% round(3),
       .groups = "drop"
     ) 
   

@@ -32,7 +32,8 @@ function(
     dplyr::filter(id == location, variable == !!variable) %>%
     dplyr::filter(date > date_start, date < date_end) %>% 
     dplyr::collect() %>% 
-    convert_units(variable, us_units)
+    convert_units(variable, us_units) %>% 
+    dplyr::mutate(value = round(value, 3))
 }
 
 #* Get CMIP6 projections at the county or watershed scale.
