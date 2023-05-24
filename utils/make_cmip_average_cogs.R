@@ -1,6 +1,6 @@
 library(magrittr)
 
-data_dir = "~/MCO_onedrive/General/nexgddp_cmip6_montana/data-derived/nexgddp_cmip6/monthly"
+data_dir = "~/MCO_onedrive/General/nexgddp_cmip6_montana/data-derived/nexgddp_cmip6/monthly/derived"
 files <- list.files(data_dir, full.names = T, pattern = ".tif") %>% 
   stringr::str_subset(".json", negate = TRUE)
 

@@ -21,7 +21,14 @@ name_mapper <- list(
   "tmmn" = "Minumum Temperature",
   "tmmx" = "Maximum Temperature",
   "vpd" = "Vapor Pressure Deficit",
-  "vs" = "Wind Speed"
+  "vs" = "Wind Speed",
+  "above90" = "Days Above 90°F",
+  "con-dry" = "Consecutive Dry Days",
+  "con-wet" = "Consecutive Wet Days",
+  "dry-days" = "Dry Days",
+  "freeze-free" = "Freeze-free Days",
+  "gdd" = "Growing Degree Days",
+  "wet-days" = "Wet Days"
 )
 
 orig_units <- list(
@@ -43,7 +50,14 @@ orig_units <- list(
   "tmmn" = "K",
   "tmmx" = "K",
   "vpd" = "kPa",
-  "vs" = "m/s"
+  "vs" = "m/s",
+  "above90" = "",
+  "con-dry" = "",
+  "con-wet" = "",
+  "dry-days" = "",
+  "freeze-free" = "",
+  "gdd" = "",
+  "wet-days" = ""
 )
 
 units_us <- list(
@@ -65,7 +79,14 @@ units_us <- list(
   "tmmn" = "degF",
   "tmmx" = "degF",
   "vpd" = "millibar",
-  "vs" = "mi/hr"
+  "vs" = "mi/hr",
+  "above90" = "",
+  "con-dry" = "",
+  "con-wet" = "",
+  "dry-days" = "",
+  "freeze-free" = "",
+  "gdd" = "",
+  "wet-days" = ""
 )
 
 units_metric <- list(
@@ -87,7 +108,14 @@ units_metric <- list(
   "tmmn" = "degC",
   "tmmx" = "degC",
   "vpd" = "kPa",
-  "vs" = "m/s"
+  "vs" = "m/s",
+  "above90" = "",
+  "con-dry" = "",
+  "con-wet" = "",
+  "dry-days" = "",
+  "freeze-free" = "",
+  "gdd" = "",
+  "wet-days" = ""
 )
 
 colors = 
@@ -180,7 +208,8 @@ prep_for_timeseries <- function(dat, location, v, us_units=TRUE, scenarios) {
     dplyr::filter(stringr::str_detect(scenario, scenarios)) %>% 
     dplyr::group_by(year=lubridate::year(date), scenario, model) %>% 
     dplyr::summarise(
-      value = ifelse(v %in% c("pr", "penman", "hargreaves"), sum(value), mean(value)), 
+      value = ifelse(v %in% c("pr", "penman", "hargreaves", "above90", "con-dry", "con-wet",
+                              "dry-days", "freeze-free", "gdd", "wet-days"), sum(value), mean(value)), 
       .groups = "drop"
     ) %>% 
     dplyr::collect() %>%
