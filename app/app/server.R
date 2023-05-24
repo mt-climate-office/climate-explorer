@@ -72,20 +72,10 @@ function(input, output, session) {
             x = 0.5,
             title = "",
             yaxis = list(automargin=TRUE)
-          ),
-          images = list(
-            list(source = "https://raw.githubusercontent.com/mt-climate-office/report-builder/main/app/app/data/MCO_logo.png",
-                 xref = "paper",
-                 yref = "paper",
-                 x= 0,
-                 y= 1,
-                 sizex = 0.2,
-                 sizey = 0.2,
-                 opacity = 0.8
-            )
           )
         ) %>%
-        clean_pltly_legend()
+        clean_pltly_legend() %>% 
+        add_logo_to_plotly()
     )
   })
   
@@ -107,7 +97,10 @@ function(input, output, session) {
       readr::read_csv(show_col_types = FALSE) 
     
     plt <- make_historical_plot(dat, input$historical_variable, input$historical_period)
-    return(plotly::ggplotly(plt))
+    return(
+      plotly::ggplotly(plt) %>%
+             add_logo_to_plotly()
+    )
   })
 
   observeEvent(input$map_type, {

@@ -77,6 +77,33 @@ scenario_code_to_long <- function(x) {
   )
 }
 
+add_logo_to_plotly <- function(fig) {
+  fig %>%
+    plotly::layout(
+      images = list(
+        list(source = "https://data.climate.umt.edu/website/assets/MCO_logo.png",
+             xref = "paper",
+             yref = "paper",
+             x= 0,
+             y= 1,
+             sizex = 0.2,
+             sizey = 0.2,
+             opacity = 0.8
+        )
+      )
+    )
+}
+
+add_logo_to_ggplot <- function(fig, historical=FALSE) {
+  cowplot::ggdraw() + 
+    cowplot::draw_plot(fig) + 
+    cowplot::draw_image(
+      magick::image_read("./data/MCO_logo.png") %>%
+        magick::image_transparent("white"),
+      scale = 0.175, x=ifelse(historical, -0.29, -0.28), y=ifelse(historical, 0.365, 0.33)
+    )
+}
+
 factor_scenario <- function(dat) {
   # readr::write_csv(dat, "./test.csv")
   # dat <- readr::read_csv("./app/app/test.csv")
@@ -281,6 +308,10 @@ make_historical_plot <- function(dat, variable, period="Annual") {
     # as.numeric() %>%
     purrr::pluck(-1)
   
+  title <- glue::glue(
+    "Trend in {name} {stringr::str_to_title(period)} {legend_title(variable)}"
+  )
+  
   plt <- dat %>% 
     ggplot(aes(x=date, y=value)) + 
     geom_point() + 
@@ -289,19 +320,21 @@ make_historical_plot <- function(dat, variable, period="Annual") {
     labs(
       x="Year", 
       y=legend_title(variable),
-      title = glue::glue("Trend in {name} {stringr::str_to_title(period)} {legend_title(variable)}"),
+      title = title,
     ) + 
     theme(
       plot.title = element_text(hjust=0.5)
     )
   
   if (p_value <= 0.05) {
+    title <- glue::glue("{title}<br><sup><b>Trend per Decade is Statistically Significant</b></sup>")
     plt <- plt +
       geom_smooth(formula = y ~ x, method = "lm") + 
-      labs(subtitle = "Trend per Decade is Statistically Significant") + 
-      theme(
-        plot.subtitle = element_text(face="bold", hjust=0.5)
-      )
+      labs(title=title) + 
+      theme(plot.title = ggtext::element_markdown())#  + 
+      # theme(
+      #   plot.subtitle = element_text(face="bold", hjust=0.5)
+      # )
   }
   
   return(plt)

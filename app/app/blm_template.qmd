@@ -238,7 +238,7 @@ plot_future <- function(dat, type) {
   } else {
     plt <- make_timeseries_plot(dat, TRUE, FALSE)
   }
-  return(plt)
+  return(add_logo_to_ggplot(plt))
 }
 
 historical_df <- tibble::tibble(
@@ -247,7 +247,8 @@ historical_df <- tibble::tibble(
   dplyr::rowwise() %>% 
   dplyr::mutate(
     df = list(get_historical(params$location_type, params$location_id, variable)),
-    plots = list(make_historical_plot(df, variable, "Annual"))
+    plots = list(make_historical_plot(df, variable, "Annual") %>%
+                   add_logo_to_ggplot(historical = TRUE))
   )
 
 
@@ -284,6 +285,8 @@ res <- purrr::pmap_chr(historical_df, \(variable, df, plots) {
     "",
     "```{r}",
     "#| echo: false",
+    "#| fig-width: 5",
+    "#| fig-height: 4.5",
     "#| fig-cap: !expr stringr::str_to_title(glue::glue('Historical annual {legend_title(variable, FALSE)} trends across {params$location_name}'))",
     "plots",
     "```",
@@ -309,7 +312,8 @@ res <- purrr::pmap_chr(
     "```{r}",
     "#| echo: false",
     "#| fig-cap: !expr stringr::str_to_title(glue::glue('Projected timeseries of annual {legend_title(variable, FALSE)} in {params$location_name}'))",
-    "#| fig-height: 5",
+    "#| fig-width: 5",
+    "#| fig-height: 4.5",
     "plot_timeseries",
     "```",
     "",
