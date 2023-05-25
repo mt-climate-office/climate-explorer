@@ -1,25 +1,25 @@
 library(magrittr)
 
-out_dir = './app/app/data/difference'
+out_dir = './data/difference'
 
-list.files("./app/app/data", full.names = T, pattern = ".tif") %>% 
+list.files("./data", full.names = T, pattern = ".tif") %>% 
   tibble::tibble(
     f = .,
     base = basename(.) %>% 
       tools::file_path_sans_ext()
   ) %>% 
   tidyr::separate(base, c("variable", "scenario", "period"), sep = "_") %>% 
-  dplyr::filter(variable %in% c("penman", "pr", "sfcWind", "tas", "tasmax", "tasmin")) %>% 
+  dplyr::filter(variable %in% c("con-wet", "con-dry", "above90", "freeze-free", "dry-days", "gdd", "wet-days")) %>% 
   dplyr::rowwise() %>% 
   dplyr::mutate(r = list(terra::rast(f))) %>% 
-  dplyr::mutate(
-    r = dplyr::case_when(
-      variable == "penman" ~ list(r / 25.4),
-      variable == "pr" ~ list(r / 25.4),
-      variable == "sfcWind" ~ list(r * 2.237),
-      TRUE ~ list((r - 273.15) * 1.8 + 32)
-    )
-  ) %>% 
+  # dplyr::mutate(
+  #   r = dplyr::case_when(
+  #     variable == "penman" ~ list(r / 25.4),
+  #     variable == "pr" ~ list(r / 25.4),
+  #     variable == "sfcWind" ~ list(r * 2.237),
+  #     TRUE ~ list((r - 273.15) * 1.8 + 32)
+  #   )
+  # ) %>% 
   dplyr::select(-f) %>% 
   tidyr::pivot_wider(
     names_from = period, 

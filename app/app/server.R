@@ -55,6 +55,8 @@ function(input, output, session) {
         ) %>%
         httr::content(show_col_types = FALSE) %>% 
         factor_scenario() 
+    
+    print(dat)
 
     if (input$plot_type == "monthly") {
       plt <- dat %>% 

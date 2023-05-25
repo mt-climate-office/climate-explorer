@@ -1,6 +1,6 @@
 library(magrittr)
 
-data_dir = "~/MCO_onedrive/General/nexgddp_cmip6_montana/data-derived/nexgddp_cmip6/monthly/derived"
+data_dir = "~/data/cmip6/monthly/"
 files <- list.files(data_dir, full.names = T, pattern = ".tif") %>% 
   stringr::str_subset(".json", negate = TRUE)
 
@@ -44,7 +44,8 @@ tibble::tibble(f = files) %>%
     model != "MIROC6",
     variable != "huss",
   ) %>% 
-  dplyr::mutate(f = ifelse(variable %in% c("hargreaves", "penman", "pr"), "sum", "mean")) %>%
+  # dplyr::mutate(f = ifelse(variable %in% c("hargreaves", "penman", "pr"), "sum", "mean")) %>%
+  dplyr::mutate(f = "sum") %>%
   dplyr::mutate(
     reference = list(subset_mean(r, 1991, 2020, f)), 
     mid = list(subset_mean(r, 2040, 2069, f)),

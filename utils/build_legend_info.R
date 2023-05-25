@@ -1,4 +1,4 @@
-list.files("./app/app/data", pattern = ".tif", full.names = T, recursive = T) %>% 
+list.files("./data", pattern = ".tif", full.names = T, recursive = T) %>% 
   tibble::tibble(f = .) %>% 
   dplyr::mutate(name = basename(f) %>% 
                   tools::file_path_sans_ext(),
@@ -13,7 +13,7 @@ list.files("./app/app/data", pattern = ".tif", full.names = T, recursive = T) %>
   ) %>% 
   dplyr::group_by(variable, type) %>% 
   dplyr::summarize(mn = min(mn), mx = max(mx)) %>% 
-  dplyr::filter(
-    variable %in% c("penman", "pr", "sfcWind", "tas", "tasmax", "tasmin")
-  ) %>% 
-  readr::write_csv("./app/app/data/legend.csv")
+  # dplyr::filter(
+  #   variable %in% c("penman", "pr", "sfcWind", "tas", "tasmax", "tasmin")
+  # ) %>% 
+  readr::write_csv("./data/legend.csv")
