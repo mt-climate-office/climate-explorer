@@ -13,7 +13,7 @@ rasters <- list.files("./data", pattern = ".tif", full.names = T) %>%
   tibble::tibble(f = .) %>% 
   dplyr::mutate(base = basename(f) %>% 
                   tools::file_path_sans_ext()) %>%
-  tidyr::separate(base, c("variable", "scenario", "period"))
+  tidyr::separate(base, c("variable", "scenario", "period"), sep = "_")
 
 legend_info <- readr::read_csv("./data/legend.csv", show_col_types = FALSE)
 legend_gridmet <- readr::read_csv("./data/gridmet_legend.csv", show_col_types = FALSE)
@@ -33,6 +33,13 @@ pals <- function(x) {
     "tasmin" = viridisLite::inferno,
     "tasmax" = viridisLite::inferno,
     "sfcWind" = viridisLite::cividis,
+    "above90" = viridisLite::magma,
+    "con-dry" = viridisLite::cividis,
+    "con-wet" = viridisLite::mako,
+    "dry-days" =  viridisLite::cividis,
+    "freeze-free" =  viridisLite::mako,
+    "gdd" =  viridisLite::viridis,
+    "wet-days" =  viridisLite::mako
   )
 }
 
@@ -74,7 +81,14 @@ legend_title <- function(variable, units=TRUE) {
     "rmax" = ifelse(units, "Max. Relative Humidiy [%]", "Max. Relative Humidiy"),
     "rmin" = ifelse(units, "Min. Relative Humidity [%]", "Min. Relative Humidity"),
     "sph" = ifelse(units, "Specific Humidity [%]", "Specific Humidity"),
-    "erc" = ifelse(units, "Energy Release","Energy Release")
+    "erc" = ifelse(units, "Energy Release","Energy Release"),
+    "above90" = "Days Above 90°F",
+    "con-dry" = "Consecutive Dry Days",
+    "con-wet" = "Consecutive Wet Days",
+    "dry-days" = "Dry Days",
+    "freeze-free" = "Freeze-Free Days",
+    "gdd" = "Growing Degree Days",
+    "wet-days" = "Wet Days"
   )
 }
 
@@ -96,7 +110,14 @@ text_units <- function(variable) {
     "rmax" = "percent",
     "rmin" = "percent",
     "sph" = "percent",
-    "erc" = ""
+    "erc" = "",
+    "above90" = "days",
+    "con-dry" = "days",
+    "con-wet" = "days",
+    "dry-days" = "days",
+    "freeze-free" = "days",
+    "gdd" = "days",
+    "wet-days" = "days"
   )
 }
 

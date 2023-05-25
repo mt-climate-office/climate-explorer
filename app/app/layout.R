@@ -23,8 +23,12 @@ variables <- list(
   ),
   `Derived Variables` = c(
     "Days Above 90°F" = "above90",
-    "Frost Free Days" = "frostfree",
-    "Growing Degree Days" = "gdd"
+    "Freeze Free Days" = "freeze-free",
+    "Growing Degree Days" = "gdd",
+    "Consecutive Wet Days" = "con-wet",
+    "Consecutive Dry Days" = "con-dry",
+    "Dry Days" = "dry-days",
+    "Wet Days" = "wet-days"
   )
 )
 
