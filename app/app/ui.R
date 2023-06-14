@@ -16,7 +16,7 @@ navbarPage(
       leafletOutput("map_historical", width = "100%", height = "100%"),
       
       historical_panel,
-      
+      cool_title,
       tags$div(
         id = "cite",
         'Data from',
@@ -37,9 +37,9 @@ navbarPage(
       
       # If not using custom CSS, set height of leafletOutput to a number instead of percent
       leafletOutput("map_future", width = "100%", height = "100%"),
-      
+
       future_panel,
-      
+      cool_title,
       tags$div(
         id = "cite",
         'Data from',
@@ -62,7 +62,7 @@ navbarPage(
       leafletOutput("map_report", width = "100%", height = "100%"),
       
       report_panel,
-      
+      cool_title,
       tags$div(
         id = "cite",
         'Data from',

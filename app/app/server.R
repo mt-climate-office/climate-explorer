@@ -126,6 +126,21 @@ function(input, output, session) {
     )
   })
   
+  titleInput <- eventReactive(list(input$variable, input$historical_variable), {
+    if (!is.null(input$variable)) {
+      list(inputId = "variables", value = input$variable)
+    } else if (!is.null(input$historical_variable)) {
+      list(inputId = "gridmet_variables", value = input$historical_variables)
+    } else {
+      NULL
+    }
+  })
+  
+  observeEvent(titleInput(), {
+    print('asdf')
+    output$coolTitle <- renderText("this is  a test")
+  })
+  
   # This observer is responsible for maintaining the circles and legend,
   # according to the variables the user has chosen to map to color and size.
   observe({
