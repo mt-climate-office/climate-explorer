@@ -9,6 +9,8 @@ hucs <- sf::read_sf("./data/mt_hucs.geojson") %>%
 
 tribes <- sf::read_sf("./data/tribes.geojson")
 
+blm <- sf::read_sf("./data/blm.geojson")
+
 rasters <- list.files("./data", pattern = ".tif", full.names = T) %>% 
   tibble::tibble(f = .) %>% 
   dplyr::mutate(base = basename(f) %>% 

@@ -19,15 +19,18 @@ function(input, output, session) {
                   popup = ~name, layerId = ~id, group = "HUCs") %>%
       addPolygons(data = tribes, fill = TRUE, color = "black", weight = 2,
                   popup = ~name, layerId = ~id, group = "Tribal Lands") %>%
+      addPolygons(data = blm, fill = TRUE, color = "black", weight = 2,
+                  popup = ~name, layerId = ~id, group = "BLM Districts") %>%
       addLayersControl(
-        overlayGroups = c("Counties", "HUCs", "Tribal Lands"), # , "HUCs"
+        overlayGroups = c("Counties", "HUCs", "Tribal Lands", "BLM Districts"), # , "HUCs"
         options = layersControlOptions(
           collapsed = FALSE,
           position = "topleft"
         )
       ) %>%
       hideGroup("HUCs") %>% 
-      hideGroup("Tribal Lands")
+      hideGroup("Tribal Lands") %>%
+      hideGroup("BLM Districts")
     
   })
 
@@ -42,7 +45,9 @@ function(input, output, session) {
       unlist()
     
     scenarios <- paste(input$scenario, collapse = ",")
-    print(click)
+    print(glue::glue(
+      "{API_URL}/data/future/{click[[1]]}/{click[[2]]}/{input$variable}/"
+    ))
     dat <- glue::glue(
         "{API_URL}/data/future/{click[[1]]}/{click[[2]]}/{input$variable}/"
       ) %>%
@@ -126,20 +131,20 @@ function(input, output, session) {
     )
   })
   
-  titleInput <- eventReactive(list(input$variable, input$historical_variable), {
-    if (!is.null(input$variable)) {
-      list(inputId = "variables", value = input$variable)
-    } else if (!is.null(input$historical_variable)) {
-      list(inputId = "gridmet_variables", value = input$historical_variables)
-    } else {
-      NULL
-    }
-  })
-  
-  observeEvent(titleInput(), {
-    print('asdf')
-    output$coolTitle <- renderText("this is  a test")
-  })
+  # titleInput <- eventReactive(list(input$variable, input$historical_variable), {
+  #   if (!is.null(input$variable)) {
+  #     list(inputId = "variables", value = input$variable)
+  #   } else if (!is.null(input$historical_variable)) {
+  #     list(inputId = "gridmet_variables", value = input$historical_variables)
+  #   } else {
+  #     NULL
+  #   }
+  # })
+  # 
+  # observeEvent(titleInput(), {
+  #   print('asdf')
+  #   output$coolTitle <- renderText("this is  a test")
+  # })
   
   # This observer is responsible for maintaining the circles and legend,
   # according to the variables the user has chosen to map to color and size.
@@ -157,7 +162,7 @@ function(input, output, session) {
       add_layers("ssp370", info, TRUE) %>% 
       add_layers("ssp585", info, with_legend = TRUE) %>%
       updateLayersControl(
-        addOverlayGroups = c("Counties", "HUCs", "Tribal Lands"), # , "HUCs"
+        addOverlayGroups = c("Counties", "HUCs", "Tribal Lands", "BLM Districts"), # , "HUCs"
         addBaseGroups = c("SSP1-2.6", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5"),
         options = layersControlOptions(
           collapsed = FALSE,

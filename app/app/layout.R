@@ -38,13 +38,13 @@ reference <- c(
   "Reference Period" = "reference"
 )
 
-cool_title <-       absolutePanel(
-  id = "controlsTitle", class = "panel panel-default", fixed = TRUE,
-  draggable = FALSE, top = 65, right = 10, bottom = "auto",
-  width = 300, height = 100,
-  
-  h2(id="coolTitle", "A cool title!")
-)
+# cool_title <-       absolutePanel(
+#   id = "controlsTitle", class = "panel panel-default", fixed = TRUE,
+#   draggable = FALSE, top = 65, right = 10, bottom = "auto",
+#   width = 300, height = 100,
+#   
+#   h2(id="coolTitle", "A cool title!")
+# )
 
 # Shiny versions prior to 0.11 should use class = "modal" instead.
 future_panel <- absolutePanel(
