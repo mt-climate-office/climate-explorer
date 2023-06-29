@@ -9,7 +9,9 @@ hucs <- sf::read_sf("./data/mt_hucs.geojson") %>%
 
 tribes <- sf::read_sf("./data/tribes.geojson")
 
-blm <- sf::read_sf("./data/blm.geojson")
+
+blm <- sf::read_sf("./data/blm.geojson") %>%
+  dplyr::mutate(id = glue::glue("blm_{id}_{name} District"))
 
 rasters <- list.files("./data", pattern = ".tif", full.names = T) %>% 
   tibble::tibble(f = .) %>% 

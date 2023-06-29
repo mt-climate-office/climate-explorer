@@ -97,6 +97,10 @@ function(input, output, session) {
       stringr::str_split("_") %>% 
       unlist()
     
+    
+    print(glue::glue(
+      "{API_URL}/data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"
+    ))
     dat <- glue::glue(
       "{API_URL}/data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"
 
