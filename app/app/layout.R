@@ -67,19 +67,37 @@ future_panel <- absolutePanel(
   plotly::plotlyOutput("outPlot", height = 500),
 )
 
-gridmet_variables <- c(
-"Energy Release Component"="erc",
-"Potential ET (Alfalfa)"="etr",
-"Potential ET (Grass)"="pet",
-"Precipitation"="pr",
-"Maximum Relative Humidity"="rmax",
-"Minimum Relative Humidity"="rmin",
-# "Specific Humidity"="sph",
-# "Wind Direction"="th",
-"Minumum Temperature"="tmmn",
-"Maximum Temperature"="tmmx",
-"Vapor Pressure Deficit"="vpd",
-"Wind Speed"="vs"
+historical_variables <- list(
+  `GridMET Variables`=c(
+    "Energy Release Component"="erc",
+    "Potential ET (Alfalfa)"="etr",
+    "Potential ET (Grass)"="pet",
+    "Precipitation"="pr",
+    "Maximum Relative Humidity"="rmax",
+    "Minimum Relative Humidity"="rmin",
+    # "Specific Humidity"="sph",
+    # "Wind Direction"="th",
+    "Minumum Temperature"="tmmn",
+    "Maximum Temperature"="tmmx",
+    "Vapor Pressure Deficit"="vpd",
+    "Wind Speed"="vs"
+  ),
+  `Satellite Indicators`=c(
+    "RAP Annual Forb and Grass Cover"="afg",
+    "RAP Bare Ground Cover"="bgr",
+    "RAP Perennial Forb and Grass Cover"="pfg",
+    "RAP Shrub Cover"="shr",
+    "RAP Tree Cover"="tre",
+    "MOD13 EVI"="evi",
+    "MOD13 NDVI"="ndvi",
+    "MOD16 ET"="et_m16",
+    "MOD16 PET"="pet_m16",
+    "MOD17 GPP"="gpp",
+    "RAP Forb and Grass NPP"="afgnpp",
+    "RAP Perennial Forb and Grass NPP"="pfgnpp",
+    "RAP Shrub NPP"="shrnpp",
+    "RAP Tree NPP"="trenpp"
+  )
 )
 
 
@@ -94,7 +112,7 @@ historical_panel <- absolutePanel(
   
   h2("GridMET Trends"),
   
-  selectInput("historical_variable", "Variable", gridmet_variables, selected="pr"),
+  selectInput("historical_variable", "Variable", historical_variables, selected="pr"),
   selectInput("historical_period", "Time Period", time_periods),
 
   plotly::plotlyOutput("historical_outPlot", height = 500),
@@ -108,7 +126,7 @@ report_panel <- absolutePanel(
   
   h2("Create a Report"),
   
-  selectInput("report_gridmet", "Historical Variables", gridmet_variables, multiple=TRUE),
+  selectInput("report_gridmet", "Historical Variables", historical_variables, multiple=TRUE),
   selectInput("report_cmip", "Future Variables", variables, multiple=TRUE),
   selectInput("report_scenarios", "Emission Scenarios", scenarios, multiple=TRUE, selected = c("ssp245", "ssp370")),
   checkboxInput("monthly", "Show Monthly Plots", FALSE),

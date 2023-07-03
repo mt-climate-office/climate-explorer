@@ -179,7 +179,7 @@ placeholder_graph <- function() {
 }
 
 
-gridmet_colors  = list(
+historical_colors  = list(
   'pr'='YlGnBu',
   'pet'='OrRd',
   'etr'='OrRd',
@@ -192,7 +192,21 @@ gridmet_colors  = list(
   'vpd'='OrRd',
   'vs'='RdPu',
   'sph'='Oranges',
-  'srad'='YlOrRd'
+  'srad'='YlOrRd',
+  "afg"='greens',
+  "bgr"='greens',
+  "pfg"='greens',
+  "shr"='greens',
+  "tre"='greens',
+  "evi"='greens',
+  "ndvi"='greens',
+  "et_m16"='OrRd',
+  "pet_m16"='OrRd',
+  "gpp"='PuRd',
+  "afgnpp"='OrRd',
+  "pfgnpp"='OrRd',
+  "shrnpp"='OrRd',
+  "trenpp='OrRd'"
 )
 
 gridmet_legend <- function(input) {
@@ -204,7 +218,7 @@ gridmet_legend <- function(input) {
   )
   mn <- floor(vals$mn)
   mx <- ceiling(vals$mx)
-  pal <- RColorBrewer::brewer.pal(9, gridmet_colors[[input$historical_variable]]) %>% 
+  pal <- RColorBrewer::brewer.pal(9, historical_colors[[input$historical_variable]]) %>% 
     rev() %>% 
     colorRampPalette()
   
