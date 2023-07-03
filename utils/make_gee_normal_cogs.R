@@ -154,7 +154,7 @@ process_to_normal_cogs <- function(r, out_dir = "~/data/blm_project/gee_data", s
         dir.create(write_dir)
       }
       out_names <- file.path(write_dir, paste0(tolower(month.abb), "_mean.tif"))
-      terra::subset(r, stringr::str_detect(var_locs, x)) %>%
+      terra::subset(r, stringr::str_detect(var_locs, paste0("^",x,"$"))) %>%
         magrittr::set_names(tolower(month.abb)) %>%
         {. * scale_factor} %>%
         normals::write_as_cog(out_names)
