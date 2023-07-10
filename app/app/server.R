@@ -180,7 +180,7 @@ function(input, output, session) {
     # Add this here so it is triggered when the tab switches. 
     input$nav
     url = glue::glue("https://data.climate.umt.edu/mt-normals/cog/{input$historical_variable}/{tolower(input$historical_period)}_mean.tif")
-    info <- gridmet_legend(input)
+    info <- historical_legend(input)
 
     leafletProxy("map_historical", data = counties) %>%
       removeTiles(layerId = "geo") %>%

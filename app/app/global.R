@@ -20,7 +20,7 @@ rasters <- list.files("./data", pattern = ".tif", full.names = T) %>%
   tidyr::separate(base, c("variable", "scenario", "period"), sep = "_")
 
 legend_info <- readr::read_csv("./data/legend.csv", show_col_types = FALSE)
-legend_gridmet <- readr::read_csv("./data/gridmet_legend.csv", show_col_types = FALSE)
+legend_historical <- readr::read_csv("./data/historical_legend.csv", show_col_types = FALSE)
 
 API_URL <- ifelse(
   Sys.getenv("IN_DOCKER") == "",
@@ -193,13 +193,13 @@ historical_colors  = list(
   'vs'='RdPu',
   'sph'='Oranges',
   'srad'='YlOrRd',
-  "afg"='greens',
-  "bgr"='greens',
-  "pfg"='greens',
-  "shr"='greens',
-  "tre"='greens',
-  "evi"='greens',
-  "ndvi"='greens',
+  "afg"='Greens',
+  "bgr"='Greens',
+  "pfg"='Greens',
+  "shr"='Greens',
+  "tre"='Greens',
+  "evi"='Greens',
+  "ndvi"='Greens',
   "et_m16"='OrRd',
   "pet_m16"='OrRd',
   "gpp"='PuRd',
@@ -209,27 +209,31 @@ historical_colors  = list(
   "trenpp='OrRd'"
 )
 
-gridmet_legend <- function(input) {
-
+historical_legend <- function(input) {
   vals <- dplyr::filter(
-    legend_gridmet, 
+    legend_historical, 
     variable == input$historical_variable,
     time == tolower(input$historical_period)
   )
+  print(vals)
   mn <- floor(vals$mn)
   mx <- ceiling(vals$mx)
+  print(mn)
+  print(mx)
   pal <- RColorBrewer::brewer.pal(9, historical_colors[[input$historical_variable]]) %>% 
     rev() %>% 
     colorRampPalette()
-  
+  print(pal)
   breaks = seq(mn, mx, length.out=10)
+  print(breaks)
   labels <- breaks %>% 
     change_units(input$historical_variable) 
-  
+
   round_val = ifelse(
     max(labels) - min(labels) < 10, 2, 0
   )
   labels <- round(labels, round_val)
+  print(labels)
   
   return(list(
     "mn" = mn,

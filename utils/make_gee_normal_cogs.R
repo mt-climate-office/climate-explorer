@@ -106,11 +106,11 @@ shp <- urbnmapr::get_urbn_map(sf = T) %>%
 
 mod16 = process_normals(
   ee$ImageCollection("MODIS/006/MOD16A2")$
-    map(clean_mod16)$
-    filterDate("1999-01-01", "2020-12-31"),
+    map(clean_mod16),
   "sum",
   "2001-01-01"
-)
+) %>%
+  rgee::ee_as_rast(region = shp$geometry(), via="drive", scale=500)
 
 
 mod17 = process_normals(
@@ -168,7 +168,33 @@ make_rapp_normals <- function(r, out_dir) {
   normals::write_as_cog(r, paste0(f_names, "/annual_mean.tif"))
 }
 
-
+make_modis_annual_normals <- function(data_dir, func="sum") {
+  list.files(
+    data_dir, 
+    full.names = T, 
+    recursive = T
+  ) %>% 
+    stringr::str_subset(
+      month.abb %>% 
+        tolower() %>% 
+        paste(collapse = "|")
+    ) %>% 
+    tibble::tibble(f = .) %>% 
+    dplyr::mutate(
+      v = basename(dirname(f))
+    ) %>% 
+    dplyr::rowwise() %>% 
+    dplyr::mutate(
+      func = ifelse(v %in% c("et", "pet", "gpp"), "sum", "mean"),
+    ) %>% 
+    dplyr::group_by(v, func) %>% 
+    dplyr::summarise(r = list(terra::rast(f)),
+                     dir_path = unique(dirname(f))) %>% 
+    dplyr::rowwise() %>% 
+    dplyr::mutate(r = list(terra::app(r, func, na.rm = T) %>% 
+                             magrittr::set_names("mean") %>%
+                             normals::write_as_cog(file.path(dir_path, "annual_mean.tif"))))
+}
 
 
 
