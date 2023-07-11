@@ -92,7 +92,21 @@ legend_title <- function(variable, units=TRUE) {
     "dry-days" = "Dry Days",
     "freeze-free" = "Freeze-Free Days",
     "gdd" = "Growing Degree Days",
-    "wet-days" = "Wet Days"
+    "wet-days" = "Wet Days",
+    "afg"=ifelse(units, 'Ground Cover [%]', "Ground Cover"),
+    "bgr"=ifelse(units, 'Ground Cover [%]', "Ground Cover"),
+    "pfg"=ifelse(units, 'Ground Cover [%]', "Ground Cover"),
+    "shr"=ifelse(units, 'Ground Cover [%]', "Ground Cover"),
+    "tre"=ifelse(units, 'Ground Cover [%]', "Ground Cover"),
+    "evi"='Enhanced Vegetation Index',
+    "ndvi"='NDVI',
+    "et_m16"=ifelse(units, 'ET [in]', 'ET'),
+    "pet_m16"=ifelse(units, 'Potential ET [in]', 'Potential ET'),
+    "gpp"=ifelse(units, 'Gross Primary Production [kg m-2]', 'Gross Primary Production'),
+    "afgnpp"=ifelse(units, 'Net Primary Production [kg m-2]', 'Net Primary Production'),
+    "pfgnpp"=ifelse(units, 'Net Primary Production [kg m-2]','Net Primary Production'),
+    "shrnpp"=ifelse(units, 'Net Primary Production [kg m-2]','Net Primary Production'),
+    "trenpp"=ifelse(units, 'Net Primary Production [kg m-2]', 'Net Primary Production')
   )
 }
 
@@ -121,7 +135,21 @@ text_units <- function(variable) {
     "dry-days" = "days",
     "freeze-free" = "days",
     "gdd" = "days",
-    "wet-days" = "days"
+    "wet-days" = "days",
+    "afg"='percent',
+    "bgr"='percent',
+    "pfg"='percent',
+    "shr"='percent',
+    "tre"='percent',
+    "evi"='percent',
+    "ndvi"='percent',
+    "et_m16"='in',
+    "pet_m16"='in',
+    "gpp"='kg m-2',
+    "afgnpp"='kg m-2',
+    "pfgnpp"='kg m-2',
+    "shrnpp"='kg m-2',
+    "trenpp='kg m-2'"
   )
 }
 
