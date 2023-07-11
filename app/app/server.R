@@ -5,7 +5,17 @@ source("./plot.R")
 
 
 function(input, output, session) {
-
+  observeEvent(input$historical_variable, priority = 100, {
+    
+    if (stringr::str_detect(input$historical_variable, "afg|bgr|pfg|shr|tre")) {
+      updateSelectInput(session, "historical_period", choices = list("Annual", "Annual"), selected = "Annual")
+    } else {
+      time_periods <- c("Annual", tolower(month.abb)) %>%
+        magrittr::set_names(c("Annual", month.name))
+      
+      updateSelectInput(session, "historical_period", choices = time_periods, selected = input$historical_period)
+    }
+  })
   ## Interactive Map ###########################################
   # Create the map
   output$map_future <- output$map_historical <- output$map_report <- renderLeaflet({
@@ -45,9 +55,7 @@ function(input, output, session) {
       unlist()
     
     scenarios <- paste(input$scenario, collapse = ",")
-    print(glue::glue(
-      "{API_URL}/data/future/{click[[1]]}/{click[[2]]}/{input$variable}/"
-    ))
+
     dat <- glue::glue(
         "{API_URL}/data/future/{click[[1]]}/{click[[2]]}/{input$variable}/"
       ) %>%
@@ -61,8 +69,6 @@ function(input, output, session) {
         httr::content(show_col_types = FALSE) %>% 
         factor_scenario() 
     
-    print(dat)
-
     if (input$plot_type == "monthly") {
       plt <- dat %>% 
         dplyr::mutate(month = factor(month, levels = month.abb)) %>%
@@ -97,17 +103,19 @@ function(input, output, session) {
       stringr::str_split("_") %>% 
       unlist()
     
+    if (stringr::str_detect(input$historical_variable, "afg|bgr|pfg|shr|tre")) {
+      hp <- "Annual"   
+    } else {
+      hp <- input$historical_period
+    }
     
-    print(glue::glue(
-      "{API_URL}/data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"
-    ))
     dat <- glue::glue(
       "{API_URL}/data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"
 
     ) %>% 
       readr::read_csv(show_col_types = FALSE) 
     
-    plt <- make_historical_plot(dat, input$historical_variable, input$historical_period)
+    plt <- make_historical_plot(dat, input$historical_variable, hp)
     return(
       plotly::ggplotly(plt) %>%
              add_logo_to_plotly()
@@ -134,6 +142,7 @@ function(input, output, session) {
       choices = choices
     )
   })
+  
   
   # titleInput <- eventReactive(list(input$variable, input$historical_variable), {
   #   if (!is.null(input$variable)) {
@@ -179,8 +188,16 @@ function(input, output, session) {
   observe({
     # Add this here so it is triggered when the tab switches. 
     input$nav
-    url = glue::glue("https://data.climate.umt.edu/mt-normals/cog/{input$historical_variable}/{tolower(input$historical_period)}_mean.tif")
-    info <- historical_legend(input)
+    if (stringr::str_detect(input$historical_variable, "afg|bgr|pfg|shr|tre")) {
+      hp <- "Annual"   
+    } else {
+      hp <- input$historical_period
+    }
+    
+    url = glue::glue("https://data.climate.umt.edu/mt-normals/cog/{input$historical_variable}/{tolower(hp)}_mean.tif")
+    print(url)
+        info <- historical_legend(input)
+    print(info)
 
     leafletProxy("map_historical", data = counties) %>%
       removeTiles(layerId = "geo") %>%

@@ -238,22 +238,24 @@ historical_colors  = list(
 )
 
 historical_legend <- function(input) {
+  if (stringr::str_detect(input$historical_variable, "afg|bgr|pfg|shr|tre")) {
+    hp <- "Annual"   
+  } else {
+    hp <- input$historical_period
+  }
+  
   vals <- dplyr::filter(
     legend_historical, 
     variable == input$historical_variable,
-    time == tolower(input$historical_period)
+    time == tolower(hp)
   )
-  print(vals)
   mn <- floor(vals$mn)
   mx <- ceiling(vals$mx)
-  print(mn)
-  print(mx)
+
   pal <- RColorBrewer::brewer.pal(9, historical_colors[[input$historical_variable]]) %>% 
     rev() %>% 
     colorRampPalette()
-  print(pal)
   breaks = seq(mn, mx, length.out=10)
-  print(breaks)
   labels <- breaks %>% 
     change_units(input$historical_variable) 
 
@@ -261,8 +263,7 @@ historical_legend <- function(input) {
     max(labels) - min(labels) < 10, 2, 0
   )
   labels <- round(labels, round_val)
-  print(labels)
-  
+
   return(list(
     "mn" = mn,
     "mx" = mx,
