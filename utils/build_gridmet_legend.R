@@ -1,6 +1,6 @@
 dat <- tidyr::crossing(
   variable = c(# "erc", "etr", "pet", "pr", "rmax", "rmin", "sph", "srad", "tmmn", "tmmx", "vpd", "vs",
-               "afg", "bgr", "evi", "ltr", "pet", "pfgnpp", "shrnpp", "trenpp", "afgnpp", "et",
+               "afg", "bgr", "evi", "ltr", "pet_m16", "pfgnpp", "shrnpp", "trenpp", "afgnpp", "et_m16",
                "gpp", "ndvi", "pfg", "shr", "tre"),
   time = c("annual", tolower(month.abb))
 ) %>% 
@@ -17,17 +17,7 @@ dat <- tidyr::crossing(
     mx = terra::global(r, fun="max", na.rm = T) %>% as.numeric()
   ) %>% 
   dplyr::ungroup() %>% 
-  dplyr::select(-r) %>%
-  dplyr::mutate(
-    mn = dplyr::case_when(
-      variable %in% c("ndvi", "evi", "gpp") ~ mn / 1000, 
-      TRUE ~ mn
-    ),
-    mx = dplyr::case_when(
-      variable %in% c("ndvi", "evi", "gpp") ~ mx / 1000, 
-      TRUE ~ mx
-    )
-  )
+  dplyr::select(-r)
 
 readr::read_csv("./app/app/data/gridmet_legend.csv") %>% 
   dplyr::bind_rows(dat) %>% 

@@ -1,6 +1,6 @@
 library(rgee)
-
-reticulate::use_python("/Users/Colin.Brust/.virtualenvs/rgee/bin/python")
+reticulate::use_python("/home/cbrust/git/py-def-env/.venv/bin/python")
+ee_Initialize(drive=T)
 reticulate::import("ee")
 ee$Initialize()
 
