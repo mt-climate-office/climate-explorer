@@ -28,7 +28,21 @@ name_mapper <- list(
   "dry-days" = "Dry Days",
   "freeze-free" = "Freeze-free Days",
   "gdd" = "Growing Degree Days",
-  "wet-days" = "Wet Days"
+  "wet-days" = "Wet Days",
+  "afg" = "RAP Annual Forb and Grass Cover",
+  "bgr" = "RAP Bare Ground Cover",
+  "pfg" = "RAP Perennial Forb and Grass Cover",
+  "shr" = "RAP Shrub Cover",
+  "tre" = "RAP Tree Cover",
+  "evi" = "MOD13 EVI",
+  "ndvi" = "MOD13 NDVI",
+  "et_m16" = "MOD16 ET",
+  "pet_m16" = "MOD16 PET",
+  "gpp" = "MOD17 GPP",
+  "afgnpp" = "RAP Forb and Grass NPP",
+  "pfgnpp" = "RAP Perennial Forb and Grass NPP",
+  "shrnpp" = "RAP Shrub NPP",
+  "trenpp" = "RAP Tree NPP"
 )
 
 orig_units <- list(
@@ -57,7 +71,21 @@ orig_units <- list(
   "dry-days" = "",
   "freeze-free" = "",
   "gdd" = "",
-  "wet-days" = ""
+  "wet-days" = "",
+  "afg" = "percent",
+  "bgr" = "percent",
+  "pfg" = "percent",
+  "shr" = "percent",
+  "tre" = "percent",
+  "evi" = "",
+  "ndvi" = "",
+  "et_m16" = "mm",
+  "pet_m16" = "mm",
+  "gpp" = "kg m^-2",
+  "afgnpp" = "kg m^-2",
+  "pfgnpp" = "kg m^-2",
+  "shrnpp" = "kg m^-2",
+  "trenpp" = "kg m^-2"
 )
 
 units_us <- list(
@@ -86,7 +114,21 @@ units_us <- list(
   "dry-days" = "",
   "freeze-free" = "",
   "gdd" = "",
-  "wet-days" = ""
+  "wet-days" = "",
+  "afg" = "percent",
+  "bgr" = "percent",
+  "pfg" = "percent",
+  "shr" = "percent",
+  "tre" = "percent",
+  "evi" = "",
+  "ndvi" = "",
+  "et_m16" = "in",
+  "pet_m16" = "in",
+  "gpp" = "lb/acre",
+  "afgnpp" = "lb/acre",
+  "pfgnpp" = "lb/acre",
+  "shrnpp" = "lb/acre",
+  "trenpp" = "lb/acre"
 )
 
 units_metric <- list(
@@ -115,7 +157,21 @@ units_metric <- list(
   "dry-days" = "",
   "freeze-free" = "",
   "gdd" = "",
-  "wet-days" = ""
+  "wet-days" = "",
+  "afg" = "percent",
+  "bgr" = "percent",
+  "pfg" = "percent",
+  "shr" = "percent",
+  "tre" = "percent",
+  "evi" = "",
+  "ndvi" = "",
+  "et_m16" = "mm",
+  "pet_m16" = "mm",
+  "gpp" = "kg m^-2",
+  "afgnpp" = "kg m^-2",
+  "pfgnpp" = "kg m^-2",
+  "shrnpp" = "kg m^-2",
+  "trenpp" = "kg m^-2"
 )
 
 colors = 
@@ -202,14 +258,15 @@ prep_for_timeseries <- function(dat, location, v, us_units=TRUE, scenarios) {
     head(1) %>% 
     dplyr::collect() %>% 
     dplyr::pull(name)
-  
+
   dat %>% 
     dplyr::filter(id == location, variable == v) %>% 
     dplyr::filter(stringr::str_detect(scenario, scenarios)) %>% 
     dplyr::group_by(year=lubridate::year(date), scenario, model) %>% 
     dplyr::summarise(
       value = ifelse(v %in% c("pr", "penman", "hargreaves", "above90", "con-dry", "con-wet",
-                              "dry-days", "freeze-free", "gdd", "wet-days"), sum(value), mean(value)), 
+                              "dry-days", "freeze-free", "gdd", "wet-days", "et_m16", "pet_m16",
+                              "gpp", "afgnpp", "pfgnpp", "shrnpp", "trenpp"), sum(value), mean(value)), 
       .groups = "drop"
     ) %>% 
     dplyr::collect() %>%
