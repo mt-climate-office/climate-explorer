@@ -124,11 +124,11 @@ units_us <- list(
   "ndvi" = "",
   "et_m16" = "in",
   "pet_m16" = "in",
-  "gpp" = "lb/acre",
-  "afgnpp" = "lb/acre",
-  "pfgnpp" = "lb/acre",
-  "shrnpp" = "lb/acre",
-  "trenpp" = "lb/acre"
+  "gpp" = "kg m-2",
+  "afgnpp" = "kg m-2",
+  "pfgnpp" = "kg m-2",
+  "shrnpp" = "kg m-2",
+  "trenpp" = "kg m-2"
 )
 
 units_metric <- list(
