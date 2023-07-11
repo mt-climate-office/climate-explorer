@@ -81,11 +81,11 @@ orig_units <- list(
   "ndvi" = "",
   "et_m16" = "mm",
   "pet_m16" = "mm",
-  "gpp" = "kg m^-2",
-  "afgnpp" = "kg m^-2",
-  "pfgnpp" = "kg m^-2",
-  "shrnpp" = "kg m^-2",
-  "trenpp" = "kg m^-2"
+  "gpp" = "kg m-2",
+  "afgnpp" = "kg m-2",
+  "pfgnpp" = "kg m-2",
+  "shrnpp" = "kg m-2",
+  "trenpp" = "kg m-2"
 )
 
 units_us <- list(
@@ -167,11 +167,11 @@ units_metric <- list(
   "ndvi" = "",
   "et_m16" = "mm",
   "pet_m16" = "mm",
-  "gpp" = "kg m^-2",
-  "afgnpp" = "kg m^-2",
-  "pfgnpp" = "kg m^-2",
-  "shrnpp" = "kg m^-2",
-  "trenpp" = "kg m^-2"
+  "gpp" = "kg m-2",
+  "afgnpp" = "kg m-2",
+  "pfgnpp" = "kg m-2",
+  "shrnpp" = "kg m-2",
+  "trenpp" = "kg m-2"
 )
 
 colors = 
