@@ -19,11 +19,11 @@ navbarPage(
       # cool_title,
       tags$div(
         id = "cite",
-        'Data from',
+        'Data Source: ',
         tags$em(
-          'NASA Global Daily Downscaled Projections, CMIP6 (NEX-GDDP-CMIP6)'
+          'Development of gridded surface meteorological data for ecological applications and modelling. Int. J. Climatol., 33: 121–131.'
         ),
-        ' Thrasher, B., Wang, W., Michaelis, A. et al. (2022).'
+        'Abatzoglou, J. T. (2013)'
       )
     )
   ),
