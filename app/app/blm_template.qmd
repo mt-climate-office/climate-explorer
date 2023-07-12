@@ -77,10 +77,13 @@ calc_historical_pvalue <- function(timescale, dat) {
 }
 
 historical_interpretive_text <- function(dat) {
-
-  p_values <- c("Annual", month.name) %>% 
-    magrittr::set_names(c("Annual", month.name)) %>% 
-    purrr::map_df(calc_historical_pvalue, dat=dat)
+  if (stringr::str_detect(dat$variable[[1]], "afg|bgr|pfg|shr|tre")) {
+    times <-  list("Annual"="Annual")
+  } else {
+    times <- c("Annual", month.name) %>% 
+    magrittr::set_names(c("Annual", month.name))
+  }
+  p_values <- purrr::map_df(times, calc_historical_pvalue, dat=dat)
   
   txt = "Between 1979 and 2020, there has been"
   if (!dplyr::filter(p_values, timescale == "Annual") %$% p_value) {
@@ -91,18 +94,19 @@ historical_interpretive_text <- function(dat) {
     txt = glue::glue("{txt} a statistically significant change in {tolower(legend_title(dat$variable[[1]], FALSE))} of {change} {text_units(dat$variable[[1]])} per decade at an annual timescale.")
   }
   
-  filt <- p_values %>% 
-    dplyr::filter(p_value) %>%
-    dplyr::rowwise() %>% 
-    dplyr::mutate(text = glue::glue("{timescale} ({round(slope,4)} {text_units(dat$variable[[1]])} per decade)")) %>% 
-    dplyr::filter(timescale != "Annual")
-  
-  if (nrow(filt) == 0) {
-    txt <- glue::glue("{txt} When looking at monthly data, there has also been no significant trend in {tolower(legend_title(dat$variable[[1]], FALSE))} across the same time period.")
-  } else {
-    txt <- glue::glue("{txt} When looking at monthly data, there have been significant changes in {tolower(legend_title(dat$variable[[1]], FALSE))} in {knitr::combine_words(filt$text)}.")
+  if (length(times) > 1) {
+      filt <- p_values %>% 
+        dplyr::filter(p_value) %>%
+        dplyr::rowwise() %>% 
+        dplyr::mutate(text = glue::glue("{timescale} ({round(slope,4)} {text_units(dat$variable[[1]])} per decade)")) %>% 
+        dplyr::filter(timescale != "Annual")
+      if (nrow(filt) == 0) {
+        txt <- glue::glue("{txt} When looking at monthly data, there has also been no significant trend in {tolower(legend_title(dat$variable[[1]], FALSE))} across the same time period.")
+      } else {
+        txt <- glue::glue("{txt} When looking at monthly data, there have been significant changes in {tolower(legend_title(dat$variable[[1]], FALSE))} in {knitr::combine_words(filt$text)}.")
+      }
   }
-  
+
   txt <- glue::glue("{txt} Below, annual trends in {tolower(legend_title(dat$variable[[1]], FALSE))} are plotted for the GridMet period of record.")
   return(txt)
 }

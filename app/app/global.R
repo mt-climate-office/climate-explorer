@@ -81,7 +81,7 @@ legend_title <- function(variable, units=TRUE) {
     "etr" = ifelse(units, "Reference ET [in]", "Reference ET"),
     "pet" = ifelse(units, "Reference ET [in]", "Reference ET"),
     "vs" = ifelse(units, "Wind Speed [mph]", "Wind Speed"),
-    "vpd" = ifelse(units, "Vapor Pressure Deficit [mbar]", "Vapor Pressure Deficit"),
+    "vpd" = ifelse(units, "VPD [mbar]", "VPD"),
     "rmax" = ifelse(units, "Max. Relative Humidiy [%]", "Max. Relative Humidiy"),
     "rmin" = ifelse(units, "Min. Relative Humidity [%]", "Min. Relative Humidity"),
     "sph" = ifelse(units, "Specific Humidity [%]", "Specific Humidity"),
@@ -98,15 +98,15 @@ legend_title <- function(variable, units=TRUE) {
     "pfg"=ifelse(units, 'Ground Cover [%]', "Ground Cover"),
     "shr"=ifelse(units, 'Ground Cover [%]', "Ground Cover"),
     "tre"=ifelse(units, 'Ground Cover [%]', "Ground Cover"),
-    "evi"='Enhanced Vegetation Index',
+    "evi"='EVI',
     "ndvi"='NDVI',
     "et_m16"=ifelse(units, 'ET [in]', 'ET'),
     "pet_m16"=ifelse(units, 'Potential ET [in]', 'Potential ET'),
-    "gpp"=ifelse(units, 'Gross Primary Production [kg m-2]', 'Gross Primary Production'),
-    "afgnpp"=ifelse(units, 'Net Primary Production [kg m-2]', 'Net Primary Production'),
-    "pfgnpp"=ifelse(units, 'Net Primary Production [kg m-2]','Net Primary Production'),
-    "shrnpp"=ifelse(units, 'Net Primary Production [kg m-2]','Net Primary Production'),
-    "trenpp"=ifelse(units, 'Net Primary Production [kg m-2]', 'Net Primary Production')
+    "gpp"=ifelse(units, 'GPP [kg m-2]', 'Gross Primary Production'),
+    "afgnpp"=ifelse(units, 'NPP [kg m-2]', 'Net Primary Production'),
+    "pfgnpp"=ifelse(units, 'NPP [kg m-2]','Net Primary Production'),
+    "shrnpp"=ifelse(units, 'NPP [kg m-2]','Net Primary Production'),
+    "trenpp"=ifelse(units, 'NPP [kg m-2]', 'Net Primary Production')
   )
 }
 
@@ -141,10 +141,10 @@ text_units <- function(variable) {
     "pfg"='percent',
     "shr"='percent',
     "tre"='percent',
-    "evi"='percent',
-    "ndvi"='percent',
-    "et_m16"='in',
-    "pet_m16"='in',
+    "evi"='',
+    "ndvi"='',
+    "et_m16"='in.',
+    "pet_m16"='in.',
     "gpp"='kg m-2',
     "afgnpp"='kg m-2',
     "pfgnpp"='kg m-2',
@@ -234,7 +234,7 @@ historical_colors  = list(
   "afgnpp"='OrRd',
   "pfgnpp"='OrRd',
   "shrnpp"='OrRd',
-  "trenpp='OrRd'"
+  "trenpp"='OrRd'
 )
 
 historical_legend <- function(input) {

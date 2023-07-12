@@ -110,7 +110,7 @@ historical_panel <- absolutePanel(
   draggable = FALSE, top = 65, left = "auto", right = 10, bottom = "auto",
   width = 500, height = "90vh",
   
-  h2("GridMET Trends"),
+  h2("Climate and Vegetation Trends"),
   
   selectInput("historical_variable", "Variable", historical_variables, selected="pr"),
   selectInput("historical_period", "Time Period", time_periods),
