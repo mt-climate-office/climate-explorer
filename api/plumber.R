@@ -4,7 +4,7 @@ source("./crud.R")
 # dotenv::load_dot_env("../.env")
 args <- list(
   RPostgres::Postgres(),
-  host = "fcfc-mesonet-db.cfc.umt.edu",
+  host = Sys.getenv("POSTGRES_SERVER"),
   dbname = Sys.getenv("POSTGRES_DBNAME"),
   user = Sys.getenv("POSTGRES_USER"),
   password = Sys.getenv("POSTGRES_PASSWORD"),
