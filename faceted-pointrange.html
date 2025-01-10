@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Faceted Point Range Plot</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+    <style>
+        .chart-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            width: 800px;
+            margin: 20px auto;
+        }
+        .facet {
+            position: relative;
+        }
+        .facet-label {
+            position: absolute;
+            left: -40px;
+            top: 50%;
+            transform: translateY(-50%) rotate(-90deg);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-container">
+        <div class="facet">
+            <div class="facet-label">Group 1</div>
+            <canvas id="chart1"></canvas>
+        </div>
+        <div class="facet">
+            <div class="facet-label">Group 2</div>
+            <canvas id="chart2"></canvas>
+        </div>
+        <div class="facet">
+            <div class="facet-label">Group 3</div>
+            <canvas id="chart3"></canvas>
+        </div>
+    </div>
+
+    <script>
+        // Register custom plugin for error bars
+        const errorBarPlugin = {
+            id: 'errorBar',
+            afterDatasetsDraw: (chart, args, plugins) => {
+                const {ctx} = chart;
+                
+                chart.data.datasets.forEach((dataset, i) => {
+                    if (!dataset.errorBars) return;
+                    
+                    const meta = chart.getDatasetMeta(i);
+                    
+                    meta.data.forEach((element, index) => {
+                        const {x, y} = element.getCenterPoint();
+                        const data = dataset.data[index];
+                        
+                        if (!data.lower || !data.upper) return;
+                        
+                        ctx.save();
+                        ctx.beginPath();
+                        ctx.strokeStyle = dataset.borderColor;
+                        ctx.lineWidth = 2;
+                        
+                        // Draw vertical line
+                        ctx.moveTo(x, chart.scales.y.getPixelForValue(data.lower));
+                        ctx.lineTo(x, chart.scales.y.getPixelForValue(data.upper));
+                        
+                        // Draw horizontal caps
+                        const capWidth = 4;
+                        ctx.moveTo(x - capWidth, chart.scales.y.getPixelForValue(data.lower));
+                        ctx.lineTo(x + capWidth, chart.scales.y.getPixelForValue(data.lower));
+                        ctx.moveTo(x - capWidth, chart.scales.y.getPixelForValue(data.upper));
+                        ctx.lineTo(x + capWidth, chart.scales.y.getPixelForValue(data.upper));
+                        
+                        ctx.stroke();
+                        ctx.restore();
+                    });
+                });
+            }
+        };
+        
+        Chart.register(errorBarPlugin);
+
+        // Generate dummy data
+        function generateData(months, baseline, volatility) {
+            return months.map(month => {
+                const y = baseline + Math.random() * volatility;
+                return {
+                    x: month,
+                    y: y,
+                    lower: y - 0.5,
+                    upper: y + 0.5
+                };
+            });
+        }
+
+        const months = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
+        const groups = ['Group 1', 'Group 2', 'Group 3'];
+        const scenarios = ['Scenario A', 'Scenario B'];
+        const colors = {
+            'Scenario A': 'rgb(75, 192, 192)',
+            'Scenario B': 'rgb(255, 99, 132)'
+        };
+
+        function createChart(canvasId, groupData, groupLabel) {
+            const ctx = document.getElementById(canvasId).getContext('2d');
+            
+            const datasets = scenarios.map(scenario => ({
+                label: scenario,
+                data: groupData[scenario],
+                borderColor: colors[scenario],
+                backgroundColor: colors[scenario],
+                pointRadius: 4,
+                tension: 0.1,
+                errorBars: true
+            }));
+
+            return new Chart(ctx, {
+                type: 'line',
+                data: {
+                    datasets: datasets
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            position: 'bottom'
+                        }
+                    },
+                    scales: {
+                        x: {
+                            type: 'linear',
+                            ticks: {
+                                stepSize: 1
+                            },
+                            min: 1,
+                            max: 12
+                        },
+                        y: {
+                            beginAtZero: false
+                        }
+                    }
+                }
+            });
+        }
+
+        // Create a chart for each group
+        groups.forEach((group, index) => {
+            const groupData = {};
+            scenarios.forEach(scenario => {
+                groupData[scenario] = generateData(months, 30 + index * 10, 5);
+            });
+            createChart(`chart${index + 1}`, groupData, group);
+        });
+    </script>
+</body>
+</html>

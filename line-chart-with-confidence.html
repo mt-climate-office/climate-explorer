@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Time Series with Confidence Intervals</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+    <style>
+        .chart-container {
+            width: 800px;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-container">
+        <canvas id="myChart"></canvas>
+    </div>
+
+    <script>
+        // Generate dummy data
+        function generateData(startYear, endYear, baseline, volatility) {
+            const data = [];
+            for (let year = startYear; year <= endYear; year += 5) {
+                const value = baseline + Math.sin((year - startYear) / 30) * 10 + Math.random() * volatility;
+                data.push({
+                    x: year,
+                    y: value,
+                    lower: value - volatility/2,
+                    upper: value + volatility/2
+                });
+            }
+            return data;
+        }
+
+        const scenario1Data = generateData(1950, 2100, 50, 5);
+        const scenario2Data = generateData(1950, 2100, 30, 3);
+
+        // Create the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                datasets: [
+                    {
+                        label: 'Scenario 1',
+                        data: scenario1Data,
+                        borderColor: 'rgb(75, 192, 192)',
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        fill: false,
+                        tension: 0.4
+                    },
+                    {
+                        label: 'Scenario 1 Confidence',
+                        data: scenario1Data,
+                        fill: '+1',
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderWidth: 0,
+                        pointRadius: 0,
+                        parsing: {
+                            yAxisKey: 'upper'
+                        }
+                    },
+                    {
+                        label: 'Scenario 1 Confidence',
+                        data: scenario1Data,
+                        fill: false,
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderWidth: 0,
+                        pointRadius: 0,
+                        parsing: {
+                            yAxisKey: 'lower'
+                        }
+                    },
+                    {
+                        label: 'Scenario 2',
+                        data: scenario2Data,
+                        borderColor: 'rgb(255, 99, 132)',
+                        backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                        fill: false,
+                        tension: 0.4
+                    },
+                    {
+                        label: 'Scenario 2 Confidence',
+                        data: scenario2Data,
+                        fill: '+1',
+                        backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                        borderWidth: 0,
+                        pointRadius: 0,
+                        parsing: {
+                            yAxisKey: 'upper'
+                        }
+                    },
+                    {
+                        label: 'Scenario 2 Confidence',
+                        data: scenario2Data,
+                        fill: false,
+                        backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                        borderWidth: 0,
+                        pointRadius: 0,
+                        parsing: {
+                            yAxisKey: 'lower'
+                        }
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            filter: function(legendItem, data) {
+                                return !legendItem.text.includes('Confidence');
+                            }
+                        }
+                    },
+                    title: {
+                        display: true,
+                        text: 'Time Series with Confidence Intervals',
+                        align: 'center'
+                    }
+                },
+                scales: {
+                    x: {
+                        type: 'linear',
+                        ticks: {
+                            stepSize: 25,
+                        },
+                        min: 1950,
+                        max: 2100
+                    },
+                    y: {
+                        beginAtZero: false
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
