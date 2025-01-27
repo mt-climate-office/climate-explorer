@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yearly Trend Chart</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-zoom/2.0.1/chartjs-plugin-zoom.min.js"></script>
+    <style>
+        .chart-container {
+            width: 800px;
+            height: 400px;
+            margin: 20px auto;
+            position: relative;
+        }
+        .logo {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 50px;
+            height: 50px;
+            z-index: 10;
+            background: #fff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+            color: #333;
+            border: 2px solid #ddd;
+        }
+        .controls {
+            text-align: center;
+            margin: 10px;
+        }
+        button {
+            padding: 8px 16px;
+            margin: 0 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-container">
+        <div class="logo">LOGO</div>
+        <canvas id="myChart"></canvas>
+    </div>
+    <div class="controls">
+        <button onclick="resetZoom()">Reset Zoom</button>
+    </div>
+
+    <script>
+        let chartInstance;
+
+        function resetZoom() {
+            chartInstance.resetZoom();
+        }
+
+        function createChart(fit = false) {
+            const years = Array.from({length: 30}, (_, i) => 1991 + i);
+            const values = [15.3691136843187, 10.9666869431025, 12.4281491599915, 20.4839135291152, 12.4685560105858, 13.9338781945326, 7.91939262142874, 15.3135037712477, 12.6145542348073, 19.6297355526521, 16.9480233382814, 13.8727526670548, 13.0447488463304, 20.2630017579409, 10.2258413169611, 13.2264573985107, 11.12181571159, 17.4149496055856, 16.9348412496291, 16.9646913911643, 17.0215619050127, 15.3375031757289, 15.3263397702499, 17.8872470052566, 18.3004162556434, 10.0612563268962, 17.330699638753, 12.8330714477539, 15.63600008238, 16.853115397082];
+
+            // Calculate trend line if fit is true
+            let trendLineData = [];
+            if (fit) {
+                const n = years.length;
+                const sumX = years.reduce((a, b) => a + b, 0);
+                const sumY = values.reduce((a, b) => a + b, 0);
+                const sumXY = years.reduce((acc, x, i) => acc + x * values[i], 0);
+                const sumXX = years.reduce((acc, x) => acc + x * x, 0);
+                
+                const slope = (n * sumXY - sumX * sumY) / (n * sumXX - sumX * sumX);
+                const intercept = (sumY - slope * sumX) / n;
+                
+                trendLineData = years.map(x => slope * x + intercept);
+            }
+
+            const ctx = document.getElementById('myChart');
+            
+            const datasets = [{
+                label: 'Values',
+                data: values,
+                borderColor: 'rgb(75, 192, 192)',
+                backgroundColor: 'rgba(75, 192, 192, 0.5)',
+                pointRadius: 4,
+                tension: 0.1
+            }];
+
+            if (fit) {
+                datasets.push({
+                    label: 'Trend Line',
+                    data: trendLineData,
+                    borderColor: 'rgb(255, 99, 132)',
+                    backgroundColor: 'rgba(255, 99, 132, 0.5)',
+                    borderDash: [5, 5],
+                    pointRadius: 0,
+                    tension: 0
+                });
+            }
+
+            chartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: years,
+                    datasets: datasets
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        },
+                        title: {
+                            display: true,
+                            text: 'Yearly Trend Analysis'
+                        },
+                        zoom: {
+                            pan: {
+                                enabled: true,
+                                mode: 'xy'
+                            },
+                            zoom: {
+                                wheel: {
+                                    enabled: true,
+                                },
+                                pinch: {
+                                    enabled: true
+                                },
+                                mode: 'xy',
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: {
+                                callback: function(val, index) {
+                                    const year = this.getLabelForValue(val);
+                                    return year % 5 === 0 ? year : '';
+                                }
+                            }
+                        },
+                        y: {
+                            beginAtZero: false
+                        }
+                    }
+                }
+            });
+        }
+
+        // Initialize chart with trend line
+        createChart(true);
+    </script>
+</body>
+</html>
