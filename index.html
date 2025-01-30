@@ -6,6 +6,7 @@
     <title>Climate Explorer</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.24.2/plotly.min.js"></script>
+    <script src="https://unpkg.com/flatgeobuf@3.22.0/dist/flatgeobuf-geojson.min.js"></script>
     <style>
         body, html {
             margin: 0;
@@ -214,10 +215,92 @@
 
         // Initialize single map instance
         const map = L.map('map').setView(MONTANA_CENTER, ZOOM_LEVEL);
+
+        // Add base tile layer
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors'
         }).addTo(map);
+        // Store layers for the control panel
+        const overlayMaps = {};
 
+        // Create the layer control immediately with baseLayers (first argument) instead of overlays
+        const baseMaps = L.control.layers({}, null, {
+            collapsed: false,
+            position: 'topleft'
+        }).addTo(map);
+
+        /**
+         * Loads a FlatGeobuf layer and adds it to the layer control
+         * @param {string} url - URL of the FlatGeobuf file
+         * @param {string} layerId - Unique identifier for the layer
+         * @param {string} layerName - Display name for the layer in the control panel
+         * @param {Object} style - Leaflet style object for the features
+         * @returns {Promise<void>}
+         */
+        async function loadFlatGeobufLayer(url, layerId, layerName, style = {
+            fillColor: "rgba(0, 0, 0, 0)",
+            fillOpacity: 0.9,
+            color: "black",
+            weight: 1
+        }) {
+            try {
+                // Create a feature group for the layer
+                const layerGroup = L.featureGroup();
+                
+                const response = await fetch(url);
+                
+                for await (const feature of flatgeobuf.deserialize(response.body)) {
+                    L.geoJSON(feature, {
+                        style: () => style,
+                        onEachFeature: (feature, layer) => {
+                            if (feature.properties) {
+                                layer.bindTooltip(
+                                    feature.properties.name
+                                );
+                            }
+                        }
+                    }).addTo(layerGroup);
+                }
+
+                // Add the layer to the overlay maps object
+                overlayMaps[layerName] = layerGroup;
+
+                baseMaps.addBaseLayer(layerGroup, layerName);
+                
+                if (Object.keys(overlayMaps).length === 1) {
+                    layerGroup.addTo(map);
+                }
+
+            } catch (error) {
+                console.error(`Error loading FlatGeobuf layer ${layerId}:`, error);
+            }
+        }
+
+        loadFlatGeobufLayer(
+            "https://data.climate.umt.edu/mt-normals/fgb/explorer/blm.fgb",
+            "blm",
+            "BLM Districts"
+        );
+
+        loadFlatGeobufLayer(
+            "https://data.climate.umt.edu/mt-normals/fgb/explorer/counties.fgb",
+            "counties",
+            "Counties"
+        );
+
+        loadFlatGeobufLayer(
+            "https://data.climate.umt.edu/mt-normals/fgb/explorer/hucs.fgb",
+            "hucs",
+            "HUCs"
+        );
+
+        loadFlatGeobufLayer(
+            "https://data.climate.umt.edu/mt-normals/fgb/explorer/tribes.fgb",
+            "tribes",
+            "Tribal Lands"
+        );
+
+        console.log(overlayMaps);
         // Create sample plots
         function createPlot(elementId) {
             const data = [{
