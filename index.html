@@ -13,7 +13,7 @@
             padding: 0;
             height: 100%;
             font-family: Arial, sans-serif;
-            background: #f5f5f5;
+            background: #FFFFFF;
         }
         .container {
             height: 100%;
@@ -24,7 +24,7 @@
             display: flex;
             padding: 20px;
             gap: 10px;
-            background: #f5f5f5;
+            background: #FFFFFF;
         }
         .tab {
             flex: 1;
@@ -125,6 +125,9 @@
 <body>
     <div class="container">
         <div class="tabs">
+            <a href="https://climate.umt.edu" style="display: flex; align-items: center; margin-right: 20px;">
+            <img src="https://data.climate.umt.edu/website/assets/MCO_logo.png" alt="MCO Logo" style="height: 40px;">
+            </a>
             <button class="tab active" onclick="switchTab(0)">Historical Trends</button>
             <button class="tab" onclick="switchTab(1)">Climate Projections</button>
             <button class="tab" onclick="switchTab(2)">Report Builder</button>
@@ -208,134 +211,8 @@
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+
     <script>
-        // Montana coordinates
-        const MONTANA_CENTER = [46.8797, -110.3626];
-        const ZOOM_LEVEL = 7;
-
-        // Initialize single map instance
-        const map = L.map('map').setView(MONTANA_CENTER, ZOOM_LEVEL);
-
-        // Add base tile layer
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap contributors'
-        }).addTo(map);
-        // Store layers for the control panel
-        const overlayMaps = {};
-
-        // Create the layer control immediately with baseLayers (first argument) instead of overlays
-        const baseMaps = L.control.layers({}, null, {
-            collapsed: false,
-            position: 'topleft'
-        }).addTo(map);
-
-        /**
-         * Loads a FlatGeobuf layer and adds it to the layer control
-         * @param {string} url - URL of the FlatGeobuf file
-         * @param {string} layerId - Unique identifier for the layer
-         * @param {string} layerName - Display name for the layer in the control panel
-         * @param {Object} style - Leaflet style object for the features
-         * @returns {Promise<void>}
-         */
-        async function loadFlatGeobufLayer(url, layerId, layerName, style = {
-            fillColor: "rgba(0, 0, 0, 0)",
-            fillOpacity: 0.9,
-            color: "black",
-            weight: 1
-        }) {
-            try {
-                // Create a feature group for the layer
-                const layerGroup = L.featureGroup();
-                
-                const response = await fetch(url);
-                
-                for await (const feature of flatgeobuf.deserialize(response.body)) {
-                    L.geoJSON(feature, {
-                        style: () => style,
-                        onEachFeature: (feature, layer) => {
-                            if (feature.properties) {
-                                layer.bindTooltip(
-                                    feature.properties.name
-                                );
-                            }
-                        }
-                    }).addTo(layerGroup);
-                }
-
-                // Add the layer to the overlay maps object
-                overlayMaps[layerName] = layerGroup;
-
-                baseMaps.addBaseLayer(layerGroup, layerName);
-                
-                if (Object.keys(overlayMaps).length === 1) {
-                    layerGroup.addTo(map);
-                }
-
-            } catch (error) {
-                console.error(`Error loading FlatGeobuf layer ${layerId}:`, error);
-            }
-        }
-
-        loadFlatGeobufLayer(
-            "https://data.climate.umt.edu/mt-normals/fgb/explorer/blm.fgb",
-            "blm",
-            "BLM Districts"
-        );
-
-        loadFlatGeobufLayer(
-            "https://data.climate.umt.edu/mt-normals/fgb/explorer/counties.fgb",
-            "counties",
-            "Counties"
-        );
-
-        loadFlatGeobufLayer(
-            "https://data.climate.umt.edu/mt-normals/fgb/explorer/hucs.fgb",
-            "hucs",
-            "HUCs"
-        );
-
-        loadFlatGeobufLayer(
-            "https://data.climate.umt.edu/mt-normals/fgb/explorer/tribes.fgb",
-            "tribes",
-            "Tribal Lands"
-        );
-
-        console.log(overlayMaps);
-        // Create sample plots
-        function createPlot(elementId) {
-            const data = [{
-                x: Array.from({length: 10}, (_, i) => i),
-                y: Array.from({length: 10}, () => Math.random() * 10),
-                type: 'scatter',
-                mode: 'lines+markers',
-                line: {color: '#4a90e2'}
-            }];
-
-            const layout = {
-                margin: { t: 20, r: 20, l: 40, b: 40 },
-                paper_bgcolor: 'rgba(0,0,0,0)',
-                plot_bgcolor: 'rgba(0,0,0,0)',
-                xaxis: {
-                    title: 'Time',
-                    gridcolor: '#eee'
-                },
-                yaxis: {
-                    title: 'Value',
-                    gridcolor: '#eee'
-                }
-            };
-
-            Plotly.newPlot(elementId, data, layout, {
-                responsive: true,
-                displayModeBar: false
-            });
-        }
-
-        // Initialize plots
-        createPlot('plot1');
-        createPlot('plot2');
-        createPlot('plot3');
-
         function switchTab(index) {
             // Update tab styles
             document.querySelectorAll('.tab').forEach((tab, i) => {
@@ -350,6 +227,161 @@
             // Trigger resize for plot
             window.dispatchEvent(new Event('resize'));
         }
+    </script>
+    
+    <script>
+        // Montana coordinates
+        const MONTANA_CENTER = [46.8797, -108.8];
+        const ZOOM_LEVEL = 6.5;
+
+        // Initialize single map instance
+        const map = L.map('map').setView(MONTANA_CENTER, ZOOM_LEVEL);
+
+        // Add base tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+        // Store layers for the control panel
+        var overlayMaps = {};
+
+        // Create the layer control immediately with baseLayers (first argument) instead of overlays
+        const baseMaps = L.control.layers({}, null, {
+            collapsed: false,
+            position: 'topleft'
+        }).addTo(map);
+        /**
+         * Loads a FlatGeobuf layer and adds it to the layer control
+         * @param {string} url - URL of the FlatGeobuf file
+         * @param {string} layerId - Unique identifier for the layer
+         * @param {string} layerName - Display name for the layer in the control panel
+         * @param {Object} style - Leaflet style object for the features
+         * @returns {Promise<void>}
+         */
+        async function loadFlatGeobufLayer(url, layerId, layerName, add_to_group = true, style = {
+            fillColor: "rgba(0, 0, 0, 0)",
+            fillOpacity: 0.9,
+            color: "black",
+            weight: 1
+        }) {
+            try {
+                // Create a feature group for the layer
+                const layerGroup = L.featureGroup();
+                const response = await fetch(url);
+                
+                for await (const feature of flatgeobuf.deserialize(response.body)) {
+                    var feat = L.geoJSON(feature, {
+                    style: () => style,
+                    onEachFeature: (feature, layer) => {
+                        if (feature.properties && add_to_group) {
+                        layer.bindTooltip(
+                            feature.properties.name
+                        );
+                        }
+                    }
+                    })
+                    
+                    if (add_to_group) {
+                        feat.addTo(layerGroup);
+                    } else {
+                        feat.addTo(map);
+                    }
+                }
+
+                if (add_to_group) {
+                    // Add the layer to the overlay maps object
+                    overlayMaps[layerId] = layerGroup;
+                    baseMaps.addBaseLayer(layerGroup, layerName);
+                }
+
+                if (Object.keys(overlayMaps).length === 1) {
+                    layerGroup.addTo(map);
+                }
+            } catch (error) {
+                console.error(`Error loading FlatGeobuf layer ${layerId}:`, error);
+            }
+        }
+        async function main() {
+        
+            await loadFlatGeobufLayer(
+                "https://data.climate.umt.edu/mt-normals/fgb/mt.fgb",
+                "",
+                "",
+                false,
+                style = {
+                    fillColor: "rgba(0, 0, 0, 0)",
+                    fillOpacity: 0.9,
+                    color: "black",
+                    weight: 3
+                }
+            );
+
+            await loadFlatGeobufLayer(
+                "https://data.climate.umt.edu/mt-normals/fgb/explorer/counties.fgb",
+                "counties",
+                "Counties"
+            );
+
+            await loadFlatGeobufLayer(
+                "https://data.climate.umt.edu/mt-normals/fgb/explorer/blm.fgb",
+                "blm",
+                "BLM Districts"
+            );
+
+            await loadFlatGeobufLayer(
+                "https://data.climate.umt.edu/mt-normals/fgb/explorer/hucs.fgb",
+                "hucs",
+                "HUCs"
+            );
+
+            await loadFlatGeobufLayer(
+                "https://data.climate.umt.edu/mt-normals/fgb/explorer/tribes.fgb",
+                "tribes",
+                "Tribal Lands"
+            );
+
+            Object.entries(overlayMaps).forEach(([key, value]) => {
+                value.on("click", event => {
+                    const parts = event.layer.feature.properties.id.split("_");
+                    console.log(parts);
+                })
+            });
+
+
+            function createPlot(elementId) {
+                const data = [{
+                    x: Array.from({length: 10}, (_, i) => i),
+                    y: Array.from({length: 10}, () => Math.random() * 10),
+                    type: 'scatter',
+                    mode: 'lines+markers',
+                    line: {color: '#4a90e2'}
+                }];
+
+                const layout = {
+                    margin: { t: 20, r: 20, l: 40, b: 40 },
+                    paper_bgcolor: 'rgba(0,0,0,0)',
+                    plot_bgcolor: 'rgba(0,0,0,0)',
+                    xaxis: {
+                        title: 'Time',
+                        gridcolor: '#eee'
+                    },
+                    yaxis: {
+                        title: 'Value',
+                        gridcolor: '#eee'
+                    }
+                };
+
+                Plotly.newPlot(elementId, data, layout, {
+                    responsive: true,
+                    displayModeBar: false
+                });
+            }
+
+            // Initialize plots
+            createPlot('plot1');
+            createPlot('plot2');
+            createPlot('plot3');
+        }
+        main();
     </script>
 </body>
 </html>
