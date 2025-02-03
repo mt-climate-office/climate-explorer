@@ -138,7 +138,7 @@ get_historical_df <- function(variable, loc_type, db_id) {
   } else {
     print(glue::glue("Creating {out_name} from API."))
     readr::read_csv(
-      "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{loc_type}/{db_id}/{variable}/",
+      glue::glue("http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{loc_type}/{db_id}/{variable}/"),
       show_col_types = FALSE
     ) %>%
       readr::write_csv(out_name)
@@ -176,8 +176,8 @@ dat %>%
 
 dat %>%
   tidyr::crossing(historical_df) %>%
-  dplyr::select(-name) %>%
-  purrr::pmap(get_historical_df_)
+  dplyr::select(-name, -endpoint) %>%
+  purrr::pmap(get_historical_df)
 
 
 
