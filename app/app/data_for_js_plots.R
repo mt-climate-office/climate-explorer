@@ -7,6 +7,9 @@ counties <- sf::read_sf("https://data.climate.umt.edu/mt-normals/fgb/explorer/co
 hucs <- sf::read_sf("https://data.climate.umt.edu/mt-normals/fgb/explorer/hucs.fgb")
 tribes <- sf::read_sf("https://data.climate.umt.edu/mt-normals/fgb/explorer/tribes.fgb")
 
+"http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/county/30107/pr/"
+"http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/future/county/30027/tas/"
+
 change_units <- function(value, variable) {
   switch(
     variable, 
@@ -25,12 +28,6 @@ change_units <- function(value, variable) {
     value
   )
 }
-
-all_vars <- c("above90", "con-dry", "con-wet", "dry-days", "freeze-free",
-              "gdd", "wet-days", "pr", "pet", "etr", "tmmn", "tmmx", "rmax",
-              "rmin", "th", "erc", "vpd", "vs", "sph", "srad", "afg", "bgr",
-              "pfg", "shr", "tre", "evi", "ndvi", "et_m16", "pet_m16", "gpp",
-              "afgnpp", "pfgnpp", "shrnpp", "trenpp")
 
 tidy_id <- function(shp) {
   shp %>% 
@@ -109,9 +106,78 @@ make_timeseries_dat <- function(dat, us_units=TRUE, difference=FALSE, size=14) {
 }
 
 
+dat <- dplyr::bind_rows(
+  hucs, tribes, counties, blm
+) %>% 
+  tidy_id() %>%
+  sf::st_drop_geometry() 
 
+future_df <-  tidyr::crossing(
+    endpoint = "future",
+    variable = c("penman", "tas", "tasmax", "tasmin", "sfcWind", "pr", 
+                 "above90", "freeze-free", "gdd", "con-wet", "con-dry",
+                 "dry-days", "wet-days"),
+    diff = c(TRUE, FALSE),
+    table_type = c("monthly", "timeseries")
+  )
 
+historical_df <- tibble::tibble(
+    variable = c("erc", "etr", "pet", "pr", "rmax", "rmin", "tmmn", "tmmx", "vpd", "vs", 
+                 "afg", "bgr", "pfg", "shr", "tre", "evi", "ndvi", "et_m16", "pet_m16", "gpp", 
+                 "afgnpp", "pfgnpp", "shrnpp", "trenpp")
+  )
 
+get_historical_df <- function(variable, loc_type, db_id) {
+  out_name <- glue::glue(
+    "./data/for_js_plots/historical/{variable}_{loc_type}_{db_id}.csv"
+  )
+  
+  if (file.exists(out_name)) {
+    print(glue::glue("Reading {out_name} from file."))
+    readr::read_csv(out_name, show_col_types = FALSE)
+  } else {
+    print(glue::glue("Creating {out_name} from API."))
+    readr::read_csv(
+      "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/historical/{loc_type}/{db_id}/{variable}/",
+      show_col_types = FALSE
+    ) %>%
+      readr::write_csv(out_name)
+  }
+}
+
+get_future_df <- function(variable, diff, table_type, loc_type, db_id) {
+  out_name <- glue::glue(
+    "./data/for_js_plots/future/{variable}_{loc_type}_{db_id}_{table_type}_{diff}.csv"
+  )
+  
+  if (file.exists(out_name)) {
+    print(glue::glue("Reading {out_name} from file."))
+    readr::read_csv(out_name, show_col_types = FALSE)
+  } else {
+    print(glue::glue("Creating {out_name} from API."))
+    glue::glue(
+      "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/future/{loc_type}/{db_id}/{variable}/"
+    ) %>%
+      httr::GET(
+        query = list(
+          diff = diff,
+          table_type = table_type
+        )
+      ) %>%
+      httr::content(show_col_type=FALSE) %>%
+      readr::write_csv(out_name)
+  }
+}
+
+dat %>%
+  tidyr::crossing(future_df) %>%
+  dplyr::select(-name, -endpoint) %>%
+  purrr::pmap(get_future_df)
+
+dat %>%
+  tidyr::crossing(historical_df) %>%
+  dplyr::select(-name) %>%
+  purrr::pmap(get_historical_df_)
 
 
 
