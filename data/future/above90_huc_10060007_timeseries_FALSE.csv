@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,24.36,3.16,12,Brush Lake Closed Basin,above90
+1951,Historical Emissions,28.32,1.32,11,Brush Lake Closed Basin,above90
+1952,Historical Emissions,26.64,5.88,14.2,Brush Lake Closed Basin,above90
+1953,Historical Emissions,14.36,2.72,8.8,Brush Lake Closed Basin,above90
+1954,Historical Emissions,19.12,0,8.4,Brush Lake Closed Basin,above90
+1955,Historical Emissions,26.56,3.16,11.8,Brush Lake Closed Basin,above90
+1956,Historical Emissions,36.72,5.28,13,Brush Lake Closed Basin,above90
+1957,Historical Emissions,34.88,3,11.2,Brush Lake Closed Basin,above90
+1958,Historical Emissions,21.96,0,7,Brush Lake Closed Basin,above90
+1959,Historical Emissions,14.12,0,7,Brush Lake Closed Basin,above90
+1960,Historical Emissions,25.08,4.08,5.4,Brush Lake Closed Basin,above90
+1961,Historical Emissions,15.2,2.56,3.8,Brush Lake Closed Basin,above90
+1962,Historical Emissions,15.08,2.36,11.2,Brush Lake Closed Basin,above90
+1963,Historical Emissions,12.92,3.52,7.4,Brush Lake Closed Basin,above90
+1964,Historical Emissions,28.68,0.36,14.2,Brush Lake Closed Basin,above90
+1965,Historical Emissions,13.8,3,8.8,Brush Lake Closed Basin,above90
+1966,Historical Emissions,31.08,2.72,7.4,Brush Lake Closed Basin,above90
+1967,Historical Emissions,12.48,3.72,7.4,Brush Lake Closed Basin,above90
+1968,Historical Emissions,14.24,2.16,7.8,Brush Lake Closed Basin,above90
+1969,Historical Emissions,27.24,0.96,14.2,Brush Lake Closed Basin,above90
+1970,Historical Emissions,15.28,1.6,7.4,Brush Lake Closed Basin,above90
+1971,Historical Emissions,12.84,4.6,10.2,Brush Lake Closed Basin,above90
+1972,Historical Emissions,19.36,3.64,10.6,Brush Lake Closed Basin,above90
+1973,Historical Emissions,28.84,5.92,12,Brush Lake Closed Basin,above90
+1974,Historical Emissions,9.64,2.24,7.4,Brush Lake Closed Basin,above90
+1975,Historical Emissions,15.16,1.92,6.6,Brush Lake Closed Basin,above90
+1976,Historical Emissions,12.68,0.96,7,Brush Lake Closed Basin,above90
+1977,Historical Emissions,21.72,1.36,8.2,Brush Lake Closed Basin,above90
+1978,Historical Emissions,18.16,2.48,8.6,Brush Lake Closed Basin,above90
+1979,Historical Emissions,14.64,2.76,8.6,Brush Lake Closed Basin,above90
+1980,Historical Emissions,13.72,3.08,10.6,Brush Lake Closed Basin,above90
+1981,Historical Emissions,15.92,0.4,4.8,Brush Lake Closed Basin,above90
+1982,Historical Emissions,16.28,3.52,10.4,Brush Lake Closed Basin,above90
+1983,Historical Emissions,20.44,0.48,6.2,Brush Lake Closed Basin,above90
+1984,Historical Emissions,18.4,4.04,7.4,Brush Lake Closed Basin,above90
+1985,Historical Emissions,24.8,3.76,6.2,Brush Lake Closed Basin,above90
+1986,Historical Emissions,20.76,1.24,13,Brush Lake Closed Basin,above90
+1987,Historical Emissions,22.24,0.96,8,Brush Lake Closed Basin,above90
+1988,Historical Emissions,20.44,3.28,5,Brush Lake Closed Basin,above90
+1989,Historical Emissions,20.48,3.24,12.2,Brush Lake Closed Basin,above90
+1990,Historical Emissions,41.12,7.32,18.8,Brush Lake Closed Basin,above90
+1991,Historical Emissions,28.28,2.92,7,Brush Lake Closed Basin,above90
+1992,Historical Emissions,20.52,0,5.8,Brush Lake Closed Basin,above90
+1993,Historical Emissions,14.44,3.36,8.4,Brush Lake Closed Basin,above90
+1994,Historical Emissions,23.24,6.52,11.6,Brush Lake Closed Basin,above90
+1995,Historical Emissions,35.76,0.48,15.6,Brush Lake Closed Basin,above90
+1996,Historical Emissions,40.56,5.96,19.2,Brush Lake Closed Basin,above90
+1997,Historical Emissions,24.92,9.24,17.4,Brush Lake Closed Basin,above90
+1998,Historical Emissions,20.32,5,8.6,Brush Lake Closed Basin,above90
+1999,Historical Emissions,24.56,8.4,14.2,Brush Lake Closed Basin,above90
+2000,Historical Emissions,26.44,3.96,21.8,Brush Lake Closed Basin,above90
+2001,Historical Emissions,25.96,11.96,18.2,Brush Lake Closed Basin,above90
+2002,Historical Emissions,31.4,3.76,23.8,Brush Lake Closed Basin,above90
+2003,Historical Emissions,36.88,13.56,21.8,Brush Lake Closed Basin,above90
+2004,Historical Emissions,26.32,10.76,14.8,Brush Lake Closed Basin,above90
+2005,Historical Emissions,25.28,7.8,16.4,Brush Lake Closed Basin,above90
+2006,Historical Emissions,34.08,6.12,11.2,Brush Lake Closed Basin,above90
+2007,Historical Emissions,24.24,12.56,15.6,Brush Lake Closed Basin,above90
+2008,Historical Emissions,39.16,3.6,8.2,Brush Lake Closed Basin,above90
+2009,Historical Emissions,24.88,6.8,20.4,Brush Lake Closed Basin,above90
+2010,Historical Emissions,30.88,7.68,10.6,Brush Lake Closed Basin,above90
+2011,Historical Emissions,31.32,5.24,12.8,Brush Lake Closed Basin,above90
+2012,Historical Emissions,27.24,10.92,17.8,Brush Lake Closed Basin,above90
+2013,Historical Emissions,51.8,8.24,30,Brush Lake Closed Basin,above90
+2014,Historical Emissions,48.04,5.8,19.8,Brush Lake Closed Basin,above90
+2015,"Moderating Emissions
+(SSP1-2.6)",50.08,12.28,26.4,Brush Lake Closed Basin,above90
+2015,"Middle of the Road
+(SSP2-4.5)",41.64,6.32,20.8,Brush Lake Closed Basin,above90
+2015,"High Emissions
+(SSP3-7.0)",36.32,9.56,24.6,Brush Lake Closed Basin,above90
+2015,"Accelerating Emissions
+(SSP5-8.5)",40.96,16.32,29.2,Brush Lake Closed Basin,above90
+2016,"Moderating Emissions
+(SSP1-2.6)",48.76,10.64,19.2,Brush Lake Closed Basin,above90
+2016,"Middle of the Road
+(SSP2-4.5)",27.28,7.6,16.2,Brush Lake Closed Basin,above90
+2016,"High Emissions
+(SSP3-7.0)",50.68,11.08,20,Brush Lake Closed Basin,above90
+2016,"Accelerating Emissions
+(SSP5-8.5)",31.92,8.28,15.8,Brush Lake Closed Basin,above90
+2017,"Moderating Emissions
+(SSP1-2.6)",43.52,15.36,19.2,Brush Lake Closed Basin,above90
+2017,"Middle of the Road
+(SSP2-4.5)",24.12,8.36,17.2,Brush Lake Closed Basin,above90
+2017,"High Emissions
+(SSP3-7.0)",33.6,5.2,23.4,Brush Lake Closed Basin,above90
+2017,"Accelerating Emissions
+(SSP5-8.5)",40.24,14.04,18.2,Brush Lake Closed Basin,above90
+2018,"Moderating Emissions
+(SSP1-2.6)",45.84,10.8,24.8,Brush Lake Closed Basin,above90
+2018,"Middle of the Road
+(SSP2-4.5)",32.72,6.48,25.8,Brush Lake Closed Basin,above90
+2018,"High Emissions
+(SSP3-7.0)",43.16,10.36,15.8,Brush Lake Closed Basin,above90
+2018,"Accelerating Emissions
+(SSP5-8.5)",44.36,6.84,17.6,Brush Lake Closed Basin,above90
+2019,"Moderating Emissions
+(SSP1-2.6)",52.4,20.24,30.4,Brush Lake Closed Basin,above90
+2019,"Middle of the Road
+(SSP2-4.5)",36.44,13.2,21,Brush Lake Closed Basin,above90
+2019,"High Emissions
+(SSP3-7.0)",35.6,8.52,20.8,Brush Lake Closed Basin,above90
+2019,"Accelerating Emissions
+(SSP5-8.5)",59.36,14.64,29.6,Brush Lake Closed Basin,above90
+2020,"Moderating Emissions
+(SSP1-2.6)",53.4,6.68,28.4,Brush Lake Closed Basin,above90
+2020,"Middle of the Road
+(SSP2-4.5)",32.32,7.48,17.8,Brush Lake Closed Basin,above90
+2020,"High Emissions
+(SSP3-7.0)",36.76,6.64,17.6,Brush Lake Closed Basin,above90
+2020,"Accelerating Emissions
+(SSP5-8.5)",40.88,13.24,28.4,Brush Lake Closed Basin,above90
+2021,"Moderating Emissions
+(SSP1-2.6)",51.56,19.12,33,Brush Lake Closed Basin,above90
+2021,"Middle of the Road
+(SSP2-4.5)",52.48,6.52,21.8,Brush Lake Closed Basin,above90
+2021,"High Emissions
+(SSP3-7.0)",53.84,7.88,21,Brush Lake Closed Basin,above90
+2021,"Accelerating Emissions
+(SSP5-8.5)",52.44,5.36,18,Brush Lake Closed Basin,above90
+2022,"Moderating Emissions
+(SSP1-2.6)",29.52,14.64,24.8,Brush Lake Closed Basin,above90
+2022,"Middle of the Road
+(SSP2-4.5)",48.76,5.48,25,Brush Lake Closed Basin,above90
+2022,"High Emissions
+(SSP3-7.0)",36.56,10.72,19.8,Brush Lake Closed Basin,above90
+2022,"Accelerating Emissions
+(SSP5-8.5)",57.68,9.44,15.4,Brush Lake Closed Basin,above90
+2023,"Moderating Emissions
+(SSP1-2.6)",34.76,5.92,16.6,Brush Lake Closed Basin,above90
+2023,"Middle of the Road
+(SSP2-4.5)",48.24,8.56,18.2,Brush Lake Closed Basin,above90
+2023,"High Emissions
+(SSP3-7.0)",47.56,21.28,30.2,Brush Lake Closed Basin,above90
+2023,"Accelerating Emissions
+(SSP5-8.5)",43.44,4.92,12.6,Brush Lake Closed Basin,above90
+2024,"Moderating Emissions
+(SSP1-2.6)",36.64,8.12,27.8,Brush Lake Closed Basin,above90
+2024,"Middle of the Road
+(SSP2-4.5)",43.68,11.2,21.8,Brush Lake Closed Basin,above90
+2024,"High Emissions
+(SSP3-7.0)",55.4,22.72,28.8,Brush Lake Closed Basin,above90
+2024,"Accelerating Emissions
+(SSP5-8.5)",40.64,8.76,15.6,Brush Lake Closed Basin,above90
+2025,"Moderating Emissions
+(SSP1-2.6)",42.48,16.44,26.8,Brush Lake Closed Basin,above90
+2025,"Middle of the Road
+(SSP2-4.5)",30.96,7.64,12.2,Brush Lake Closed Basin,above90
+2025,"High Emissions
+(SSP3-7.0)",46.6,16.16,29.2,Brush Lake Closed Basin,above90
+2025,"Accelerating Emissions
+(SSP5-8.5)",53.36,11.8,27.8,Brush Lake Closed Basin,above90
+2026,"Moderating Emissions
+(SSP1-2.6)",38.52,11.92,18,Brush Lake Closed Basin,above90
+2026,"Middle of the Road
+(SSP2-4.5)",51.96,15.08,25.4,Brush Lake Closed Basin,above90
+2026,"High Emissions
+(SSP3-7.0)",25.4,13.96,20.4,Brush Lake Closed Basin,above90
+2026,"Accelerating Emissions
+(SSP5-8.5)",59.36,9.44,13,Brush Lake Closed Basin,above90
+2027,"Moderating Emissions
+(SSP1-2.6)",57.44,10.96,23.2,Brush Lake Closed Basin,above90
+2027,"Middle of the Road
+(SSP2-4.5)",47.28,7.6,20.8,Brush Lake Closed Basin,above90
+2027,"High Emissions
+(SSP3-7.0)",39.48,8.76,22.2,Brush Lake Closed Basin,above90
+2027,"Accelerating Emissions
+(SSP5-8.5)",51.6,13.6,27.6,Brush Lake Closed Basin,above90
+2028,"Moderating Emissions
+(SSP1-2.6)",37.04,6.4,23.6,Brush Lake Closed Basin,above90
+2028,"Middle of the Road
+(SSP2-4.5)",35.12,12.28,28.6,Brush Lake Closed Basin,above90
+2028,"High Emissions
+(SSP3-7.0)",48.04,23.72,30,Brush Lake Closed Basin,above90
+2028,"Accelerating Emissions
+(SSP5-8.5)",41.36,5,26.4,Brush Lake Closed Basin,above90
+2029,"Moderating Emissions
+(SSP1-2.6)",63.16,12.76,25.2,Brush Lake Closed Basin,above90
+2029,"Middle of the Road
+(SSP2-4.5)",58.44,8.12,16.8,Brush Lake Closed Basin,above90
+2029,"High Emissions
+(SSP3-7.0)",41.36,12.4,17.8,Brush Lake Closed Basin,above90
+2029,"Accelerating Emissions
+(SSP5-8.5)",51.4,13.72,29,Brush Lake Closed Basin,above90
+2030,"Moderating Emissions
+(SSP1-2.6)",39.36,10.24,30.2,Brush Lake Closed Basin,above90
+2030,"Middle of the Road
+(SSP2-4.5)",49.04,12.56,29.4,Brush Lake Closed Basin,above90
+2030,"High Emissions
+(SSP3-7.0)",55.72,6.24,30.2,Brush Lake Closed Basin,above90
+2030,"Accelerating Emissions
+(SSP5-8.5)",50.92,15.12,23.6,Brush Lake Closed Basin,above90
+2031,"Moderating Emissions
+(SSP1-2.6)",43,22,34.4,Brush Lake Closed Basin,above90
+2031,"Middle of the Road
+(SSP2-4.5)",49.76,10.56,30.8,Brush Lake Closed Basin,above90
+2031,"High Emissions
+(SSP3-7.0)",52.36,13.96,31.8,Brush Lake Closed Basin,above90
+2031,"Accelerating Emissions
+(SSP5-8.5)",48.28,17.96,28.2,Brush Lake Closed Basin,above90
+2032,"Moderating Emissions
+(SSP1-2.6)",51.92,16.04,20.4,Brush Lake Closed Basin,above90
+2032,"Middle of the Road
+(SSP2-4.5)",31.68,19.6,22.6,Brush Lake Closed Basin,above90
+2032,"High Emissions
+(SSP3-7.0)",55.68,19.4,33.2,Brush Lake Closed Basin,above90
+2032,"Accelerating Emissions
+(SSP5-8.5)",49.48,12.24,27.6,Brush Lake Closed Basin,above90
+2033,"Moderating Emissions
+(SSP1-2.6)",37.88,21.16,28.4,Brush Lake Closed Basin,above90
+2033,"Middle of the Road
+(SSP2-4.5)",59.32,24.56,47.4,Brush Lake Closed Basin,above90
+2033,"High Emissions
+(SSP3-7.0)",57.72,10.12,23.6,Brush Lake Closed Basin,above90
+2033,"Accelerating Emissions
+(SSP5-8.5)",51.08,18.2,42.8,Brush Lake Closed Basin,above90
+2034,"Moderating Emissions
+(SSP1-2.6)",49.72,7.76,37.8,Brush Lake Closed Basin,above90
+2034,"Middle of the Road
+(SSP2-4.5)",46.4,7.84,31.4,Brush Lake Closed Basin,above90
+2034,"High Emissions
+(SSP3-7.0)",61.96,20.6,34.2,Brush Lake Closed Basin,above90
+2034,"Accelerating Emissions
+(SSP5-8.5)",52.68,9.68,25.8,Brush Lake Closed Basin,above90
+2035,"Moderating Emissions
+(SSP1-2.6)",53.44,16.56,36.2,Brush Lake Closed Basin,above90
+2035,"Middle of the Road
+(SSP2-4.5)",44.6,13.04,24.6,Brush Lake Closed Basin,above90
+2035,"High Emissions
+(SSP3-7.0)",51.76,12.4,23,Brush Lake Closed Basin,above90
+2035,"Accelerating Emissions
+(SSP5-8.5)",40.12,5.56,22.6,Brush Lake Closed Basin,above90
+2036,"Moderating Emissions
+(SSP1-2.6)",47.68,15.24,34.8,Brush Lake Closed Basin,above90
+2036,"Middle of the Road
+(SSP2-4.5)",52.08,21.44,29.4,Brush Lake Closed Basin,above90
+2036,"High Emissions
+(SSP3-7.0)",59.64,6.36,24.6,Brush Lake Closed Basin,above90
+2036,"Accelerating Emissions
+(SSP5-8.5)",30.2,3.36,20.8,Brush Lake Closed Basin,above90
+2037,"Moderating Emissions
+(SSP1-2.6)",49.64,12.32,40.8,Brush Lake Closed Basin,above90
+2037,"Middle of the Road
+(SSP2-4.5)",40.52,14.12,30.2,Brush Lake Closed Basin,above90
+2037,"High Emissions
+(SSP3-7.0)",43.2,3.48,9.2,Brush Lake Closed Basin,above90
+2037,"Accelerating Emissions
+(SSP5-8.5)",52.72,12.84,27.8,Brush Lake Closed Basin,above90
+2038,"Moderating Emissions
+(SSP1-2.6)",39.52,15.6,23.4,Brush Lake Closed Basin,above90
+2038,"Middle of the Road
+(SSP2-4.5)",35.24,9.88,27.8,Brush Lake Closed Basin,above90
+2038,"High Emissions
+(SSP3-7.0)",52.36,28.96,42.6,Brush Lake Closed Basin,above90
+2038,"Accelerating Emissions
+(SSP5-8.5)",52.12,10.12,27.6,Brush Lake Closed Basin,above90
+2039,"Moderating Emissions
+(SSP1-2.6)",58,11.24,25.4,Brush Lake Closed Basin,above90
+2039,"Middle of the Road
+(SSP2-4.5)",38.44,9.8,24.6,Brush Lake Closed Basin,above90
+2039,"High Emissions
+(SSP3-7.0)",52.12,28.44,38.2,Brush Lake Closed Basin,above90
+2039,"Accelerating Emissions
+(SSP5-8.5)",59.2,17,31.6,Brush Lake Closed Basin,above90
+2040,"Moderating Emissions
+(SSP1-2.6)",40.6,7.92,21.6,Brush Lake Closed Basin,above90
+2040,"Middle of the Road
+(SSP2-4.5)",59.56,14.12,25,Brush Lake Closed Basin,above90
+2040,"High Emissions
+(SSP3-7.0)",49.24,16.36,30.6,Brush Lake Closed Basin,above90
+2040,"Accelerating Emissions
+(SSP5-8.5)",62.08,22.24,47,Brush Lake Closed Basin,above90
+2041,"Moderating Emissions
+(SSP1-2.6)",45.32,5.52,20,Brush Lake Closed Basin,above90
+2041,"Middle of the Road
+(SSP2-4.5)",53.12,13.6,36.6,Brush Lake Closed Basin,above90
+2041,"High Emissions
+(SSP3-7.0)",60.8,14.84,42.8,Brush Lake Closed Basin,above90
+2041,"Accelerating Emissions
+(SSP5-8.5)",48.6,17,34.4,Brush Lake Closed Basin,above90
+2042,"Moderating Emissions
+(SSP1-2.6)",51.48,11.6,18.6,Brush Lake Closed Basin,above90
+2042,"Middle of the Road
+(SSP2-4.5)",47.36,18.8,29.2,Brush Lake Closed Basin,above90
+2042,"High Emissions
+(SSP3-7.0)",37.52,14.24,23.8,Brush Lake Closed Basin,above90
+2042,"Accelerating Emissions
+(SSP5-8.5)",62.24,21.44,32.2,Brush Lake Closed Basin,above90
+2043,"Moderating Emissions
+(SSP1-2.6)",45.16,13.88,31,Brush Lake Closed Basin,above90
+2043,"Middle of the Road
+(SSP2-4.5)",59.92,14.8,27,Brush Lake Closed Basin,above90
+2043,"High Emissions
+(SSP3-7.0)",39.88,10.32,26.2,Brush Lake Closed Basin,above90
+2043,"Accelerating Emissions
+(SSP5-8.5)",62.36,9.76,24.4,Brush Lake Closed Basin,above90
+2044,"Moderating Emissions
+(SSP1-2.6)",48.16,14.76,32.8,Brush Lake Closed Basin,above90
+2044,"Middle of the Road
+(SSP2-4.5)",83.32,18.36,24,Brush Lake Closed Basin,above90
+2044,"High Emissions
+(SSP3-7.0)",48.56,19.16,24.8,Brush Lake Closed Basin,above90
+2044,"Accelerating Emissions
+(SSP5-8.5)",48.28,25.28,41.6,Brush Lake Closed Basin,above90
+2045,"Moderating Emissions
+(SSP1-2.6)",43.48,10.68,27.6,Brush Lake Closed Basin,above90
+2045,"Middle of the Road
+(SSP2-4.5)",60.56,13.4,36,Brush Lake Closed Basin,above90
+2045,"High Emissions
+(SSP3-7.0)",41.8,29.4,34.2,Brush Lake Closed Basin,above90
+2045,"Accelerating Emissions
+(SSP5-8.5)",51.68,12.08,28.4,Brush Lake Closed Basin,above90
+2046,"Moderating Emissions
+(SSP1-2.6)",52.36,11.6,25.8,Brush Lake Closed Basin,above90
+2046,"Middle of the Road
+(SSP2-4.5)",36.96,12.28,18.8,Brush Lake Closed Basin,above90
+2046,"High Emissions
+(SSP3-7.0)",52.16,15.2,34.2,Brush Lake Closed Basin,above90
+2046,"Accelerating Emissions
+(SSP5-8.5)",51.72,16.6,35,Brush Lake Closed Basin,above90
+2047,"Moderating Emissions
+(SSP1-2.6)",56.48,13.04,25.6,Brush Lake Closed Basin,above90
+2047,"Middle of the Road
+(SSP2-4.5)",42.88,5.28,27,Brush Lake Closed Basin,above90
+2047,"High Emissions
+(SSP3-7.0)",41.92,19.16,23.8,Brush Lake Closed Basin,above90
+2047,"Accelerating Emissions
+(SSP5-8.5)",59.08,14.44,27.8,Brush Lake Closed Basin,above90
+2048,"Moderating Emissions
+(SSP1-2.6)",43.24,10.4,16.6,Brush Lake Closed Basin,above90
+2048,"Middle of the Road
+(SSP2-4.5)",48,17.96,33,Brush Lake Closed Basin,above90
+2048,"High Emissions
+(SSP3-7.0)",61.2,9.04,28.6,Brush Lake Closed Basin,above90
+2048,"Accelerating Emissions
+(SSP5-8.5)",76.84,24.6,43.8,Brush Lake Closed Basin,above90
+2049,"Moderating Emissions
+(SSP1-2.6)",44.56,12.2,27.4,Brush Lake Closed Basin,above90
+2049,"Middle of the Road
+(SSP2-4.5)",59.68,23.32,42.2,Brush Lake Closed Basin,above90
+2049,"High Emissions
+(SSP3-7.0)",36.24,16.24,34.8,Brush Lake Closed Basin,above90
+2049,"Accelerating Emissions
+(SSP5-8.5)",75.84,17.32,44,Brush Lake Closed Basin,above90
+2050,"Moderating Emissions
+(SSP1-2.6)",57.64,3.28,24.2,Brush Lake Closed Basin,above90
+2050,"Middle of the Road
+(SSP2-4.5)",64.28,21,46,Brush Lake Closed Basin,above90
+2050,"High Emissions
+(SSP3-7.0)",53.8,23.28,40.2,Brush Lake Closed Basin,above90
+2050,"Accelerating Emissions
+(SSP5-8.5)",72.04,20.2,38.6,Brush Lake Closed Basin,above90
+2051,"Moderating Emissions
+(SSP1-2.6)",49.84,10.44,36.2,Brush Lake Closed Basin,above90
+2051,"Middle of the Road
+(SSP2-4.5)",65.88,10.12,45.4,Brush Lake Closed Basin,above90
+2051,"High Emissions
+(SSP3-7.0)",55,39.16,48,Brush Lake Closed Basin,above90
+2051,"Accelerating Emissions
+(SSP5-8.5)",54.76,22.88,38.4,Brush Lake Closed Basin,above90
+2052,"Moderating Emissions
+(SSP1-2.6)",45.04,17.76,31,Brush Lake Closed Basin,above90
+2052,"Middle of the Road
+(SSP2-4.5)",52.04,4.52,39.2,Brush Lake Closed Basin,above90
+2052,"High Emissions
+(SSP3-7.0)",44.24,20.56,29,Brush Lake Closed Basin,above90
+2052,"Accelerating Emissions
+(SSP5-8.5)",53.2,30.28,42.2,Brush Lake Closed Basin,above90
+2053,"Moderating Emissions
+(SSP1-2.6)",40.88,13.88,28,Brush Lake Closed Basin,above90
+2053,"Middle of the Road
+(SSP2-4.5)",49.88,17.52,36.2,Brush Lake Closed Basin,above90
+2053,"High Emissions
+(SSP3-7.0)",57.12,26.88,42.4,Brush Lake Closed Basin,above90
+2053,"Accelerating Emissions
+(SSP5-8.5)",76.52,20.64,35.6,Brush Lake Closed Basin,above90
+2054,"Moderating Emissions
+(SSP1-2.6)",49.2,20.84,32,Brush Lake Closed Basin,above90
+2054,"Middle of the Road
+(SSP2-4.5)",65.08,4.68,38.4,Brush Lake Closed Basin,above90
+2054,"High Emissions
+(SSP3-7.0)",58.28,21.8,36.8,Brush Lake Closed Basin,above90
+2054,"Accelerating Emissions
+(SSP5-8.5)",59.36,22.04,37.4,Brush Lake Closed Basin,above90
+2055,"Moderating Emissions
+(SSP1-2.6)",58.88,18.92,37.2,Brush Lake Closed Basin,above90
+2055,"Middle of the Road
+(SSP2-4.5)",73.2,15.6,47,Brush Lake Closed Basin,above90
+2055,"High Emissions
+(SSP3-7.0)",58.4,22.92,36,Brush Lake Closed Basin,above90
+2055,"Accelerating Emissions
+(SSP5-8.5)",67.84,22,48,Brush Lake Closed Basin,above90
+2056,"Moderating Emissions
+(SSP1-2.6)",38.04,5.08,27.2,Brush Lake Closed Basin,above90
+2056,"Middle of the Road
+(SSP2-4.5)",52.88,22.8,34.6,Brush Lake Closed Basin,above90
+2056,"High Emissions
+(SSP3-7.0)",52.56,12.6,36.8,Brush Lake Closed Basin,above90
+2056,"Accelerating Emissions
+(SSP5-8.5)",66,29.96,43.8,Brush Lake Closed Basin,above90
+2057,"Moderating Emissions
+(SSP1-2.6)",38.88,6.56,24.8,Brush Lake Closed Basin,above90
+2057,"Middle of the Road
+(SSP2-4.5)",51,29.72,34.8,Brush Lake Closed Basin,above90
+2057,"High Emissions
+(SSP3-7.0)",51.88,14.28,23,Brush Lake Closed Basin,above90
+2057,"Accelerating Emissions
+(SSP5-8.5)",56.12,21.44,34.8,Brush Lake Closed Basin,above90
+2058,"Moderating Emissions
+(SSP1-2.6)",38.2,16.52,24,Brush Lake Closed Basin,above90
+2058,"Middle of the Road
+(SSP2-4.5)",52.32,28.2,46.6,Brush Lake Closed Basin,above90
+2058,"High Emissions
+(SSP3-7.0)",44.92,15.32,34.4,Brush Lake Closed Basin,above90
+2058,"Accelerating Emissions
+(SSP5-8.5)",57.72,11.44,47.8,Brush Lake Closed Basin,above90
+2059,"Moderating Emissions
+(SSP1-2.6)",55.28,21.96,34,Brush Lake Closed Basin,above90
+2059,"Middle of the Road
+(SSP2-4.5)",61.36,23.64,43.8,Brush Lake Closed Basin,above90
+2059,"High Emissions
+(SSP3-7.0)",58.84,21.8,35.4,Brush Lake Closed Basin,above90
+2059,"Accelerating Emissions
+(SSP5-8.5)",71.2,35.88,43.2,Brush Lake Closed Basin,above90
+2060,"Moderating Emissions
+(SSP1-2.6)",53.12,12.76,36.6,Brush Lake Closed Basin,above90
+2060,"Middle of the Road
+(SSP2-4.5)",63.04,18.68,31.2,Brush Lake Closed Basin,above90
+2060,"High Emissions
+(SSP3-7.0)",42.08,22.44,32.8,Brush Lake Closed Basin,above90
+2060,"Accelerating Emissions
+(SSP5-8.5)",66.52,23.2,45.6,Brush Lake Closed Basin,above90
+2061,"Moderating Emissions
+(SSP1-2.6)",41.04,19.16,27.8,Brush Lake Closed Basin,above90
+2061,"Middle of the Road
+(SSP2-4.5)",64.32,27.96,37.2,Brush Lake Closed Basin,above90
+2061,"High Emissions
+(SSP3-7.0)",59.96,13.32,48.4,Brush Lake Closed Basin,above90
+2061,"Accelerating Emissions
+(SSP5-8.5)",70.12,27.64,51.6,Brush Lake Closed Basin,above90
+2062,"Moderating Emissions
+(SSP1-2.6)",61.4,18.48,42.8,Brush Lake Closed Basin,above90
+2062,"Middle of the Road
+(SSP2-4.5)",50.52,16.2,33,Brush Lake Closed Basin,above90
+2062,"High Emissions
+(SSP3-7.0)",48.96,18,32.8,Brush Lake Closed Basin,above90
+2062,"Accelerating Emissions
+(SSP5-8.5)",71.56,26.76,48.6,Brush Lake Closed Basin,above90
+2063,"Moderating Emissions
+(SSP1-2.6)",45.04,10.12,31,Brush Lake Closed Basin,above90
+2063,"Middle of the Road
+(SSP2-4.5)",56,15.92,26.8,Brush Lake Closed Basin,above90
+2063,"High Emissions
+(SSP3-7.0)",53.96,26.44,48,Brush Lake Closed Basin,above90
+2063,"Accelerating Emissions
+(SSP5-8.5)",83.68,33.32,59.4,Brush Lake Closed Basin,above90
+2064,"Moderating Emissions
+(SSP1-2.6)",63.88,5.76,22.6,Brush Lake Closed Basin,above90
+2064,"Middle of the Road
+(SSP2-4.5)",50.72,10.76,29.4,Brush Lake Closed Basin,above90
+2064,"High Emissions
+(SSP3-7.0)",56.6,30.24,38,Brush Lake Closed Basin,above90
+2064,"Accelerating Emissions
+(SSP5-8.5)",63.68,34.88,56.6,Brush Lake Closed Basin,above90
+2065,"Moderating Emissions
+(SSP1-2.6)",49,11.04,20.2,Brush Lake Closed Basin,above90
+2065,"Middle of the Road
+(SSP2-4.5)",53.64,14.44,31.8,Brush Lake Closed Basin,above90
+2065,"High Emissions
+(SSP3-7.0)",53.04,27.88,47.2,Brush Lake Closed Basin,above90
+2065,"Accelerating Emissions
+(SSP5-8.5)",62.36,35.12,51.6,Brush Lake Closed Basin,above90
+2066,"Moderating Emissions
+(SSP1-2.6)",48.84,10.2,36.2,Brush Lake Closed Basin,above90
+2066,"Middle of the Road
+(SSP2-4.5)",62.96,14.4,35.6,Brush Lake Closed Basin,above90
+2066,"High Emissions
+(SSP3-7.0)",60,26.2,43.8,Brush Lake Closed Basin,above90
+2066,"Accelerating Emissions
+(SSP5-8.5)",75.28,23.28,52.4,Brush Lake Closed Basin,above90
+2067,"Moderating Emissions
+(SSP1-2.6)",64.88,14.6,31.8,Brush Lake Closed Basin,above90
+2067,"Middle of the Road
+(SSP2-4.5)",57,16.4,29.8,Brush Lake Closed Basin,above90
+2067,"High Emissions
+(SSP3-7.0)",68.64,34.24,44.4,Brush Lake Closed Basin,above90
+2067,"Accelerating Emissions
+(SSP5-8.5)",88.04,27.88,42.4,Brush Lake Closed Basin,above90
+2068,"Moderating Emissions
+(SSP1-2.6)",54.32,20.64,27.8,Brush Lake Closed Basin,above90
+2068,"Middle of the Road
+(SSP2-4.5)",42.68,10.32,20,Brush Lake Closed Basin,above90
+2068,"High Emissions
+(SSP3-7.0)",63.92,31.08,44.6,Brush Lake Closed Basin,above90
+2068,"Accelerating Emissions
+(SSP5-8.5)",87.52,20.32,54.8,Brush Lake Closed Basin,above90
+2069,"Moderating Emissions
+(SSP1-2.6)",59.64,27.04,36.2,Brush Lake Closed Basin,above90
+2069,"Middle of the Road
+(SSP2-4.5)",58.12,24.36,40.8,Brush Lake Closed Basin,above90
+2069,"High Emissions
+(SSP3-7.0)",94.4,42.2,56.2,Brush Lake Closed Basin,above90
+2069,"Accelerating Emissions
+(SSP5-8.5)",99.52,36.12,53.6,Brush Lake Closed Basin,above90
+2070,"Moderating Emissions
+(SSP1-2.6)",53.68,23.32,34.2,Brush Lake Closed Basin,above90
+2070,"Middle of the Road
+(SSP2-4.5)",42.96,16.08,28.8,Brush Lake Closed Basin,above90
+2070,"High Emissions
+(SSP3-7.0)",69.36,36.52,51.6,Brush Lake Closed Basin,above90
+2070,"Accelerating Emissions
+(SSP5-8.5)",90.4,41.64,58.8,Brush Lake Closed Basin,above90
+2071,"Moderating Emissions
+(SSP1-2.6)",58.72,8.68,41.2,Brush Lake Closed Basin,above90
+2071,"Middle of the Road
+(SSP2-4.5)",62.52,26.64,41.2,Brush Lake Closed Basin,above90
+2071,"High Emissions
+(SSP3-7.0)",74.2,24.68,51.4,Brush Lake Closed Basin,above90
+2071,"Accelerating Emissions
+(SSP5-8.5)",72.24,36.12,58.6,Brush Lake Closed Basin,above90
+2072,"Moderating Emissions
+(SSP1-2.6)",51.28,20.4,33.6,Brush Lake Closed Basin,above90
+2072,"Middle of the Road
+(SSP2-4.5)",49.28,20.4,34.6,Brush Lake Closed Basin,above90
+2072,"High Emissions
+(SSP3-7.0)",65.28,36.12,47.4,Brush Lake Closed Basin,above90
+2072,"Accelerating Emissions
+(SSP5-8.5)",74.08,39.68,59.6,Brush Lake Closed Basin,above90
+2073,"Moderating Emissions
+(SSP1-2.6)",58.44,14.6,35.2,Brush Lake Closed Basin,above90
+2073,"Middle of the Road
+(SSP2-4.5)",64.08,9.8,31.8,Brush Lake Closed Basin,above90
+2073,"High Emissions
+(SSP3-7.0)",69.04,20.52,49.8,Brush Lake Closed Basin,above90
+2073,"Accelerating Emissions
+(SSP5-8.5)",77.12,17.6,48.6,Brush Lake Closed Basin,above90
+2074,"Moderating Emissions
+(SSP1-2.6)",46.72,16.92,27,Brush Lake Closed Basin,above90
+2074,"Middle of the Road
+(SSP2-4.5)",61.56,12.08,42.8,Brush Lake Closed Basin,above90
+2074,"High Emissions
+(SSP3-7.0)",62.96,31.36,47.2,Brush Lake Closed Basin,above90
+2074,"Accelerating Emissions
+(SSP5-8.5)",104.24,34,67.4,Brush Lake Closed Basin,above90
+2075,"Moderating Emissions
+(SSP1-2.6)",55.28,16.6,28.2,Brush Lake Closed Basin,above90
+2075,"Middle of the Road
+(SSP2-4.5)",65.44,18.96,42.2,Brush Lake Closed Basin,above90
+2075,"High Emissions
+(SSP3-7.0)",67.56,36.88,55.8,Brush Lake Closed Basin,above90
+2075,"Accelerating Emissions
+(SSP5-8.5)",88.48,36.72,46.6,Brush Lake Closed Basin,above90
+2076,"Moderating Emissions
+(SSP1-2.6)",54.72,22.96,36.2,Brush Lake Closed Basin,above90
+2076,"Middle of the Road
+(SSP2-4.5)",54.72,14.68,36.6,Brush Lake Closed Basin,above90
+2076,"High Emissions
+(SSP3-7.0)",80.56,38.88,49.4,Brush Lake Closed Basin,above90
+2076,"Accelerating Emissions
+(SSP5-8.5)",97.68,31.24,67.2,Brush Lake Closed Basin,above90
+2077,"Moderating Emissions
+(SSP1-2.6)",55.08,16,39.8,Brush Lake Closed Basin,above90
+2077,"Middle of the Road
+(SSP2-4.5)",64.32,22,34.8,Brush Lake Closed Basin,above90
+2077,"High Emissions
+(SSP3-7.0)",69,38.56,47,Brush Lake Closed Basin,above90
+2077,"Accelerating Emissions
+(SSP5-8.5)",97.92,36.6,67.8,Brush Lake Closed Basin,above90
+2078,"Moderating Emissions
+(SSP1-2.6)",51.96,11.44,38,Brush Lake Closed Basin,above90
+2078,"Middle of the Road
+(SSP2-4.5)",50.32,14.92,29.8,Brush Lake Closed Basin,above90
+2078,"High Emissions
+(SSP3-7.0)",79.04,32.08,48.6,Brush Lake Closed Basin,above90
+2078,"Accelerating Emissions
+(SSP5-8.5)",61.84,17.28,50.8,Brush Lake Closed Basin,above90
+2079,"Moderating Emissions
+(SSP1-2.6)",53.16,23.96,40,Brush Lake Closed Basin,above90
+2079,"Middle of the Road
+(SSP2-4.5)",52.92,27.64,39.2,Brush Lake Closed Basin,above90
+2079,"High Emissions
+(SSP3-7.0)",85.92,34.92,60,Brush Lake Closed Basin,above90
+2079,"Accelerating Emissions
+(SSP5-8.5)",89.4,45.4,77.8,Brush Lake Closed Basin,above90
+2080,"Moderating Emissions
+(SSP1-2.6)",56.6,16.36,21.4,Brush Lake Closed Basin,above90
+2080,"Middle of the Road
+(SSP2-4.5)",57.16,18.16,34.6,Brush Lake Closed Basin,above90
+2080,"High Emissions
+(SSP3-7.0)",73.64,21.68,52.4,Brush Lake Closed Basin,above90
+2080,"Accelerating Emissions
+(SSP5-8.5)",88.84,50.36,69.8,Brush Lake Closed Basin,above90
+2081,"Moderating Emissions
+(SSP1-2.6)",50.92,22.52,31.2,Brush Lake Closed Basin,above90
+2081,"Middle of the Road
+(SSP2-4.5)",54.6,29.48,36,Brush Lake Closed Basin,above90
+2081,"High Emissions
+(SSP3-7.0)",83.6,24.32,48.4,Brush Lake Closed Basin,above90
+2081,"Accelerating Emissions
+(SSP5-8.5)",87.4,44.92,66.6,Brush Lake Closed Basin,above90
+2082,"Moderating Emissions
+(SSP1-2.6)",63.64,33.88,41,Brush Lake Closed Basin,above90
+2082,"Middle of the Road
+(SSP2-4.5)",68.48,25,32.8,Brush Lake Closed Basin,above90
+2082,"High Emissions
+(SSP3-7.0)",81.2,37.36,54.2,Brush Lake Closed Basin,above90
+2082,"Accelerating Emissions
+(SSP5-8.5)",93.56,53.6,69.2,Brush Lake Closed Basin,above90
+2083,"Moderating Emissions
+(SSP1-2.6)",54.6,32.12,48.4,Brush Lake Closed Basin,above90
+2083,"Middle of the Road
+(SSP2-4.5)",69.88,17.84,41.2,Brush Lake Closed Basin,above90
+2083,"High Emissions
+(SSP3-7.0)",80.36,29.72,52.2,Brush Lake Closed Basin,above90
+2083,"Accelerating Emissions
+(SSP5-8.5)",88.84,51.76,60.6,Brush Lake Closed Basin,above90
+2084,"Moderating Emissions
+(SSP1-2.6)",51.8,14.44,27.8,Brush Lake Closed Basin,above90
+2084,"Middle of the Road
+(SSP2-4.5)",56.44,9.52,39.2,Brush Lake Closed Basin,above90
+2084,"High Emissions
+(SSP3-7.0)",98.36,48.4,68.8,Brush Lake Closed Basin,above90
+2084,"Accelerating Emissions
+(SSP5-8.5)",97.92,50.04,61.2,Brush Lake Closed Basin,above90
+2085,"Moderating Emissions
+(SSP1-2.6)",61.92,7.68,24.4,Brush Lake Closed Basin,above90
+2085,"Middle of the Road
+(SSP2-4.5)",57.24,27.96,41.4,Brush Lake Closed Basin,above90
+2085,"High Emissions
+(SSP3-7.0)",84.4,41.36,58.4,Brush Lake Closed Basin,above90
+2085,"Accelerating Emissions
+(SSP5-8.5)",84.28,39.56,71.8,Brush Lake Closed Basin,above90
+2086,"Moderating Emissions
+(SSP1-2.6)",54.12,28.84,36.6,Brush Lake Closed Basin,above90
+2086,"Middle of the Road
+(SSP2-4.5)",59.68,25.52,40.6,Brush Lake Closed Basin,above90
+2086,"High Emissions
+(SSP3-7.0)",91.28,45.44,56.8,Brush Lake Closed Basin,above90
+2086,"Accelerating Emissions
+(SSP5-8.5)",83,56.04,74,Brush Lake Closed Basin,above90
+2087,"Moderating Emissions
+(SSP1-2.6)",36.32,10.68,28.6,Brush Lake Closed Basin,above90
+2087,"Middle of the Road
+(SSP2-4.5)",59.88,28.72,48.8,Brush Lake Closed Basin,above90
+2087,"High Emissions
+(SSP3-7.0)",96.16,20.16,62.2,Brush Lake Closed Basin,above90
+2087,"Accelerating Emissions
+(SSP5-8.5)",72.68,31.68,61.4,Brush Lake Closed Basin,above90
+2088,"Moderating Emissions
+(SSP1-2.6)",45.08,19.08,30.6,Brush Lake Closed Basin,above90
+2088,"Middle of the Road
+(SSP2-4.5)",75.36,31.28,43.2,Brush Lake Closed Basin,above90
+2088,"High Emissions
+(SSP3-7.0)",86.32,37.72,49.4,Brush Lake Closed Basin,above90
+2088,"Accelerating Emissions
+(SSP5-8.5)",104.64,52.12,64.4,Brush Lake Closed Basin,above90
+2089,"Moderating Emissions
+(SSP1-2.6)",58.16,3.52,38.4,Brush Lake Closed Basin,above90
+2089,"Middle of the Road
+(SSP2-4.5)",53.4,34.52,42.2,Brush Lake Closed Basin,above90
+2089,"High Emissions
+(SSP3-7.0)",98.84,38.36,70.6,Brush Lake Closed Basin,above90
+2089,"Accelerating Emissions
+(SSP5-8.5)",105.88,57.92,81.4,Brush Lake Closed Basin,above90
+2090,"Moderating Emissions
+(SSP1-2.6)",46.96,20.08,34.8,Brush Lake Closed Basin,above90
+2090,"Middle of the Road
+(SSP2-4.5)",56.04,12.36,43.8,Brush Lake Closed Basin,above90
+2090,"High Emissions
+(SSP3-7.0)",92.6,52.28,69.2,Brush Lake Closed Basin,above90
+2090,"Accelerating Emissions
+(SSP5-8.5)",90.64,45.96,75.4,Brush Lake Closed Basin,above90
+2091,"Moderating Emissions
+(SSP1-2.6)",52.12,13.84,39,Brush Lake Closed Basin,above90
+2091,"Middle of the Road
+(SSP2-4.5)",65.36,16.56,44.2,Brush Lake Closed Basin,above90
+2091,"High Emissions
+(SSP3-7.0)",84.2,47.56,65.6,Brush Lake Closed Basin,above90
+2091,"Accelerating Emissions
+(SSP5-8.5)",114.08,49.8,66,Brush Lake Closed Basin,above90
+2092,"Moderating Emissions
+(SSP1-2.6)",65.56,15.56,28.8,Brush Lake Closed Basin,above90
+2092,"Middle of the Road
+(SSP2-4.5)",74.96,25.64,44.8,Brush Lake Closed Basin,above90
+2092,"High Emissions
+(SSP3-7.0)",76.76,42.2,54.8,Brush Lake Closed Basin,above90
+2092,"Accelerating Emissions
+(SSP5-8.5)",112.6,51.96,79,Brush Lake Closed Basin,above90
+2093,"Moderating Emissions
+(SSP1-2.6)",65.12,13,29,Brush Lake Closed Basin,above90
+2093,"Middle of the Road
+(SSP2-4.5)",61,33.72,53.2,Brush Lake Closed Basin,above90
+2093,"High Emissions
+(SSP3-7.0)",78.56,47.24,63.6,Brush Lake Closed Basin,above90
+2093,"Accelerating Emissions
+(SSP5-8.5)",105.12,56.8,93.6,Brush Lake Closed Basin,above90
+2094,"Moderating Emissions
+(SSP1-2.6)",36.4,7.88,27.8,Brush Lake Closed Basin,above90
+2094,"Middle of the Road
+(SSP2-4.5)",78.96,12.24,54,Brush Lake Closed Basin,above90
+2094,"High Emissions
+(SSP3-7.0)",76,45.48,60,Brush Lake Closed Basin,above90
+2094,"Accelerating Emissions
+(SSP5-8.5)",115.16,51.72,78.2,Brush Lake Closed Basin,above90
+2095,"Moderating Emissions
+(SSP1-2.6)",56.56,20.52,47.2,Brush Lake Closed Basin,above90
+2095,"Middle of the Road
+(SSP2-4.5)",75.84,43.16,47.8,Brush Lake Closed Basin,above90
+2095,"High Emissions
+(SSP3-7.0)",85.88,44.8,78.4,Brush Lake Closed Basin,above90
+2095,"Accelerating Emissions
+(SSP5-8.5)",101.52,52.84,75,Brush Lake Closed Basin,above90
+2096,"Moderating Emissions
+(SSP1-2.6)",54.76,11.84,33.2,Brush Lake Closed Basin,above90
+2096,"Middle of the Road
+(SSP2-4.5)",74.76,20.72,43.4,Brush Lake Closed Basin,above90
+2096,"High Emissions
+(SSP3-7.0)",100.68,54.96,68.2,Brush Lake Closed Basin,above90
+2096,"Accelerating Emissions
+(SSP5-8.5)",109.24,55.68,79,Brush Lake Closed Basin,above90
+2097,"Moderating Emissions
+(SSP1-2.6)",65.24,25.08,35.2,Brush Lake Closed Basin,above90
+2097,"Middle of the Road
+(SSP2-4.5)",77.36,24.72,47.6,Brush Lake Closed Basin,above90
+2097,"High Emissions
+(SSP3-7.0)",101.96,45.16,73.4,Brush Lake Closed Basin,above90
+2097,"Accelerating Emissions
+(SSP5-8.5)",101.32,48.76,66.6,Brush Lake Closed Basin,above90
+2098,"Moderating Emissions
+(SSP1-2.6)",69.64,26.64,39.4,Brush Lake Closed Basin,above90
+2098,"Middle of the Road
+(SSP2-4.5)",68.36,36,44.2,Brush Lake Closed Basin,above90
+2098,"High Emissions
+(SSP3-7.0)",94.28,52.52,61,Brush Lake Closed Basin,above90
+2098,"Accelerating Emissions
+(SSP5-8.5)",100.2,64.6,86.4,Brush Lake Closed Basin,above90
+2099,"Moderating Emissions
+(SSP1-2.6)",58.72,2.88,36.4,Brush Lake Closed Basin,above90
+2099,"Middle of the Road
+(SSP2-4.5)",61.6,28.44,36.4,Brush Lake Closed Basin,above90
+2099,"High Emissions
+(SSP3-7.0)",91.92,46.24,67.4,Brush Lake Closed Basin,above90
+2099,"Accelerating Emissions
+(SSP5-8.5)",105.32,51.44,77.2,Brush Lake Closed Basin,above90
+2100,"Moderating Emissions
+(SSP1-2.6)",56.8,8.64,20.8,Brush Lake Closed Basin,above90
+2100,"Middle of the Road
+(SSP2-4.5)",73.4,13.76,40.6,Brush Lake Closed Basin,above90
+2100,"High Emissions
+(SSP3-7.0)",92.48,52.36,72.6,Brush Lake Closed Basin,above90
+2100,"Accelerating Emissions
+(SSP5-8.5)",106.28,49.84,80.6,Brush Lake Closed Basin,above90

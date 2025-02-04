@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,32.522,29.288,30.872,Fort Peck Reservoir,tasmin
+1951,Historical Emissions,32.227,29.562,30.798,Fort Peck Reservoir,tasmin
+1952,Historical Emissions,32.684,29.018,30.931,Fort Peck Reservoir,tasmin
+1953,Historical Emissions,31.781,28.296,30.75,Fort Peck Reservoir,tasmin
+1954,Historical Emissions,33.486,27.003,29.932,Fort Peck Reservoir,tasmin
+1955,Historical Emissions,33.097,30.084,31.122,Fort Peck Reservoir,tasmin
+1956,Historical Emissions,32.583,29.964,31.36,Fort Peck Reservoir,tasmin
+1957,Historical Emissions,33.348,30.184,31.878,Fort Peck Reservoir,tasmin
+1958,Historical Emissions,32.755,29.045,30.841,Fort Peck Reservoir,tasmin
+1959,Historical Emissions,31.455,27.747,30.042,Fort Peck Reservoir,tasmin
+1960,Historical Emissions,32.591,27.36,30.386,Fort Peck Reservoir,tasmin
+1961,Historical Emissions,32.831,28.932,32.001,Fort Peck Reservoir,tasmin
+1962,Historical Emissions,31.678,28.337,29.945,Fort Peck Reservoir,tasmin
+1963,Historical Emissions,31.421,29.49,30.634,Fort Peck Reservoir,tasmin
+1964,Historical Emissions,32.501,29.295,31.574,Fort Peck Reservoir,tasmin
+1965,Historical Emissions,31.521,28.849,31.27,Fort Peck Reservoir,tasmin
+1966,Historical Emissions,33.762,29.42,30.753,Fort Peck Reservoir,tasmin
+1967,Historical Emissions,31.225,29.045,30.639,Fort Peck Reservoir,tasmin
+1968,Historical Emissions,31.268,27.463,30.13,Fort Peck Reservoir,tasmin
+1969,Historical Emissions,32.146,28.495,30.766,Fort Peck Reservoir,tasmin
+1970,Historical Emissions,32.484,30.107,30.926,Fort Peck Reservoir,tasmin
+1971,Historical Emissions,34.452,30.734,32.231,Fort Peck Reservoir,tasmin
+1972,Historical Emissions,32.09,29.002,30.759,Fort Peck Reservoir,tasmin
+1973,Historical Emissions,31.735,29.821,31.166,Fort Peck Reservoir,tasmin
+1974,Historical Emissions,33.398,28.73,31.397,Fort Peck Reservoir,tasmin
+1975,Historical Emissions,32.496,27.231,31.671,Fort Peck Reservoir,tasmin
+1976,Historical Emissions,31.628,28.44,31.08,Fort Peck Reservoir,tasmin
+1977,Historical Emissions,33.775,30.542,31.916,Fort Peck Reservoir,tasmin
+1978,Historical Emissions,32.908,28.978,30.788,Fort Peck Reservoir,tasmin
+1979,Historical Emissions,34.251,29.58,31.856,Fort Peck Reservoir,tasmin
+1980,Historical Emissions,31.903,28.99,31.404,Fort Peck Reservoir,tasmin
+1981,Historical Emissions,33.066,30.502,31.77,Fort Peck Reservoir,tasmin
+1982,Historical Emissions,32.777,29.998,31.547,Fort Peck Reservoir,tasmin
+1983,Historical Emissions,33.27,29.568,31.055,Fort Peck Reservoir,tasmin
+1984,Historical Emissions,32.836,29.828,31.275,Fort Peck Reservoir,tasmin
+1985,Historical Emissions,33.123,30.112,32.399,Fort Peck Reservoir,tasmin
+1986,Historical Emissions,32.122,29.649,31.429,Fort Peck Reservoir,tasmin
+1987,Historical Emissions,32.947,27.293,29.816,Fort Peck Reservoir,tasmin
+1988,Historical Emissions,33.015,29.503,30.601,Fort Peck Reservoir,tasmin
+1989,Historical Emissions,32.644,29.839,31.787,Fort Peck Reservoir,tasmin
+1990,Historical Emissions,34.218,31.311,32.735,Fort Peck Reservoir,tasmin
+1991,Historical Emissions,33.392,29.299,30.668,Fort Peck Reservoir,tasmin
+1992,Historical Emissions,32.964,29.545,30.721,Fort Peck Reservoir,tasmin
+1993,Historical Emissions,33.691,29.438,31.344,Fort Peck Reservoir,tasmin
+1994,Historical Emissions,33.712,30.636,31.853,Fort Peck Reservoir,tasmin
+1995,Historical Emissions,33.468,29.798,31.114,Fort Peck Reservoir,tasmin
+1996,Historical Emissions,33.9,29.306,32.025,Fort Peck Reservoir,tasmin
+1997,Historical Emissions,34.537,30.523,32.433,Fort Peck Reservoir,tasmin
+1998,Historical Emissions,34.233,29.498,31.388,Fort Peck Reservoir,tasmin
+1999,Historical Emissions,34.004,30.802,33.117,Fort Peck Reservoir,tasmin
+2000,Historical Emissions,33.212,30.695,32.128,Fort Peck Reservoir,tasmin
+2001,Historical Emissions,34.054,30.455,32.57,Fort Peck Reservoir,tasmin
+2002,Historical Emissions,34.649,30.9,32.998,Fort Peck Reservoir,tasmin
+2003,Historical Emissions,34.778,31.851,32.289,Fort Peck Reservoir,tasmin
+2004,Historical Emissions,34.376,31.954,33.347,Fort Peck Reservoir,tasmin
+2005,Historical Emissions,36.294,30.986,32.982,Fort Peck Reservoir,tasmin
+2006,Historical Emissions,34.466,30.464,32.051,Fort Peck Reservoir,tasmin
+2007,Historical Emissions,34.255,32.366,33.477,Fort Peck Reservoir,tasmin
+2008,Historical Emissions,34.592,31.436,33.006,Fort Peck Reservoir,tasmin
+2009,Historical Emissions,33.621,32.129,32.6,Fort Peck Reservoir,tasmin
+2010,Historical Emissions,34.149,31.81,32.911,Fort Peck Reservoir,tasmin
+2011,Historical Emissions,35.588,32.787,33.496,Fort Peck Reservoir,tasmin
+2012,Historical Emissions,34.369,31.195,32.972,Fort Peck Reservoir,tasmin
+2013,Historical Emissions,35.359,30.787,32.833,Fort Peck Reservoir,tasmin
+2014,Historical Emissions,35.643,32.392,33.831,Fort Peck Reservoir,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",36.117,31.787,33.722,Fort Peck Reservoir,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",35.069,31.36,32.707,Fort Peck Reservoir,tasmin
+2015,"High Emissions
+(SSP3-7.0)",35.354,31.643,33.699,Fort Peck Reservoir,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",34.492,31.993,32.779,Fort Peck Reservoir,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",36.583,32.6,34.34,Fort Peck Reservoir,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",36.355,31.603,33.277,Fort Peck Reservoir,tasmin
+2016,"High Emissions
+(SSP3-7.0)",37.246,30.7,33.361,Fort Peck Reservoir,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",34.611,31.938,33.723,Fort Peck Reservoir,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",35.268,31.497,32.438,Fort Peck Reservoir,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",36.431,31.682,33.717,Fort Peck Reservoir,tasmin
+2017,"High Emissions
+(SSP3-7.0)",36.4,32.882,33.956,Fort Peck Reservoir,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",35.443,31.742,33.354,Fort Peck Reservoir,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",34.587,32.201,33.659,Fort Peck Reservoir,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",35.457,32.707,33.612,Fort Peck Reservoir,tasmin
+2018,"High Emissions
+(SSP3-7.0)",36.593,31.796,32.989,Fort Peck Reservoir,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",36.416,31.531,33.435,Fort Peck Reservoir,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",36.417,32.369,34.596,Fort Peck Reservoir,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",35.098,31.054,32.896,Fort Peck Reservoir,tasmin
+2019,"High Emissions
+(SSP3-7.0)",36.001,31.831,33.433,Fort Peck Reservoir,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",36.585,32.763,34.587,Fort Peck Reservoir,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",36.273,31.535,35.09,Fort Peck Reservoir,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",35.466,31.848,32.783,Fort Peck Reservoir,tasmin
+2020,"High Emissions
+(SSP3-7.0)",35.259,31.905,33.957,Fort Peck Reservoir,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",35.905,32.768,34.175,Fort Peck Reservoir,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",36.429,32.482,33.913,Fort Peck Reservoir,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",35.426,32.585,34.067,Fort Peck Reservoir,tasmin
+2021,"High Emissions
+(SSP3-7.0)",35.835,33.139,34.011,Fort Peck Reservoir,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",35.647,31.725,34.2,Fort Peck Reservoir,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",35.68,32.684,33.561,Fort Peck Reservoir,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",35.866,32.801,33.996,Fort Peck Reservoir,tasmin
+2022,"High Emissions
+(SSP3-7.0)",35.869,32.999,33.655,Fort Peck Reservoir,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",37.281,32.741,34.582,Fort Peck Reservoir,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",35.428,32.975,33.83,Fort Peck Reservoir,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",35.838,33.088,34.376,Fort Peck Reservoir,tasmin
+2023,"High Emissions
+(SSP3-7.0)",37.263,32.634,34.882,Fort Peck Reservoir,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",34.49,31.074,32.48,Fort Peck Reservoir,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",36.47,32.351,34.064,Fort Peck Reservoir,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",35.116,32.455,33.279,Fort Peck Reservoir,tasmin
+2024,"High Emissions
+(SSP3-7.0)",37.905,32.238,33.234,Fort Peck Reservoir,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",37.511,32.505,35.08,Fort Peck Reservoir,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",36.026,32.988,35.085,Fort Peck Reservoir,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",36.014,32.248,34.139,Fort Peck Reservoir,tasmin
+2025,"High Emissions
+(SSP3-7.0)",36.307,32.967,34.415,Fort Peck Reservoir,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",37.503,33.045,35.282,Fort Peck Reservoir,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",36.036,32.373,33.385,Fort Peck Reservoir,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",35.952,32.149,34.638,Fort Peck Reservoir,tasmin
+2026,"High Emissions
+(SSP3-7.0)",37.598,31.146,34.358,Fort Peck Reservoir,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",36.267,32.641,34.777,Fort Peck Reservoir,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",37.419,32.685,33.978,Fort Peck Reservoir,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",36.548,33.743,35.415,Fort Peck Reservoir,tasmin
+2027,"High Emissions
+(SSP3-7.0)",36.352,32.742,34.694,Fort Peck Reservoir,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",35.687,33.844,34.52,Fort Peck Reservoir,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",36.412,33.101,34.68,Fort Peck Reservoir,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",37.034,31.675,34.456,Fort Peck Reservoir,tasmin
+2028,"High Emissions
+(SSP3-7.0)",36.632,33.226,34.406,Fort Peck Reservoir,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",37.306,32.953,34.927,Fort Peck Reservoir,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",38.071,33.78,35.623,Fort Peck Reservoir,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",37.984,32.138,35.118,Fort Peck Reservoir,tasmin
+2029,"High Emissions
+(SSP3-7.0)",36.804,31.399,34.518,Fort Peck Reservoir,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",35.851,34.169,35.065,Fort Peck Reservoir,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",37.566,32.901,34.72,Fort Peck Reservoir,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",37.186,33.239,34.908,Fort Peck Reservoir,tasmin
+2030,"High Emissions
+(SSP3-7.0)",36.289,31.95,34.828,Fort Peck Reservoir,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",37.727,32.449,35.066,Fort Peck Reservoir,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",36.229,32.371,35.672,Fort Peck Reservoir,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",36.537,33.15,35.328,Fort Peck Reservoir,tasmin
+2031,"High Emissions
+(SSP3-7.0)",37.389,32.77,35.337,Fort Peck Reservoir,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",38.454,35.433,36.198,Fort Peck Reservoir,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",36.727,33.294,34.332,Fort Peck Reservoir,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",35.841,33.198,34.246,Fort Peck Reservoir,tasmin
+2032,"High Emissions
+(SSP3-7.0)",37.079,33.255,34.668,Fort Peck Reservoir,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",38.117,33.632,34.711,Fort Peck Reservoir,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",37.14,33.229,35.19,Fort Peck Reservoir,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",37.637,33.413,35.637,Fort Peck Reservoir,tasmin
+2033,"High Emissions
+(SSP3-7.0)",37.02,32.915,34.49,Fort Peck Reservoir,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",36.435,33.693,34.791,Fort Peck Reservoir,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",36.024,32.449,33.929,Fort Peck Reservoir,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",37.203,33.864,34.84,Fort Peck Reservoir,tasmin
+2034,"High Emissions
+(SSP3-7.0)",36.633,34.032,35.362,Fort Peck Reservoir,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",37.376,30.817,34.888,Fort Peck Reservoir,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",36.145,32.641,35.189,Fort Peck Reservoir,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",37.599,32.554,35.603,Fort Peck Reservoir,tasmin
+2035,"High Emissions
+(SSP3-7.0)",36.433,32.278,34.86,Fort Peck Reservoir,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",37.92,32.742,35.222,Fort Peck Reservoir,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",36.578,34.383,35.625,Fort Peck Reservoir,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",36.37,33.086,35.058,Fort Peck Reservoir,tasmin
+2036,"High Emissions
+(SSP3-7.0)",36.549,32.829,34.699,Fort Peck Reservoir,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",38.174,33.975,36.004,Fort Peck Reservoir,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",37.146,34.35,36.013,Fort Peck Reservoir,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",37.564,31.986,35.02,Fort Peck Reservoir,tasmin
+2037,"High Emissions
+(SSP3-7.0)",35.989,32.72,35.295,Fort Peck Reservoir,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",37.608,34.535,35.385,Fort Peck Reservoir,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",38.46,34.088,36.051,Fort Peck Reservoir,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",36.655,33.351,35.151,Fort Peck Reservoir,tasmin
+2038,"High Emissions
+(SSP3-7.0)",37.927,33.718,35.169,Fort Peck Reservoir,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",39.002,33.99,37.499,Fort Peck Reservoir,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",38.052,34.073,35.645,Fort Peck Reservoir,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",37.095,33.666,34.732,Fort Peck Reservoir,tasmin
+2039,"High Emissions
+(SSP3-7.0)",38.538,34.257,36.048,Fort Peck Reservoir,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",39.17,32.404,36.573,Fort Peck Reservoir,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",38.003,33.617,34.603,Fort Peck Reservoir,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",36.582,33.975,35.834,Fort Peck Reservoir,tasmin
+2040,"High Emissions
+(SSP3-7.0)",38.525,33.459,36.149,Fort Peck Reservoir,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",39.742,34.814,36.376,Fort Peck Reservoir,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",36.991,32.138,34.873,Fort Peck Reservoir,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",36.3,34.148,35.565,Fort Peck Reservoir,tasmin
+2041,"High Emissions
+(SSP3-7.0)",37.913,33.315,34.224,Fort Peck Reservoir,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",36.66,34.025,35.714,Fort Peck Reservoir,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",37.678,34.532,35.141,Fort Peck Reservoir,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",36.09,32.274,33.291,Fort Peck Reservoir,tasmin
+2042,"High Emissions
+(SSP3-7.0)",36.953,34.466,35.319,Fort Peck Reservoir,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",38.896,34.973,35.856,Fort Peck Reservoir,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",36.996,34.13,35.319,Fort Peck Reservoir,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",37.923,32.926,35.635,Fort Peck Reservoir,tasmin
+2043,"High Emissions
+(SSP3-7.0)",36.784,33.671,35.351,Fort Peck Reservoir,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",37.231,35.651,36.43,Fort Peck Reservoir,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",37.684,33.182,34.683,Fort Peck Reservoir,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",38.814,34.381,36.44,Fort Peck Reservoir,tasmin
+2044,"High Emissions
+(SSP3-7.0)",37.506,34.245,35.507,Fort Peck Reservoir,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",39.105,34.208,36.788,Fort Peck Reservoir,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",38.288,33.735,35.781,Fort Peck Reservoir,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",38.746,33.17,36.853,Fort Peck Reservoir,tasmin
+2045,"High Emissions
+(SSP3-7.0)",37.589,32.887,35.071,Fort Peck Reservoir,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",36.792,33.415,36.299,Fort Peck Reservoir,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",39.437,31.805,35.984,Fort Peck Reservoir,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",37.486,33.671,36.09,Fort Peck Reservoir,tasmin
+2046,"High Emissions
+(SSP3-7.0)",39.257,34.903,37.483,Fort Peck Reservoir,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",38.366,33.914,34.924,Fort Peck Reservoir,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",37.376,33.986,35.604,Fort Peck Reservoir,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",37.935,31.222,35.561,Fort Peck Reservoir,tasmin
+2047,"High Emissions
+(SSP3-7.0)",36.504,33.362,35.668,Fort Peck Reservoir,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",39.415,34.588,36.569,Fort Peck Reservoir,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",36.671,33.706,35.542,Fort Peck Reservoir,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",38.602,34.083,35.908,Fort Peck Reservoir,tasmin
+2048,"High Emissions
+(SSP3-7.0)",38.859,33.915,36.759,Fort Peck Reservoir,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",39.519,35.472,37.669,Fort Peck Reservoir,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",37.202,32.527,33.89,Fort Peck Reservoir,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",38.232,35.32,36.72,Fort Peck Reservoir,tasmin
+2049,"High Emissions
+(SSP3-7.0)",39.664,35.131,36.357,Fort Peck Reservoir,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",37.628,35.779,36.856,Fort Peck Reservoir,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",36.392,33.287,35.137,Fort Peck Reservoir,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",39.235,33.74,35.989,Fort Peck Reservoir,tasmin
+2050,"High Emissions
+(SSP3-7.0)",39.444,35.749,36.692,Fort Peck Reservoir,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",38.797,36.328,37.348,Fort Peck Reservoir,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",38.022,33.63,36.463,Fort Peck Reservoir,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",39.18,34.811,35.791,Fort Peck Reservoir,tasmin
+2051,"High Emissions
+(SSP3-7.0)",38.021,35.176,36.186,Fort Peck Reservoir,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",38.288,35.236,36.488,Fort Peck Reservoir,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",37.239,34.615,35.598,Fort Peck Reservoir,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",38.83,34.401,35.58,Fort Peck Reservoir,tasmin
+2052,"High Emissions
+(SSP3-7.0)",40.233,34.415,36.226,Fort Peck Reservoir,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",38.313,35.919,37.66,Fort Peck Reservoir,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",37.803,33.545,35.051,Fort Peck Reservoir,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",37.648,33.411,36.149,Fort Peck Reservoir,tasmin
+2053,"High Emissions
+(SSP3-7.0)",39.851,35.743,37.812,Fort Peck Reservoir,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",40.519,35.521,37.048,Fort Peck Reservoir,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",37.615,34.408,35.11,Fort Peck Reservoir,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",36.644,33.963,35.074,Fort Peck Reservoir,tasmin
+2054,"High Emissions
+(SSP3-7.0)",38.5,35.344,36.215,Fort Peck Reservoir,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",40.017,36.241,37.037,Fort Peck Reservoir,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",37.79,34.452,36.038,Fort Peck Reservoir,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",37.198,34.476,35.985,Fort Peck Reservoir,tasmin
+2055,"High Emissions
+(SSP3-7.0)",38.72,35.341,36.687,Fort Peck Reservoir,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",40.987,36.672,37.857,Fort Peck Reservoir,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",38.835,33.627,36.47,Fort Peck Reservoir,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",39.14,34.156,35.697,Fort Peck Reservoir,tasmin
+2056,"High Emissions
+(SSP3-7.0)",40.214,34.857,37.14,Fort Peck Reservoir,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",40.417,35.287,37.971,Fort Peck Reservoir,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",38.311,33.21,35.442,Fort Peck Reservoir,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",39.765,34.839,36.557,Fort Peck Reservoir,tasmin
+2057,"High Emissions
+(SSP3-7.0)",39.092,35.768,36.228,Fort Peck Reservoir,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",39.126,34.2,38.022,Fort Peck Reservoir,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",37.616,33.615,35.853,Fort Peck Reservoir,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",39.918,34.594,36.608,Fort Peck Reservoir,tasmin
+2058,"High Emissions
+(SSP3-7.0)",38.149,35.607,36.967,Fort Peck Reservoir,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",39.377,35.331,37.131,Fort Peck Reservoir,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",37.749,33.5,34.975,Fort Peck Reservoir,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",40.895,35.421,37.422,Fort Peck Reservoir,tasmin
+2059,"High Emissions
+(SSP3-7.0)",40.432,35.983,37.985,Fort Peck Reservoir,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",40.275,36.641,38.931,Fort Peck Reservoir,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",38.983,32.822,34.716,Fort Peck Reservoir,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",38.612,34.002,36.031,Fort Peck Reservoir,tasmin
+2060,"High Emissions
+(SSP3-7.0)",39.002,36.135,37.538,Fort Peck Reservoir,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",39.97,36.762,38.724,Fort Peck Reservoir,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",37.818,33.895,34.949,Fort Peck Reservoir,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",38.843,34.82,36.498,Fort Peck Reservoir,tasmin
+2061,"High Emissions
+(SSP3-7.0)",39.905,36.145,37.77,Fort Peck Reservoir,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",41.726,36.469,38.952,Fort Peck Reservoir,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",36.372,34.801,35.502,Fort Peck Reservoir,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",39.366,34.228,35.606,Fort Peck Reservoir,tasmin
+2062,"High Emissions
+(SSP3-7.0)",39.114,36.198,37.56,Fort Peck Reservoir,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",40.991,36.712,37.998,Fort Peck Reservoir,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",36.778,33.508,35.957,Fort Peck Reservoir,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",38.564,35.271,36.672,Fort Peck Reservoir,tasmin
+2063,"High Emissions
+(SSP3-7.0)",40.034,35.598,37.2,Fort Peck Reservoir,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",40.368,36.059,38.692,Fort Peck Reservoir,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",39.297,35.112,36.573,Fort Peck Reservoir,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",37.159,34.399,35.606,Fort Peck Reservoir,tasmin
+2064,"High Emissions
+(SSP3-7.0)",37.844,36.301,37.229,Fort Peck Reservoir,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",40.929,36.814,37.724,Fort Peck Reservoir,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",37.433,32.984,36.273,Fort Peck Reservoir,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",39.161,34.352,36.295,Fort Peck Reservoir,tasmin
+2065,"High Emissions
+(SSP3-7.0)",39.723,36.332,37.827,Fort Peck Reservoir,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",42.934,35.815,39.459,Fort Peck Reservoir,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",38.777,32.624,35.771,Fort Peck Reservoir,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",39.989,35.978,37.992,Fort Peck Reservoir,tasmin
+2066,"High Emissions
+(SSP3-7.0)",40.796,36.012,37.391,Fort Peck Reservoir,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",40.75,36.817,39.321,Fort Peck Reservoir,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",38.706,35.145,36.279,Fort Peck Reservoir,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",39.406,34.65,36.107,Fort Peck Reservoir,tasmin
+2067,"High Emissions
+(SSP3-7.0)",40.471,37.12,39.046,Fort Peck Reservoir,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",43.286,36.623,37.661,Fort Peck Reservoir,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",37.288,34.387,35.981,Fort Peck Reservoir,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",38.305,34.845,35.96,Fort Peck Reservoir,tasmin
+2068,"High Emissions
+(SSP3-7.0)",40.364,35.608,36.609,Fort Peck Reservoir,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",41.734,38.037,38.524,Fort Peck Reservoir,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",38.104,34.868,35.756,Fort Peck Reservoir,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",37.36,34.331,36.244,Fort Peck Reservoir,tasmin
+2069,"High Emissions
+(SSP3-7.0)",40.844,37.747,39.181,Fort Peck Reservoir,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",42.954,37.882,39.471,Fort Peck Reservoir,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",37.619,33.707,34.947,Fort Peck Reservoir,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",38.879,33.987,36.087,Fort Peck Reservoir,tasmin
+2070,"High Emissions
+(SSP3-7.0)",40.721,37.224,39.06,Fort Peck Reservoir,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",43.365,37.775,39.42,Fort Peck Reservoir,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",40.181,32.081,35.533,Fort Peck Reservoir,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",40.139,35.462,37.236,Fort Peck Reservoir,tasmin
+2071,"High Emissions
+(SSP3-7.0)",41.086,38.063,38.988,Fort Peck Reservoir,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",42.145,36.724,39.058,Fort Peck Reservoir,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",39.512,33.974,35.976,Fort Peck Reservoir,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",40.785,34.865,36.664,Fort Peck Reservoir,tasmin
+2072,"High Emissions
+(SSP3-7.0)",40.764,37.287,38.537,Fort Peck Reservoir,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",41.842,37.914,38.771,Fort Peck Reservoir,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",38.008,33.249,35.191,Fort Peck Reservoir,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",40.329,35.064,36.968,Fort Peck Reservoir,tasmin
+2073,"High Emissions
+(SSP3-7.0)",41.299,36.24,38.918,Fort Peck Reservoir,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",42.301,36.553,40.23,Fort Peck Reservoir,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",40.467,32.963,36.074,Fort Peck Reservoir,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",38.624,36.156,37.568,Fort Peck Reservoir,tasmin
+2074,"High Emissions
+(SSP3-7.0)",40.996,36.619,37.833,Fort Peck Reservoir,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",41.765,37.453,39.549,Fort Peck Reservoir,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",38.574,33.845,35.784,Fort Peck Reservoir,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",40.137,34.679,35.768,Fort Peck Reservoir,tasmin
+2075,"High Emissions
+(SSP3-7.0)",40.847,36.691,37.62,Fort Peck Reservoir,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",42.542,36.894,41.009,Fort Peck Reservoir,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",38.001,32.677,34.789,Fort Peck Reservoir,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",39.469,36.055,37.058,Fort Peck Reservoir,tasmin
+2076,"High Emissions
+(SSP3-7.0)",40.731,37.4,38.635,Fort Peck Reservoir,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",42.826,37.609,39.284,Fort Peck Reservoir,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",38.127,34.275,35.966,Fort Peck Reservoir,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",40.87,36.45,37.258,Fort Peck Reservoir,tasmin
+2077,"High Emissions
+(SSP3-7.0)",41.925,37.123,38.631,Fort Peck Reservoir,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",43.525,38.128,40.386,Fort Peck Reservoir,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",37.902,34.999,36.351,Fort Peck Reservoir,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",39.018,35.769,36.542,Fort Peck Reservoir,tasmin
+2078,"High Emissions
+(SSP3-7.0)",41.482,37.099,38.928,Fort Peck Reservoir,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",41.078,38.483,39.158,Fort Peck Reservoir,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",37.055,34.41,35.83,Fort Peck Reservoir,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",39.75,35.624,37.097,Fort Peck Reservoir,tasmin
+2079,"High Emissions
+(SSP3-7.0)",41.688,36.681,39.584,Fort Peck Reservoir,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",42.846,38.119,41.045,Fort Peck Reservoir,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",37.521,34.298,34.925,Fort Peck Reservoir,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",39.103,35.384,37.01,Fort Peck Reservoir,tasmin
+2080,"High Emissions
+(SSP3-7.0)",40.185,37.62,39.311,Fort Peck Reservoir,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",44.353,38.829,41.765,Fort Peck Reservoir,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",38.993,32.524,35.512,Fort Peck Reservoir,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",39.73,36.093,36.892,Fort Peck Reservoir,tasmin
+2081,"High Emissions
+(SSP3-7.0)",42.838,37.096,38.16,Fort Peck Reservoir,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",44.292,39.747,41.814,Fort Peck Reservoir,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",39.186,34.035,36.404,Fort Peck Reservoir,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",40.631,36.197,37.94,Fort Peck Reservoir,tasmin
+2082,"High Emissions
+(SSP3-7.0)",42.434,37.086,38.312,Fort Peck Reservoir,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",44.501,39.302,41.717,Fort Peck Reservoir,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",37.799,33.818,35.951,Fort Peck Reservoir,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",40.804,35.285,37.144,Fort Peck Reservoir,tasmin
+2083,"High Emissions
+(SSP3-7.0)",42.179,36.823,39.746,Fort Peck Reservoir,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",44.777,39.694,41.877,Fort Peck Reservoir,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",39.048,33.663,35.143,Fort Peck Reservoir,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",40.245,36.401,38.506,Fort Peck Reservoir,tasmin
+2084,"High Emissions
+(SSP3-7.0)",44.049,37.838,41.071,Fort Peck Reservoir,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",43.783,39.392,41.112,Fort Peck Reservoir,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",37.079,32.199,34.908,Fort Peck Reservoir,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",39.753,35.234,38.278,Fort Peck Reservoir,tasmin
+2085,"High Emissions
+(SSP3-7.0)",41.987,37.51,39.157,Fort Peck Reservoir,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",44.354,39.859,41.009,Fort Peck Reservoir,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",39.202,35.334,36.453,Fort Peck Reservoir,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",38.956,36.547,37.723,Fort Peck Reservoir,tasmin
+2086,"High Emissions
+(SSP3-7.0)",44.108,38.146,39.832,Fort Peck Reservoir,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",44.869,39.102,42.811,Fort Peck Reservoir,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",37.082,33.823,35.478,Fort Peck Reservoir,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",41.686,35.457,38.148,Fort Peck Reservoir,tasmin
+2087,"High Emissions
+(SSP3-7.0)",43.361,37.996,40.746,Fort Peck Reservoir,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",44.959,39.877,40.827,Fort Peck Reservoir,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",37.568,33.98,35.326,Fort Peck Reservoir,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",39.627,35.592,37.64,Fort Peck Reservoir,tasmin
+2088,"High Emissions
+(SSP3-7.0)",44.132,38.276,40.401,Fort Peck Reservoir,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",44.583,40.439,41.304,Fort Peck Reservoir,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",36.571,33.776,35.81,Fort Peck Reservoir,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",39.828,36.46,37.656,Fort Peck Reservoir,tasmin
+2089,"High Emissions
+(SSP3-7.0)",42.928,38.396,40.008,Fort Peck Reservoir,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",45.896,40.616,43.914,Fort Peck Reservoir,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",39.157,34.081,36.351,Fort Peck Reservoir,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",39.951,36.096,38.558,Fort Peck Reservoir,tasmin
+2090,"High Emissions
+(SSP3-7.0)",42.406,38.108,38.882,Fort Peck Reservoir,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",46.061,41.023,42.703,Fort Peck Reservoir,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",38.648,34.495,35.896,Fort Peck Reservoir,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",40.035,36.118,38.63,Fort Peck Reservoir,tasmin
+2091,"High Emissions
+(SSP3-7.0)",43.835,37.285,39.643,Fort Peck Reservoir,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",46.849,39.454,41.911,Fort Peck Reservoir,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",40.386,32.813,37.124,Fort Peck Reservoir,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",40.139,35.863,37.272,Fort Peck Reservoir,tasmin
+2092,"High Emissions
+(SSP3-7.0)",43.001,38.026,40.305,Fort Peck Reservoir,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",46,40.872,42.014,Fort Peck Reservoir,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",38.421,33.323,35.891,Fort Peck Reservoir,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",40.981,34.868,37.904,Fort Peck Reservoir,tasmin
+2093,"High Emissions
+(SSP3-7.0)",43.996,38.387,40.466,Fort Peck Reservoir,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",46.961,40.318,42.762,Fort Peck Reservoir,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",38.705,32.738,35.881,Fort Peck Reservoir,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",40.852,34.641,36.773,Fort Peck Reservoir,tasmin
+2094,"High Emissions
+(SSP3-7.0)",44.625,38.493,40.946,Fort Peck Reservoir,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",47.477,40.588,43.467,Fort Peck Reservoir,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",37.331,34.496,36.615,Fort Peck Reservoir,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",41.895,36.394,38.64,Fort Peck Reservoir,tasmin
+2095,"High Emissions
+(SSP3-7.0)",45.274,37.135,40.741,Fort Peck Reservoir,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",46.049,39.99,41.1,Fort Peck Reservoir,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",37.739,34.261,35.729,Fort Peck Reservoir,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",40.961,37.289,38.756,Fort Peck Reservoir,tasmin
+2096,"High Emissions
+(SSP3-7.0)",43.218,39.686,41.613,Fort Peck Reservoir,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",46.235,39.995,43.643,Fort Peck Reservoir,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",38.947,33.416,35.049,Fort Peck Reservoir,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",40.605,37.321,38.371,Fort Peck Reservoir,tasmin
+2097,"High Emissions
+(SSP3-7.0)",44.459,38.082,41.189,Fort Peck Reservoir,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",48.958,39.422,43.513,Fort Peck Reservoir,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",37.301,32.94,35.425,Fort Peck Reservoir,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",40.36,35.809,37.484,Fort Peck Reservoir,tasmin
+2098,"High Emissions
+(SSP3-7.0)",45.142,39.372,40.855,Fort Peck Reservoir,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",46.242,40.995,43.251,Fort Peck Reservoir,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",39.91,33.266,35.569,Fort Peck Reservoir,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",40.391,36.124,37.424,Fort Peck Reservoir,tasmin
+2099,"High Emissions
+(SSP3-7.0)",45.874,38.098,41.008,Fort Peck Reservoir,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",46.983,40.456,44.031,Fort Peck Reservoir,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",38.359,33.081,34.765,Fort Peck Reservoir,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",41.177,36.796,38.851,Fort Peck Reservoir,tasmin
+2100,"High Emissions
+(SSP3-7.0)",44.623,38.522,40.964,Fort Peck Reservoir,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",47.089,40.431,42.747,Fort Peck Reservoir,tasmin

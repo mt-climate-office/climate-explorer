@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),28.583,13.833,18.583,Madison,con-dry
+Historical Emissions,Jan,End-of-Century (2070-2099),28.583,13.833,18.583,Madison,con-dry
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),26.217,11.875,18,Madison,con-dry
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),29.192,13.333,19.459,Madison,con-dry
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),30.317,13.392,19.459,Madison,con-dry
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),29.692,13.742,19.333,Madison,con-dry
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),30.108,12.425,17.917,Madison,con-dry
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),28.033,13.5,18.167,Madison,con-dry
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),30.383,13.808,19.625,Madison,con-dry
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),30.608,13.25,19.417,Madison,con-dry

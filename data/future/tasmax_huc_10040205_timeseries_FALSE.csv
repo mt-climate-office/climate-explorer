@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,60.565,57.424,58.363,Lower Musselshell,tasmax
+1951,Historical Emissions,59.866,56.115,58.742,Lower Musselshell,tasmax
+1952,Historical Emissions,59.976,55.257,57.931,Lower Musselshell,tasmax
+1953,Historical Emissions,59.422,55.035,58.051,Lower Musselshell,tasmax
+1954,Historical Emissions,59.475,54.723,57.405,Lower Musselshell,tasmax
+1955,Historical Emissions,61.448,55.781,56.683,Lower Musselshell,tasmax
+1956,Historical Emissions,61.799,56.735,58.642,Lower Musselshell,tasmax
+1957,Historical Emissions,62.612,55.576,58.446,Lower Musselshell,tasmax
+1958,Historical Emissions,59.287,56.338,57.006,Lower Musselshell,tasmax
+1959,Historical Emissions,57.527,54.519,56.208,Lower Musselshell,tasmax
+1960,Historical Emissions,59.594,54.731,56.87,Lower Musselshell,tasmax
+1961,Historical Emissions,60.016,55.725,57.621,Lower Musselshell,tasmax
+1962,Historical Emissions,58.418,54.078,57.09,Lower Musselshell,tasmax
+1963,Historical Emissions,57.548,54.851,56.474,Lower Musselshell,tasmax
+1964,Historical Emissions,58.729,55.231,58.43,Lower Musselshell,tasmax
+1965,Historical Emissions,59.033,55.542,57.187,Lower Musselshell,tasmax
+1966,Historical Emissions,60.588,54.888,57.336,Lower Musselshell,tasmax
+1967,Historical Emissions,58.749,55.102,57.024,Lower Musselshell,tasmax
+1968,Historical Emissions,57.885,53.899,55.315,Lower Musselshell,tasmax
+1969,Historical Emissions,58.376,55.273,57.102,Lower Musselshell,tasmax
+1970,Historical Emissions,59.145,55.659,57.692,Lower Musselshell,tasmax
+1971,Historical Emissions,60.801,56.659,58.879,Lower Musselshell,tasmax
+1972,Historical Emissions,58.604,55.573,57.685,Lower Musselshell,tasmax
+1973,Historical Emissions,59.655,54.671,56.662,Lower Musselshell,tasmax
+1974,Historical Emissions,59.681,54.961,58.109,Lower Musselshell,tasmax
+1975,Historical Emissions,59.28,54.694,57.814,Lower Musselshell,tasmax
+1976,Historical Emissions,58.156,55.407,57.264,Lower Musselshell,tasmax
+1977,Historical Emissions,60.039,56.187,58.101,Lower Musselshell,tasmax
+1978,Historical Emissions,59.738,55.701,57.152,Lower Musselshell,tasmax
+1979,Historical Emissions,60.236,55.616,59.107,Lower Musselshell,tasmax
+1980,Historical Emissions,58.611,55.663,56.835,Lower Musselshell,tasmax
+1981,Historical Emissions,59.939,56.554,58.083,Lower Musselshell,tasmax
+1982,Historical Emissions,59.227,56.832,57.119,Lower Musselshell,tasmax
+1983,Historical Emissions,59.222,55.761,56.809,Lower Musselshell,tasmax
+1984,Historical Emissions,60.188,56.305,57.31,Lower Musselshell,tasmax
+1985,Historical Emissions,60.161,56.3,57.624,Lower Musselshell,tasmax
+1986,Historical Emissions,56.559,55.077,55.996,Lower Musselshell,tasmax
+1987,Historical Emissions,59.049,53.665,54.959,Lower Musselshell,tasmax
+1988,Historical Emissions,59.429,55.281,56.955,Lower Musselshell,tasmax
+1989,Historical Emissions,59.919,56.007,57.648,Lower Musselshell,tasmax
+1990,Historical Emissions,61.795,55.743,58.642,Lower Musselshell,tasmax
+1991,Historical Emissions,59.655,55.584,56.549,Lower Musselshell,tasmax
+1992,Historical Emissions,59.323,55.511,56.862,Lower Musselshell,tasmax
+1993,Historical Emissions,59.297,55.493,56.851,Lower Musselshell,tasmax
+1994,Historical Emissions,60.709,56.298,57.201,Lower Musselshell,tasmax
+1995,Historical Emissions,61.292,56.635,57.455,Lower Musselshell,tasmax
+1996,Historical Emissions,61.221,58.012,58.989,Lower Musselshell,tasmax
+1997,Historical Emissions,61.655,55.144,57.932,Lower Musselshell,tasmax
+1998,Historical Emissions,59.666,55.61,58.077,Lower Musselshell,tasmax
+1999,Historical Emissions,60.345,57.312,58.37,Lower Musselshell,tasmax
+2000,Historical Emissions,59.775,56.525,58.182,Lower Musselshell,tasmax
+2001,Historical Emissions,59.687,56.952,58.022,Lower Musselshell,tasmax
+2002,Historical Emissions,61.981,56.766,58.519,Lower Musselshell,tasmax
+2003,Historical Emissions,60.829,57.138,59.183,Lower Musselshell,tasmax
+2004,Historical Emissions,60.748,59,59.979,Lower Musselshell,tasmax
+2005,Historical Emissions,62.446,58.33,60.272,Lower Musselshell,tasmax
+2006,Historical Emissions,60.924,55.783,57.991,Lower Musselshell,tasmax
+2007,Historical Emissions,60.802,57.659,59.552,Lower Musselshell,tasmax
+2008,Historical Emissions,60.592,57.347,59.234,Lower Musselshell,tasmax
+2009,Historical Emissions,59.894,56.999,58.817,Lower Musselshell,tasmax
+2010,Historical Emissions,60.581,58.042,59.974,Lower Musselshell,tasmax
+2011,Historical Emissions,61.338,58.185,59.264,Lower Musselshell,tasmax
+2012,Historical Emissions,61.142,57.927,60.357,Lower Musselshell,tasmax
+2013,Historical Emissions,62.252,57.818,59.368,Lower Musselshell,tasmax
+2014,Historical Emissions,62.156,58.885,60.009,Lower Musselshell,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",63.206,58.385,59.996,Lower Musselshell,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",63.116,57.452,59.287,Lower Musselshell,tasmax
+2015,"High Emissions
+(SSP3-7.0)",61.869,58.5,59.884,Lower Musselshell,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",61.847,58.36,59.679,Lower Musselshell,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",62.27,59.762,61.06,Lower Musselshell,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",61.073,57.81,60.216,Lower Musselshell,tasmax
+2016,"High Emissions
+(SSP3-7.0)",63.658,57.827,60.747,Lower Musselshell,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",61.743,58.573,60.227,Lower Musselshell,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",61.01,58.755,59.593,Lower Musselshell,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",62.661,57.886,59.665,Lower Musselshell,tasmax
+2017,"High Emissions
+(SSP3-7.0)",61.551,58.37,59.588,Lower Musselshell,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",62.418,58.899,60.778,Lower Musselshell,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",60.957,58.202,59.806,Lower Musselshell,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",62.693,58.488,59.88,Lower Musselshell,tasmax
+2018,"High Emissions
+(SSP3-7.0)",61.972,56.607,59.711,Lower Musselshell,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",61.357,58.136,59.934,Lower Musselshell,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",63.666,60.416,61.549,Lower Musselshell,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",62.026,57.652,59.057,Lower Musselshell,tasmax
+2019,"High Emissions
+(SSP3-7.0)",62.773,57.132,59.099,Lower Musselshell,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",65.116,59.185,60.952,Lower Musselshell,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",64.898,57.741,59.313,Lower Musselshell,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",62.399,58.55,60.009,Lower Musselshell,tasmax
+2020,"High Emissions
+(SSP3-7.0)",61.726,57.953,59.642,Lower Musselshell,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",62.009,58.78,60.368,Lower Musselshell,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",63.124,58.825,60.71,Lower Musselshell,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",62.665,58.384,61.181,Lower Musselshell,tasmax
+2021,"High Emissions
+(SSP3-7.0)",62.618,59.307,61.029,Lower Musselshell,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",62.61,59.201,60.649,Lower Musselshell,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",62.572,59.015,60.25,Lower Musselshell,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",63.477,58.181,60.933,Lower Musselshell,tasmax
+2022,"High Emissions
+(SSP3-7.0)",61.822,57.831,59.513,Lower Musselshell,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",63.499,58.033,61.218,Lower Musselshell,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",61.157,59.75,60.522,Lower Musselshell,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",62.529,58.801,60.259,Lower Musselshell,tasmax
+2023,"High Emissions
+(SSP3-7.0)",62.966,58.265,60.262,Lower Musselshell,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",60.664,57.182,58.781,Lower Musselshell,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",62.811,59.369,60.999,Lower Musselshell,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",61.653,58.328,59.937,Lower Musselshell,tasmax
+2024,"High Emissions
+(SSP3-7.0)",63.425,59.154,61.016,Lower Musselshell,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",63.231,57.87,60.15,Lower Musselshell,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",62.616,60.44,62.056,Lower Musselshell,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",62.698,57.215,59.884,Lower Musselshell,tasmax
+2025,"High Emissions
+(SSP3-7.0)",63.284,60.487,61.694,Lower Musselshell,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",63.282,59.786,61.244,Lower Musselshell,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",63.875,58.549,60.214,Lower Musselshell,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",63.22,58.606,61.442,Lower Musselshell,tasmax
+2026,"High Emissions
+(SSP3-7.0)",62.418,57.342,59.947,Lower Musselshell,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",63.776,58.43,60.337,Lower Musselshell,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",62.802,58.757,60.178,Lower Musselshell,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",63.619,58.766,61.163,Lower Musselshell,tasmax
+2027,"High Emissions
+(SSP3-7.0)",63.017,58.032,59.87,Lower Musselshell,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",63.001,59.177,61.531,Lower Musselshell,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",62.02,58.653,60.765,Lower Musselshell,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",61.189,57.675,59.487,Lower Musselshell,tasmax
+2028,"High Emissions
+(SSP3-7.0)",61.7,60.124,61.127,Lower Musselshell,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",62.798,59.415,59.876,Lower Musselshell,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",64.677,60.726,61.822,Lower Musselshell,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",62.622,58.039,60.664,Lower Musselshell,tasmax
+2029,"High Emissions
+(SSP3-7.0)",62.618,57.531,59.489,Lower Musselshell,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",63.049,59.7,61.316,Lower Musselshell,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",63.872,59.015,60.951,Lower Musselshell,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",64.265,60.383,61.274,Lower Musselshell,tasmax
+2030,"High Emissions
+(SSP3-7.0)",64.126,58.838,60.686,Lower Musselshell,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",64.365,58.596,61.238,Lower Musselshell,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",63.338,58.92,61.904,Lower Musselshell,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",63.878,59.295,61.264,Lower Musselshell,tasmax
+2031,"High Emissions
+(SSP3-7.0)",64.145,59.253,62.867,Lower Musselshell,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",64.958,60.62,62.785,Lower Musselshell,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",62.488,58.401,60.801,Lower Musselshell,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",62.676,58.958,60.108,Lower Musselshell,tasmax
+2032,"High Emissions
+(SSP3-7.0)",64.225,59.559,60.585,Lower Musselshell,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",64.592,57.839,61.637,Lower Musselshell,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",63.671,59.561,61.231,Lower Musselshell,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",64.314,58.966,62.006,Lower Musselshell,tasmax
+2033,"High Emissions
+(SSP3-7.0)",61.973,58.02,60.588,Lower Musselshell,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",63.653,59.287,62.004,Lower Musselshell,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",64.096,58.606,60.825,Lower Musselshell,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",63.203,60.035,61.454,Lower Musselshell,tasmax
+2034,"High Emissions
+(SSP3-7.0)",64.278,59.973,62.786,Lower Musselshell,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",63.884,59.008,61.046,Lower Musselshell,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",64.542,59.4,61.892,Lower Musselshell,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",63.742,59.43,62.372,Lower Musselshell,tasmax
+2035,"High Emissions
+(SSP3-7.0)",62.032,58.438,59.867,Lower Musselshell,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",64.771,59.131,62.591,Lower Musselshell,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",63.214,59.81,62.608,Lower Musselshell,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",62.4,58.817,61.71,Lower Musselshell,tasmax
+2036,"High Emissions
+(SSP3-7.0)",62.554,59.146,61.753,Lower Musselshell,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",64.432,57.58,62.743,Lower Musselshell,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",64.226,60.313,62.049,Lower Musselshell,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",64.001,57.969,61.313,Lower Musselshell,tasmax
+2037,"High Emissions
+(SSP3-7.0)",63.115,58.626,59.26,Lower Musselshell,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",64.25,59.623,61.502,Lower Musselshell,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",63.714,60.397,61.986,Lower Musselshell,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",62.798,59.487,60.904,Lower Musselshell,tasmax
+2038,"High Emissions
+(SSP3-7.0)",64.112,60.204,61.919,Lower Musselshell,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",65.58,58.907,62.848,Lower Musselshell,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",64.283,58.775,62.34,Lower Musselshell,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",63.355,59.491,61.151,Lower Musselshell,tasmax
+2039,"High Emissions
+(SSP3-7.0)",64.062,61.397,62.183,Lower Musselshell,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",64.534,59.328,61.574,Lower Musselshell,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",63.539,59.361,62.243,Lower Musselshell,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",63.7,60.276,62.955,Lower Musselshell,tasmax
+2040,"High Emissions
+(SSP3-7.0)",63.741,60.683,62.47,Lower Musselshell,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",66.471,61.153,62.716,Lower Musselshell,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",63.272,58.366,61.063,Lower Musselshell,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",63.259,60.002,61.761,Lower Musselshell,tasmax
+2041,"High Emissions
+(SSP3-7.0)",63.543,59.671,60.77,Lower Musselshell,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",62.644,60.342,61.508,Lower Musselshell,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",65.334,60.041,61.153,Lower Musselshell,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",62.42,58.604,61.434,Lower Musselshell,tasmax
+2042,"High Emissions
+(SSP3-7.0)",62.574,59.979,61.112,Lower Musselshell,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",64.943,60.966,62.822,Lower Musselshell,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",62.614,59.68,61.347,Lower Musselshell,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",64.822,59.615,61.661,Lower Musselshell,tasmax
+2043,"High Emissions
+(SSP3-7.0)",63.44,58.26,62.499,Lower Musselshell,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",64.026,60.519,62.497,Lower Musselshell,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",64.238,60.11,60.762,Lower Musselshell,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",66.565,60.643,62.936,Lower Musselshell,tasmax
+2044,"High Emissions
+(SSP3-7.0)",63.12,61.374,61.776,Lower Musselshell,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",65.906,59.212,62.143,Lower Musselshell,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",63.526,59.16,62.101,Lower Musselshell,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",65.203,59.908,62.425,Lower Musselshell,tasmax
+2045,"High Emissions
+(SSP3-7.0)",63.77,60.116,61.783,Lower Musselshell,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",63.644,59.613,61.868,Lower Musselshell,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",66.574,59.334,62.44,Lower Musselshell,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",64.139,58.963,62.507,Lower Musselshell,tasmax
+2046,"High Emissions
+(SSP3-7.0)",64.057,60.933,62.771,Lower Musselshell,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",64.821,60.007,61.062,Lower Musselshell,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",64.752,60.869,61.97,Lower Musselshell,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",64.078,57.97,61.238,Lower Musselshell,tasmax
+2047,"High Emissions
+(SSP3-7.0)",62.745,60.223,61.388,Lower Musselshell,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",66.973,60.536,63.488,Lower Musselshell,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",63.442,60.674,61.636,Lower Musselshell,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",65.195,59.826,62.652,Lower Musselshell,tasmax
+2048,"High Emissions
+(SSP3-7.0)",65.359,59.739,62.792,Lower Musselshell,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",69.588,60.812,65.003,Lower Musselshell,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",63.949,59.892,60.681,Lower Musselshell,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",65.521,61.477,63.498,Lower Musselshell,tasmax
+2049,"High Emissions
+(SSP3-7.0)",65.336,60.91,63.157,Lower Musselshell,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",64.796,60.673,63.042,Lower Musselshell,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",64.608,58.313,61.915,Lower Musselshell,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",65.134,61.107,63.748,Lower Musselshell,tasmax
+2050,"High Emissions
+(SSP3-7.0)",65.301,60.641,62.618,Lower Musselshell,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",64.979,61.476,63.477,Lower Musselshell,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",64.005,58.882,62.323,Lower Musselshell,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",66.291,60.99,63.21,Lower Musselshell,tasmax
+2051,"High Emissions
+(SSP3-7.0)",64.139,61.649,62.84,Lower Musselshell,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",65.323,61.72,63.626,Lower Musselshell,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",63.826,60.275,62.132,Lower Musselshell,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",64.816,60.739,61.692,Lower Musselshell,tasmax
+2052,"High Emissions
+(SSP3-7.0)",65.556,59.322,61.865,Lower Musselshell,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",64.835,61.883,63.978,Lower Musselshell,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",64.854,59.387,60.684,Lower Musselshell,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",63.836,59.923,63.089,Lower Musselshell,tasmax
+2053,"High Emissions
+(SSP3-7.0)",66.164,61.769,65.402,Lower Musselshell,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",66.963,61.299,63.582,Lower Musselshell,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",64.514,60.856,63.354,Lower Musselshell,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",64.129,59.176,61.479,Lower Musselshell,tasmax
+2054,"High Emissions
+(SSP3-7.0)",65.434,60.588,61.918,Lower Musselshell,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",66.452,61.978,64.303,Lower Musselshell,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",63.785,61.614,63.3,Lower Musselshell,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",65.922,59.511,63.363,Lower Musselshell,tasmax
+2055,"High Emissions
+(SSP3-7.0)",65.664,61.55,63.204,Lower Musselshell,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",66.636,61.806,65.526,Lower Musselshell,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",63.948,61.102,62.856,Lower Musselshell,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",64.544,60.966,62.567,Lower Musselshell,tasmax
+2056,"High Emissions
+(SSP3-7.0)",65.758,60.657,62.469,Lower Musselshell,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",65.641,61.891,64.36,Lower Musselshell,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",64.944,59.342,62.655,Lower Musselshell,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",65.143,62.143,63.49,Lower Musselshell,tasmax
+2057,"High Emissions
+(SSP3-7.0)",64.525,60.209,61.761,Lower Musselshell,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",65.085,59.557,62.665,Lower Musselshell,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",64.511,59.813,62.165,Lower Musselshell,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",66.123,61.132,64.587,Lower Musselshell,tasmax
+2058,"High Emissions
+(SSP3-7.0)",64.833,60.201,63.089,Lower Musselshell,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",65.064,61.235,62.425,Lower Musselshell,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",65.055,60.819,63.657,Lower Musselshell,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",67.812,60.227,64.575,Lower Musselshell,tasmax
+2059,"High Emissions
+(SSP3-7.0)",67.759,61.916,63.642,Lower Musselshell,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",66.875,63.519,65.558,Lower Musselshell,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",65.202,60.233,62.326,Lower Musselshell,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",66.515,60.793,62.35,Lower Musselshell,tasmax
+2060,"High Emissions
+(SSP3-7.0)",64.895,61.351,63.219,Lower Musselshell,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",65.486,62.595,64.092,Lower Musselshell,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",64.272,60.305,61.588,Lower Musselshell,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",65.608,60.662,63.228,Lower Musselshell,tasmax
+2061,"High Emissions
+(SSP3-7.0)",65.392,61.17,63.92,Lower Musselshell,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",68.648,63.65,65.388,Lower Musselshell,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",64.215,60.292,61.659,Lower Musselshell,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",64.824,60.316,61.737,Lower Musselshell,tasmax
+2062,"High Emissions
+(SSP3-7.0)",64.815,62.012,63.581,Lower Musselshell,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",65.689,63.128,65.231,Lower Musselshell,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",64.267,60.486,61.771,Lower Musselshell,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",64.202,60.865,62.697,Lower Musselshell,tasmax
+2063,"High Emissions
+(SSP3-7.0)",66.759,61.498,64.072,Lower Musselshell,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",67.982,62,65.343,Lower Musselshell,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",64.883,60.301,62.7,Lower Musselshell,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",63.504,60.917,61.925,Lower Musselshell,tasmax
+2064,"High Emissions
+(SSP3-7.0)",64.958,61.021,62.379,Lower Musselshell,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",66.542,62.931,64.499,Lower Musselshell,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",64.783,58.134,60.955,Lower Musselshell,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",65.437,60.405,61.734,Lower Musselshell,tasmax
+2065,"High Emissions
+(SSP3-7.0)",66.013,62.55,63.619,Lower Musselshell,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",68.552,62.689,65.51,Lower Musselshell,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",65.156,60.587,62.686,Lower Musselshell,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",65.384,60.993,64.353,Lower Musselshell,tasmax
+2066,"High Emissions
+(SSP3-7.0)",66.556,62.197,63.168,Lower Musselshell,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",68.59,61.911,65.869,Lower Musselshell,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",64.816,61.674,63.415,Lower Musselshell,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",65.621,61.747,63.086,Lower Musselshell,tasmax
+2067,"High Emissions
+(SSP3-7.0)",68.28,64.108,65.373,Lower Musselshell,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",68.168,63.307,64.736,Lower Musselshell,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",64.715,59.717,61.562,Lower Musselshell,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",64.875,60.404,63.079,Lower Musselshell,tasmax
+2068,"High Emissions
+(SSP3-7.0)",66.853,61.321,64.055,Lower Musselshell,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",67.722,63.972,65.16,Lower Musselshell,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",66.463,60.467,62.819,Lower Musselshell,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",64.207,60.829,61.965,Lower Musselshell,tasmax
+2069,"High Emissions
+(SSP3-7.0)",68.941,64.322,65.706,Lower Musselshell,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",70.201,62.762,66.443,Lower Musselshell,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",63.677,59.818,62.921,Lower Musselshell,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",65.789,60.077,62.446,Lower Musselshell,tasmax
+2070,"High Emissions
+(SSP3-7.0)",67.395,63.355,65.355,Lower Musselshell,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",69.995,64.533,65.976,Lower Musselshell,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",68.308,59.318,62.031,Lower Musselshell,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",65.087,61.755,62.853,Lower Musselshell,tasmax
+2071,"High Emissions
+(SSP3-7.0)",67.307,63.452,65.949,Lower Musselshell,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",68.761,64.369,65.29,Lower Musselshell,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",66.232,61.302,62.61,Lower Musselshell,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",65.516,59.709,63.271,Lower Musselshell,tasmax
+2072,"High Emissions
+(SSP3-7.0)",67.381,62.655,64.614,Lower Musselshell,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",67.743,64.201,65.334,Lower Musselshell,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",64.049,59.599,62.68,Lower Musselshell,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",65.612,59.329,63.299,Lower Musselshell,tasmax
+2073,"High Emissions
+(SSP3-7.0)",66.667,63.006,65.435,Lower Musselshell,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",68.312,62.789,66.227,Lower Musselshell,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",64.955,59.129,62.774,Lower Musselshell,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",66.133,61.554,63.027,Lower Musselshell,tasmax
+2074,"High Emissions
+(SSP3-7.0)",66.701,62.14,63.437,Lower Musselshell,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",70.065,63.538,65.548,Lower Musselshell,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",66.411,57.998,61.602,Lower Musselshell,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",67.335,60.886,61.972,Lower Musselshell,tasmax
+2075,"High Emissions
+(SSP3-7.0)",68.534,61.259,63.798,Lower Musselshell,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",69.33,63.993,65.396,Lower Musselshell,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",64.744,58.768,61.451,Lower Musselshell,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",64.053,61.126,62.162,Lower Musselshell,tasmax
+2076,"High Emissions
+(SSP3-7.0)",68.361,63.048,64.789,Lower Musselshell,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",70.101,63.261,66.732,Lower Musselshell,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",64.897,60.609,63.132,Lower Musselshell,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",65.83,62.508,63.66,Lower Musselshell,tasmax
+2077,"High Emissions
+(SSP3-7.0)",66.995,62.189,65.783,Lower Musselshell,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",69.916,64.465,67.452,Lower Musselshell,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",65.214,61.15,61.562,Lower Musselshell,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",65.474,62.068,63.686,Lower Musselshell,tasmax
+2078,"High Emissions
+(SSP3-7.0)",68.474,62.615,65.148,Lower Musselshell,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",66.473,63.371,64.542,Lower Musselshell,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",65.501,61.123,62.483,Lower Musselshell,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",65.659,61.377,63.058,Lower Musselshell,tasmax
+2079,"High Emissions
+(SSP3-7.0)",66.528,61.387,65.928,Lower Musselshell,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",69.535,63.809,66.976,Lower Musselshell,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",64.611,59.567,61.666,Lower Musselshell,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",65.711,60.868,63.53,Lower Musselshell,tasmax
+2080,"High Emissions
+(SSP3-7.0)",68.387,62.497,64.013,Lower Musselshell,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",70.176,65.086,68.126,Lower Musselshell,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",66.619,59.719,61.566,Lower Musselshell,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",65.905,62.066,63.461,Lower Musselshell,tasmax
+2081,"High Emissions
+(SSP3-7.0)",69.754,61.139,63.214,Lower Musselshell,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",70.417,65.967,67.447,Lower Musselshell,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",65.928,60.733,63.407,Lower Musselshell,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",66.726,61.492,63.515,Lower Musselshell,tasmax
+2082,"High Emissions
+(SSP3-7.0)",68.119,61.693,64.386,Lower Musselshell,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",71.285,64.807,69.015,Lower Musselshell,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",65.315,61.754,63.721,Lower Musselshell,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",66.739,61.407,63.047,Lower Musselshell,tasmax
+2083,"High Emissions
+(SSP3-7.0)",67.694,61.846,66.201,Lower Musselshell,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",71.621,65.091,69.122,Lower Musselshell,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",66.128,59.994,61.739,Lower Musselshell,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",67.82,62.713,64.499,Lower Musselshell,tasmax
+2084,"High Emissions
+(SSP3-7.0)",70.324,64.196,67.276,Lower Musselshell,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",71.004,65.409,67.976,Lower Musselshell,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",65.147,59.448,61.529,Lower Musselshell,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",65.229,61.005,63.664,Lower Musselshell,tasmax
+2085,"High Emissions
+(SSP3-7.0)",67.468,63.919,65.553,Lower Musselshell,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",71.435,64.38,68.672,Lower Musselshell,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",65.179,61.51,63.227,Lower Musselshell,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",66.637,62.418,63.408,Lower Musselshell,tasmax
+2086,"High Emissions
+(SSP3-7.0)",68.762,63.582,65.857,Lower Musselshell,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",70.562,64.492,69.188,Lower Musselshell,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",63.691,60.227,61.763,Lower Musselshell,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",66.928,62.79,64.322,Lower Musselshell,tasmax
+2087,"High Emissions
+(SSP3-7.0)",71.223,63.83,66.128,Lower Musselshell,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",70.53,64.344,67.253,Lower Musselshell,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",65.717,59.041,60.466,Lower Musselshell,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",66.534,62.828,65.336,Lower Musselshell,tasmax
+2088,"High Emissions
+(SSP3-7.0)",70.093,63.942,65.654,Lower Musselshell,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",70.327,66.003,68.536,Lower Musselshell,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",62.783,59.751,61.217,Lower Musselshell,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",66.366,61.475,63.82,Lower Musselshell,tasmax
+2089,"High Emissions
+(SSP3-7.0)",69.167,62.547,67.187,Lower Musselshell,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",71.469,66.549,69.359,Lower Musselshell,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",64.099,60.707,62.587,Lower Musselshell,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",65.72,62.371,63.787,Lower Musselshell,tasmax
+2090,"High Emissions
+(SSP3-7.0)",71.328,65.834,67.201,Lower Musselshell,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",71.683,67.14,68.872,Lower Musselshell,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",63.929,60.242,62.757,Lower Musselshell,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",65.891,61.401,64.606,Lower Musselshell,tasmax
+2091,"High Emissions
+(SSP3-7.0)",69.198,65.962,68.107,Lower Musselshell,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",73.018,64.86,67.619,Lower Musselshell,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",66.035,59.34,62.962,Lower Musselshell,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",67.081,60.869,65.147,Lower Musselshell,tasmax
+2092,"High Emissions
+(SSP3-7.0)",68.591,63.8,67.045,Lower Musselshell,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",73.38,66.089,69.015,Lower Musselshell,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",65.45,58.622,62.27,Lower Musselshell,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",66.905,60.173,63.712,Lower Musselshell,tasmax
+2093,"High Emissions
+(SSP3-7.0)",69.661,64.602,65.348,Lower Musselshell,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",72.598,67.305,68.628,Lower Musselshell,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",64.963,59.758,61.546,Lower Musselshell,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",68.712,60.381,64.047,Lower Musselshell,tasmax
+2094,"High Emissions
+(SSP3-7.0)",69.506,64.787,66.825,Lower Musselshell,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",73.91,67.117,70.933,Lower Musselshell,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",64.56,59.719,63.57,Lower Musselshell,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",67.785,62.861,66.096,Lower Musselshell,tasmax
+2095,"High Emissions
+(SSP3-7.0)",71.562,64.05,68.259,Lower Musselshell,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",72.447,66.059,67.716,Lower Musselshell,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",64.418,60.051,62.988,Lower Musselshell,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",66.776,63.426,64.697,Lower Musselshell,tasmax
+2096,"High Emissions
+(SSP3-7.0)",69.537,64.698,68.24,Lower Musselshell,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",72,66.217,68.855,Lower Musselshell,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",66.113,60.58,61.827,Lower Musselshell,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",68.341,63.138,64.34,Lower Musselshell,tasmax
+2097,"High Emissions
+(SSP3-7.0)",73.107,63.786,68.865,Lower Musselshell,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",74.608,66.497,68.229,Lower Musselshell,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",64.445,59.241,61.825,Lower Musselshell,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",66.618,62.199,64.396,Lower Musselshell,tasmax
+2098,"High Emissions
+(SSP3-7.0)",70.009,64.525,66.97,Lower Musselshell,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",71.623,67.286,69.833,Lower Musselshell,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",65.652,58.339,62.747,Lower Musselshell,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",66.88,61.745,63.718,Lower Musselshell,tasmax
+2099,"High Emissions
+(SSP3-7.0)",71.512,64.253,65.677,Lower Musselshell,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",73.869,66.855,70.817,Lower Musselshell,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",65.048,58.466,60.726,Lower Musselshell,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",68.954,61.45,64.706,Lower Musselshell,tasmax
+2100,"High Emissions
+(SSP3-7.0)",70.099,63.983,68.249,Lower Musselshell,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",73.675,66.137,68.862,Lower Musselshell,tasmax

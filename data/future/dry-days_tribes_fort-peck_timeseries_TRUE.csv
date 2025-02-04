@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,278.809,249.78,267.089,Fort Peck,dry-days
+1951,Historical Emissions,274.736,254.509,269.774,Fort Peck,dry-days
+1952,Historical Emissions,286.627,250.683,264.227,Fort Peck,dry-days
+1953,Historical Emissions,289.437,233.554,264.501,Fort Peck,dry-days
+1954,Historical Emissions,269.746,237.109,251.775,Fort Peck,dry-days
+1955,Historical Emissions,296.527,239.29,258.454,Fort Peck,dry-days
+1956,Historical Emissions,280.265,248.872,268.229,Fort Peck,dry-days
+1957,Historical Emissions,290.001,230.399,268.819,Fort Peck,dry-days
+1958,Historical Emissions,266.108,240.955,256.909,Fort Peck,dry-days
+1959,Historical Emissions,277.644,239.8,259.41,Fort Peck,dry-days
+1960,Historical Emissions,275.256,243.154,256.863,Fort Peck,dry-days
+1961,Historical Emissions,267.837,249.563,258.637,Fort Peck,dry-days
+1962,Historical Emissions,282.855,236.818,256.956,Fort Peck,dry-days
+1963,Historical Emissions,281.071,238.355,266.546,Fort Peck,dry-days
+1964,Historical Emissions,275.118,258.2,265.637,Fort Peck,dry-days
+1965,Historical Emissions,280.235,250.581,261.955,Fort Peck,dry-days
+1966,Historical Emissions,283.246,233.346,255.272,Fort Peck,dry-days
+1967,Historical Emissions,273.918,239.936,259.271,Fort Peck,dry-days
+1968,Historical Emissions,276.563,243.582,248.682,Fort Peck,dry-days
+1969,Historical Emissions,276.236,247.417,263.548,Fort Peck,dry-days
+1970,Historical Emissions,271.037,244.12,256.772,Fort Peck,dry-days
+1971,Historical Emissions,276.817,234.963,265.136,Fort Peck,dry-days
+1972,Historical Emissions,278.109,248.291,262.499,Fort Peck,dry-days
+1973,Historical Emissions,282.355,230.037,259.546,Fort Peck,dry-days
+1974,Historical Emissions,285.344,228.072,264.863,Fort Peck,dry-days
+1975,Historical Emissions,277.727,249.172,260.183,Fort Peck,dry-days
+1976,Historical Emissions,274.554,251.745,262.637,Fort Peck,dry-days
+1977,Historical Emissions,272.582,237.582,264.864,Fort Peck,dry-days
+1978,Historical Emissions,267.646,239.864,247.545,Fort Peck,dry-days
+1979,Historical Emissions,277.619,232.682,259.318,Fort Peck,dry-days
+1980,Historical Emissions,287.08,234.799,259.546,Fort Peck,dry-days
+1981,Historical Emissions,278.291,239.526,259.773,Fort Peck,dry-days
+1982,Historical Emissions,273.781,253.746,266.634,Fort Peck,dry-days
+1983,Historical Emissions,274.755,248.527,260.863,Fort Peck,dry-days
+1984,Historical Emissions,293.072,246.945,264.225,Fort Peck,dry-days
+1985,Historical Emissions,272.4,239.018,264.819,Fort Peck,dry-days
+1986,Historical Emissions,267.102,236.972,259.181,Fort Peck,dry-days
+1987,Historical Emissions,264.472,242.728,247.818,Fort Peck,dry-days
+1988,Historical Emissions,277.154,235.528,257.228,Fort Peck,dry-days
+1989,Historical Emissions,275.756,248.646,268.774,Fort Peck,dry-days
+1990,Historical Emissions,293.408,243.774,257.819,Fort Peck,dry-days
+1991,Historical Emissions,285.791,235.9,271.09,Fort Peck,dry-days
+1992,Historical Emissions,296.418,254.737,267.637,Fort Peck,dry-days
+1993,Historical Emissions,277.698,245.499,262.182,Fort Peck,dry-days
+1994,Historical Emissions,275.164,255.781,265.682,Fort Peck,dry-days
+1995,Historical Emissions,280.945,254.982,260.273,Fort Peck,dry-days
+1996,Historical Emissions,297.154,243.481,272.137,Fort Peck,dry-days
+1997,Historical Emissions,281.9,245.228,258.817,Fort Peck,dry-days
+1998,Historical Emissions,279.018,242.619,256.407,Fort Peck,dry-days
+1999,Historical Emissions,281.545,248.446,263.226,Fort Peck,dry-days
+2000,Historical Emissions,288.418,251.554,267.18,Fort Peck,dry-days
+2001,Historical Emissions,274.846,253.646,267.954,Fort Peck,dry-days
+2002,Historical Emissions,272.946,257.364,266.727,Fort Peck,dry-days
+2003,Historical Emissions,285.426,249.764,263.317,Fort Peck,dry-days
+2004,Historical Emissions,287.264,247.518,266.592,Fort Peck,dry-days
+2005,Historical Emissions,284.764,246.41,260.365,Fort Peck,dry-days
+2006,Historical Emissions,281.2,245.628,254.228,Fort Peck,dry-days
+2007,Historical Emissions,267.482,255.254,259.953,Fort Peck,dry-days
+2008,Historical Emissions,273.437,247.416,262.001,Fort Peck,dry-days
+2009,Historical Emissions,268.946,234.89,255.273,Fort Peck,dry-days
+2010,Historical Emissions,273.054,253.454,268.045,Fort Peck,dry-days
+2011,Historical Emissions,267.319,253.355,258.908,Fort Peck,dry-days
+2012,Historical Emissions,282.311,252.654,274.363,Fort Peck,dry-days
+2013,Historical Emissions,275.027,250.446,273.772,Fort Peck,dry-days
+2014,Historical Emissions,275.981,253.954,261.821,Fort Peck,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",281.409,254.226,264.682,Fort Peck,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",288.226,251.045,256.864,Fort Peck,dry-days
+2015,"High Emissions
+(SSP3-7.0)",281.345,249.756,265.228,Fort Peck,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",274.345,249.772,266.818,Fort Peck,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",289.482,238.308,259.638,Fort Peck,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",271.237,249.901,256.408,Fort Peck,dry-days
+2016,"High Emissions
+(SSP3-7.0)",292.182,250.183,262.136,Fort Peck,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",268.646,242.772,256.137,Fort Peck,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",275.392,251.855,263.409,Fort Peck,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",276.491,234.9,262.409,Fort Peck,dry-days
+2017,"High Emissions
+(SSP3-7.0)",270.956,240.582,257.41,Fort Peck,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",270.371,254.737,266.955,Fort Peck,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",273.492,233.574,260.092,Fort Peck,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",278.991,259.337,262.68,Fort Peck,dry-days
+2018,"High Emissions
+(SSP3-7.0)",270.407,245.091,254.865,Fort Peck,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",278.692,238.664,256.591,Fort Peck,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",286.455,261.898,267.725,Fort Peck,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",272.881,243.791,264.32,Fort Peck,dry-days
+2019,"High Emissions
+(SSP3-7.0)",270.591,243.8,264.181,Fort Peck,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",276.409,240.874,271.726,Fort Peck,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",278.581,232.537,271.136,Fort Peck,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",279.8,246.71,266.818,Fort Peck,dry-days
+2020,"High Emissions
+(SSP3-7.0)",273.1,243.7,263.546,Fort Peck,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",284.346,243.272,265.591,Fort Peck,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",274.818,246.573,265.226,Fort Peck,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",290.035,245.808,264.182,Fort Peck,dry-days
+2021,"High Emissions
+(SSP3-7.0)",291.218,244.982,267.044,Fort Peck,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",280.409,234.491,265.361,Fort Peck,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",276.864,239.428,257.454,Fort Peck,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",276.072,237.9,256.09,Fort Peck,dry-days
+2022,"High Emissions
+(SSP3-7.0)",275.9,247.791,260.591,Fort Peck,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",291.309,236.117,258.911,Fort Peck,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",264.455,247.263,251.319,Fort Peck,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",279.053,243.854,257.591,Fort Peck,dry-days
+2023,"High Emissions
+(SSP3-7.0)",285.682,244.637,270.818,Fort Peck,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",269.301,239.364,258.091,Fort Peck,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",275.245,241.363,258.272,Fort Peck,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",283.528,247.418,258.091,Fort Peck,dry-days
+2024,"High Emissions
+(SSP3-7.0)",284.219,251.574,271.683,Fort Peck,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",265.11,226.554,254.093,Fort Peck,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",272.808,254.873,269.226,Fort Peck,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",272.108,241.001,260.499,Fort Peck,dry-days
+2025,"High Emissions
+(SSP3-7.0)",289.965,246.536,269.591,Fort Peck,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",272.371,249.592,255.819,Fort Peck,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",268.881,251.465,260.364,Fort Peck,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",283.347,238.683,263.046,Fort Peck,dry-days
+2026,"High Emissions
+(SSP3-7.0)",272.354,233.373,255.455,Fort Peck,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",269.8,241.991,257.319,Fort Peck,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",274.438,224.998,250.226,Fort Peck,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",274.982,239.371,255.819,Fort Peck,dry-days
+2027,"High Emissions
+(SSP3-7.0)",263.808,236.299,259.502,Fort Peck,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",276.137,246.89,259.136,Fort Peck,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",273.846,247.254,259.591,Fort Peck,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",265.818,238.946,258.773,Fort Peck,dry-days
+2028,"High Emissions
+(SSP3-7.0)",277.644,247.28,263.864,Fort Peck,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",277.609,238.137,254.227,Fort Peck,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",275.644,247.308,261,Fort Peck,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",275,243.545,261.728,Fort Peck,dry-days
+2029,"High Emissions
+(SSP3-7.0)",282.064,242.273,265,Fort Peck,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",274.828,247.418,262.683,Fort Peck,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",276.21,237.399,255.091,Fort Peck,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",289.02,250.756,260.135,Fort Peck,dry-days
+2030,"High Emissions
+(SSP3-7.0)",277.42,242.063,263.955,Fort Peck,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",287.665,241.528,260.543,Fort Peck,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",295.354,250.218,259.409,Fort Peck,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",276.637,244.736,261.227,Fort Peck,dry-days
+2031,"High Emissions
+(SSP3-7.0)",294.836,252.827,267.182,Fort Peck,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",271.972,226.727,261.454,Fort Peck,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",275.781,246.427,261.319,Fort Peck,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",280.336,240.89,265,Fort Peck,dry-days
+2032,"High Emissions
+(SSP3-7.0)",283.6,250.008,267.136,Fort Peck,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",281.965,245.445,262.454,Fort Peck,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",270.202,238.236,257.908,Fort Peck,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",292.109,245.598,254.955,Fort Peck,dry-days
+2033,"High Emissions
+(SSP3-7.0)",280.982,234.337,266.41,Fort Peck,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",270.673,247.682,256.682,Fort Peck,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",276.736,247.363,269.591,Fort Peck,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",279.872,251.117,268.546,Fort Peck,dry-days
+2034,"High Emissions
+(SSP3-7.0)",278.364,248.609,267.637,Fort Peck,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",266.783,230.982,247.09,Fort Peck,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",294.974,232.337,252.408,Fort Peck,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",277.045,237.417,258.5,Fort Peck,dry-days
+2035,"High Emissions
+(SSP3-7.0)",267.301,238.627,244.591,Fort Peck,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",264.637,250.311,259.545,Fort Peck,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",285.389,235.565,267.59,Fort Peck,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",268.272,249.873,260.864,Fort Peck,dry-days
+2036,"High Emissions
+(SSP3-7.0)",286.945,235.255,257.228,Fort Peck,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",273.254,234.844,259.547,Fort Peck,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",277.344,237.79,255.226,Fort Peck,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",266.664,245.027,258.046,Fort Peck,dry-days
+2037,"High Emissions
+(SSP3-7.0)",263.672,241.899,254.318,Fort Peck,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",276.627,235.837,263.454,Fort Peck,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",280.019,236.282,255.408,Fort Peck,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",279.527,244.864,256.59,Fort Peck,dry-days
+2038,"High Emissions
+(SSP3-7.0)",275.574,242.262,262.183,Fort Peck,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",282.454,247.391,259.863,Fort Peck,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",275.381,232.827,252.954,Fort Peck,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",267.946,236.692,256.457,Fort Peck,dry-days
+2039,"High Emissions
+(SSP3-7.0)",292.563,243.027,262.227,Fort Peck,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",274.918,242.49,265.863,Fort Peck,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",275.428,232.418,255,Fort Peck,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",286.239,243.983,265.682,Fort Peck,dry-days
+2040,"High Emissions
+(SSP3-7.0)",285.283,243.455,258.136,Fort Peck,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",292.328,238.681,263.365,Fort Peck,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",270.865,243.356,255.728,Fort Peck,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",276.428,245.545,261.317,Fort Peck,dry-days
+2041,"High Emissions
+(SSP3-7.0)",276.919,241.591,261.409,Fort Peck,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",268.263,244.129,255.774,Fort Peck,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",273.464,244.5,254.047,Fort Peck,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",280.345,250.355,260.228,Fort Peck,dry-days
+2042,"High Emissions
+(SSP3-7.0)",268.547,244.991,255.593,Fort Peck,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",279.31,233.209,262.319,Fort Peck,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",282.801,240.408,255.865,Fort Peck,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",279.255,244.544,257.41,Fort Peck,dry-days
+2043,"High Emissions
+(SSP3-7.0)",269.082,243.972,251.728,Fort Peck,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",271.482,245.037,257.047,Fort Peck,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",269.983,241.882,265.501,Fort Peck,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",280.2,254.418,267.09,Fort Peck,dry-days
+2044,"High Emissions
+(SSP3-7.0)",283.8,234.127,258.135,Fort Peck,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",276.645,237.019,259.908,Fort Peck,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",278.209,242.401,257.045,Fort Peck,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",272.764,239.7,264.046,Fort Peck,dry-days
+2045,"High Emissions
+(SSP3-7.0)",281.5,246.029,262.045,Fort Peck,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",269.909,241.054,266.591,Fort Peck,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",275.837,245.418,260.91,Fort Peck,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",266.063,230.491,246.183,Fort Peck,dry-days
+2046,"High Emissions
+(SSP3-7.0)",272.745,250.419,260.227,Fort Peck,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",273.264,244.919,262.635,Fort Peck,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",274.835,246.09,262.317,Fort Peck,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",275.355,239.974,263.044,Fort Peck,dry-days
+2047,"High Emissions
+(SSP3-7.0)",280.664,245.328,253.09,Fort Peck,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",279.765,248.491,259.955,Fort Peck,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",281.609,231.663,262.909,Fort Peck,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",282.537,248.417,270.136,Fort Peck,dry-days
+2048,"High Emissions
+(SSP3-7.0)",279.11,247.709,261.184,Fort Peck,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",283.572,242.309,269.862,Fort Peck,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",270.228,244.318,256.045,Fort Peck,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",271.582,246.374,267.363,Fort Peck,dry-days
+2049,"High Emissions
+(SSP3-7.0)",276.2,248.147,261.681,Fort Peck,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",284.999,241.454,262.498,Fort Peck,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",276.983,239.536,252.453,Fort Peck,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",286.728,245.745,259.182,Fort Peck,dry-days
+2050,"High Emissions
+(SSP3-7.0)",268.229,256.517,260.547,Fort Peck,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",276.918,252.454,264.728,Fort Peck,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",278.064,238.445,270.407,Fort Peck,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",277.672,243.717,255,Fort Peck,dry-days
+2051,"High Emissions
+(SSP3-7.0)",287.837,246.889,268.499,Fort Peck,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",272.373,240.455,265.772,Fort Peck,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",283.782,248.983,259.683,Fort Peck,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",271.463,241.155,256.408,Fort Peck,dry-days
+2052,"High Emissions
+(SSP3-7.0)",271.6,236.937,261.5,Fort Peck,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",286.591,244.544,258.183,Fort Peck,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",273.455,231.209,263.319,Fort Peck,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",275.99,251.426,260.816,Fort Peck,dry-days
+2053,"High Emissions
+(SSP3-7.0)",283.436,250.043,259.501,Fort Peck,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",266.619,243.145,256.409,Fort Peck,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",280.238,249.481,270.319,Fort Peck,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",271.601,248.864,260.363,Fort Peck,dry-days
+2054,"High Emissions
+(SSP3-7.0)",277.3,241.454,263.182,Fort Peck,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",291.127,241.32,272.318,Fort Peck,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",281.899,241.271,272.272,Fort Peck,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",277.737,245.064,268.91,Fort Peck,dry-days
+2055,"High Emissions
+(SSP3-7.0)",282.001,243.272,262.181,Fort Peck,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",277.8,239.238,261.546,Fort Peck,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",260.873,247.582,256.863,Fort Peck,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",272.772,248.136,254.181,Fort Peck,dry-days
+2056,"High Emissions
+(SSP3-7.0)",285.074,242.683,258.909,Fort Peck,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",275.599,243.792,256.728,Fort Peck,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",276.946,244.637,256.683,Fort Peck,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",272.791,252.438,265.545,Fort Peck,dry-days
+2057,"High Emissions
+(SSP3-7.0)",279.382,242.727,254.909,Fort Peck,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",254.791,237.527,247.864,Fort Peck,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",274.991,246.727,266.864,Fort Peck,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",274.446,247.919,260.137,Fort Peck,dry-days
+2058,"High Emissions
+(SSP3-7.0)",277.9,243.899,255.09,Fort Peck,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",265.573,234.964,259.771,Fort Peck,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",276.754,253.209,266.953,Fort Peck,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",279.654,245.846,262.5,Fort Peck,dry-days
+2059,"High Emissions
+(SSP3-7.0)",285.219,241.326,260.363,Fort Peck,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",287.001,243.936,263.727,Fort Peck,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",277.027,243.909,267.41,Fort Peck,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",275.746,244.39,261.818,Fort Peck,dry-days
+2060,"High Emissions
+(SSP3-7.0)",270.618,238.662,251.318,Fort Peck,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",273.764,244.091,256.408,Fort Peck,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",283.362,236.765,268.091,Fort Peck,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",277.562,250.136,259.638,Fort Peck,dry-days
+2061,"High Emissions
+(SSP3-7.0)",279.381,246.418,264.273,Fort Peck,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",280.009,248.274,268.182,Fort Peck,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",276.644,236.42,257.773,Fort Peck,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",273,239.345,262.364,Fort Peck,dry-days
+2062,"High Emissions
+(SSP3-7.0)",275.627,242.164,261.272,Fort Peck,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",271.592,244.71,258.047,Fort Peck,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",278.363,250.417,267.273,Fort Peck,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",269.382,239.29,259.726,Fort Peck,dry-days
+2063,"High Emissions
+(SSP3-7.0)",282,243.264,264.545,Fort Peck,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",277.51,252.137,264.864,Fort Peck,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",273.292,244.946,260.501,Fort Peck,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",269.447,233.382,257.045,Fort Peck,dry-days
+2064,"High Emissions
+(SSP3-7.0)",269.582,237.091,260.954,Fort Peck,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",279.336,248.136,265.227,Fort Peck,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",274.847,237.29,252.318,Fort Peck,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",281.681,241.545,264.636,Fort Peck,dry-days
+2065,"High Emissions
+(SSP3-7.0)",277.201,247.382,261.363,Fort Peck,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",276.718,248.082,266.365,Fort Peck,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",281.328,250.528,266.635,Fort Peck,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",273.191,237.918,263.774,Fort Peck,dry-days
+2066,"High Emissions
+(SSP3-7.0)",279.454,241.819,267.681,Fort Peck,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",286.064,223.754,268.365,Fort Peck,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",288.908,240.944,269.135,Fort Peck,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",283.246,239.762,261.773,Fort Peck,dry-days
+2067,"High Emissions
+(SSP3-7.0)",295.755,245.565,258.863,Fort Peck,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",287.191,249.1,262.226,Fort Peck,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",269.754,242.419,259.045,Fort Peck,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",268.891,232.2,252.908,Fort Peck,dry-days
+2068,"High Emissions
+(SSP3-7.0)",265.299,239.783,254.364,Fort Peck,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",277.446,239.727,260.272,Fort Peck,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",274.564,233.235,251.183,Fort Peck,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",275.363,248.528,258.274,Fort Peck,dry-days
+2069,"High Emissions
+(SSP3-7.0)",287.273,252.717,270.408,Fort Peck,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",278.293,244.628,258.09,Fort Peck,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",276.864,235.345,254.001,Fort Peck,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",275.2,243.936,247.999,Fort Peck,dry-days
+2070,"High Emissions
+(SSP3-7.0)",276.863,248.328,260.093,Fort Peck,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",270.601,236.419,265.908,Fort Peck,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",300.664,236.373,260.637,Fort Peck,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",273.455,249.928,260.32,Fort Peck,dry-days
+2071,"High Emissions
+(SSP3-7.0)",277.664,249.973,270.044,Fort Peck,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",284.465,247.209,258.045,Fort Peck,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",278.355,245.982,261,Fort Peck,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",276.59,241.301,267.09,Fort Peck,dry-days
+2072,"High Emissions
+(SSP3-7.0)",271.889,250.436,260.591,Fort Peck,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",270.046,227.7,256.863,Fort Peck,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",275.481,254.737,265.774,Fort Peck,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",270.809,243.691,262.999,Fort Peck,dry-days
+2073,"High Emissions
+(SSP3-7.0)",275.9,242.372,264.047,Fort Peck,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",271.473,242.853,253.817,Fort Peck,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",282.646,243.327,256.908,Fort Peck,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",272.619,245.482,257.589,Fort Peck,dry-days
+2074,"High Emissions
+(SSP3-7.0)",270.627,247.219,258.318,Fort Peck,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",277.891,247.626,263.272,Fort Peck,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",281.654,238.9,254.683,Fort Peck,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",282.874,241.744,259.684,Fort Peck,dry-days
+2075,"High Emissions
+(SSP3-7.0)",274.128,239.863,253.726,Fort Peck,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",282.773,249.791,264.501,Fort Peck,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",270.745,250.346,257.952,Fort Peck,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",268.363,242.773,257.682,Fort Peck,dry-days
+2076,"High Emissions
+(SSP3-7.0)",270.628,246.71,262.863,Fort Peck,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",282.472,246.963,265.999,Fort Peck,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",279.3,248.3,260.271,Fort Peck,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",278.774,242.364,262,Fort Peck,dry-days
+2077,"High Emissions
+(SSP3-7.0)",275.836,245.236,262.091,Fort Peck,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",265.837,244.054,251.318,Fort Peck,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",281.908,246.691,263.865,Fort Peck,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",273.872,240.99,255.638,Fort Peck,dry-days
+2078,"High Emissions
+(SSP3-7.0)",274.119,251.264,263.001,Fort Peck,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",268.446,234.817,246.5,Fort Peck,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",274,244.064,265,Fort Peck,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",273.728,240.053,258.5,Fort Peck,dry-days
+2079,"High Emissions
+(SSP3-7.0)",268.146,234.018,254.817,Fort Peck,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",278.5,248.835,266.589,Fort Peck,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",278.772,238.891,259.771,Fort Peck,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",282.064,234.464,255.548,Fort Peck,dry-days
+2080,"High Emissions
+(SSP3-7.0)",268.817,236.471,260.182,Fort Peck,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",277.736,244.753,265.59,Fort Peck,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",277.481,252.719,261.592,Fort Peck,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",275.991,250.727,263.817,Fort Peck,dry-days
+2081,"High Emissions
+(SSP3-7.0)",268.791,237.144,260.409,Fort Peck,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",286.437,248.236,255.137,Fort Peck,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",285.308,250.364,273.955,Fort Peck,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",278.019,248.455,262.454,Fort Peck,dry-days
+2082,"High Emissions
+(SSP3-7.0)",280.4,249.2,266.773,Fort Peck,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",286.092,242.509,258.774,Fort Peck,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",288.728,248.536,263.908,Fort Peck,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",282.018,244.092,266.319,Fort Peck,dry-days
+2083,"High Emissions
+(SSP3-7.0)",280.673,242.909,262.091,Fort Peck,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",274.181,240.5,264.591,Fort Peck,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",275.437,231,247.456,Fort Peck,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",285.637,233.119,255.817,Fort Peck,dry-days
+2084,"High Emissions
+(SSP3-7.0)",284.555,246.436,266.318,Fort Peck,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",279.919,237.173,258.772,Fort Peck,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",270.6,246.627,259.046,Fort Peck,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",273.555,236.535,258.09,Fort Peck,dry-days
+2085,"High Emissions
+(SSP3-7.0)",280.382,244.826,264.956,Fort Peck,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",277.326,249.3,259.273,Fort Peck,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",277.855,228.309,270.09,Fort Peck,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",290.209,233.273,257.955,Fort Peck,dry-days
+2086,"High Emissions
+(SSP3-7.0)",290.683,242.39,262.319,Fort Peck,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",282.255,241.79,269.954,Fort Peck,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",269.228,242.882,259.274,Fort Peck,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",283.473,233.572,268.047,Fort Peck,dry-days
+2087,"High Emissions
+(SSP3-7.0)",277.909,250.918,255.089,Fort Peck,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",267.482,230.654,248.455,Fort Peck,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",274.973,237.991,258.045,Fort Peck,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",284.945,244.346,269.318,Fort Peck,dry-days
+2088,"High Emissions
+(SSP3-7.0)",267.136,244.446,256.592,Fort Peck,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",299.335,241.237,266.545,Fort Peck,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",268.8,239.646,252.863,Fort Peck,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",281.6,253.264,260.772,Fort Peck,dry-days
+2089,"High Emissions
+(SSP3-7.0)",274.173,252.51,264.182,Fort Peck,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",296.873,244.774,255.365,Fort Peck,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",276.364,246.918,254.591,Fort Peck,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",266.073,245.536,260.728,Fort Peck,dry-days
+2090,"High Emissions
+(SSP3-7.0)",288.982,252.509,264.41,Fort Peck,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",269.664,241.901,256.638,Fort Peck,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",273.69,240.5,256.272,Fort Peck,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",283.972,244.055,255.773,Fort Peck,dry-days
+2091,"High Emissions
+(SSP3-7.0)",282.229,256.763,266.999,Fort Peck,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",284.882,241.991,262.136,Fort Peck,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",280.109,240.945,265.502,Fort Peck,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",284.702,244.21,254.045,Fort Peck,dry-days
+2092,"High Emissions
+(SSP3-7.0)",278.065,245.419,254.499,Fort Peck,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",280.355,244.854,271.819,Fort Peck,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",280.864,237.364,260.045,Fort Peck,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",274.755,246.027,257.592,Fort Peck,dry-days
+2093,"High Emissions
+(SSP3-7.0)",266.409,238.992,252.909,Fort Peck,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",287.338,237.173,275.319,Fort Peck,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",268.546,243.699,263.682,Fort Peck,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",267.836,250.263,257.727,Fort Peck,dry-days
+2094,"High Emissions
+(SSP3-7.0)",281.89,248.873,260.363,Fort Peck,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",277.619,253.028,263.592,Fort Peck,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",292.026,243.546,270.956,Fort Peck,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",276.682,240.936,269.908,Fort Peck,dry-days
+2095,"High Emissions
+(SSP3-7.0)",285,239,266.363,Fort Peck,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",284.209,247.727,271.499,Fort Peck,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",279.2,231.491,262.636,Fort Peck,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",267.71,247.356,255.274,Fort Peck,dry-days
+2096,"High Emissions
+(SSP3-7.0)",272.8,251.782,266.499,Fort Peck,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",275.482,251.965,260.727,Fort Peck,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",283.6,252.709,274.589,Fort Peck,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",271.809,248.955,258.091,Fort Peck,dry-days
+2097,"High Emissions
+(SSP3-7.0)",286.991,238.264,272.137,Fort Peck,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",276.299,245.882,259.954,Fort Peck,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",277.864,237.181,261.728,Fort Peck,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",276.844,250.028,262.637,Fort Peck,dry-days
+2098,"High Emissions
+(SSP3-7.0)",272.619,234.711,261.362,Fort Peck,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",296.883,243.736,264.184,Fort Peck,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",266.663,240.9,257.864,Fort Peck,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",283.409,238.61,261.728,Fort Peck,dry-days
+2099,"High Emissions
+(SSP3-7.0)",292.646,248.845,261.408,Fort Peck,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",293.046,244.973,265.684,Fort Peck,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",268.327,239.863,249.728,Fort Peck,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",283.938,239.237,264.047,Fort Peck,dry-days
+2100,"High Emissions
+(SSP3-7.0)",273.617,245.182,256.682,Fort Peck,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",278.545,246.936,266.455,Fort Peck,dry-days

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,31.819,29.996,30.606,Lewistown,tasmin
+1951,Historical Emissions,31.898,29.382,31.301,Lewistown,tasmin
+1952,Historical Emissions,32.111,28.848,30.466,Lewistown,tasmin
+1953,Historical Emissions,31.003,28.981,30.348,Lewistown,tasmin
+1954,Historical Emissions,33.198,28.369,29.853,Lewistown,tasmin
+1955,Historical Emissions,32.646,29.364,31.605,Lewistown,tasmin
+1956,Historical Emissions,31.933,30.401,31.13,Lewistown,tasmin
+1957,Historical Emissions,32.602,30.132,31.573,Lewistown,tasmin
+1958,Historical Emissions,32.017,29.869,30.855,Lewistown,tasmin
+1959,Historical Emissions,30.808,27.782,29.553,Lewistown,tasmin
+1960,Historical Emissions,32.218,27.621,29.643,Lewistown,tasmin
+1961,Historical Emissions,32.564,29.321,31.346,Lewistown,tasmin
+1962,Historical Emissions,31.169,28.129,29.943,Lewistown,tasmin
+1963,Historical Emissions,31.145,29.589,30.66,Lewistown,tasmin
+1964,Historical Emissions,32.206,29.182,30.887,Lewistown,tasmin
+1965,Historical Emissions,31.285,28.938,30.997,Lewistown,tasmin
+1966,Historical Emissions,33.32,30.011,30.98,Lewistown,tasmin
+1967,Historical Emissions,31.176,28.845,30.588,Lewistown,tasmin
+1968,Historical Emissions,31.775,27.213,30.598,Lewistown,tasmin
+1969,Historical Emissions,31.634,28.887,31.1,Lewistown,tasmin
+1970,Historical Emissions,32.459,30.687,31.519,Lewistown,tasmin
+1971,Historical Emissions,34.365,30.338,32.504,Lewistown,tasmin
+1972,Historical Emissions,31.958,29.124,30.247,Lewistown,tasmin
+1973,Historical Emissions,31.959,29.745,30.669,Lewistown,tasmin
+1974,Historical Emissions,32.623,28.992,31.181,Lewistown,tasmin
+1975,Historical Emissions,32.085,27.988,31.341,Lewistown,tasmin
+1976,Historical Emissions,31.977,28.452,30.819,Lewistown,tasmin
+1977,Historical Emissions,33.522,30.809,31.771,Lewistown,tasmin
+1978,Historical Emissions,33.786,28.934,30.756,Lewistown,tasmin
+1979,Historical Emissions,33.081,30.293,31.989,Lewistown,tasmin
+1980,Historical Emissions,31.432,29.81,30.959,Lewistown,tasmin
+1981,Historical Emissions,33.281,30.458,31.583,Lewistown,tasmin
+1982,Historical Emissions,32.513,29.558,31.665,Lewistown,tasmin
+1983,Historical Emissions,33.22,29.933,30.81,Lewistown,tasmin
+1984,Historical Emissions,32.097,30.336,31.49,Lewistown,tasmin
+1985,Historical Emissions,32.835,29.903,31.613,Lewistown,tasmin
+1986,Historical Emissions,32.119,29.12,30.878,Lewistown,tasmin
+1987,Historical Emissions,32.717,28.003,30.156,Lewistown,tasmin
+1988,Historical Emissions,32.306,29.813,30.329,Lewistown,tasmin
+1989,Historical Emissions,32.246,30.07,31.073,Lewistown,tasmin
+1990,Historical Emissions,33.748,30.66,32.357,Lewistown,tasmin
+1991,Historical Emissions,32.905,28.981,30.599,Lewistown,tasmin
+1992,Historical Emissions,32.904,29.42,30.167,Lewistown,tasmin
+1993,Historical Emissions,33.901,28.986,31.263,Lewistown,tasmin
+1994,Historical Emissions,33.378,30.509,31.728,Lewistown,tasmin
+1995,Historical Emissions,32.262,29.413,30.581,Lewistown,tasmin
+1996,Historical Emissions,33.679,29.465,32.237,Lewistown,tasmin
+1997,Historical Emissions,33.668,30.133,32.112,Lewistown,tasmin
+1998,Historical Emissions,33.773,28.788,32.014,Lewistown,tasmin
+1999,Historical Emissions,33.655,30.387,32.089,Lewistown,tasmin
+2000,Historical Emissions,32.872,30.421,31.47,Lewistown,tasmin
+2001,Historical Emissions,33.891,30.543,32.127,Lewistown,tasmin
+2002,Historical Emissions,34.733,30.726,32.444,Lewistown,tasmin
+2003,Historical Emissions,34.279,31.963,32.214,Lewistown,tasmin
+2004,Historical Emissions,34.299,31.774,33.156,Lewistown,tasmin
+2005,Historical Emissions,35.525,30.873,34.269,Lewistown,tasmin
+2006,Historical Emissions,33.412,29.949,31.358,Lewistown,tasmin
+2007,Historical Emissions,33.918,31.378,33.136,Lewistown,tasmin
+2008,Historical Emissions,34.74,31.27,32.788,Lewistown,tasmin
+2009,Historical Emissions,33.06,32.209,32.517,Lewistown,tasmin
+2010,Historical Emissions,33.637,31.368,32.94,Lewistown,tasmin
+2011,Historical Emissions,35.188,32.258,32.872,Lewistown,tasmin
+2012,Historical Emissions,33.805,30.388,32.993,Lewistown,tasmin
+2013,Historical Emissions,34.831,30.011,32.418,Lewistown,tasmin
+2014,Historical Emissions,34.632,31.891,33.468,Lewistown,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",35.294,32.059,33.427,Lewistown,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",34.956,31.21,32.578,Lewistown,tasmin
+2015,"High Emissions
+(SSP3-7.0)",34.958,30.765,33.445,Lewistown,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",33.546,31.683,33.216,Lewistown,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",35.788,32,34.169,Lewistown,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",34.472,31.501,32.967,Lewistown,tasmin
+2016,"High Emissions
+(SSP3-7.0)",36.471,31.24,32.731,Lewistown,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",33.936,31.694,33.296,Lewistown,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",35.064,31.64,32.613,Lewistown,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",36.007,31.977,32.656,Lewistown,tasmin
+2017,"High Emissions
+(SSP3-7.0)",36.009,32.895,33.279,Lewistown,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",35.477,31.747,33.304,Lewistown,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",34.191,32.423,33.107,Lewistown,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",35.198,32.351,33.22,Lewistown,tasmin
+2018,"High Emissions
+(SSP3-7.0)",35.865,31.949,33.268,Lewistown,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",36.009,31.912,33.351,Lewistown,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",36.008,32.484,34.703,Lewistown,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",35.348,30.782,31.877,Lewistown,tasmin
+2019,"High Emissions
+(SSP3-7.0)",35.094,30.933,32.802,Lewistown,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",35.564,32.808,33.773,Lewistown,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",35.919,31.882,34.593,Lewistown,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",35.016,31.733,33.114,Lewistown,tasmin
+2020,"High Emissions
+(SSP3-7.0)",34.916,31.807,33.677,Lewistown,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",34.894,32.304,33.713,Lewistown,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",35.892,31.779,34.477,Lewistown,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",35.047,32.966,33.602,Lewistown,tasmin
+2021,"High Emissions
+(SSP3-7.0)",34.555,32.794,33.965,Lewistown,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",35.773,31.248,34.442,Lewistown,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",35.426,32.558,33.248,Lewistown,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",35.626,32.423,33.884,Lewistown,tasmin
+2022,"High Emissions
+(SSP3-7.0)",35.248,32.927,33.85,Lewistown,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",36.193,31.935,34.453,Lewistown,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",34.777,33.303,34.039,Lewistown,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",35.586,32.745,34.096,Lewistown,tasmin
+2023,"High Emissions
+(SSP3-7.0)",36.24,32.75,34.514,Lewistown,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",34.276,31.274,32.369,Lewistown,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",35.891,31.943,33.905,Lewistown,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",34.585,32.671,32.882,Lewistown,tasmin
+2024,"High Emissions
+(SSP3-7.0)",37.249,31.836,33.085,Lewistown,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",37.341,32.766,34.187,Lewistown,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",35.613,32.954,35.019,Lewistown,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",35.866,32.226,33.607,Lewistown,tasmin
+2025,"High Emissions
+(SSP3-7.0)",36.422,32.936,34.145,Lewistown,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",37.148,33.185,34.862,Lewistown,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",35.736,32.512,33.446,Lewistown,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",35.315,31.921,34.105,Lewistown,tasmin
+2026,"High Emissions
+(SSP3-7.0)",36.518,31.025,34.029,Lewistown,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",35.865,32.843,34.869,Lewistown,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",36.519,32.47,33.785,Lewistown,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",36.303,33.38,34.27,Lewistown,tasmin
+2027,"High Emissions
+(SSP3-7.0)",36.131,33.29,34.138,Lewistown,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",35.306,33.371,34.211,Lewistown,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",36.584,32.976,34.083,Lewistown,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",36.741,31.214,34.318,Lewistown,tasmin
+2028,"High Emissions
+(SSP3-7.0)",35.533,33.662,33.872,Lewistown,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",36.612,33.303,34.568,Lewistown,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",37.401,33.561,35.459,Lewistown,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",37.135,32.373,34.898,Lewistown,tasmin
+2029,"High Emissions
+(SSP3-7.0)",36.196,31.378,34.471,Lewistown,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",35.935,33.046,34.854,Lewistown,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",37.187,32.797,34.375,Lewistown,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",36.302,33.289,34.286,Lewistown,tasmin
+2030,"High Emissions
+(SSP3-7.0)",35.459,31.663,34.958,Lewistown,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",37.812,32.881,34.754,Lewistown,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",35.409,32.484,34.782,Lewistown,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",37.239,32.922,35.399,Lewistown,tasmin
+2031,"High Emissions
+(SSP3-7.0)",37.122,33.057,34.842,Lewistown,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",37.396,34.894,35.578,Lewistown,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",36.06,32.596,34.021,Lewistown,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",35.057,32.515,33.895,Lewistown,tasmin
+2032,"High Emissions
+(SSP3-7.0)",36.518,32.844,33.859,Lewistown,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",37.12,32.888,34.445,Lewistown,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",36.162,33.223,34.614,Lewistown,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",36.301,32.891,35.18,Lewistown,tasmin
+2033,"High Emissions
+(SSP3-7.0)",36.525,33.037,34.514,Lewistown,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",35.982,32.861,35.15,Lewistown,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",35.937,32.362,33.729,Lewistown,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",37.053,34.027,34.352,Lewistown,tasmin
+2034,"High Emissions
+(SSP3-7.0)",36.294,33.811,35.158,Lewistown,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",36.96,31.518,34.985,Lewistown,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",36.485,32.134,34.342,Lewistown,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",36.729,32.489,34.882,Lewistown,tasmin
+2035,"High Emissions
+(SSP3-7.0)",36.26,32.614,33.953,Lewistown,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",37.345,32.564,35.156,Lewistown,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",36.442,34.601,35.526,Lewistown,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",35.854,33.393,34.329,Lewistown,tasmin
+2036,"High Emissions
+(SSP3-7.0)",36.746,32.941,34.901,Lewistown,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",37.473,33.993,36.152,Lewistown,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",37.104,34.069,35.757,Lewistown,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",36.815,32.08,35.234,Lewistown,tasmin
+2037,"High Emissions
+(SSP3-7.0)",36.392,32.466,34.61,Lewistown,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",36.936,34.163,35.267,Lewistown,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",37.618,34.161,35.806,Lewistown,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",35.616,33.233,35.096,Lewistown,tasmin
+2038,"High Emissions
+(SSP3-7.0)",37.08,33.462,35.265,Lewistown,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",38.315,33.704,36.776,Lewistown,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",37.298,34.028,35.055,Lewistown,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",36.167,34.071,34.665,Lewistown,tasmin
+2039,"High Emissions
+(SSP3-7.0)",37.481,34.831,35.361,Lewistown,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",38.827,32.702,36.524,Lewistown,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",36.782,33.547,34.617,Lewistown,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",35.745,33.589,35.119,Lewistown,tasmin
+2040,"High Emissions
+(SSP3-7.0)",37.447,33.561,35.782,Lewistown,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",39.348,34.925,36.216,Lewistown,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",36.758,32.231,34.687,Lewistown,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",35.762,34.176,35.113,Lewistown,tasmin
+2041,"High Emissions
+(SSP3-7.0)",36.59,33.662,34.174,Lewistown,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",36.482,34.673,36.071,Lewistown,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",37.467,34.504,34.989,Lewistown,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",36.009,32.068,33.569,Lewistown,tasmin
+2042,"High Emissions
+(SSP3-7.0)",36.61,33.772,35.725,Lewistown,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",37.888,34.684,35.864,Lewistown,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",36.406,33.712,35.525,Lewistown,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",37.031,33.255,34.967,Lewistown,tasmin
+2043,"High Emissions
+(SSP3-7.0)",36.434,33.656,35.009,Lewistown,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",36.683,35.019,36.049,Lewistown,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",37.665,33.659,34.758,Lewistown,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",38.174,33.91,36.052,Lewistown,tasmin
+2044,"High Emissions
+(SSP3-7.0)",37.411,33.98,35.357,Lewistown,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",39.088,34.318,35.979,Lewistown,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",37.72,34.209,35.597,Lewistown,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",38.744,33.132,36.225,Lewistown,tasmin
+2045,"High Emissions
+(SSP3-7.0)",37.454,33.486,34.811,Lewistown,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",36.531,34.238,35.669,Lewistown,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",37.919,31.581,35.956,Lewistown,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",37.232,33.789,35.321,Lewistown,tasmin
+2046,"High Emissions
+(SSP3-7.0)",38.014,35.319,36.323,Lewistown,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",38.172,33.315,35.199,Lewistown,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",36.676,34.043,35,Lewistown,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",37.079,31.13,35.686,Lewistown,tasmin
+2047,"High Emissions
+(SSP3-7.0)",36.61,33.426,35.396,Lewistown,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",38.755,33.961,36.384,Lewistown,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",36.134,33.712,35.007,Lewistown,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",38.17,33.265,36.089,Lewistown,tasmin
+2048,"High Emissions
+(SSP3-7.0)",37.846,33.883,36.775,Lewistown,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",38.721,35.318,37.043,Lewistown,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",36.95,32.898,34.014,Lewistown,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",37.69,34.772,36.109,Lewistown,tasmin
+2049,"High Emissions
+(SSP3-7.0)",38.712,34.878,36.647,Lewistown,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",37.352,34.92,36.742,Lewistown,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",36.254,32.649,35.786,Lewistown,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",38.476,34.185,36.047,Lewistown,tasmin
+2050,"High Emissions
+(SSP3-7.0)",38.749,35.335,36.074,Lewistown,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",38.152,35.402,36.803,Lewistown,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",37.926,34.271,36.285,Lewistown,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",37.922,34.429,36.337,Lewistown,tasmin
+2051,"High Emissions
+(SSP3-7.0)",37.979,35.421,36.574,Lewistown,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",37.699,35.146,36.095,Lewistown,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",36.657,34.58,35.342,Lewistown,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",38.086,34.238,35.172,Lewistown,tasmin
+2052,"High Emissions
+(SSP3-7.0)",39.173,34.287,36.177,Lewistown,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",37.467,35.448,36.949,Lewistown,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",37.203,33.399,34.681,Lewistown,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",36.975,34.068,35.465,Lewistown,tasmin
+2053,"High Emissions
+(SSP3-7.0)",39.405,35.375,37.641,Lewistown,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",39.428,35.328,36.52,Lewistown,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",37.183,34.422,35.672,Lewistown,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",36.883,34.019,35.033,Lewistown,tasmin
+2054,"High Emissions
+(SSP3-7.0)",37.892,34.92,35.957,Lewistown,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",39.462,36.216,36.918,Lewistown,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",37.638,34.485,35.493,Lewistown,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",36.851,33.801,35.106,Lewistown,tasmin
+2055,"High Emissions
+(SSP3-7.0)",37.743,35.155,36.408,Lewistown,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",39.692,36.537,37.545,Lewistown,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",38.077,34.279,36.005,Lewistown,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",38.856,34.074,34.954,Lewistown,tasmin
+2056,"High Emissions
+(SSP3-7.0)",39.095,34.534,36.42,Lewistown,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",39.731,35.778,38.116,Lewistown,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",37.505,33.152,34.891,Lewistown,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",38.796,34.815,36.274,Lewistown,tasmin
+2057,"High Emissions
+(SSP3-7.0)",38.798,35.246,36.177,Lewistown,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",38.957,34.433,37.989,Lewistown,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",37.159,33.01,35.046,Lewistown,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",39.698,34.541,36.06,Lewistown,tasmin
+2058,"High Emissions
+(SSP3-7.0)",37.716,35.362,37.317,Lewistown,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",38.729,34.775,37.08,Lewistown,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",37.332,33.292,35.032,Lewistown,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",39.899,35.109,36.731,Lewistown,tasmin
+2059,"High Emissions
+(SSP3-7.0)",39.858,35.159,37.472,Lewistown,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",39.813,36.568,38.689,Lewistown,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",38.277,32.688,35.086,Lewistown,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",38.153,34.167,36.074,Lewistown,tasmin
+2060,"High Emissions
+(SSP3-7.0)",38.779,35.837,37.583,Lewistown,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",39.815,35.782,38.046,Lewistown,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",36.843,33.726,34.703,Lewistown,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",38.601,34.079,36.254,Lewistown,tasmin
+2061,"High Emissions
+(SSP3-7.0)",39.081,35.651,36.817,Lewistown,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",40.791,36.391,37.991,Lewistown,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",36.212,35.024,35.277,Lewistown,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",39.277,33.771,35.622,Lewistown,tasmin
+2062,"High Emissions
+(SSP3-7.0)",38.351,34.756,37.681,Lewistown,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",40.381,36.595,37.85,Lewistown,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",36.382,33.116,35.644,Lewistown,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",37.877,34.722,36.272,Lewistown,tasmin
+2063,"High Emissions
+(SSP3-7.0)",39.167,35.765,36.635,Lewistown,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",39.686,35.941,38.471,Lewistown,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",37.856,34.821,36.473,Lewistown,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",36.743,34.151,35.895,Lewistown,tasmin
+2064,"High Emissions
+(SSP3-7.0)",37.577,36.416,37.042,Lewistown,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",39.5,36.513,37.746,Lewistown,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",37.361,33.17,35.284,Lewistown,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",38.515,34.41,36.434,Lewistown,tasmin
+2065,"High Emissions
+(SSP3-7.0)",39.384,36.105,37.095,Lewistown,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",42.121,35.675,39.654,Lewistown,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",38.195,33.073,36.171,Lewistown,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",39.149,36.098,37.711,Lewistown,tasmin
+2066,"High Emissions
+(SSP3-7.0)",39.5,34.577,37.184,Lewistown,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",40.177,36.723,38.146,Lewistown,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",38.176,35.469,36.423,Lewistown,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",38.673,34.963,35.769,Lewistown,tasmin
+2067,"High Emissions
+(SSP3-7.0)",39.656,36.525,38.033,Lewistown,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",41.702,36.373,37.499,Lewistown,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",37.856,34.28,35.518,Lewistown,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",37.281,35.244,36.467,Lewistown,tasmin
+2068,"High Emissions
+(SSP3-7.0)",39.826,35.631,36.685,Lewistown,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",41.601,37.756,38.208,Lewistown,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",37.736,34.338,36.386,Lewistown,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",37.459,34.339,36.518,Lewistown,tasmin
+2069,"High Emissions
+(SSP3-7.0)",40.29,36.612,38.328,Lewistown,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",42.294,37.566,39.125,Lewistown,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",37.02,34.073,35.067,Lewistown,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",38.797,34.075,36.511,Lewistown,tasmin
+2070,"High Emissions
+(SSP3-7.0)",40.129,36.937,38.257,Lewistown,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",42.7,37.602,39.039,Lewistown,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",38.732,32.808,35.408,Lewistown,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",39.036,35.323,36.756,Lewistown,tasmin
+2071,"High Emissions
+(SSP3-7.0)",40.172,37.114,39.135,Lewistown,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",41.435,36.685,38.759,Lewistown,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",38.139,33.945,36.162,Lewistown,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",39.613,34.833,35.925,Lewistown,tasmin
+2072,"High Emissions
+(SSP3-7.0)",39.771,36.927,38.195,Lewistown,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",40.657,37.601,38.728,Lewistown,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",37.166,33.306,34.512,Lewistown,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",39.562,35.008,36.837,Lewistown,tasmin
+2073,"High Emissions
+(SSP3-7.0)",40.836,36.256,38.259,Lewistown,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",41.634,36.917,39.87,Lewistown,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",39.369,32.903,36.148,Lewistown,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",38.385,35.418,36.95,Lewistown,tasmin
+2074,"High Emissions
+(SSP3-7.0)",39.675,35.842,37.82,Lewistown,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",41.529,37.419,39.079,Lewistown,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",37.521,33.057,35.11,Lewistown,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",39.845,34.537,35.697,Lewistown,tasmin
+2075,"High Emissions
+(SSP3-7.0)",40.089,36.507,37.192,Lewistown,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",41.725,36.852,40.286,Lewistown,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",37.327,32.267,34.611,Lewistown,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",38.072,35.585,36.763,Lewistown,tasmin
+2076,"High Emissions
+(SSP3-7.0)",40.16,37.391,38.531,Lewistown,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",42.32,37.444,38.302,Lewistown,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",37.814,33.835,35.589,Lewistown,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",39.901,35.711,36.72,Lewistown,tasmin
+2077,"High Emissions
+(SSP3-7.0)",42.087,36.824,38.648,Lewistown,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",42.49,37.89,39.627,Lewistown,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",37.435,34.788,36.001,Lewistown,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",38.423,36.011,36.754,Lewistown,tasmin
+2078,"High Emissions
+(SSP3-7.0)",40.573,37.237,38.714,Lewistown,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",40.733,38.004,39.141,Lewistown,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",36.905,33.782,35.854,Lewistown,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",39.424,36.007,36.726,Lewistown,tasmin
+2079,"High Emissions
+(SSP3-7.0)",40.962,37.149,39.225,Lewistown,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",42.164,38.14,40.134,Lewistown,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",36.266,33.513,35.04,Lewistown,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",38.885,35.099,36.388,Lewistown,tasmin
+2080,"High Emissions
+(SSP3-7.0)",40.659,37.548,38.527,Lewistown,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",43.091,38.827,40.817,Lewistown,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",38.471,32.995,34.604,Lewistown,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",39.266,36.11,36.757,Lewistown,tasmin
+2081,"High Emissions
+(SSP3-7.0)",42.427,37.154,38.199,Lewistown,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",44.171,39.622,41.048,Lewistown,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",38.099,33.937,36.434,Lewistown,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",40.019,36.297,37.774,Lewistown,tasmin
+2082,"High Emissions
+(SSP3-7.0)",42.094,37.157,37.73,Lewistown,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",43.513,38.851,41.123,Lewistown,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",37.403,33.512,35.494,Lewistown,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",40.06,34.424,36.993,Lewistown,tasmin
+2083,"High Emissions
+(SSP3-7.0)",41.433,35.991,39.395,Lewistown,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",43.717,39.29,41.088,Lewistown,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",38.439,33.405,35.134,Lewistown,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",39.999,35.553,38.049,Lewistown,tasmin
+2084,"High Emissions
+(SSP3-7.0)",42.896,37.761,39.726,Lewistown,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",43.327,39.12,41.127,Lewistown,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",36.804,32.692,34.992,Lewistown,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",38.629,34.681,37.654,Lewistown,tasmin
+2085,"High Emissions
+(SSP3-7.0)",40.949,37.406,38.623,Lewistown,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",43.878,39.858,41.091,Lewistown,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",38.622,35.459,36.3,Lewistown,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",38.896,36.599,37.988,Lewistown,tasmin
+2086,"High Emissions
+(SSP3-7.0)",42.956,37.359,40.347,Lewistown,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",44.385,39.538,41.737,Lewistown,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",36.086,33.624,35.067,Lewistown,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",40.354,35.649,38.637,Lewistown,tasmin
+2087,"High Emissions
+(SSP3-7.0)",42.467,38.302,40.102,Lewistown,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",43.91,39.637,40.758,Lewistown,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",37.649,33.247,35.377,Lewistown,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",39.389,36.148,37.015,Lewistown,tasmin
+2088,"High Emissions
+(SSP3-7.0)",43.323,37.961,40.334,Lewistown,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",43.548,40.4,40.841,Lewistown,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",36.707,33.945,35.552,Lewistown,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",39.881,35.983,36.815,Lewistown,tasmin
+2089,"High Emissions
+(SSP3-7.0)",42.062,37.993,39.668,Lewistown,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",44.524,40.512,42.918,Lewistown,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",38.395,34.286,35.292,Lewistown,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",39.205,35.757,38.153,Lewistown,tasmin
+2090,"High Emissions
+(SSP3-7.0)",41.724,37.717,39.324,Lewistown,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",45.448,41.009,42.081,Lewistown,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",38.215,34.298,35.588,Lewistown,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",39.142,35.434,38.004,Lewistown,tasmin
+2091,"High Emissions
+(SSP3-7.0)",43.773,37.692,39.609,Lewistown,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",44.969,39.204,41.341,Lewistown,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",38.524,33.311,36.812,Lewistown,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",40.236,36.551,37.45,Lewistown,tasmin
+2092,"High Emissions
+(SSP3-7.0)",42.58,37.504,39.736,Lewistown,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",44.723,40.284,41.423,Lewistown,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",36.927,33.475,35.712,Lewistown,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",40.384,34.922,37.378,Lewistown,tasmin
+2093,"High Emissions
+(SSP3-7.0)",42.906,38.108,40.296,Lewistown,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",45.816,40.246,41.992,Lewistown,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",38.186,31.886,35.189,Lewistown,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",39.952,35.273,37.109,Lewistown,tasmin
+2094,"High Emissions
+(SSP3-7.0)",43.658,38.184,40.926,Lewistown,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",46.364,40.844,43.138,Lewistown,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",36.778,34.413,36.063,Lewistown,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",41.064,36.116,38.888,Lewistown,tasmin
+2095,"High Emissions
+(SSP3-7.0)",44.051,37.729,40.342,Lewistown,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",44.917,39.761,40.74,Lewistown,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",36.891,32.976,35.851,Lewistown,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",39.963,37.044,38.133,Lewistown,tasmin
+2096,"High Emissions
+(SSP3-7.0)",42.934,38.768,41.101,Lewistown,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",44.735,39.415,43.211,Lewistown,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",37.634,32.92,34.916,Lewistown,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",40.029,37.226,37.783,Lewistown,tasmin
+2097,"High Emissions
+(SSP3-7.0)",43.441,38.221,40.917,Lewistown,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",48.317,39.402,43.68,Lewistown,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",36.749,32.694,35.093,Lewistown,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",39.073,35.758,37.048,Lewistown,tasmin
+2098,"High Emissions
+(SSP3-7.0)",44.658,39.123,40.3,Lewistown,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",45.214,40.593,42.964,Lewistown,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",39.063,33.528,35.961,Lewistown,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",40.259,35.906,36.927,Lewistown,tasmin
+2099,"High Emissions
+(SSP3-7.0)",45.155,37.933,40.379,Lewistown,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",46.59,40.01,43.931,Lewistown,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",37.745,33.222,34.694,Lewistown,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",40.85,36.108,38.402,Lewistown,tasmin
+2100,"High Emissions
+(SSP3-7.0)",43.6,38.602,40.357,Lewistown,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",46.432,39.686,42.558,Lewistown,tasmin

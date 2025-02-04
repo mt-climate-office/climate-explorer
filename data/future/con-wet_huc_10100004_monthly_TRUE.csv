@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1.188,0.038,0.808,Lower Yellowstone,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1.188,0.038,0.808,Lower Yellowstone,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.227,0.223,0.962,Lower Yellowstone,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.346,0.15,0.923,Lower Yellowstone,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.42,0.527,0.962,Lower Yellowstone,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.192,0.077,0.846,Lower Yellowstone,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.215,0.054,0.962,Lower Yellowstone,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.312,0.115,0.923,Lower Yellowstone,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.416,0,0.731,Lower Yellowstone,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.385,0.077,0.885,Lower Yellowstone,con-wet

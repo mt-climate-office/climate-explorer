@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,42.566,40.033,41.153,Fisher,tas
+1951,Historical Emissions,41.788,39.36,41.322,Fisher,tas
+1952,Historical Emissions,41.554,38.421,40.519,Fisher,tas
+1953,Historical Emissions,41.239,39.613,40.833,Fisher,tas
+1954,Historical Emissions,43.272,38.837,39.311,Fisher,tas
+1955,Historical Emissions,41.957,38.721,41.258,Fisher,tas
+1956,Historical Emissions,42.213,38.8,41.028,Fisher,tas
+1957,Historical Emissions,42.25,39.374,41.683,Fisher,tas
+1958,Historical Emissions,41.983,39.358,40.846,Fisher,tas
+1959,Historical Emissions,41.176,39,39.946,Fisher,tas
+1960,Historical Emissions,41.905,38.092,39.448,Fisher,tas
+1961,Historical Emissions,42.181,39.497,40.685,Fisher,tas
+1962,Historical Emissions,40.66,38.341,39.668,Fisher,tas
+1963,Historical Emissions,41.272,39.288,39.999,Fisher,tas
+1964,Historical Emissions,41.827,39.253,40.214,Fisher,tas
+1965,Historical Emissions,41.164,39.452,40.155,Fisher,tas
+1966,Historical Emissions,42.558,39.692,40.401,Fisher,tas
+1967,Historical Emissions,41.627,39.084,40.213,Fisher,tas
+1968,Historical Emissions,41.604,37.169,40.16,Fisher,tas
+1969,Historical Emissions,41.399,38.951,40.32,Fisher,tas
+1970,Historical Emissions,42.47,39.841,40.896,Fisher,tas
+1971,Historical Emissions,43.607,38.814,42.127,Fisher,tas
+1972,Historical Emissions,41.962,38.873,40.461,Fisher,tas
+1973,Historical Emissions,41.713,39.221,40.988,Fisher,tas
+1974,Historical Emissions,42.498,38.438,41.019,Fisher,tas
+1975,Historical Emissions,41.474,38.394,41.27,Fisher,tas
+1976,Historical Emissions,41.686,38.853,40.687,Fisher,tas
+1977,Historical Emissions,42.636,40.711,41.494,Fisher,tas
+1978,Historical Emissions,43.05,39.336,40.666,Fisher,tas
+1979,Historical Emissions,42.861,40.175,40.913,Fisher,tas
+1980,Historical Emissions,40.879,39.886,40.413,Fisher,tas
+1981,Historical Emissions,42.185,40.138,41.106,Fisher,tas
+1982,Historical Emissions,42.73,39.929,41.183,Fisher,tas
+1983,Historical Emissions,42.21,39.326,40.023,Fisher,tas
+1984,Historical Emissions,42.054,39.961,40.898,Fisher,tas
+1985,Historical Emissions,42.489,40.113,40.839,Fisher,tas
+1986,Historical Emissions,41.823,39.402,40.002,Fisher,tas
+1987,Historical Emissions,42.358,38.583,40.557,Fisher,tas
+1988,Historical Emissions,41.62,39.805,40.824,Fisher,tas
+1989,Historical Emissions,41.782,40.17,41.326,Fisher,tas
+1990,Historical Emissions,43.936,39.912,41.783,Fisher,tas
+1991,Historical Emissions,43.128,39.281,41.204,Fisher,tas
+1992,Historical Emissions,41.839,39.358,39.946,Fisher,tas
+1993,Historical Emissions,43.071,39.136,40.917,Fisher,tas
+1994,Historical Emissions,42.71,40.288,41.579,Fisher,tas
+1995,Historical Emissions,41.332,39.838,40.452,Fisher,tas
+1996,Historical Emissions,43.544,40.894,42.044,Fisher,tas
+1997,Historical Emissions,42.756,39.354,41.295,Fisher,tas
+1998,Historical Emissions,43.647,39.162,42.001,Fisher,tas
+1999,Historical Emissions,43.154,40.022,41.687,Fisher,tas
+2000,Historical Emissions,42.68,39.933,41.65,Fisher,tas
+2001,Historical Emissions,43.077,40.448,42.309,Fisher,tas
+2002,Historical Emissions,44.733,40.761,42.107,Fisher,tas
+2003,Historical Emissions,44.03,41.753,42.241,Fisher,tas
+2004,Historical Emissions,43.806,41.652,42.683,Fisher,tas
+2005,Historical Emissions,45.146,41.547,43.504,Fisher,tas
+2006,Historical Emissions,43.307,39.938,41.348,Fisher,tas
+2007,Historical Emissions,43.781,41.592,42.647,Fisher,tas
+2008,Historical Emissions,44.104,40.466,42.86,Fisher,tas
+2009,Historical Emissions,43.326,41.464,42.333,Fisher,tas
+2010,Historical Emissions,43.656,41.755,42.588,Fisher,tas
+2011,Historical Emissions,44.76,41.801,42.226,Fisher,tas
+2012,Historical Emissions,43.71,41.178,42.564,Fisher,tas
+2013,Historical Emissions,44.742,41.113,42.046,Fisher,tas
+2014,Historical Emissions,43.813,41.591,42.581,Fisher,tas
+2015,"Moderating Emissions
+(SSP1-2.6)",45.148,41.551,43.517,Fisher,tas
+2015,"Middle of the Road
+(SSP2-4.5)",44.199,40.464,42.519,Fisher,tas
+2015,"High Emissions
+(SSP3-7.0)",44.574,40.377,42.118,Fisher,tas
+2015,"Accelerating Emissions
+(SSP5-8.5)",43.776,41.853,42.932,Fisher,tas
+2016,"Moderating Emissions
+(SSP1-2.6)",44.717,41.587,43.976,Fisher,tas
+2016,"Middle of the Road
+(SSP2-4.5)",43.923,41.176,42.848,Fisher,tas
+2016,"High Emissions
+(SSP3-7.0)",46.278,40.938,43.466,Fisher,tas
+2016,"Accelerating Emissions
+(SSP5-8.5)",43.663,41.682,43.027,Fisher,tas
+2017,"Moderating Emissions
+(SSP1-2.6)",44.048,41.151,42.472,Fisher,tas
+2017,"Middle of the Road
+(SSP2-4.5)",45.262,42.028,42.752,Fisher,tas
+2017,"High Emissions
+(SSP3-7.0)",44.743,42.105,43.081,Fisher,tas
+2017,"Accelerating Emissions
+(SSP5-8.5)",44.642,41.806,43.939,Fisher,tas
+2018,"Moderating Emissions
+(SSP1-2.6)",43.752,41.94,42.731,Fisher,tas
+2018,"Middle of the Road
+(SSP2-4.5)",44.953,41.662,42.86,Fisher,tas
+2018,"High Emissions
+(SSP3-7.0)",45.27,41.655,43.031,Fisher,tas
+2018,"Accelerating Emissions
+(SSP5-8.5)",44.323,42.269,43.323,Fisher,tas
+2019,"Moderating Emissions
+(SSP1-2.6)",45.58,42.943,44.81,Fisher,tas
+2019,"Middle of the Road
+(SSP2-4.5)",44.413,40.166,42.56,Fisher,tas
+2019,"High Emissions
+(SSP3-7.0)",45.16,41.674,42.676,Fisher,tas
+2019,"Accelerating Emissions
+(SSP5-8.5)",44.693,42.743,43.508,Fisher,tas
+2020,"Moderating Emissions
+(SSP1-2.6)",45.267,42.926,44.135,Fisher,tas
+2020,"Middle of the Road
+(SSP2-4.5)",44.467,41.149,42.994,Fisher,tas
+2020,"High Emissions
+(SSP3-7.0)",44.414,41.75,43.122,Fisher,tas
+2020,"Accelerating Emissions
+(SSP5-8.5)",44.655,42.13,43.267,Fisher,tas
+2021,"Moderating Emissions
+(SSP1-2.6)",45.337,41.601,43.907,Fisher,tas
+2021,"Middle of the Road
+(SSP2-4.5)",44.414,42.41,43.685,Fisher,tas
+2021,"High Emissions
+(SSP3-7.0)",44.3,42.515,43.313,Fisher,tas
+2021,"Accelerating Emissions
+(SSP5-8.5)",45.096,41.979,43.99,Fisher,tas
+2022,"Moderating Emissions
+(SSP1-2.6)",44.463,41.417,42.915,Fisher,tas
+2022,"Middle of the Road
+(SSP2-4.5)",45.246,42.626,43.266,Fisher,tas
+2022,"High Emissions
+(SSP3-7.0)",45.116,42.291,43.292,Fisher,tas
+2022,"Accelerating Emissions
+(SSP5-8.5)",45.259,42.52,44.048,Fisher,tas
+2023,"Moderating Emissions
+(SSP1-2.6)",44.679,43.143,43.487,Fisher,tas
+2023,"Middle of the Road
+(SSP2-4.5)",44.961,43.024,43.618,Fisher,tas
+2023,"High Emissions
+(SSP3-7.0)",45.737,41.952,43.524,Fisher,tas
+2023,"Accelerating Emissions
+(SSP5-8.5)",44.058,41.301,42.451,Fisher,tas
+2024,"Moderating Emissions
+(SSP1-2.6)",44.996,41.803,43.485,Fisher,tas
+2024,"Middle of the Road
+(SSP2-4.5)",44.954,42.467,43.642,Fisher,tas
+2024,"High Emissions
+(SSP3-7.0)",46.383,41.784,43.043,Fisher,tas
+2024,"Accelerating Emissions
+(SSP5-8.5)",46.185,41.543,43.539,Fisher,tas
+2025,"Moderating Emissions
+(SSP1-2.6)",45.609,43.129,44.283,Fisher,tas
+2025,"Middle of the Road
+(SSP2-4.5)",45.948,41.277,43.374,Fisher,tas
+2025,"High Emissions
+(SSP3-7.0)",45.749,43.077,44.231,Fisher,tas
+2025,"Accelerating Emissions
+(SSP5-8.5)",46.586,43.167,43.748,Fisher,tas
+2026,"Moderating Emissions
+(SSP1-2.6)",45.53,42.365,43.697,Fisher,tas
+2026,"Middle of the Road
+(SSP2-4.5)",45.47,41.753,43.974,Fisher,tas
+2026,"High Emissions
+(SSP3-7.0)",46.014,41.143,44.389,Fisher,tas
+2026,"Accelerating Emissions
+(SSP5-8.5)",45.961,42.383,44.687,Fisher,tas
+2027,"Moderating Emissions
+(SSP1-2.6)",45.603,41.82,44.15,Fisher,tas
+2027,"Middle of the Road
+(SSP2-4.5)",46.074,42.234,44.22,Fisher,tas
+2027,"High Emissions
+(SSP3-7.0)",46.117,42.752,44.411,Fisher,tas
+2027,"Accelerating Emissions
+(SSP5-8.5)",45.064,42.259,44.231,Fisher,tas
+2028,"Moderating Emissions
+(SSP1-2.6)",45.192,42.792,44.673,Fisher,tas
+2028,"Middle of the Road
+(SSP2-4.5)",46.114,40.399,44.161,Fisher,tas
+2028,"High Emissions
+(SSP3-7.0)",44.763,42.933,43.728,Fisher,tas
+2028,"Accelerating Emissions
+(SSP5-8.5)",45.993,43.244,44.047,Fisher,tas
+2029,"Moderating Emissions
+(SSP1-2.6)",47.152,43.529,44.699,Fisher,tas
+2029,"Middle of the Road
+(SSP2-4.5)",45.732,43.034,43.942,Fisher,tas
+2029,"High Emissions
+(SSP3-7.0)",45.715,41.472,43.761,Fisher,tas
+2029,"Accelerating Emissions
+(SSP5-8.5)",45.461,43.2,44.641,Fisher,tas
+2030,"Moderating Emissions
+(SSP1-2.6)",46.634,42.287,43.453,Fisher,tas
+2030,"Middle of the Road
+(SSP2-4.5)",46.276,43.137,44.254,Fisher,tas
+2030,"High Emissions
+(SSP3-7.0)",45.431,42.673,43.783,Fisher,tas
+2030,"Accelerating Emissions
+(SSP5-8.5)",46.346,43.196,44.345,Fisher,tas
+2031,"Moderating Emissions
+(SSP1-2.6)",45.175,42.488,43.928,Fisher,tas
+2031,"Middle of the Road
+(SSP2-4.5)",47.127,42.249,45.047,Fisher,tas
+2031,"High Emissions
+(SSP3-7.0)",46.074,42.941,44.82,Fisher,tas
+2031,"Accelerating Emissions
+(SSP5-8.5)",45.968,43.991,44.914,Fisher,tas
+2032,"Moderating Emissions
+(SSP1-2.6)",45.414,42.471,44.229,Fisher,tas
+2032,"Middle of the Road
+(SSP2-4.5)",45.033,41.959,43.777,Fisher,tas
+2032,"High Emissions
+(SSP3-7.0)",46.276,42.427,42.839,Fisher,tas
+2032,"Accelerating Emissions
+(SSP5-8.5)",46.584,42.681,43.39,Fisher,tas
+2033,"Moderating Emissions
+(SSP1-2.6)",46.317,43.145,43.967,Fisher,tas
+2033,"Middle of the Road
+(SSP2-4.5)",45.848,43.128,44.816,Fisher,tas
+2033,"High Emissions
+(SSP3-7.0)",46.068,42.836,44.558,Fisher,tas
+2033,"Accelerating Emissions
+(SSP5-8.5)",45.666,42.659,45.122,Fisher,tas
+2034,"Moderating Emissions
+(SSP1-2.6)",45.778,42.32,44.02,Fisher,tas
+2034,"Middle of the Road
+(SSP2-4.5)",46.355,43.395,43.96,Fisher,tas
+2034,"High Emissions
+(SSP3-7.0)",45.648,43.718,44.409,Fisher,tas
+2034,"Accelerating Emissions
+(SSP5-8.5)",46.041,41.802,44.202,Fisher,tas
+2035,"Moderating Emissions
+(SSP1-2.6)",45.696,42.312,44.802,Fisher,tas
+2035,"Middle of the Road
+(SSP2-4.5)",46.262,42.742,44.087,Fisher,tas
+2035,"High Emissions
+(SSP3-7.0)",45.565,42.653,44.152,Fisher,tas
+2035,"Accelerating Emissions
+(SSP5-8.5)",46.109,42.431,44.307,Fisher,tas
+2036,"Moderating Emissions
+(SSP1-2.6)",46.141,44.106,45.261,Fisher,tas
+2036,"Middle of the Road
+(SSP2-4.5)",44.907,42.478,44.556,Fisher,tas
+2036,"High Emissions
+(SSP3-7.0)",46.183,43.173,44.604,Fisher,tas
+2036,"Accelerating Emissions
+(SSP5-8.5)",46.74,43.02,45.974,Fisher,tas
+2037,"Moderating Emissions
+(SSP1-2.6)",46.325,44.29,45.458,Fisher,tas
+2037,"Middle of the Road
+(SSP2-4.5)",47.183,41.861,44.731,Fisher,tas
+2037,"High Emissions
+(SSP3-7.0)",45.864,41.417,44.405,Fisher,tas
+2037,"Accelerating Emissions
+(SSP5-8.5)",46.233,43.371,44.647,Fisher,tas
+2038,"Moderating Emissions
+(SSP1-2.6)",46.201,43.473,45.046,Fisher,tas
+2038,"Middle of the Road
+(SSP2-4.5)",45.375,42.804,44.708,Fisher,tas
+2038,"High Emissions
+(SSP3-7.0)",46.79,43.201,44.299,Fisher,tas
+2038,"Accelerating Emissions
+(SSP5-8.5)",46.558,42.992,45.485,Fisher,tas
+2039,"Moderating Emissions
+(SSP1-2.6)",46.908,43.594,44.905,Fisher,tas
+2039,"Middle of the Road
+(SSP2-4.5)",45.781,43.381,44.371,Fisher,tas
+2039,"High Emissions
+(SSP3-7.0)",46.918,44.372,44.91,Fisher,tas
+2039,"Accelerating Emissions
+(SSP5-8.5)",48.304,42.974,45.328,Fisher,tas
+2040,"Moderating Emissions
+(SSP1-2.6)",45.858,42.526,44.693,Fisher,tas
+2040,"Middle of the Road
+(SSP2-4.5)",45.368,43.597,44.376,Fisher,tas
+2040,"High Emissions
+(SSP3-7.0)",46.504,43.662,44.59,Fisher,tas
+2040,"Accelerating Emissions
+(SSP5-8.5)",48.647,44.272,45.931,Fisher,tas
+2041,"Moderating Emissions
+(SSP1-2.6)",46.296,41.868,43.896,Fisher,tas
+2041,"Middle of the Road
+(SSP2-4.5)",45.922,43.678,45.187,Fisher,tas
+2041,"High Emissions
+(SSP3-7.0)",46.687,43.449,44.558,Fisher,tas
+2041,"Accelerating Emissions
+(SSP5-8.5)",46.113,43.91,45.154,Fisher,tas
+2042,"Moderating Emissions
+(SSP1-2.6)",47.003,43.747,45.269,Fisher,tas
+2042,"Middle of the Road
+(SSP2-4.5)",45.903,41.867,44.552,Fisher,tas
+2042,"High Emissions
+(SSP3-7.0)",46.306,42.56,44.994,Fisher,tas
+2042,"Accelerating Emissions
+(SSP5-8.5)",46.695,44.423,45.837,Fisher,tas
+2043,"Moderating Emissions
+(SSP1-2.6)",46.35,42.742,44.603,Fisher,tas
+2043,"Middle of the Road
+(SSP2-4.5)",46.035,42.765,44.808,Fisher,tas
+2043,"High Emissions
+(SSP3-7.0)",45.656,43.235,44.536,Fisher,tas
+2043,"Accelerating Emissions
+(SSP5-8.5)",46.587,44.847,45.714,Fisher,tas
+2044,"Moderating Emissions
+(SSP1-2.6)",46.571,44.014,44.748,Fisher,tas
+2044,"Middle of the Road
+(SSP2-4.5)",47.394,43.914,45.853,Fisher,tas
+2044,"High Emissions
+(SSP3-7.0)",46.698,43.183,45.2,Fisher,tas
+2044,"Accelerating Emissions
+(SSP5-8.5)",48.547,44.077,45.509,Fisher,tas
+2045,"Moderating Emissions
+(SSP1-2.6)",46.307,44.331,45.527,Fisher,tas
+2045,"Middle of the Road
+(SSP2-4.5)",48.175,43.123,45.036,Fisher,tas
+2045,"High Emissions
+(SSP3-7.0)",47.327,43.687,44.856,Fisher,tas
+2045,"Accelerating Emissions
+(SSP5-8.5)",46.167,44.404,45.478,Fisher,tas
+2046,"Moderating Emissions
+(SSP1-2.6)",47.549,42.436,45.087,Fisher,tas
+2046,"Middle of the Road
+(SSP2-4.5)",46.647,42.759,45.195,Fisher,tas
+2046,"High Emissions
+(SSP3-7.0)",46.486,44.512,45.353,Fisher,tas
+2046,"Accelerating Emissions
+(SSP5-8.5)",47.396,43.281,44.542,Fisher,tas
+2047,"Moderating Emissions
+(SSP1-2.6)",46.683,43.752,45.988,Fisher,tas
+2047,"Middle of the Road
+(SSP2-4.5)",46.582,40.834,44.997,Fisher,tas
+2047,"High Emissions
+(SSP3-7.0)",45.888,42.947,44.52,Fisher,tas
+2047,"Accelerating Emissions
+(SSP5-8.5)",48.334,43.341,45.886,Fisher,tas
+2048,"Moderating Emissions
+(SSP1-2.6)",46.026,43.436,44.936,Fisher,tas
+2048,"Middle of the Road
+(SSP2-4.5)",47.722,43.26,46.37,Fisher,tas
+2048,"High Emissions
+(SSP3-7.0)",47.386,43.415,45.909,Fisher,tas
+2048,"Accelerating Emissions
+(SSP5-8.5)",48.13,44.483,47.35,Fisher,tas
+2049,"Moderating Emissions
+(SSP1-2.6)",46.321,42.756,44.177,Fisher,tas
+2049,"Middle of the Road
+(SSP2-4.5)",46.842,43.907,45.32,Fisher,tas
+2049,"High Emissions
+(SSP3-7.0)",47.051,44.122,46.488,Fisher,tas
+2049,"Accelerating Emissions
+(SSP5-8.5)",47.329,44.944,46.386,Fisher,tas
+2050,"Moderating Emissions
+(SSP1-2.6)",46.701,41.825,45.628,Fisher,tas
+2050,"Middle of the Road
+(SSP2-4.5)",47.306,44.048,45.566,Fisher,tas
+2050,"High Emissions
+(SSP3-7.0)",47.271,44.133,45.836,Fisher,tas
+2050,"Accelerating Emissions
+(SSP5-8.5)",47.851,44.7,47.524,Fisher,tas
+2051,"Moderating Emissions
+(SSP1-2.6)",47.298,42.662,45.755,Fisher,tas
+2051,"Middle of the Road
+(SSP2-4.5)",46.661,44.596,45.222,Fisher,tas
+2051,"High Emissions
+(SSP3-7.0)",47.936,44.453,45.666,Fisher,tas
+2051,"Accelerating Emissions
+(SSP5-8.5)",47.413,44.111,45.745,Fisher,tas
+2052,"Moderating Emissions
+(SSP1-2.6)",46.15,43.413,45.664,Fisher,tas
+2052,"Middle of the Road
+(SSP2-4.5)",46.595,43.99,44.904,Fisher,tas
+2052,"High Emissions
+(SSP3-7.0)",46.983,43.505,45.484,Fisher,tas
+2052,"Accelerating Emissions
+(SSP5-8.5)",47.498,44.983,46.458,Fisher,tas
+2053,"Moderating Emissions
+(SSP1-2.6)",46.098,42.768,44.879,Fisher,tas
+2053,"Middle of the Road
+(SSP2-4.5)",46.621,43.828,45.785,Fisher,tas
+2053,"High Emissions
+(SSP3-7.0)",48.735,44.845,46.883,Fisher,tas
+2053,"Accelerating Emissions
+(SSP5-8.5)",48.663,44.949,45.458,Fisher,tas
+2054,"Moderating Emissions
+(SSP1-2.6)",46.601,44.922,45.631,Fisher,tas
+2054,"Middle of the Road
+(SSP2-4.5)",46.315,43.564,44.706,Fisher,tas
+2054,"High Emissions
+(SSP3-7.0)",46.849,43.929,45.198,Fisher,tas
+2054,"Accelerating Emissions
+(SSP5-8.5)",48.601,45.022,46.359,Fisher,tas
+2055,"Moderating Emissions
+(SSP1-2.6)",47.003,44.039,45.144,Fisher,tas
+2055,"Middle of the Road
+(SSP2-4.5)",47.208,43.764,45.694,Fisher,tas
+2055,"High Emissions
+(SSP3-7.0)",47.313,44.39,45.788,Fisher,tas
+2055,"Accelerating Emissions
+(SSP5-8.5)",48.289,45.174,47.222,Fisher,tas
+2056,"Moderating Emissions
+(SSP1-2.6)",46.785,43.808,46.286,Fisher,tas
+2056,"Middle of the Road
+(SSP2-4.5)",48.349,44.394,45.124,Fisher,tas
+2056,"High Emissions
+(SSP3-7.0)",48.621,44.318,45.835,Fisher,tas
+2056,"Accelerating Emissions
+(SSP5-8.5)",49.17,45.934,48.363,Fisher,tas
+2057,"Moderating Emissions
+(SSP1-2.6)",46.313,42.113,44.607,Fisher,tas
+2057,"Middle of the Road
+(SSP2-4.5)",46.938,44.507,45.75,Fisher,tas
+2057,"High Emissions
+(SSP3-7.0)",48.728,43.537,45.192,Fisher,tas
+2057,"Accelerating Emissions
+(SSP5-8.5)",48.737,44.645,47.159,Fisher,tas
+2058,"Moderating Emissions
+(SSP1-2.6)",46.922,43.085,45.226,Fisher,tas
+2058,"Middle of the Road
+(SSP2-4.5)",49.133,44.176,46.193,Fisher,tas
+2058,"High Emissions
+(SSP3-7.0)",47.444,44.751,46.44,Fisher,tas
+2058,"Accelerating Emissions
+(SSP5-8.5)",48.628,43.664,46.396,Fisher,tas
+2059,"Moderating Emissions
+(SSP1-2.6)",46.929,43.491,45.032,Fisher,tas
+2059,"Middle of the Road
+(SSP2-4.5)",48.655,45.042,46.731,Fisher,tas
+2059,"High Emissions
+(SSP3-7.0)",48.588,44.691,47.69,Fisher,tas
+2059,"Accelerating Emissions
+(SSP5-8.5)",49.337,46.319,47.981,Fisher,tas
+2060,"Moderating Emissions
+(SSP1-2.6)",46.827,42.816,45.544,Fisher,tas
+2060,"Middle of the Road
+(SSP2-4.5)",48.399,44.493,45.779,Fisher,tas
+2060,"High Emissions
+(SSP3-7.0)",47.971,45.022,46.863,Fisher,tas
+2060,"Accelerating Emissions
+(SSP5-8.5)",49.033,46.017,47.353,Fisher,tas
+2061,"Moderating Emissions
+(SSP1-2.6)",46.546,44.03,44.644,Fisher,tas
+2061,"Middle of the Road
+(SSP2-4.5)",47.739,44.165,45.443,Fisher,tas
+2061,"High Emissions
+(SSP3-7.0)",48.124,44.678,46.31,Fisher,tas
+2061,"Accelerating Emissions
+(SSP5-8.5)",50.226,46.188,47.794,Fisher,tas
+2062,"Moderating Emissions
+(SSP1-2.6)",45.996,44.155,45.134,Fisher,tas
+2062,"Middle of the Road
+(SSP2-4.5)",48.645,43.475,45.316,Fisher,tas
+2062,"High Emissions
+(SSP3-7.0)",47.686,44.501,47.144,Fisher,tas
+2062,"Accelerating Emissions
+(SSP5-8.5)",49.561,46.535,47.652,Fisher,tas
+2063,"Moderating Emissions
+(SSP1-2.6)",46.62,43.193,44.492,Fisher,tas
+2063,"Middle of the Road
+(SSP2-4.5)",47.952,44.031,46.06,Fisher,tas
+2063,"High Emissions
+(SSP3-7.0)",47.549,45.381,46.828,Fisher,tas
+2063,"Accelerating Emissions
+(SSP5-8.5)",48.924,45.389,48.63,Fisher,tas
+2064,"Moderating Emissions
+(SSP1-2.6)",47.579,43.429,46.223,Fisher,tas
+2064,"Middle of the Road
+(SSP2-4.5)",46.07,44.101,45.542,Fisher,tas
+2064,"High Emissions
+(SSP3-7.0)",47.338,45.873,46.479,Fisher,tas
+2064,"Accelerating Emissions
+(SSP5-8.5)",48.166,46.46,47.102,Fisher,tas
+2065,"Moderating Emissions
+(SSP1-2.6)",47.536,42.783,44.934,Fisher,tas
+2065,"Middle of the Road
+(SSP2-4.5)",48.455,43.319,46.179,Fisher,tas
+2065,"High Emissions
+(SSP3-7.0)",47.973,44.98,46.2,Fisher,tas
+2065,"Accelerating Emissions
+(SSP5-8.5)",50.745,47.133,48.335,Fisher,tas
+2066,"Moderating Emissions
+(SSP1-2.6)",48.343,44.46,46.279,Fisher,tas
+2066,"Middle of the Road
+(SSP2-4.5)",48.218,45.194,46.699,Fisher,tas
+2066,"High Emissions
+(SSP3-7.0)",48.547,43.559,46.016,Fisher,tas
+2066,"Accelerating Emissions
+(SSP5-8.5)",49.528,46.189,47.513,Fisher,tas
+2067,"Moderating Emissions
+(SSP1-2.6)",47.462,44.433,45.911,Fisher,tas
+2067,"Middle of the Road
+(SSP2-4.5)",48.003,44.386,45.256,Fisher,tas
+2067,"High Emissions
+(SSP3-7.0)",49.328,45.992,47.517,Fisher,tas
+2067,"Accelerating Emissions
+(SSP5-8.5)",49.994,46.485,47.413,Fisher,tas
+2068,"Moderating Emissions
+(SSP1-2.6)",47.961,43.953,44.759,Fisher,tas
+2068,"Middle of the Road
+(SSP2-4.5)",47.427,45.417,46.12,Fisher,tas
+2068,"High Emissions
+(SSP3-7.0)",48.431,44.511,45.835,Fisher,tas
+2068,"Accelerating Emissions
+(SSP5-8.5)",49.619,46.889,47.604,Fisher,tas
+2069,"Moderating Emissions
+(SSP1-2.6)",46.905,44.499,45.953,Fisher,tas
+2069,"Middle of the Road
+(SSP2-4.5)",47.814,44.237,46.107,Fisher,tas
+2069,"High Emissions
+(SSP3-7.0)",51.022,46.125,46.953,Fisher,tas
+2069,"Accelerating Emissions
+(SSP5-8.5)",52.148,46.732,48.797,Fisher,tas
+2070,"Moderating Emissions
+(SSP1-2.6)",46.385,44.415,45.174,Fisher,tas
+2070,"Middle of the Road
+(SSP2-4.5)",48.552,44.111,46.553,Fisher,tas
+2070,"High Emissions
+(SSP3-7.0)",50.404,45.671,47.579,Fisher,tas
+2070,"Accelerating Emissions
+(SSP5-8.5)",51.841,47.177,49.301,Fisher,tas
+2071,"Moderating Emissions
+(SSP1-2.6)",47.423,43.154,45.375,Fisher,tas
+2071,"Middle of the Road
+(SSP2-4.5)",47.68,44.607,46.599,Fisher,tas
+2071,"High Emissions
+(SSP3-7.0)",48.901,45.959,47.903,Fisher,tas
+2071,"Accelerating Emissions
+(SSP5-8.5)",50.747,46.2,48.199,Fisher,tas
+2072,"Moderating Emissions
+(SSP1-2.6)",46.716,43.918,45.817,Fisher,tas
+2072,"Middle of the Road
+(SSP2-4.5)",48.776,44.492,46.048,Fisher,tas
+2072,"High Emissions
+(SSP3-7.0)",48.748,45.429,47.818,Fisher,tas
+2072,"Accelerating Emissions
+(SSP5-8.5)",49.765,47.279,48.585,Fisher,tas
+2073,"Moderating Emissions
+(SSP1-2.6)",46.766,43.977,44.933,Fisher,tas
+2073,"Middle of the Road
+(SSP2-4.5)",47.679,44.476,46.481,Fisher,tas
+2073,"High Emissions
+(SSP3-7.0)",49.869,46.504,46.905,Fisher,tas
+2073,"Accelerating Emissions
+(SSP5-8.5)",50.704,47.02,48.84,Fisher,tas
+2074,"Moderating Emissions
+(SSP1-2.6)",48.209,43.133,46.454,Fisher,tas
+2074,"Middle of the Road
+(SSP2-4.5)",48.687,44.72,45.921,Fisher,tas
+2074,"High Emissions
+(SSP3-7.0)",49.074,45.532,47.384,Fisher,tas
+2074,"Accelerating Emissions
+(SSP5-8.5)",51.602,46.6,48.43,Fisher,tas
+2075,"Moderating Emissions
+(SSP1-2.6)",47.209,42.357,44.532,Fisher,tas
+2075,"Middle of the Road
+(SSP2-4.5)",48.66,43.955,45.545,Fisher,tas
+2075,"High Emissions
+(SSP3-7.0)",49.753,45.296,46.14,Fisher,tas
+2075,"Accelerating Emissions
+(SSP5-8.5)",50.91,46.959,49.216,Fisher,tas
+2076,"Moderating Emissions
+(SSP1-2.6)",47.448,42.323,44.776,Fisher,tas
+2076,"Middle of the Road
+(SSP2-4.5)",47.4,45.08,46.415,Fisher,tas
+2076,"High Emissions
+(SSP3-7.0)",49.679,46.336,47.639,Fisher,tas
+2076,"Accelerating Emissions
+(SSP5-8.5)",50.808,47.047,47.937,Fisher,tas
+2077,"Moderating Emissions
+(SSP1-2.6)",47.682,43.475,45.739,Fisher,tas
+2077,"Middle of the Road
+(SSP2-4.5)",49.032,44.936,46.914,Fisher,tas
+2077,"High Emissions
+(SSP3-7.0)",50.562,46.085,48.027,Fisher,tas
+2077,"Accelerating Emissions
+(SSP5-8.5)",50.639,47.098,48.411,Fisher,tas
+2078,"Moderating Emissions
+(SSP1-2.6)",47.419,43.639,45.244,Fisher,tas
+2078,"Middle of the Road
+(SSP2-4.5)",47.86,45.601,46.814,Fisher,tas
+2078,"High Emissions
+(SSP3-7.0)",49.861,46.632,47.834,Fisher,tas
+2078,"Accelerating Emissions
+(SSP5-8.5)",49.224,47.11,48.002,Fisher,tas
+2079,"Moderating Emissions
+(SSP1-2.6)",46.928,43.335,45.443,Fisher,tas
+2079,"Middle of the Road
+(SSP2-4.5)",48.551,45.325,46.721,Fisher,tas
+2079,"High Emissions
+(SSP3-7.0)",50.297,46.645,48.07,Fisher,tas
+2079,"Accelerating Emissions
+(SSP5-8.5)",51.225,47.494,48.701,Fisher,tas
+2080,"Moderating Emissions
+(SSP1-2.6)",45.875,43.437,44.666,Fisher,tas
+2080,"Middle of the Road
+(SSP2-4.5)",48.384,44.788,46.236,Fisher,tas
+2080,"High Emissions
+(SSP3-7.0)",51.085,47.339,47.907,Fisher,tas
+2080,"Accelerating Emissions
+(SSP5-8.5)",52.218,48.3,49.793,Fisher,tas
+2081,"Moderating Emissions
+(SSP1-2.6)",47.351,43.664,44.859,Fisher,tas
+2081,"Middle of the Road
+(SSP2-4.5)",48.342,45.483,46.437,Fisher,tas
+2081,"High Emissions
+(SSP3-7.0)",50.764,46.409,48.134,Fisher,tas
+2081,"Accelerating Emissions
+(SSP5-8.5)",54.489,49.049,50.657,Fisher,tas
+2082,"Moderating Emissions
+(SSP1-2.6)",47.166,43.921,45.667,Fisher,tas
+2082,"Middle of the Road
+(SSP2-4.5)",49.692,46.205,46.979,Fisher,tas
+2082,"High Emissions
+(SSP3-7.0)",50.68,45.878,47.26,Fisher,tas
+2082,"Accelerating Emissions
+(SSP5-8.5)",52.608,47.728,50.465,Fisher,tas
+2083,"Moderating Emissions
+(SSP1-2.6)",47.229,44.021,45.299,Fisher,tas
+2083,"Middle of the Road
+(SSP2-4.5)",48.676,44.358,45.632,Fisher,tas
+2083,"High Emissions
+(SSP3-7.0)",50.838,45.006,49.063,Fisher,tas
+2083,"Accelerating Emissions
+(SSP5-8.5)",51.999,48.104,50.911,Fisher,tas
+2084,"Moderating Emissions
+(SSP1-2.6)",47.348,43.365,44.889,Fisher,tas
+2084,"Middle of the Road
+(SSP2-4.5)",49.181,44.648,47.603,Fisher,tas
+2084,"High Emissions
+(SSP3-7.0)",50.749,47.972,49.232,Fisher,tas
+2084,"Accelerating Emissions
+(SSP5-8.5)",52.897,48.844,50.282,Fisher,tas
+2085,"Moderating Emissions
+(SSP1-2.6)",46.997,42.895,45.001,Fisher,tas
+2085,"Middle of the Road
+(SSP2-4.5)",48.266,44.721,47.118,Fisher,tas
+2085,"High Emissions
+(SSP3-7.0)",49.818,46.089,47.891,Fisher,tas
+2085,"Accelerating Emissions
+(SSP5-8.5)",52.45,49.588,50.944,Fisher,tas
+2086,"Moderating Emissions
+(SSP1-2.6)",48.242,44.881,46.724,Fisher,tas
+2086,"Middle of the Road
+(SSP2-4.5)",48.329,46.191,47.531,Fisher,tas
+2086,"High Emissions
+(SSP3-7.0)",50.741,46.457,49.601,Fisher,tas
+2086,"Accelerating Emissions
+(SSP5-8.5)",53.246,48.888,51.701,Fisher,tas
+2087,"Moderating Emissions
+(SSP1-2.6)",45.17,43.79,44.721,Fisher,tas
+2087,"Middle of the Road
+(SSP2-4.5)",49.047,45.707,47.817,Fisher,tas
+2087,"High Emissions
+(SSP3-7.0)",51.704,46.779,48.748,Fisher,tas
+2087,"Accelerating Emissions
+(SSP5-8.5)",52.294,49.507,50.712,Fisher,tas
+2088,"Moderating Emissions
+(SSP1-2.6)",48.167,43.277,45.566,Fisher,tas
+2088,"Middle of the Road
+(SSP2-4.5)",48.167,46.6,46.89,Fisher,tas
+2088,"High Emissions
+(SSP3-7.0)",51.72,47.61,48.882,Fisher,tas
+2088,"Accelerating Emissions
+(SSP5-8.5)",53.182,49.943,50.707,Fisher,tas
+2089,"Moderating Emissions
+(SSP1-2.6)",46.914,43.555,44.301,Fisher,tas
+2089,"Middle of the Road
+(SSP2-4.5)",49.892,45.356,46.694,Fisher,tas
+2089,"High Emissions
+(SSP3-7.0)",50.405,47.264,48.938,Fisher,tas
+2089,"Accelerating Emissions
+(SSP5-8.5)",54.402,49.614,50.803,Fisher,tas
+2090,"Moderating Emissions
+(SSP1-2.6)",47.05,44.34,45.942,Fisher,tas
+2090,"Middle of the Road
+(SSP2-4.5)",48.156,45.076,47.451,Fisher,tas
+2090,"High Emissions
+(SSP3-7.0)",51.524,47.505,49.209,Fisher,tas
+2090,"Accelerating Emissions
+(SSP5-8.5)",54.745,50.142,51.049,Fisher,tas
+2091,"Moderating Emissions
+(SSP1-2.6)",46.879,43.412,46.034,Fisher,tas
+2091,"Middle of the Road
+(SSP2-4.5)",48.3,44.804,47.014,Fisher,tas
+2091,"High Emissions
+(SSP3-7.0)",52.146,47.663,49.957,Fisher,tas
+2091,"Accelerating Emissions
+(SSP5-8.5)",52.956,48.877,51.294,Fisher,tas
+2092,"Moderating Emissions
+(SSP1-2.6)",47.454,42.977,46.291,Fisher,tas
+2092,"Middle of the Road
+(SSP2-4.5)",50.64,46.55,48.005,Fisher,tas
+2092,"High Emissions
+(SSP3-7.0)",51.027,46.439,48.916,Fisher,tas
+2092,"Accelerating Emissions
+(SSP5-8.5)",53.151,49.601,50.932,Fisher,tas
+2093,"Moderating Emissions
+(SSP1-2.6)",46.623,43.132,44.674,Fisher,tas
+2093,"Middle of the Road
+(SSP2-4.5)",49.093,44.795,46.995,Fisher,tas
+2093,"High Emissions
+(SSP3-7.0)",52.096,47.664,50.349,Fisher,tas
+2093,"Accelerating Emissions
+(SSP5-8.5)",54.893,49.651,51.096,Fisher,tas
+2094,"Moderating Emissions
+(SSP1-2.6)",47.987,42.481,44.653,Fisher,tas
+2094,"Middle of the Road
+(SSP2-4.5)",49.294,44.998,47.158,Fisher,tas
+2094,"High Emissions
+(SSP3-7.0)",51.947,47.936,49.656,Fisher,tas
+2094,"Accelerating Emissions
+(SSP5-8.5)",54.579,49.819,53.222,Fisher,tas
+2095,"Moderating Emissions
+(SSP1-2.6)",47.535,43.852,45.81,Fisher,tas
+2095,"Middle of the Road
+(SSP2-4.5)",50.432,46.389,48.173,Fisher,tas
+2095,"High Emissions
+(SSP3-7.0)",52.411,48.171,50.256,Fisher,tas
+2095,"Accelerating Emissions
+(SSP5-8.5)",53.48,49.532,50.821,Fisher,tas
+2096,"Moderating Emissions
+(SSP1-2.6)",46.432,42.954,45.468,Fisher,tas
+2096,"Middle of the Road
+(SSP2-4.5)",49.059,46.465,47.425,Fisher,tas
+2096,"High Emissions
+(SSP3-7.0)",51.181,48.792,49.928,Fisher,tas
+2096,"Accelerating Emissions
+(SSP5-8.5)",53.938,49.725,51.447,Fisher,tas
+2097,"Moderating Emissions
+(SSP1-2.6)",46.857,42.684,44.417,Fisher,tas
+2097,"Middle of the Road
+(SSP2-4.5)",49.629,46.247,47.734,Fisher,tas
+2097,"High Emissions
+(SSP3-7.0)",53.688,48.317,50.149,Fisher,tas
+2097,"Accelerating Emissions
+(SSP5-8.5)",55.427,49.094,52.111,Fisher,tas
+2098,"Moderating Emissions
+(SSP1-2.6)",45.932,43.442,44.606,Fisher,tas
+2098,"Middle of the Road
+(SSP2-4.5)",47.922,45.875,46.576,Fisher,tas
+2098,"High Emissions
+(SSP3-7.0)",52.666,48.41,49.857,Fisher,tas
+2098,"Accelerating Emissions
+(SSP5-8.5)",53.671,49.591,52.308,Fisher,tas
+2099,"Moderating Emissions
+(SSP1-2.6)",47.542,43.509,45.821,Fisher,tas
+2099,"Middle of the Road
+(SSP2-4.5)",49.314,44.213,47.029,Fisher,tas
+2099,"High Emissions
+(SSP3-7.0)",54.462,47.794,49.352,Fisher,tas
+2099,"Accelerating Emissions
+(SSP5-8.5)",55.465,50.563,52.928,Fisher,tas
+2100,"Moderating Emissions
+(SSP1-2.6)",46.823,42.554,44.634,Fisher,tas
+2100,"Middle of the Road
+(SSP2-4.5)",50.608,45.831,46.913,Fisher,tas
+2100,"High Emissions
+(SSP3-7.0)",52.104,48.295,49.916,Fisher,tas
+2100,"Accelerating Emissions
+(SSP5-8.5)",55.14,49.812,52.034,Fisher,tas

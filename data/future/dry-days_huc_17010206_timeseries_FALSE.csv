@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,244.24,162.76,213.8,North Fork Flathead,dry-days
+1951,Historical Emissions,225.12,191.04,210.2,North Fork Flathead,dry-days
+1952,Historical Emissions,233.12,186.64,206.8,North Fork Flathead,dry-days
+1953,Historical Emissions,209.64,180.24,200.6,North Fork Flathead,dry-days
+1954,Historical Emissions,233.16,173.32,203.8,North Fork Flathead,dry-days
+1955,Historical Emissions,232.04,176.6,211,North Fork Flathead,dry-days
+1956,Historical Emissions,220.4,172.48,196.4,North Fork Flathead,dry-days
+1957,Historical Emissions,216.96,184.12,194.4,North Fork Flathead,dry-days
+1958,Historical Emissions,226.08,153.12,188.8,North Fork Flathead,dry-days
+1959,Historical Emissions,206.2,186.16,202.2,North Fork Flathead,dry-days
+1960,Historical Emissions,219.96,169.84,205.2,North Fork Flathead,dry-days
+1961,Historical Emissions,233.72,188.64,204.6,North Fork Flathead,dry-days
+1962,Historical Emissions,232.32,164.52,205.8,North Fork Flathead,dry-days
+1963,Historical Emissions,214.52,173.48,201.2,North Fork Flathead,dry-days
+1964,Historical Emissions,222.52,184.04,217.6,North Fork Flathead,dry-days
+1965,Historical Emissions,217.52,183.96,201.8,North Fork Flathead,dry-days
+1966,Historical Emissions,233.12,160.28,202.6,North Fork Flathead,dry-days
+1967,Historical Emissions,216.44,183.16,209.2,North Fork Flathead,dry-days
+1968,Historical Emissions,217.12,172.2,203.6,North Fork Flathead,dry-days
+1969,Historical Emissions,229.48,180.48,205,North Fork Flathead,dry-days
+1970,Historical Emissions,216.6,179.6,191,North Fork Flathead,dry-days
+1971,Historical Emissions,245.52,161.84,219,North Fork Flathead,dry-days
+1972,Historical Emissions,223.6,188.04,204.4,North Fork Flathead,dry-days
+1973,Historical Emissions,216.8,183.56,203.4,North Fork Flathead,dry-days
+1974,Historical Emissions,223.84,174.04,203.2,North Fork Flathead,dry-days
+1975,Historical Emissions,234.12,173.72,194.6,North Fork Flathead,dry-days
+1976,Historical Emissions,219.4,181.72,211.2,North Fork Flathead,dry-days
+1977,Historical Emissions,226.88,168.08,207.6,North Fork Flathead,dry-days
+1978,Historical Emissions,226.4,178.52,203.4,North Fork Flathead,dry-days
+1979,Historical Emissions,223.24,171.36,205.2,North Fork Flathead,dry-days
+1980,Historical Emissions,229.04,184.84,207.6,North Fork Flathead,dry-days
+1981,Historical Emissions,228.08,173.6,208,North Fork Flathead,dry-days
+1982,Historical Emissions,209.16,173.68,195.4,North Fork Flathead,dry-days
+1983,Historical Emissions,214.92,174.28,204.8,North Fork Flathead,dry-days
+1984,Historical Emissions,218.6,167.52,190.6,North Fork Flathead,dry-days
+1985,Historical Emissions,216.24,185.76,211,North Fork Flathead,dry-days
+1986,Historical Emissions,211.88,170.52,197.8,North Fork Flathead,dry-days
+1987,Historical Emissions,216.68,182.92,208.2,North Fork Flathead,dry-days
+1988,Historical Emissions,227.8,175.36,200.6,North Fork Flathead,dry-days
+1989,Historical Emissions,229.76,184.56,207.6,North Fork Flathead,dry-days
+1990,Historical Emissions,237.2,187.04,207,North Fork Flathead,dry-days
+1991,Historical Emissions,229.92,152.4,215,North Fork Flathead,dry-days
+1992,Historical Emissions,229.92,199,207.6,North Fork Flathead,dry-days
+1993,Historical Emissions,221.32,182.52,212.8,North Fork Flathead,dry-days
+1994,Historical Emissions,227.56,181.52,209,North Fork Flathead,dry-days
+1995,Historical Emissions,221.32,184.76,206.8,North Fork Flathead,dry-days
+1996,Historical Emissions,244.92,180.36,216.2,North Fork Flathead,dry-days
+1997,Historical Emissions,220,191.36,196.6,North Fork Flathead,dry-days
+1998,Historical Emissions,226.68,188.04,208,North Fork Flathead,dry-days
+1999,Historical Emissions,223.12,172.2,195.8,North Fork Flathead,dry-days
+2000,Historical Emissions,236.72,193.68,213,North Fork Flathead,dry-days
+2001,Historical Emissions,227.96,170.76,217.8,North Fork Flathead,dry-days
+2002,Historical Emissions,215.64,178.16,206,North Fork Flathead,dry-days
+2003,Historical Emissions,236.56,186.52,204.2,North Fork Flathead,dry-days
+2004,Historical Emissions,224.72,175.96,205.8,North Fork Flathead,dry-days
+2005,Historical Emissions,231.6,172.64,221.8,North Fork Flathead,dry-days
+2006,Historical Emissions,227.36,175.96,195,North Fork Flathead,dry-days
+2007,Historical Emissions,221.64,193.64,204.8,North Fork Flathead,dry-days
+2008,Historical Emissions,231.64,184.24,221.2,North Fork Flathead,dry-days
+2009,Historical Emissions,214.2,184.92,197.2,North Fork Flathead,dry-days
+2010,Historical Emissions,223.96,170.92,203.8,North Fork Flathead,dry-days
+2011,Historical Emissions,215.56,178.04,200.6,North Fork Flathead,dry-days
+2012,Historical Emissions,231.4,195.2,221.4,North Fork Flathead,dry-days
+2013,Historical Emissions,220.84,196.48,211.8,North Fork Flathead,dry-days
+2014,Historical Emissions,236.04,185.28,212.2,North Fork Flathead,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",223.92,187.04,210.8,North Fork Flathead,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",229.16,193.68,200.4,North Fork Flathead,dry-days
+2015,"High Emissions
+(SSP3-7.0)",228.76,166.32,204.8,North Fork Flathead,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",216.44,177.32,206.4,North Fork Flathead,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",241.4,182.56,205.4,North Fork Flathead,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",220.04,175.04,207,North Fork Flathead,dry-days
+2016,"High Emissions
+(SSP3-7.0)",231.2,182.96,207.2,North Fork Flathead,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",222.6,184.32,213.2,North Fork Flathead,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",218.52,174.32,206,North Fork Flathead,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",226.44,178.4,209.4,North Fork Flathead,dry-days
+2017,"High Emissions
+(SSP3-7.0)",227.44,182.4,210.8,North Fork Flathead,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",221.6,180.24,213.4,North Fork Flathead,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",222.08,190.24,201,North Fork Flathead,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",223.64,180.16,208.8,North Fork Flathead,dry-days
+2018,"High Emissions
+(SSP3-7.0)",212.56,185.52,204.8,North Fork Flathead,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",214.08,184.88,191.6,North Fork Flathead,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",236.92,190.96,223.2,North Fork Flathead,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",216.48,174.56,189.6,North Fork Flathead,dry-days
+2019,"High Emissions
+(SSP3-7.0)",241.24,174.44,211.6,North Fork Flathead,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",228.96,175.64,210,North Fork Flathead,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",228.92,179.8,207,North Fork Flathead,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",216.68,173.72,198.8,North Fork Flathead,dry-days
+2020,"High Emissions
+(SSP3-7.0)",219.68,186.28,199.8,North Fork Flathead,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",224.44,178.96,213,North Fork Flathead,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",244.28,180.4,215.8,North Fork Flathead,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",233.12,181.04,209.4,North Fork Flathead,dry-days
+2021,"High Emissions
+(SSP3-7.0)",234.68,164.04,215.8,North Fork Flathead,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",232.04,179.88,196.2,North Fork Flathead,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",216.2,171.24,198.6,North Fork Flathead,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",225.76,170.76,207.8,North Fork Flathead,dry-days
+2022,"High Emissions
+(SSP3-7.0)",218.8,170.12,202.2,North Fork Flathead,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",226.84,178.48,188,North Fork Flathead,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",214.96,177.08,197.8,North Fork Flathead,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",234.72,171,202,North Fork Flathead,dry-days
+2023,"High Emissions
+(SSP3-7.0)",223.52,176.76,194.8,North Fork Flathead,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",207.16,166.68,187.8,North Fork Flathead,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",226.48,176.16,194,North Fork Flathead,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",236.28,195.6,216,North Fork Flathead,dry-days
+2024,"High Emissions
+(SSP3-7.0)",234.2,187.6,202,North Fork Flathead,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",220.6,181.44,193.6,North Fork Flathead,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",220.52,192,205.2,North Fork Flathead,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",228.4,171,183.8,North Fork Flathead,dry-days
+2025,"High Emissions
+(SSP3-7.0)",239.16,171.64,207,North Fork Flathead,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",225.92,169.8,205,North Fork Flathead,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",221.8,181.68,199.4,North Fork Flathead,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",236.76,178.24,197.2,North Fork Flathead,dry-days
+2026,"High Emissions
+(SSP3-7.0)",217.84,165.4,195.4,North Fork Flathead,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",217.16,179.92,202.6,North Fork Flathead,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",225.76,157.52,211.8,North Fork Flathead,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",239.16,184.84,212.6,North Fork Flathead,dry-days
+2027,"High Emissions
+(SSP3-7.0)",228.8,176.76,214.4,North Fork Flathead,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",228,187.4,201.6,North Fork Flathead,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",223.6,190.72,199.6,North Fork Flathead,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",213.96,178.68,201.2,North Fork Flathead,dry-days
+2028,"High Emissions
+(SSP3-7.0)",227.36,188.92,210.6,North Fork Flathead,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",230.44,178.56,207.4,North Fork Flathead,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",229,168.72,215.8,North Fork Flathead,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",225.92,178.32,204,North Fork Flathead,dry-days
+2029,"High Emissions
+(SSP3-7.0)",227.24,182.12,202.2,North Fork Flathead,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",231.28,177.08,207.8,North Fork Flathead,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",230.28,192.2,206.2,North Fork Flathead,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",228.6,181.88,212.2,North Fork Flathead,dry-days
+2030,"High Emissions
+(SSP3-7.0)",232.68,166.76,193,North Fork Flathead,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",225.12,177.72,211.8,North Fork Flathead,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",231.56,183.84,205.6,North Fork Flathead,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",234.32,170.04,197.2,North Fork Flathead,dry-days
+2031,"High Emissions
+(SSP3-7.0)",234.48,189.36,206.8,North Fork Flathead,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",239,180.6,197.6,North Fork Flathead,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",225.64,172.24,212.6,North Fork Flathead,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",219.76,170.76,202.8,North Fork Flathead,dry-days
+2032,"High Emissions
+(SSP3-7.0)",229.8,184.52,215.6,North Fork Flathead,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",221.16,186.36,210,North Fork Flathead,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",226.92,169.84,197.6,North Fork Flathead,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",229.48,176.72,205.4,North Fork Flathead,dry-days
+2033,"High Emissions
+(SSP3-7.0)",229.8,170.84,201.8,North Fork Flathead,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",221.44,183.2,209.8,North Fork Flathead,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",218.6,184.96,198,North Fork Flathead,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",218.04,182.8,207.4,North Fork Flathead,dry-days
+2034,"High Emissions
+(SSP3-7.0)",228.44,175.6,223.2,North Fork Flathead,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",217.2,156.96,189,North Fork Flathead,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",241.88,173.12,212.8,North Fork Flathead,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",225.2,184.08,197.2,North Fork Flathead,dry-days
+2035,"High Emissions
+(SSP3-7.0)",212.24,190.72,203,North Fork Flathead,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",197.84,185.64,191.4,North Fork Flathead,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",233.36,175.72,203,North Fork Flathead,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",235.56,175.2,210,North Fork Flathead,dry-days
+2036,"High Emissions
+(SSP3-7.0)",234.2,179.28,209.6,North Fork Flathead,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",222.8,172.88,205.6,North Fork Flathead,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",215.56,171.96,202,North Fork Flathead,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",211.56,177,195.8,North Fork Flathead,dry-days
+2037,"High Emissions
+(SSP3-7.0)",218.92,169.72,200.2,North Fork Flathead,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",227.8,150.72,193.8,North Fork Flathead,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",220.12,176.32,190.2,North Fork Flathead,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",217.88,186.64,197,North Fork Flathead,dry-days
+2038,"High Emissions
+(SSP3-7.0)",222.6,190.32,204.4,North Fork Flathead,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",227.88,178.48,191.2,North Fork Flathead,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",227.72,187.12,196.6,North Fork Flathead,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",221,179.56,198.4,North Fork Flathead,dry-days
+2039,"High Emissions
+(SSP3-7.0)",225.8,164.72,214.6,North Fork Flathead,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",218.8,175.96,208.2,North Fork Flathead,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",220.8,166.4,196.2,North Fork Flathead,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",223.64,185.16,208.6,North Fork Flathead,dry-days
+2040,"High Emissions
+(SSP3-7.0)",218.4,179.72,205,North Fork Flathead,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",230.64,171.88,206.2,North Fork Flathead,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",223.08,174.8,211,North Fork Flathead,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",222.84,186.12,211.6,North Fork Flathead,dry-days
+2041,"High Emissions
+(SSP3-7.0)",225.28,189.88,217,North Fork Flathead,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",210.04,173.8,196,North Fork Flathead,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",214.84,177.4,204.4,North Fork Flathead,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",227.72,176.16,188.6,North Fork Flathead,dry-days
+2042,"High Emissions
+(SSP3-7.0)",209.52,184.32,198.8,North Fork Flathead,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",217.16,174.04,201.6,North Fork Flathead,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",217.56,179.64,205.2,North Fork Flathead,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",233.08,184.72,204,North Fork Flathead,dry-days
+2043,"High Emissions
+(SSP3-7.0)",220.08,178.32,197.2,North Fork Flathead,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",223.56,188.72,204.8,North Fork Flathead,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",213.28,193.12,208,North Fork Flathead,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",242,188.12,208.4,North Fork Flathead,dry-days
+2044,"High Emissions
+(SSP3-7.0)",219.28,181.72,191.6,North Fork Flathead,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",239.72,172.6,216,North Fork Flathead,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",222.92,174,212.2,North Fork Flathead,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",225.64,175.8,202.2,North Fork Flathead,dry-days
+2045,"High Emissions
+(SSP3-7.0)",228.8,181.4,214.6,North Fork Flathead,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",235.72,182.84,207.8,North Fork Flathead,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",223.68,175.96,212,North Fork Flathead,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",214.72,182.04,201.8,North Fork Flathead,dry-days
+2046,"High Emissions
+(SSP3-7.0)",216.48,179.08,197,North Fork Flathead,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",220.08,178.6,199.2,North Fork Flathead,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",223.88,192.52,201.6,North Fork Flathead,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",211.76,187.24,201.2,North Fork Flathead,dry-days
+2047,"High Emissions
+(SSP3-7.0)",225.72,191.88,210.6,North Fork Flathead,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",226.52,186.72,207.4,North Fork Flathead,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",214.2,169.44,209.2,North Fork Flathead,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",220.88,199.4,212.8,North Fork Flathead,dry-days
+2048,"High Emissions
+(SSP3-7.0)",221.4,186.32,195.6,North Fork Flathead,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",224.92,182.76,211.2,North Fork Flathead,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",225.8,173.2,204.2,North Fork Flathead,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",218,177.64,213.4,North Fork Flathead,dry-days
+2049,"High Emissions
+(SSP3-7.0)",221.6,190.88,205.6,North Fork Flathead,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",225.56,182.52,205.6,North Fork Flathead,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",230.72,171.68,196.4,North Fork Flathead,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",239.96,176,198.4,North Fork Flathead,dry-days
+2050,"High Emissions
+(SSP3-7.0)",217.4,181.76,204.4,North Fork Flathead,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",219.04,181.64,199.4,North Fork Flathead,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",235.32,176.76,203,North Fork Flathead,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",216.48,179.4,200,North Fork Flathead,dry-days
+2051,"High Emissions
+(SSP3-7.0)",231.92,163.48,213.8,North Fork Flathead,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",219.88,192.72,207.6,North Fork Flathead,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",219.96,179.36,201.2,North Fork Flathead,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",222.92,191.6,211,North Fork Flathead,dry-days
+2052,"High Emissions
+(SSP3-7.0)",214.12,178,192.4,North Fork Flathead,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",225.32,189.36,198.4,North Fork Flathead,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",232.4,184.2,204.8,North Fork Flathead,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",220.88,182.24,201.8,North Fork Flathead,dry-days
+2053,"High Emissions
+(SSP3-7.0)",243.84,187.64,207.6,North Fork Flathead,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",220.88,177.68,206.4,North Fork Flathead,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",229.8,167.64,214,North Fork Flathead,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",214.84,182.2,203.6,North Fork Flathead,dry-days
+2054,"High Emissions
+(SSP3-7.0)",220.32,183.28,197.4,North Fork Flathead,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",229.12,182.8,209.4,North Fork Flathead,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",229.16,179.08,205.6,North Fork Flathead,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",238.28,192.48,218.8,North Fork Flathead,dry-days
+2055,"High Emissions
+(SSP3-7.0)",210.68,192.28,205.8,North Fork Flathead,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",235.56,177.48,206.2,North Fork Flathead,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",225.88,171.44,192.4,North Fork Flathead,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",234.16,181.16,210.8,North Fork Flathead,dry-days
+2056,"High Emissions
+(SSP3-7.0)",235.44,164.8,220.4,North Fork Flathead,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",220.24,184.72,206.4,North Fork Flathead,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",219.44,173,200,North Fork Flathead,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",227.4,194.28,205,North Fork Flathead,dry-days
+2057,"High Emissions
+(SSP3-7.0)",230,183.48,196.4,North Fork Flathead,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",222.48,180.08,204.8,North Fork Flathead,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",229.92,181.28,213.4,North Fork Flathead,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",233.76,183.68,207.8,North Fork Flathead,dry-days
+2058,"High Emissions
+(SSP3-7.0)",211.28,174.72,201.2,North Fork Flathead,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",214.76,181.28,200.6,North Fork Flathead,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",222.4,187.16,204.8,North Fork Flathead,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",224.24,176.56,209.6,North Fork Flathead,dry-days
+2059,"High Emissions
+(SSP3-7.0)",237.28,184.08,212.2,North Fork Flathead,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",236.24,180.68,207.6,North Fork Flathead,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",235.84,189.08,207.2,North Fork Flathead,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",218.2,190.24,205.8,North Fork Flathead,dry-days
+2060,"High Emissions
+(SSP3-7.0)",226.84,169.2,206.2,North Fork Flathead,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",219.36,182.72,204.6,North Fork Flathead,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",234.52,182.56,211.4,North Fork Flathead,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",230.72,165.8,206.8,North Fork Flathead,dry-days
+2061,"High Emissions
+(SSP3-7.0)",231.52,187.36,210.4,North Fork Flathead,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",233.2,177.12,204.2,North Fork Flathead,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",231.44,188.12,204,North Fork Flathead,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",226.2,172.04,212,North Fork Flathead,dry-days
+2062,"High Emissions
+(SSP3-7.0)",224.12,197.16,205.6,North Fork Flathead,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",227,185.36,214,North Fork Flathead,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",228.12,186.28,218,North Fork Flathead,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",210.44,168.84,194.6,North Fork Flathead,dry-days
+2063,"High Emissions
+(SSP3-7.0)",231.56,180.36,216.2,North Fork Flathead,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",218.28,194.84,209.2,North Fork Flathead,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",219.68,176.6,193.8,North Fork Flathead,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",216.48,171.2,202,North Fork Flathead,dry-days
+2064,"High Emissions
+(SSP3-7.0)",232,178.64,212.8,North Fork Flathead,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",218.04,184.88,199.4,North Fork Flathead,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",219.4,174.36,192.4,North Fork Flathead,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",220.28,186.76,202,North Fork Flathead,dry-days
+2065,"High Emissions
+(SSP3-7.0)",227.4,177.48,199,North Fork Flathead,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",230.24,178.28,211.6,North Fork Flathead,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",222.92,195.2,215.4,North Fork Flathead,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",226,175.96,212,North Fork Flathead,dry-days
+2066,"High Emissions
+(SSP3-7.0)",228.16,160.36,197,North Fork Flathead,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",235.64,174.96,206.2,North Fork Flathead,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",225.84,179.88,194.4,North Fork Flathead,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",209.64,179.32,199.2,North Fork Flathead,dry-days
+2067,"High Emissions
+(SSP3-7.0)",257.48,178.92,205.6,North Fork Flathead,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",220.76,172.52,203.4,North Fork Flathead,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",219.2,175.2,200.8,North Fork Flathead,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",224.2,167.36,209.2,North Fork Flathead,dry-days
+2068,"High Emissions
+(SSP3-7.0)",221.72,168.04,198,North Fork Flathead,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",223.84,187.44,196.4,North Fork Flathead,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",247.32,165.68,205,North Fork Flathead,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",227.16,171.68,195,North Fork Flathead,dry-days
+2069,"High Emissions
+(SSP3-7.0)",246.48,179.92,218.2,North Fork Flathead,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",227.76,187.96,219.4,North Fork Flathead,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",226.6,181.52,208.8,North Fork Flathead,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",209.32,175.76,194.6,North Fork Flathead,dry-days
+2070,"High Emissions
+(SSP3-7.0)",218.08,173.72,205.2,North Fork Flathead,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",216.96,178.88,205,North Fork Flathead,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",228.56,184.6,215.6,North Fork Flathead,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",227.84,187.56,202,North Fork Flathead,dry-days
+2071,"High Emissions
+(SSP3-7.0)",223.32,178.44,202.6,North Fork Flathead,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",231.8,189.68,210.8,North Fork Flathead,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",235.88,193.2,210.8,North Fork Flathead,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",228.36,189.96,211.2,North Fork Flathead,dry-days
+2072,"High Emissions
+(SSP3-7.0)",224.84,190.52,209.2,North Fork Flathead,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",228.72,177.84,208.8,North Fork Flathead,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",218.08,176.24,187.8,North Fork Flathead,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",210.24,185.6,199,North Fork Flathead,dry-days
+2073,"High Emissions
+(SSP3-7.0)",227.84,178.48,214.4,North Fork Flathead,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",233.64,189.12,201.4,North Fork Flathead,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",228.4,163.56,206.6,North Fork Flathead,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",213.92,172.16,202.8,North Fork Flathead,dry-days
+2074,"High Emissions
+(SSP3-7.0)",229.84,171.52,218.6,North Fork Flathead,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",219.92,195.04,203.6,North Fork Flathead,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",230.2,181.56,205.2,North Fork Flathead,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",220.6,174.6,210.4,North Fork Flathead,dry-days
+2075,"High Emissions
+(SSP3-7.0)",218.76,184.76,204.6,North Fork Flathead,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",239.4,193.04,214.6,North Fork Flathead,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",222.96,179.84,200.6,North Fork Flathead,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",220.68,182.32,198.8,North Fork Flathead,dry-days
+2076,"High Emissions
+(SSP3-7.0)",213.68,181.72,209.2,North Fork Flathead,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",236.76,187.28,199.6,North Fork Flathead,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",225.2,179.56,210,North Fork Flathead,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",228.68,185.76,207.2,North Fork Flathead,dry-days
+2077,"High Emissions
+(SSP3-7.0)",216.72,172.88,211.8,North Fork Flathead,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",234.28,185.4,204.6,North Fork Flathead,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",219.36,189.04,205.4,North Fork Flathead,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",218.44,183.84,199.4,North Fork Flathead,dry-days
+2078,"High Emissions
+(SSP3-7.0)",240.96,181.88,192,North Fork Flathead,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",225.52,178.72,199,North Fork Flathead,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",234.8,167.72,215.8,North Fork Flathead,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",224.84,187.44,212.8,North Fork Flathead,dry-days
+2079,"High Emissions
+(SSP3-7.0)",220,191.56,203.4,North Fork Flathead,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",232.76,187.44,203.2,North Fork Flathead,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",220.28,183.88,209.6,North Fork Flathead,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",220.52,173.64,191.6,North Fork Flathead,dry-days
+2080,"High Emissions
+(SSP3-7.0)",225.52,179,213.6,North Fork Flathead,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",224.32,169.08,209,North Fork Flathead,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",230.92,188.68,207.4,North Fork Flathead,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",220.56,162.52,207.6,North Fork Flathead,dry-days
+2081,"High Emissions
+(SSP3-7.0)",233.4,188.24,200,North Fork Flathead,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",227.48,193.48,213.6,North Fork Flathead,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",234.76,177.92,208.8,North Fork Flathead,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",222.28,176.64,205.4,North Fork Flathead,dry-days
+2082,"High Emissions
+(SSP3-7.0)",234.24,181.44,205.4,North Fork Flathead,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",226.12,183.2,209.8,North Fork Flathead,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",229.4,180,207.8,North Fork Flathead,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",240.6,181.44,212.4,North Fork Flathead,dry-days
+2083,"High Emissions
+(SSP3-7.0)",216.76,187.52,207.2,North Fork Flathead,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",228.68,173.52,213.8,North Fork Flathead,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",214.56,183.68,199.4,North Fork Flathead,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",232,184.6,215.8,North Fork Flathead,dry-days
+2084,"High Emissions
+(SSP3-7.0)",222.56,198.4,217.2,North Fork Flathead,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",221.48,175.12,204.2,North Fork Flathead,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",219,178.28,197.4,North Fork Flathead,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",224.2,170.44,196.4,North Fork Flathead,dry-days
+2085,"High Emissions
+(SSP3-7.0)",222.68,174.24,206,North Fork Flathead,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",220.8,173.76,204.2,North Fork Flathead,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",220.12,169.08,212.8,North Fork Flathead,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",229.32,166.24,203.2,North Fork Flathead,dry-days
+2086,"High Emissions
+(SSP3-7.0)",237.2,184.8,208.2,North Fork Flathead,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",224.92,170.32,204.4,North Fork Flathead,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",220.56,187.32,205.4,North Fork Flathead,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",220.4,177.44,203,North Fork Flathead,dry-days
+2087,"High Emissions
+(SSP3-7.0)",221.44,173.96,200.8,North Fork Flathead,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",229.2,179.92,207,North Fork Flathead,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",222.72,168.72,199,North Fork Flathead,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",230.12,177.52,212.6,North Fork Flathead,dry-days
+2088,"High Emissions
+(SSP3-7.0)",229.2,178.4,200,North Fork Flathead,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",248,176.88,219.6,North Fork Flathead,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",215.72,176.16,194.4,North Fork Flathead,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",228.52,176.88,217.4,North Fork Flathead,dry-days
+2089,"High Emissions
+(SSP3-7.0)",244.76,194.28,200.6,North Fork Flathead,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",233.08,166.16,191.6,North Fork Flathead,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",210.48,184.08,201.2,North Fork Flathead,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",226.48,181.76,201.8,North Fork Flathead,dry-days
+2090,"High Emissions
+(SSP3-7.0)",245.56,192.92,216.6,North Fork Flathead,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",223,196,210.2,North Fork Flathead,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",225.76,171.04,203.8,North Fork Flathead,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",214.68,188.96,208,North Fork Flathead,dry-days
+2091,"High Emissions
+(SSP3-7.0)",235.48,184.6,212.4,North Fork Flathead,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",234.24,167.8,208.8,North Fork Flathead,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",214.76,190.84,203.2,North Fork Flathead,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",241.8,185.92,207,North Fork Flathead,dry-days
+2092,"High Emissions
+(SSP3-7.0)",222,158.04,201.4,North Fork Flathead,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",236.72,185.04,212.4,North Fork Flathead,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",219.08,176.16,203,North Fork Flathead,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",217.96,187.96,198.4,North Fork Flathead,dry-days
+2093,"High Emissions
+(SSP3-7.0)",237.72,184.48,213.6,North Fork Flathead,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",237.6,170.88,203.8,North Fork Flathead,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",225.16,173.8,193,North Fork Flathead,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",223.32,183.92,203.6,North Fork Flathead,dry-days
+2094,"High Emissions
+(SSP3-7.0)",227.96,183.16,212,North Fork Flathead,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",221.4,186.96,216.2,North Fork Flathead,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",241.12,191.64,206.2,North Fork Flathead,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",216.16,188.48,207.4,North Fork Flathead,dry-days
+2095,"High Emissions
+(SSP3-7.0)",229.88,183.68,213.4,North Fork Flathead,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",239.8,195.88,221.8,North Fork Flathead,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",230.28,187.64,206.2,North Fork Flathead,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",223.84,185.96,202.8,North Fork Flathead,dry-days
+2096,"High Emissions
+(SSP3-7.0)",220.96,187.4,213.6,North Fork Flathead,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",228.84,179.24,204.4,North Fork Flathead,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",229.88,205.68,215.6,North Fork Flathead,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",231.52,175.64,197.8,North Fork Flathead,dry-days
+2097,"High Emissions
+(SSP3-7.0)",236.44,193.32,211.4,North Fork Flathead,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",209.52,184,200.4,North Fork Flathead,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",229.6,184.32,209.4,North Fork Flathead,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",220.84,188.4,212,North Fork Flathead,dry-days
+2098,"High Emissions
+(SSP3-7.0)",226.32,177.36,206,North Fork Flathead,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",234.6,166.48,214.6,North Fork Flathead,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",229.12,171.92,203.6,North Fork Flathead,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",216.52,173.24,209.6,North Fork Flathead,dry-days
+2099,"High Emissions
+(SSP3-7.0)",234.04,182.48,210,North Fork Flathead,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",232.92,170.2,211,North Fork Flathead,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",217,175.92,191.8,North Fork Flathead,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",219.72,176.72,200,North Fork Flathead,dry-days
+2100,"High Emissions
+(SSP3-7.0)",230,183.48,201.2,North Fork Flathead,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",229.92,188.2,207.4,North Fork Flathead,dry-days

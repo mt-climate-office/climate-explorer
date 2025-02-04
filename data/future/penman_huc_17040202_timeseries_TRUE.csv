@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,1.275,1.179,1.213,Upper Henrys,penman
+1951,Historical Emissions,1.283,1.144,1.2,Upper Henrys,penman
+1952,Historical Emissions,1.281,1.166,1.188,Upper Henrys,penman
+1953,Historical Emissions,1.314,1.165,1.246,Upper Henrys,penman
+1954,Historical Emissions,1.265,1.153,1.184,Upper Henrys,penman
+1955,Historical Emissions,1.326,1.156,1.194,Upper Henrys,penman
+1956,Historical Emissions,1.289,1.171,1.22,Upper Henrys,penman
+1957,Historical Emissions,1.313,1.132,1.164,Upper Henrys,penman
+1958,Historical Emissions,1.243,1.124,1.192,Upper Henrys,penman
+1959,Historical Emissions,1.256,1.115,1.183,Upper Henrys,penman
+1960,Historical Emissions,1.252,1.13,1.182,Upper Henrys,penman
+1961,Historical Emissions,1.246,1.113,1.205,Upper Henrys,penman
+1962,Historical Emissions,1.253,1.129,1.186,Upper Henrys,penman
+1963,Historical Emissions,1.211,1.134,1.177,Upper Henrys,penman
+1964,Historical Emissions,1.183,1.115,1.169,Upper Henrys,penman
+1965,Historical Emissions,1.213,1.141,1.195,Upper Henrys,penman
+1966,Historical Emissions,1.276,1.107,1.165,Upper Henrys,penman
+1967,Historical Emissions,1.261,1.112,1.208,Upper Henrys,penman
+1968,Historical Emissions,1.223,1.114,1.167,Upper Henrys,penman
+1969,Historical Emissions,1.228,1.117,1.211,Upper Henrys,penman
+1970,Historical Emissions,1.223,1.147,1.187,Upper Henrys,penman
+1971,Historical Emissions,1.259,1.156,1.21,Upper Henrys,penman
+1972,Historical Emissions,1.253,1.134,1.197,Upper Henrys,penman
+1973,Historical Emissions,1.288,1.119,1.185,Upper Henrys,penman
+1974,Historical Emissions,1.226,1.099,1.192,Upper Henrys,penman
+1975,Historical Emissions,1.239,1.154,1.229,Upper Henrys,penman
+1976,Historical Emissions,1.209,1.134,1.179,Upper Henrys,penman
+1977,Historical Emissions,1.287,1.142,1.225,Upper Henrys,penman
+1978,Historical Emissions,1.278,1.146,1.198,Upper Henrys,penman
+1979,Historical Emissions,1.277,1.137,1.228,Upper Henrys,penman
+1980,Historical Emissions,1.3,1.106,1.209,Upper Henrys,penman
+1981,Historical Emissions,1.275,1.18,1.233,Upper Henrys,penman
+1982,Historical Emissions,1.278,1.148,1.202,Upper Henrys,penman
+1983,Historical Emissions,1.216,1.154,1.177,Upper Henrys,penman
+1984,Historical Emissions,1.258,1.17,1.219,Upper Henrys,penman
+1985,Historical Emissions,1.268,1.182,1.232,Upper Henrys,penman
+1986,Historical Emissions,1.216,1.152,1.181,Upper Henrys,penman
+1987,Historical Emissions,1.222,1.15,1.188,Upper Henrys,penman
+1988,Historical Emissions,1.225,1.137,1.183,Upper Henrys,penman
+1989,Historical Emissions,1.264,1.149,1.2,Upper Henrys,penman
+1990,Historical Emissions,1.28,1.167,1.244,Upper Henrys,penman
+1991,Historical Emissions,1.288,1.157,1.182,Upper Henrys,penman
+1992,Historical Emissions,1.241,1.143,1.165,Upper Henrys,penman
+1993,Historical Emissions,1.229,1.145,1.156,Upper Henrys,penman
+1994,Historical Emissions,1.278,1.139,1.187,Upper Henrys,penman
+1995,Historical Emissions,1.279,1.185,1.213,Upper Henrys,penman
+1996,Historical Emissions,1.388,1.193,1.248,Upper Henrys,penman
+1997,Historical Emissions,1.255,1.164,1.193,Upper Henrys,penman
+1998,Historical Emissions,1.291,1.112,1.224,Upper Henrys,penman
+1999,Historical Emissions,1.248,1.157,1.219,Upper Henrys,penman
+2000,Historical Emissions,1.282,1.186,1.22,Upper Henrys,penman
+2001,Historical Emissions,1.291,1.171,1.253,Upper Henrys,penman
+2002,Historical Emissions,1.344,1.216,1.317,Upper Henrys,penman
+2003,Historical Emissions,1.339,1.221,1.273,Upper Henrys,penman
+2004,Historical Emissions,1.335,1.228,1.255,Upper Henrys,penman
+2005,Historical Emissions,1.385,1.202,1.283,Upper Henrys,penman
+2006,Historical Emissions,1.319,1.222,1.278,Upper Henrys,penman
+2007,Historical Emissions,1.274,1.191,1.239,Upper Henrys,penman
+2008,Historical Emissions,1.267,1.2,1.246,Upper Henrys,penman
+2009,Historical Emissions,1.27,1.215,1.242,Upper Henrys,penman
+2010,Historical Emissions,1.344,1.213,1.279,Upper Henrys,penman
+2011,Historical Emissions,1.335,1.182,1.227,Upper Henrys,penman
+2012,Historical Emissions,1.294,1.217,1.26,Upper Henrys,penman
+2013,Historical Emissions,1.368,1.238,1.297,Upper Henrys,penman
+2014,Historical Emissions,1.346,1.236,1.301,Upper Henrys,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",1.35,1.206,1.313,Upper Henrys,penman
+2015,"Middle of the Road
+(SSP2-4.5)",1.324,1.229,1.274,Upper Henrys,penman
+2015,"High Emissions
+(SSP3-7.0)",1.325,1.223,1.273,Upper Henrys,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",1.352,1.176,1.265,Upper Henrys,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",1.336,1.264,1.287,Upper Henrys,penman
+2016,"Middle of the Road
+(SSP2-4.5)",1.324,1.189,1.245,Upper Henrys,penman
+2016,"High Emissions
+(SSP3-7.0)",1.328,1.236,1.279,Upper Henrys,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",1.37,1.226,1.286,Upper Henrys,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",1.335,1.239,1.274,Upper Henrys,penman
+2017,"Middle of the Road
+(SSP2-4.5)",1.329,1.21,1.297,Upper Henrys,penman
+2017,"High Emissions
+(SSP3-7.0)",1.327,1.241,1.255,Upper Henrys,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",1.343,1.226,1.32,Upper Henrys,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",1.313,1.197,1.235,Upper Henrys,penman
+2018,"Middle of the Road
+(SSP2-4.5)",1.343,1.209,1.263,Upper Henrys,penman
+2018,"High Emissions
+(SSP3-7.0)",1.3,1.153,1.247,Upper Henrys,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",1.309,1.228,1.273,Upper Henrys,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",1.348,1.196,1.302,Upper Henrys,penman
+2019,"Middle of the Road
+(SSP2-4.5)",1.311,1.183,1.252,Upper Henrys,penman
+2019,"High Emissions
+(SSP3-7.0)",1.363,1.204,1.259,Upper Henrys,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",1.405,1.208,1.271,Upper Henrys,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",1.33,1.213,1.245,Upper Henrys,penman
+2020,"Middle of the Road
+(SSP2-4.5)",1.366,1.22,1.293,Upper Henrys,penman
+2020,"High Emissions
+(SSP3-7.0)",1.341,1.184,1.311,Upper Henrys,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",1.34,1.182,1.269,Upper Henrys,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",1.322,1.217,1.281,Upper Henrys,penman
+2021,"Middle of the Road
+(SSP2-4.5)",1.377,1.214,1.323,Upper Henrys,penman
+2021,"High Emissions
+(SSP3-7.0)",1.367,1.226,1.245,Upper Henrys,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",1.355,1.221,1.309,Upper Henrys,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",1.393,1.238,1.312,Upper Henrys,penman
+2022,"Middle of the Road
+(SSP2-4.5)",1.381,1.229,1.261,Upper Henrys,penman
+2022,"High Emissions
+(SSP3-7.0)",1.298,1.21,1.244,Upper Henrys,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",1.375,1.204,1.297,Upper Henrys,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",1.332,1.224,1.291,Upper Henrys,penman
+2023,"Middle of the Road
+(SSP2-4.5)",1.369,1.204,1.296,Upper Henrys,penman
+2023,"High Emissions
+(SSP3-7.0)",1.332,1.255,1.284,Upper Henrys,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",1.318,1.219,1.257,Upper Henrys,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",1.365,1.235,1.261,Upper Henrys,penman
+2024,"Middle of the Road
+(SSP2-4.5)",1.296,1.23,1.253,Upper Henrys,penman
+2024,"High Emissions
+(SSP3-7.0)",1.416,1.241,1.294,Upper Henrys,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",1.363,1.242,1.301,Upper Henrys,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",1.391,1.264,1.298,Upper Henrys,penman
+2025,"Middle of the Road
+(SSP2-4.5)",1.341,1.224,1.279,Upper Henrys,penman
+2025,"High Emissions
+(SSP3-7.0)",1.432,1.237,1.32,Upper Henrys,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",1.365,1.248,1.313,Upper Henrys,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",1.365,1.235,1.313,Upper Henrys,penman
+2026,"Middle of the Road
+(SSP2-4.5)",1.37,1.274,1.329,Upper Henrys,penman
+2026,"High Emissions
+(SSP3-7.0)",1.3,1.195,1.264,Upper Henrys,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",1.35,1.207,1.291,Upper Henrys,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",1.359,1.22,1.257,Upper Henrys,penman
+2027,"Middle of the Road
+(SSP2-4.5)",1.464,1.214,1.335,Upper Henrys,penman
+2027,"High Emissions
+(SSP3-7.0)",1.348,1.218,1.285,Upper Henrys,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",1.377,1.258,1.316,Upper Henrys,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",1.396,1.234,1.289,Upper Henrys,penman
+2028,"Middle of the Road
+(SSP2-4.5)",1.309,1.196,1.252,Upper Henrys,penman
+2028,"High Emissions
+(SSP3-7.0)",1.363,1.271,1.306,Upper Henrys,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",1.343,1.215,1.281,Upper Henrys,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",1.391,1.261,1.327,Upper Henrys,penman
+2029,"Middle of the Road
+(SSP2-4.5)",1.377,1.217,1.279,Upper Henrys,penman
+2029,"High Emissions
+(SSP3-7.0)",1.356,1.2,1.296,Upper Henrys,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",1.35,1.24,1.312,Upper Henrys,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",1.344,1.224,1.296,Upper Henrys,penman
+2030,"Middle of the Road
+(SSP2-4.5)",1.365,1.252,1.313,Upper Henrys,penman
+2030,"High Emissions
+(SSP3-7.0)",1.408,1.252,1.307,Upper Henrys,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",1.392,1.259,1.321,Upper Henrys,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",1.359,1.241,1.305,Upper Henrys,penman
+2031,"Middle of the Road
+(SSP2-4.5)",1.38,1.218,1.301,Upper Henrys,penman
+2031,"High Emissions
+(SSP3-7.0)",1.404,1.225,1.331,Upper Henrys,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",1.385,1.283,1.36,Upper Henrys,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",1.387,1.189,1.311,Upper Henrys,penman
+2032,"Middle of the Road
+(SSP2-4.5)",1.334,1.196,1.263,Upper Henrys,penman
+2032,"High Emissions
+(SSP3-7.0)",1.355,1.231,1.317,Upper Henrys,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",1.366,1.227,1.303,Upper Henrys,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",1.369,1.264,1.338,Upper Henrys,penman
+2033,"Middle of the Road
+(SSP2-4.5)",1.399,1.221,1.35,Upper Henrys,penman
+2033,"High Emissions
+(SSP3-7.0)",1.361,1.207,1.254,Upper Henrys,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",1.424,1.257,1.336,Upper Henrys,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",1.349,1.238,1.294,Upper Henrys,penman
+2034,"Middle of the Road
+(SSP2-4.5)",1.359,1.194,1.305,Upper Henrys,penman
+2034,"High Emissions
+(SSP3-7.0)",1.4,1.219,1.318,Upper Henrys,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",1.434,1.211,1.337,Upper Henrys,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",1.356,1.247,1.279,Upper Henrys,penman
+2035,"Middle of the Road
+(SSP2-4.5)",1.387,1.266,1.344,Upper Henrys,penman
+2035,"High Emissions
+(SSP3-7.0)",1.357,1.255,1.313,Upper Henrys,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",1.356,1.273,1.334,Upper Henrys,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",1.321,1.239,1.276,Upper Henrys,penman
+2036,"Middle of the Road
+(SSP2-4.5)",1.371,1.233,1.317,Upper Henrys,penman
+2036,"High Emissions
+(SSP3-7.0)",1.345,1.255,1.311,Upper Henrys,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",1.357,1.243,1.296,Upper Henrys,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",1.328,1.237,1.306,Upper Henrys,penman
+2037,"Middle of the Road
+(SSP2-4.5)",1.362,1.239,1.29,Upper Henrys,penman
+2037,"High Emissions
+(SSP3-7.0)",1.398,1.229,1.272,Upper Henrys,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",1.382,1.279,1.343,Upper Henrys,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",1.385,1.249,1.259,Upper Henrys,penman
+2038,"Middle of the Road
+(SSP2-4.5)",1.361,1.235,1.29,Upper Henrys,penman
+2038,"High Emissions
+(SSP3-7.0)",1.435,1.252,1.338,Upper Henrys,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",1.391,1.252,1.33,Upper Henrys,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",1.361,1.197,1.276,Upper Henrys,penman
+2039,"Middle of the Road
+(SSP2-4.5)",1.302,1.24,1.273,Upper Henrys,penman
+2039,"High Emissions
+(SSP3-7.0)",1.422,1.24,1.337,Upper Henrys,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",1.413,1.17,1.284,Upper Henrys,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",1.422,1.205,1.318,Upper Henrys,penman
+2040,"Middle of the Road
+(SSP2-4.5)",1.416,1.26,1.332,Upper Henrys,penman
+2040,"High Emissions
+(SSP3-7.0)",1.389,1.24,1.315,Upper Henrys,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",1.397,1.262,1.295,Upper Henrys,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",1.399,1.201,1.297,Upper Henrys,penman
+2041,"Middle of the Road
+(SSP2-4.5)",1.417,1.212,1.33,Upper Henrys,penman
+2041,"High Emissions
+(SSP3-7.0)",1.379,1.239,1.276,Upper Henrys,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",1.388,1.255,1.316,Upper Henrys,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",1.419,1.198,1.303,Upper Henrys,penman
+2042,"Middle of the Road
+(SSP2-4.5)",1.397,1.226,1.331,Upper Henrys,penman
+2042,"High Emissions
+(SSP3-7.0)",1.403,1.253,1.325,Upper Henrys,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",1.465,1.27,1.312,Upper Henrys,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",1.378,1.209,1.321,Upper Henrys,penman
+2043,"Middle of the Road
+(SSP2-4.5)",1.36,1.275,1.316,Upper Henrys,penman
+2043,"High Emissions
+(SSP3-7.0)",1.417,1.245,1.314,Upper Henrys,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",1.376,1.286,1.327,Upper Henrys,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",1.462,1.228,1.325,Upper Henrys,penman
+2044,"Middle of the Road
+(SSP2-4.5)",1.433,1.273,1.326,Upper Henrys,penman
+2044,"High Emissions
+(SSP3-7.0)",1.382,1.282,1.346,Upper Henrys,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",1.421,1.278,1.363,Upper Henrys,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",1.386,1.26,1.312,Upper Henrys,penman
+2045,"Middle of the Road
+(SSP2-4.5)",1.462,1.246,1.303,Upper Henrys,penman
+2045,"High Emissions
+(SSP3-7.0)",1.405,1.233,1.365,Upper Henrys,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",1.418,1.288,1.3,Upper Henrys,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",1.435,1.271,1.331,Upper Henrys,penman
+2046,"Middle of the Road
+(SSP2-4.5)",1.38,1.259,1.329,Upper Henrys,penman
+2046,"High Emissions
+(SSP3-7.0)",1.407,1.295,1.337,Upper Henrys,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",1.436,1.216,1.29,Upper Henrys,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",1.383,1.253,1.32,Upper Henrys,penman
+2047,"Middle of the Road
+(SSP2-4.5)",1.402,1.244,1.281,Upper Henrys,penman
+2047,"High Emissions
+(SSP3-7.0)",1.435,1.273,1.324,Upper Henrys,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",1.454,1.272,1.333,Upper Henrys,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",1.373,1.251,1.275,Upper Henrys,penman
+2048,"Middle of the Road
+(SSP2-4.5)",1.396,1.249,1.317,Upper Henrys,penman
+2048,"High Emissions
+(SSP3-7.0)",1.426,1.247,1.306,Upper Henrys,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",1.557,1.234,1.408,Upper Henrys,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",1.408,1.217,1.325,Upper Henrys,penman
+2049,"Middle of the Road
+(SSP2-4.5)",1.397,1.211,1.347,Upper Henrys,penman
+2049,"High Emissions
+(SSP3-7.0)",1.406,1.268,1.347,Upper Henrys,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",1.364,1.292,1.332,Upper Henrys,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",1.408,1.234,1.278,Upper Henrys,penman
+2050,"Middle of the Road
+(SSP2-4.5)",1.411,1.29,1.383,Upper Henrys,penman
+2050,"High Emissions
+(SSP3-7.0)",1.427,1.27,1.334,Upper Henrys,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",1.397,1.263,1.355,Upper Henrys,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",1.382,1.219,1.306,Upper Henrys,penman
+2051,"Middle of the Road
+(SSP2-4.5)",1.437,1.247,1.316,Upper Henrys,penman
+2051,"High Emissions
+(SSP3-7.0)",1.375,1.264,1.335,Upper Henrys,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",1.429,1.266,1.365,Upper Henrys,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",1.395,1.242,1.294,Upper Henrys,penman
+2052,"Middle of the Road
+(SSP2-4.5)",1.411,1.231,1.302,Upper Henrys,penman
+2052,"High Emissions
+(SSP3-7.0)",1.334,1.247,1.282,Upper Henrys,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",1.387,1.298,1.33,Upper Henrys,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",1.458,1.21,1.312,Upper Henrys,penman
+2053,"Middle of the Road
+(SSP2-4.5)",1.421,1.202,1.338,Upper Henrys,penman
+2053,"High Emissions
+(SSP3-7.0)",1.484,1.302,1.392,Upper Henrys,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",1.458,1.252,1.32,Upper Henrys,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",1.397,1.273,1.332,Upper Henrys,penman
+2054,"Middle of the Road
+(SSP2-4.5)",1.381,1.254,1.322,Upper Henrys,penman
+2054,"High Emissions
+(SSP3-7.0)",1.42,1.225,1.306,Upper Henrys,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",1.495,1.277,1.359,Upper Henrys,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",1.427,1.278,1.332,Upper Henrys,penman
+2055,"Middle of the Road
+(SSP2-4.5)",1.406,1.24,1.324,Upper Henrys,penman
+2055,"High Emissions
+(SSP3-7.0)",1.421,1.295,1.322,Upper Henrys,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",1.459,1.311,1.367,Upper Henrys,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",1.39,1.219,1.328,Upper Henrys,penman
+2056,"Middle of the Road
+(SSP2-4.5)",1.432,1.267,1.359,Upper Henrys,penman
+2056,"High Emissions
+(SSP3-7.0)",1.355,1.293,1.316,Upper Henrys,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",1.387,1.317,1.331,Upper Henrys,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",1.362,1.19,1.289,Upper Henrys,penman
+2057,"Middle of the Road
+(SSP2-4.5)",1.413,1.321,1.367,Upper Henrys,penman
+2057,"High Emissions
+(SSP3-7.0)",1.382,1.245,1.321,Upper Henrys,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",1.454,1.28,1.337,Upper Henrys,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",1.395,1.232,1.335,Upper Henrys,penman
+2058,"Middle of the Road
+(SSP2-4.5)",1.46,1.255,1.356,Upper Henrys,penman
+2058,"High Emissions
+(SSP3-7.0)",1.396,1.251,1.299,Upper Henrys,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",1.448,1.227,1.338,Upper Henrys,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",1.432,1.265,1.358,Upper Henrys,penman
+2059,"Middle of the Road
+(SSP2-4.5)",1.483,1.282,1.335,Upper Henrys,penman
+2059,"High Emissions
+(SSP3-7.0)",1.422,1.296,1.315,Upper Henrys,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",1.44,1.328,1.365,Upper Henrys,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",1.357,1.277,1.315,Upper Henrys,penman
+2060,"Middle of the Road
+(SSP2-4.5)",1.481,1.201,1.308,Upper Henrys,penman
+2060,"High Emissions
+(SSP3-7.0)",1.414,1.228,1.335,Upper Henrys,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",1.425,1.287,1.354,Upper Henrys,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",1.359,1.231,1.314,Upper Henrys,penman
+2061,"Middle of the Road
+(SSP2-4.5)",1.418,1.224,1.319,Upper Henrys,penman
+2061,"High Emissions
+(SSP3-7.0)",1.392,1.295,1.348,Upper Henrys,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",1.447,1.333,1.403,Upper Henrys,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",1.4,1.242,1.311,Upper Henrys,penman
+2062,"Middle of the Road
+(SSP2-4.5)",1.406,1.273,1.322,Upper Henrys,penman
+2062,"High Emissions
+(SSP3-7.0)",1.425,1.283,1.34,Upper Henrys,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",1.435,1.316,1.402,Upper Henrys,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",1.4,1.271,1.321,Upper Henrys,penman
+2063,"Middle of the Road
+(SSP2-4.5)",1.384,1.233,1.329,Upper Henrys,penman
+2063,"High Emissions
+(SSP3-7.0)",1.4,1.306,1.364,Upper Henrys,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",1.459,1.306,1.376,Upper Henrys,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",1.436,1.258,1.337,Upper Henrys,penman
+2064,"Middle of the Road
+(SSP2-4.5)",1.373,1.23,1.349,Upper Henrys,penman
+2064,"High Emissions
+(SSP3-7.0)",1.408,1.264,1.38,Upper Henrys,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",1.466,1.283,1.391,Upper Henrys,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",1.399,1.24,1.321,Upper Henrys,penman
+2065,"Middle of the Road
+(SSP2-4.5)",1.397,1.264,1.335,Upper Henrys,penman
+2065,"High Emissions
+(SSP3-7.0)",1.408,1.325,1.387,Upper Henrys,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",1.496,1.331,1.419,Upper Henrys,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",1.396,1.271,1.325,Upper Henrys,penman
+2066,"Middle of the Road
+(SSP2-4.5)",1.428,1.305,1.325,Upper Henrys,penman
+2066,"High Emissions
+(SSP3-7.0)",1.421,1.261,1.378,Upper Henrys,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",1.53,1.323,1.403,Upper Henrys,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",1.368,1.292,1.33,Upper Henrys,penman
+2067,"Middle of the Road
+(SSP2-4.5)",1.452,1.258,1.309,Upper Henrys,penman
+2067,"High Emissions
+(SSP3-7.0)",1.568,1.292,1.38,Upper Henrys,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",1.515,1.325,1.355,Upper Henrys,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",1.391,1.28,1.323,Upper Henrys,penman
+2068,"Middle of the Road
+(SSP2-4.5)",1.439,1.243,1.327,Upper Henrys,penman
+2068,"High Emissions
+(SSP3-7.0)",1.412,1.289,1.345,Upper Henrys,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",1.446,1.284,1.396,Upper Henrys,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",1.415,1.274,1.345,Upper Henrys,penman
+2069,"Middle of the Road
+(SSP2-4.5)",1.448,1.213,1.342,Upper Henrys,penman
+2069,"High Emissions
+(SSP3-7.0)",1.537,1.348,1.428,Upper Henrys,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",1.539,1.279,1.418,Upper Henrys,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",1.351,1.246,1.284,Upper Henrys,penman
+2070,"Middle of the Road
+(SSP2-4.5)",1.38,1.257,1.322,Upper Henrys,penman
+2070,"High Emissions
+(SSP3-7.0)",1.466,1.33,1.384,Upper Henrys,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",1.468,1.321,1.354,Upper Henrys,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",1.406,1.246,1.346,Upper Henrys,penman
+2071,"Middle of the Road
+(SSP2-4.5)",1.409,1.285,1.318,Upper Henrys,penman
+2071,"High Emissions
+(SSP3-7.0)",1.501,1.314,1.37,Upper Henrys,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",1.477,1.357,1.393,Upper Henrys,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",1.415,1.258,1.32,Upper Henrys,penman
+2072,"Middle of the Road
+(SSP2-4.5)",1.392,1.299,1.332,Upper Henrys,penman
+2072,"High Emissions
+(SSP3-7.0)",1.514,1.258,1.332,Upper Henrys,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",1.487,1.328,1.42,Upper Henrys,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",1.38,1.249,1.319,Upper Henrys,penman
+2073,"Middle of the Road
+(SSP2-4.5)",1.428,1.226,1.335,Upper Henrys,penman
+2073,"High Emissions
+(SSP3-7.0)",1.455,1.307,1.38,Upper Henrys,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",1.548,1.32,1.357,Upper Henrys,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",1.392,1.204,1.333,Upper Henrys,penman
+2074,"Middle of the Road
+(SSP2-4.5)",1.434,1.267,1.369,Upper Henrys,penman
+2074,"High Emissions
+(SSP3-7.0)",1.404,1.285,1.334,Upper Henrys,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",1.555,1.354,1.42,Upper Henrys,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",1.402,1.205,1.271,Upper Henrys,penman
+2075,"Middle of the Road
+(SSP2-4.5)",1.464,1.253,1.344,Upper Henrys,penman
+2075,"High Emissions
+(SSP3-7.0)",1.449,1.266,1.388,Upper Henrys,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",1.53,1.329,1.383,Upper Henrys,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",1.357,1.237,1.304,Upper Henrys,penman
+2076,"Middle of the Road
+(SSP2-4.5)",1.368,1.268,1.303,Upper Henrys,penman
+2076,"High Emissions
+(SSP3-7.0)",1.499,1.333,1.38,Upper Henrys,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",1.57,1.324,1.396,Upper Henrys,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",1.411,1.269,1.323,Upper Henrys,penman
+2077,"Middle of the Road
+(SSP2-4.5)",1.453,1.262,1.398,Upper Henrys,penman
+2077,"High Emissions
+(SSP3-7.0)",1.479,1.306,1.35,Upper Henrys,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",1.57,1.384,1.435,Upper Henrys,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",1.436,1.306,1.344,Upper Henrys,penman
+2078,"Middle of the Road
+(SSP2-4.5)",1.484,1.281,1.391,Upper Henrys,penman
+2078,"High Emissions
+(SSP3-7.0)",1.478,1.343,1.396,Upper Henrys,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",1.503,1.336,1.406,Upper Henrys,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",1.413,1.262,1.318,Upper Henrys,penman
+2079,"Middle of the Road
+(SSP2-4.5)",1.511,1.3,1.369,Upper Henrys,penman
+2079,"High Emissions
+(SSP3-7.0)",1.429,1.296,1.351,Upper Henrys,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",1.556,1.336,1.411,Upper Henrys,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",1.36,1.227,1.282,Upper Henrys,penman
+2080,"Middle of the Road
+(SSP2-4.5)",1.484,1.225,1.354,Upper Henrys,penman
+2080,"High Emissions
+(SSP3-7.0)",1.485,1.337,1.388,Upper Henrys,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",1.533,1.379,1.475,Upper Henrys,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",1.38,1.253,1.322,Upper Henrys,penman
+2081,"Middle of the Road
+(SSP2-4.5)",1.433,1.293,1.325,Upper Henrys,penman
+2081,"High Emissions
+(SSP3-7.0)",1.531,1.313,1.382,Upper Henrys,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",1.512,1.36,1.44,Upper Henrys,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",1.403,1.253,1.344,Upper Henrys,penman
+2082,"Middle of the Road
+(SSP2-4.5)",1.41,1.264,1.336,Upper Henrys,penman
+2082,"High Emissions
+(SSP3-7.0)",1.493,1.296,1.376,Upper Henrys,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",1.544,1.376,1.448,Upper Henrys,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",1.402,1.275,1.354,Upper Henrys,penman
+2083,"Middle of the Road
+(SSP2-4.5)",1.42,1.256,1.382,Upper Henrys,penman
+2083,"High Emissions
+(SSP3-7.0)",1.46,1.288,1.388,Upper Henrys,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",1.537,1.331,1.422,Upper Henrys,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",1.445,1.206,1.282,Upper Henrys,penman
+2084,"Middle of the Road
+(SSP2-4.5)",1.488,1.307,1.414,Upper Henrys,penman
+2084,"High Emissions
+(SSP3-7.0)",1.543,1.348,1.433,Upper Henrys,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",1.525,1.338,1.44,Upper Henrys,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",1.423,1.223,1.273,Upper Henrys,penman
+2085,"Middle of the Road
+(SSP2-4.5)",1.447,1.219,1.4,Upper Henrys,penman
+2085,"High Emissions
+(SSP3-7.0)",1.454,1.354,1.397,Upper Henrys,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",1.533,1.323,1.419,Upper Henrys,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",1.329,1.259,1.303,Upper Henrys,penman
+2086,"Middle of the Road
+(SSP2-4.5)",1.445,1.293,1.358,Upper Henrys,penman
+2086,"High Emissions
+(SSP3-7.0)",1.512,1.312,1.402,Upper Henrys,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",1.557,1.372,1.488,Upper Henrys,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",1.396,1.239,1.319,Upper Henrys,penman
+2087,"Middle of the Road
+(SSP2-4.5)",1.408,1.234,1.367,Upper Henrys,penman
+2087,"High Emissions
+(SSP3-7.0)",1.563,1.287,1.369,Upper Henrys,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",1.575,1.387,1.457,Upper Henrys,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",1.359,1.243,1.294,Upper Henrys,penman
+2088,"Middle of the Road
+(SSP2-4.5)",1.443,1.292,1.348,Upper Henrys,penman
+2088,"High Emissions
+(SSP3-7.0)",1.554,1.331,1.386,Upper Henrys,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",1.598,1.382,1.487,Upper Henrys,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",1.374,1.232,1.335,Upper Henrys,penman
+2089,"Middle of the Road
+(SSP2-4.5)",1.504,1.233,1.355,Upper Henrys,penman
+2089,"High Emissions
+(SSP3-7.0)",1.555,1.378,1.435,Upper Henrys,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",1.552,1.379,1.466,Upper Henrys,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",1.366,1.254,1.314,Upper Henrys,penman
+2090,"Middle of the Road
+(SSP2-4.5)",1.455,1.272,1.343,Upper Henrys,penman
+2090,"High Emissions
+(SSP3-7.0)",1.593,1.382,1.542,Upper Henrys,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",1.541,1.383,1.438,Upper Henrys,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",1.425,1.255,1.313,Upper Henrys,penman
+2091,"Middle of the Road
+(SSP2-4.5)",1.461,1.304,1.359,Upper Henrys,penman
+2091,"High Emissions
+(SSP3-7.0)",1.516,1.356,1.439,Upper Henrys,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",1.586,1.367,1.434,Upper Henrys,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",1.394,1.228,1.321,Upper Henrys,penman
+2092,"Middle of the Road
+(SSP2-4.5)",1.482,1.298,1.401,Upper Henrys,penman
+2092,"High Emissions
+(SSP3-7.0)",1.504,1.375,1.448,Upper Henrys,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",1.562,1.367,1.491,Upper Henrys,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",1.409,1.263,1.304,Upper Henrys,penman
+2093,"Middle of the Road
+(SSP2-4.5)",1.496,1.303,1.359,Upper Henrys,penman
+2093,"High Emissions
+(SSP3-7.0)",1.468,1.327,1.383,Upper Henrys,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",1.623,1.387,1.43,Upper Henrys,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",1.458,1.218,1.267,Upper Henrys,penman
+2094,"Middle of the Road
+(SSP2-4.5)",1.502,1.233,1.391,Upper Henrys,penman
+2094,"High Emissions
+(SSP3-7.0)",1.499,1.329,1.426,Upper Henrys,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",1.591,1.382,1.467,Upper Henrys,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",1.409,1.28,1.321,Upper Henrys,penman
+2095,"Middle of the Road
+(SSP2-4.5)",1.471,1.308,1.408,Upper Henrys,penman
+2095,"High Emissions
+(SSP3-7.0)",1.556,1.369,1.437,Upper Henrys,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",1.58,1.407,1.478,Upper Henrys,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",1.371,1.238,1.321,Upper Henrys,penman
+2096,"Middle of the Road
+(SSP2-4.5)",1.489,1.321,1.396,Upper Henrys,penman
+2096,"High Emissions
+(SSP3-7.0)",1.536,1.366,1.451,Upper Henrys,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",1.655,1.371,1.445,Upper Henrys,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",1.41,1.254,1.311,Upper Henrys,penman
+2097,"Middle of the Road
+(SSP2-4.5)",1.514,1.321,1.407,Upper Henrys,penman
+2097,"High Emissions
+(SSP3-7.0)",1.538,1.339,1.47,Upper Henrys,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",1.594,1.427,1.468,Upper Henrys,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",1.374,1.26,1.301,Upper Henrys,penman
+2098,"Middle of the Road
+(SSP2-4.5)",1.431,1.259,1.36,Upper Henrys,penman
+2098,"High Emissions
+(SSP3-7.0)",1.54,1.349,1.415,Upper Henrys,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",1.549,1.457,1.486,Upper Henrys,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",1.391,1.223,1.337,Upper Henrys,penman
+2099,"Middle of the Road
+(SSP2-4.5)",1.413,1.293,1.35,Upper Henrys,penman
+2099,"High Emissions
+(SSP3-7.0)",1.509,1.347,1.401,Upper Henrys,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",1.605,1.427,1.53,Upper Henrys,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",1.464,1.232,1.278,Upper Henrys,penman
+2100,"Middle of the Road
+(SSP2-4.5)",1.489,1.298,1.361,Upper Henrys,penman
+2100,"High Emissions
+(SSP3-7.0)",1.501,1.37,1.41,Upper Henrys,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",1.551,1.414,1.471,Upper Henrys,penman

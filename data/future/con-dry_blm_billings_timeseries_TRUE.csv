@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,24.26,15.46,20.602,Billings,con-dry
+1951,Historical Emissions,32.412,16.68,19.687,Billings,con-dry
+1952,Historical Emissions,25.169,16.776,18.386,Billings,con-dry
+1953,Historical Emissions,24.624,15.997,19.542,Billings,con-dry
+1954,Historical Emissions,28.102,11.031,18.687,Billings,con-dry
+1955,Historical Emissions,31.532,13.583,20,Billings,con-dry
+1956,Historical Emissions,28.899,14.089,25.084,Billings,con-dry
+1957,Historical Emissions,27.793,13.853,21.108,Billings,con-dry
+1958,Historical Emissions,24.339,16.147,20.096,Billings,con-dry
+1959,Historical Emissions,21.246,11.873,15.072,Billings,con-dry
+1960,Historical Emissions,27.022,14.262,15.663,Billings,con-dry
+1961,Historical Emissions,25.455,14.219,21.976,Billings,con-dry
+1962,Historical Emissions,33.241,14.848,20.289,Billings,con-dry
+1963,Historical Emissions,21.807,14.889,19.301,Billings,con-dry
+1964,Historical Emissions,26.824,18.458,20.06,Billings,con-dry
+1965,Historical Emissions,29.161,15.627,19.627,Billings,con-dry
+1966,Historical Emissions,30.687,14.544,22.663,Billings,con-dry
+1967,Historical Emissions,33.527,15.908,18.313,Billings,con-dry
+1968,Historical Emissions,21.709,16.132,18.084,Billings,con-dry
+1969,Historical Emissions,23.299,16.458,18.807,Billings,con-dry
+1970,Historical Emissions,27.22,14.672,19.325,Billings,con-dry
+1971,Historical Emissions,30.826,17.675,26.422,Billings,con-dry
+1972,Historical Emissions,26.718,19.043,21.289,Billings,con-dry
+1973,Historical Emissions,32.359,12.882,17.313,Billings,con-dry
+1974,Historical Emissions,29.663,14.181,19.072,Billings,con-dry
+1975,Historical Emissions,25.277,16.839,20.157,Billings,con-dry
+1976,Historical Emissions,22.983,14.691,15.759,Billings,con-dry
+1977,Historical Emissions,26.318,15.239,17.325,Billings,con-dry
+1978,Historical Emissions,25.379,13.658,18.928,Billings,con-dry
+1979,Historical Emissions,34.853,17.486,22.265,Billings,con-dry
+1980,Historical Emissions,24.306,12.61,18.675,Billings,con-dry
+1981,Historical Emissions,25.482,15.188,19.494,Billings,con-dry
+1982,Historical Emissions,25.461,13.805,18.012,Billings,con-dry
+1983,Historical Emissions,35.147,15.2,23.651,Billings,con-dry
+1984,Historical Emissions,25.993,17.887,20.265,Billings,con-dry
+1985,Historical Emissions,26.629,14.673,21.313,Billings,con-dry
+1986,Historical Emissions,20.979,15.113,17.229,Billings,con-dry
+1987,Historical Emissions,29.19,13.162,16.482,Billings,con-dry
+1988,Historical Emissions,24.819,14.511,17.807,Billings,con-dry
+1989,Historical Emissions,24.048,14.528,18.133,Billings,con-dry
+1990,Historical Emissions,28.537,16.074,18.494,Billings,con-dry
+1991,Historical Emissions,27.082,16.221,24.265,Billings,con-dry
+1992,Historical Emissions,30.065,17.672,20.892,Billings,con-dry
+1993,Historical Emissions,28.027,15.02,19.169,Billings,con-dry
+1994,Historical Emissions,22.335,13.976,17.651,Billings,con-dry
+1995,Historical Emissions,23.749,17.868,22.554,Billings,con-dry
+1996,Historical Emissions,40.998,16.056,26.94,Billings,con-dry
+1997,Historical Emissions,28.039,13.41,21.084,Billings,con-dry
+1998,Historical Emissions,29.697,14.962,17.663,Billings,con-dry
+1999,Historical Emissions,27.752,15.597,20.518,Billings,con-dry
+2000,Historical Emissions,28.624,16.345,21.735,Billings,con-dry
+2001,Historical Emissions,23.383,13.973,19.072,Billings,con-dry
+2002,Historical Emissions,22.612,15.267,18.108,Billings,con-dry
+2003,Historical Emissions,26.788,15.484,16.867,Billings,con-dry
+2004,Historical Emissions,32.214,13.236,17.675,Billings,con-dry
+2005,Historical Emissions,32.058,15.814,22.337,Billings,con-dry
+2006,Historical Emissions,23.877,14.6,17.855,Billings,con-dry
+2007,Historical Emissions,23.653,16.335,16.928,Billings,con-dry
+2008,Historical Emissions,23.161,13.947,19.253,Billings,con-dry
+2009,Historical Emissions,21.318,13.27,16.771,Billings,con-dry
+2010,Historical Emissions,25.586,14.588,18.518,Billings,con-dry
+2011,Historical Emissions,24.916,16.456,19.145,Billings,con-dry
+2012,Historical Emissions,25.899,13.489,19.831,Billings,con-dry
+2013,Historical Emissions,20.352,13.014,19.048,Billings,con-dry
+2014,Historical Emissions,41.771,14.316,19.145,Billings,con-dry
+2015,"Moderating Emissions
+(SSP1-2.6)",38.32,14.571,22.446,Billings,con-dry
+2015,"Middle of the Road
+(SSP2-4.5)",31.978,17.769,24.639,Billings,con-dry
+2015,"High Emissions
+(SSP3-7.0)",26.159,14.366,17.41,Billings,con-dry
+2015,"Accelerating Emissions
+(SSP5-8.5)",28.352,14.824,17.602,Billings,con-dry
+2016,"Moderating Emissions
+(SSP1-2.6)",35.793,14.474,18.518,Billings,con-dry
+2016,"Middle of the Road
+(SSP2-4.5)",22.988,13.638,17.145,Billings,con-dry
+2016,"High Emissions
+(SSP3-7.0)",32.11,15.856,19.157,Billings,con-dry
+2016,"Accelerating Emissions
+(SSP5-8.5)",24.574,15.311,17.446,Billings,con-dry
+2017,"Moderating Emissions
+(SSP1-2.6)",31.957,16.224,20.108,Billings,con-dry
+2017,"Middle of the Road
+(SSP2-4.5)",32.169,13.701,20.482,Billings,con-dry
+2017,"High Emissions
+(SSP3-7.0)",28.829,12.622,22.373,Billings,con-dry
+2017,"Accelerating Emissions
+(SSP5-8.5)",21.274,14.636,16.699,Billings,con-dry
+2018,"Moderating Emissions
+(SSP1-2.6)",27.911,15.13,21.976,Billings,con-dry
+2018,"Middle of the Road
+(SSP2-4.5)",22.884,15.827,17.084,Billings,con-dry
+2018,"High Emissions
+(SSP3-7.0)",22.306,15.58,17.952,Billings,con-dry
+2018,"Accelerating Emissions
+(SSP5-8.5)",26.212,15.932,17.928,Billings,con-dry
+2019,"Moderating Emissions
+(SSP1-2.6)",35.289,17.272,25.843,Billings,con-dry
+2019,"Middle of the Road
+(SSP2-4.5)",28.294,16.491,21.759,Billings,con-dry
+2019,"High Emissions
+(SSP3-7.0)",29.456,16.829,20.289,Billings,con-dry
+2019,"Accelerating Emissions
+(SSP5-8.5)",32.046,15.28,19.325,Billings,con-dry
+2020,"Moderating Emissions
+(SSP1-2.6)",27.465,15.451,17.554,Billings,con-dry
+2020,"Middle of the Road
+(SSP2-4.5)",21.056,12.313,17.06,Billings,con-dry
+2020,"High Emissions
+(SSP3-7.0)",22.749,14.914,18.157,Billings,con-dry
+2020,"Accelerating Emissions
+(SSP5-8.5)",24.08,14.559,18.241,Billings,con-dry
+2021,"Moderating Emissions
+(SSP1-2.6)",35.434,14.81,24.229,Billings,con-dry
+2021,"Middle of the Road
+(SSP2-4.5)",34.238,16.957,21.012,Billings,con-dry
+2021,"High Emissions
+(SSP3-7.0)",40.477,15.59,21.06,Billings,con-dry
+2021,"Accelerating Emissions
+(SSP5-8.5)",34.286,14.785,19.337,Billings,con-dry
+2022,"Moderating Emissions
+(SSP1-2.6)",24.14,16.602,20.506,Billings,con-dry
+2022,"Middle of the Road
+(SSP2-4.5)",25.115,13.754,19.627,Billings,con-dry
+2022,"High Emissions
+(SSP3-7.0)",27.181,14.111,18.614,Billings,con-dry
+2022,"Accelerating Emissions
+(SSP5-8.5)",44.229,14.961,21.313,Billings,con-dry
+2023,"Moderating Emissions
+(SSP1-2.6)",33.995,14.935,19.06,Billings,con-dry
+2023,"Middle of the Road
+(SSP2-4.5)",31.215,14.22,20.12,Billings,con-dry
+2023,"High Emissions
+(SSP3-7.0)",27.051,14.52,19.217,Billings,con-dry
+2023,"Accelerating Emissions
+(SSP5-8.5)",25.981,13.595,15.253,Billings,con-dry
+2024,"Moderating Emissions
+(SSP1-2.6)",24.104,16.361,20.735,Billings,con-dry
+2024,"Middle of the Road
+(SSP2-4.5)",25.284,14.805,19.843,Billings,con-dry
+2024,"High Emissions
+(SSP3-7.0)",30.374,16.135,20.349,Billings,con-dry
+2024,"Accelerating Emissions
+(SSP5-8.5)",27.096,15.545,20.217,Billings,con-dry
+2025,"Moderating Emissions
+(SSP1-2.6)",28.27,13.832,19.373,Billings,con-dry
+2025,"Middle of the Road
+(SSP2-4.5)",22.135,13.467,16.651,Billings,con-dry
+2025,"High Emissions
+(SSP3-7.0)",35.079,16.535,23.807,Billings,con-dry
+2025,"Accelerating Emissions
+(SSP5-8.5)",29.86,16.916,20.06,Billings,con-dry
+2026,"Moderating Emissions
+(SSP1-2.6)",22.012,15.928,19.41,Billings,con-dry
+2026,"Middle of the Road
+(SSP2-4.5)",29.024,14.415,16.241,Billings,con-dry
+2026,"High Emissions
+(SSP3-7.0)",25.908,13.791,16.048,Billings,con-dry
+2026,"Accelerating Emissions
+(SSP5-8.5)",27.33,17.694,20.277,Billings,con-dry
+2027,"Moderating Emissions
+(SSP1-2.6)",38.708,15.824,20.193,Billings,con-dry
+2027,"Middle of the Road
+(SSP2-4.5)",30.323,14.668,19.928,Billings,con-dry
+2027,"High Emissions
+(SSP3-7.0)",23.126,14.643,19.807,Billings,con-dry
+2027,"Accelerating Emissions
+(SSP5-8.5)",26.527,13.897,22.675,Billings,con-dry
+2028,"Moderating Emissions
+(SSP1-2.6)",25.181,16.877,18.699,Billings,con-dry
+2028,"Middle of the Road
+(SSP2-4.5)",22.986,14.4,19.614,Billings,con-dry
+2028,"High Emissions
+(SSP3-7.0)",32.81,16.217,21.036,Billings,con-dry
+2028,"Accelerating Emissions
+(SSP5-8.5)",21.783,16.559,19.566,Billings,con-dry
+2029,"Moderating Emissions
+(SSP1-2.6)",25.12,16.085,22.253,Billings,con-dry
+2029,"Middle of the Road
+(SSP2-4.5)",31.761,16.576,20.229,Billings,con-dry
+2029,"High Emissions
+(SSP3-7.0)",27.713,14.957,25.157,Billings,con-dry
+2029,"Accelerating Emissions
+(SSP5-8.5)",25.443,14.431,17.458,Billings,con-dry
+2030,"Moderating Emissions
+(SSP1-2.6)",28.797,16.4,20.759,Billings,con-dry
+2030,"Middle of the Road
+(SSP2-4.5)",31.66,17.496,18.771,Billings,con-dry
+2030,"High Emissions
+(SSP3-7.0)",30.932,15.579,18.398,Billings,con-dry
+2030,"Accelerating Emissions
+(SSP5-8.5)",29.282,18.716,20.687,Billings,con-dry
+2031,"Moderating Emissions
+(SSP1-2.6)",36.14,14.021,22.735,Billings,con-dry
+2031,"Middle of the Road
+(SSP2-4.5)",25.795,15.328,19.434,Billings,con-dry
+2031,"High Emissions
+(SSP3-7.0)",40.93,16.957,21.108,Billings,con-dry
+2031,"Accelerating Emissions
+(SSP5-8.5)",25.663,18.022,22.47,Billings,con-dry
+2032,"Moderating Emissions
+(SSP1-2.6)",25.265,14.894,20.12,Billings,con-dry
+2032,"Middle of the Road
+(SSP2-4.5)",28.923,13.07,18.06,Billings,con-dry
+2032,"High Emissions
+(SSP3-7.0)",30.096,14.176,18.205,Billings,con-dry
+2032,"Accelerating Emissions
+(SSP5-8.5)",32.323,15.67,17.904,Billings,con-dry
+2033,"Moderating Emissions
+(SSP1-2.6)",29.761,16.419,21.663,Billings,con-dry
+2033,"Middle of the Road
+(SSP2-4.5)",41.744,14.436,20.157,Billings,con-dry
+2033,"High Emissions
+(SSP3-7.0)",25.68,14.494,17.795,Billings,con-dry
+2033,"Accelerating Emissions
+(SSP5-8.5)",27.552,15.007,21.482,Billings,con-dry
+2034,"Moderating Emissions
+(SSP1-2.6)",24.373,14.396,18.145,Billings,con-dry
+2034,"Middle of the Road
+(SSP2-4.5)",32.733,16.713,21.988,Billings,con-dry
+2034,"High Emissions
+(SSP3-7.0)",33.86,13.285,16.964,Billings,con-dry
+2034,"Accelerating Emissions
+(SSP5-8.5)",23.427,13.884,21.494,Billings,con-dry
+2035,"Moderating Emissions
+(SSP1-2.6)",25.798,15.641,19.867,Billings,con-dry
+2035,"Middle of the Road
+(SSP2-4.5)",27.827,16.388,22.759,Billings,con-dry
+2035,"High Emissions
+(SSP3-7.0)",23.13,13.638,16.096,Billings,con-dry
+2035,"Accelerating Emissions
+(SSP5-8.5)",22.841,15.682,19.687,Billings,con-dry
+2036,"Moderating Emissions
+(SSP1-2.6)",22.856,14.085,18.916,Billings,con-dry
+2036,"Middle of the Road
+(SSP2-4.5)",31.371,16.856,22.325,Billings,con-dry
+2036,"High Emissions
+(SSP3-7.0)",38.525,15.402,20.41,Billings,con-dry
+2036,"Accelerating Emissions
+(SSP5-8.5)",21.621,14.221,17.41,Billings,con-dry
+2037,"Moderating Emissions
+(SSP1-2.6)",32.959,13.908,19.024,Billings,con-dry
+2037,"Middle of the Road
+(SSP2-4.5)",24.971,13.265,20.795,Billings,con-dry
+2037,"High Emissions
+(SSP3-7.0)",25.159,12.906,16.53,Billings,con-dry
+2037,"Accelerating Emissions
+(SSP5-8.5)",29.091,15.277,17.458,Billings,con-dry
+2038,"Moderating Emissions
+(SSP1-2.6)",28.195,14.434,17.133,Billings,con-dry
+2038,"Middle of the Road
+(SSP2-4.5)",32.176,14.022,25.675,Billings,con-dry
+2038,"High Emissions
+(SSP3-7.0)",29.75,15.13,18.916,Billings,con-dry
+2038,"Accelerating Emissions
+(SSP5-8.5)",29.32,15.903,22.747,Billings,con-dry
+2039,"Moderating Emissions
+(SSP1-2.6)",27.568,15.939,19.699,Billings,con-dry
+2039,"Middle of the Road
+(SSP2-4.5)",42.386,16.043,20.072,Billings,con-dry
+2039,"High Emissions
+(SSP3-7.0)",23.007,16.251,21.253,Billings,con-dry
+2039,"Accelerating Emissions
+(SSP5-8.5)",24.273,13.091,18.036,Billings,con-dry
+2040,"Moderating Emissions
+(SSP1-2.6)",27.349,13.792,17.843,Billings,con-dry
+2040,"Middle of the Road
+(SSP2-4.5)",32.096,14.234,26.193,Billings,con-dry
+2040,"High Emissions
+(SSP3-7.0)",24.668,14.294,18.361,Billings,con-dry
+2040,"Accelerating Emissions
+(SSP5-8.5)",54.831,15.496,17.904,Billings,con-dry
+2041,"Moderating Emissions
+(SSP1-2.6)",29.59,18.347,22.928,Billings,con-dry
+2041,"Middle of the Road
+(SSP2-4.5)",24.896,15.186,20.072,Billings,con-dry
+2041,"High Emissions
+(SSP3-7.0)",32.504,14.443,18.916,Billings,con-dry
+2041,"Accelerating Emissions
+(SSP5-8.5)",22.303,14.971,19.651,Billings,con-dry
+2042,"Moderating Emissions
+(SSP1-2.6)",31.709,14.812,22.506,Billings,con-dry
+2042,"Middle of the Road
+(SSP2-4.5)",32.54,15.788,22.373,Billings,con-dry
+2042,"High Emissions
+(SSP3-7.0)",29.752,14.446,17.735,Billings,con-dry
+2042,"Accelerating Emissions
+(SSP5-8.5)",26.822,17.19,21.916,Billings,con-dry
+2043,"Moderating Emissions
+(SSP1-2.6)",29.762,15.078,19.663,Billings,con-dry
+2043,"Middle of the Road
+(SSP2-4.5)",41.448,13.388,16.446,Billings,con-dry
+2043,"High Emissions
+(SSP3-7.0)",20.754,13.933,18.458,Billings,con-dry
+2043,"Accelerating Emissions
+(SSP5-8.5)",28.446,16.366,21.831,Billings,con-dry
+2044,"Moderating Emissions
+(SSP1-2.6)",27.275,15.769,18.831,Billings,con-dry
+2044,"Middle of the Road
+(SSP2-4.5)",25.891,17.198,19.675,Billings,con-dry
+2044,"High Emissions
+(SSP3-7.0)",32.928,14.374,19.711,Billings,con-dry
+2044,"Accelerating Emissions
+(SSP5-8.5)",29.058,16.421,22.735,Billings,con-dry
+2045,"Moderating Emissions
+(SSP1-2.6)",25.491,13.123,19.88,Billings,con-dry
+2045,"Middle of the Road
+(SSP2-4.5)",36.409,18.381,20.675,Billings,con-dry
+2045,"High Emissions
+(SSP3-7.0)",27.142,14.552,20.229,Billings,con-dry
+2045,"Accelerating Emissions
+(SSP5-8.5)",28.388,16.499,19.12,Billings,con-dry
+2046,"Moderating Emissions
+(SSP1-2.6)",26.405,15.207,19.181,Billings,con-dry
+2046,"Middle of the Road
+(SSP2-4.5)",24.422,15.315,18.771,Billings,con-dry
+2046,"High Emissions
+(SSP3-7.0)",29.41,14.882,19.012,Billings,con-dry
+2046,"Accelerating Emissions
+(SSP5-8.5)",25.744,14.786,21.325,Billings,con-dry
+2047,"Moderating Emissions
+(SSP1-2.6)",23.562,15.658,19.012,Billings,con-dry
+2047,"Middle of the Road
+(SSP2-4.5)",28.622,16.142,20.494,Billings,con-dry
+2047,"High Emissions
+(SSP3-7.0)",24.819,13.337,16.169,Billings,con-dry
+2047,"Accelerating Emissions
+(SSP5-8.5)",29.029,15.482,20.398,Billings,con-dry
+2048,"Moderating Emissions
+(SSP1-2.6)",22.899,14.132,19.072,Billings,con-dry
+2048,"Middle of the Road
+(SSP2-4.5)",34.69,15.198,17.687,Billings,con-dry
+2048,"High Emissions
+(SSP3-7.0)",24.523,17.024,22.133,Billings,con-dry
+2048,"Accelerating Emissions
+(SSP5-8.5)",32.253,15.202,22.169,Billings,con-dry
+2049,"Moderating Emissions
+(SSP1-2.6)",36.908,16.526,19.855,Billings,con-dry
+2049,"Middle of the Road
+(SSP2-4.5)",31.821,15.528,21.096,Billings,con-dry
+2049,"High Emissions
+(SSP3-7.0)",25.116,15.432,20.506,Billings,con-dry
+2049,"Accelerating Emissions
+(SSP5-8.5)",30.658,17.369,23.518,Billings,con-dry
+2050,"Moderating Emissions
+(SSP1-2.6)",36.359,15.961,23.602,Billings,con-dry
+2050,"Middle of the Road
+(SSP2-4.5)",37.682,14.032,21.205,Billings,con-dry
+2050,"High Emissions
+(SSP3-7.0)",30.169,15.906,20.036,Billings,con-dry
+2050,"Accelerating Emissions
+(SSP5-8.5)",28.865,14.094,21.542,Billings,con-dry
+2051,"Moderating Emissions
+(SSP1-2.6)",45.299,13.82,19.145,Billings,con-dry
+2051,"Middle of the Road
+(SSP2-4.5)",25.742,15.962,20.904,Billings,con-dry
+2051,"High Emissions
+(SSP3-7.0)",31.18,19.26,24.904,Billings,con-dry
+2051,"Accelerating Emissions
+(SSP5-8.5)",38.063,18.831,20.819,Billings,con-dry
+2052,"Moderating Emissions
+(SSP1-2.6)",22.595,13.455,18.53,Billings,con-dry
+2052,"Middle of the Road
+(SSP2-4.5)",35.602,15.07,18.892,Billings,con-dry
+2052,"High Emissions
+(SSP3-7.0)",30.843,16.044,18.157,Billings,con-dry
+2052,"Accelerating Emissions
+(SSP5-8.5)",27.86,13.097,23.831,Billings,con-dry
+2053,"Moderating Emissions
+(SSP1-2.6)",34.61,13.968,21.566,Billings,con-dry
+2053,"Middle of the Road
+(SSP2-4.5)",34.065,16.34,19.446,Billings,con-dry
+2053,"High Emissions
+(SSP3-7.0)",34.142,15.617,21.41,Billings,con-dry
+2053,"Accelerating Emissions
+(SSP5-8.5)",28.445,16.569,22.783,Billings,con-dry
+2054,"Moderating Emissions
+(SSP1-2.6)",29.325,11.068,21.373,Billings,con-dry
+2054,"Middle of the Road
+(SSP2-4.5)",24.364,16.257,19.916,Billings,con-dry
+2054,"High Emissions
+(SSP3-7.0)",21.88,15.85,18.325,Billings,con-dry
+2054,"Accelerating Emissions
+(SSP5-8.5)",25.132,15.159,18.313,Billings,con-dry
+2055,"Moderating Emissions
+(SSP1-2.6)",27.347,14.631,20.867,Billings,con-dry
+2055,"Middle of the Road
+(SSP2-4.5)",24.631,17.59,21.096,Billings,con-dry
+2055,"High Emissions
+(SSP3-7.0)",34.655,16.769,22.422,Billings,con-dry
+2055,"Accelerating Emissions
+(SSP5-8.5)",31.803,17.964,21.807,Billings,con-dry
+2056,"Moderating Emissions
+(SSP1-2.6)",35.935,19.106,22.663,Billings,con-dry
+2056,"Middle of the Road
+(SSP2-4.5)",31.973,15.318,21.831,Billings,con-dry
+2056,"High Emissions
+(SSP3-7.0)",32.54,15.229,18.614,Billings,con-dry
+2056,"Accelerating Emissions
+(SSP5-8.5)",25.677,16.67,23.157,Billings,con-dry
+2057,"Moderating Emissions
+(SSP1-2.6)",25.448,13.289,21.771,Billings,con-dry
+2057,"Middle of the Road
+(SSP2-4.5)",30.624,14.785,21.59,Billings,con-dry
+2057,"High Emissions
+(SSP3-7.0)",27.634,15.009,18.036,Billings,con-dry
+2057,"Accelerating Emissions
+(SSP5-8.5)",25.289,14.925,23.205,Billings,con-dry
+2058,"Moderating Emissions
+(SSP1-2.6)",26.532,15.569,21.072,Billings,con-dry
+2058,"Middle of the Road
+(SSP2-4.5)",24.75,18.484,22.422,Billings,con-dry
+2058,"High Emissions
+(SSP3-7.0)",22.091,13.916,17.735,Billings,con-dry
+2058,"Accelerating Emissions
+(SSP5-8.5)",21.518,14.761,17.277,Billings,con-dry
+2059,"Moderating Emissions
+(SSP1-2.6)",30.371,14.578,23.145,Billings,con-dry
+2059,"Middle of the Road
+(SSP2-4.5)",25.436,15.128,18.795,Billings,con-dry
+2059,"High Emissions
+(SSP3-7.0)",26.22,13.487,18.361,Billings,con-dry
+2059,"Accelerating Emissions
+(SSP5-8.5)",24.921,15.304,20.434,Billings,con-dry
+2060,"Moderating Emissions
+(SSP1-2.6)",25.65,16.706,19.964,Billings,con-dry
+2060,"Middle of the Road
+(SSP2-4.5)",39.561,17.258,21.313,Billings,con-dry
+2060,"High Emissions
+(SSP3-7.0)",24.39,12.978,18.663,Billings,con-dry
+2060,"Accelerating Emissions
+(SSP5-8.5)",22.686,14.603,17.446,Billings,con-dry
+2061,"Moderating Emissions
+(SSP1-2.6)",30.788,15.123,22.12,Billings,con-dry
+2061,"Middle of the Road
+(SSP2-4.5)",27.537,15.542,22.084,Billings,con-dry
+2061,"High Emissions
+(SSP3-7.0)",29.526,14.968,18.06,Billings,con-dry
+2061,"Accelerating Emissions
+(SSP5-8.5)",29.67,20.19,24.434,Billings,con-dry
+2062,"Moderating Emissions
+(SSP1-2.6)",26.79,13.858,19.88,Billings,con-dry
+2062,"Middle of the Road
+(SSP2-4.5)",24.043,13.057,20.398,Billings,con-dry
+2062,"High Emissions
+(SSP3-7.0)",33.978,18.499,23.675,Billings,con-dry
+2062,"Accelerating Emissions
+(SSP5-8.5)",33.255,13.824,17.265,Billings,con-dry
+2063,"Moderating Emissions
+(SSP1-2.6)",26.176,18.053,22.566,Billings,con-dry
+2063,"Middle of the Road
+(SSP2-4.5)",23.046,14.238,18.241,Billings,con-dry
+2063,"High Emissions
+(SSP3-7.0)",29.588,14.111,14.976,Billings,con-dry
+2063,"Accelerating Emissions
+(SSP5-8.5)",42.627,17.725,24.313,Billings,con-dry
+2064,"Moderating Emissions
+(SSP1-2.6)",34,14.855,20.169,Billings,con-dry
+2064,"Middle of the Road
+(SSP2-4.5)",26.86,15.162,20.265,Billings,con-dry
+2064,"High Emissions
+(SSP3-7.0)",34.783,18.022,23.988,Billings,con-dry
+2064,"Accelerating Emissions
+(SSP5-8.5)",37.364,17.504,20.867,Billings,con-dry
+2065,"Moderating Emissions
+(SSP1-2.6)",24.075,14.617,20.446,Billings,con-dry
+2065,"Middle of the Road
+(SSP2-4.5)",37.063,16.022,19.928,Billings,con-dry
+2065,"High Emissions
+(SSP3-7.0)",36.357,16.513,20.627,Billings,con-dry
+2065,"Accelerating Emissions
+(SSP5-8.5)",35.716,16.38,21.795,Billings,con-dry
+2066,"Moderating Emissions
+(SSP1-2.6)",29.489,15.542,22.723,Billings,con-dry
+2066,"Middle of the Road
+(SSP2-4.5)",26.135,18.121,20.723,Billings,con-dry
+2066,"High Emissions
+(SSP3-7.0)",27.421,14.896,24,Billings,con-dry
+2066,"Accelerating Emissions
+(SSP5-8.5)",27.321,18.567,22.084,Billings,con-dry
+2067,"Moderating Emissions
+(SSP1-2.6)",39.858,14.301,21.012,Billings,con-dry
+2067,"Middle of the Road
+(SSP2-4.5)",25.092,14.409,21.458,Billings,con-dry
+2067,"High Emissions
+(SSP3-7.0)",35.867,16.217,23.843,Billings,con-dry
+2067,"Accelerating Emissions
+(SSP5-8.5)",39.082,18.017,21.687,Billings,con-dry
+2068,"Moderating Emissions
+(SSP1-2.6)",22.841,15.436,19.241,Billings,con-dry
+2068,"Middle of the Road
+(SSP2-4.5)",24.003,12.675,16.265,Billings,con-dry
+2068,"High Emissions
+(SSP3-7.0)",25.981,14.285,19.639,Billings,con-dry
+2068,"Accelerating Emissions
+(SSP5-8.5)",26.311,15.398,17.94,Billings,con-dry
+2069,"Moderating Emissions
+(SSP1-2.6)",28.961,11.52,20.723,Billings,con-dry
+2069,"Middle of the Road
+(SSP2-4.5)",33.556,14.333,22.663,Billings,con-dry
+2069,"High Emissions
+(SSP3-7.0)",35.092,19.347,22.157,Billings,con-dry
+2069,"Accelerating Emissions
+(SSP5-8.5)",36.303,15.648,20.627,Billings,con-dry
+2070,"Moderating Emissions
+(SSP1-2.6)",23.265,14.299,19.675,Billings,con-dry
+2070,"Middle of the Road
+(SSP2-4.5)",29.214,17.489,19.133,Billings,con-dry
+2070,"High Emissions
+(SSP3-7.0)",29.902,17.145,24.988,Billings,con-dry
+2070,"Accelerating Emissions
+(SSP5-8.5)",26.33,15.497,23.747,Billings,con-dry
+2071,"Moderating Emissions
+(SSP1-2.6)",35.834,16.27,21.12,Billings,con-dry
+2071,"Middle of the Road
+(SSP2-4.5)",33.472,18.082,21.398,Billings,con-dry
+2071,"High Emissions
+(SSP3-7.0)",27.735,16.27,23.723,Billings,con-dry
+2071,"Accelerating Emissions
+(SSP5-8.5)",39.783,21.123,30.458,Billings,con-dry
+2072,"Moderating Emissions
+(SSP1-2.6)",33.786,15.848,24.398,Billings,con-dry
+2072,"Middle of the Road
+(SSP2-4.5)",38.113,13.229,18.627,Billings,con-dry
+2072,"High Emissions
+(SSP3-7.0)",35.795,16.819,22,Billings,con-dry
+2072,"Accelerating Emissions
+(SSP5-8.5)",26.506,14.537,21.036,Billings,con-dry
+2073,"Moderating Emissions
+(SSP1-2.6)",29.774,12.957,21.386,Billings,con-dry
+2073,"Middle of the Road
+(SSP2-4.5)",26.82,14.176,17.47,Billings,con-dry
+2073,"High Emissions
+(SSP3-7.0)",27.767,18.106,20.277,Billings,con-dry
+2073,"Accelerating Emissions
+(SSP5-8.5)",26.648,16.024,18.169,Billings,con-dry
+2074,"Moderating Emissions
+(SSP1-2.6)",23.48,14.041,16.843,Billings,con-dry
+2074,"Middle of the Road
+(SSP2-4.5)",28.369,14.956,20.94,Billings,con-dry
+2074,"High Emissions
+(SSP3-7.0)",23.689,14.347,19.807,Billings,con-dry
+2074,"Accelerating Emissions
+(SSP5-8.5)",36.631,19.68,23.036,Billings,con-dry
+2075,"Moderating Emissions
+(SSP1-2.6)",30.113,15.282,21.181,Billings,con-dry
+2075,"Middle of the Road
+(SSP2-4.5)",30.593,15.277,17.795,Billings,con-dry
+2075,"High Emissions
+(SSP3-7.0)",29.33,14.766,22.398,Billings,con-dry
+2075,"Accelerating Emissions
+(SSP5-8.5)",28.316,15.61,21.108,Billings,con-dry
+2076,"Moderating Emissions
+(SSP1-2.6)",26.13,16.636,17.614,Billings,con-dry
+2076,"Middle of the Road
+(SSP2-4.5)",28.92,16.277,18.06,Billings,con-dry
+2076,"High Emissions
+(SSP3-7.0)",35.431,15.118,17.988,Billings,con-dry
+2076,"Accelerating Emissions
+(SSP5-8.5)",30.61,15.347,18.759,Billings,con-dry
+2077,"Moderating Emissions
+(SSP1-2.6)",27.499,16.173,17.916,Billings,con-dry
+2077,"Middle of the Road
+(SSP2-4.5)",30.439,17.243,21.892,Billings,con-dry
+2077,"High Emissions
+(SSP3-7.0)",32.241,14.315,20.398,Billings,con-dry
+2077,"Accelerating Emissions
+(SSP5-8.5)",26.224,19.075,22.831,Billings,con-dry
+2078,"Moderating Emissions
+(SSP1-2.6)",28.742,14.87,16.976,Billings,con-dry
+2078,"Middle of the Road
+(SSP2-4.5)",26.058,14.229,20.277,Billings,con-dry
+2078,"High Emissions
+(SSP3-7.0)",28.46,15.85,21.048,Billings,con-dry
+2078,"Accelerating Emissions
+(SSP5-8.5)",37.607,13.67,23.012,Billings,con-dry
+2079,"Moderating Emissions
+(SSP1-2.6)",31.272,13.894,24.06,Billings,con-dry
+2079,"Middle of the Road
+(SSP2-4.5)",26.132,15.637,20.181,Billings,con-dry
+2079,"High Emissions
+(SSP3-7.0)",29.985,13.646,19.964,Billings,con-dry
+2079,"Accelerating Emissions
+(SSP5-8.5)",32,14.407,20.976,Billings,con-dry
+2080,"Moderating Emissions
+(SSP1-2.6)",24.761,13.651,21.229,Billings,con-dry
+2080,"Middle of the Road
+(SSP2-4.5)",30.383,16.08,20.783,Billings,con-dry
+2080,"High Emissions
+(SSP3-7.0)",25.513,16.986,24.205,Billings,con-dry
+2080,"Accelerating Emissions
+(SSP5-8.5)",30.087,14.039,24.157,Billings,con-dry
+2081,"Moderating Emissions
+(SSP1-2.6)",32.841,15.005,22.639,Billings,con-dry
+2081,"Middle of the Road
+(SSP2-4.5)",26.246,16.911,21,Billings,con-dry
+2081,"High Emissions
+(SSP3-7.0)",24.345,14.629,17.627,Billings,con-dry
+2081,"Accelerating Emissions
+(SSP5-8.5)",50.039,19.444,22.482,Billings,con-dry
+2082,"Moderating Emissions
+(SSP1-2.6)",28.193,15.031,20.651,Billings,con-dry
+2082,"Middle of the Road
+(SSP2-4.5)",26.552,14.526,23.036,Billings,con-dry
+2082,"High Emissions
+(SSP3-7.0)",33.222,15.432,22.627,Billings,con-dry
+2082,"Accelerating Emissions
+(SSP5-8.5)",30.653,19.6,23.277,Billings,con-dry
+2083,"Moderating Emissions
+(SSP1-2.6)",39.73,17.928,25.241,Billings,con-dry
+2083,"Middle of the Road
+(SSP2-4.5)",40.99,17.282,20.892,Billings,con-dry
+2083,"High Emissions
+(SSP3-7.0)",32.308,15.533,23.578,Billings,con-dry
+2083,"Accelerating Emissions
+(SSP5-8.5)",32.38,17.482,21.229,Billings,con-dry
+2084,"Moderating Emissions
+(SSP1-2.6)",32.576,15.147,22.181,Billings,con-dry
+2084,"Middle of the Road
+(SSP2-4.5)",35.764,13.844,23.855,Billings,con-dry
+2084,"High Emissions
+(SSP3-7.0)",33.499,17.983,23.193,Billings,con-dry
+2084,"Accelerating Emissions
+(SSP5-8.5)",40.41,15.74,19.602,Billings,con-dry
+2085,"Moderating Emissions
+(SSP1-2.6)",29.591,16.306,22.313,Billings,con-dry
+2085,"Middle of the Road
+(SSP2-4.5)",25.966,15.581,18.12,Billings,con-dry
+2085,"High Emissions
+(SSP3-7.0)",26.901,16.909,22.289,Billings,con-dry
+2085,"Accelerating Emissions
+(SSP5-8.5)",40.838,19.238,21.313,Billings,con-dry
+2086,"Moderating Emissions
+(SSP1-2.6)",27.543,15.154,18.217,Billings,con-dry
+2086,"Middle of the Road
+(SSP2-4.5)",29.243,12.248,19.12,Billings,con-dry
+2086,"High Emissions
+(SSP3-7.0)",28.301,16.376,25.012,Billings,con-dry
+2086,"Accelerating Emissions
+(SSP5-8.5)",37.617,16.622,19.313,Billings,con-dry
+2087,"Moderating Emissions
+(SSP1-2.6)",29.195,14.388,18.157,Billings,con-dry
+2087,"Middle of the Road
+(SSP2-4.5)",25.65,16.26,20.663,Billings,con-dry
+2087,"High Emissions
+(SSP3-7.0)",30.485,17.993,21.771,Billings,con-dry
+2087,"Accelerating Emissions
+(SSP5-8.5)",40.048,19.038,23.494,Billings,con-dry
+2088,"Moderating Emissions
+(SSP1-2.6)",28.817,14.644,18.675,Billings,con-dry
+2088,"Middle of the Road
+(SSP2-4.5)",39.515,15.188,20.627,Billings,con-dry
+2088,"High Emissions
+(SSP3-7.0)",28.805,16.017,19.386,Billings,con-dry
+2088,"Accelerating Emissions
+(SSP5-8.5)",41.263,17.904,22.867,Billings,con-dry
+2089,"Moderating Emissions
+(SSP1-2.6)",31.315,13.506,17.313,Billings,con-dry
+2089,"Middle of the Road
+(SSP2-4.5)",25.738,14.723,21.723,Billings,con-dry
+2089,"High Emissions
+(SSP3-7.0)",38.414,21.696,23.229,Billings,con-dry
+2089,"Accelerating Emissions
+(SSP5-8.5)",50.737,15.554,26.47,Billings,con-dry
+2090,"Moderating Emissions
+(SSP1-2.6)",29.697,15.256,19.277,Billings,con-dry
+2090,"Middle of the Road
+(SSP2-4.5)",25.209,15.913,18.855,Billings,con-dry
+2090,"High Emissions
+(SSP3-7.0)",40.839,21.535,26.952,Billings,con-dry
+2090,"Accelerating Emissions
+(SSP5-8.5)",35.48,15.737,26.735,Billings,con-dry
+2091,"Moderating Emissions
+(SSP1-2.6)",30.829,16.684,21.783,Billings,con-dry
+2091,"Middle of the Road
+(SSP2-4.5)",40.432,13.554,22.614,Billings,con-dry
+2091,"High Emissions
+(SSP3-7.0)",37.704,17.029,25.386,Billings,con-dry
+2091,"Accelerating Emissions
+(SSP5-8.5)",43.041,15.884,22.482,Billings,con-dry
+2092,"Moderating Emissions
+(SSP1-2.6)",35.33,11.323,25.759,Billings,con-dry
+2092,"Middle of the Road
+(SSP2-4.5)",33.188,12.547,22.976,Billings,con-dry
+2092,"High Emissions
+(SSP3-7.0)",38.309,14.88,25.193,Billings,con-dry
+2092,"Accelerating Emissions
+(SSP5-8.5)",33.296,15.301,23.458,Billings,con-dry
+2093,"Moderating Emissions
+(SSP1-2.6)",27.45,15.376,18.747,Billings,con-dry
+2093,"Middle of the Road
+(SSP2-4.5)",27.477,19.183,21.976,Billings,con-dry
+2093,"High Emissions
+(SSP3-7.0)",29.632,15.388,22.036,Billings,con-dry
+2093,"Accelerating Emissions
+(SSP5-8.5)",34.656,15.925,26.12,Billings,con-dry
+2094,"Moderating Emissions
+(SSP1-2.6)",27.658,14.465,20.145,Billings,con-dry
+2094,"Middle of the Road
+(SSP2-4.5)",25.595,19.072,20.627,Billings,con-dry
+2094,"High Emissions
+(SSP3-7.0)",29.137,15.029,22.771,Billings,con-dry
+2094,"Accelerating Emissions
+(SSP5-8.5)",33.94,16.306,22.06,Billings,con-dry
+2095,"Moderating Emissions
+(SSP1-2.6)",36.212,14.793,23.771,Billings,con-dry
+2095,"Middle of the Road
+(SSP2-4.5)",30.345,15.812,21.916,Billings,con-dry
+2095,"High Emissions
+(SSP3-7.0)",46.419,16.361,26.53,Billings,con-dry
+2095,"Accelerating Emissions
+(SSP5-8.5)",47.049,15.458,25.928,Billings,con-dry
+2096,"Moderating Emissions
+(SSP1-2.6)",32.984,14.099,19.807,Billings,con-dry
+2096,"Middle of the Road
+(SSP2-4.5)",33.371,19.53,28.867,Billings,con-dry
+2096,"High Emissions
+(SSP3-7.0)",30.029,15.388,18.169,Billings,con-dry
+2096,"Accelerating Emissions
+(SSP5-8.5)",46.067,13.75,22.916,Billings,con-dry
+2097,"Moderating Emissions
+(SSP1-2.6)",32.648,14.55,22.843,Billings,con-dry
+2097,"Middle of the Road
+(SSP2-4.5)",31.181,11.913,19.855,Billings,con-dry
+2097,"High Emissions
+(SSP3-7.0)",27.15,16.35,23.614,Billings,con-dry
+2097,"Accelerating Emissions
+(SSP5-8.5)",46.788,18.709,25.096,Billings,con-dry
+2098,"Moderating Emissions
+(SSP1-2.6)",26.865,17.28,22.205,Billings,con-dry
+2098,"Middle of the Road
+(SSP2-4.5)",27.135,15.761,21.446,Billings,con-dry
+2098,"High Emissions
+(SSP3-7.0)",21.212,14.176,19.108,Billings,con-dry
+2098,"Accelerating Emissions
+(SSP5-8.5)",45.304,17.352,25.133,Billings,con-dry
+2099,"Moderating Emissions
+(SSP1-2.6)",30.966,16.031,25.88,Billings,con-dry
+2099,"Middle of the Road
+(SSP2-4.5)",37.033,16.173,22.217,Billings,con-dry
+2099,"High Emissions
+(SSP3-7.0)",31.082,16.359,21.012,Billings,con-dry
+2099,"Accelerating Emissions
+(SSP5-8.5)",34.27,14.877,23.651,Billings,con-dry
+2100,"Moderating Emissions
+(SSP1-2.6)",24.98,15.002,19.47,Billings,con-dry
+2100,"Middle of the Road
+(SSP2-4.5)",34.783,16.279,17.41,Billings,con-dry
+2100,"High Emissions
+(SSP3-7.0)",47.299,14.679,22.94,Billings,con-dry
+2100,"Accelerating Emissions
+(SSP5-8.5)",35.925,13.911,23.916,Billings,con-dry

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,1.2,1.084,1.111,Upper Selway,penman
+1951,Historical Emissions,1.174,1.082,1.12,Upper Selway,penman
+1952,Historical Emissions,1.138,1.068,1.113,Upper Selway,penman
+1953,Historical Emissions,1.153,1.09,1.124,Upper Selway,penman
+1954,Historical Emissions,1.171,1.045,1.107,Upper Selway,penman
+1955,Historical Emissions,1.169,1.068,1.1,Upper Selway,penman
+1956,Historical Emissions,1.163,1.048,1.12,Upper Selway,penman
+1957,Historical Emissions,1.209,1.024,1.092,Upper Selway,penman
+1958,Historical Emissions,1.148,1.034,1.097,Upper Selway,penman
+1959,Historical Emissions,1.132,1.06,1.096,Upper Selway,penman
+1960,Historical Emissions,1.139,1.057,1.079,Upper Selway,penman
+1961,Historical Emissions,1.147,1.054,1.096,Upper Selway,penman
+1962,Historical Emissions,1.144,1.024,1.095,Upper Selway,penman
+1963,Historical Emissions,1.131,1.022,1.068,Upper Selway,penman
+1964,Historical Emissions,1.104,1.048,1.095,Upper Selway,penman
+1965,Historical Emissions,1.127,1.045,1.113,Upper Selway,penman
+1966,Historical Emissions,1.155,1.009,1.071,Upper Selway,penman
+1967,Historical Emissions,1.144,1.061,1.091,Upper Selway,penman
+1968,Historical Emissions,1.102,1.024,1.079,Upper Selway,penman
+1969,Historical Emissions,1.123,1.06,1.104,Upper Selway,penman
+1970,Historical Emissions,1.126,1.024,1.081,Upper Selway,penman
+1971,Historical Emissions,1.191,1.052,1.114,Upper Selway,penman
+1972,Historical Emissions,1.164,1.066,1.105,Upper Selway,penman
+1973,Historical Emissions,1.188,1.023,1.095,Upper Selway,penman
+1974,Historical Emissions,1.15,1.013,1.106,Upper Selway,penman
+1975,Historical Emissions,1.168,1.09,1.118,Upper Selway,penman
+1976,Historical Emissions,1.147,1.064,1.079,Upper Selway,penman
+1977,Historical Emissions,1.175,1.063,1.095,Upper Selway,penman
+1978,Historical Emissions,1.144,1.054,1.082,Upper Selway,penman
+1979,Historical Emissions,1.168,1.033,1.113,Upper Selway,penman
+1980,Historical Emissions,1.168,1.044,1.146,Upper Selway,penman
+1981,Historical Emissions,1.161,1.041,1.14,Upper Selway,penman
+1982,Historical Emissions,1.157,1.062,1.104,Upper Selway,penman
+1983,Historical Emissions,1.13,1.041,1.098,Upper Selway,penman
+1984,Historical Emissions,1.154,1.045,1.107,Upper Selway,penman
+1985,Historical Emissions,1.167,1.068,1.124,Upper Selway,penman
+1986,Historical Emissions,1.122,1.05,1.094,Upper Selway,penman
+1987,Historical Emissions,1.195,1.062,1.072,Upper Selway,penman
+1988,Historical Emissions,1.145,1.066,1.09,Upper Selway,penman
+1989,Historical Emissions,1.189,1.045,1.135,Upper Selway,penman
+1990,Historical Emissions,1.194,1.09,1.124,Upper Selway,penman
+1991,Historical Emissions,1.212,1.04,1.136,Upper Selway,penman
+1992,Historical Emissions,1.153,1.069,1.098,Upper Selway,penman
+1993,Historical Emissions,1.131,1.064,1.1,Upper Selway,penman
+1994,Historical Emissions,1.197,1.058,1.089,Upper Selway,penman
+1995,Historical Emissions,1.163,1.084,1.108,Upper Selway,penman
+1996,Historical Emissions,1.233,1.136,1.171,Upper Selway,penman
+1997,Historical Emissions,1.166,1.067,1.129,Upper Selway,penman
+1998,Historical Emissions,1.198,1.069,1.133,Upper Selway,penman
+1999,Historical Emissions,1.164,1.053,1.116,Upper Selway,penman
+2000,Historical Emissions,1.205,1.077,1.153,Upper Selway,penman
+2001,Historical Emissions,1.191,1.106,1.165,Upper Selway,penman
+2002,Historical Emissions,1.233,1.086,1.121,Upper Selway,penman
+2003,Historical Emissions,1.232,1.125,1.188,Upper Selway,penman
+2004,Historical Emissions,1.228,1.147,1.173,Upper Selway,penman
+2005,Historical Emissions,1.251,1.131,1.22,Upper Selway,penman
+2006,Historical Emissions,1.211,1.108,1.156,Upper Selway,penman
+2007,Historical Emissions,1.202,1.116,1.15,Upper Selway,penman
+2008,Historical Emissions,1.215,1.115,1.162,Upper Selway,penman
+2009,Historical Emissions,1.182,1.095,1.148,Upper Selway,penman
+2010,Historical Emissions,1.194,1.125,1.151,Upper Selway,penman
+2011,Historical Emissions,1.206,1.071,1.151,Upper Selway,penman
+2012,Historical Emissions,1.204,1.145,1.163,Upper Selway,penman
+2013,Historical Emissions,1.252,1.157,1.177,Upper Selway,penman
+2014,Historical Emissions,1.222,1.13,1.155,Upper Selway,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",1.252,1.144,1.197,Upper Selway,penman
+2015,"Middle of the Road
+(SSP2-4.5)",1.236,1.138,1.156,Upper Selway,penman
+2015,"High Emissions
+(SSP3-7.0)",1.216,1.11,1.156,Upper Selway,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",1.213,1.107,1.172,Upper Selway,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",1.212,1.158,1.193,Upper Selway,penman
+2016,"Middle of the Road
+(SSP2-4.5)",1.221,1.12,1.16,Upper Selway,penman
+2016,"High Emissions
+(SSP3-7.0)",1.262,1.133,1.184,Upper Selway,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",1.222,1.116,1.164,Upper Selway,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",1.22,1.097,1.143,Upper Selway,penman
+2017,"Middle of the Road
+(SSP2-4.5)",1.247,1.122,1.217,Upper Selway,penman
+2017,"High Emissions
+(SSP3-7.0)",1.242,1.148,1.178,Upper Selway,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",1.249,1.13,1.186,Upper Selway,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",1.21,1.115,1.173,Upper Selway,penman
+2018,"Middle of the Road
+(SSP2-4.5)",1.227,1.12,1.176,Upper Selway,penman
+2018,"High Emissions
+(SSP3-7.0)",1.222,1.1,1.167,Upper Selway,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",1.214,1.082,1.174,Upper Selway,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",1.27,1.157,1.203,Upper Selway,penman
+2019,"Middle of the Road
+(SSP2-4.5)",1.243,1.099,1.192,Upper Selway,penman
+2019,"High Emissions
+(SSP3-7.0)",1.254,1.139,1.184,Upper Selway,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",1.298,1.093,1.151,Upper Selway,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",1.291,1.142,1.173,Upper Selway,penman
+2020,"Middle of the Road
+(SSP2-4.5)",1.218,1.094,1.177,Upper Selway,penman
+2020,"High Emissions
+(SSP3-7.0)",1.232,1.097,1.174,Upper Selway,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",1.232,1.116,1.15,Upper Selway,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",1.262,1.12,1.205,Upper Selway,penman
+2021,"Middle of the Road
+(SSP2-4.5)",1.265,1.119,1.209,Upper Selway,penman
+2021,"High Emissions
+(SSP3-7.0)",1.244,1.121,1.172,Upper Selway,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",1.228,1.144,1.172,Upper Selway,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",1.242,1.124,1.187,Upper Selway,penman
+2022,"Middle of the Road
+(SSP2-4.5)",1.238,1.128,1.19,Upper Selway,penman
+2022,"High Emissions
+(SSP3-7.0)",1.187,1.097,1.159,Upper Selway,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",1.265,1.124,1.158,Upper Selway,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",1.241,1.121,1.174,Upper Selway,penman
+2023,"Middle of the Road
+(SSP2-4.5)",1.245,1.13,1.19,Upper Selway,penman
+2023,"High Emissions
+(SSP3-7.0)",1.239,1.143,1.17,Upper Selway,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",1.2,1.086,1.137,Upper Selway,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",1.288,1.105,1.155,Upper Selway,penman
+2024,"Middle of the Road
+(SSP2-4.5)",1.221,1.15,1.181,Upper Selway,penman
+2024,"High Emissions
+(SSP3-7.0)",1.268,1.137,1.19,Upper Selway,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",1.277,1.119,1.151,Upper Selway,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",1.221,1.147,1.206,Upper Selway,penman
+2025,"Middle of the Road
+(SSP2-4.5)",1.202,1.113,1.159,Upper Selway,penman
+2025,"High Emissions
+(SSP3-7.0)",1.276,1.148,1.214,Upper Selway,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",1.269,1.151,1.214,Upper Selway,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",1.239,1.105,1.188,Upper Selway,penman
+2026,"Middle of the Road
+(SSP2-4.5)",1.263,1.127,1.225,Upper Selway,penman
+2026,"High Emissions
+(SSP3-7.0)",1.205,1.104,1.158,Upper Selway,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",1.274,1.135,1.184,Upper Selway,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",1.266,1.114,1.156,Upper Selway,penman
+2027,"Middle of the Road
+(SSP2-4.5)",1.303,1.088,1.226,Upper Selway,penman
+2027,"High Emissions
+(SSP3-7.0)",1.263,1.14,1.198,Upper Selway,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",1.257,1.169,1.239,Upper Selway,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",1.273,1.119,1.203,Upper Selway,penman
+2028,"Middle of the Road
+(SSP2-4.5)",1.201,1.14,1.161,Upper Selway,penman
+2028,"High Emissions
+(SSP3-7.0)",1.223,1.171,1.212,Upper Selway,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",1.263,1.137,1.193,Upper Selway,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",1.286,1.153,1.214,Upper Selway,penman
+2029,"Middle of the Road
+(SSP2-4.5)",1.262,1.133,1.174,Upper Selway,penman
+2029,"High Emissions
+(SSP3-7.0)",1.301,1.123,1.186,Upper Selway,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",1.253,1.162,1.201,Upper Selway,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",1.248,1.16,1.203,Upper Selway,penman
+2030,"Middle of the Road
+(SSP2-4.5)",1.292,1.182,1.232,Upper Selway,penman
+2030,"High Emissions
+(SSP3-7.0)",1.255,1.156,1.193,Upper Selway,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",1.292,1.116,1.207,Upper Selway,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",1.24,1.169,1.188,Upper Selway,penman
+2031,"Middle of the Road
+(SSP2-4.5)",1.276,1.144,1.212,Upper Selway,penman
+2031,"High Emissions
+(SSP3-7.0)",1.289,1.111,1.224,Upper Selway,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",1.245,1.17,1.205,Upper Selway,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",1.279,1.12,1.219,Upper Selway,penman
+2032,"Middle of the Road
+(SSP2-4.5)",1.308,1.127,1.169,Upper Selway,penman
+2032,"High Emissions
+(SSP3-7.0)",1.242,1.134,1.217,Upper Selway,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",1.293,1.117,1.194,Upper Selway,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",1.26,1.176,1.231,Upper Selway,penman
+2033,"Middle of the Road
+(SSP2-4.5)",1.309,1.124,1.258,Upper Selway,penman
+2033,"High Emissions
+(SSP3-7.0)",1.301,1.101,1.203,Upper Selway,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",1.289,1.18,1.222,Upper Selway,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",1.279,1.172,1.207,Upper Selway,penman
+2034,"Middle of the Road
+(SSP2-4.5)",1.265,1.114,1.189,Upper Selway,penman
+2034,"High Emissions
+(SSP3-7.0)",1.287,1.127,1.227,Upper Selway,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",1.308,1.088,1.179,Upper Selway,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",1.319,1.136,1.214,Upper Selway,penman
+2035,"Middle of the Road
+(SSP2-4.5)",1.302,1.135,1.18,Upper Selway,penman
+2035,"High Emissions
+(SSP3-7.0)",1.251,1.15,1.225,Upper Selway,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",1.244,1.144,1.191,Upper Selway,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",1.279,1.172,1.209,Upper Selway,penman
+2036,"Middle of the Road
+(SSP2-4.5)",1.306,1.131,1.187,Upper Selway,penman
+2036,"High Emissions
+(SSP3-7.0)",1.263,1.15,1.224,Upper Selway,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",1.268,1.138,1.197,Upper Selway,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",1.263,1.166,1.205,Upper Selway,penman
+2037,"Middle of the Road
+(SSP2-4.5)",1.263,1.143,1.198,Upper Selway,penman
+2037,"High Emissions
+(SSP3-7.0)",1.282,1.071,1.177,Upper Selway,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",1.295,1.155,1.199,Upper Selway,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",1.281,1.156,1.188,Upper Selway,penman
+2038,"Middle of the Road
+(SSP2-4.5)",1.244,1.149,1.194,Upper Selway,penman
+2038,"High Emissions
+(SSP3-7.0)",1.259,1.153,1.222,Upper Selway,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",1.26,1.172,1.235,Upper Selway,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",1.276,1.139,1.199,Upper Selway,penman
+2039,"Middle of the Road
+(SSP2-4.5)",1.24,1.143,1.178,Upper Selway,penman
+2039,"High Emissions
+(SSP3-7.0)",1.305,1.125,1.25,Upper Selway,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",1.298,1.12,1.216,Upper Selway,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",1.28,1.108,1.224,Upper Selway,penman
+2040,"Middle of the Road
+(SSP2-4.5)",1.292,1.152,1.192,Upper Selway,penman
+2040,"High Emissions
+(SSP3-7.0)",1.269,1.147,1.198,Upper Selway,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",1.308,1.163,1.243,Upper Selway,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",1.294,1.111,1.19,Upper Selway,penman
+2041,"Middle of the Road
+(SSP2-4.5)",1.279,1.201,1.225,Upper Selway,penman
+2041,"High Emissions
+(SSP3-7.0)",1.28,1.135,1.214,Upper Selway,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",1.275,1.127,1.222,Upper Selway,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",1.309,1.144,1.176,Upper Selway,penman
+2042,"Middle of the Road
+(SSP2-4.5)",1.264,1.118,1.226,Upper Selway,penman
+2042,"High Emissions
+(SSP3-7.0)",1.238,1.153,1.202,Upper Selway,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",1.316,1.144,1.245,Upper Selway,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",1.27,1.135,1.21,Upper Selway,penman
+2043,"Middle of the Road
+(SSP2-4.5)",1.279,1.156,1.19,Upper Selway,penman
+2043,"High Emissions
+(SSP3-7.0)",1.257,1.175,1.19,Upper Selway,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",1.31,1.192,1.216,Upper Selway,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",1.293,1.154,1.228,Upper Selway,penman
+2044,"Middle of the Road
+(SSP2-4.5)",1.349,1.173,1.202,Upper Selway,penman
+2044,"High Emissions
+(SSP3-7.0)",1.282,1.182,1.232,Upper Selway,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",1.301,1.198,1.273,Upper Selway,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",1.269,1.181,1.22,Upper Selway,penman
+2045,"Middle of the Road
+(SSP2-4.5)",1.337,1.16,1.222,Upper Selway,penman
+2045,"High Emissions
+(SSP3-7.0)",1.306,1.149,1.236,Upper Selway,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",1.358,1.152,1.192,Upper Selway,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",1.254,1.166,1.216,Upper Selway,penman
+2046,"Middle of the Road
+(SSP2-4.5)",1.286,1.141,1.195,Upper Selway,penman
+2046,"High Emissions
+(SSP3-7.0)",1.261,1.112,1.224,Upper Selway,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",1.282,1.113,1.189,Upper Selway,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",1.307,1.146,1.225,Upper Selway,penman
+2047,"Middle of the Road
+(SSP2-4.5)",1.3,1.12,1.173,Upper Selway,penman
+2047,"High Emissions
+(SSP3-7.0)",1.281,1.174,1.223,Upper Selway,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",1.339,1.185,1.233,Upper Selway,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",1.258,1.153,1.21,Upper Selway,penman
+2048,"Middle of the Road
+(SSP2-4.5)",1.291,1.19,1.217,Upper Selway,penman
+2048,"High Emissions
+(SSP3-7.0)",1.33,1.15,1.196,Upper Selway,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",1.412,1.137,1.271,Upper Selway,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",1.273,1.137,1.183,Upper Selway,penman
+2049,"Middle of the Road
+(SSP2-4.5)",1.266,1.141,1.21,Upper Selway,penman
+2049,"High Emissions
+(SSP3-7.0)",1.288,1.167,1.235,Upper Selway,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",1.283,1.167,1.257,Upper Selway,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",1.295,1.127,1.234,Upper Selway,penman
+2050,"Middle of the Road
+(SSP2-4.5)",1.315,1.152,1.222,Upper Selway,penman
+2050,"High Emissions
+(SSP3-7.0)",1.301,1.156,1.229,Upper Selway,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",1.357,1.181,1.229,Upper Selway,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",1.261,1.142,1.233,Upper Selway,penman
+2051,"Middle of the Road
+(SSP2-4.5)",1.297,1.199,1.227,Upper Selway,penman
+2051,"High Emissions
+(SSP3-7.0)",1.282,1.173,1.219,Upper Selway,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",1.301,1.172,1.247,Upper Selway,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",1.255,1.156,1.203,Upper Selway,penman
+2052,"Middle of the Road
+(SSP2-4.5)",1.304,1.146,1.193,Upper Selway,penman
+2052,"High Emissions
+(SSP3-7.0)",1.245,1.13,1.191,Upper Selway,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",1.284,1.168,1.224,Upper Selway,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",1.275,1.145,1.187,Upper Selway,penman
+2053,"Middle of the Road
+(SSP2-4.5)",1.285,1.164,1.231,Upper Selway,penman
+2053,"High Emissions
+(SSP3-7.0)",1.376,1.21,1.286,Upper Selway,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",1.311,1.178,1.203,Upper Selway,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",1.281,1.187,1.238,Upper Selway,penman
+2054,"Middle of the Road
+(SSP2-4.5)",1.281,1.164,1.2,Upper Selway,penman
+2054,"High Emissions
+(SSP3-7.0)",1.273,1.173,1.224,Upper Selway,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",1.355,1.184,1.28,Upper Selway,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",1.298,1.168,1.245,Upper Selway,penman
+2055,"Middle of the Road
+(SSP2-4.5)",1.322,1.155,1.233,Upper Selway,penman
+2055,"High Emissions
+(SSP3-7.0)",1.288,1.181,1.233,Upper Selway,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",1.363,1.197,1.243,Upper Selway,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",1.286,1.139,1.251,Upper Selway,penman
+2056,"Middle of the Road
+(SSP2-4.5)",1.323,1.193,1.233,Upper Selway,penman
+2056,"High Emissions
+(SSP3-7.0)",1.256,1.178,1.228,Upper Selway,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",1.293,1.24,1.252,Upper Selway,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",1.281,1.097,1.207,Upper Selway,penman
+2057,"Middle of the Road
+(SSP2-4.5)",1.293,1.201,1.258,Upper Selway,penman
+2057,"High Emissions
+(SSP3-7.0)",1.292,1.143,1.232,Upper Selway,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",1.326,1.186,1.263,Upper Selway,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",1.29,1.144,1.252,Upper Selway,penman
+2058,"Middle of the Road
+(SSP2-4.5)",1.387,1.168,1.256,Upper Selway,penman
+2058,"High Emissions
+(SSP3-7.0)",1.302,1.154,1.237,Upper Selway,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",1.324,1.148,1.218,Upper Selway,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",1.35,1.173,1.242,Upper Selway,penman
+2059,"Middle of the Road
+(SSP2-4.5)",1.387,1.175,1.212,Upper Selway,penman
+2059,"High Emissions
+(SSP3-7.0)",1.32,1.195,1.266,Upper Selway,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",1.322,1.223,1.296,Upper Selway,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",1.295,1.165,1.192,Upper Selway,penman
+2060,"Middle of the Road
+(SSP2-4.5)",1.393,1.163,1.225,Upper Selway,penman
+2060,"High Emissions
+(SSP3-7.0)",1.32,1.171,1.276,Upper Selway,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",1.3,1.167,1.264,Upper Selway,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",1.279,1.124,1.24,Upper Selway,penman
+2061,"Middle of the Road
+(SSP2-4.5)",1.313,1.16,1.19,Upper Selway,penman
+2061,"High Emissions
+(SSP3-7.0)",1.32,1.186,1.277,Upper Selway,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",1.384,1.221,1.338,Upper Selway,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",1.275,1.16,1.213,Upper Selway,penman
+2062,"Middle of the Road
+(SSP2-4.5)",1.303,1.169,1.233,Upper Selway,penman
+2062,"High Emissions
+(SSP3-7.0)",1.291,1.195,1.238,Upper Selway,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",1.354,1.229,1.279,Upper Selway,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",1.262,1.188,1.222,Upper Selway,penman
+2063,"Middle of the Road
+(SSP2-4.5)",1.263,1.146,1.194,Upper Selway,penman
+2063,"High Emissions
+(SSP3-7.0)",1.327,1.223,1.253,Upper Selway,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",1.34,1.234,1.289,Upper Selway,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",1.285,1.15,1.234,Upper Selway,penman
+2064,"Middle of the Road
+(SSP2-4.5)",1.285,1.16,1.225,Upper Selway,penman
+2064,"High Emissions
+(SSP3-7.0)",1.317,1.237,1.274,Upper Selway,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",1.357,1.207,1.306,Upper Selway,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",1.303,1.134,1.196,Upper Selway,penman
+2065,"Middle of the Road
+(SSP2-4.5)",1.281,1.164,1.24,Upper Selway,penman
+2065,"High Emissions
+(SSP3-7.0)",1.306,1.206,1.271,Upper Selway,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",1.409,1.242,1.326,Upper Selway,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",1.311,1.177,1.24,Upper Selway,penman
+2066,"Middle of the Road
+(SSP2-4.5)",1.329,1.186,1.238,Upper Selway,penman
+2066,"High Emissions
+(SSP3-7.0)",1.302,1.183,1.233,Upper Selway,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",1.403,1.214,1.304,Upper Selway,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",1.242,1.191,1.221,Upper Selway,penman
+2067,"Middle of the Road
+(SSP2-4.5)",1.331,1.153,1.212,Upper Selway,penman
+2067,"High Emissions
+(SSP3-7.0)",1.45,1.197,1.302,Upper Selway,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",1.375,1.211,1.237,Upper Selway,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",1.273,1.157,1.207,Upper Selway,penman
+2068,"Middle of the Road
+(SSP2-4.5)",1.298,1.167,1.239,Upper Selway,penman
+2068,"High Emissions
+(SSP3-7.0)",1.301,1.162,1.241,Upper Selway,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",1.344,1.164,1.26,Upper Selway,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",1.294,1.196,1.241,Upper Selway,penman
+2069,"Middle of the Road
+(SSP2-4.5)",1.329,1.141,1.253,Upper Selway,penman
+2069,"High Emissions
+(SSP3-7.0)",1.419,1.223,1.314,Upper Selway,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",1.4,1.21,1.348,Upper Selway,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",1.298,1.16,1.212,Upper Selway,penman
+2070,"Middle of the Road
+(SSP2-4.5)",1.3,1.168,1.211,Upper Selway,penman
+2070,"High Emissions
+(SSP3-7.0)",1.356,1.219,1.269,Upper Selway,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",1.361,1.232,1.293,Upper Selway,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",1.328,1.156,1.2,Upper Selway,penman
+2071,"Middle of the Road
+(SSP2-4.5)",1.296,1.177,1.263,Upper Selway,penman
+2071,"High Emissions
+(SSP3-7.0)",1.331,1.203,1.258,Upper Selway,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",1.414,1.266,1.301,Upper Selway,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",1.31,1.178,1.262,Upper Selway,penman
+2072,"Middle of the Road
+(SSP2-4.5)",1.289,1.189,1.233,Upper Selway,penman
+2072,"High Emissions
+(SSP3-7.0)",1.401,1.171,1.258,Upper Selway,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",1.37,1.244,1.304,Upper Selway,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",1.292,1.172,1.193,Upper Selway,penman
+2073,"Middle of the Road
+(SSP2-4.5)",1.343,1.143,1.208,Upper Selway,penman
+2073,"High Emissions
+(SSP3-7.0)",1.339,1.229,1.282,Upper Selway,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",1.409,1.191,1.29,Upper Selway,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",1.312,1.108,1.227,Upper Selway,penman
+2074,"Middle of the Road
+(SSP2-4.5)",1.337,1.161,1.253,Upper Selway,penman
+2074,"High Emissions
+(SSP3-7.0)",1.338,1.203,1.271,Upper Selway,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",1.524,1.238,1.317,Upper Selway,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",1.271,1.107,1.224,Upper Selway,penman
+2075,"Middle of the Road
+(SSP2-4.5)",1.379,1.171,1.243,Upper Selway,penman
+2075,"High Emissions
+(SSP3-7.0)",1.345,1.173,1.271,Upper Selway,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",1.474,1.24,1.285,Upper Selway,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",1.272,1.146,1.214,Upper Selway,penman
+2076,"Middle of the Road
+(SSP2-4.5)",1.289,1.183,1.214,Upper Selway,penman
+2076,"High Emissions
+(SSP3-7.0)",1.357,1.236,1.265,Upper Selway,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",1.408,1.237,1.3,Upper Selway,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",1.279,1.153,1.25,Upper Selway,penman
+2077,"Middle of the Road
+(SSP2-4.5)",1.34,1.161,1.272,Upper Selway,penman
+2077,"High Emissions
+(SSP3-7.0)",1.384,1.226,1.241,Upper Selway,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",1.4,1.267,1.315,Upper Selway,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",1.313,1.182,1.223,Upper Selway,penman
+2078,"Middle of the Road
+(SSP2-4.5)",1.376,1.164,1.251,Upper Selway,penman
+2078,"High Emissions
+(SSP3-7.0)",1.413,1.219,1.286,Upper Selway,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",1.412,1.201,1.254,Upper Selway,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",1.375,1.134,1.226,Upper Selway,penman
+2079,"Middle of the Road
+(SSP2-4.5)",1.32,1.206,1.265,Upper Selway,penman
+2079,"High Emissions
+(SSP3-7.0)",1.357,1.235,1.262,Upper Selway,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",1.467,1.258,1.275,Upper Selway,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",1.29,1.161,1.204,Upper Selway,penman
+2080,"Middle of the Road
+(SSP2-4.5)",1.368,1.144,1.235,Upper Selway,penman
+2080,"High Emissions
+(SSP3-7.0)",1.412,1.246,1.295,Upper Selway,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",1.485,1.232,1.34,Upper Selway,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",1.303,1.171,1.241,Upper Selway,penman
+2081,"Middle of the Road
+(SSP2-4.5)",1.293,1.223,1.247,Upper Selway,penman
+2081,"High Emissions
+(SSP3-7.0)",1.423,1.229,1.34,Upper Selway,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",1.459,1.303,1.338,Upper Selway,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",1.306,1.181,1.242,Upper Selway,penman
+2082,"Middle of the Road
+(SSP2-4.5)",1.367,1.197,1.23,Upper Selway,penman
+2082,"High Emissions
+(SSP3-7.0)",1.385,1.22,1.285,Upper Selway,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",1.441,1.244,1.359,Upper Selway,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",1.305,1.178,1.235,Upper Selway,penman
+2083,"Middle of the Road
+(SSP2-4.5)",1.31,1.17,1.27,Upper Selway,penman
+2083,"High Emissions
+(SSP3-7.0)",1.375,1.177,1.268,Upper Selway,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",1.401,1.251,1.338,Upper Selway,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",1.339,1.148,1.174,Upper Selway,penman
+2084,"Middle of the Road
+(SSP2-4.5)",1.343,1.229,1.266,Upper Selway,penman
+2084,"High Emissions
+(SSP3-7.0)",1.395,1.265,1.335,Upper Selway,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",1.436,1.237,1.351,Upper Selway,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",1.317,1.127,1.174,Upper Selway,penman
+2085,"Middle of the Road
+(SSP2-4.5)",1.33,1.169,1.298,Upper Selway,penman
+2085,"High Emissions
+(SSP3-7.0)",1.378,1.214,1.257,Upper Selway,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",1.401,1.271,1.346,Upper Selway,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",1.302,1.183,1.231,Upper Selway,penman
+2086,"Middle of the Road
+(SSP2-4.5)",1.345,1.202,1.262,Upper Selway,penman
+2086,"High Emissions
+(SSP3-7.0)",1.414,1.22,1.306,Upper Selway,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",1.427,1.286,1.368,Upper Selway,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",1.253,1.138,1.222,Upper Selway,penman
+2087,"Middle of the Road
+(SSP2-4.5)",1.313,1.206,1.259,Upper Selway,penman
+2087,"High Emissions
+(SSP3-7.0)",1.466,1.171,1.274,Upper Selway,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",1.466,1.272,1.336,Upper Selway,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",1.276,1.161,1.205,Upper Selway,penman
+2088,"Middle of the Road
+(SSP2-4.5)",1.363,1.223,1.285,Upper Selway,penman
+2088,"High Emissions
+(SSP3-7.0)",1.412,1.26,1.306,Upper Selway,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",1.51,1.269,1.344,Upper Selway,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",1.322,1.129,1.231,Upper Selway,penman
+2089,"Middle of the Road
+(SSP2-4.5)",1.403,1.169,1.279,Upper Selway,penman
+2089,"High Emissions
+(SSP3-7.0)",1.427,1.269,1.359,Upper Selway,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",1.474,1.247,1.412,Upper Selway,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",1.267,1.177,1.216,Upper Selway,penman
+2090,"Middle of the Road
+(SSP2-4.5)",1.323,1.183,1.235,Upper Selway,penman
+2090,"High Emissions
+(SSP3-7.0)",1.518,1.291,1.368,Upper Selway,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",1.458,1.265,1.347,Upper Selway,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",1.286,1.164,1.207,Upper Selway,penman
+2091,"Middle of the Road
+(SSP2-4.5)",1.359,1.196,1.244,Upper Selway,penman
+2091,"High Emissions
+(SSP3-7.0)",1.44,1.274,1.342,Upper Selway,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",1.443,1.283,1.335,Upper Selway,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",1.276,1.143,1.2,Upper Selway,penman
+2092,"Middle of the Road
+(SSP2-4.5)",1.391,1.199,1.28,Upper Selway,penman
+2092,"High Emissions
+(SSP3-7.0)",1.381,1.251,1.312,Upper Selway,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",1.46,1.249,1.372,Upper Selway,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",1.252,1.153,1.206,Upper Selway,penman
+2093,"Middle of the Road
+(SSP2-4.5)",1.362,1.203,1.253,Upper Selway,penman
+2093,"High Emissions
+(SSP3-7.0)",1.403,1.251,1.307,Upper Selway,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",1.47,1.27,1.362,Upper Selway,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",1.295,1.128,1.224,Upper Selway,penman
+2094,"Middle of the Road
+(SSP2-4.5)",1.441,1.131,1.291,Upper Selway,penman
+2094,"High Emissions
+(SSP3-7.0)",1.363,1.276,1.323,Upper Selway,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",1.473,1.3,1.354,Upper Selway,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",1.335,1.149,1.25,Upper Selway,penman
+2095,"Middle of the Road
+(SSP2-4.5)",1.348,1.257,1.289,Upper Selway,penman
+2095,"High Emissions
+(SSP3-7.0)",1.479,1.279,1.341,Upper Selway,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",1.431,1.299,1.319,Upper Selway,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",1.296,1.155,1.231,Upper Selway,penman
+2096,"Middle of the Road
+(SSP2-4.5)",1.337,1.23,1.273,Upper Selway,penman
+2096,"High Emissions
+(SSP3-7.0)",1.454,1.279,1.303,Upper Selway,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",1.529,1.251,1.34,Upper Selway,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",1.289,1.208,1.226,Upper Selway,penman
+2097,"Middle of the Road
+(SSP2-4.5)",1.395,1.24,1.284,Upper Selway,penman
+2097,"High Emissions
+(SSP3-7.0)",1.475,1.272,1.349,Upper Selway,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",1.459,1.3,1.347,Upper Selway,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",1.297,1.146,1.21,Upper Selway,penman
+2098,"Middle of the Road
+(SSP2-4.5)",1.326,1.196,1.254,Upper Selway,penman
+2098,"High Emissions
+(SSP3-7.0)",1.427,1.282,1.335,Upper Selway,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",1.442,1.302,1.366,Upper Selway,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",1.292,1.142,1.214,Upper Selway,penman
+2099,"Middle of the Road
+(SSP2-4.5)",1.286,1.188,1.257,Upper Selway,penman
+2099,"High Emissions
+(SSP3-7.0)",1.428,1.248,1.312,Upper Selway,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",1.526,1.299,1.392,Upper Selway,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",1.286,1.145,1.157,Upper Selway,penman
+2100,"Middle of the Road
+(SSP2-4.5)",1.339,1.212,1.259,Upper Selway,penman
+2100,"High Emissions
+(SSP3-7.0)",1.376,1.273,1.313,Upper Selway,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",1.47,1.319,1.354,Upper Selway,penman

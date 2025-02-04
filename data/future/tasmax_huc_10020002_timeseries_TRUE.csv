@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,58.385,55.929,56.864,Beaverhead,tasmax
+1951,Historical Emissions,58.731,55.363,57.008,Beaverhead,tasmax
+1952,Historical Emissions,57.864,54.344,56.332,Beaverhead,tasmax
+1953,Historical Emissions,58.274,54.9,56.754,Beaverhead,tasmax
+1954,Historical Emissions,59.049,53.82,56.024,Beaverhead,tasmax
+1955,Historical Emissions,59.258,55.066,56.275,Beaverhead,tasmax
+1956,Historical Emissions,57.746,55.318,57.438,Beaverhead,tasmax
+1957,Historical Emissions,59.17,54.291,56.129,Beaverhead,tasmax
+1958,Historical Emissions,57.873,55.004,55.827,Beaverhead,tasmax
+1959,Historical Emissions,57.013,53.923,56.041,Beaverhead,tasmax
+1960,Historical Emissions,57.366,54.259,55.565,Beaverhead,tasmax
+1961,Historical Emissions,58.362,54.284,57.322,Beaverhead,tasmax
+1962,Historical Emissions,56.829,53.788,55.429,Beaverhead,tasmax
+1963,Historical Emissions,56.751,54.319,55.351,Beaverhead,tasmax
+1964,Historical Emissions,56.788,54.191,55.26,Beaverhead,tasmax
+1965,Historical Emissions,56.661,54.782,55.915,Beaverhead,tasmax
+1966,Historical Emissions,57.899,54.388,55.503,Beaverhead,tasmax
+1967,Historical Emissions,56.913,55.126,56.393,Beaverhead,tasmax
+1968,Historical Emissions,56.852,53.306,54.631,Beaverhead,tasmax
+1969,Historical Emissions,56.844,54.081,55.625,Beaverhead,tasmax
+1970,Historical Emissions,57.06,55.407,56.161,Beaverhead,tasmax
+1971,Historical Emissions,59.074,54.262,56.918,Beaverhead,tasmax
+1972,Historical Emissions,57.436,55.009,56.266,Beaverhead,tasmax
+1973,Historical Emissions,57.706,54.799,56.48,Beaverhead,tasmax
+1974,Historical Emissions,58,53.536,56.189,Beaverhead,tasmax
+1975,Historical Emissions,58.106,54.293,56.629,Beaverhead,tasmax
+1976,Historical Emissions,57.186,54.603,56.091,Beaverhead,tasmax
+1977,Historical Emissions,58.589,55.61,56.022,Beaverhead,tasmax
+1978,Historical Emissions,57.762,54.922,55.965,Beaverhead,tasmax
+1979,Historical Emissions,58.823,55.236,57.366,Beaverhead,tasmax
+1980,Historical Emissions,57.998,54.571,55.811,Beaverhead,tasmax
+1981,Historical Emissions,58.807,55.096,56.732,Beaverhead,tasmax
+1982,Historical Emissions,58.271,55.479,56.775,Beaverhead,tasmax
+1983,Historical Emissions,57.199,54.961,56.232,Beaverhead,tasmax
+1984,Historical Emissions,57.649,55.401,56.884,Beaverhead,tasmax
+1985,Historical Emissions,57.391,55.409,56.997,Beaverhead,tasmax
+1986,Historical Emissions,56.766,54.879,55.397,Beaverhead,tasmax
+1987,Historical Emissions,56.954,54.686,56.032,Beaverhead,tasmax
+1988,Historical Emissions,57.34,55.045,56.448,Beaverhead,tasmax
+1989,Historical Emissions,58.087,55.313,56.555,Beaverhead,tasmax
+1990,Historical Emissions,59.668,55.56,58.063,Beaverhead,tasmax
+1991,Historical Emissions,58.685,54.994,56.048,Beaverhead,tasmax
+1992,Historical Emissions,57.265,55.14,55.738,Beaverhead,tasmax
+1993,Historical Emissions,58.129,54.475,56.906,Beaverhead,tasmax
+1994,Historical Emissions,58.952,55.21,56.497,Beaverhead,tasmax
+1995,Historical Emissions,58.412,55.335,56.116,Beaverhead,tasmax
+1996,Historical Emissions,60.029,57.616,58.309,Beaverhead,tasmax
+1997,Historical Emissions,58.884,54.622,56.288,Beaverhead,tasmax
+1998,Historical Emissions,60.113,55.449,57.043,Beaverhead,tasmax
+1999,Historical Emissions,59.024,55.942,57.46,Beaverhead,tasmax
+2000,Historical Emissions,58.874,55.609,56.865,Beaverhead,tasmax
+2001,Historical Emissions,59.147,56.342,57.921,Beaverhead,tasmax
+2002,Historical Emissions,61.525,56.671,58.278,Beaverhead,tasmax
+2003,Historical Emissions,59.858,57.582,59.003,Beaverhead,tasmax
+2004,Historical Emissions,60.247,58.295,58.507,Beaverhead,tasmax
+2005,Historical Emissions,61.569,57.351,59.723,Beaverhead,tasmax
+2006,Historical Emissions,59.967,56.678,57.737,Beaverhead,tasmax
+2007,Historical Emissions,59.352,56.646,58.183,Beaverhead,tasmax
+2008,Historical Emissions,59.307,57.638,58.17,Beaverhead,tasmax
+2009,Historical Emissions,59.41,56.626,58.094,Beaverhead,tasmax
+2010,Historical Emissions,59.927,56.661,58.817,Beaverhead,tasmax
+2011,Historical Emissions,60.125,56.873,58.01,Beaverhead,tasmax
+2012,Historical Emissions,59.404,57.185,59.023,Beaverhead,tasmax
+2013,Historical Emissions,60.602,57.38,59.293,Beaverhead,tasmax
+2014,Historical Emissions,60.524,57.967,59.421,Beaverhead,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",61.06,58.726,59.287,Beaverhead,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",60.139,57.773,58.308,Beaverhead,tasmax
+2015,"High Emissions
+(SSP3-7.0)",60.953,56.476,58.894,Beaverhead,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",59.547,57.388,58.841,Beaverhead,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",61.47,58.693,59.147,Beaverhead,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",60.713,57.043,58.008,Beaverhead,tasmax
+2016,"High Emissions
+(SSP3-7.0)",61.32,57.999,59.611,Beaverhead,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",61.002,58.011,59.058,Beaverhead,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",60.328,57.292,58.546,Beaverhead,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",61.51,57.12,59.622,Beaverhead,tasmax
+2017,"High Emissions
+(SSP3-7.0)",60.038,58.62,59.53,Beaverhead,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",61.598,57.742,59.457,Beaverhead,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",60.152,57.784,58.238,Beaverhead,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",60.84,57.582,59.451,Beaverhead,tasmax
+2018,"High Emissions
+(SSP3-7.0)",60.717,56.622,59.039,Beaverhead,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",59.485,58.471,58.935,Beaverhead,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",62.511,58.584,60.558,Beaverhead,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",61.338,56.038,58.258,Beaverhead,tasmax
+2019,"High Emissions
+(SSP3-7.0)",61.515,57.587,59.239,Beaverhead,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",62.011,58.035,58.825,Beaverhead,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",61.501,58.358,59.542,Beaverhead,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",60.238,57.467,59.154,Beaverhead,tasmax
+2020,"High Emissions
+(SSP3-7.0)",60.576,57.602,59.105,Beaverhead,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",60.818,57.433,58.153,Beaverhead,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",61.538,58.299,59.446,Beaverhead,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",61.266,57.607,60.054,Beaverhead,tasmax
+2021,"High Emissions
+(SSP3-7.0)",61.407,58.736,59.373,Beaverhead,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",60.62,59.002,59.323,Beaverhead,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",61.453,58.075,59.234,Beaverhead,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",61.337,58.215,59.485,Beaverhead,tasmax
+2022,"High Emissions
+(SSP3-7.0)",60.555,57.748,58.508,Beaverhead,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",62.485,58.419,59.407,Beaverhead,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",60.663,58.407,59.719,Beaverhead,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",61.972,57.887,59.393,Beaverhead,tasmax
+2023,"High Emissions
+(SSP3-7.0)",61.461,57.71,59.603,Beaverhead,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",60.514,56.914,58.581,Beaverhead,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",61.655,57.739,59.458,Beaverhead,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",60.616,58.474,59.37,Beaverhead,tasmax
+2024,"High Emissions
+(SSP3-7.0)",62.677,58.342,59.58,Beaverhead,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",62.189,57.542,59.438,Beaverhead,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",61.295,59.098,60.645,Beaverhead,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",61.28,57.612,58.742,Beaverhead,tasmax
+2025,"High Emissions
+(SSP3-7.0)",63.027,59.258,60.494,Beaverhead,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",62.481,59.382,59.778,Beaverhead,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",62.114,58.154,59.893,Beaverhead,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",61.707,58.552,59.779,Beaverhead,tasmax
+2026,"High Emissions
+(SSP3-7.0)",61.095,57.315,59.012,Beaverhead,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",62.406,58.373,60.202,Beaverhead,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",61.68,57.058,59.227,Beaverhead,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",65.167,57.651,60.779,Beaverhead,tasmax
+2027,"High Emissions
+(SSP3-7.0)",61.771,58.169,60.225,Beaverhead,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",61.556,58.228,60.746,Beaverhead,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",62.217,59.166,59.996,Beaverhead,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",61.018,56.523,59.208,Beaverhead,tasmax
+2028,"High Emissions
+(SSP3-7.0)",61.496,59.36,60.119,Beaverhead,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",61.684,58.501,60.057,Beaverhead,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",62.805,59.59,62.262,Beaverhead,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",62.397,58.558,59.979,Beaverhead,tasmax
+2029,"High Emissions
+(SSP3-7.0)",61.315,57.306,59.597,Beaverhead,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",62.366,58.951,59.82,Beaverhead,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",62.346,58.799,59.924,Beaverhead,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",62.726,59.492,60.819,Beaverhead,tasmax
+2030,"High Emissions
+(SSP3-7.0)",61.801,59.264,59.677,Beaverhead,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",63.225,59.096,60.059,Beaverhead,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",61.667,58.525,60.194,Beaverhead,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",63.231,57.925,60.876,Beaverhead,tasmax
+2031,"High Emissions
+(SSP3-7.0)",62.566,57.976,61.195,Beaverhead,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",62.214,59.635,61.627,Beaverhead,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",61.95,58.16,60.79,Beaverhead,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",61.6,58.275,59.445,Beaverhead,tasmax
+2032,"High Emissions
+(SSP3-7.0)",62.015,57.858,59.626,Beaverhead,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",62.912,58.414,59.803,Beaverhead,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",62.014,58.945,60.08,Beaverhead,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",62.651,58.989,61.339,Beaverhead,tasmax
+2033,"High Emissions
+(SSP3-7.0)",61.808,58.197,60.106,Beaverhead,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",62.541,58.972,61.107,Beaverhead,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",61.434,58.417,60.223,Beaverhead,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",62.353,58.429,60.379,Beaverhead,tasmax
+2034,"High Emissions
+(SSP3-7.0)",61.92,59.08,61.011,Beaverhead,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",62.66,57.303,60.914,Beaverhead,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",62.191,58.288,60.675,Beaverhead,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",63.001,59.273,60.569,Beaverhead,tasmax
+2035,"High Emissions
+(SSP3-7.0)",61.847,58.391,60.523,Beaverhead,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",61.83,58.979,61.157,Beaverhead,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",62.405,59.336,60.965,Beaverhead,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",61.112,58.934,60.724,Beaverhead,tasmax
+2036,"High Emissions
+(SSP3-7.0)",62.158,59.522,60.504,Beaverhead,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",62.826,57.431,61.634,Beaverhead,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",62.667,59.605,60.462,Beaverhead,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",63.304,57.591,60.223,Beaverhead,tasmax
+2037,"High Emissions
+(SSP3-7.0)",62.862,57.304,59.62,Beaverhead,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",62.089,59.373,60.992,Beaverhead,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",62.75,59.191,59.734,Beaverhead,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",61.358,58.65,60.408,Beaverhead,tasmax
+2038,"High Emissions
+(SSP3-7.0)",63.033,59.694,60.86,Beaverhead,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",63.399,59.039,61.593,Beaverhead,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",62.46,58.279,60.933,Beaverhead,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",60.693,58.888,60.34,Beaverhead,tasmax
+2039,"High Emissions
+(SSP3-7.0)",63.259,59.865,61.47,Beaverhead,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",64.026,58.355,60.267,Beaverhead,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",63.555,58.537,60.422,Beaverhead,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",62.356,59.035,61.089,Beaverhead,tasmax
+2040,"High Emissions
+(SSP3-7.0)",62.257,59.841,60.834,Beaverhead,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",65.021,60.086,62.059,Beaverhead,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",62.365,57.671,60.017,Beaverhead,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",62.172,59.357,61.143,Beaverhead,tasmax
+2041,"High Emissions
+(SSP3-7.0)",62.503,58.427,60.913,Beaverhead,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",61.805,59.298,61.011,Beaverhead,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",63.707,59.316,60.525,Beaverhead,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",61.949,58.537,60.734,Beaverhead,tasmax
+2042,"High Emissions
+(SSP3-7.0)",62.371,59.243,60.374,Beaverhead,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",64.27,59.886,60.846,Beaverhead,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",62.782,58.797,61.213,Beaverhead,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",62.214,60.067,60.805,Beaverhead,tasmax
+2043,"High Emissions
+(SSP3-7.0)",62.081,59.181,61.216,Beaverhead,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",62.673,60.28,61.495,Beaverhead,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",62.998,59.081,61.888,Beaverhead,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",64.129,59.601,61.718,Beaverhead,tasmax
+2044,"High Emissions
+(SSP3-7.0)",63.161,60.341,61.289,Beaverhead,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",65.248,60.198,61.598,Beaverhead,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",62.415,60.24,60.734,Beaverhead,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",63.963,59.504,61.844,Beaverhead,tasmax
+2045,"High Emissions
+(SSP3-7.0)",64.404,59.24,61.354,Beaverhead,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",62.874,59.949,62.192,Beaverhead,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",63.344,59.808,60.662,Beaverhead,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",63.105,58.857,62.025,Beaverhead,tasmax
+2046,"High Emissions
+(SSP3-7.0)",62.986,60.499,61.039,Beaverhead,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",62.708,58.997,60.046,Beaverhead,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",63.309,60.078,61.593,Beaverhead,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",63.006,57.492,61.175,Beaverhead,tasmax
+2047,"High Emissions
+(SSP3-7.0)",62.879,60.427,61.349,Beaverhead,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",64.769,59.369,62.813,Beaverhead,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",63.267,58.746,60.561,Beaverhead,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",63.797,59.51,62.261,Beaverhead,tasmax
+2048,"High Emissions
+(SSP3-7.0)",63.422,58.935,61.55,Beaverhead,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",66.988,59.443,63.673,Beaverhead,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",62.086,58.314,59.483,Beaverhead,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",63.486,59.001,61.205,Beaverhead,tasmax
+2049,"High Emissions
+(SSP3-7.0)",63.673,60.21,61.888,Beaverhead,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",63.759,60.662,62.197,Beaverhead,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",63.163,58.409,60.723,Beaverhead,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",63.835,59.544,62.712,Beaverhead,tasmax
+2050,"High Emissions
+(SSP3-7.0)",64.098,60.068,61.876,Beaverhead,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",64.195,59.459,62.311,Beaverhead,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",62.835,58.995,61.423,Beaverhead,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",62.938,59.911,61.679,Beaverhead,tasmax
+2051,"High Emissions
+(SSP3-7.0)",64.184,60.14,61.217,Beaverhead,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",64.787,59.463,62.159,Beaverhead,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",62.02,59.536,60.789,Beaverhead,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",62.973,59.25,60.341,Beaverhead,tasmax
+2052,"High Emissions
+(SSP3-7.0)",63.704,58.822,61.353,Beaverhead,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",62.669,61.308,62.204,Beaverhead,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",62.416,58.373,60.536,Beaverhead,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",63.501,59.083,61.869,Beaverhead,tasmax
+2053,"High Emissions
+(SSP3-7.0)",65.326,60.758,64.05,Beaverhead,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",64.874,59.493,61.488,Beaverhead,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",63.088,60.548,61.907,Beaverhead,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",62.743,59.391,60.849,Beaverhead,tasmax
+2054,"High Emissions
+(SSP3-7.0)",64.003,59.572,61.075,Beaverhead,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",64.917,60.986,62.736,Beaverhead,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",62.932,60.02,61.595,Beaverhead,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",64.139,59.062,62.839,Beaverhead,tasmax
+2055,"High Emissions
+(SSP3-7.0)",63.609,60.295,61.884,Beaverhead,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",64.895,60.815,63.511,Beaverhead,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",62.653,59.749,61.737,Beaverhead,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",65.293,60.752,62.27,Beaverhead,tasmax
+2056,"High Emissions
+(SSP3-7.0)",63.799,60.726,61.649,Beaverhead,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",64.899,62.242,63.48,Beaverhead,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",61.967,58.424,60.719,Beaverhead,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",64.102,60.533,62.2,Beaverhead,tasmax
+2057,"High Emissions
+(SSP3-7.0)",64.682,59.731,60.696,Beaverhead,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",65.619,60.73,62.54,Beaverhead,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",63.491,59.432,61.328,Beaverhead,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",65.338,59.928,61.713,Beaverhead,tasmax
+2058,"High Emissions
+(SSP3-7.0)",63.184,60.391,62.643,Beaverhead,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",64.25,59.705,62.262,Beaverhead,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",63.554,60.438,61.295,Beaverhead,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",65.056,60.248,63.272,Beaverhead,tasmax
+2059,"High Emissions
+(SSP3-7.0)",65.639,59.821,62.575,Beaverhead,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",65.451,61.416,63.175,Beaverhead,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",63.435,59.537,60.848,Beaverhead,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",65.246,59.736,61.304,Beaverhead,tasmax
+2060,"High Emissions
+(SSP3-7.0)",64.741,60.693,62.685,Beaverhead,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",64.665,61.006,62.845,Beaverhead,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",62.336,59.317,60.935,Beaverhead,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",63.626,59.675,61.238,Beaverhead,tasmax
+2061,"High Emissions
+(SSP3-7.0)",64.093,61.037,63.041,Beaverhead,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",66.441,62.344,64.361,Beaverhead,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",62.953,59.733,61.453,Beaverhead,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",64.515,59.292,61.263,Beaverhead,tasmax
+2062,"High Emissions
+(SSP3-7.0)",63.859,61.345,62.715,Beaverhead,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",65.889,62.118,64.448,Beaverhead,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",63.409,59.621,60.838,Beaverhead,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",63.744,59.329,61.119,Beaverhead,tasmax
+2063,"High Emissions
+(SSP3-7.0)",64.196,61.723,62.234,Beaverhead,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",66.355,61.709,64.868,Beaverhead,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",64.506,58.933,61.967,Beaverhead,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",62.799,59.766,61.605,Beaverhead,tasmax
+2064,"High Emissions
+(SSP3-7.0)",63.543,61.18,62.765,Beaverhead,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",65.05,61.992,63.605,Beaverhead,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",62.544,58.907,60.767,Beaverhead,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",63.984,59.027,62.751,Beaverhead,tasmax
+2065,"High Emissions
+(SSP3-7.0)",64.451,60.997,62.983,Beaverhead,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",67.472,63.157,64.654,Beaverhead,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",63.506,59.848,62.358,Beaverhead,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",64.483,61.436,62.422,Beaverhead,tasmax
+2066,"High Emissions
+(SSP3-7.0)",65.455,60.531,62.792,Beaverhead,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",67.254,61.913,64.961,Beaverhead,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",63.137,61.475,61.933,Beaverhead,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",64.302,59.961,61.338,Beaverhead,tasmax
+2067,"High Emissions
+(SSP3-7.0)",66.295,62.116,64.007,Beaverhead,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",66.648,62.368,63.762,Beaverhead,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",64.295,59.627,61.037,Beaverhead,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",64.216,60.204,62.562,Beaverhead,tasmax
+2068,"High Emissions
+(SSP3-7.0)",64.656,60.815,61.959,Beaverhead,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",65.447,62.409,63.653,Beaverhead,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",63.92,60.22,61.851,Beaverhead,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",64.147,58.996,61.778,Beaverhead,tasmax
+2069,"High Emissions
+(SSP3-7.0)",68.133,62.501,63.372,Beaverhead,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",68.504,62.094,65.37,Beaverhead,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",62.238,59.769,60.967,Beaverhead,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",64.366,58.912,62.065,Beaverhead,tasmax
+2070,"High Emissions
+(SSP3-7.0)",66.59,62.48,63.524,Beaverhead,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",67.892,63.084,64.432,Beaverhead,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",64.081,58.772,61.176,Beaverhead,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",63.991,60.004,62.046,Beaverhead,tasmax
+2071,"High Emissions
+(SSP3-7.0)",65.002,62.699,64.013,Beaverhead,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",67.208,62.329,63.789,Beaverhead,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",63.853,60.81,61.551,Beaverhead,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",64.59,60.975,62.557,Beaverhead,tasmax
+2072,"High Emissions
+(SSP3-7.0)",67.054,61.191,63.112,Beaverhead,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",67.163,62.616,65.512,Beaverhead,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",62.352,59.652,61.139,Beaverhead,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",64.826,59.314,61.799,Beaverhead,tasmax
+2073,"High Emissions
+(SSP3-7.0)",66.617,62.641,63.824,Beaverhead,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",66.944,62.831,64.587,Beaverhead,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",64.51,58.687,62.214,Beaverhead,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",64.792,59.921,62.093,Beaverhead,tasmax
+2074,"High Emissions
+(SSP3-7.0)",65.237,61.509,62.393,Beaverhead,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",68.318,63.298,65.48,Beaverhead,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",63.902,57.75,62.045,Beaverhead,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",65.783,59.637,61.6,Beaverhead,tasmax
+2075,"High Emissions
+(SSP3-7.0)",66.916,60.478,61.314,Beaverhead,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",67.832,62.096,65.325,Beaverhead,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",63.288,57.997,60.388,Beaverhead,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",63.294,60.305,61.837,Beaverhead,tasmax
+2076,"High Emissions
+(SSP3-7.0)",67.761,62.611,64.234,Beaverhead,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",68.125,62.471,64.823,Beaverhead,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",63.584,59.395,62.826,Beaverhead,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",65.681,60.416,63.877,Beaverhead,tasmax
+2077,"High Emissions
+(SSP3-7.0)",67.388,61.152,64.427,Beaverhead,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",67.65,63.656,66.03,Beaverhead,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",63.713,60.065,61.505,Beaverhead,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",64.946,61.096,63.129,Beaverhead,tasmax
+2078,"High Emissions
+(SSP3-7.0)",66,62.07,63.993,Beaverhead,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",65.828,63.252,64.347,Beaverhead,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",63.79,58.349,61.728,Beaverhead,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",65.479,60.554,63.039,Beaverhead,tasmax
+2079,"High Emissions
+(SSP3-7.0)",64.992,61.854,63.601,Beaverhead,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",68.389,62.708,65.553,Beaverhead,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",62.051,59.196,60.485,Beaverhead,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",64.157,60,63.857,Beaverhead,tasmax
+2080,"High Emissions
+(SSP3-7.0)",68.377,63.234,64.421,Beaverhead,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",68.506,64.055,66.944,Beaverhead,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",64.118,59.995,60.516,Beaverhead,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",64.02,60.684,62.824,Beaverhead,tasmax
+2081,"High Emissions
+(SSP3-7.0)",68.157,61.396,63.985,Beaverhead,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",69.184,64.598,66.175,Beaverhead,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",64.2,60,61.909,Beaverhead,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",64.845,60.546,62.756,Beaverhead,tasmax
+2082,"High Emissions
+(SSP3-7.0)",67.459,61.318,63.701,Beaverhead,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",68.966,64.318,67.636,Beaverhead,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",63.461,60.134,61.895,Beaverhead,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",65.516,60.121,62.629,Beaverhead,tasmax
+2083,"High Emissions
+(SSP3-7.0)",66.697,61.752,63.763,Beaverhead,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",68.198,63.568,66.944,Beaverhead,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",64.491,58.785,59.863,Beaverhead,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",66.363,61.558,63.433,Beaverhead,tasmax
+2084,"High Emissions
+(SSP3-7.0)",68.112,63.236,65.876,Beaverhead,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",68.818,64.437,65.945,Beaverhead,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",64.294,58.375,60.411,Beaverhead,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",64.86,60.666,62.946,Beaverhead,tasmax
+2085,"High Emissions
+(SSP3-7.0)",66.215,62.301,63.904,Beaverhead,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",70.152,63.053,67.187,Beaverhead,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",62.561,60.049,61.675,Beaverhead,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",64.751,61.531,63.5,Beaverhead,tasmax
+2086,"High Emissions
+(SSP3-7.0)",67.527,63.052,65.016,Beaverhead,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",70.493,63.47,67.545,Beaverhead,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",61.947,59.447,60.885,Beaverhead,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",64.891,61.927,62.945,Beaverhead,tasmax
+2087,"High Emissions
+(SSP3-7.0)",68.152,62.515,64.469,Beaverhead,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",69.41,64.489,66.894,Beaverhead,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",62.861,59.671,60.564,Beaverhead,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",64.392,62.4,63.008,Beaverhead,tasmax
+2088,"High Emissions
+(SSP3-7.0)",68.002,62.372,65.826,Beaverhead,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",70.069,65.824,66.646,Beaverhead,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",62.24,59.204,60.47,Beaverhead,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",65.735,61.141,63.236,Beaverhead,tasmax
+2089,"High Emissions
+(SSP3-7.0)",68.18,62.68,65.984,Beaverhead,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",69.934,65.591,67.31,Beaverhead,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",62.918,59.917,61.604,Beaverhead,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",64.01,60.959,62.76,Beaverhead,tasmax
+2090,"High Emissions
+(SSP3-7.0)",68.913,64.442,65.687,Beaverhead,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",69.62,65.9,67.88,Beaverhead,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",63.417,59.392,60.896,Beaverhead,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",64.921,60.817,63.606,Beaverhead,tasmax
+2091,"High Emissions
+(SSP3-7.0)",67.899,64.383,66.541,Beaverhead,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",70.41,64.393,66.337,Beaverhead,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",62.981,58.443,61.287,Beaverhead,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",66.455,60.588,64.05,Beaverhead,tasmax
+2092,"High Emissions
+(SSP3-7.0)",67.025,64.055,64.932,Beaverhead,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",69.86,64.389,68.056,Beaverhead,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",63.242,58.135,60.123,Beaverhead,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",65.285,60.642,62.883,Beaverhead,tasmax
+2093,"High Emissions
+(SSP3-7.0)",68.32,63.729,64.665,Beaverhead,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",71.473,65.58,66.334,Beaverhead,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",64.477,59.196,59.727,Beaverhead,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",66.619,60.238,63.827,Beaverhead,tasmax
+2094,"High Emissions
+(SSP3-7.0)",68.891,62.528,66.143,Beaverhead,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",72.273,64.847,68.881,Beaverhead,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",64.453,59.237,62.247,Beaverhead,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",66.657,62.08,63.61,Beaverhead,tasmax
+2095,"High Emissions
+(SSP3-7.0)",69.978,63.777,67.336,Beaverhead,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",69.789,64.862,67.087,Beaverhead,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",62.446,59.393,61.116,Beaverhead,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",66.506,62.482,63.59,Beaverhead,tasmax
+2096,"High Emissions
+(SSP3-7.0)",67.844,63.845,67.137,Beaverhead,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",70.192,65.128,67.379,Beaverhead,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",62.683,59.436,60.326,Beaverhead,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",67.173,61.586,63.837,Beaverhead,tasmax
+2097,"High Emissions
+(SSP3-7.0)",70.132,63.777,66.607,Beaverhead,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",72.396,64.479,67.475,Beaverhead,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",63.127,59.165,60.936,Beaverhead,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",63.885,60.997,62.799,Beaverhead,tasmax
+2098,"High Emissions
+(SSP3-7.0)",69.053,63.212,65.419,Beaverhead,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",71.359,66.459,68.254,Beaverhead,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",64.469,58.673,61.737,Beaverhead,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",65.323,60.282,63.515,Beaverhead,tasmax
+2099,"High Emissions
+(SSP3-7.0)",69.939,64.207,65.784,Beaverhead,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",72.133,66.241,68.878,Beaverhead,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",62.826,58.203,59.4,Beaverhead,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",66.581,61.67,63.321,Beaverhead,tasmax
+2100,"High Emissions
+(SSP3-7.0)",68.148,63.456,66.11,Beaverhead,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",71.528,65.549,67.935,Beaverhead,tasmax

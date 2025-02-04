@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1.625,0,1,O'Fallon,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1.625,0,1,O'Fallon,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.538,0.213,1,O'Fallon,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.625,0,1,O'Fallon,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.825,0.588,1,O'Fallon,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.5,0.125,1,O'Fallon,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.238,0.175,0.875,O'Fallon,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.75,0.25,1,O'Fallon,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.15,0,1,O'Fallon,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.875,0.125,1,O'Fallon,con-wet

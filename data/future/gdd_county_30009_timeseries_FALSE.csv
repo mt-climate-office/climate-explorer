@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2336.218,1889.274,2090.528,Carbon County,gdd
+1951,Historical Emissions,2326.722,1958.483,2102.328,Carbon County,gdd
+1952,Historical Emissions,2261.629,1810.744,2039.469,Carbon County,gdd
+1953,Historical Emissions,2289.403,1849.77,2032.344,Carbon County,gdd
+1954,Historical Emissions,2214.141,1645.231,1962.408,Carbon County,gdd
+1955,Historical Emissions,2412.917,1900.284,1982.222,Carbon County,gdd
+1956,Historical Emissions,2364.594,1898.471,2097.742,Carbon County,gdd
+1957,Historical Emissions,2516.302,1670.209,1924.81,Carbon County,gdd
+1958,Historical Emissions,2217.123,1821.89,1955.749,Carbon County,gdd
+1959,Historical Emissions,2109.997,1701.723,1952.764,Carbon County,gdd
+1960,Historical Emissions,2164.962,1825.076,1972.179,Carbon County,gdd
+1961,Historical Emissions,2166.01,1831.001,1979.205,Carbon County,gdd
+1962,Historical Emissions,2127.341,1743.929,1948.4,Carbon County,gdd
+1963,Historical Emissions,1993.002,1741.56,1917.487,Carbon County,gdd
+1964,Historical Emissions,2061.259,1787.318,1957.356,Carbon County,gdd
+1965,Historical Emissions,2101.895,1743.446,1989.382,Carbon County,gdd
+1966,Historical Emissions,2099.139,1680.25,1897.418,Carbon County,gdd
+1967,Historical Emissions,2177.557,1737.133,1925.123,Carbon County,gdd
+1968,Historical Emissions,2046.047,1653.378,1886.292,Carbon County,gdd
+1969,Historical Emissions,2084.026,1719.801,1986.62,Carbon County,gdd
+1970,Historical Emissions,2090.168,1792.874,1938.334,Carbon County,gdd
+1971,Historical Emissions,2343.095,1850.922,2056.809,Carbon County,gdd
+1972,Historical Emissions,2144.967,1720.425,1957.495,Carbon County,gdd
+1973,Historical Emissions,2279.665,1710.677,1932.376,Carbon County,gdd
+1974,Historical Emissions,2062.276,1598.188,1978.091,Carbon County,gdd
+1975,Historical Emissions,2195.446,1889.055,1963.956,Carbon County,gdd
+1976,Historical Emissions,2034.952,1879.822,1979.348,Carbon County,gdd
+1977,Historical Emissions,2289.452,1858.094,1968.643,Carbon County,gdd
+1978,Historical Emissions,2227.946,1819.427,1987.137,Carbon County,gdd
+1979,Historical Emissions,2232.245,1742.256,2031.297,Carbon County,gdd
+1980,Historical Emissions,2310.814,1706.557,1933.209,Carbon County,gdd
+1981,Historical Emissions,2204.291,1861.054,2073.583,Carbon County,gdd
+1982,Historical Emissions,2188.107,1849.262,2116.279,Carbon County,gdd
+1983,Historical Emissions,2054.54,1818.103,1899.091,Carbon County,gdd
+1984,Historical Emissions,2199.571,1753.639,2013.966,Carbon County,gdd
+1985,Historical Emissions,2198.223,1908.508,2102.035,Carbon County,gdd
+1986,Historical Emissions,2125.294,1766.212,1888.511,Carbon County,gdd
+1987,Historical Emissions,2104.228,1725.398,2010.956,Carbon County,gdd
+1988,Historical Emissions,2085.832,1763.03,1977.734,Carbon County,gdd
+1989,Historical Emissions,2239.465,1865.811,1971,Carbon County,gdd
+1990,Historical Emissions,2412.374,1944.752,2138.426,Carbon County,gdd
+1991,Historical Emissions,2261.371,1817.877,1903.603,Carbon County,gdd
+1992,Historical Emissions,2011.314,1746.205,1856.859,Carbon County,gdd
+1993,Historical Emissions,2077.34,1809.455,1889.46,Carbon County,gdd
+1994,Historical Emissions,2396.218,1784.222,1976.847,Carbon County,gdd
+1995,Historical Emissions,2378.192,1951.33,2075.971,Carbon County,gdd
+1996,Historical Emissions,2552.627,2007.771,2376.801,Carbon County,gdd
+1997,Historical Emissions,2141.095,1913.8,2045.858,Carbon County,gdd
+1998,Historical Emissions,2348.041,1954.37,2208.297,Carbon County,gdd
+1999,Historical Emissions,2232.474,1849.074,2118.588,Carbon County,gdd
+2000,Historical Emissions,2376.086,1958.491,2125.69,Carbon County,gdd
+2001,Historical Emissions,2343.825,1908.256,2151.785,Carbon County,gdd
+2002,Historical Emissions,2535.238,2128.664,2242.425,Carbon County,gdd
+2003,Historical Emissions,2367.25,2013.462,2282.451,Carbon County,gdd
+2004,Historical Emissions,2516.477,2149.84,2238.61,Carbon County,gdd
+2005,Historical Emissions,2555.285,2094.529,2320.278,Carbon County,gdd
+2006,Historical Emissions,2412.287,2005.268,2224.444,Carbon County,gdd
+2007,Historical Emissions,2235.525,2120.451,2166.205,Carbon County,gdd
+2008,Historical Emissions,2489.08,2099.62,2191.136,Carbon County,gdd
+2009,Historical Emissions,2364.063,2040.682,2137.755,Carbon County,gdd
+2010,Historical Emissions,2439.598,2067.683,2135.467,Carbon County,gdd
+2011,Historical Emissions,2546.46,2153.35,2268.15,Carbon County,gdd
+2012,Historical Emissions,2387.992,2207.018,2294.794,Carbon County,gdd
+2013,Historical Emissions,2639.015,2238.462,2480.845,Carbon County,gdd
+2014,Historical Emissions,2689.458,2162.218,2296.983,Carbon County,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",2664.744,2250.37,2440.905,Carbon County,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",2537.187,2197.481,2421.849,Carbon County,gdd
+2015,"High Emissions
+(SSP3-7.0)",2552.29,2178.865,2374.144,Carbon County,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",2449.872,2049.241,2354.274,Carbon County,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",2558.506,2307.98,2463.123,Carbon County,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",2542.417,2095.572,2218.458,Carbon County,gdd
+2016,"High Emissions
+(SSP3-7.0)",2577.799,2132.366,2395.931,Carbon County,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",2513.218,2202.371,2374.943,Carbon County,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",2609.084,2172.358,2367.631,Carbon County,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",2536.723,2091.139,2453.544,Carbon County,gdd
+2017,"High Emissions
+(SSP3-7.0)",2475.185,2203.445,2382.263,Carbon County,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",2622.832,2267.398,2448.452,Carbon County,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",2543.358,2086.631,2282.602,Carbon County,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",2584.736,2156.193,2359.601,Carbon County,gdd
+2018,"High Emissions
+(SSP3-7.0)",2405.173,1996.778,2266.143,Carbon County,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",2467.148,2171.719,2289.286,Carbon County,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",2818.343,2280.736,2430.982,Carbon County,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",2629.874,2079.191,2292.324,Carbon County,gdd
+2019,"High Emissions
+(SSP3-7.0)",2733.953,2147.334,2292.419,Carbon County,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",2733.953,2173.025,2363.604,Carbon County,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",2663.284,2226.708,2346.855,Carbon County,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",2511.324,2185.704,2431.89,Carbon County,gdd
+2020,"High Emissions
+(SSP3-7.0)",2606.474,2057.868,2249.83,Carbon County,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",2586.607,2130.407,2432.112,Carbon County,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",2606.793,2242.384,2362.449,Carbon County,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",2813.55,2077.838,2565.713,Carbon County,gdd
+2021,"High Emissions
+(SSP3-7.0)",2604.662,2174.075,2405.645,Carbon County,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",2524.978,2210.202,2398.761,Carbon County,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",2590.152,2293.536,2483.779,Carbon County,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",2518.745,2227.886,2411.089,Carbon County,gdd
+2022,"High Emissions
+(SSP3-7.0)",2465.448,2150.925,2359.871,Carbon County,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",2782.306,2209.964,2507.069,Carbon County,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",2485.369,2277.627,2355.441,Carbon County,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",2828.508,2173.219,2390.733,Carbon County,gdd
+2023,"High Emissions
+(SSP3-7.0)",2653.327,2187.113,2376.677,Carbon County,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",2553.422,2061.831,2231.77,Carbon County,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",2639.098,2294.45,2440.729,Carbon County,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",2585.308,2217.846,2488.281,Carbon County,gdd
+2024,"High Emissions
+(SSP3-7.0)",2787.597,2216.704,2627.607,Carbon County,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",2700.052,2175.44,2531.996,Carbon County,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",2655.074,2306.837,2430.007,Carbon County,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",2660.735,2195.69,2275.409,Carbon County,gdd
+2025,"High Emissions
+(SSP3-7.0)",2748.314,2381.01,2507.676,Carbon County,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",2809.291,2214.2,2577.985,Carbon County,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",2659.452,2223.337,2371.539,Carbon County,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",2854.606,2277.44,2522.351,Carbon County,gdd
+2026,"High Emissions
+(SSP3-7.0)",2514.822,2259.766,2296.202,Carbon County,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",2735.137,2166.109,2404.289,Carbon County,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",2823.344,2173.34,2516.041,Carbon County,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",2768.664,2207.709,2490.312,Carbon County,gdd
+2027,"High Emissions
+(SSP3-7.0)",2731.066,2223.822,2435.744,Carbon County,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",2741.919,2307.91,2510.906,Carbon County,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",2616.602,2248.509,2418.417,Carbon County,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",2517.177,2176.721,2361.473,Carbon County,gdd
+2028,"High Emissions
+(SSP3-7.0)",2604.048,2334.419,2480.33,Carbon County,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",2558.944,2283.922,2453.245,Carbon County,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",2858.891,2475.798,2600.589,Carbon County,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",2669.162,2236.785,2432.916,Carbon County,gdd
+2029,"High Emissions
+(SSP3-7.0)",2742.766,2157.389,2377.534,Carbon County,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",2727.396,2391.505,2550.374,Carbon County,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",2736.399,2230.726,2480.678,Carbon County,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",2895.204,2203.375,2596.356,Carbon County,gdd
+2030,"High Emissions
+(SSP3-7.0)",2721.59,2189.272,2539.883,Carbon County,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",2922.385,2263.731,2467.729,Carbon County,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",2680.469,2355.885,2548.374,Carbon County,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",2800.734,2238.111,2526.321,Carbon County,gdd
+2031,"High Emissions
+(SSP3-7.0)",2815.504,2319.31,2561.046,Carbon County,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",2821.569,2539.486,2645.844,Carbon County,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",2748.985,2163.106,2582.663,Carbon County,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",2546.424,2195.949,2432.023,Carbon County,gdd
+2032,"High Emissions
+(SSP3-7.0)",2830.472,2193.182,2595.7,Carbon County,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",2779.376,2297.21,2397.27,Carbon County,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",2831.736,2365.568,2479.742,Carbon County,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",2901.239,2306.587,2634.037,Carbon County,gdd
+2033,"High Emissions
+(SSP3-7.0)",2666.679,2111.124,2457.326,Carbon County,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",2833.596,2456.422,2532.946,Carbon County,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",2687.101,2208.413,2452.381,Carbon County,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",2776.867,2138.645,2422.616,Carbon County,gdd
+2034,"High Emissions
+(SSP3-7.0)",2889.05,2148.663,2628.973,Carbon County,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",2873.252,2256.315,2549.135,Carbon County,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",2773.713,2423.003,2525.317,Carbon County,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",2890.359,2417.282,2501.104,Carbon County,gdd
+2035,"High Emissions
+(SSP3-7.0)",2697.569,2192.541,2561.135,Carbon County,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",2879.769,2421.495,2545.068,Carbon County,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",2750.431,2310.087,2454.309,Carbon County,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",2667.565,2272.68,2576.259,Carbon County,gdd
+2036,"High Emissions
+(SSP3-7.0)",2884.193,2286.509,2527.855,Carbon County,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",2737.171,2081.95,2632.31,Carbon County,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",2762.021,2321.688,2537.443,Carbon County,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",2860.824,2257.245,2484.879,Carbon County,gdd
+2037,"High Emissions
+(SSP3-7.0)",2671.295,2172.265,2422.263,Carbon County,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",2848.079,2285.928,2676.01,Carbon County,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",2786.288,2347.455,2422.129,Carbon County,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",2697.88,2293.42,2477.374,Carbon County,gdd
+2038,"High Emissions
+(SSP3-7.0)",2763.361,2387.794,2659.311,Carbon County,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",3084.435,2271.267,2714.164,Carbon County,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",2709.872,2130.431,2584.325,Carbon County,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",2622.856,2273.691,2449.466,Carbon County,gdd
+2039,"High Emissions
+(SSP3-7.0)",2824.948,2485.827,2610.024,Carbon County,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",3098.326,2110.564,2542.565,Carbon County,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",2782.757,2308.648,2619.008,Carbon County,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",2903.688,2253.34,2645.811,Carbon County,gdd
+2040,"High Emissions
+(SSP3-7.0)",2773.088,2468.459,2560.309,Carbon County,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",3016.025,2378.27,2780.231,Carbon County,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",2781.808,2213.747,2449.026,Carbon County,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",2827.363,2284.902,2659.185,Carbon County,gdd
+2041,"High Emissions
+(SSP3-7.0)",2802.618,2360.2,2486.882,Carbon County,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",2829.22,2365.76,2608.026,Carbon County,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",2948.168,2248.457,2554.513,Carbon County,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",2818.036,2203.289,2624.782,Carbon County,gdd
+2042,"High Emissions
+(SSP3-7.0)",2783.168,2386.494,2686.308,Carbon County,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",3207.11,2492.231,2713.114,Carbon County,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",2724.34,2367.772,2518.935,Carbon County,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",2801.428,2369.498,2529.653,Carbon County,gdd
+2043,"High Emissions
+(SSP3-7.0)",2750.901,2312.318,2545.083,Carbon County,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",2836.715,2440.31,2688.665,Carbon County,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",2814.498,2420.5,2619.122,Carbon County,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",3001.657,2420.696,2608.752,Carbon County,gdd
+2044,"High Emissions
+(SSP3-7.0)",2874.287,2486.964,2649.476,Carbon County,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",2953.988,2586.847,2707.161,Carbon County,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",2767.52,2351.65,2503.471,Carbon County,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",2929.835,2408.342,2647.653,Carbon County,gdd
+2045,"High Emissions
+(SSP3-7.0)",2923.42,2344.775,2705.541,Carbon County,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",2957.796,2389.368,2806.507,Carbon County,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",3098.143,2404.261,2688.211,Carbon County,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",2918.544,2334.918,2669.618,Carbon County,gdd
+2046,"High Emissions
+(SSP3-7.0)",2869.661,2565.331,2732.095,Carbon County,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",2988.231,2404.243,2561.777,Carbon County,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",2935.049,2426.285,2783.692,Carbon County,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",2869.253,2296.453,2623.017,Carbon County,gdd
+2047,"High Emissions
+(SSP3-7.0)",2816.21,2551.443,2616.77,Carbon County,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",3168.634,2423.369,2904.773,Carbon County,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",2724.58,2453.915,2591.002,Carbon County,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",2930.045,2306.017,2733.676,Carbon County,gdd
+2048,"High Emissions
+(SSP3-7.0)",3096.502,2395.201,2621.718,Carbon County,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",3319.97,2431.073,2937.353,Carbon County,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",2783.077,2325.906,2630.74,Carbon County,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",2897.92,2335.915,2702.546,Carbon County,gdd
+2049,"High Emissions
+(SSP3-7.0)",2813.357,2530.801,2609.683,Carbon County,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",2911.848,2465.943,2801.563,Carbon County,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",2809.377,2333.888,2585.576,Carbon County,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",3051.569,2517.49,2851.358,Carbon County,gdd
+2050,"High Emissions
+(SSP3-7.0)",2928.61,2485.359,2700.783,Carbon County,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",3023.15,2502.735,2821.975,Carbon County,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",2779.477,2334.675,2607.067,Carbon County,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",2921.161,2462.495,2641.131,Carbon County,gdd
+2051,"High Emissions
+(SSP3-7.0)",2917.042,2478.042,2815.984,Carbon County,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",3100.051,2526.993,2669.762,Carbon County,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",2669.578,2503.828,2559.047,Carbon County,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",2868.548,2298.588,2623.894,Carbon County,gdd
+2052,"High Emissions
+(SSP3-7.0)",2826.222,2367.169,2628.391,Carbon County,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",3000.085,2701.19,2743.666,Carbon County,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",2910.63,2272.715,2730.155,Carbon County,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",2921.88,2266.816,2783.033,Carbon County,gdd
+2053,"High Emissions
+(SSP3-7.0)",3150.546,2642.695,2839.77,Carbon County,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",3219.609,2439.721,2944.566,Carbon County,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",2881.833,2460.575,2739.618,Carbon County,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",2852.084,2345.739,2667.972,Carbon County,gdd
+2054,"High Emissions
+(SSP3-7.0)",3049.929,2448.84,2604.156,Carbon County,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",3128.977,2633.795,3014.066,Carbon County,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",2784.475,2522.786,2719.892,Carbon County,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",3009.391,2310.181,2607.421,Carbon County,gdd
+2055,"High Emissions
+(SSP3-7.0)",2992.412,2616.536,2844.421,Carbon County,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",3228.819,2556.315,3011.808,Carbon County,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",2824.073,2386.019,2664.502,Carbon County,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",3042.033,2431.485,2842.853,Carbon County,gdd
+2056,"High Emissions
+(SSP3-7.0)",3244.656,2414.414,2749.555,Carbon County,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",3043.536,2785.736,2909.891,Carbon County,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",2746.635,2290.134,2633.334,Carbon County,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",3031.785,2508.597,2878.394,Carbon County,gdd
+2057,"High Emissions
+(SSP3-7.0)",3045.805,2522.479,2720.452,Carbon County,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",3227.337,2588.166,2858.982,Carbon County,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",2740.084,2319.672,2578.921,Carbon County,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",3102.211,2496.925,2822.144,Carbon County,gdd
+2058,"High Emissions
+(SSP3-7.0)",2921.253,2487.567,2856.143,Carbon County,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",3058.586,2491.993,2863.055,Carbon County,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",2847.899,2475.673,2712.495,Carbon County,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",3149.608,2485.039,2725.998,Carbon County,gdd
+2059,"High Emissions
+(SSP3-7.0)",3161.948,2628.484,2812.578,Carbon County,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",3244.972,2840.775,3008.52,Carbon County,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",2694.831,2428.786,2621.577,Carbon County,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",3208.267,2422.433,2726.106,Carbon County,gdd
+2060,"High Emissions
+(SSP3-7.0)",3070.718,2580.145,2769.792,Carbon County,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",3118.419,2657.597,2946.885,Carbon County,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",2762.671,2275.289,2533.924,Carbon County,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",3193.653,2438.454,2570.487,Carbon County,gdd
+2061,"High Emissions
+(SSP3-7.0)",3039.488,2577.618,2848.042,Carbon County,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",3405.54,2876.276,3125.465,Carbon County,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",2924.385,2315.905,2623.915,Carbon County,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",2985.266,2577.536,2718.177,Carbon County,gdd
+2062,"High Emissions
+(SSP3-7.0)",2941.17,2676.305,2763.146,Carbon County,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",3286.603,2820.408,3032.707,Carbon County,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",2827.748,2473.028,2600.863,Carbon County,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",2860.649,2383.947,2643.521,Carbon County,gdd
+2063,"High Emissions
+(SSP3-7.0)",3166.892,2685.03,2913.792,Carbon County,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",3309.795,2870.719,3095.485,Carbon County,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",3005.805,2290.157,2604.943,Carbon County,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",2954.316,2421.824,2623.295,Carbon County,gdd
+2064,"High Emissions
+(SSP3-7.0)",3097.713,2486.55,2775.034,Carbon County,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",3226.711,2754.87,3112.284,Carbon County,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",2806.846,2310.654,2465.472,Carbon County,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",2963.778,2454.577,2692.672,Carbon County,gdd
+2065,"High Emissions
+(SSP3-7.0)",3127.122,2592.597,2996.63,Carbon County,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",3522.47,2972.277,3056.581,Carbon County,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",3015.302,2474.997,2610.552,Carbon County,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",3072.838,2618.723,2804.206,Carbon County,gdd
+2066,"High Emissions
+(SSP3-7.0)",3201.887,2737.713,2936.609,Carbon County,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",3425.522,2716.617,3258.522,Carbon County,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",2916.063,2431.782,2737.084,Carbon County,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",3042.031,2571.46,2798.39,Carbon County,gdd
+2067,"High Emissions
+(SSP3-7.0)",3449.088,2840.467,2898.389,Carbon County,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",3434.339,2763.087,3056.741,Carbon County,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",3052.361,2498.018,2593.518,Carbon County,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",3001.21,2449.728,2653.894,Carbon County,gdd
+2068,"High Emissions
+(SSP3-7.0)",3230.633,2708.108,2839.131,Carbon County,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",3458.002,2860.161,3131.042,Carbon County,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",3041.931,2425.035,2622.64,Carbon County,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",3080.818,2359.26,2818.482,Carbon County,gdd
+2069,"High Emissions
+(SSP3-7.0)",3473.972,2886.048,3086.693,Carbon County,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",3715.245,2796.348,3410.071,Carbon County,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",2833.82,2344.1,2633.858,Carbon County,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",2997.063,2436.848,2698.435,Carbon County,gdd
+2070,"High Emissions
+(SSP3-7.0)",3434.683,2966.895,3212.023,Carbon County,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",3455.05,2825.061,3090.907,Carbon County,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",3128.381,2401.142,2730.963,Carbon County,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",2873.17,2704.277,2842.547,Carbon County,gdd
+2071,"High Emissions
+(SSP3-7.0)",3329.072,2891.873,3061.597,Carbon County,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",3535.09,2941.699,3168.302,Carbon County,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",3012.91,2569.172,2749.44,Carbon County,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",2949.396,2593.793,2755.814,Carbon County,gdd
+2072,"High Emissions
+(SSP3-7.0)",3303.117,2660.494,2972.852,Carbon County,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",3583.732,2984.084,3113.26,Carbon County,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",2849.331,2495.6,2637.57,Carbon County,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",3050.266,2320.88,2750.872,Carbon County,gdd
+2073,"High Emissions
+(SSP3-7.0)",3147.814,2921.131,3073.66,Carbon County,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",3513.048,2738.424,3089.148,Carbon County,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",2939.261,2234.783,2566.043,Carbon County,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",3139.297,2557.18,2764.499,Carbon County,gdd
+2074,"High Emissions
+(SSP3-7.0)",3287.32,2726.638,2893.585,Carbon County,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",3706.364,2938.871,3282.079,Carbon County,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",3001.819,2244.403,2766.123,Carbon County,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",3169.193,2393.897,2751.752,Carbon County,gdd
+2075,"High Emissions
+(SSP3-7.0)",3451.619,2659.323,2892.954,Carbon County,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",3557.733,2906.345,3252.008,Carbon County,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",2847.624,2283.689,2545.385,Carbon County,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",2974.051,2471.386,2614.015,Carbon County,gdd
+2076,"High Emissions
+(SSP3-7.0)",3494.421,2993.489,3184.388,Carbon County,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",3710.611,2870.226,3386.349,Carbon County,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",2994.526,2443.593,2690.557,Carbon County,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",3190.514,2575.172,2939.525,Carbon County,gdd
+2077,"High Emissions
+(SSP3-7.0)",3409.598,2805.852,3091.377,Carbon County,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",3691.663,3150.721,3431.846,Carbon County,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",2953.767,2617.724,2730.686,Carbon County,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",3100.476,2610.766,2953.756,Carbon County,gdd
+2078,"High Emissions
+(SSP3-7.0)",3468.637,2754.687,3202.589,Carbon County,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",3409.626,2988.431,3204.94,Carbon County,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",2854.289,2417.786,2795.035,Carbon County,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",3236.889,2655.64,2775.06,Carbon County,gdd
+2079,"High Emissions
+(SSP3-7.0)",3294.696,2691.742,2930.54,Carbon County,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",3751.86,2980.386,3397.545,Carbon County,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",2783.544,2213.302,2425.894,Carbon County,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",3042.984,2442.283,2930.188,Carbon County,gdd
+2080,"High Emissions
+(SSP3-7.0)",3447.645,2740.489,3067.709,Carbon County,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",3685.415,3250.31,3459.156,Carbon County,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",2829.919,2193.49,2662.039,Carbon County,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",3164.004,2594.355,2833.066,Carbon County,gdd
+2081,"High Emissions
+(SSP3-7.0)",3605.058,2651.254,3021.284,Carbon County,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",3718.704,3147.262,3306.855,Carbon County,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",3008.236,2425.407,2689.997,Carbon County,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",3143.869,2511.573,2775.09,Carbon County,gdd
+2082,"High Emissions
+(SSP3-7.0)",3515.249,2664.202,3119.841,Carbon County,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",3709.978,3246.152,3558.286,Carbon County,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",2938.422,2504.254,2837.267,Carbon County,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",3057.928,2581.425,2871.904,Carbon County,gdd
+2083,"High Emissions
+(SSP3-7.0)",3474.252,2680.452,3148.083,Carbon County,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",3725.314,3021.615,3365.266,Carbon County,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",3025.176,2238.376,2452.939,Carbon County,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",3357.871,2669.904,3031.591,Carbon County,gdd
+2084,"High Emissions
+(SSP3-7.0)",3659.904,2981.309,3388.617,Carbon County,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",3939.256,3116.483,3434.696,Carbon County,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",2811.298,2353.259,2537.691,Carbon County,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",3203.846,2531.657,2811.951,Carbon County,gdd
+2085,"High Emissions
+(SSP3-7.0)",3377.364,2903.79,3161.267,Carbon County,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",3830.885,2849.233,3493.853,Carbon County,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",2848.836,2560.607,2633.002,Carbon County,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",3055.635,2717.044,2960.406,Carbon County,gdd
+2086,"High Emissions
+(SSP3-7.0)",3547.595,2873.133,3196.711,Carbon County,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",3851.147,3171.817,3711,Carbon County,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",2741.301,2296.509,2482.623,Carbon County,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",3174.747,2766.284,2921.551,Carbon County,gdd
+2087,"High Emissions
+(SSP3-7.0)",3670.602,2854.055,3144.406,Carbon County,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",3961.272,3081.732,3280.413,Carbon County,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",2832.474,2429.674,2525.791,Carbon County,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",3148.091,2729.516,2966.891,Carbon County,gdd
+2088,"High Emissions
+(SSP3-7.0)",3620.353,3003.637,3216.103,Carbon County,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",3967.481,3204.353,3571.181,Carbon County,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",2872.711,2424.674,2506.242,Carbon County,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",3263.441,2462.604,2811.762,Carbon County,gdd
+2089,"High Emissions
+(SSP3-7.0)",3785.054,2927.357,3439.521,Carbon County,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",3904.724,3348.09,3663.869,Carbon County,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",2742.889,2496.611,2626.988,Carbon County,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",3033.854,2459.557,2934.861,Carbon County,gdd
+2090,"High Emissions
+(SSP3-7.0)",3758.841,3173.184,3364.909,Carbon County,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",3989.536,3296.08,3632.132,Carbon County,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",3021.795,2350.489,2566.243,Carbon County,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",3092.576,2635.367,2978.206,Carbon County,gdd
+2091,"High Emissions
+(SSP3-7.0)",3631.329,3260.046,3446.634,Carbon County,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",4110.452,3149.339,3554.164,Carbon County,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",3018.259,2432.655,2768.044,Carbon County,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",3327.932,2674.611,3204.581,Carbon County,gdd
+2092,"High Emissions
+(SSP3-7.0)",3630.157,3198.535,3348.009,Carbon County,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",4028.492,3176.548,3706.239,Carbon County,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",2845.125,2414.535,2683.498,Carbon County,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",3147.082,2604.633,2978.248,Carbon County,gdd
+2093,"High Emissions
+(SSP3-7.0)",3829.156,3046.455,3206.708,Carbon County,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",4218.035,3445.08,3674.329,Carbon County,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",2896.377,2299.843,2482.501,Carbon County,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",3413.421,2468.007,3125.849,Carbon County,gdd
+2094,"High Emissions
+(SSP3-7.0)",3774.95,3117.73,3336.753,Carbon County,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",4192.253,3296.001,3556.881,Carbon County,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",2898.772,2496.342,2732.218,Carbon County,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",3300.339,2904.424,3076.672,Carbon County,gdd
+2095,"High Emissions
+(SSP3-7.0)",3786.353,3186.833,3594.021,Carbon County,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",4043.784,3247.606,3580.881,Carbon County,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",2785.334,2357.644,2668.444,Carbon County,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",3262.943,2860.204,3058.268,Carbon County,gdd
+2096,"High Emissions
+(SSP3-7.0)",3803.742,3218.835,3512.233,Carbon County,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",4203.953,3364.639,3670.853,Carbon County,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",3005.757,2375.772,2517.39,Carbon County,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",3419.018,2683.232,2967.948,Carbon County,gdd
+2097,"High Emissions
+(SSP3-7.0)",4059.076,3048.211,3470.856,Carbon County,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",4503.208,3307.982,3670.378,Carbon County,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",2902.297,2346.4,2603.953,Carbon County,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",3138.122,2585.08,2888.229,Carbon County,gdd
+2098,"High Emissions
+(SSP3-7.0)",3747.885,3008.011,3461.376,Carbon County,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",4143.49,3445.342,3705.004,Carbon County,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",2944.983,2250.348,2697.316,Carbon County,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",3142.741,2578.11,2956.237,Carbon County,gdd
+2099,"High Emissions
+(SSP3-7.0)",3914.082,3089.489,3456.791,Carbon County,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",4196.727,3404.264,3956.48,Carbon County,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",2915.802,2208.18,2510.119,Carbon County,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",3272.488,2671.688,3018.088,Carbon County,gdd
+2100,"High Emissions
+(SSP3-7.0)",3591.477,3112.15,3452.019,Carbon County,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",4197.524,3381.138,3675.122,Carbon County,gdd

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2556.305,2023.273,2309.707,Upper Missouri,gdd
+1951,Historical Emissions,2469.395,2167.603,2277.089,Upper Missouri,gdd
+1952,Historical Emissions,2403.705,1965.367,2129.07,Upper Missouri,gdd
+1953,Historical Emissions,2446.166,1982.726,2197.778,Upper Missouri,gdd
+1954,Historical Emissions,2395.698,1727.016,2098.225,Upper Missouri,gdd
+1955,Historical Emissions,2557.94,2035.628,2112.496,Upper Missouri,gdd
+1956,Historical Emissions,2462.559,1921.347,2204.926,Upper Missouri,gdd
+1957,Historical Emissions,2623.186,1820.442,2137.404,Upper Missouri,gdd
+1958,Historical Emissions,2325.235,1919.362,2110.276,Upper Missouri,gdd
+1959,Historical Emissions,2291.473,1896.593,2048.601,Upper Missouri,gdd
+1960,Historical Emissions,2298.233,1982.687,2112.681,Upper Missouri,gdd
+1961,Historical Emissions,2358.007,1943.341,2090.073,Upper Missouri,gdd
+1962,Historical Emissions,2238.863,1816.111,2105.425,Upper Missouri,gdd
+1963,Historical Emissions,2187.3,1939.9,2064.315,Upper Missouri,gdd
+1964,Historical Emissions,2229.587,1917.548,2153.567,Upper Missouri,gdd
+1965,Historical Emissions,2274.566,1952.116,2204.411,Upper Missouri,gdd
+1966,Historical Emissions,2274.624,1822.953,2070.555,Upper Missouri,gdd
+1967,Historical Emissions,2255.455,1938.624,2113.224,Upper Missouri,gdd
+1968,Historical Emissions,2118.566,1885.494,2039.07,Upper Missouri,gdd
+1969,Historical Emissions,2268.069,1802.973,2155.302,Upper Missouri,gdd
+1970,Historical Emissions,2192.111,1979.722,2043.698,Upper Missouri,gdd
+1971,Historical Emissions,2618.849,1967.883,2218.817,Upper Missouri,gdd
+1972,Historical Emissions,2355.11,1879.762,2116.035,Upper Missouri,gdd
+1973,Historical Emissions,2444.111,1851.346,2001.218,Upper Missouri,gdd
+1974,Historical Emissions,2318.491,1732.128,2218.653,Upper Missouri,gdd
+1975,Historical Emissions,2353.007,2033.928,2223.237,Upper Missouri,gdd
+1976,Historical Emissions,2217.73,1993.874,2143.608,Upper Missouri,gdd
+1977,Historical Emissions,2581.299,1964.543,2181.427,Upper Missouri,gdd
+1978,Historical Emissions,2289.811,2004.254,2093.761,Upper Missouri,gdd
+1979,Historical Emissions,2435.816,1914.632,2086.619,Upper Missouri,gdd
+1980,Historical Emissions,2506.35,1945.477,2126.334,Upper Missouri,gdd
+1981,Historical Emissions,2452.323,1994.735,2230.385,Upper Missouri,gdd
+1982,Historical Emissions,2425.252,2057.344,2226.805,Upper Missouri,gdd
+1983,Historical Emissions,2238.214,1996.162,2026.515,Upper Missouri,gdd
+1984,Historical Emissions,2352.718,1842.414,2167.597,Upper Missouri,gdd
+1985,Historical Emissions,2409.806,2071.326,2254.905,Upper Missouri,gdd
+1986,Historical Emissions,2205.328,1922.07,2063.161,Upper Missouri,gdd
+1987,Historical Emissions,2380.22,1920.567,2069.987,Upper Missouri,gdd
+1988,Historical Emissions,2285.759,1961.167,2170.453,Upper Missouri,gdd
+1989,Historical Emissions,2483.625,2061.003,2163.837,Upper Missouri,gdd
+1990,Historical Emissions,2618.214,2048.94,2216.075,Upper Missouri,gdd
+1991,Historical Emissions,2468.571,1856.901,2210.398,Upper Missouri,gdd
+1992,Historical Emissions,2228.702,1925.613,2044.234,Upper Missouri,gdd
+1993,Historical Emissions,2275.543,1944.819,2155.282,Upper Missouri,gdd
+1994,Historical Emissions,2612.852,1921.241,2108.932,Upper Missouri,gdd
+1995,Historical Emissions,2522.08,2055.399,2189.225,Upper Missouri,gdd
+1996,Historical Emissions,2704.317,2291.255,2553.636,Upper Missouri,gdd
+1997,Historical Emissions,2418.173,2028.351,2268.503,Upper Missouri,gdd
+1998,Historical Emissions,2539.655,2058.747,2338.466,Upper Missouri,gdd
+1999,Historical Emissions,2412.298,1965.285,2280.278,Upper Missouri,gdd
+2000,Historical Emissions,2534.697,2050.444,2273.566,Upper Missouri,gdd
+2001,Historical Emissions,2560.709,2082.579,2275.123,Upper Missouri,gdd
+2002,Historical Emissions,2727.681,2197.039,2436.034,Upper Missouri,gdd
+2003,Historical Emissions,2585.541,2236.495,2446.871,Upper Missouri,gdd
+2004,Historical Emissions,2722.444,2326.853,2520.821,Upper Missouri,gdd
+2005,Historical Emissions,2821.431,2287.809,2475.012,Upper Missouri,gdd
+2006,Historical Emissions,2560.695,2166.594,2413.815,Upper Missouri,gdd
+2007,Historical Emissions,2485.334,2300.96,2348.404,Upper Missouri,gdd
+2008,Historical Emissions,2622.172,2291.602,2404.793,Upper Missouri,gdd
+2009,Historical Emissions,2467.225,2171.596,2296.084,Upper Missouri,gdd
+2010,Historical Emissions,2572.608,2258.466,2420.479,Upper Missouri,gdd
+2011,Historical Emissions,2620.743,2276.848,2427.084,Upper Missouri,gdd
+2012,Historical Emissions,2570.13,2346.819,2485.847,Upper Missouri,gdd
+2013,Historical Emissions,2851.41,2450.232,2635.442,Upper Missouri,gdd
+2014,Historical Emissions,2800.68,2322.926,2409.186,Upper Missouri,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",2892.584,2436.356,2599.836,Upper Missouri,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",2670.027,2300.522,2496.247,Upper Missouri,gdd
+2015,"High Emissions
+(SSP3-7.0)",2726.843,2195.528,2516.955,Upper Missouri,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",2634.075,2243.08,2473.793,Upper Missouri,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",2731.986,2474.183,2625.94,Upper Missouri,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",2720.011,2298.951,2371.883,Upper Missouri,gdd
+2016,"High Emissions
+(SSP3-7.0)",2872.836,2310.117,2528.348,Upper Missouri,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",2743.284,2338.609,2449.328,Upper Missouri,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",2725.205,2279.749,2499.079,Upper Missouri,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",2800.279,2224.479,2633.846,Upper Missouri,gdd
+2017,"High Emissions
+(SSP3-7.0)",2638.728,2385.868,2451.378,Upper Missouri,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",2915.941,2336.478,2639.62,Upper Missouri,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",2691.307,2253.135,2458.921,Upper Missouri,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",2850.072,2328.743,2533.227,Upper Missouri,gdd
+2018,"High Emissions
+(SSP3-7.0)",2657.224,2222.367,2469.899,Upper Missouri,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",2634.988,2301.254,2510.151,Upper Missouri,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",3134.884,2462.559,2571.921,Upper Missouri,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",2819.03,2262.044,2466.647,Upper Missouri,gdd
+2019,"High Emissions
+(SSP3-7.0)",2938.476,2301.936,2516.215,Upper Missouri,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",2858.119,2337.462,2530.387,Upper Missouri,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",2842.261,2373.699,2572.549,Upper Missouri,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",2665.002,2320.58,2584.471,Upper Missouri,gdd
+2020,"High Emissions
+(SSP3-7.0)",2791.647,2300.856,2430.449,Upper Missouri,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",2783.872,2283.431,2509.081,Upper Missouri,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",2900.205,2399.49,2597.382,Upper Missouri,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",2994.05,2250.627,2655.201,Upper Missouri,gdd
+2021,"High Emissions
+(SSP3-7.0)",2838.905,2351.908,2614.802,Upper Missouri,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",2645.758,2420.691,2585.976,Upper Missouri,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",2774.466,2403.623,2549.8,Upper Missouri,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",2665.774,2394.75,2588.731,Upper Missouri,gdd
+2022,"High Emissions
+(SSP3-7.0)",2659.004,2265.43,2567.993,Upper Missouri,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",2990.32,2444.421,2595.501,Upper Missouri,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",2608.688,2393.545,2544.911,Upper Missouri,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",3013.391,2332.554,2582.329,Upper Missouri,gdd
+2023,"High Emissions
+(SSP3-7.0)",2837.095,2376.015,2489.277,Upper Missouri,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",2722.931,2175.839,2247.243,Upper Missouri,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",2893.03,2401.959,2635.347,Upper Missouri,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",2812.801,2323.626,2674.066,Upper Missouri,gdd
+2024,"High Emissions
+(SSP3-7.0)",2945.722,2395.557,2695.435,Upper Missouri,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",2884.58,2247.255,2585.129,Upper Missouri,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",2810.591,2518.526,2628.059,Upper Missouri,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",2762.173,2272.622,2394.84,Upper Missouri,gdd
+2025,"High Emissions
+(SSP3-7.0)",2933.898,2511.66,2589.203,Upper Missouri,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",3050.796,2333.401,2751.596,Upper Missouri,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",2865.8,2297.283,2608.496,Upper Missouri,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",3058.517,2419.59,2677.882,Upper Missouri,gdd
+2026,"High Emissions
+(SSP3-7.0)",2691.722,2285.83,2422.468,Upper Missouri,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",2920.924,2385.477,2552.557,Upper Missouri,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",3042.586,2264.812,2538.86,Upper Missouri,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",2981.278,2222.864,2680.914,Upper Missouri,gdd
+2027,"High Emissions
+(SSP3-7.0)",2953.703,2422.634,2725.975,Upper Missouri,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",2902.93,2500.697,2642.376,Upper Missouri,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",2849.083,2456.299,2583.696,Upper Missouri,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",2743.701,2355.457,2490.964,Upper Missouri,gdd
+2028,"High Emissions
+(SSP3-7.0)",2780.127,2409.07,2674.564,Upper Missouri,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",2790.038,2456.825,2596.591,Upper Missouri,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",3066.106,2588.66,2817.583,Upper Missouri,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",2856.525,2350.213,2557.869,Upper Missouri,gdd
+2029,"High Emissions
+(SSP3-7.0)",2883.288,2325.647,2595.891,Upper Missouri,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",2951.797,2472.791,2709.46,Upper Missouri,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",2972.128,2451.054,2657.489,Upper Missouri,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",3063.11,2456.12,2689.282,Upper Missouri,gdd
+2030,"High Emissions
+(SSP3-7.0)",2928.515,2430.316,2704.862,Upper Missouri,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",3115.057,2396.164,2582.983,Upper Missouri,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",2905.259,2539.933,2754.49,Upper Missouri,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",3002.565,2413.114,2564.165,Upper Missouri,gdd
+2031,"High Emissions
+(SSP3-7.0)",2983.403,2394.743,2670.266,Upper Missouri,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",2947.222,2533.749,2790.588,Upper Missouri,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",2856.766,2398.48,2796.476,Upper Missouri,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",2887.227,2331.938,2616.186,Upper Missouri,gdd
+2032,"High Emissions
+(SSP3-7.0)",2987.946,2356.186,2792.865,Upper Missouri,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",2952.958,2351.289,2514.596,Upper Missouri,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",2924.537,2437.279,2618.878,Upper Missouri,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",3030.062,2485.592,2729.41,Upper Missouri,gdd
+2033,"High Emissions
+(SSP3-7.0)",2884.451,2391.016,2645.623,Upper Missouri,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",2973.765,2595.646,2751.498,Upper Missouri,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",2871.277,2375.422,2761.781,Upper Missouri,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",2932.902,2329.657,2667.489,Upper Missouri,gdd
+2034,"High Emissions
+(SSP3-7.0)",3008.172,2333.627,2797.877,Upper Missouri,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",2925.038,2271.374,2781.964,Upper Missouri,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",3029.125,2472.569,2728.155,Upper Missouri,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",3020.288,2456.054,2535.678,Upper Missouri,gdd
+2035,"High Emissions
+(SSP3-7.0)",2918.36,2350.908,2576.928,Upper Missouri,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",2899.444,2526.882,2698.163,Upper Missouri,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",2958.177,2539.047,2711.58,Upper Missouri,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",2850.659,2507.874,2664.702,Upper Missouri,gdd
+2036,"High Emissions
+(SSP3-7.0)",2891.394,2508.869,2808.696,Upper Missouri,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",3042.67,2283.635,2753.114,Upper Missouri,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",3021.23,2530.181,2728.964,Upper Missouri,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",3087.344,2514.21,2613.373,Upper Missouri,gdd
+2037,"High Emissions
+(SSP3-7.0)",2979.553,2147.98,2614.627,Upper Missouri,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",3011.336,2404.79,2779.581,Upper Missouri,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",2976.042,2475.167,2626.302,Upper Missouri,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",2827.961,2466.208,2674.905,Upper Missouri,gdd
+2038,"High Emissions
+(SSP3-7.0)",2907.248,2545.567,2786.48,Upper Missouri,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",3246.377,2534.014,2806.566,Upper Missouri,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",2882.494,2307.124,2719.079,Upper Missouri,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",2783.903,2380.06,2662.729,Upper Missouri,gdd
+2039,"High Emissions
+(SSP3-7.0)",2998.885,2636.126,2847.382,Upper Missouri,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",3292.659,2334.753,2690.619,Upper Missouri,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",2986.99,2363.6,2734.684,Upper Missouri,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",3052.936,2427.491,2828.085,Upper Missouri,gdd
+2040,"High Emissions
+(SSP3-7.0)",2937.329,2519.595,2822.773,Upper Missouri,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",3347.325,2488.525,3045.03,Upper Missouri,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",2969.036,2308.194,2584.498,Upper Missouri,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",2885.313,2561.786,2805.313,Upper Missouri,gdd
+2041,"High Emissions
+(SSP3-7.0)",3045.046,2483.811,2669.542,Upper Missouri,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",2973.529,2529.591,2781.43,Upper Missouri,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",3079.679,2385.499,2602.19,Upper Missouri,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",3014.762,2344.773,2739.863,Upper Missouri,gdd
+2042,"High Emissions
+(SSP3-7.0)",2886.491,2546.703,2770.908,Upper Missouri,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",3285.125,2576.125,2883.406,Upper Missouri,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",2905.935,2568.986,2719.442,Upper Missouri,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",2954.229,2521.189,2719.238,Upper Missouri,gdd
+2043,"High Emissions
+(SSP3-7.0)",2865.713,2559.842,2671.46,Upper Missouri,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",2960.187,2709.624,2827.993,Upper Missouri,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",2951.119,2592.816,2804.522,Upper Missouri,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",3164.41,2595.777,2852.118,Upper Missouri,gdd
+2044,"High Emissions
+(SSP3-7.0)",3086.463,2645.669,2825.011,Upper Missouri,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",3162.519,2739.235,2860.751,Upper Missouri,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",2970.137,2567.974,2686.525,Upper Missouri,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",3055.134,2536.567,2785.766,Upper Missouri,gdd
+2045,"High Emissions
+(SSP3-7.0)",3146.77,2509.94,2885.312,Upper Missouri,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",3123.131,2546.067,2916.211,Upper Missouri,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",3166.658,2582.299,2777.69,Upper Missouri,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",3056.509,2415.333,2813.261,Upper Missouri,gdd
+2046,"High Emissions
+(SSP3-7.0)",3011.619,2650.42,2847.809,Upper Missouri,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",3096.155,2536.47,2737.943,Upper Missouri,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",3109.678,2464.87,2907.827,Upper Missouri,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",2975.356,2439.822,2828.905,Upper Missouri,gdd
+2047,"High Emissions
+(SSP3-7.0)",3029.309,2675.603,2725.8,Upper Missouri,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",3285.33,2534.023,3109.1,Upper Missouri,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",2900.13,2600.551,2714.647,Upper Missouri,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",3167.538,2511.568,2904.682,Upper Missouri,gdd
+2048,"High Emissions
+(SSP3-7.0)",3291.03,2403.658,2807.705,Upper Missouri,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",3444.221,2592.016,3155.668,Upper Missouri,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",2935.017,2490.383,2709.237,Upper Missouri,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",3096.043,2473.204,2836.173,Upper Missouri,gdd
+2049,"High Emissions
+(SSP3-7.0)",3008.804,2664.071,2741.446,Upper Missouri,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",3145.189,2659.097,3013.038,Upper Missouri,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",3072.14,2487.84,2763.694,Upper Missouri,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",3234.7,2552.887,2885.929,Upper Missouri,gdd
+2050,"High Emissions
+(SSP3-7.0)",3102.435,2603.761,2894.311,Upper Missouri,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",3252.533,2689.724,2899.542,Upper Missouri,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",3019.939,2482.52,2751.502,Upper Missouri,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",3099.305,2688.198,2827.536,Upper Missouri,gdd
+2051,"High Emissions
+(SSP3-7.0)",3102.365,2663.704,2917.321,Upper Missouri,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",3185.561,2610.119,2817.259,Upper Missouri,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",2850.622,2633.744,2722.632,Upper Missouri,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",3002.969,2529.858,2704.372,Upper Missouri,gdd
+2052,"High Emissions
+(SSP3-7.0)",3075.619,2422.882,2745.478,Upper Missouri,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",3125.285,2805.928,2949.215,Upper Missouri,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",2955.891,2464.714,2786.395,Upper Missouri,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",3022.401,2496.641,2905.118,Upper Missouri,gdd
+2053,"High Emissions
+(SSP3-7.0)",3311.025,2738.131,3140.301,Upper Missouri,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",3347.132,2656.929,2973.801,Upper Missouri,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",3062.109,2658.115,2972.355,Upper Missouri,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",3059.902,2476.51,2821.417,Upper Missouri,gdd
+2054,"High Emissions
+(SSP3-7.0)",3170.456,2670.318,2780.724,Upper Missouri,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",3318.767,2702.345,3082.287,Upper Missouri,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",3027.285,2674.038,2859.325,Upper Missouri,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",3178.031,2482.056,2809.401,Upper Missouri,gdd
+2055,"High Emissions
+(SSP3-7.0)",3127.681,2639.302,2897.857,Upper Missouri,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",3442.9,2716.405,3111.951,Upper Missouri,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",2979.911,2529.251,2829.432,Upper Missouri,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",3230.914,2633.513,3037.442,Upper Missouri,gdd
+2056,"High Emissions
+(SSP3-7.0)",3311.514,2530.171,2960.345,Upper Missouri,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",3265.641,2920.823,3124.466,Upper Missouri,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",2902.523,2369.787,2820.683,Upper Missouri,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",3178.806,2703.967,3070.652,Upper Missouri,gdd
+2057,"High Emissions
+(SSP3-7.0)",3295.589,2609.972,2937.797,Upper Missouri,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",3375.823,2751.643,3031.683,Upper Missouri,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",2995.649,2347.61,2844.07,Upper Missouri,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",3273.862,2733.022,2903.098,Upper Missouri,gdd
+2058,"High Emissions
+(SSP3-7.0)",3143.973,2713.619,2868.227,Upper Missouri,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",3215.635,2663.268,2969.77,Upper Missouri,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",3048.716,2657.27,2871.218,Upper Missouri,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",3304.547,2665.247,2925.954,Upper Missouri,gdd
+2059,"High Emissions
+(SSP3-7.0)",3439.159,2725.251,2997.485,Upper Missouri,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",3471.183,2978.179,3133.793,Upper Missouri,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",2948.015,2556.032,2791.791,Upper Missouri,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",3374.097,2653.724,2944.711,Upper Missouri,gdd
+2060,"High Emissions
+(SSP3-7.0)",3196.365,2727.815,2960.879,Upper Missouri,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",3245.047,2720.045,3184.965,Upper Missouri,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",2942.295,2379.725,2847.632,Upper Missouri,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",3250.918,2596.223,2798.812,Upper Missouri,gdd
+2061,"High Emissions
+(SSP3-7.0)",3218.605,2796.291,2927.978,Upper Missouri,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",3509.472,3015.144,3190.821,Upper Missouri,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",3042.869,2494.323,2805.923,Upper Missouri,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",3197.097,2709.943,2926.474,Upper Missouri,gdd
+2062,"High Emissions
+(SSP3-7.0)",3027.016,2834.588,2958.221,Upper Missouri,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",3431.208,2940.63,3296.55,Upper Missouri,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",2920.125,2699.191,2810.049,Upper Missouri,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",3076.358,2571.023,2730.919,Upper Missouri,gdd
+2063,"High Emissions
+(SSP3-7.0)",3287.283,2866.326,3077.109,Upper Missouri,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",3440.06,2923.844,3317.888,Upper Missouri,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",3209.264,2482.889,2834.8,Upper Missouri,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",3120.577,2619.31,2768.195,Upper Missouri,gdd
+2064,"High Emissions
+(SSP3-7.0)",3158.142,2796.866,2994.927,Upper Missouri,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",3365.709,2861.451,3119.673,Upper Missouri,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",2952.715,2422.251,2681.388,Upper Missouri,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",3226.077,2600.403,2917.879,Upper Missouri,gdd
+2065,"High Emissions
+(SSP3-7.0)",3309.032,2734.54,3033.127,Upper Missouri,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",3666.752,3107.555,3235.23,Upper Missouri,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",3222.809,2619.086,2953.324,Upper Missouri,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",3199.788,2731.742,3074.597,Upper Missouri,gdd
+2066,"High Emissions
+(SSP3-7.0)",3329.106,2745.979,2946.723,Upper Missouri,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",3535.155,2819.845,3406.182,Upper Missouri,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",3035.436,2728.11,2852.566,Upper Missouri,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",3219.342,2611.206,2915.307,Upper Missouri,gdd
+2067,"High Emissions
+(SSP3-7.0)",3527.572,3064.879,3162.765,Upper Missouri,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",3656.467,2836.888,3124.58,Upper Missouri,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",3309.371,2588.745,2789.93,Upper Missouri,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",3208.454,2614.881,2814.038,Upper Missouri,gdd
+2068,"High Emissions
+(SSP3-7.0)",3440.318,2760.924,3004.307,Upper Missouri,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",3608.073,3038.736,3241.192,Upper Missouri,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",3211.607,2704.479,2819.423,Upper Missouri,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",3187.375,2528.148,3046.767,Upper Missouri,gdd
+2069,"High Emissions
+(SSP3-7.0)",3797.475,3017.28,3136.424,Upper Missouri,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",3917.846,2933.979,3633.006,Upper Missouri,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",2915.975,2578.716,2837.068,Upper Missouri,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",3238.686,2543.063,2865.741,Upper Missouri,gdd
+2070,"High Emissions
+(SSP3-7.0)",3536.287,3091.269,3371.868,Upper Missouri,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",3847.641,3062.205,3265.739,Upper Missouri,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",3356.984,2490.649,2811.466,Upper Missouri,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",3084.84,2858.971,3014.146,Upper Missouri,gdd
+2071,"High Emissions
+(SSP3-7.0)",3377.197,3007.067,3217.76,Upper Missouri,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",3827.557,3048.071,3393.844,Upper Missouri,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",3154.911,2750.972,2849.697,Upper Missouri,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",3155.574,2679.481,2894.901,Upper Missouri,gdd
+2072,"High Emissions
+(SSP3-7.0)",3397.691,2750.811,3130.44,Upper Missouri,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",3733.861,3081.085,3247.03,Upper Missouri,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",2946.925,2615.944,2797.171,Upper Missouri,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",3202.247,2490.391,3035.718,Upper Missouri,gdd
+2073,"High Emissions
+(SSP3-7.0)",3428.102,3007.569,3231.272,Upper Missouri,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",3718.411,2959.348,3260.128,Upper Missouri,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",3318.413,2399.375,2848.523,Upper Missouri,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",3344.829,2693.265,2822.388,Upper Missouri,gdd
+2074,"High Emissions
+(SSP3-7.0)",3466.863,2798.97,3109.381,Upper Missouri,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",3923.186,3141.471,3372.254,Upper Missouri,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",3082.613,2284.508,2864.217,Upper Missouri,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",3310.603,2554.138,2859.831,Upper Missouri,gdd
+2075,"High Emissions
+(SSP3-7.0)",3605.244,2785.225,3039.641,Upper Missouri,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",3739.723,3023.08,3422.782,Upper Missouri,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",3090.181,2408.542,2709.676,Upper Missouri,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",3082.068,2631.838,2782.275,Upper Missouri,gdd
+2076,"High Emissions
+(SSP3-7.0)",3541.776,3125.215,3343.704,Upper Missouri,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",3851.87,3013.467,3406.336,Upper Missouri,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",3209.853,2624.952,2968.904,Upper Missouri,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",3439.377,2643.973,3092.876,Upper Missouri,gdd
+2077,"High Emissions
+(SSP3-7.0)",3677.264,2992.265,3276.004,Upper Missouri,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",3676.483,3053.532,3485.124,Upper Missouri,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",3080.143,2694.636,2860.661,Upper Missouri,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",3213.257,2817.595,2936.402,Upper Missouri,gdd
+2078,"High Emissions
+(SSP3-7.0)",3607.779,2809.964,3307.061,Upper Missouri,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",3520.48,3113.8,3398.431,Upper Missouri,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",3069.031,2560.821,2898.521,Upper Missouri,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",3200.403,2856.589,3012.439,Upper Missouri,gdd
+2079,"High Emissions
+(SSP3-7.0)",3490.911,2893.187,3150.476,Upper Missouri,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",3872.953,3182.521,3483.842,Upper Missouri,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",2967.433,2406.82,2626.696,Upper Missouri,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",3225.12,2690.281,3009.607,Upper Missouri,gdd
+2080,"High Emissions
+(SSP3-7.0)",3621.901,3067.856,3224.308,Upper Missouri,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",3801.773,3326.164,3662.898,Upper Missouri,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",3201.128,2485.631,2714.151,Upper Missouri,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",3244.467,2736.448,2988.593,Upper Missouri,gdd
+2081,"High Emissions
+(SSP3-7.0)",3804.895,2885.744,3277.299,Upper Missouri,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",4118.942,3360.44,3484.036,Upper Missouri,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",3183.155,2555.717,2971.782,Upper Missouri,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",3382.898,2669.779,2980.949,Upper Missouri,gdd
+2082,"High Emissions
+(SSP3-7.0)",3769.372,2959.333,3309.114,Upper Missouri,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",3938.162,3357.459,3658.103,Upper Missouri,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",3199.278,2649.717,2934.772,Upper Missouri,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",3266.022,2677.123,2994.634,Upper Missouri,gdd
+2083,"High Emissions
+(SSP3-7.0)",3735.924,2801.772,3232.794,Upper Missouri,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",3976.256,3198.973,3611.756,Upper Missouri,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",3132.302,2439.281,2629.479,Upper Missouri,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",3479.617,2871.141,3181.251,Upper Missouri,gdd
+2084,"High Emissions
+(SSP3-7.0)",3919.444,3156.324,3462.726,Upper Missouri,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",4109.781,3239.526,3614.136,Upper Missouri,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",3027.975,2385.913,2706.848,Upper Missouri,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",3350.934,2793.962,3007.16,Upper Missouri,gdd
+2085,"High Emissions
+(SSP3-7.0)",3676.462,2910.371,3207.663,Upper Missouri,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",3961.06,3127.514,3576.911,Upper Missouri,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",3109.412,2696.867,2906.667,Upper Missouri,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",3260.102,2930.928,3126.142,Upper Missouri,gdd
+2086,"High Emissions
+(SSP3-7.0)",3773.545,2983.607,3461.128,Upper Missouri,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",4083.311,3252.614,3812.618,Upper Missouri,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",2954.704,2508.454,2690.739,Upper Missouri,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",3376.672,2964.866,3172.657,Upper Missouri,gdd
+2087,"High Emissions
+(SSP3-7.0)",3809.909,2989.506,3209.722,Upper Missouri,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",4147.787,3280.883,3381.772,Upper Missouri,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",3054.655,2581.793,2822.652,Upper Missouri,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",3397.02,3035.422,3167.632,Upper Missouri,gdd
+2088,"High Emissions
+(SSP3-7.0)",3852.675,3179.126,3315.546,Upper Missouri,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",4169.612,3409.801,3657.916,Upper Missouri,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",3100.842,2487.799,2723.763,Upper Missouri,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",3548.056,2763.898,3053.42,Upper Missouri,gdd
+2089,"High Emissions
+(SSP3-7.0)",3794.004,3060.38,3637.659,Upper Missouri,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",4193.575,3426.024,3820.22,Upper Missouri,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",3022.363,2708.229,2760.957,Upper Missouri,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",3286.49,2667.414,3037.707,Upper Missouri,gdd
+2090,"High Emissions
+(SSP3-7.0)",3846.927,3353.671,3441.886,Upper Missouri,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",4257.894,3350.286,3775.226,Upper Missouri,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",3092.98,2478.91,2825.881,Upper Missouri,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",3207.364,2792.56,3103.027,Upper Missouri,gdd
+2091,"High Emissions
+(SSP3-7.0)",3767.215,3348.163,3592.731,Upper Missouri,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",4123.333,3330.466,3740.783,Upper Missouri,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",3080.919,2563.227,2837.485,Upper Missouri,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",3535.976,2821.084,3329.126,Upper Missouri,gdd
+2092,"High Emissions
+(SSP3-7.0)",3614.062,3210.391,3372.428,Upper Missouri,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",4227.973,3370.59,3882.915,Upper Missouri,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",2933.677,2559.975,2744.074,Upper Missouri,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",3310.569,2686.247,3018.168,Upper Missouri,gdd
+2093,"High Emissions
+(SSP3-7.0)",3946.255,3118.83,3386.039,Upper Missouri,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",4287.981,3588.82,3841.887,Upper Missouri,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",3076.591,2446.403,2622.02,Upper Missouri,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",3511.951,2612.175,3148.35,Upper Missouri,gdd
+2094,"High Emissions
+(SSP3-7.0)",3900.337,3217.761,3460.499,Upper Missouri,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",4365.198,3396.938,3789.417,Upper Missouri,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",3087.806,2591.292,2879.216,Upper Missouri,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",3589.322,3095.006,3269.971,Upper Missouri,gdd
+2095,"High Emissions
+(SSP3-7.0)",3947.145,3341.333,3624.721,Upper Missouri,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",4142.738,3395.602,3748.889,Upper Missouri,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",2919.074,2602.812,2846.94,Upper Missouri,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",3439.865,3045.78,3123.3,Upper Missouri,gdd
+2096,"High Emissions
+(SSP3-7.0)",4010.338,3335.658,3657.308,Upper Missouri,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",4235.678,3403.416,3735.695,Upper Missouri,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",3231.639,2576.725,2766.566,Upper Missouri,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",3502.89,2914.508,3084.044,Upper Missouri,gdd
+2097,"High Emissions
+(SSP3-7.0)",4156.745,3149.737,3602.389,Upper Missouri,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",4812.771,3367.882,3869.99,Upper Missouri,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",3096.646,2544.163,2736.398,Upper Missouri,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",3228.668,2801.87,3058.549,Upper Missouri,gdd
+2098,"High Emissions
+(SSP3-7.0)",4047.078,3227.819,3616.036,Upper Missouri,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",4235.347,3606.351,3872.434,Upper Missouri,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",3097.863,2420.617,2838.211,Upper Missouri,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",3383.193,2667.259,3002.449,Upper Missouri,gdd
+2099,"High Emissions
+(SSP3-7.0)",4152.344,3292.537,3481.082,Upper Missouri,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",4536.628,3580.011,3979.451,Upper Missouri,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",3065.284,2380.133,2596.17,Upper Missouri,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",3423.302,2806.011,3213.722,Upper Missouri,gdd
+2100,"High Emissions
+(SSP3-7.0)",3762.777,3213.634,3578.686,Upper Missouri,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",4328.592,3480.123,3873.739,Upper Missouri,gdd

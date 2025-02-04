@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,36.685,32.707,33.152,Missoula County,penman
+1951,Historical Emissions,35.386,32.582,34.128,Missoula County,penman
+1952,Historical Emissions,34.45,32.055,33.5,Missoula County,penman
+1953,Historical Emissions,34.467,32.408,33.995,Missoula County,penman
+1954,Historical Emissions,35.273,30.964,33,Missoula County,penman
+1955,Historical Emissions,35.6,31.945,32.955,Missoula County,penman
+1956,Historical Emissions,35.494,31.421,33.389,Missoula County,penman
+1957,Historical Emissions,35.977,30.832,32.703,Missoula County,penman
+1958,Historical Emissions,34.212,30.96,32.773,Missoula County,penman
+1959,Historical Emissions,34.059,31.756,32.708,Missoula County,penman
+1960,Historical Emissions,34.052,31.769,32.389,Missoula County,penman
+1961,Historical Emissions,34.606,31.861,32.979,Missoula County,penman
+1962,Historical Emissions,34.71,30.495,33.417,Missoula County,penman
+1963,Historical Emissions,33.665,30.474,32.269,Missoula County,penman
+1964,Historical Emissions,33.981,31.644,32.862,Missoula County,penman
+1965,Historical Emissions,34.111,31.109,33.538,Missoula County,penman
+1966,Historical Emissions,34.988,30.145,32.63,Missoula County,penman
+1967,Historical Emissions,34.711,31.806,32.93,Missoula County,penman
+1968,Historical Emissions,33.214,30.558,32.436,Missoula County,penman
+1969,Historical Emissions,33.972,31.722,33.149,Missoula County,penman
+1970,Historical Emissions,33.63,31.734,32.555,Missoula County,penman
+1971,Historical Emissions,36.819,31.711,33.339,Missoula County,penman
+1972,Historical Emissions,34.576,31.78,33.528,Missoula County,penman
+1973,Historical Emissions,35.808,31.153,33.148,Missoula County,penman
+1974,Historical Emissions,34.785,30.637,33.331,Missoula County,penman
+1975,Historical Emissions,34.774,31.978,33.207,Missoula County,penman
+1976,Historical Emissions,34.841,32.093,32.803,Missoula County,penman
+1977,Historical Emissions,36.158,31.734,32.842,Missoula County,penman
+1978,Historical Emissions,34.324,31.759,32.821,Missoula County,penman
+1979,Historical Emissions,35.426,31.136,33.846,Missoula County,penman
+1980,Historical Emissions,35.239,31.176,34.319,Missoula County,penman
+1981,Historical Emissions,35.031,31.336,33.787,Missoula County,penman
+1982,Historical Emissions,35.007,31.906,33.96,Missoula County,penman
+1983,Historical Emissions,34.202,30.97,32.871,Missoula County,penman
+1984,Historical Emissions,35.184,31.327,33.69,Missoula County,penman
+1985,Historical Emissions,35.265,32.084,33.261,Missoula County,penman
+1986,Historical Emissions,33.732,31.394,33.222,Missoula County,penman
+1987,Historical Emissions,36.755,31.695,32.351,Missoula County,penman
+1988,Historical Emissions,35.178,32.069,33.238,Missoula County,penman
+1989,Historical Emissions,35.822,31.768,34.302,Missoula County,penman
+1990,Historical Emissions,36.711,32.552,34.485,Missoula County,penman
+1991,Historical Emissions,36.662,30.416,33.89,Missoula County,penman
+1992,Historical Emissions,35.674,31.957,32.949,Missoula County,penman
+1993,Historical Emissions,34.149,32.135,33.376,Missoula County,penman
+1994,Historical Emissions,36.508,31.689,32.822,Missoula County,penman
+1995,Historical Emissions,35.777,32.864,33.136,Missoula County,penman
+1996,Historical Emissions,37.468,34.287,35.741,Missoula County,penman
+1997,Historical Emissions,35.427,31.922,33.901,Missoula County,penman
+1998,Historical Emissions,35.748,32.277,34.606,Missoula County,penman
+1999,Historical Emissions,34.79,31.631,33.574,Missoula County,penman
+2000,Historical Emissions,36.586,32.22,34.819,Missoula County,penman
+2001,Historical Emissions,35.907,33.193,34.673,Missoula County,penman
+2002,Historical Emissions,37.452,32.141,33.999,Missoula County,penman
+2003,Historical Emissions,36.944,33.706,35.967,Missoula County,penman
+2004,Historical Emissions,37.622,34.043,35.521,Missoula County,penman
+2005,Historical Emissions,37.675,33.968,36.929,Missoula County,penman
+2006,Historical Emissions,36.078,32.974,35.313,Missoula County,penman
+2007,Historical Emissions,36.348,33.266,34.931,Missoula County,penman
+2008,Historical Emissions,36.961,33.86,34.71,Missoula County,penman
+2009,Historical Emissions,36.101,32.699,34.877,Missoula County,penman
+2010,Historical Emissions,36.486,33.716,34.512,Missoula County,penman
+2011,Historical Emissions,36.452,32.323,35.008,Missoula County,penman
+2012,Historical Emissions,36.688,34.655,35.61,Missoula County,penman
+2013,Historical Emissions,37.585,34.653,35.938,Missoula County,penman
+2014,Historical Emissions,36.968,33.981,35.013,Missoula County,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",37.94,34.455,35.568,Missoula County,penman
+2015,"Middle of the Road
+(SSP2-4.5)",37.04,33.317,35.396,Missoula County,penman
+2015,"High Emissions
+(SSP3-7.0)",36.612,33.641,34.714,Missoula County,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",36.678,33.37,35.85,Missoula County,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",36.518,34.803,35.983,Missoula County,penman
+2016,"Middle of the Road
+(SSP2-4.5)",37.055,33.985,35.029,Missoula County,penman
+2016,"High Emissions
+(SSP3-7.0)",38.918,33.981,36.007,Missoula County,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",36.982,33.603,35.37,Missoula County,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",36.842,33.113,35.016,Missoula County,penman
+2017,"Middle of the Road
+(SSP2-4.5)",37.862,33.939,36.325,Missoula County,penman
+2017,"High Emissions
+(SSP3-7.0)",37.882,34.482,35.089,Missoula County,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",37.728,33.914,36.62,Missoula County,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",36.722,33.753,35.335,Missoula County,penman
+2018,"Middle of the Road
+(SSP2-4.5)",37.355,33.423,35.109,Missoula County,penman
+2018,"High Emissions
+(SSP3-7.0)",36.35,32.917,34.561,Missoula County,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",37.26,32.549,35.446,Missoula County,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",38.186,35.029,36.715,Missoula County,penman
+2019,"Middle of the Road
+(SSP2-4.5)",37.82,33.044,35.79,Missoula County,penman
+2019,"High Emissions
+(SSP3-7.0)",38.227,34.019,36.484,Missoula County,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",39.493,33.185,35.321,Missoula County,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",38.214,34.055,35.277,Missoula County,penman
+2020,"Middle of the Road
+(SSP2-4.5)",37.179,32.563,35.425,Missoula County,penman
+2020,"High Emissions
+(SSP3-7.0)",37.507,33.163,35.894,Missoula County,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",37.356,34.166,35.013,Missoula County,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",39.219,33.91,36.334,Missoula County,penman
+2021,"Middle of the Road
+(SSP2-4.5)",39.036,33.771,35.701,Missoula County,penman
+2021,"High Emissions
+(SSP3-7.0)",37.789,34.063,35.167,Missoula County,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",37.49,34.612,35.496,Missoula County,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",37.274,33.954,35.829,Missoula County,penman
+2022,"Middle of the Road
+(SSP2-4.5)",37.488,34.472,35.721,Missoula County,penman
+2022,"High Emissions
+(SSP3-7.0)",36.225,33.018,34.993,Missoula County,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",38.227,34.303,35.273,Missoula County,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",38.264,34.374,35.186,Missoula County,penman
+2023,"Middle of the Road
+(SSP2-4.5)",37.726,34.186,36.208,Missoula County,penman
+2023,"High Emissions
+(SSP3-7.0)",37.893,34.494,35.197,Missoula County,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",36.281,32.291,34.065,Missoula County,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",39.417,33.23,35.467,Missoula County,penman
+2024,"Middle of the Road
+(SSP2-4.5)",37.623,35.29,36.106,Missoula County,penman
+2024,"High Emissions
+(SSP3-7.0)",38.339,34.75,36.621,Missoula County,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",38.539,33.308,35.697,Missoula County,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",37.15,34.548,36.519,Missoula County,penman
+2025,"Middle of the Road
+(SSP2-4.5)",36.72,32.982,35.011,Missoula County,penman
+2025,"High Emissions
+(SSP3-7.0)",39.579,35.256,36.185,Missoula County,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",38.634,34.611,37.561,Missoula County,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",37.481,33.349,36.219,Missoula County,penman
+2026,"Middle of the Road
+(SSP2-4.5)",38.704,34.093,37.118,Missoula County,penman
+2026,"High Emissions
+(SSP3-7.0)",36.751,33.182,34.925,Missoula County,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",38.873,34.39,35.578,Missoula County,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",39.295,33.961,34.961,Missoula County,penman
+2027,"Middle of the Road
+(SSP2-4.5)",39.429,32.815,36.551,Missoula County,penman
+2027,"High Emissions
+(SSP3-7.0)",38.269,34.385,36.878,Missoula County,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",38.309,35.457,37.346,Missoula County,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",38.599,33.739,36.557,Missoula County,penman
+2028,"Middle of the Road
+(SSP2-4.5)",36.452,34.228,35.505,Missoula County,penman
+2028,"High Emissions
+(SSP3-7.0)",37.2,34.717,36.606,Missoula County,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",39.381,34.366,35.808,Missoula County,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",38.881,35.253,36.791,Missoula County,penman
+2029,"Middle of the Road
+(SSP2-4.5)",38.553,34.287,34.798,Missoula County,penman
+2029,"High Emissions
+(SSP3-7.0)",39.73,33.893,35.679,Missoula County,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",38.371,34.912,36.158,Missoula County,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",37.495,35.134,36.481,Missoula County,penman
+2030,"Middle of the Road
+(SSP2-4.5)",39.436,35.655,37.415,Missoula County,penman
+2030,"High Emissions
+(SSP3-7.0)",38.073,34.528,35.717,Missoula County,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",39.095,33.838,36.083,Missoula County,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",38.247,35.175,36.236,Missoula County,penman
+2031,"Middle of the Road
+(SSP2-4.5)",38.781,34.701,37.004,Missoula County,penman
+2031,"High Emissions
+(SSP3-7.0)",39.673,33.516,36.973,Missoula County,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",37.984,35.204,36.923,Missoula County,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",38.431,33.741,36.503,Missoula County,penman
+2032,"Middle of the Road
+(SSP2-4.5)",39.333,34.594,35.431,Missoula County,penman
+2032,"High Emissions
+(SSP3-7.0)",38.825,33.746,36.994,Missoula County,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",39.838,33.332,35.387,Missoula County,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",38.281,35.166,37.041,Missoula County,penman
+2033,"Middle of the Road
+(SSP2-4.5)",39.646,33.888,36.967,Missoula County,penman
+2033,"High Emissions
+(SSP3-7.0)",39.143,33.559,36.147,Missoula County,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",38.889,36.112,36.547,Missoula County,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",39.57,35.041,36.86,Missoula County,penman
+2034,"Middle of the Road
+(SSP2-4.5)",37.589,34.129,36.327,Missoula County,penman
+2034,"High Emissions
+(SSP3-7.0)",40.023,33.978,37.231,Missoula County,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",40.359,32.241,35.948,Missoula County,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",40.166,34.739,37.031,Missoula County,penman
+2035,"Middle of the Road
+(SSP2-4.5)",39.5,33.81,35.896,Missoula County,penman
+2035,"High Emissions
+(SSP3-7.0)",37.839,34.014,37.321,Missoula County,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",37.941,34.396,35.69,Missoula County,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",38.875,35.538,36.87,Missoula County,penman
+2036,"Middle of the Road
+(SSP2-4.5)",39.368,34.389,35.899,Missoula County,penman
+2036,"High Emissions
+(SSP3-7.0)",38.092,34.609,36.216,Missoula County,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",38.745,33.688,35.915,Missoula County,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",38.455,34.845,36.88,Missoula County,penman
+2037,"Middle of the Road
+(SSP2-4.5)",38.355,34.811,36.122,Missoula County,penman
+2037,"High Emissions
+(SSP3-7.0)",38.718,32.03,35.27,Missoula County,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",39.13,34.544,36.579,Missoula County,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",38.23,35.607,36.363,Missoula County,penman
+2038,"Middle of the Road
+(SSP2-4.5)",38.105,34.969,36.204,Missoula County,penman
+2038,"High Emissions
+(SSP3-7.0)",38.405,34.986,36.431,Missoula County,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",38.66,34.954,37.431,Missoula County,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",39.13,34.206,36.275,Missoula County,penman
+2039,"Middle of the Road
+(SSP2-4.5)",38.618,34.559,35.85,Missoula County,penman
+2039,"High Emissions
+(SSP3-7.0)",39.267,34.801,37.424,Missoula County,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",38.997,34.044,36.65,Missoula County,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",38.45,33.458,37.151,Missoula County,penman
+2040,"Middle of the Road
+(SSP2-4.5)",38.769,35.155,36.454,Missoula County,penman
+2040,"High Emissions
+(SSP3-7.0)",38.348,34.782,36.477,Missoula County,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",39.453,35.152,37.908,Missoula County,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",39.041,33.39,36.214,Missoula County,penman
+2041,"Middle of the Road
+(SSP2-4.5)",38.791,35.848,37.772,Missoula County,penman
+2041,"High Emissions
+(SSP3-7.0)",38.743,34.471,36.145,Missoula County,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",38.263,33.955,36.844,Missoula County,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",40.071,34.361,35.78,Missoula County,penman
+2042,"Middle of the Road
+(SSP2-4.5)",38.159,34.786,37.013,Missoula County,penman
+2042,"High Emissions
+(SSP3-7.0)",37.446,34.759,36.603,Missoula County,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",39.728,34.045,38.487,Missoula County,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",38.814,34.388,36.688,Missoula County,penman
+2043,"Middle of the Road
+(SSP2-4.5)",38.976,34.558,36.301,Missoula County,penman
+2043,"High Emissions
+(SSP3-7.0)",37.534,34.915,36.016,Missoula County,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",40.187,35.378,37.382,Missoula County,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",38.278,35.529,37.239,Missoula County,penman
+2044,"Middle of the Road
+(SSP2-4.5)",41.377,34.744,37.341,Missoula County,penman
+2044,"High Emissions
+(SSP3-7.0)",38.887,35.482,37.009,Missoula County,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",39.614,36.411,38.388,Missoula County,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",37.84,35.432,37.006,Missoula County,penman
+2045,"Middle of the Road
+(SSP2-4.5)",40.365,35.052,37.34,Missoula County,penman
+2045,"High Emissions
+(SSP3-7.0)",39.901,34.867,37.93,Missoula County,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",40.275,34.926,36.04,Missoula County,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",38.042,35.503,36.914,Missoula County,penman
+2046,"Middle of the Road
+(SSP2-4.5)",38.364,34.047,36.276,Missoula County,penman
+2046,"High Emissions
+(SSP3-7.0)",37.87,33.608,37.249,Missoula County,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",38.691,33.65,36.601,Missoula County,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",40.045,34.503,37.366,Missoula County,penman
+2047,"Middle of the Road
+(SSP2-4.5)",39.745,33.395,36.245,Missoula County,penman
+2047,"High Emissions
+(SSP3-7.0)",38.693,35.497,36.974,Missoula County,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",41.393,35.757,38.048,Missoula County,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",38.234,34.726,36.8,Missoula County,penman
+2048,"Middle of the Road
+(SSP2-4.5)",39.165,35.85,37.028,Missoula County,penman
+2048,"High Emissions
+(SSP3-7.0)",40.279,34.479,36.488,Missoula County,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",42.836,34.355,38.711,Missoula County,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",38.337,34.658,35.745,Missoula County,penman
+2049,"Middle of the Road
+(SSP2-4.5)",38.35,34.359,37.046,Missoula County,penman
+2049,"High Emissions
+(SSP3-7.0)",39.045,35.659,36.816,Missoula County,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",39.169,35.079,38.229,Missoula County,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",39.803,33.675,37.091,Missoula County,penman
+2050,"Middle of the Road
+(SSP2-4.5)",40.344,34.718,37.717,Missoula County,penman
+2050,"High Emissions
+(SSP3-7.0)",39.766,35.419,36.668,Missoula County,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",41.956,35.719,37.414,Missoula County,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",38.471,34.457,36.671,Missoula County,penman
+2051,"Middle of the Road
+(SSP2-4.5)",39.352,36.123,37.397,Missoula County,penman
+2051,"High Emissions
+(SSP3-7.0)",38.899,35.715,37.138,Missoula County,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",39.347,36.354,37.048,Missoula County,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",37.928,35.277,36.171,Missoula County,penman
+2052,"Middle of the Road
+(SSP2-4.5)",39.89,35.075,35.753,Missoula County,penman
+2052,"High Emissions
+(SSP3-7.0)",37.477,34.449,36.224,Missoula County,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",38.678,34.893,37.455,Missoula County,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",39.071,35.022,35.989,Missoula County,penman
+2053,"Middle of the Road
+(SSP2-4.5)",39.174,35.032,36.7,Missoula County,penman
+2053,"High Emissions
+(SSP3-7.0)",41.208,36.811,38.834,Missoula County,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",41.474,35.507,36.829,Missoula County,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",38.232,36.495,37.542,Missoula County,penman
+2054,"Middle of the Road
+(SSP2-4.5)",39.994,34.804,36.453,Missoula County,penman
+2054,"High Emissions
+(SSP3-7.0)",38.991,35.438,36.163,Missoula County,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",41.242,36.095,38.501,Missoula County,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",39.314,35.498,37.638,Missoula County,penman
+2055,"Middle of the Road
+(SSP2-4.5)",39.372,34.919,37.625,Missoula County,penman
+2055,"High Emissions
+(SSP3-7.0)",39.691,35.408,37.201,Missoula County,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",41.838,36.616,37.897,Missoula County,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",39.427,34.228,37.842,Missoula County,penman
+2056,"Middle of the Road
+(SSP2-4.5)",39.628,36.018,38.189,Missoula County,penman
+2056,"High Emissions
+(SSP3-7.0)",38.465,34.967,37.24,Missoula County,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",39.114,37.49,38.043,Missoula County,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",38.189,32.723,36.473,Missoula County,penman
+2057,"Middle of the Road
+(SSP2-4.5)",39.681,36.713,38.186,Missoula County,penman
+2057,"High Emissions
+(SSP3-7.0)",39.036,34.266,37.219,Missoula County,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",40.388,35.643,37.664,Missoula County,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",39.056,33.963,37.792,Missoula County,penman
+2058,"Middle of the Road
+(SSP2-4.5)",42.509,35.677,38.336,Missoula County,penman
+2058,"High Emissions
+(SSP3-7.0)",39.45,34.726,37.044,Missoula County,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",40.476,35.447,37.101,Missoula County,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",41.051,35.532,36.832,Missoula County,penman
+2059,"Middle of the Road
+(SSP2-4.5)",42.605,35.437,37.306,Missoula County,penman
+2059,"High Emissions
+(SSP3-7.0)",40.215,36.204,38.392,Missoula County,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",40.235,36.823,39.339,Missoula County,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",38.686,35.286,36.105,Missoula County,penman
+2060,"Middle of the Road
+(SSP2-4.5)",42.379,35.333,37.27,Missoula County,penman
+2060,"High Emissions
+(SSP3-7.0)",39.827,35.386,38.293,Missoula County,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",39.439,34.818,37.63,Missoula County,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",38.985,34.276,37.284,Missoula County,penman
+2061,"Middle of the Road
+(SSP2-4.5)",39.017,35.274,36.097,Missoula County,penman
+2061,"High Emissions
+(SSP3-7.0)",40.178,36.048,39.085,Missoula County,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",42.713,37.106,40.034,Missoula County,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",39.588,35.066,36.491,Missoula County,penman
+2062,"Middle of the Road
+(SSP2-4.5)",38.804,35.079,38.08,Missoula County,penman
+2062,"High Emissions
+(SSP3-7.0)",39.229,35.47,37.744,Missoula County,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",40.577,37.327,38.595,Missoula County,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",38.23,35.728,37.002,Missoula County,penman
+2063,"Middle of the Road
+(SSP2-4.5)",38.323,34.135,36.014,Missoula County,penman
+2063,"High Emissions
+(SSP3-7.0)",40.091,36.614,38.019,Missoula County,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",41.398,37.392,39.197,Missoula County,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",40.224,34.666,36.682,Missoula County,penman
+2064,"Middle of the Road
+(SSP2-4.5)",38.681,35.21,36.699,Missoula County,penman
+2064,"High Emissions
+(SSP3-7.0)",40.023,37.377,37.938,Missoula County,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",40.576,37.225,39.063,Missoula County,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",39.76,33.793,36.472,Missoula County,penman
+2065,"Middle of the Road
+(SSP2-4.5)",38.543,35.235,37.19,Missoula County,penman
+2065,"High Emissions
+(SSP3-7.0)",39.595,36.167,38.564,Missoula County,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",42.767,37.836,39.844,Missoula County,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",40.061,35.654,38.035,Missoula County,penman
+2066,"Middle of the Road
+(SSP2-4.5)",40.661,35.714,38.265,Missoula County,penman
+2066,"High Emissions
+(SSP3-7.0)",39.805,35.678,37.613,Missoula County,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",42.551,36.923,38.283,Missoula County,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",38.073,36.215,36.537,Missoula County,penman
+2067,"Middle of the Road
+(SSP2-4.5)",39.6,34.823,37.096,Missoula County,penman
+2067,"High Emissions
+(SSP3-7.0)",44.614,36.526,38.84,Missoula County,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",41.855,36.393,37.732,Missoula County,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",38.977,34.816,36.863,Missoula County,penman
+2068,"Middle of the Road
+(SSP2-4.5)",38.588,35.483,37.472,Missoula County,penman
+2068,"High Emissions
+(SSP3-7.0)",40.466,35.992,37.67,Missoula County,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",40.99,35.548,38.94,Missoula County,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",39.718,35.908,37.551,Missoula County,penman
+2069,"Middle of the Road
+(SSP2-4.5)",40.047,34.977,37.562,Missoula County,penman
+2069,"High Emissions
+(SSP3-7.0)",43.252,37.437,39.017,Missoula County,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",43.59,36.829,41.252,Missoula County,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",39.24,35.472,36.748,Missoula County,penman
+2070,"Middle of the Road
+(SSP2-4.5)",39.76,35.119,35.905,Missoula County,penman
+2070,"High Emissions
+(SSP3-7.0)",41.67,36.831,38.764,Missoula County,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",42.093,37.477,38.439,Missoula County,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",41.239,34.399,36.5,Missoula County,penman
+2071,"Middle of the Road
+(SSP2-4.5)",39.398,36.231,38.044,Missoula County,penman
+2071,"High Emissions
+(SSP3-7.0)",40.525,36.487,38.659,Missoula County,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",43.289,37.427,40.152,Missoula County,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",39.783,36.433,38.093,Missoula County,penman
+2072,"Middle of the Road
+(SSP2-4.5)",39.484,34.899,37.86,Missoula County,penman
+2072,"High Emissions
+(SSP3-7.0)",42.683,35.028,38.291,Missoula County,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",41.431,38.071,39.201,Missoula County,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",39.276,35.259,35.891,Missoula County,penman
+2073,"Middle of the Road
+(SSP2-4.5)",41.63,33.974,36.727,Missoula County,penman
+2073,"High Emissions
+(SSP3-7.0)",40.037,37.341,38.948,Missoula County,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",43.011,35.921,38.657,Missoula County,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",39.746,33.407,37.56,Missoula County,penman
+2074,"Middle of the Road
+(SSP2-4.5)",41.335,35.216,36.897,Missoula County,penman
+2074,"High Emissions
+(SSP3-7.0)",40.51,37.021,38.397,Missoula County,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",46.615,37.589,39.664,Missoula County,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",39.906,33.222,36.963,Missoula County,penman
+2075,"Middle of the Road
+(SSP2-4.5)",42.553,35.815,37.303,Missoula County,penman
+2075,"High Emissions
+(SSP3-7.0)",41.587,35.46,38.114,Missoula County,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",45.408,37.501,38.754,Missoula County,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",38.864,34.18,36.303,Missoula County,penman
+2076,"Middle of the Road
+(SSP2-4.5)",38.742,35.721,36.722,Missoula County,penman
+2076,"High Emissions
+(SSP3-7.0)",41.411,37.835,38.643,Missoula County,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",43.509,37.409,39.599,Missoula County,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",39.291,34.792,37.837,Missoula County,penman
+2077,"Middle of the Road
+(SSP2-4.5)",40.482,35.097,37.583,Missoula County,penman
+2077,"High Emissions
+(SSP3-7.0)",42.087,36.967,38.238,Missoula County,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",42.953,37.333,39.8,Missoula County,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",39.97,35.434,37.404,Missoula County,penman
+2078,"Middle of the Road
+(SSP2-4.5)",41.16,35.749,37.613,Missoula County,penman
+2078,"High Emissions
+(SSP3-7.0)",43.635,36.337,38.799,Missoula County,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",43.199,36.641,38.311,Missoula County,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",41.4,34.603,37.573,Missoula County,penman
+2079,"Middle of the Road
+(SSP2-4.5)",39.028,36.592,38.047,Missoula County,penman
+2079,"High Emissions
+(SSP3-7.0)",41.996,37.221,38.416,Missoula County,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",45.154,38.118,39.473,Missoula County,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",38.655,34.811,36.023,Missoula County,penman
+2080,"Middle of the Road
+(SSP2-4.5)",41.987,34.871,37.179,Missoula County,penman
+2080,"High Emissions
+(SSP3-7.0)",42.672,38.117,39.099,Missoula County,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",45.433,37.234,40.36,Missoula County,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",39.466,35.425,37.252,Missoula County,penman
+2081,"Middle of the Road
+(SSP2-4.5)",39.223,36.736,38.017,Missoula County,penman
+2081,"High Emissions
+(SSP3-7.0)",43.583,37.054,40.556,Missoula County,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",44.942,39.136,41.338,Missoula County,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",39.537,35.055,37.836,Missoula County,penman
+2082,"Middle of the Road
+(SSP2-4.5)",42.185,35.977,37.287,Missoula County,penman
+2082,"High Emissions
+(SSP3-7.0)",42.02,36.825,39.383,Missoula County,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",44.18,38.109,42.136,Missoula County,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",40.154,35.456,37.868,Missoula County,penman
+2083,"Middle of the Road
+(SSP2-4.5)",40.267,35.644,37.918,Missoula County,penman
+2083,"High Emissions
+(SSP3-7.0)",42.802,35.643,38.8,Missoula County,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",42.32,38.461,40.759,Missoula County,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",40.692,34.121,35.591,Missoula County,penman
+2084,"Middle of the Road
+(SSP2-4.5)",40.861,37.556,38.491,Missoula County,penman
+2084,"High Emissions
+(SSP3-7.0)",43.053,39.035,40.614,Missoula County,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",44.601,37.821,41.089,Missoula County,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",39.686,33.546,35.543,Missoula County,penman
+2085,"Middle of the Road
+(SSP2-4.5)",40.438,35.057,39.004,Missoula County,penman
+2085,"High Emissions
+(SSP3-7.0)",42.199,36.734,37.835,Missoula County,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",43.083,38.81,41.275,Missoula County,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",39.424,36.043,36.884,Missoula County,penman
+2086,"Middle of the Road
+(SSP2-4.5)",40.694,36.143,38.511,Missoula County,penman
+2086,"High Emissions
+(SSP3-7.0)",43.134,36.948,39.018,Missoula County,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",43.131,39.063,42.474,Missoula County,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",38.431,34.124,36.909,Missoula County,penman
+2087,"Middle of the Road
+(SSP2-4.5)",40.082,36.717,38.337,Missoula County,penman
+2087,"High Emissions
+(SSP3-7.0)",45.151,35.473,38.807,Missoula County,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",44.28,38.218,40.107,Missoula County,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",40.117,35.245,36.587,Missoula County,penman
+2088,"Middle of the Road
+(SSP2-4.5)",41.867,37.224,39.672,Missoula County,penman
+2088,"High Emissions
+(SSP3-7.0)",43.43,38.013,40.147,Missoula County,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",46.722,38.451,42.04,Missoula County,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",39.965,34.303,37.254,Missoula County,penman
+2089,"Middle of the Road
+(SSP2-4.5)",41.615,35.697,38.816,Missoula County,penman
+2089,"High Emissions
+(SSP3-7.0)",43.711,38.215,40.631,Missoula County,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",45.54,38.637,43.641,Missoula County,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",38.87,35.501,36.974,Missoula County,penman
+2090,"Middle of the Road
+(SSP2-4.5)",40.004,36.141,38.399,Missoula County,penman
+2090,"High Emissions
+(SSP3-7.0)",46.777,39.198,40.969,Missoula County,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",45.629,38.408,40.93,Missoula County,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",38.96,35.418,36.399,Missoula County,penman
+2091,"Middle of the Road
+(SSP2-4.5)",41.438,35.699,37.751,Missoula County,penman
+2091,"High Emissions
+(SSP3-7.0)",43.846,38.783,40.674,Missoula County,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",44.295,38.027,40.939,Missoula County,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",39.118,34.872,36.449,Missoula County,penman
+2092,"Middle of the Road
+(SSP2-4.5)",42.616,36.253,39.87,Missoula County,penman
+2092,"High Emissions
+(SSP3-7.0)",41.501,37.614,39.133,Missoula County,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",45.377,38.084,43.203,Missoula County,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",38.136,34.692,36.391,Missoula County,penman
+2093,"Middle of the Road
+(SSP2-4.5)",40.797,36.284,37.478,Missoula County,penman
+2093,"High Emissions
+(SSP3-7.0)",42.754,37.742,40.364,Missoula County,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",45.68,40.147,41.217,Missoula County,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",39.859,34.506,36.532,Missoula County,penman
+2094,"Middle of the Road
+(SSP2-4.5)",43.629,34.406,38.799,Missoula County,penman
+2094,"High Emissions
+(SSP3-7.0)",41.346,39.159,40.898,Missoula County,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",45.809,39.386,41.273,Missoula County,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",41.53,35.397,37.291,Missoula County,penman
+2095,"Middle of the Road
+(SSP2-4.5)",41.022,38.654,39.675,Missoula County,penman
+2095,"High Emissions
+(SSP3-7.0)",44.619,38.264,40.922,Missoula County,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",44.34,39.493,40.634,Missoula County,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",39.007,34.878,37.412,Missoula County,penman
+2096,"Middle of the Road
+(SSP2-4.5)",40.861,36.895,38.464,Missoula County,penman
+2096,"High Emissions
+(SSP3-7.0)",44.732,38.536,39.659,Missoula County,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",46.866,38.652,39.844,Missoula County,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",39.635,36.435,37.452,Missoula County,penman
+2097,"Middle of the Road
+(SSP2-4.5)",43.243,37.692,38.819,Missoula County,penman
+2097,"High Emissions
+(SSP3-7.0)",46.735,38.768,40.47,Missoula County,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",45.7,40.021,40.726,Missoula County,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",39.183,34.76,36.607,Missoula County,penman
+2098,"Middle of the Road
+(SSP2-4.5)",40.313,36.952,38.281,Missoula County,penman
+2098,"High Emissions
+(SSP3-7.0)",43.827,39.109,40.952,Missoula County,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",43.939,39.483,42.737,Missoula County,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",39.331,34.819,36.784,Missoula County,penman
+2099,"Middle of the Road
+(SSP2-4.5)",40.022,36.718,38.185,Missoula County,penman
+2099,"High Emissions
+(SSP3-7.0)",44.932,37.996,39.648,Missoula County,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",47.687,39.405,42.374,Missoula County,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",39.368,33.979,35.165,Missoula County,penman
+2100,"Middle of the Road
+(SSP2-4.5)",41.018,36.738,38.241,Missoula County,penman
+2100,"High Emissions
+(SSP3-7.0)",42.194,39.13,39.312,Missoula County,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",45.616,40.08,41.336,Missoula County,penman

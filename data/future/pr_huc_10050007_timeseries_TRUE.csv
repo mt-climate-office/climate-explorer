@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,13.158,8.352,10.478,Lodge,pr
+1951,Historical Emissions,14.146,8.481,11.247,Lodge,pr
+1952,Historical Emissions,14.427,9.768,11.655,Lodge,pr
+1953,Historical Emissions,13.873,9.594,12.21,Lodge,pr
+1954,Historical Emissions,16.527,12.415,12.983,Lodge,pr
+1955,Historical Emissions,16.598,7.087,12.202,Lodge,pr
+1956,Historical Emissions,14.177,8.82,10.361,Lodge,pr
+1957,Historical Emissions,14.783,8.818,11.969,Lodge,pr
+1958,Historical Emissions,17.018,12.647,14.483,Lodge,pr
+1959,Historical Emissions,16.17,9.868,12.566,Lodge,pr
+1960,Historical Emissions,17.029,10.441,12.535,Lodge,pr
+1961,Historical Emissions,15.009,9.954,12.018,Lodge,pr
+1962,Historical Emissions,16.188,10.112,14.884,Lodge,pr
+1963,Historical Emissions,15.25,10.798,12.307,Lodge,pr
+1964,Historical Emissions,14.179,8.109,11.62,Lodge,pr
+1965,Historical Emissions,12.892,10.319,11.643,Lodge,pr
+1966,Historical Emissions,14.177,10.22,12.471,Lodge,pr
+1967,Historical Emissions,14.843,9.475,12.239,Lodge,pr
+1968,Historical Emissions,15.71,11.923,12.66,Lodge,pr
+1969,Historical Emissions,14.745,7.555,11.513,Lodge,pr
+1970,Historical Emissions,15.541,9.652,12.421,Lodge,pr
+1971,Historical Emissions,13.628,8.491,11,Lodge,pr
+1972,Historical Emissions,14.013,10.434,12.778,Lodge,pr
+1973,Historical Emissions,14.264,9.905,12.227,Lodge,pr
+1974,Historical Emissions,15.154,8.662,11.796,Lodge,pr
+1975,Historical Emissions,13.739,10.478,12.137,Lodge,pr
+1976,Historical Emissions,15.917,10.09,11.24,Lodge,pr
+1977,Historical Emissions,16.326,9.836,13.11,Lodge,pr
+1978,Historical Emissions,15.918,11.472,14.393,Lodge,pr
+1979,Historical Emissions,16.642,10.477,12.19,Lodge,pr
+1980,Historical Emissions,15.033,9.729,12.489,Lodge,pr
+1981,Historical Emissions,15.051,9.311,14.319,Lodge,pr
+1982,Historical Emissions,15.295,10.405,11.651,Lodge,pr
+1983,Historical Emissions,14.949,10.722,12.222,Lodge,pr
+1984,Historical Emissions,16.024,9.072,12.882,Lodge,pr
+1985,Historical Emissions,15.766,9.894,12.533,Lodge,pr
+1986,Historical Emissions,14.89,11.541,13.094,Lodge,pr
+1987,Historical Emissions,14.242,8.979,12.141,Lodge,pr
+1988,Historical Emissions,15.985,11.686,12.465,Lodge,pr
+1989,Historical Emissions,15.075,11.447,12.036,Lodge,pr
+1990,Historical Emissions,16.646,8.169,12.202,Lodge,pr
+1991,Historical Emissions,16.512,7.808,10.498,Lodge,pr
+1992,Historical Emissions,13.064,8.324,12.052,Lodge,pr
+1993,Historical Emissions,15.448,11.064,13.187,Lodge,pr
+1994,Historical Emissions,14.409,8.907,11.061,Lodge,pr
+1995,Historical Emissions,13.277,8.834,9.789,Lodge,pr
+1996,Historical Emissions,13.527,7.059,10.319,Lodge,pr
+1997,Historical Emissions,14.701,9.111,10.74,Lodge,pr
+1998,Historical Emissions,17.27,10.111,13.016,Lodge,pr
+1999,Historical Emissions,16.345,10.59,13.215,Lodge,pr
+2000,Historical Emissions,14.089,9.337,12.858,Lodge,pr
+2001,Historical Emissions,16.44,9.144,11.738,Lodge,pr
+2002,Historical Emissions,16.945,10.581,13.165,Lodge,pr
+2003,Historical Emissions,14.308,9.096,11.215,Lodge,pr
+2004,Historical Emissions,13.924,9.379,10.929,Lodge,pr
+2005,Historical Emissions,14.753,9.241,11.747,Lodge,pr
+2006,Historical Emissions,16.584,10.537,14.092,Lodge,pr
+2007,Historical Emissions,13.473,9.738,11.554,Lodge,pr
+2008,Historical Emissions,13.403,10.69,11.312,Lodge,pr
+2009,Historical Emissions,15.126,10.909,14.113,Lodge,pr
+2010,Historical Emissions,16.974,9.643,10.867,Lodge,pr
+2011,Historical Emissions,16.108,10.886,11.989,Lodge,pr
+2012,Historical Emissions,13.941,8.1,10.161,Lodge,pr
+2013,Historical Emissions,13.927,8.453,9.956,Lodge,pr
+2014,Historical Emissions,14.61,9.332,12.399,Lodge,pr
+2015,"Moderating Emissions
+(SSP1-2.6)",14.757,9.27,11.342,Lodge,pr
+2015,"Middle of the Road
+(SSP2-4.5)",13.539,9.409,10.861,Lodge,pr
+2015,"High Emissions
+(SSP3-7.0)",17.092,8.971,11.445,Lodge,pr
+2015,"Accelerating Emissions
+(SSP5-8.5)",14.001,9.986,12.452,Lodge,pr
+2016,"Moderating Emissions
+(SSP1-2.6)",14.347,8.762,13.111,Lodge,pr
+2016,"Middle of the Road
+(SSP2-4.5)",15.314,10.606,15.138,Lodge,pr
+2016,"High Emissions
+(SSP3-7.0)",15.36,9.376,11.495,Lodge,pr
+2016,"Accelerating Emissions
+(SSP5-8.5)",15.968,10.792,13.604,Lodge,pr
+2017,"Moderating Emissions
+(SSP1-2.6)",16.08,11.923,14.798,Lodge,pr
+2017,"Middle of the Road
+(SSP2-4.5)",16.757,9.596,12.905,Lodge,pr
+2017,"High Emissions
+(SSP3-7.0)",16.492,11.414,13.039,Lodge,pr
+2017,"Accelerating Emissions
+(SSP5-8.5)",15.178,9.953,12.205,Lodge,pr
+2018,"Moderating Emissions
+(SSP1-2.6)",13.945,10.69,12.606,Lodge,pr
+2018,"Middle of the Road
+(SSP2-4.5)",15.445,8.921,11.424,Lodge,pr
+2018,"High Emissions
+(SSP3-7.0)",17.005,12.295,14.347,Lodge,pr
+2018,"Accelerating Emissions
+(SSP5-8.5)",16.634,9.716,13.209,Lodge,pr
+2019,"Moderating Emissions
+(SSP1-2.6)",12.667,8.705,11.114,Lodge,pr
+2019,"Middle of the Road
+(SSP2-4.5)",15.565,9.633,11.645,Lodge,pr
+2019,"High Emissions
+(SSP3-7.0)",13.859,11.733,12.652,Lodge,pr
+2019,"Accelerating Emissions
+(SSP5-8.5)",14.338,9.483,10.71,Lodge,pr
+2020,"Moderating Emissions
+(SSP1-2.6)",16.956,9.47,11.105,Lodge,pr
+2020,"Middle of the Road
+(SSP2-4.5)",15.713,10.422,12.384,Lodge,pr
+2020,"High Emissions
+(SSP3-7.0)",16.601,11.023,12.926,Lodge,pr
+2020,"Accelerating Emissions
+(SSP5-8.5)",14.608,9.74,12.928,Lodge,pr
+2021,"Moderating Emissions
+(SSP1-2.6)",13.37,9.711,11.833,Lodge,pr
+2021,"Middle of the Road
+(SSP2-4.5)",18.851,6.097,11.851,Lodge,pr
+2021,"High Emissions
+(SSP3-7.0)",13.872,7.633,13.495,Lodge,pr
+2021,"Accelerating Emissions
+(SSP5-8.5)",17.862,9.612,12.938,Lodge,pr
+2022,"Moderating Emissions
+(SSP1-2.6)",14.47,9.767,12.999,Lodge,pr
+2022,"Middle of the Road
+(SSP2-4.5)",16.199,10.517,12.612,Lodge,pr
+2022,"High Emissions
+(SSP3-7.0)",17.957,11.123,13.745,Lodge,pr
+2022,"Accelerating Emissions
+(SSP5-8.5)",14.916,9.318,12.5,Lodge,pr
+2023,"Moderating Emissions
+(SSP1-2.6)",15.696,11.908,13.457,Lodge,pr
+2023,"Middle of the Road
+(SSP2-4.5)",17.053,10.587,13.398,Lodge,pr
+2023,"High Emissions
+(SSP3-7.0)",14.857,7.817,12.84,Lodge,pr
+2023,"Accelerating Emissions
+(SSP5-8.5)",16.19,13.577,15.358,Lodge,pr
+2024,"Moderating Emissions
+(SSP1-2.6)",15.468,10.022,12.038,Lodge,pr
+2024,"Middle of the Road
+(SSP2-4.5)",16.185,9.633,14.569,Lodge,pr
+2024,"High Emissions
+(SSP3-7.0)",13.557,10.21,12.679,Lodge,pr
+2024,"Accelerating Emissions
+(SSP5-8.5)",17.25,10.034,14.748,Lodge,pr
+2025,"Moderating Emissions
+(SSP1-2.6)",15.644,10.027,12.015,Lodge,pr
+2025,"Middle of the Road
+(SSP2-4.5)",18.35,12.543,13.735,Lodge,pr
+2025,"High Emissions
+(SSP3-7.0)",13.767,7.601,11.222,Lodge,pr
+2025,"Accelerating Emissions
+(SSP5-8.5)",15.478,9.819,12.137,Lodge,pr
+2026,"Moderating Emissions
+(SSP1-2.6)",18.949,10.545,13.734,Lodge,pr
+2026,"Middle of the Road
+(SSP2-4.5)",16.444,10.885,12.542,Lodge,pr
+2026,"High Emissions
+(SSP3-7.0)",17.589,11.606,14.52,Lodge,pr
+2026,"Accelerating Emissions
+(SSP5-8.5)",15.382,10.365,12.274,Lodge,pr
+2027,"Moderating Emissions
+(SSP1-2.6)",16.836,11.285,13.455,Lodge,pr
+2027,"Middle of the Road
+(SSP2-4.5)",17.067,10.194,12.966,Lodge,pr
+2027,"High Emissions
+(SSP3-7.0)",18.597,11.472,13.843,Lodge,pr
+2027,"Accelerating Emissions
+(SSP5-8.5)",14.4,10.175,11.635,Lodge,pr
+2028,"Moderating Emissions
+(SSP1-2.6)",15.921,10.355,14.341,Lodge,pr
+2028,"Middle of the Road
+(SSP2-4.5)",16.595,13.235,14.924,Lodge,pr
+2028,"High Emissions
+(SSP3-7.0)",14.612,10.677,12.509,Lodge,pr
+2028,"Accelerating Emissions
+(SSP5-8.5)",17.707,10.786,13.777,Lodge,pr
+2029,"Moderating Emissions
+(SSP1-2.6)",15.566,8.999,12.159,Lodge,pr
+2029,"Middle of the Road
+(SSP2-4.5)",18.114,9.725,14.226,Lodge,pr
+2029,"High Emissions
+(SSP3-7.0)",16.32,9.265,11.595,Lodge,pr
+2029,"Accelerating Emissions
+(SSP5-8.5)",15.056,11.267,12.075,Lodge,pr
+2030,"Moderating Emissions
+(SSP1-2.6)",15.393,11.635,12.791,Lodge,pr
+2030,"Middle of the Road
+(SSP2-4.5)",14.329,8.587,10.423,Lodge,pr
+2030,"High Emissions
+(SSP3-7.0)",17.085,9.297,13.517,Lodge,pr
+2030,"Accelerating Emissions
+(SSP5-8.5)",19.122,8.837,9.976,Lodge,pr
+2031,"Moderating Emissions
+(SSP1-2.6)",15.035,8.741,13.448,Lodge,pr
+2031,"Middle of the Road
+(SSP2-4.5)",14.691,10.448,12.272,Lodge,pr
+2031,"High Emissions
+(SSP3-7.0)",18.794,7.645,11.185,Lodge,pr
+2031,"Accelerating Emissions
+(SSP5-8.5)",17.768,9.183,14.82,Lodge,pr
+2032,"Moderating Emissions
+(SSP1-2.6)",17.747,10.468,13.732,Lodge,pr
+2032,"Middle of the Road
+(SSP2-4.5)",16.143,10.136,13.583,Lodge,pr
+2032,"High Emissions
+(SSP3-7.0)",12.406,7.994,10.706,Lodge,pr
+2032,"Accelerating Emissions
+(SSP5-8.5)",15.038,10.114,13.156,Lodge,pr
+2033,"Moderating Emissions
+(SSP1-2.6)",16.1,9.985,13.458,Lodge,pr
+2033,"Middle of the Road
+(SSP2-4.5)",16.101,9.332,12.932,Lodge,pr
+2033,"High Emissions
+(SSP3-7.0)",13.548,9.502,10.048,Lodge,pr
+2033,"Accelerating Emissions
+(SSP5-8.5)",15.71,12.028,13.267,Lodge,pr
+2034,"Moderating Emissions
+(SSP1-2.6)",16.27,9.885,12.138,Lodge,pr
+2034,"Middle of the Road
+(SSP2-4.5)",15.9,10.407,13.114,Lodge,pr
+2034,"High Emissions
+(SSP3-7.0)",13.675,8.736,10.671,Lodge,pr
+2034,"Accelerating Emissions
+(SSP5-8.5)",19.218,10.851,14.53,Lodge,pr
+2035,"Moderating Emissions
+(SSP1-2.6)",15.523,7.206,10.811,Lodge,pr
+2035,"Middle of the Road
+(SSP2-4.5)",18.286,11.539,14.052,Lodge,pr
+2035,"High Emissions
+(SSP3-7.0)",17.305,9.412,13.647,Lodge,pr
+2035,"Accelerating Emissions
+(SSP5-8.5)",14.918,11.232,13.74,Lodge,pr
+2036,"Moderating Emissions
+(SSP1-2.6)",14.106,8.42,11.304,Lodge,pr
+2036,"Middle of the Road
+(SSP2-4.5)",16.835,11.123,15.303,Lodge,pr
+2036,"High Emissions
+(SSP3-7.0)",17.381,9.792,12.035,Lodge,pr
+2036,"Accelerating Emissions
+(SSP5-8.5)",16.213,11.746,14.165,Lodge,pr
+2037,"Moderating Emissions
+(SSP1-2.6)",17.07,9.711,13.352,Lodge,pr
+2037,"Middle of the Road
+(SSP2-4.5)",15.132,11.288,12.805,Lodge,pr
+2037,"High Emissions
+(SSP3-7.0)",17.689,12.105,13.772,Lodge,pr
+2037,"Accelerating Emissions
+(SSP5-8.5)",16.783,10.537,13.406,Lodge,pr
+2038,"Moderating Emissions
+(SSP1-2.6)",16.66,10.577,14.813,Lodge,pr
+2038,"Middle of the Road
+(SSP2-4.5)",16.598,11.548,13.447,Lodge,pr
+2038,"High Emissions
+(SSP3-7.0)",16.316,8.985,13.386,Lodge,pr
+2038,"Accelerating Emissions
+(SSP5-8.5)",16.03,10.293,13.434,Lodge,pr
+2039,"Moderating Emissions
+(SSP1-2.6)",17.237,10.182,13.558,Lodge,pr
+2039,"Middle of the Road
+(SSP2-4.5)",16.639,7.892,13.329,Lodge,pr
+2039,"High Emissions
+(SSP3-7.0)",15.845,7.932,12.017,Lodge,pr
+2039,"Accelerating Emissions
+(SSP5-8.5)",15.181,10.784,13.425,Lodge,pr
+2040,"Moderating Emissions
+(SSP1-2.6)",16.915,10.536,13.252,Lodge,pr
+2040,"Middle of the Road
+(SSP2-4.5)",13.472,9.51,11.543,Lodge,pr
+2040,"High Emissions
+(SSP3-7.0)",15.33,9.271,14.466,Lodge,pr
+2040,"Accelerating Emissions
+(SSP5-8.5)",16.009,9.709,12.69,Lodge,pr
+2041,"Moderating Emissions
+(SSP1-2.6)",17.311,11.41,13.268,Lodge,pr
+2041,"Middle of the Road
+(SSP2-4.5)",16.855,10.933,13.933,Lodge,pr
+2041,"High Emissions
+(SSP3-7.0)",15.15,9.546,11.675,Lodge,pr
+2041,"Accelerating Emissions
+(SSP5-8.5)",16.845,12.466,15.532,Lodge,pr
+2042,"Moderating Emissions
+(SSP1-2.6)",19.509,10.957,15.43,Lodge,pr
+2042,"Middle of the Road
+(SSP2-4.5)",15.77,10.279,12.326,Lodge,pr
+2042,"High Emissions
+(SSP3-7.0)",16.315,11.036,14.314,Lodge,pr
+2042,"Accelerating Emissions
+(SSP5-8.5)",16.826,12.702,14.975,Lodge,pr
+2043,"Moderating Emissions
+(SSP1-2.6)",18.795,9.497,10.983,Lodge,pr
+2043,"Middle of the Road
+(SSP2-4.5)",16.695,7.997,13.456,Lodge,pr
+2043,"High Emissions
+(SSP3-7.0)",15.968,10.945,13.841,Lodge,pr
+2043,"Accelerating Emissions
+(SSP5-8.5)",15.392,10.284,12.776,Lodge,pr
+2044,"Moderating Emissions
+(SSP1-2.6)",17.7,9.989,12.274,Lodge,pr
+2044,"Middle of the Road
+(SSP2-4.5)",15.312,8.765,12.091,Lodge,pr
+2044,"High Emissions
+(SSP3-7.0)",17.169,9.936,13.535,Lodge,pr
+2044,"Accelerating Emissions
+(SSP5-8.5)",16.649,10.344,12.852,Lodge,pr
+2045,"Moderating Emissions
+(SSP1-2.6)",16.052,10.753,12.275,Lodge,pr
+2045,"Middle of the Road
+(SSP2-4.5)",17.165,8.84,12.103,Lodge,pr
+2045,"High Emissions
+(SSP3-7.0)",15.291,9.948,13.13,Lodge,pr
+2045,"Accelerating Emissions
+(SSP5-8.5)",15.624,9.989,12.518,Lodge,pr
+2046,"Moderating Emissions
+(SSP1-2.6)",14.967,10.059,11.952,Lodge,pr
+2046,"Middle of the Road
+(SSP2-4.5)",18.052,12.296,15.774,Lodge,pr
+2046,"High Emissions
+(SSP3-7.0)",16.718,11.383,14.095,Lodge,pr
+2046,"Accelerating Emissions
+(SSP5-8.5)",15.817,9.147,12.31,Lodge,pr
+2047,"Moderating Emissions
+(SSP1-2.6)",16.43,10.157,13.234,Lodge,pr
+2047,"Middle of the Road
+(SSP2-4.5)",15.777,11.731,14.286,Lodge,pr
+2047,"High Emissions
+(SSP3-7.0)",16.831,9.913,12.959,Lodge,pr
+2047,"Accelerating Emissions
+(SSP5-8.5)",14.718,9.585,12.332,Lodge,pr
+2048,"Moderating Emissions
+(SSP1-2.6)",16.649,12.247,14.805,Lodge,pr
+2048,"Middle of the Road
+(SSP2-4.5)",14.203,9.316,12.319,Lodge,pr
+2048,"High Emissions
+(SSP3-7.0)",16.732,10.002,12.974,Lodge,pr
+2048,"Accelerating Emissions
+(SSP5-8.5)",14.511,8.165,12.456,Lodge,pr
+2049,"Moderating Emissions
+(SSP1-2.6)",17.331,10.084,12.829,Lodge,pr
+2049,"Middle of the Road
+(SSP2-4.5)",17.294,9.856,12.725,Lodge,pr
+2049,"High Emissions
+(SSP3-7.0)",16.99,10.232,13.235,Lodge,pr
+2049,"Accelerating Emissions
+(SSP5-8.5)",15.21,8.962,12.392,Lodge,pr
+2050,"Moderating Emissions
+(SSP1-2.6)",16.724,9.508,13.548,Lodge,pr
+2050,"Middle of the Road
+(SSP2-4.5)",16.773,9.214,11.469,Lodge,pr
+2050,"High Emissions
+(SSP3-7.0)",15.892,10.924,13.335,Lodge,pr
+2050,"Accelerating Emissions
+(SSP5-8.5)",16.038,10.118,12.161,Lodge,pr
+2051,"Moderating Emissions
+(SSP1-2.6)",20.278,10.677,13.963,Lodge,pr
+2051,"Middle of the Road
+(SSP2-4.5)",17.245,10.201,13.107,Lodge,pr
+2051,"High Emissions
+(SSP3-7.0)",15.669,9.357,12.338,Lodge,pr
+2051,"Accelerating Emissions
+(SSP5-8.5)",14.967,10.395,11.408,Lodge,pr
+2052,"Moderating Emissions
+(SSP1-2.6)",16.081,10.731,13.379,Lodge,pr
+2052,"Middle of the Road
+(SSP2-4.5)",16.474,9.907,13.41,Lodge,pr
+2052,"High Emissions
+(SSP3-7.0)",16.467,11.313,13.92,Lodge,pr
+2052,"Accelerating Emissions
+(SSP5-8.5)",13.901,10.177,11.82,Lodge,pr
+2053,"Moderating Emissions
+(SSP1-2.6)",17.592,12.067,13.633,Lodge,pr
+2053,"Middle of the Road
+(SSP2-4.5)",14.817,10.139,12.897,Lodge,pr
+2053,"High Emissions
+(SSP3-7.0)",13.83,9.729,10.659,Lodge,pr
+2053,"Accelerating Emissions
+(SSP5-8.5)",15.425,10.647,13.848,Lodge,pr
+2054,"Moderating Emissions
+(SSP1-2.6)",17.591,9.421,12.023,Lodge,pr
+2054,"Middle of the Road
+(SSP2-4.5)",18.506,8.71,12.417,Lodge,pr
+2054,"High Emissions
+(SSP3-7.0)",14.319,9.929,11.826,Lodge,pr
+2054,"Accelerating Emissions
+(SSP5-8.5)",13.875,10.233,11.473,Lodge,pr
+2055,"Moderating Emissions
+(SSP1-2.6)",15.811,10.384,12.149,Lodge,pr
+2055,"Middle of the Road
+(SSP2-4.5)",14.737,8.505,10.435,Lodge,pr
+2055,"High Emissions
+(SSP3-7.0)",14.517,10.842,11.8,Lodge,pr
+2055,"Accelerating Emissions
+(SSP5-8.5)",16.249,9.795,13.008,Lodge,pr
+2056,"Moderating Emissions
+(SSP1-2.6)",16.281,11.656,13.623,Lodge,pr
+2056,"Middle of the Road
+(SSP2-4.5)",16.319,10.5,15.271,Lodge,pr
+2056,"High Emissions
+(SSP3-7.0)",16.265,11.498,14.378,Lodge,pr
+2056,"Accelerating Emissions
+(SSP5-8.5)",14.344,10.682,13.44,Lodge,pr
+2057,"Moderating Emissions
+(SSP1-2.6)",16.751,10.815,15.403,Lodge,pr
+2057,"Middle of the Road
+(SSP2-4.5)",17.237,10.412,11.151,Lodge,pr
+2057,"High Emissions
+(SSP3-7.0)",14.971,10.886,14.139,Lodge,pr
+2057,"Accelerating Emissions
+(SSP5-8.5)",18.371,12.33,14.687,Lodge,pr
+2058,"Moderating Emissions
+(SSP1-2.6)",16.89,11.2,13.916,Lodge,pr
+2058,"Middle of the Road
+(SSP2-4.5)",15.472,9.368,13.522,Lodge,pr
+2058,"High Emissions
+(SSP3-7.0)",17.853,11.127,12.904,Lodge,pr
+2058,"Accelerating Emissions
+(SSP5-8.5)",17.346,12.004,14.524,Lodge,pr
+2059,"Moderating Emissions
+(SSP1-2.6)",14.19,11.198,12.392,Lodge,pr
+2059,"Middle of the Road
+(SSP2-4.5)",17.155,9.821,12.416,Lodge,pr
+2059,"High Emissions
+(SSP3-7.0)",16.844,9.221,13.748,Lodge,pr
+2059,"Accelerating Emissions
+(SSP5-8.5)",14.041,11.181,13.139,Lodge,pr
+2060,"Moderating Emissions
+(SSP1-2.6)",15.55,10.955,12.374,Lodge,pr
+2060,"Middle of the Road
+(SSP2-4.5)",14.803,9.876,12.664,Lodge,pr
+2060,"High Emissions
+(SSP3-7.0)",18.125,11.312,14.962,Lodge,pr
+2060,"Accelerating Emissions
+(SSP5-8.5)",16.404,11.237,13.289,Lodge,pr
+2061,"Moderating Emissions
+(SSP1-2.6)",15.228,9.47,13.155,Lodge,pr
+2061,"Middle of the Road
+(SSP2-4.5)",16.139,11.66,14.349,Lodge,pr
+2061,"High Emissions
+(SSP3-7.0)",17.469,8.896,12.11,Lodge,pr
+2061,"Accelerating Emissions
+(SSP5-8.5)",14.098,9.841,11.342,Lodge,pr
+2062,"Moderating Emissions
+(SSP1-2.6)",16.819,10.948,13.84,Lodge,pr
+2062,"Middle of the Road
+(SSP2-4.5)",16.199,8.878,13.139,Lodge,pr
+2062,"High Emissions
+(SSP3-7.0)",17.256,10.846,13.394,Lodge,pr
+2062,"Accelerating Emissions
+(SSP5-8.5)",16.227,10.292,15.317,Lodge,pr
+2063,"Moderating Emissions
+(SSP1-2.6)",14.949,10.012,10.793,Lodge,pr
+2063,"Middle of the Road
+(SSP2-4.5)",18.921,11.587,14.409,Lodge,pr
+2063,"High Emissions
+(SSP3-7.0)",15.044,10.458,11.904,Lodge,pr
+2063,"Accelerating Emissions
+(SSP5-8.5)",15.805,9.892,12.587,Lodge,pr
+2064,"Moderating Emissions
+(SSP1-2.6)",17.356,9.707,16.09,Lodge,pr
+2064,"Middle of the Road
+(SSP2-4.5)",16.936,11.854,12.713,Lodge,pr
+2064,"High Emissions
+(SSP3-7.0)",17,8.963,14.768,Lodge,pr
+2064,"Accelerating Emissions
+(SSP5-8.5)",14.209,10.156,12.887,Lodge,pr
+2065,"Moderating Emissions
+(SSP1-2.6)",17.292,12.903,13.424,Lodge,pr
+2065,"Middle of the Road
+(SSP2-4.5)",15.605,9.717,12.036,Lodge,pr
+2065,"High Emissions
+(SSP3-7.0)",15.721,10.725,12.114,Lodge,pr
+2065,"Accelerating Emissions
+(SSP5-8.5)",17.464,9.662,12.462,Lodge,pr
+2066,"Moderating Emissions
+(SSP1-2.6)",16.9,8.931,12.298,Lodge,pr
+2066,"Middle of the Road
+(SSP2-4.5)",17.769,9.313,13.901,Lodge,pr
+2066,"High Emissions
+(SSP3-7.0)",17.557,10.827,12.907,Lodge,pr
+2066,"Accelerating Emissions
+(SSP5-8.5)",18.378,9.981,11.562,Lodge,pr
+2067,"Moderating Emissions
+(SSP1-2.6)",14.825,9.323,11.944,Lodge,pr
+2067,"Middle of the Road
+(SSP2-4.5)",17.069,11.466,14.089,Lodge,pr
+2067,"High Emissions
+(SSP3-7.0)",15.837,7.912,13.018,Lodge,pr
+2067,"Accelerating Emissions
+(SSP5-8.5)",15.839,9.941,12.418,Lodge,pr
+2068,"Moderating Emissions
+(SSP1-2.6)",18.226,12.405,14.145,Lodge,pr
+2068,"Middle of the Road
+(SSP2-4.5)",17.94,12.452,14.574,Lodge,pr
+2068,"High Emissions
+(SSP3-7.0)",14.323,10.547,13.356,Lodge,pr
+2068,"Accelerating Emissions
+(SSP5-8.5)",16.261,9.527,11.585,Lodge,pr
+2069,"Moderating Emissions
+(SSP1-2.6)",16.609,10.03,13.549,Lodge,pr
+2069,"Middle of the Road
+(SSP2-4.5)",17.269,11.929,13.717,Lodge,pr
+2069,"High Emissions
+(SSP3-7.0)",12.926,10.092,11.345,Lodge,pr
+2069,"Accelerating Emissions
+(SSP5-8.5)",14.02,9.217,12.835,Lodge,pr
+2070,"Moderating Emissions
+(SSP1-2.6)",16.746,11.709,12.834,Lodge,pr
+2070,"Middle of the Road
+(SSP2-4.5)",16.659,11.992,13.424,Lodge,pr
+2070,"High Emissions
+(SSP3-7.0)",16.083,11.082,14.013,Lodge,pr
+2070,"Accelerating Emissions
+(SSP5-8.5)",18.338,11.724,13.16,Lodge,pr
+2071,"Moderating Emissions
+(SSP1-2.6)",14.936,8.05,13.944,Lodge,pr
+2071,"Middle of the Road
+(SSP2-4.5)",16.285,11.841,13.008,Lodge,pr
+2071,"High Emissions
+(SSP3-7.0)",14.37,10.799,12.796,Lodge,pr
+2071,"Accelerating Emissions
+(SSP5-8.5)",15.728,10.123,12.466,Lodge,pr
+2072,"Moderating Emissions
+(SSP1-2.6)",15.429,11.884,13.738,Lodge,pr
+2072,"Middle of the Road
+(SSP2-4.5)",19.485,9.589,13.907,Lodge,pr
+2072,"High Emissions
+(SSP3-7.0)",16.632,10.038,11.218,Lodge,pr
+2072,"Accelerating Emissions
+(SSP5-8.5)",16.842,10.607,13.695,Lodge,pr
+2073,"Moderating Emissions
+(SSP1-2.6)",14.514,11.44,12.967,Lodge,pr
+2073,"Middle of the Road
+(SSP2-4.5)",20.322,8.68,14.101,Lodge,pr
+2073,"High Emissions
+(SSP3-7.0)",16.196,9.343,11.633,Lodge,pr
+2073,"Accelerating Emissions
+(SSP5-8.5)",15.917,11.312,12.558,Lodge,pr
+2074,"Moderating Emissions
+(SSP1-2.6)",16.952,11.297,15.3,Lodge,pr
+2074,"Middle of the Road
+(SSP2-4.5)",17.825,10.151,14.122,Lodge,pr
+2074,"High Emissions
+(SSP3-7.0)",15.801,10.309,13.644,Lodge,pr
+2074,"Accelerating Emissions
+(SSP5-8.5)",16.744,7.914,13.714,Lodge,pr
+2075,"Moderating Emissions
+(SSP1-2.6)",15.198,10.071,13.056,Lodge,pr
+2075,"Middle of the Road
+(SSP2-4.5)",16.511,11.549,12.319,Lodge,pr
+2075,"High Emissions
+(SSP3-7.0)",19.35,10.876,15.16,Lodge,pr
+2075,"Accelerating Emissions
+(SSP5-8.5)",16.052,8.772,11.731,Lodge,pr
+2076,"Moderating Emissions
+(SSP1-2.6)",16.936,10.317,14.022,Lodge,pr
+2076,"Middle of the Road
+(SSP2-4.5)",17.871,12.205,14.257,Lodge,pr
+2076,"High Emissions
+(SSP3-7.0)",17.087,11.178,12.686,Lodge,pr
+2076,"Accelerating Emissions
+(SSP5-8.5)",16.354,9.222,13.52,Lodge,pr
+2077,"Moderating Emissions
+(SSP1-2.6)",18.149,8.078,12.956,Lodge,pr
+2077,"Middle of the Road
+(SSP2-4.5)",16.927,9.589,12.258,Lodge,pr
+2077,"High Emissions
+(SSP3-7.0)",17.158,9.931,14.983,Lodge,pr
+2077,"Accelerating Emissions
+(SSP5-8.5)",15.932,11.457,13.392,Lodge,pr
+2078,"Moderating Emissions
+(SSP1-2.6)",16.742,9.432,12.922,Lodge,pr
+2078,"Middle of the Road
+(SSP2-4.5)",17.359,11.531,15.912,Lodge,pr
+2078,"High Emissions
+(SSP3-7.0)",13.922,9.448,12.415,Lodge,pr
+2078,"Accelerating Emissions
+(SSP5-8.5)",18.701,11.992,15.723,Lodge,pr
+2079,"Moderating Emissions
+(SSP1-2.6)",13.61,8.625,11.391,Lodge,pr
+2079,"Middle of the Road
+(SSP2-4.5)",14.869,10.712,11.965,Lodge,pr
+2079,"High Emissions
+(SSP3-7.0)",17.955,11.436,12.726,Lodge,pr
+2079,"Accelerating Emissions
+(SSP5-8.5)",15.423,10.182,12.75,Lodge,pr
+2080,"Moderating Emissions
+(SSP1-2.6)",16.632,11.082,14.298,Lodge,pr
+2080,"Middle of the Road
+(SSP2-4.5)",17.177,9.587,12.759,Lodge,pr
+2080,"High Emissions
+(SSP3-7.0)",15.515,11.257,13.706,Lodge,pr
+2080,"Accelerating Emissions
+(SSP5-8.5)",16.108,9.548,14.286,Lodge,pr
+2081,"Moderating Emissions
+(SSP1-2.6)",15.937,9.612,12.644,Lodge,pr
+2081,"Middle of the Road
+(SSP2-4.5)",18.172,10.91,14.64,Lodge,pr
+2081,"High Emissions
+(SSP3-7.0)",17.389,10.626,12.165,Lodge,pr
+2081,"Accelerating Emissions
+(SSP5-8.5)",14.147,8.893,11.775,Lodge,pr
+2082,"Moderating Emissions
+(SSP1-2.6)",13.043,9.37,12.098,Lodge,pr
+2082,"Middle of the Road
+(SSP2-4.5)",15.491,10.877,12.63,Lodge,pr
+2082,"High Emissions
+(SSP3-7.0)",13.752,9.363,12.908,Lodge,pr
+2082,"Accelerating Emissions
+(SSP5-8.5)",14.148,11.101,12.607,Lodge,pr
+2083,"Moderating Emissions
+(SSP1-2.6)",15.179,9.719,12.419,Lodge,pr
+2083,"Middle of the Road
+(SSP2-4.5)",14.095,11.075,12.88,Lodge,pr
+2083,"High Emissions
+(SSP3-7.0)",17.906,10.778,13.852,Lodge,pr
+2083,"Accelerating Emissions
+(SSP5-8.5)",16.389,9.284,12.933,Lodge,pr
+2084,"Moderating Emissions
+(SSP1-2.6)",17.497,10.802,14.232,Lodge,pr
+2084,"Middle of the Road
+(SSP2-4.5)",14.857,8.858,11.826,Lodge,pr
+2084,"High Emissions
+(SSP3-7.0)",11.858,9.622,11.314,Lodge,pr
+2084,"Accelerating Emissions
+(SSP5-8.5)",15.804,11.14,12.692,Lodge,pr
+2085,"Moderating Emissions
+(SSP1-2.6)",17.904,10.13,14.87,Lodge,pr
+2085,"Middle of the Road
+(SSP2-4.5)",18.785,8.981,14.064,Lodge,pr
+2085,"High Emissions
+(SSP3-7.0)",15.419,10.987,11.895,Lodge,pr
+2085,"Accelerating Emissions
+(SSP5-8.5)",15.782,10.943,12.138,Lodge,pr
+2086,"Moderating Emissions
+(SSP1-2.6)",15.485,9.968,12.489,Lodge,pr
+2086,"Middle of the Road
+(SSP2-4.5)",18.069,8.804,13.946,Lodge,pr
+2086,"High Emissions
+(SSP3-7.0)",15.166,11.025,12.937,Lodge,pr
+2086,"Accelerating Emissions
+(SSP5-8.5)",16.368,11.862,12.715,Lodge,pr
+2087,"Moderating Emissions
+(SSP1-2.6)",17.459,10.143,14.648,Lodge,pr
+2087,"Middle of the Road
+(SSP2-4.5)",15.638,11.152,12.793,Lodge,pr
+2087,"High Emissions
+(SSP3-7.0)",18.646,8.545,13.607,Lodge,pr
+2087,"Accelerating Emissions
+(SSP5-8.5)",20.91,11.942,14.378,Lodge,pr
+2088,"Moderating Emissions
+(SSP1-2.6)",16.794,10.351,13.988,Lodge,pr
+2088,"Middle of the Road
+(SSP2-4.5)",16.668,8.45,11.065,Lodge,pr
+2088,"High Emissions
+(SSP3-7.0)",15.765,13.347,14.071,Lodge,pr
+2088,"Accelerating Emissions
+(SSP5-8.5)",14.888,7.166,11.884,Lodge,pr
+2089,"Moderating Emissions
+(SSP1-2.6)",15.349,11.333,13.466,Lodge,pr
+2089,"Middle of the Road
+(SSP2-4.5)",15.86,11.673,13.854,Lodge,pr
+2089,"High Emissions
+(SSP3-7.0)",16.595,12.03,13.54,Lodge,pr
+2089,"Accelerating Emissions
+(SSP5-8.5)",15.536,10.629,13.013,Lodge,pr
+2090,"Moderating Emissions
+(SSP1-2.6)",16.644,10.313,12.929,Lodge,pr
+2090,"Middle of the Road
+(SSP2-4.5)",19.66,11.731,15.306,Lodge,pr
+2090,"High Emissions
+(SSP3-7.0)",13.608,9.854,11.225,Lodge,pr
+2090,"Accelerating Emissions
+(SSP5-8.5)",16.163,10.769,13.519,Lodge,pr
+2091,"Moderating Emissions
+(SSP1-2.6)",14.895,11.814,13.406,Lodge,pr
+2091,"Middle of the Road
+(SSP2-4.5)",19.029,10.872,12.928,Lodge,pr
+2091,"High Emissions
+(SSP3-7.0)",15.628,11.188,12.618,Lodge,pr
+2091,"Accelerating Emissions
+(SSP5-8.5)",18.703,11.556,14.343,Lodge,pr
+2092,"Moderating Emissions
+(SSP1-2.6)",15.489,10.352,13.21,Lodge,pr
+2092,"Middle of the Road
+(SSP2-4.5)",16.764,8.911,14.143,Lodge,pr
+2092,"High Emissions
+(SSP3-7.0)",16.6,12.82,14.701,Lodge,pr
+2092,"Accelerating Emissions
+(SSP5-8.5)",16.202,9.166,10.238,Lodge,pr
+2093,"Moderating Emissions
+(SSP1-2.6)",16.969,9.406,12.847,Lodge,pr
+2093,"Middle of the Road
+(SSP2-4.5)",18.426,11.575,12.626,Lodge,pr
+2093,"High Emissions
+(SSP3-7.0)",16.308,12.363,14.386,Lodge,pr
+2093,"Accelerating Emissions
+(SSP5-8.5)",14.642,10.209,12.181,Lodge,pr
+2094,"Moderating Emissions
+(SSP1-2.6)",14.224,11.043,11.896,Lodge,pr
+2094,"Middle of the Road
+(SSP2-4.5)",20.274,9.276,11.322,Lodge,pr
+2094,"High Emissions
+(SSP3-7.0)",17.796,10.21,13.028,Lodge,pr
+2094,"Accelerating Emissions
+(SSP5-8.5)",15.531,10.65,12.195,Lodge,pr
+2095,"Moderating Emissions
+(SSP1-2.6)",18.994,9,10.061,Lodge,pr
+2095,"Middle of the Road
+(SSP2-4.5)",16.403,10.386,12.566,Lodge,pr
+2095,"High Emissions
+(SSP3-7.0)",15.73,9.757,13.275,Lodge,pr
+2095,"Accelerating Emissions
+(SSP5-8.5)",13.447,9.414,10.76,Lodge,pr
+2096,"Moderating Emissions
+(SSP1-2.6)",16.243,10.865,12.686,Lodge,pr
+2096,"Middle of the Road
+(SSP2-4.5)",16.078,11.579,14.149,Lodge,pr
+2096,"High Emissions
+(SSP3-7.0)",19.223,11.092,13.92,Lodge,pr
+2096,"Accelerating Emissions
+(SSP5-8.5)",16.516,10.611,14.216,Lodge,pr
+2097,"Moderating Emissions
+(SSP1-2.6)",13.622,7.186,9.97,Lodge,pr
+2097,"Middle of the Road
+(SSP2-4.5)",14.875,10.243,12.941,Lodge,pr
+2097,"High Emissions
+(SSP3-7.0)",14.688,10.319,11.941,Lodge,pr
+2097,"Accelerating Emissions
+(SSP5-8.5)",16.008,10.592,14.444,Lodge,pr
+2098,"Moderating Emissions
+(SSP1-2.6)",16.117,11.025,12.886,Lodge,pr
+2098,"Middle of the Road
+(SSP2-4.5)",15.095,8.415,13.482,Lodge,pr
+2098,"High Emissions
+(SSP3-7.0)",17.52,11.303,14.837,Lodge,pr
+2098,"Accelerating Emissions
+(SSP5-8.5)",17.116,9.027,11.944,Lodge,pr
+2099,"Moderating Emissions
+(SSP1-2.6)",15.965,11.53,13.263,Lodge,pr
+2099,"Middle of the Road
+(SSP2-4.5)",18.51,10.704,12.716,Lodge,pr
+2099,"High Emissions
+(SSP3-7.0)",15.613,11.239,13.077,Lodge,pr
+2099,"Accelerating Emissions
+(SSP5-8.5)",17.369,8.893,12.772,Lodge,pr
+2100,"Moderating Emissions
+(SSP1-2.6)",18.288,12.488,15.473,Lodge,pr
+2100,"Middle of the Road
+(SSP2-4.5)",17.646,11.297,12.662,Lodge,pr
+2100,"High Emissions
+(SSP3-7.0)",18.488,11.335,13.417,Lodge,pr
+2100,"Accelerating Emissions
+(SSP5-8.5)",13.526,9.704,11.844,Lodge,pr

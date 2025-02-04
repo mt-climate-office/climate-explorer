@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,1.066,0.921,0.957,Middle Fork Flathead,penman
+1951,Historical Emissions,1.026,0.909,0.984,Middle Fork Flathead,penman
+1952,Historical Emissions,1.006,0.895,0.953,Middle Fork Flathead,penman
+1953,Historical Emissions,1.002,0.922,0.958,Middle Fork Flathead,penman
+1954,Historical Emissions,1.023,0.881,0.934,Middle Fork Flathead,penman
+1955,Historical Emissions,1.033,0.902,0.958,Middle Fork Flathead,penman
+1956,Historical Emissions,1.042,0.906,0.942,Middle Fork Flathead,penman
+1957,Historical Emissions,1.043,0.883,0.93,Middle Fork Flathead,penman
+1958,Historical Emissions,0.994,0.872,0.935,Middle Fork Flathead,penman
+1959,Historical Emissions,0.979,0.879,0.932,Middle Fork Flathead,penman
+1960,Historical Emissions,0.983,0.907,0.93,Middle Fork Flathead,penman
+1961,Historical Emissions,0.998,0.903,0.952,Middle Fork Flathead,penman
+1962,Historical Emissions,0.989,0.864,0.959,Middle Fork Flathead,penman
+1963,Historical Emissions,0.955,0.867,0.922,Middle Fork Flathead,penman
+1964,Historical Emissions,1.003,0.893,0.963,Middle Fork Flathead,penman
+1965,Historical Emissions,1.004,0.886,0.956,Middle Fork Flathead,penman
+1966,Historical Emissions,1.022,0.872,0.94,Middle Fork Flathead,penman
+1967,Historical Emissions,0.995,0.903,0.939,Middle Fork Flathead,penman
+1968,Historical Emissions,0.959,0.864,0.92,Middle Fork Flathead,penman
+1969,Historical Emissions,0.986,0.889,0.956,Middle Fork Flathead,penman
+1970,Historical Emissions,0.972,0.896,0.917,Middle Fork Flathead,penman
+1971,Historical Emissions,1.083,0.889,0.969,Middle Fork Flathead,penman
+1972,Historical Emissions,0.988,0.891,0.951,Middle Fork Flathead,penman
+1973,Historical Emissions,1.028,0.891,0.925,Middle Fork Flathead,penman
+1974,Historical Emissions,1.004,0.873,0.953,Middle Fork Flathead,penman
+1975,Historical Emissions,0.999,0.916,0.949,Middle Fork Flathead,penman
+1976,Historical Emissions,0.993,0.92,0.946,Middle Fork Flathead,penman
+1977,Historical Emissions,1.042,0.893,0.923,Middle Fork Flathead,penman
+1978,Historical Emissions,0.99,0.905,0.952,Middle Fork Flathead,penman
+1979,Historical Emissions,1.01,0.866,0.982,Middle Fork Flathead,penman
+1980,Historical Emissions,1.025,0.876,0.986,Middle Fork Flathead,penman
+1981,Historical Emissions,1.009,0.894,0.963,Middle Fork Flathead,penman
+1982,Historical Emissions,0.998,0.917,0.959,Middle Fork Flathead,penman
+1983,Historical Emissions,0.993,0.879,0.946,Middle Fork Flathead,penman
+1984,Historical Emissions,1.014,0.893,0.948,Middle Fork Flathead,penman
+1985,Historical Emissions,1.005,0.918,0.958,Middle Fork Flathead,penman
+1986,Historical Emissions,0.965,0.882,0.948,Middle Fork Flathead,penman
+1987,Historical Emissions,1.056,0.88,0.93,Middle Fork Flathead,penman
+1988,Historical Emissions,1.02,0.91,0.925,Middle Fork Flathead,penman
+1989,Historical Emissions,1.04,0.93,0.981,Middle Fork Flathead,penman
+1990,Historical Emissions,1.083,0.918,0.989,Middle Fork Flathead,penman
+1991,Historical Emissions,1.061,0.84,0.967,Middle Fork Flathead,penman
+1992,Historical Emissions,1.04,0.897,0.927,Middle Fork Flathead,penman
+1993,Historical Emissions,0.994,0.925,0.949,Middle Fork Flathead,penman
+1994,Historical Emissions,1.069,0.896,0.939,Middle Fork Flathead,penman
+1995,Historical Emissions,1.035,0.943,0.961,Middle Fork Flathead,penman
+1996,Historical Emissions,1.103,0.99,1.019,Middle Fork Flathead,penman
+1997,Historical Emissions,1.029,0.91,0.968,Middle Fork Flathead,penman
+1998,Historical Emissions,1.015,0.931,0.985,Middle Fork Flathead,penman
+1999,Historical Emissions,1,0.902,0.97,Middle Fork Flathead,penman
+2000,Historical Emissions,1.067,0.909,0.978,Middle Fork Flathead,penman
+2001,Historical Emissions,1.024,0.942,1.002,Middle Fork Flathead,penman
+2002,Historical Emissions,1.085,0.91,0.984,Middle Fork Flathead,penman
+2003,Historical Emissions,1.094,0.948,1.029,Middle Fork Flathead,penman
+2004,Historical Emissions,1.096,0.975,1.011,Middle Fork Flathead,penman
+2005,Historical Emissions,1.086,0.965,1.066,Middle Fork Flathead,penman
+2006,Historical Emissions,1.057,0.935,1.011,Middle Fork Flathead,penman
+2007,Historical Emissions,1.049,0.959,1.01,Middle Fork Flathead,penman
+2008,Historical Emissions,1.081,0.969,0.995,Middle Fork Flathead,penman
+2009,Historical Emissions,1.045,0.933,0.998,Middle Fork Flathead,penman
+2010,Historical Emissions,1.061,0.953,1.007,Middle Fork Flathead,penman
+2011,Historical Emissions,1.038,0.939,1.001,Middle Fork Flathead,penman
+2012,Historical Emissions,1.091,0.998,1.029,Middle Fork Flathead,penman
+2013,Historical Emissions,1.08,0.994,1.053,Middle Fork Flathead,penman
+2014,Historical Emissions,1.083,0.969,0.995,Middle Fork Flathead,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",1.093,0.992,1.033,Middle Fork Flathead,penman
+2015,"Middle of the Road
+(SSP2-4.5)",1.094,0.928,1.027,Middle Fork Flathead,penman
+2015,"High Emissions
+(SSP3-7.0)",1.06,0.972,1.014,Middle Fork Flathead,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",1.108,0.971,1.017,Middle Fork Flathead,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",1.072,0.995,1.032,Middle Fork Flathead,penman
+2016,"Middle of the Road
+(SSP2-4.5)",1.07,0.971,1.019,Middle Fork Flathead,penman
+2016,"High Emissions
+(SSP3-7.0)",1.137,0.977,1.051,Middle Fork Flathead,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",1.078,0.956,1.003,Middle Fork Flathead,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",1.079,0.963,0.993,Middle Fork Flathead,penman
+2017,"Middle of the Road
+(SSP2-4.5)",1.083,0.97,1.036,Middle Fork Flathead,penman
+2017,"High Emissions
+(SSP3-7.0)",1.076,0.965,1.02,Middle Fork Flathead,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",1.104,0.973,1.052,Middle Fork Flathead,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",1.079,0.968,1.022,Middle Fork Flathead,penman
+2018,"Middle of the Road
+(SSP2-4.5)",1.071,0.953,1.009,Middle Fork Flathead,penman
+2018,"High Emissions
+(SSP3-7.0)",1.042,0.912,0.998,Middle Fork Flathead,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",1.095,0.933,1.007,Middle Fork Flathead,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",1.1,1.021,1.055,Middle Fork Flathead,penman
+2019,"Middle of the Road
+(SSP2-4.5)",1.102,0.941,1.023,Middle Fork Flathead,penman
+2019,"High Emissions
+(SSP3-7.0)",1.089,0.952,1.032,Middle Fork Flathead,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",1.161,0.966,1.017,Middle Fork Flathead,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",1.115,0.947,1.017,Middle Fork Flathead,penman
+2020,"Middle of the Road
+(SSP2-4.5)",1.089,0.938,1.033,Middle Fork Flathead,penman
+2020,"High Emissions
+(SSP3-7.0)",1.073,0.952,1.016,Middle Fork Flathead,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",1.09,0.993,1.011,Middle Fork Flathead,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",1.151,0.977,1.035,Middle Fork Flathead,penman
+2021,"Middle of the Road
+(SSP2-4.5)",1.163,0.944,1.032,Middle Fork Flathead,penman
+2021,"High Emissions
+(SSP3-7.0)",1.102,0.959,1.024,Middle Fork Flathead,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",1.114,0.984,1.012,Middle Fork Flathead,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",1.085,0.96,1.047,Middle Fork Flathead,penman
+2022,"Middle of the Road
+(SSP2-4.5)",1.103,0.969,1.068,Middle Fork Flathead,penman
+2022,"High Emissions
+(SSP3-7.0)",1.081,0.958,0.991,Middle Fork Flathead,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",1.101,1.005,1.033,Middle Fork Flathead,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",1.115,0.983,1.004,Middle Fork Flathead,penman
+2023,"Middle of the Road
+(SSP2-4.5)",1.098,0.97,1.042,Middle Fork Flathead,penman
+2023,"High Emissions
+(SSP3-7.0)",1.115,0.995,1.013,Middle Fork Flathead,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",1.026,0.923,1,Middle Fork Flathead,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",1.131,0.952,1.002,Middle Fork Flathead,penman
+2024,"Middle of the Road
+(SSP2-4.5)",1.145,1.013,1.035,Middle Fork Flathead,penman
+2024,"High Emissions
+(SSP3-7.0)",1.115,0.997,1.06,Middle Fork Flathead,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",1.123,0.953,1.026,Middle Fork Flathead,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",1.086,1.009,1.06,Middle Fork Flathead,penman
+2025,"Middle of the Road
+(SSP2-4.5)",1.054,0.94,0.997,Middle Fork Flathead,penman
+2025,"High Emissions
+(SSP3-7.0)",1.159,1.021,1.033,Middle Fork Flathead,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",1.133,0.969,1.089,Middle Fork Flathead,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",1.069,0.964,1.028,Middle Fork Flathead,penman
+2026,"Middle of the Road
+(SSP2-4.5)",1.142,0.977,1.055,Middle Fork Flathead,penman
+2026,"High Emissions
+(SSP3-7.0)",1.063,0.953,0.992,Middle Fork Flathead,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",1.149,0.985,1.02,Middle Fork Flathead,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",1.16,0.979,0.996,Middle Fork Flathead,penman
+2027,"Middle of the Road
+(SSP2-4.5)",1.143,0.942,1.047,Middle Fork Flathead,penman
+2027,"High Emissions
+(SSP3-7.0)",1.124,0.989,1.069,Middle Fork Flathead,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",1.129,1.011,1.078,Middle Fork Flathead,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",1.127,0.96,1.061,Middle Fork Flathead,penman
+2028,"Middle of the Road
+(SSP2-4.5)",1.05,0.989,1.007,Middle Fork Flathead,penman
+2028,"High Emissions
+(SSP3-7.0)",1.098,1.009,1.044,Middle Fork Flathead,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",1.162,0.979,1.032,Middle Fork Flathead,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",1.129,1.004,1.093,Middle Fork Flathead,penman
+2029,"Middle of the Road
+(SSP2-4.5)",1.128,0.974,0.99,Middle Fork Flathead,penman
+2029,"High Emissions
+(SSP3-7.0)",1.172,0.961,1.036,Middle Fork Flathead,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",1.121,0.992,1.054,Middle Fork Flathead,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",1.092,1.017,1.045,Middle Fork Flathead,penman
+2030,"Middle of the Road
+(SSP2-4.5)",1.158,1.036,1.075,Middle Fork Flathead,penman
+2030,"High Emissions
+(SSP3-7.0)",1.148,0.99,1.025,Middle Fork Flathead,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",1.159,0.977,1.033,Middle Fork Flathead,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",1.101,1.015,1.06,Middle Fork Flathead,penman
+2031,"Middle of the Road
+(SSP2-4.5)",1.116,0.994,1.058,Middle Fork Flathead,penman
+2031,"High Emissions
+(SSP3-7.0)",1.192,0.965,1.083,Middle Fork Flathead,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",1.133,1.003,1.06,Middle Fork Flathead,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",1.103,0.987,1.055,Middle Fork Flathead,penman
+2032,"Middle of the Road
+(SSP2-4.5)",1.13,1.005,1.022,Middle Fork Flathead,penman
+2032,"High Emissions
+(SSP3-7.0)",1.161,0.971,1.062,Middle Fork Flathead,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",1.148,0.942,1.024,Middle Fork Flathead,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",1.134,1.004,1.077,Middle Fork Flathead,penman
+2033,"Middle of the Road
+(SSP2-4.5)",1.169,0.969,1.042,Middle Fork Flathead,penman
+2033,"High Emissions
+(SSP3-7.0)",1.146,0.965,1.03,Middle Fork Flathead,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",1.141,1.027,1.056,Middle Fork Flathead,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",1.162,0.975,1.071,Middle Fork Flathead,penman
+2034,"Middle of the Road
+(SSP2-4.5)",1.115,1.008,1.046,Middle Fork Flathead,penman
+2034,"High Emissions
+(SSP3-7.0)",1.208,0.988,1.095,Middle Fork Flathead,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",1.197,0.942,1.047,Middle Fork Flathead,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",1.184,1.012,1.092,Middle Fork Flathead,penman
+2035,"Middle of the Road
+(SSP2-4.5)",1.17,0.974,1.021,Middle Fork Flathead,penman
+2035,"High Emissions
+(SSP3-7.0)",1.124,0.966,1.071,Middle Fork Flathead,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",1.111,0.976,1.036,Middle Fork Flathead,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",1.135,1.028,1.078,Middle Fork Flathead,penman
+2036,"Middle of the Road
+(SSP2-4.5)",1.156,0.978,1.027,Middle Fork Flathead,penman
+2036,"High Emissions
+(SSP3-7.0)",1.113,0.987,1.039,Middle Fork Flathead,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",1.135,0.946,1.053,Middle Fork Flathead,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",1.129,1,1.094,Middle Fork Flathead,penman
+2037,"Middle of the Road
+(SSP2-4.5)",1.122,0.991,1.046,Middle Fork Flathead,penman
+2037,"High Emissions
+(SSP3-7.0)",1.123,0.915,1,Middle Fork Flathead,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",1.149,0.961,1.064,Middle Fork Flathead,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",1.106,1.028,1.049,Middle Fork Flathead,penman
+2038,"Middle of the Road
+(SSP2-4.5)",1.124,1.004,1.044,Middle Fork Flathead,penman
+2038,"High Emissions
+(SSP3-7.0)",1.131,1.001,1.062,Middle Fork Flathead,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",1.151,0.971,1.05,Middle Fork Flathead,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",1.138,0.976,1.028,Middle Fork Flathead,penman
+2039,"Middle of the Road
+(SSP2-4.5)",1.147,1.009,1.034,Middle Fork Flathead,penman
+2039,"High Emissions
+(SSP3-7.0)",1.159,1.036,1.093,Middle Fork Flathead,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",1.133,0.998,1.049,Middle Fork Flathead,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",1.11,0.961,1.08,Middle Fork Flathead,penman
+2040,"Middle of the Road
+(SSP2-4.5)",1.132,0.996,1.074,Middle Fork Flathead,penman
+2040,"High Emissions
+(SSP3-7.0)",1.132,1.009,1.065,Middle Fork Flathead,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",1.156,1.016,1.106,Middle Fork Flathead,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",1.121,0.953,1.03,Middle Fork Flathead,penman
+2041,"Middle of the Road
+(SSP2-4.5)",1.151,1.03,1.083,Middle Fork Flathead,penman
+2041,"High Emissions
+(SSP3-7.0)",1.133,1.005,1.04,Middle Fork Flathead,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",1.099,0.977,1.055,Middle Fork Flathead,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",1.19,0.975,1.04,Middle Fork Flathead,penman
+2042,"Middle of the Road
+(SSP2-4.5)",1.103,0.997,1.069,Middle Fork Flathead,penman
+2042,"High Emissions
+(SSP3-7.0)",1.077,1.011,1.042,Middle Fork Flathead,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",1.143,0.959,1.118,Middle Fork Flathead,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",1.109,0.989,1.05,Middle Fork Flathead,penman
+2043,"Middle of the Road
+(SSP2-4.5)",1.152,0.974,1.033,Middle Fork Flathead,penman
+2043,"High Emissions
+(SSP3-7.0)",1.099,0.978,1.037,Middle Fork Flathead,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",1.169,1.008,1.09,Middle Fork Flathead,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",1.114,1.015,1.078,Middle Fork Flathead,penman
+2044,"Middle of the Road
+(SSP2-4.5)",1.232,1.029,1.081,Middle Fork Flathead,penman
+2044,"High Emissions
+(SSP3-7.0)",1.128,1.014,1.081,Middle Fork Flathead,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",1.165,1.049,1.106,Middle Fork Flathead,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",1.087,1.014,1.054,Middle Fork Flathead,penman
+2045,"Middle of the Road
+(SSP2-4.5)",1.189,1.003,1.087,Middle Fork Flathead,penman
+2045,"High Emissions
+(SSP3-7.0)",1.163,0.988,1.092,Middle Fork Flathead,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",1.156,1.013,1.052,Middle Fork Flathead,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",1.122,1.039,1.069,Middle Fork Flathead,penman
+2046,"Middle of the Road
+(SSP2-4.5)",1.095,0.972,1.041,Middle Fork Flathead,penman
+2046,"High Emissions
+(SSP3-7.0)",1.096,0.992,1.062,Middle Fork Flathead,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",1.128,0.985,1.041,Middle Fork Flathead,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",1.158,1.008,1.088,Middle Fork Flathead,penman
+2047,"Middle of the Road
+(SSP2-4.5)",1.16,0.937,1.027,Middle Fork Flathead,penman
+2047,"High Emissions
+(SSP3-7.0)",1.119,1.023,1.073,Middle Fork Flathead,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",1.231,1.019,1.084,Middle Fork Flathead,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",1.102,1.006,1.045,Middle Fork Flathead,penman
+2048,"Middle of the Road
+(SSP2-4.5)",1.146,1.032,1.057,Middle Fork Flathead,penman
+2048,"High Emissions
+(SSP3-7.0)",1.187,0.981,1.073,Middle Fork Flathead,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",1.241,0.987,1.148,Middle Fork Flathead,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",1.14,1.001,1.04,Middle Fork Flathead,penman
+2049,"Middle of the Road
+(SSP2-4.5)",1.138,0.983,1.094,Middle Fork Flathead,penman
+2049,"High Emissions
+(SSP3-7.0)",1.12,1.013,1.068,Middle Fork Flathead,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",1.155,1.006,1.103,Middle Fork Flathead,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",1.153,0.972,1.043,Middle Fork Flathead,penman
+2050,"Middle of the Road
+(SSP2-4.5)",1.201,0.984,1.121,Middle Fork Flathead,penman
+2050,"High Emissions
+(SSP3-7.0)",1.151,1.031,1.072,Middle Fork Flathead,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",1.243,1.043,1.086,Middle Fork Flathead,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",1.151,0.989,1.055,Middle Fork Flathead,penman
+2051,"Middle of the Road
+(SSP2-4.5)",1.175,1.023,1.087,Middle Fork Flathead,penman
+2051,"High Emissions
+(SSP3-7.0)",1.14,1.051,1.075,Middle Fork Flathead,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",1.16,1.062,1.105,Middle Fork Flathead,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",1.122,1.018,1.05,Middle Fork Flathead,penman
+2052,"Middle of the Road
+(SSP2-4.5)",1.177,1.028,1.066,Middle Fork Flathead,penman
+2052,"High Emissions
+(SSP3-7.0)",1.09,1.014,1.035,Middle Fork Flathead,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",1.144,1.037,1.086,Middle Fork Flathead,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",1.141,1.011,1.04,Middle Fork Flathead,penman
+2053,"Middle of the Road
+(SSP2-4.5)",1.158,1.002,1.065,Middle Fork Flathead,penman
+2053,"High Emissions
+(SSP3-7.0)",1.204,1.072,1.157,Middle Fork Flathead,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",1.238,1.038,1.087,Middle Fork Flathead,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",1.135,1.066,1.079,Middle Fork Flathead,penman
+2054,"Middle of the Road
+(SSP2-4.5)",1.16,0.983,1.088,Middle Fork Flathead,penman
+2054,"High Emissions
+(SSP3-7.0)",1.152,1.02,1.059,Middle Fork Flathead,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",1.21,1.052,1.106,Middle Fork Flathead,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",1.131,1.047,1.111,Middle Fork Flathead,penman
+2055,"Middle of the Road
+(SSP2-4.5)",1.152,1.002,1.092,Middle Fork Flathead,penman
+2055,"High Emissions
+(SSP3-7.0)",1.171,1.041,1.077,Middle Fork Flathead,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",1.217,1.055,1.104,Middle Fork Flathead,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",1.16,1.009,1.081,Middle Fork Flathead,penman
+2056,"Middle of the Road
+(SSP2-4.5)",1.141,1.037,1.084,Middle Fork Flathead,penman
+2056,"High Emissions
+(SSP3-7.0)",1.146,0.984,1.073,Middle Fork Flathead,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",1.153,1.079,1.108,Middle Fork Flathead,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",1.09,0.926,1.038,Middle Fork Flathead,penman
+2057,"Middle of the Road
+(SSP2-4.5)",1.151,1.084,1.117,Middle Fork Flathead,penman
+2057,"High Emissions
+(SSP3-7.0)",1.146,0.984,1.081,Middle Fork Flathead,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",1.199,1.02,1.085,Middle Fork Flathead,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",1.137,0.97,1.067,Middle Fork Flathead,penman
+2058,"Middle of the Road
+(SSP2-4.5)",1.234,1.042,1.126,Middle Fork Flathead,penman
+2058,"High Emissions
+(SSP3-7.0)",1.159,1.001,1.081,Middle Fork Flathead,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",1.171,1.02,1.064,Middle Fork Flathead,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",1.197,1.018,1.053,Middle Fork Flathead,penman
+2059,"Middle of the Road
+(SSP2-4.5)",1.28,1.017,1.071,Middle Fork Flathead,penman
+2059,"High Emissions
+(SSP3-7.0)",1.218,1.045,1.118,Middle Fork Flathead,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",1.19,1.066,1.157,Middle Fork Flathead,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",1.14,1.02,1.053,Middle Fork Flathead,penman
+2060,"Middle of the Road
+(SSP2-4.5)",1.241,1.007,1.083,Middle Fork Flathead,penman
+2060,"High Emissions
+(SSP3-7.0)",1.147,0.997,1.106,Middle Fork Flathead,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",1.163,1.018,1.108,Middle Fork Flathead,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",1.16,0.997,1.07,Middle Fork Flathead,penman
+2061,"Middle of the Road
+(SSP2-4.5)",1.139,1.036,1.083,Middle Fork Flathead,penman
+2061,"High Emissions
+(SSP3-7.0)",1.191,1.034,1.137,Middle Fork Flathead,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",1.272,1.071,1.171,Middle Fork Flathead,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",1.17,0.996,1.069,Middle Fork Flathead,penman
+2062,"Middle of the Road
+(SSP2-4.5)",1.138,1.029,1.1,Middle Fork Flathead,penman
+2062,"High Emissions
+(SSP3-7.0)",1.181,1.016,1.104,Middle Fork Flathead,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",1.199,1.074,1.126,Middle Fork Flathead,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",1.141,1.017,1.082,Middle Fork Flathead,penman
+2063,"Middle of the Road
+(SSP2-4.5)",1.14,0.979,1.053,Middle Fork Flathead,penman
+2063,"High Emissions
+(SSP3-7.0)",1.182,1.073,1.102,Middle Fork Flathead,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",1.233,1.089,1.158,Middle Fork Flathead,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",1.21,0.982,1.07,Middle Fork Flathead,penman
+2064,"Middle of the Road
+(SSP2-4.5)",1.111,0.994,1.077,Middle Fork Flathead,penman
+2064,"High Emissions
+(SSP3-7.0)",1.214,1.063,1.077,Middle Fork Flathead,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",1.196,1.097,1.13,Middle Fork Flathead,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",1.188,0.956,1.055,Middle Fork Flathead,penman
+2065,"Middle of the Road
+(SSP2-4.5)",1.134,1.011,1.08,Middle Fork Flathead,penman
+2065,"High Emissions
+(SSP3-7.0)",1.169,1.039,1.136,Middle Fork Flathead,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",1.257,1.075,1.154,Middle Fork Flathead,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",1.196,1.02,1.085,Middle Fork Flathead,penman
+2066,"Middle of the Road
+(SSP2-4.5)",1.21,1.02,1.117,Middle Fork Flathead,penman
+2066,"High Emissions
+(SSP3-7.0)",1.22,1.039,1.09,Middle Fork Flathead,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",1.252,1.071,1.141,Middle Fork Flathead,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",1.142,1.04,1.069,Middle Fork Flathead,penman
+2067,"Middle of the Road
+(SSP2-4.5)",1.138,0.999,1.059,Middle Fork Flathead,penman
+2067,"High Emissions
+(SSP3-7.0)",1.334,1.056,1.14,Middle Fork Flathead,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",1.28,1.042,1.087,Middle Fork Flathead,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",1.141,1.013,1.096,Middle Fork Flathead,penman
+2068,"Middle of the Road
+(SSP2-4.5)",1.123,1.029,1.078,Middle Fork Flathead,penman
+2068,"High Emissions
+(SSP3-7.0)",1.207,1.034,1.1,Middle Fork Flathead,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",1.214,1.036,1.149,Middle Fork Flathead,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",1.175,1.021,1.1,Middle Fork Flathead,penman
+2069,"Middle of the Road
+(SSP2-4.5)",1.159,1.029,1.101,Middle Fork Flathead,penman
+2069,"High Emissions
+(SSP3-7.0)",1.298,1.077,1.144,Middle Fork Flathead,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",1.336,1.067,1.21,Middle Fork Flathead,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",1.161,1.036,1.064,Middle Fork Flathead,penman
+2070,"Middle of the Road
+(SSP2-4.5)",1.162,1.01,1.068,Middle Fork Flathead,penman
+2070,"High Emissions
+(SSP3-7.0)",1.23,1.068,1.145,Middle Fork Flathead,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",1.273,1.073,1.107,Middle Fork Flathead,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",1.247,1.007,1.081,Middle Fork Flathead,penman
+2071,"Middle of the Road
+(SSP2-4.5)",1.145,1.06,1.117,Middle Fork Flathead,penman
+2071,"High Emissions
+(SSP3-7.0)",1.216,1.051,1.125,Middle Fork Flathead,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",1.285,1.074,1.184,Middle Fork Flathead,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",1.163,1.037,1.094,Middle Fork Flathead,penman
+2072,"Middle of the Road
+(SSP2-4.5)",1.158,0.999,1.088,Middle Fork Flathead,penman
+2072,"High Emissions
+(SSP3-7.0)",1.252,1.014,1.152,Middle Fork Flathead,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",1.225,1.101,1.193,Middle Fork Flathead,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",1.15,1.012,1.047,Middle Fork Flathead,penman
+2073,"Middle of the Road
+(SSP2-4.5)",1.249,0.962,1.053,Middle Fork Flathead,penman
+2073,"High Emissions
+(SSP3-7.0)",1.192,1.082,1.146,Middle Fork Flathead,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",1.257,1.028,1.122,Middle Fork Flathead,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",1.164,0.944,1.114,Middle Fork Flathead,penman
+2074,"Middle of the Road
+(SSP2-4.5)",1.191,1.014,1.088,Middle Fork Flathead,penman
+2074,"High Emissions
+(SSP3-7.0)",1.2,1.085,1.124,Middle Fork Flathead,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",1.377,1.083,1.148,Middle Fork Flathead,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",1.175,0.964,1.072,Middle Fork Flathead,penman
+2075,"Middle of the Road
+(SSP2-4.5)",1.268,1.028,1.085,Middle Fork Flathead,penman
+2075,"High Emissions
+(SSP3-7.0)",1.24,1.042,1.113,Middle Fork Flathead,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",1.347,1.06,1.136,Middle Fork Flathead,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",1.138,0.985,1.054,Middle Fork Flathead,penman
+2076,"Middle of the Road
+(SSP2-4.5)",1.122,1.037,1.044,Middle Fork Flathead,penman
+2076,"High Emissions
+(SSP3-7.0)",1.26,1.089,1.135,Middle Fork Flathead,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",1.303,1.072,1.186,Middle Fork Flathead,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",1.207,0.999,1.09,Middle Fork Flathead,penman
+2077,"Middle of the Road
+(SSP2-4.5)",1.187,1.021,1.091,Middle Fork Flathead,penman
+2077,"High Emissions
+(SSP3-7.0)",1.232,1.073,1.107,Middle Fork Flathead,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",1.29,1.091,1.17,Middle Fork Flathead,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",1.158,1.004,1.068,Middle Fork Flathead,penman
+2078,"Middle of the Road
+(SSP2-4.5)",1.187,1.018,1.074,Middle Fork Flathead,penman
+2078,"High Emissions
+(SSP3-7.0)",1.28,1.049,1.151,Middle Fork Flathead,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",1.282,1.068,1.123,Middle Fork Flathead,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",1.188,0.992,1.104,Middle Fork Flathead,penman
+2079,"Middle of the Road
+(SSP2-4.5)",1.159,1.065,1.107,Middle Fork Flathead,penman
+2079,"High Emissions
+(SSP3-7.0)",1.263,1.094,1.114,Middle Fork Flathead,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",1.341,1.098,1.173,Middle Fork Flathead,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",1.121,1.012,1.05,Middle Fork Flathead,penman
+2080,"Middle of the Road
+(SSP2-4.5)",1.256,0.999,1.086,Middle Fork Flathead,penman
+2080,"High Emissions
+(SSP3-7.0)",1.256,1.098,1.129,Middle Fork Flathead,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",1.308,1.087,1.163,Middle Fork Flathead,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",1.153,1.015,1.062,Middle Fork Flathead,penman
+2081,"Middle of the Road
+(SSP2-4.5)",1.15,1.064,1.107,Middle Fork Flathead,penman
+2081,"High Emissions
+(SSP3-7.0)",1.297,1.067,1.167,Middle Fork Flathead,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",1.347,1.153,1.26,Middle Fork Flathead,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",1.165,1.038,1.097,Middle Fork Flathead,penman
+2082,"Middle of the Road
+(SSP2-4.5)",1.223,1.026,1.093,Middle Fork Flathead,penman
+2082,"High Emissions
+(SSP3-7.0)",1.228,1.078,1.154,Middle Fork Flathead,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",1.358,1.116,1.232,Middle Fork Flathead,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",1.198,1.022,1.113,Middle Fork Flathead,penman
+2083,"Middle of the Road
+(SSP2-4.5)",1.218,1.039,1.112,Middle Fork Flathead,penman
+2083,"High Emissions
+(SSP3-7.0)",1.278,1.037,1.153,Middle Fork Flathead,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",1.31,1.142,1.218,Middle Fork Flathead,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",1.179,1.006,1.054,Middle Fork Flathead,penman
+2084,"Middle of the Road
+(SSP2-4.5)",1.201,1.072,1.139,Middle Fork Flathead,penman
+2084,"High Emissions
+(SSP3-7.0)",1.307,1.143,1.177,Middle Fork Flathead,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",1.303,1.086,1.216,Middle Fork Flathead,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",1.173,0.946,1.016,Middle Fork Flathead,penman
+2085,"Middle of the Road
+(SSP2-4.5)",1.181,1.005,1.134,Middle Fork Flathead,penman
+2085,"High Emissions
+(SSP3-7.0)",1.269,1.082,1.126,Middle Fork Flathead,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",1.308,1.122,1.24,Middle Fork Flathead,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",1.17,1.041,1.054,Middle Fork Flathead,penman
+2086,"Middle of the Road
+(SSP2-4.5)",1.184,1.038,1.113,Middle Fork Flathead,penman
+2086,"High Emissions
+(SSP3-7.0)",1.299,1.063,1.139,Middle Fork Flathead,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",1.294,1.133,1.257,Middle Fork Flathead,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",1.122,0.963,1.059,Middle Fork Flathead,penman
+2087,"Middle of the Road
+(SSP2-4.5)",1.208,1.065,1.11,Middle Fork Flathead,penman
+2087,"High Emissions
+(SSP3-7.0)",1.353,1.033,1.153,Middle Fork Flathead,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",1.292,1.102,1.209,Middle Fork Flathead,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",1.161,1.011,1.054,Middle Fork Flathead,penman
+2088,"Middle of the Road
+(SSP2-4.5)",1.247,1.069,1.19,Middle Fork Flathead,penman
+2088,"High Emissions
+(SSP3-7.0)",1.277,1.089,1.185,Middle Fork Flathead,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",1.423,1.133,1.246,Middle Fork Flathead,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",1.159,1.003,1.079,Middle Fork Flathead,penman
+2089,"Middle of the Road
+(SSP2-4.5)",1.229,1.031,1.119,Middle Fork Flathead,penman
+2089,"High Emissions
+(SSP3-7.0)",1.307,1.103,1.219,Middle Fork Flathead,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",1.385,1.126,1.299,Middle Fork Flathead,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",1.115,1.012,1.055,Middle Fork Flathead,penman
+2090,"Middle of the Road
+(SSP2-4.5)",1.195,1.064,1.126,Middle Fork Flathead,penman
+2090,"High Emissions
+(SSP3-7.0)",1.391,1.153,1.203,Middle Fork Flathead,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",1.365,1.137,1.225,Middle Fork Flathead,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",1.135,1.027,1.054,Middle Fork Flathead,penman
+2091,"Middle of the Road
+(SSP2-4.5)",1.215,1.038,1.134,Middle Fork Flathead,penman
+2091,"High Emissions
+(SSP3-7.0)",1.299,1.123,1.221,Middle Fork Flathead,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",1.341,1.099,1.215,Middle Fork Flathead,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",1.138,1.004,1.052,Middle Fork Flathead,penman
+2092,"Middle of the Road
+(SSP2-4.5)",1.268,1.048,1.165,Middle Fork Flathead,penman
+2092,"High Emissions
+(SSP3-7.0)",1.231,1.093,1.148,Middle Fork Flathead,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",1.395,1.137,1.276,Middle Fork Flathead,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",1.161,0.991,1.056,Middle Fork Flathead,penman
+2093,"Middle of the Road
+(SSP2-4.5)",1.159,1.046,1.103,Middle Fork Flathead,penman
+2093,"High Emissions
+(SSP3-7.0)",1.308,1.105,1.186,Middle Fork Flathead,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",1.349,1.163,1.255,Middle Fork Flathead,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",1.165,0.992,1.03,Middle Fork Flathead,penman
+2094,"Middle of the Road
+(SSP2-4.5)",1.29,0.984,1.168,Middle Fork Flathead,penman
+2094,"High Emissions
+(SSP3-7.0)",1.248,1.136,1.207,Middle Fork Flathead,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",1.417,1.158,1.23,Middle Fork Flathead,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",1.201,1.028,1.06,Middle Fork Flathead,penman
+2095,"Middle of the Road
+(SSP2-4.5)",1.198,1.113,1.165,Middle Fork Flathead,penman
+2095,"High Emissions
+(SSP3-7.0)",1.308,1.117,1.221,Middle Fork Flathead,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",1.332,1.152,1.243,Middle Fork Flathead,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",1.176,0.993,1.071,Middle Fork Flathead,penman
+2096,"Middle of the Road
+(SSP2-4.5)",1.214,1.076,1.117,Middle Fork Flathead,penman
+2096,"High Emissions
+(SSP3-7.0)",1.359,1.117,1.167,Middle Fork Flathead,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",1.416,1.141,1.166,Middle Fork Flathead,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",1.239,1.036,1.084,Middle Fork Flathead,penman
+2097,"Middle of the Road
+(SSP2-4.5)",1.29,1.083,1.149,Middle Fork Flathead,penman
+2097,"High Emissions
+(SSP3-7.0)",1.421,1.115,1.226,Middle Fork Flathead,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",1.344,1.163,1.215,Middle Fork Flathead,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",1.138,1.005,1.054,Middle Fork Flathead,penman
+2098,"Middle of the Road
+(SSP2-4.5)",1.201,1.078,1.148,Middle Fork Flathead,penman
+2098,"High Emissions
+(SSP3-7.0)",1.342,1.101,1.204,Middle Fork Flathead,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",1.305,1.169,1.273,Middle Fork Flathead,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",1.144,0.996,1.063,Middle Fork Flathead,penman
+2099,"Middle of the Road
+(SSP2-4.5)",1.173,1.068,1.136,Middle Fork Flathead,penman
+2099,"High Emissions
+(SSP3-7.0)",1.366,1.093,1.184,Middle Fork Flathead,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",1.47,1.167,1.273,Middle Fork Flathead,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",1.147,0.952,0.998,Middle Fork Flathead,penman
+2100,"Middle of the Road
+(SSP2-4.5)",1.203,1.061,1.105,Middle Fork Flathead,penman
+2100,"High Emissions
+(SSP3-7.0)",1.273,1.148,1.185,Middle Fork Flathead,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",1.383,1.179,1.231,Middle Fork Flathead,penman

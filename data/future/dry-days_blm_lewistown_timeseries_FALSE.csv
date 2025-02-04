@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,269.919,222.908,265.074,Lewistown,dry-days
+1951,Historical Emissions,264.718,238.223,247.032,Lewistown,dry-days
+1952,Historical Emissions,264.972,233.238,248.485,Lewistown,dry-days
+1953,Historical Emissions,259.43,233.999,246.168,Lewistown,dry-days
+1954,Historical Emissions,256.534,218.022,247.874,Lewistown,dry-days
+1955,Historical Emissions,269.249,227.791,253.598,Lewistown,dry-days
+1956,Historical Emissions,276.334,231.941,256.368,Lewistown,dry-days
+1957,Historical Emissions,273.393,230.92,242.61,Lewistown,dry-days
+1958,Historical Emissions,254.089,220.628,242.134,Lewistown,dry-days
+1959,Historical Emissions,251.871,229.595,244.989,Lewistown,dry-days
+1960,Historical Emissions,267.305,221.114,248.18,Lewistown,dry-days
+1961,Historical Emissions,264.328,237.879,246.726,Lewistown,dry-days
+1962,Historical Emissions,277.166,221.521,238.138,Lewistown,dry-days
+1963,Historical Emissions,255.407,228.646,244.306,Lewistown,dry-days
+1964,Historical Emissions,259.882,232.263,253.42,Lewistown,dry-days
+1965,Historical Emissions,267.613,239.666,253.506,Lewistown,dry-days
+1966,Historical Emissions,273.266,218.689,246.252,Lewistown,dry-days
+1967,Historical Emissions,265.979,226.898,250.516,Lewistown,dry-days
+1968,Historical Emissions,261.861,222.419,240.918,Lewistown,dry-days
+1969,Historical Emissions,264.368,231.015,251.095,Lewistown,dry-days
+1970,Historical Emissions,255.561,237.216,239.663,Lewistown,dry-days
+1971,Historical Emissions,281.03,229.074,252.441,Lewistown,dry-days
+1972,Historical Emissions,265.767,239.323,250.767,Lewistown,dry-days
+1973,Historical Emissions,267.926,225.859,240.611,Lewistown,dry-days
+1974,Historical Emissions,267.091,219.597,258.517,Lewistown,dry-days
+1975,Historical Emissions,265.026,232.768,247.263,Lewistown,dry-days
+1976,Historical Emissions,256.432,236.694,250.589,Lewistown,dry-days
+1977,Historical Emissions,258.62,220.667,246.495,Lewistown,dry-days
+1978,Historical Emissions,253.466,232.474,242.464,Lewistown,dry-days
+1979,Historical Emissions,258.896,229.861,251.631,Lewistown,dry-days
+1980,Historical Emissions,279.11,225.09,248.159,Lewistown,dry-days
+1981,Historical Emissions,263.742,227.36,252.748,Lewistown,dry-days
+1982,Historical Emissions,259.735,229.646,240.663,Lewistown,dry-days
+1983,Historical Emissions,267.247,239.809,248.515,Lewistown,dry-days
+1984,Historical Emissions,265.649,229.06,243.811,Lewistown,dry-days
+1985,Historical Emissions,261.42,228.079,253.874,Lewistown,dry-days
+1986,Historical Emissions,248,222.771,236.315,Lewistown,dry-days
+1987,Historical Emissions,249.7,227.936,240.664,Lewistown,dry-days
+1988,Historical Emissions,258.562,223.918,247.474,Lewistown,dry-days
+1989,Historical Emissions,265.914,236.328,248.452,Lewistown,dry-days
+1990,Historical Emissions,269.331,227.966,246.432,Lewistown,dry-days
+1991,Historical Emissions,278.036,208.513,258.486,Lewistown,dry-days
+1992,Historical Emissions,276.371,242.558,247.579,Lewistown,dry-days
+1993,Historical Emissions,255.708,235.32,249.696,Lewistown,dry-days
+1994,Historical Emissions,267.812,235.705,255.569,Lewistown,dry-days
+1995,Historical Emissions,277.053,235.997,246.178,Lewistown,dry-days
+1996,Historical Emissions,287.753,232.972,248.316,Lewistown,dry-days
+1997,Historical Emissions,264.157,238.139,255.199,Lewistown,dry-days
+1998,Historical Emissions,262.017,229.992,241.294,Lewistown,dry-days
+1999,Historical Emissions,261.859,229.665,244.569,Lewistown,dry-days
+2000,Historical Emissions,266.705,233.946,249.336,Lewistown,dry-days
+2001,Historical Emissions,255.758,229.024,244.137,Lewistown,dry-days
+2002,Historical Emissions,262.224,231.017,250.054,Lewistown,dry-days
+2003,Historical Emissions,271.641,232.271,243.685,Lewistown,dry-days
+2004,Historical Emissions,273.885,227.775,250.504,Lewistown,dry-days
+2005,Historical Emissions,271.637,227.246,257.233,Lewistown,dry-days
+2006,Historical Emissions,266.884,223.175,235.516,Lewistown,dry-days
+2007,Historical Emissions,264.27,237.87,250.39,Lewistown,dry-days
+2008,Historical Emissions,262.153,230.557,254.515,Lewistown,dry-days
+2009,Historical Emissions,250.627,226.212,240.717,Lewistown,dry-days
+2010,Historical Emissions,264.865,233.595,248.525,Lewistown,dry-days
+2011,Historical Emissions,255.572,237.285,243.621,Lewistown,dry-days
+2012,Historical Emissions,264.153,242.736,258.587,Lewistown,dry-days
+2013,Historical Emissions,263.767,239.788,248.264,Lewistown,dry-days
+2014,Historical Emissions,267.062,233.17,248.747,Lewistown,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",269.476,231.64,251.264,Lewistown,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",268.861,236.551,252,Lewistown,dry-days
+2015,"High Emissions
+(SSP3-7.0)",266.217,224.328,248.905,Lewistown,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",269.25,226.558,248.135,Lewistown,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",264.487,230.727,253.95,Lewistown,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",259.332,223.635,241.989,Lewistown,dry-days
+2016,"High Emissions
+(SSP3-7.0)",274.649,228.285,244.536,Lewistown,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",254.162,236.687,251.8,Lewistown,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",253.838,230.987,242.843,Lewistown,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",269.858,221.036,243.757,Lewistown,dry-days
+2017,"High Emissions
+(SSP3-7.0)",258.872,231.721,242.367,Lewistown,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",255.864,235.439,246.2,Lewistown,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",259.19,218.45,250.041,Lewistown,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",265.314,235.504,246.896,Lewistown,dry-days
+2018,"High Emissions
+(SSP3-7.0)",257.921,223.824,232.6,Lewistown,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",259.458,232.187,239.6,Lewistown,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",272.713,242.326,251.368,Lewistown,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",257.715,225.716,249.147,Lewistown,dry-days
+2019,"High Emissions
+(SSP3-7.0)",269.798,225.957,247.242,Lewistown,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",268.852,226.341,253.749,Lewistown,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",261.613,226.611,246.473,Lewistown,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",264.232,219.347,245.706,Lewistown,dry-days
+2020,"High Emissions
+(SSP3-7.0)",251.844,228.442,244.044,Lewistown,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",264.437,222.504,254.937,Lewistown,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",270.207,231.356,252.904,Lewistown,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",279.411,233.797,251.662,Lewistown,dry-days
+2021,"High Emissions
+(SSP3-7.0)",270.422,220.277,253.494,Lewistown,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",265.148,232.141,245.432,Lewistown,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",257.068,226.069,242.01,Lewistown,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",260.053,220.987,241.4,Lewistown,dry-days
+2022,"High Emissions
+(SSP3-7.0)",254.656,228.729,247.685,Lewistown,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",265.354,232.824,242.546,Lewistown,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",255.721,226.062,245.189,Lewistown,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",272.078,223.427,248.337,Lewistown,dry-days
+2023,"High Emissions
+(SSP3-7.0)",275.486,224.256,249.979,Lewistown,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",242.949,220.311,234.674,Lewistown,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",265.032,222.672,244.463,Lewistown,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",265.546,230.657,248.62,Lewistown,dry-days
+2024,"High Emissions
+(SSP3-7.0)",268.281,232.642,258.864,Lewistown,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",256.719,227.29,245.769,Lewistown,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",266.619,237.657,255.715,Lewistown,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",259.486,216.318,232.714,Lewistown,dry-days
+2025,"High Emissions
+(SSP3-7.0)",276.608,235.385,260.358,Lewistown,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",260.682,226.452,242.104,Lewistown,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",257.988,219.989,253.368,Lewistown,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",266.48,223.743,245.273,Lewistown,dry-days
+2026,"High Emissions
+(SSP3-7.0)",249.52,214.92,239.79,Lewistown,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",260.562,215.968,246.685,Lewistown,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",259.844,209.706,246.686,Lewistown,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",265.108,232.433,244.632,Lewistown,dry-days
+2027,"High Emissions
+(SSP3-7.0)",255.284,231.834,251.053,Lewistown,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",265.774,231.165,258.601,Lewistown,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",259.013,235.052,253.064,Lewistown,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",246.093,223.025,237.357,Lewistown,dry-days
+2028,"High Emissions
+(SSP3-7.0)",268.439,227.441,250.05,Lewistown,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",264.55,231.506,247.949,Lewistown,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",261.996,236.532,250.264,Lewistown,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",258.168,227.582,238.389,Lewistown,dry-days
+2029,"High Emissions
+(SSP3-7.0)",261.884,223.631,241.147,Lewistown,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",263.576,231.427,245.967,Lewistown,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",263.173,227.166,241.63,Lewistown,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",269.134,241.674,250.916,Lewistown,dry-days
+2030,"High Emissions
+(SSP3-7.0)",266.203,214.048,248.926,Lewistown,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",270.179,216.412,248.188,Lewistown,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",275.062,224.914,248.516,Lewistown,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",263.856,228.218,246.084,Lewistown,dry-days
+2031,"High Emissions
+(SSP3-7.0)",277.819,227.318,255.021,Lewistown,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",268.221,228.342,253.589,Lewistown,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",268.362,227.155,246.821,Lewistown,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",254.521,228.052,250.757,Lewistown,dry-days
+2032,"High Emissions
+(SSP3-7.0)",268.932,236.245,254.927,Lewistown,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",274.272,223.5,242.557,Lewistown,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",266.209,226.107,248.653,Lewistown,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",269.774,216.619,240.148,Lewistown,dry-days
+2033,"High Emissions
+(SSP3-7.0)",264.507,211.532,250.347,Lewistown,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",264.216,236.292,246.683,Lewistown,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",259.208,226.98,249.042,Lewistown,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",262.76,236.475,243.189,Lewistown,dry-days
+2034,"High Emissions
+(SSP3-7.0)",270.534,231.537,256.536,Lewistown,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",263.834,197.606,254.18,Lewistown,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",279.308,227.554,254.096,Lewistown,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",261.092,232.834,247.873,Lewistown,dry-days
+2035,"High Emissions
+(SSP3-7.0)",258.015,229.073,238.894,Lewistown,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",255.595,231.451,240.735,Lewistown,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",267.67,230.536,239.148,Lewistown,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",263.75,226.419,247.819,Lewistown,dry-days
+2036,"High Emissions
+(SSP3-7.0)",270.493,225.976,249.674,Lewistown,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",263.15,215.17,240.485,Lewistown,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",271.137,225.818,238.115,Lewistown,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",253.366,229.824,244.412,Lewistown,dry-days
+2037,"High Emissions
+(SSP3-7.0)",251.4,221.334,240.777,Lewistown,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",264.286,208.401,247.653,Lewistown,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",261.934,227.371,238.475,Lewistown,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",260.309,236.395,250.937,Lewistown,dry-days
+2038,"High Emissions
+(SSP3-7.0)",267.697,232.363,249.527,Lewistown,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",267.361,229.039,245.338,Lewistown,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",259.557,227.345,254.641,Lewistown,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",263.054,226.481,242.737,Lewistown,dry-days
+2039,"High Emissions
+(SSP3-7.0)",264.969,217.07,255.516,Lewistown,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",269.808,230.535,235.914,Lewistown,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",269.035,222.962,248.031,Lewistown,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",264.177,238.425,249.454,Lewistown,dry-days
+2040,"High Emissions
+(SSP3-7.0)",263.814,225.914,249.874,Lewistown,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",276.79,215.183,253.45,Lewistown,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",258.304,226.949,247.263,Lewistown,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",260.983,232.82,248.62,Lewistown,dry-days
+2041,"High Emissions
+(SSP3-7.0)",261.469,228.42,250.357,Lewistown,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",255.471,225.374,231.126,Lewistown,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",259.12,220.648,245.601,Lewistown,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",262.444,228.444,237,Lewistown,dry-days
+2042,"High Emissions
+(SSP3-7.0)",258.86,225.127,237.864,Lewistown,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",263.155,221.817,243.115,Lewistown,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",269.525,232.733,243.251,Lewistown,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",277.703,226.784,245.568,Lewistown,dry-days
+2043,"High Emissions
+(SSP3-7.0)",259.168,230.503,238.642,Lewistown,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",263.795,224.175,239.631,Lewistown,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",257.673,230.051,241.526,Lewistown,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",265.307,236.138,245.78,Lewistown,dry-days
+2044,"High Emissions
+(SSP3-7.0)",264.828,225.815,241.348,Lewistown,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",273.128,220.987,249.578,Lewistown,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",263.446,230.188,243.947,Lewistown,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",262.207,235.652,243.463,Lewistown,dry-days
+2045,"High Emissions
+(SSP3-7.0)",263.523,230.742,245.096,Lewistown,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",264.842,226.013,253.716,Lewistown,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",266.919,238.213,249.621,Lewistown,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",252.432,226.555,239.494,Lewistown,dry-days
+2046,"High Emissions
+(SSP3-7.0)",256.772,229.834,247.105,Lewistown,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",265.968,226.683,246.96,Lewistown,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",259.078,234.723,247.653,Lewistown,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",256.463,227.307,245.97,Lewistown,dry-days
+2047,"High Emissions
+(SSP3-7.0)",263.161,224.794,246.17,Lewistown,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",270.238,236.638,243.959,Lewistown,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",258.798,225.066,242.4,Lewistown,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",270.741,236.175,252.19,Lewistown,dry-days
+2048,"High Emissions
+(SSP3-7.0)",256.669,232.256,242.379,Lewistown,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",273.857,234.203,248.064,Lewistown,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",261.72,233.862,243.894,Lewistown,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",259.294,232.992,245.958,Lewistown,dry-days
+2049,"High Emissions
+(SSP3-7.0)",263.209,229.964,249.242,Lewistown,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",274.328,226.541,248.6,Lewistown,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",265.014,205.72,244.105,Lewistown,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",259.638,230.437,248.305,Lewistown,dry-days
+2050,"High Emissions
+(SSP3-7.0)",257.107,233.362,239.663,Lewistown,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",258.44,229.599,247.579,Lewistown,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",273.6,225.724,244.664,Lewistown,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",257.482,228.532,241.453,Lewistown,dry-days
+2051,"High Emissions
+(SSP3-7.0)",265.627,230.01,253.832,Lewistown,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",257.267,234.695,247.98,Lewistown,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",263.119,232.749,249.104,Lewistown,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",255.713,238.345,250.159,Lewistown,dry-days
+2052,"High Emissions
+(SSP3-7.0)",248.905,223.162,229.356,Lewistown,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",265.196,231.207,256.559,Lewistown,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",260.337,230.35,246.715,Lewistown,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",262.323,230.078,244.832,Lewistown,dry-days
+2053,"High Emissions
+(SSP3-7.0)",281.077,242.571,249.082,Lewistown,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",264.659,227.644,245.389,Lewistown,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",265.157,219.212,249.241,Lewistown,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",262.385,227.344,243.829,Lewistown,dry-days
+2054,"High Emissions
+(SSP3-7.0)",253.318,235.512,244.254,Lewistown,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",268.813,236.156,257.033,Lewistown,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",273.22,231.166,252.22,Lewistown,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",265.532,238.436,249.221,Lewistown,dry-days
+2055,"High Emissions
+(SSP3-7.0)",266.375,229.193,251.495,Lewistown,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",272.43,229.6,250.768,Lewistown,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",264.947,237.716,244.22,Lewistown,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",266.103,235.269,247.938,Lewistown,dry-days
+2056,"High Emissions
+(SSP3-7.0)",274.604,229.94,240.337,Lewistown,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",264.363,234.049,243.894,Lewistown,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",256.019,214.644,245.486,Lewistown,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",261.33,239.079,257.937,Lewistown,dry-days
+2057,"High Emissions
+(SSP3-7.0)",264.931,224.97,241.39,Lewistown,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",251.984,223.065,235.621,Lewistown,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",263.476,228.808,237.138,Lewistown,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",266.041,238.566,256.789,Lewistown,dry-days
+2058,"High Emissions
+(SSP3-7.0)",252.975,229.196,239.484,Lewistown,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",258.891,223.162,238.748,Lewistown,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",261.94,233.169,255.221,Lewistown,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",260.164,224.394,245.316,Lewistown,dry-days
+2059,"High Emissions
+(SSP3-7.0)",282.277,226.532,246.124,Lewistown,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",260.927,229.981,250.012,Lewistown,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",256.386,231.002,247.726,Lewistown,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",256.012,231.672,240.095,Lewistown,dry-days
+2060,"High Emissions
+(SSP3-7.0)",259.605,223.297,235.683,Lewistown,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",249.331,223.626,236.421,Lewistown,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",263.652,232.257,251.895,Lewistown,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",257.905,225.494,248.842,Lewistown,dry-days
+2061,"High Emissions
+(SSP3-7.0)",267.891,227.442,247.558,Lewistown,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",270.753,228.879,259.252,Lewistown,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",262.844,225.228,246.895,Lewistown,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",276.512,228.909,245.23,Lewistown,dry-days
+2062,"High Emissions
+(SSP3-7.0)",264.06,238.485,246,Lewistown,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",259.434,227.786,248.212,Lewistown,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",266.575,236.558,252.358,Lewistown,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",254.999,223.175,243.747,Lewistown,dry-days
+2063,"High Emissions
+(SSP3-7.0)",270.559,224.548,260.789,Lewistown,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",257.307,238.924,253.409,Lewistown,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",249.868,231.844,240.085,Lewistown,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",263.021,223.002,243.455,Lewistown,dry-days
+2064,"High Emissions
+(SSP3-7.0)",264.667,214.267,246.768,Lewistown,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",269.229,239.151,251.546,Lewistown,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",254.678,228.52,242.03,Lewistown,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",269.334,232.868,242.105,Lewistown,dry-days
+2065,"High Emissions
+(SSP3-7.0)",265.854,226.38,245.526,Lewistown,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",267.767,229.05,249.527,Lewistown,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",259.483,229.537,250.768,Lewistown,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",258.783,221.276,248.178,Lewistown,dry-days
+2066,"High Emissions
+(SSP3-7.0)",258.425,221.468,251.989,Lewistown,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",264.358,215.222,247.822,Lewistown,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",264.325,235.357,254.305,Lewistown,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",258.422,227.199,239.821,Lewistown,dry-days
+2067,"High Emissions
+(SSP3-7.0)",281.801,226.832,245.513,Lewistown,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",267.107,234.882,248.516,Lewistown,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",261.813,230.447,247.8,Lewistown,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",263.344,225.99,231.874,Lewistown,dry-days
+2068,"High Emissions
+(SSP3-7.0)",265.985,230.057,244.915,Lewistown,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",264.969,235.127,253.104,Lewistown,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",273.715,221.2,242.579,Lewistown,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",261.018,226.176,237.284,Lewistown,dry-days
+2069,"High Emissions
+(SSP3-7.0)",271.401,245.129,262.138,Lewistown,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",277.03,234.661,246.066,Lewistown,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",263.337,229.809,241.915,Lewistown,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",251.739,233.508,240.949,Lewistown,dry-days
+2070,"High Emissions
+(SSP3-7.0)",257.507,224.06,244.527,Lewistown,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",252.582,236.03,250.022,Lewistown,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",278.477,225.345,252.768,Lewistown,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",262.993,233.36,241.642,Lewistown,dry-days
+2071,"High Emissions
+(SSP3-7.0)",260.864,229.132,247.137,Lewistown,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",270.606,238.238,252.715,Lewistown,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",265.895,239.909,250.463,Lewistown,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",273.443,221.683,251.716,Lewistown,dry-days
+2072,"High Emissions
+(SSP3-7.0)",256.52,244.352,246.663,Lewistown,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",266.497,230.603,248.262,Lewistown,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",256.57,232.741,250.601,Lewistown,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",249.153,229.88,241.21,Lewistown,dry-days
+2073,"High Emissions
+(SSP3-7.0)",264.714,227.484,251.462,Lewistown,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",262.057,227.365,246.947,Lewistown,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",258.566,222.902,238.579,Lewistown,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",254.398,233.717,243.368,Lewistown,dry-days
+2074,"High Emissions
+(SSP3-7.0)",257.73,231.216,246.138,Lewistown,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",262.97,230.27,244.622,Lewistown,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",271.176,224.813,248.486,Lewistown,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",259.476,233.557,245.652,Lewistown,dry-days
+2075,"High Emissions
+(SSP3-7.0)",262.306,220.056,248.398,Lewistown,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",266.027,233.085,257.977,Lewistown,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",252.233,229.233,244.852,Lewistown,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",254.204,229.481,246.053,Lewistown,dry-days
+2076,"High Emissions
+(SSP3-7.0)",253.996,227.116,245.399,Lewistown,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",276.717,234.188,245.505,Lewistown,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",264.745,225.358,254.052,Lewistown,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",259.009,223.22,246.326,Lewistown,dry-days
+2077,"High Emissions
+(SSP3-7.0)",259.036,216.246,245.74,Lewistown,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",274.747,232.628,242.157,Lewistown,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",258.073,236.345,248.43,Lewistown,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",257.603,218.955,245.274,Lewistown,dry-days
+2078,"High Emissions
+(SSP3-7.0)",263.613,230.187,246.831,Lewistown,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",264.325,227.665,234.074,Lewistown,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",271.964,216.148,252.917,Lewistown,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",264.493,226.9,240.894,Lewistown,dry-days
+2079,"High Emissions
+(SSP3-7.0)",251.592,232.836,243.787,Lewistown,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",266.981,229.093,256.137,Lewistown,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",262.122,224.461,244.242,Lewistown,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",261.32,216.079,239.327,Lewistown,dry-days
+2080,"High Emissions
+(SSP3-7.0)",258.478,229.929,250.275,Lewistown,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",269.58,228.627,253.074,Lewistown,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",265.25,237.293,244.58,Lewistown,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",261.018,223.086,248.915,Lewistown,dry-days
+2081,"High Emissions
+(SSP3-7.0)",273.072,222.044,249.978,Lewistown,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",272.759,237.306,258.885,Lewistown,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",261.261,230.317,248.948,Lewistown,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",261.273,231.022,242.612,Lewistown,dry-days
+2082,"High Emissions
+(SSP3-7.0)",261.463,229.352,237.264,Lewistown,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",265.693,242.018,255.023,Lewistown,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",279.55,235.23,251.074,Lewistown,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",276.163,233.274,255.105,Lewistown,dry-days
+2083,"High Emissions
+(SSP3-7.0)",262.689,231.754,246.495,Lewistown,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",270.291,230.486,250.948,Lewistown,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",261.947,225.189,238.853,Lewistown,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",274.619,224.41,257.599,Lewistown,dry-days
+2084,"High Emissions
+(SSP3-7.0)",267.092,243.94,262.41,Lewistown,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",265.464,223.671,251.883,Lewistown,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",256.419,231.329,253.589,Lewistown,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",253.096,225.885,243.715,Lewistown,dry-days
+2085,"High Emissions
+(SSP3-7.0)",257.901,226.593,244.61,Lewistown,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",268.952,230.992,238.116,Lewistown,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",256.609,221.246,247.559,Lewistown,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",267.711,214.718,238.399,Lewistown,dry-days
+2086,"High Emissions
+(SSP3-7.0)",258.246,228.884,250.422,Lewistown,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",271.8,225.084,243.59,Lewistown,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",256.3,232.655,241.851,Lewistown,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",254.225,229.86,246.275,Lewistown,dry-days
+2087,"High Emissions
+(SSP3-7.0)",267.781,232.561,246.347,Lewistown,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",264.026,222.597,235.727,Lewistown,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",262.931,215.111,241.063,Lewistown,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",271.765,222.795,246.883,Lewistown,dry-days
+2088,"High Emissions
+(SSP3-7.0)",248.804,229.957,236.022,Lewistown,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",277.128,224.733,256.201,Lewistown,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",252.733,218.109,232.97,Lewistown,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",258.095,227.956,241.693,Lewistown,dry-days
+2089,"High Emissions
+(SSP3-7.0)",271.087,233.609,254.947,Lewistown,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",275.359,228.815,242.841,Lewistown,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",257.388,219.508,242.6,Lewistown,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",255.548,230.811,242.231,Lewistown,dry-days
+2090,"High Emissions
+(SSP3-7.0)",283.203,239.308,249.632,Lewistown,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",265.683,229.227,247.99,Lewistown,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",255.393,237.504,245.274,Lewistown,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",261.809,234.778,243.126,Lewistown,dry-days
+2091,"High Emissions
+(SSP3-7.0)",270.69,233.13,260.778,Lewistown,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",262.535,214.713,245.159,Lewistown,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",269.343,233.23,244.412,Lewistown,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",270.855,229.353,240.221,Lewistown,dry-days
+2092,"High Emissions
+(SSP3-7.0)",260.765,217.862,235.632,Lewistown,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",265.737,235.356,247.42,Lewistown,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",266.31,214.489,244.01,Lewistown,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",257.141,234.523,240.778,Lewistown,dry-days
+2093,"High Emissions
+(SSP3-7.0)",252.607,225.009,242.106,Lewistown,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",273.89,217.269,260.296,Lewistown,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",258.476,233.538,249.254,Lewistown,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",257.715,231.026,251.883,Lewistown,dry-days
+2094,"High Emissions
+(SSP3-7.0)",272.537,225.353,250.99,Lewistown,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",262.951,233.378,250.674,Lewistown,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",268.002,223.618,254.086,Lewistown,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",262.505,234.866,249.779,Lewistown,dry-days
+2095,"High Emissions
+(SSP3-7.0)",271.207,227.493,253.053,Lewistown,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",273.396,235.406,249.095,Lewistown,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",265.611,228.818,247.832,Lewistown,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",263.672,234.287,246.117,Lewistown,dry-days
+2096,"High Emissions
+(SSP3-7.0)",258.301,232.948,246.757,Lewistown,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",265.552,238.48,251.915,Lewistown,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",272.88,238.269,257.126,Lewistown,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",274.063,228.842,239.464,Lewistown,dry-days
+2097,"High Emissions
+(SSP3-7.0)",269.514,231.57,251.368,Lewistown,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",261.668,229.484,242.506,Lewistown,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",258.401,225.072,239.664,Lewistown,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",266.23,230.664,254.885,Lewistown,dry-days
+2098,"High Emissions
+(SSP3-7.0)",259.04,220.826,240.02,Lewistown,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",277.209,229.339,251.263,Lewistown,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",261.397,235.319,243.843,Lewistown,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",260.666,229.548,244.37,Lewistown,dry-days
+2099,"High Emissions
+(SSP3-7.0)",266.555,230.367,254.043,Lewistown,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",275.386,222.361,255.654,Lewistown,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",251.371,217.769,235.842,Lewistown,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",260.536,213.718,247.442,Lewistown,dry-days
+2100,"High Emissions
+(SSP3-7.0)",255.693,227.049,245.749,Lewistown,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",265.09,232.805,250.947,Lewistown,dry-days

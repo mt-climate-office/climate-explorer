@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,191.36,167.76,175.4,Little Bighorn,freeze-free
+1951,Historical Emissions,190.68,173.28,183.6,Little Bighorn,freeze-free
+1952,Historical Emissions,184.28,172.2,178.2,Little Bighorn,freeze-free
+1953,Historical Emissions,184.36,173.36,178.8,Little Bighorn,freeze-free
+1954,Historical Emissions,191,168.76,176.8,Little Bighorn,freeze-free
+1955,Historical Emissions,192.48,174.28,182,Little Bighorn,freeze-free
+1956,Historical Emissions,196.36,175.6,185,Little Bighorn,freeze-free
+1957,Historical Emissions,194.84,164.4,183.2,Little Bighorn,freeze-free
+1958,Historical Emissions,190.36,177.04,183.8,Little Bighorn,freeze-free
+1959,Historical Emissions,188.32,166.64,181.8,Little Bighorn,freeze-free
+1960,Historical Emissions,201.44,165.52,182.2,Little Bighorn,freeze-free
+1961,Historical Emissions,195.88,170,184,Little Bighorn,freeze-free
+1962,Historical Emissions,191.16,166.72,178.4,Little Bighorn,freeze-free
+1963,Historical Emissions,190,173.96,175.6,Little Bighorn,freeze-free
+1964,Historical Emissions,188.76,171.08,177.4,Little Bighorn,freeze-free
+1965,Historical Emissions,188.6,167.6,181.2,Little Bighorn,freeze-free
+1966,Historical Emissions,195.4,171.16,182.8,Little Bighorn,freeze-free
+1967,Historical Emissions,193.64,167.24,181.6,Little Bighorn,freeze-free
+1968,Historical Emissions,188.52,163.12,176.4,Little Bighorn,freeze-free
+1969,Historical Emissions,187.04,161.8,176.4,Little Bighorn,freeze-free
+1970,Historical Emissions,195.28,166.6,189.4,Little Bighorn,freeze-free
+1971,Historical Emissions,196.96,174.32,184.6,Little Bighorn,freeze-free
+1972,Historical Emissions,186.12,171.72,175.6,Little Bighorn,freeze-free
+1973,Historical Emissions,188.84,172.04,180,Little Bighorn,freeze-free
+1974,Historical Emissions,190.84,164.56,177.4,Little Bighorn,freeze-free
+1975,Historical Emissions,196.52,166.16,182.4,Little Bighorn,freeze-free
+1976,Historical Emissions,184.92,171.04,178.2,Little Bighorn,freeze-free
+1977,Historical Emissions,199.16,175.72,186.8,Little Bighorn,freeze-free
+1978,Historical Emissions,198.4,178.52,182.4,Little Bighorn,freeze-free
+1979,Historical Emissions,197.24,174.84,185.8,Little Bighorn,freeze-free
+1980,Historical Emissions,197.28,176.44,185.8,Little Bighorn,freeze-free
+1981,Historical Emissions,201.52,176.48,186.2,Little Bighorn,freeze-free
+1982,Historical Emissions,193.96,177.16,186.6,Little Bighorn,freeze-free
+1983,Historical Emissions,191.6,164.4,180.6,Little Bighorn,freeze-free
+1984,Historical Emissions,194.44,170.56,182,Little Bighorn,freeze-free
+1985,Historical Emissions,198,178.84,192,Little Bighorn,freeze-free
+1986,Historical Emissions,189.72,164.56,177.6,Little Bighorn,freeze-free
+1987,Historical Emissions,196.44,168.44,175.8,Little Bighorn,freeze-free
+1988,Historical Emissions,196.92,176.32,181.2,Little Bighorn,freeze-free
+1989,Historical Emissions,190.08,175.28,182.8,Little Bighorn,freeze-free
+1990,Historical Emissions,199.8,166.6,188.2,Little Bighorn,freeze-free
+1991,Historical Emissions,193.96,174.4,186.8,Little Bighorn,freeze-free
+1992,Historical Emissions,185.84,167.48,176.2,Little Bighorn,freeze-free
+1993,Historical Emissions,201.28,165.72,181.2,Little Bighorn,freeze-free
+1994,Historical Emissions,195.4,177.64,187.2,Little Bighorn,freeze-free
+1995,Historical Emissions,201.8,172,184.4,Little Bighorn,freeze-free
+1996,Historical Emissions,196.24,183.28,190.4,Little Bighorn,freeze-free
+1997,Historical Emissions,206.92,179.4,182.4,Little Bighorn,freeze-free
+1998,Historical Emissions,201.4,180.4,190.8,Little Bighorn,freeze-free
+1999,Historical Emissions,192,183.2,188.6,Little Bighorn,freeze-free
+2000,Historical Emissions,193.72,173.52,183,Little Bighorn,freeze-free
+2001,Historical Emissions,195.64,171.12,185.6,Little Bighorn,freeze-free
+2002,Historical Emissions,205.28,181.44,193.6,Little Bighorn,freeze-free
+2003,Historical Emissions,203.92,181.28,188.8,Little Bighorn,freeze-free
+2004,Historical Emissions,198.76,187.04,191.6,Little Bighorn,freeze-free
+2005,Historical Emissions,209.92,183.92,195.6,Little Bighorn,freeze-free
+2006,Historical Emissions,200,184.88,188,Little Bighorn,freeze-free
+2007,Historical Emissions,205.88,178.32,183.8,Little Bighorn,freeze-free
+2008,Historical Emissions,196.04,179.32,188.6,Little Bighorn,freeze-free
+2009,Historical Emissions,204.12,183.2,186.6,Little Bighorn,freeze-free
+2010,Historical Emissions,195.56,183.44,188,Little Bighorn,freeze-free
+2011,Historical Emissions,212.72,187.24,196.2,Little Bighorn,freeze-free
+2012,Historical Emissions,200.2,184.12,192.8,Little Bighorn,freeze-free
+2013,Historical Emissions,205.76,178.48,184.8,Little Bighorn,freeze-free
+2014,Historical Emissions,205.44,187.76,191.6,Little Bighorn,freeze-free
+2015,"Moderating Emissions
+(SSP1-2.6)",210.8,185.68,189.8,Little Bighorn,freeze-free
+2015,"Middle of the Road
+(SSP2-4.5)",193.4,182.56,185.2,Little Bighorn,freeze-free
+2015,"High Emissions
+(SSP3-7.0)",206.24,177.76,196,Little Bighorn,freeze-free
+2015,"Accelerating Emissions
+(SSP5-8.5)",200.68,183.2,187,Little Bighorn,freeze-free
+2016,"Moderating Emissions
+(SSP1-2.6)",212.08,186.88,205.8,Little Bighorn,freeze-free
+2016,"Middle of the Road
+(SSP2-4.5)",212.88,186.88,191,Little Bighorn,freeze-free
+2016,"High Emissions
+(SSP3-7.0)",209.36,182.56,193.2,Little Bighorn,freeze-free
+2016,"Accelerating Emissions
+(SSP5-8.5)",213.88,182.8,190,Little Bighorn,freeze-free
+2017,"Moderating Emissions
+(SSP1-2.6)",203.6,180.2,189.4,Little Bighorn,freeze-free
+2017,"Middle of the Road
+(SSP2-4.5)",216.24,189.84,193.4,Little Bighorn,freeze-free
+2017,"High Emissions
+(SSP3-7.0)",206.08,188.44,197.2,Little Bighorn,freeze-free
+2017,"Accelerating Emissions
+(SSP5-8.5)",207.08,183.92,196.8,Little Bighorn,freeze-free
+2018,"Moderating Emissions
+(SSP1-2.6)",203,188.52,193.8,Little Bighorn,freeze-free
+2018,"Middle of the Road
+(SSP2-4.5)",210.28,188.68,193.4,Little Bighorn,freeze-free
+2018,"High Emissions
+(SSP3-7.0)",208.4,176.2,196,Little Bighorn,freeze-free
+2018,"Accelerating Emissions
+(SSP5-8.5)",208.12,187.24,194,Little Bighorn,freeze-free
+2019,"Moderating Emissions
+(SSP1-2.6)",214.92,187.68,198.2,Little Bighorn,freeze-free
+2019,"Middle of the Road
+(SSP2-4.5)",204.16,182.72,192.8,Little Bighorn,freeze-free
+2019,"High Emissions
+(SSP3-7.0)",201.08,188.32,194.4,Little Bighorn,freeze-free
+2019,"Accelerating Emissions
+(SSP5-8.5)",204.8,190.12,198.2,Little Bighorn,freeze-free
+2020,"Moderating Emissions
+(SSP1-2.6)",204.52,185.96,194.8,Little Bighorn,freeze-free
+2020,"Middle of the Road
+(SSP2-4.5)",204.72,181.48,192,Little Bighorn,freeze-free
+2020,"High Emissions
+(SSP3-7.0)",208.6,188.12,193.4,Little Bighorn,freeze-free
+2020,"Accelerating Emissions
+(SSP5-8.5)",208.36,182.88,187.8,Little Bighorn,freeze-free
+2021,"Moderating Emissions
+(SSP1-2.6)",208.88,187.76,192.8,Little Bighorn,freeze-free
+2021,"Middle of the Road
+(SSP2-4.5)",204.48,182.2,189.8,Little Bighorn,freeze-free
+2021,"High Emissions
+(SSP3-7.0)",201.88,188.4,196.8,Little Bighorn,freeze-free
+2021,"Accelerating Emissions
+(SSP5-8.5)",213.48,185.12,199.8,Little Bighorn,freeze-free
+2022,"Moderating Emissions
+(SSP1-2.6)",216.96,184.12,199,Little Bighorn,freeze-free
+2022,"Middle of the Road
+(SSP2-4.5)",210.92,187.24,196.8,Little Bighorn,freeze-free
+2022,"High Emissions
+(SSP3-7.0)",209.48,185.36,197.8,Little Bighorn,freeze-free
+2022,"Accelerating Emissions
+(SSP5-8.5)",213.88,185.76,192.6,Little Bighorn,freeze-free
+2023,"Moderating Emissions
+(SSP1-2.6)",206.04,184.04,200.2,Little Bighorn,freeze-free
+2023,"Middle of the Road
+(SSP2-4.5)",211.24,188,192.4,Little Bighorn,freeze-free
+2023,"High Emissions
+(SSP3-7.0)",208.36,190.24,192.8,Little Bighorn,freeze-free
+2023,"Accelerating Emissions
+(SSP5-8.5)",203.84,182.48,195,Little Bighorn,freeze-free
+2024,"Moderating Emissions
+(SSP1-2.6)",213.68,186.72,195.2,Little Bighorn,freeze-free
+2024,"Middle of the Road
+(SSP2-4.5)",206.8,188.76,192.8,Little Bighorn,freeze-free
+2024,"High Emissions
+(SSP3-7.0)",215.8,189.92,194,Little Bighorn,freeze-free
+2024,"Accelerating Emissions
+(SSP5-8.5)",213.6,191.68,200.6,Little Bighorn,freeze-free
+2025,"Moderating Emissions
+(SSP1-2.6)",210.96,186.44,201.2,Little Bighorn,freeze-free
+2025,"Middle of the Road
+(SSP2-4.5)",215.28,188.16,193.8,Little Bighorn,freeze-free
+2025,"High Emissions
+(SSP3-7.0)",209.56,186.72,203.6,Little Bighorn,freeze-free
+2025,"Accelerating Emissions
+(SSP5-8.5)",220.4,193.4,198.2,Little Bighorn,freeze-free
+2026,"Moderating Emissions
+(SSP1-2.6)",214.36,192.04,200.4,Little Bighorn,freeze-free
+2026,"Middle of the Road
+(SSP2-4.5)",214.04,193.96,196.6,Little Bighorn,freeze-free
+2026,"High Emissions
+(SSP3-7.0)",212.08,188,193.8,Little Bighorn,freeze-free
+2026,"Accelerating Emissions
+(SSP5-8.5)",209.4,194.24,197.4,Little Bighorn,freeze-free
+2027,"Moderating Emissions
+(SSP1-2.6)",213.28,179.6,199,Little Bighorn,freeze-free
+2027,"Middle of the Road
+(SSP2-4.5)",214.56,187.04,198.6,Little Bighorn,freeze-free
+2027,"High Emissions
+(SSP3-7.0)",211.88,187.08,197.6,Little Bighorn,freeze-free
+2027,"Accelerating Emissions
+(SSP5-8.5)",204.84,188.44,197,Little Bighorn,freeze-free
+2028,"Moderating Emissions
+(SSP1-2.6)",215.2,184.76,198.2,Little Bighorn,freeze-free
+2028,"Middle of the Road
+(SSP2-4.5)",214.6,182.56,190,Little Bighorn,freeze-free
+2028,"High Emissions
+(SSP3-7.0)",206.8,194.12,203.8,Little Bighorn,freeze-free
+2028,"Accelerating Emissions
+(SSP5-8.5)",213.12,191.4,199.2,Little Bighorn,freeze-free
+2029,"Moderating Emissions
+(SSP1-2.6)",220,197.48,207.6,Little Bighorn,freeze-free
+2029,"Middle of the Road
+(SSP2-4.5)",217.2,193.24,202.8,Little Bighorn,freeze-free
+2029,"High Emissions
+(SSP3-7.0)",207.08,186.8,202,Little Bighorn,freeze-free
+2029,"Accelerating Emissions
+(SSP5-8.5)",217,193.8,199.8,Little Bighorn,freeze-free
+2030,"Moderating Emissions
+(SSP1-2.6)",220.28,190.8,201.8,Little Bighorn,freeze-free
+2030,"Middle of the Road
+(SSP2-4.5)",209,192.28,197.8,Little Bighorn,freeze-free
+2030,"High Emissions
+(SSP3-7.0)",214.24,190.84,201.8,Little Bighorn,freeze-free
+2030,"Accelerating Emissions
+(SSP5-8.5)",227.12,189.52,196.2,Little Bighorn,freeze-free
+2031,"Moderating Emissions
+(SSP1-2.6)",203.52,189.28,194.4,Little Bighorn,freeze-free
+2031,"Middle of the Road
+(SSP2-4.5)",225.28,195.12,205.6,Little Bighorn,freeze-free
+2031,"High Emissions
+(SSP3-7.0)",209.28,182.28,199,Little Bighorn,freeze-free
+2031,"Accelerating Emissions
+(SSP5-8.5)",214.08,202.28,207,Little Bighorn,freeze-free
+2032,"Moderating Emissions
+(SSP1-2.6)",207.8,192.28,199.6,Little Bighorn,freeze-free
+2032,"Middle of the Road
+(SSP2-4.5)",212.48,185.6,195,Little Bighorn,freeze-free
+2032,"High Emissions
+(SSP3-7.0)",210.96,191.56,197.8,Little Bighorn,freeze-free
+2032,"Accelerating Emissions
+(SSP5-8.5)",215.4,189.88,204.8,Little Bighorn,freeze-free
+2033,"Moderating Emissions
+(SSP1-2.6)",216.8,190.32,194.4,Little Bighorn,freeze-free
+2033,"Middle of the Road
+(SSP2-4.5)",211.04,192.68,201.8,Little Bighorn,freeze-free
+2033,"High Emissions
+(SSP3-7.0)",212.04,192.72,197,Little Bighorn,freeze-free
+2033,"Accelerating Emissions
+(SSP5-8.5)",210.04,188.64,201,Little Bighorn,freeze-free
+2034,"Moderating Emissions
+(SSP1-2.6)",207.84,188.2,193,Little Bighorn,freeze-free
+2034,"Middle of the Road
+(SSP2-4.5)",216.4,187.84,202.4,Little Bighorn,freeze-free
+2034,"High Emissions
+(SSP3-7.0)",213.52,188.2,198.4,Little Bighorn,freeze-free
+2034,"Accelerating Emissions
+(SSP5-8.5)",212.8,193.76,198.6,Little Bighorn,freeze-free
+2035,"Moderating Emissions
+(SSP1-2.6)",205.96,188.6,198.4,Little Bighorn,freeze-free
+2035,"Middle of the Road
+(SSP2-4.5)",217.48,185.48,203.2,Little Bighorn,freeze-free
+2035,"High Emissions
+(SSP3-7.0)",209.8,188.88,198.8,Little Bighorn,freeze-free
+2035,"Accelerating Emissions
+(SSP5-8.5)",224.48,191.96,206.2,Little Bighorn,freeze-free
+2036,"Moderating Emissions
+(SSP1-2.6)",220.08,196.72,203.6,Little Bighorn,freeze-free
+2036,"Middle of the Road
+(SSP2-4.5)",204.48,185.6,195.2,Little Bighorn,freeze-free
+2036,"High Emissions
+(SSP3-7.0)",224.4,193.8,205.2,Little Bighorn,freeze-free
+2036,"Accelerating Emissions
+(SSP5-8.5)",223.88,191.76,206.6,Little Bighorn,freeze-free
+2037,"Moderating Emissions
+(SSP1-2.6)",220.4,198.24,210,Little Bighorn,freeze-free
+2037,"Middle of the Road
+(SSP2-4.5)",208.12,187.12,198,Little Bighorn,freeze-free
+2037,"High Emissions
+(SSP3-7.0)",213.4,180.68,204.2,Little Bighorn,freeze-free
+2037,"Accelerating Emissions
+(SSP5-8.5)",217.44,191.08,206,Little Bighorn,freeze-free
+2038,"Moderating Emissions
+(SSP1-2.6)",220.92,188.8,211,Little Bighorn,freeze-free
+2038,"Middle of the Road
+(SSP2-4.5)",210.88,195.36,201,Little Bighorn,freeze-free
+2038,"High Emissions
+(SSP3-7.0)",221.72,195.36,202.8,Little Bighorn,freeze-free
+2038,"Accelerating Emissions
+(SSP5-8.5)",221.36,197.76,205.2,Little Bighorn,freeze-free
+2039,"Moderating Emissions
+(SSP1-2.6)",220.72,188.04,200.6,Little Bighorn,freeze-free
+2039,"Middle of the Road
+(SSP2-4.5)",217.04,189.04,205.8,Little Bighorn,freeze-free
+2039,"High Emissions
+(SSP3-7.0)",222.16,193.28,206.8,Little Bighorn,freeze-free
+2039,"Accelerating Emissions
+(SSP5-8.5)",218.12,191.84,201,Little Bighorn,freeze-free
+2040,"Moderating Emissions
+(SSP1-2.6)",213.56,193.52,200.6,Little Bighorn,freeze-free
+2040,"Middle of the Road
+(SSP2-4.5)",209.44,195.12,202.2,Little Bighorn,freeze-free
+2040,"High Emissions
+(SSP3-7.0)",219.68,192.08,201.8,Little Bighorn,freeze-free
+2040,"Accelerating Emissions
+(SSP5-8.5)",231.96,201.52,207.6,Little Bighorn,freeze-free
+2041,"Moderating Emissions
+(SSP1-2.6)",210.64,190.88,195.6,Little Bighorn,freeze-free
+2041,"Middle of the Road
+(SSP2-4.5)",209.6,192.56,201.8,Little Bighorn,freeze-free
+2041,"High Emissions
+(SSP3-7.0)",222.8,190.16,200.6,Little Bighorn,freeze-free
+2041,"Accelerating Emissions
+(SSP5-8.5)",219.8,193.52,206,Little Bighorn,freeze-free
+2042,"Moderating Emissions
+(SSP1-2.6)",217.8,196.8,209,Little Bighorn,freeze-free
+2042,"Middle of the Road
+(SSP2-4.5)",205.36,190,200.4,Little Bighorn,freeze-free
+2042,"High Emissions
+(SSP3-7.0)",212.12,193.24,201,Little Bighorn,freeze-free
+2042,"Accelerating Emissions
+(SSP5-8.5)",227.84,196,203.2,Little Bighorn,freeze-free
+2043,"Moderating Emissions
+(SSP1-2.6)",222.68,201,205.8,Little Bighorn,freeze-free
+2043,"Middle of the Road
+(SSP2-4.5)",219,196.92,201.2,Little Bighorn,freeze-free
+2043,"High Emissions
+(SSP3-7.0)",210.84,197.08,202,Little Bighorn,freeze-free
+2043,"Accelerating Emissions
+(SSP5-8.5)",215.16,198.72,209.4,Little Bighorn,freeze-free
+2044,"Moderating Emissions
+(SSP1-2.6)",226.08,198,205.4,Little Bighorn,freeze-free
+2044,"Middle of the Road
+(SSP2-4.5)",230.68,195.76,209.6,Little Bighorn,freeze-free
+2044,"High Emissions
+(SSP3-7.0)",217.68,198.44,207.6,Little Bighorn,freeze-free
+2044,"Accelerating Emissions
+(SSP5-8.5)",231.72,197,209.8,Little Bighorn,freeze-free
+2045,"Moderating Emissions
+(SSP1-2.6)",217.12,196.88,204.4,Little Bighorn,freeze-free
+2045,"Middle of the Road
+(SSP2-4.5)",217.4,195.64,201.2,Little Bighorn,freeze-free
+2045,"High Emissions
+(SSP3-7.0)",219.2,191.48,202.2,Little Bighorn,freeze-free
+2045,"Accelerating Emissions
+(SSP5-8.5)",223.8,195.92,210.4,Little Bighorn,freeze-free
+2046,"Moderating Emissions
+(SSP1-2.6)",217.88,190.84,200,Little Bighorn,freeze-free
+2046,"Middle of the Road
+(SSP2-4.5)",218.48,195.32,202.8,Little Bighorn,freeze-free
+2046,"High Emissions
+(SSP3-7.0)",221.4,194.48,209.4,Little Bighorn,freeze-free
+2046,"Accelerating Emissions
+(SSP5-8.5)",216.8,188.12,199.4,Little Bighorn,freeze-free
+2047,"Moderating Emissions
+(SSP1-2.6)",223.96,179.4,206.2,Little Bighorn,freeze-free
+2047,"Middle of the Road
+(SSP2-4.5)",215.8,193.16,203,Little Bighorn,freeze-free
+2047,"High Emissions
+(SSP3-7.0)",210.84,195.24,197.2,Little Bighorn,freeze-free
+2047,"Accelerating Emissions
+(SSP5-8.5)",231.76,202.8,208.8,Little Bighorn,freeze-free
+2048,"Moderating Emissions
+(SSP1-2.6)",212.56,194.72,201,Little Bighorn,freeze-free
+2048,"Middle of the Road
+(SSP2-4.5)",221.44,193.16,207.8,Little Bighorn,freeze-free
+2048,"High Emissions
+(SSP3-7.0)",225.88,194.96,212.2,Little Bighorn,freeze-free
+2048,"Accelerating Emissions
+(SSP5-8.5)",230.48,196.76,209.4,Little Bighorn,freeze-free
+2049,"Moderating Emissions
+(SSP1-2.6)",213.72,186.72,193,Little Bighorn,freeze-free
+2049,"Middle of the Road
+(SSP2-4.5)",219.36,205.8,210.2,Little Bighorn,freeze-free
+2049,"High Emissions
+(SSP3-7.0)",237,201,202.4,Little Bighorn,freeze-free
+2049,"Accelerating Emissions
+(SSP5-8.5)",221.08,195.56,205.2,Little Bighorn,freeze-free
+2050,"Moderating Emissions
+(SSP1-2.6)",225.6,196.44,202.4,Little Bighorn,freeze-free
+2050,"Middle of the Road
+(SSP2-4.5)",225.44,197.32,206.6,Little Bighorn,freeze-free
+2050,"High Emissions
+(SSP3-7.0)",224.08,202.24,211.8,Little Bighorn,freeze-free
+2050,"Accelerating Emissions
+(SSP5-8.5)",222.2,196.84,208.8,Little Bighorn,freeze-free
+2051,"Moderating Emissions
+(SSP1-2.6)",226.44,196.28,204.6,Little Bighorn,freeze-free
+2051,"Middle of the Road
+(SSP2-4.5)",215.88,197.16,205.2,Little Bighorn,freeze-free
+2051,"High Emissions
+(SSP3-7.0)",221.16,198.84,207.2,Little Bighorn,freeze-free
+2051,"Accelerating Emissions
+(SSP5-8.5)",215.96,198.32,204.6,Little Bighorn,freeze-free
+2052,"Moderating Emissions
+(SSP1-2.6)",214.84,198.92,201.8,Little Bighorn,freeze-free
+2052,"Middle of the Road
+(SSP2-4.5)",218.56,198.76,206,Little Bighorn,freeze-free
+2052,"High Emissions
+(SSP3-7.0)",230.16,201.28,209.6,Little Bighorn,freeze-free
+2052,"Accelerating Emissions
+(SSP5-8.5)",222.64,199.32,215.4,Little Bighorn,freeze-free
+2053,"Moderating Emissions
+(SSP1-2.6)",222.72,193.16,201.4,Little Bighorn,freeze-free
+2053,"Middle of the Road
+(SSP2-4.5)",219.36,194.72,204.6,Little Bighorn,freeze-free
+2053,"High Emissions
+(SSP3-7.0)",230.84,200.64,210,Little Bighorn,freeze-free
+2053,"Accelerating Emissions
+(SSP5-8.5)",234.28,203.84,214,Little Bighorn,freeze-free
+2054,"Moderating Emissions
+(SSP1-2.6)",216.36,194.96,204.8,Little Bighorn,freeze-free
+2054,"Middle of the Road
+(SSP2-4.5)",217.68,200.24,204.4,Little Bighorn,freeze-free
+2054,"High Emissions
+(SSP3-7.0)",225.28,203.52,208.8,Little Bighorn,freeze-free
+2054,"Accelerating Emissions
+(SSP5-8.5)",224.48,205.4,213.2,Little Bighorn,freeze-free
+2055,"Moderating Emissions
+(SSP1-2.6)",212.28,197.56,204.6,Little Bighorn,freeze-free
+2055,"Middle of the Road
+(SSP2-4.5)",214.4,184.8,199.8,Little Bighorn,freeze-free
+2055,"High Emissions
+(SSP3-7.0)",225.72,198.68,214,Little Bighorn,freeze-free
+2055,"Accelerating Emissions
+(SSP5-8.5)",228.28,204.04,211.4,Little Bighorn,freeze-free
+2056,"Moderating Emissions
+(SSP1-2.6)",220.52,198.8,209.4,Little Bighorn,freeze-free
+2056,"Middle of the Road
+(SSP2-4.5)",223.2,199,203.2,Little Bighorn,freeze-free
+2056,"High Emissions
+(SSP3-7.0)",224.56,194.8,214,Little Bighorn,freeze-free
+2056,"Accelerating Emissions
+(SSP5-8.5)",234.16,203.16,216.6,Little Bighorn,freeze-free
+2057,"Moderating Emissions
+(SSP1-2.6)",221.48,198,201.6,Little Bighorn,freeze-free
+2057,"Middle of the Road
+(SSP2-4.5)",225.72,200.32,207.8,Little Bighorn,freeze-free
+2057,"High Emissions
+(SSP3-7.0)",222.32,195.64,209.8,Little Bighorn,freeze-free
+2057,"Accelerating Emissions
+(SSP5-8.5)",221.32,203.92,211.8,Little Bighorn,freeze-free
+2058,"Moderating Emissions
+(SSP1-2.6)",219.2,188.84,201.2,Little Bighorn,freeze-free
+2058,"Middle of the Road
+(SSP2-4.5)",227,201.84,214,Little Bighorn,freeze-free
+2058,"High Emissions
+(SSP3-7.0)",221.2,206.36,209.8,Little Bighorn,freeze-free
+2058,"Accelerating Emissions
+(SSP5-8.5)",228.48,202.08,203.8,Little Bighorn,freeze-free
+2059,"Moderating Emissions
+(SSP1-2.6)",218.8,201.44,208.2,Little Bighorn,freeze-free
+2059,"Middle of the Road
+(SSP2-4.5)",238.04,200.8,211.4,Little Bighorn,freeze-free
+2059,"High Emissions
+(SSP3-7.0)",226.92,205.48,217,Little Bighorn,freeze-free
+2059,"Accelerating Emissions
+(SSP5-8.5)",241.56,208.36,217.8,Little Bighorn,freeze-free
+2060,"Moderating Emissions
+(SSP1-2.6)",227.8,192.96,205.8,Little Bighorn,freeze-free
+2060,"Middle of the Road
+(SSP2-4.5)",221.2,194.52,201,Little Bighorn,freeze-free
+2060,"High Emissions
+(SSP3-7.0)",231.92,201.2,211.2,Little Bighorn,freeze-free
+2060,"Accelerating Emissions
+(SSP5-8.5)",234.52,210.48,214.4,Little Bighorn,freeze-free
+2061,"Moderating Emissions
+(SSP1-2.6)",223.56,190.16,204.4,Little Bighorn,freeze-free
+2061,"Middle of the Road
+(SSP2-4.5)",226.96,200.32,214.4,Little Bighorn,freeze-free
+2061,"High Emissions
+(SSP3-7.0)",235.2,199.56,209,Little Bighorn,freeze-free
+2061,"Accelerating Emissions
+(SSP5-8.5)",235.28,199.24,218.8,Little Bighorn,freeze-free
+2062,"Moderating Emissions
+(SSP1-2.6)",215.08,203.48,210.4,Little Bighorn,freeze-free
+2062,"Middle of the Road
+(SSP2-4.5)",221.68,194.12,206.2,Little Bighorn,freeze-free
+2062,"High Emissions
+(SSP3-7.0)",231.52,199.36,212.4,Little Bighorn,freeze-free
+2062,"Accelerating Emissions
+(SSP5-8.5)",246.08,210.8,223.6,Little Bighorn,freeze-free
+2063,"Moderating Emissions
+(SSP1-2.6)",214.28,189.48,204.6,Little Bighorn,freeze-free
+2063,"Middle of the Road
+(SSP2-4.5)",230.08,193.92,210.4,Little Bighorn,freeze-free
+2063,"High Emissions
+(SSP3-7.0)",230.52,196.24,215,Little Bighorn,freeze-free
+2063,"Accelerating Emissions
+(SSP5-8.5)",233.6,206.96,216.2,Little Bighorn,freeze-free
+2064,"Moderating Emissions
+(SSP1-2.6)",225.44,199.92,215.2,Little Bighorn,freeze-free
+2064,"Middle of the Road
+(SSP2-4.5)",222,199.56,207.6,Little Bighorn,freeze-free
+2064,"High Emissions
+(SSP3-7.0)",219.48,200.88,211.2,Little Bighorn,freeze-free
+2064,"Accelerating Emissions
+(SSP5-8.5)",233.72,200.72,215,Little Bighorn,freeze-free
+2065,"Moderating Emissions
+(SSP1-2.6)",215.68,191.4,204.2,Little Bighorn,freeze-free
+2065,"Middle of the Road
+(SSP2-4.5)",214.96,192.88,208.6,Little Bighorn,freeze-free
+2065,"High Emissions
+(SSP3-7.0)",235.68,205.8,221.4,Little Bighorn,freeze-free
+2065,"Accelerating Emissions
+(SSP5-8.5)",256.84,211.72,220.2,Little Bighorn,freeze-free
+2066,"Moderating Emissions
+(SSP1-2.6)",223.04,191.44,208.8,Little Bighorn,freeze-free
+2066,"Middle of the Road
+(SSP2-4.5)",235.08,201.6,223.4,Little Bighorn,freeze-free
+2066,"High Emissions
+(SSP3-7.0)",226.84,200.68,216,Little Bighorn,freeze-free
+2066,"Accelerating Emissions
+(SSP5-8.5)",240,211.68,225.2,Little Bighorn,freeze-free
+2067,"Moderating Emissions
+(SSP1-2.6)",232.52,194.68,206.6,Little Bighorn,freeze-free
+2067,"Middle of the Road
+(SSP2-4.5)",227.84,201,208.2,Little Bighorn,freeze-free
+2067,"High Emissions
+(SSP3-7.0)",240.28,207.28,217.2,Little Bighorn,freeze-free
+2067,"Accelerating Emissions
+(SSP5-8.5)",251.64,208.88,213.2,Little Bighorn,freeze-free
+2068,"Moderating Emissions
+(SSP1-2.6)",217.52,198.72,201.4,Little Bighorn,freeze-free
+2068,"Middle of the Road
+(SSP2-4.5)",234.28,201.16,212.8,Little Bighorn,freeze-free
+2068,"High Emissions
+(SSP3-7.0)",239,200.12,216.2,Little Bighorn,freeze-free
+2068,"Accelerating Emissions
+(SSP5-8.5)",233.08,212.48,218.8,Little Bighorn,freeze-free
+2069,"Moderating Emissions
+(SSP1-2.6)",221.36,193.32,203.8,Little Bighorn,freeze-free
+2069,"Middle of the Road
+(SSP2-4.5)",223.8,194.84,208.8,Little Bighorn,freeze-free
+2069,"High Emissions
+(SSP3-7.0)",229.12,200.88,218.6,Little Bighorn,freeze-free
+2069,"Accelerating Emissions
+(SSP5-8.5)",242.36,213.4,221.4,Little Bighorn,freeze-free
+2070,"Moderating Emissions
+(SSP1-2.6)",221.04,194.76,200.6,Little Bighorn,freeze-free
+2070,"Middle of the Road
+(SSP2-4.5)",225.76,200,214.2,Little Bighorn,freeze-free
+2070,"High Emissions
+(SSP3-7.0)",232.16,207.6,219,Little Bighorn,freeze-free
+2070,"Accelerating Emissions
+(SSP5-8.5)",252.08,213.68,230.2,Little Bighorn,freeze-free
+2071,"Moderating Emissions
+(SSP1-2.6)",218.44,192.68,201.4,Little Bighorn,freeze-free
+2071,"Middle of the Road
+(SSP2-4.5)",234.24,196.92,206.4,Little Bighorn,freeze-free
+2071,"High Emissions
+(SSP3-7.0)",228.64,213.88,221.6,Little Bighorn,freeze-free
+2071,"Accelerating Emissions
+(SSP5-8.5)",249.32,208.08,218,Little Bighorn,freeze-free
+2072,"Moderating Emissions
+(SSP1-2.6)",219.68,191.2,203,Little Bighorn,freeze-free
+2072,"Middle of the Road
+(SSP2-4.5)",227.08,196.72,204.8,Little Bighorn,freeze-free
+2072,"High Emissions
+(SSP3-7.0)",225.16,211.04,216.6,Little Bighorn,freeze-free
+2072,"Accelerating Emissions
+(SSP5-8.5)",236.04,213.68,226.6,Little Bighorn,freeze-free
+2073,"Moderating Emissions
+(SSP1-2.6)",213.28,186.12,207.4,Little Bighorn,freeze-free
+2073,"Middle of the Road
+(SSP2-4.5)",234.2,197.48,208.2,Little Bighorn,freeze-free
+2073,"High Emissions
+(SSP3-7.0)",242.28,211.84,218.6,Little Bighorn,freeze-free
+2073,"Accelerating Emissions
+(SSP5-8.5)",250.68,206.6,225.8,Little Bighorn,freeze-free
+2074,"Moderating Emissions
+(SSP1-2.6)",226.52,199.6,205.8,Little Bighorn,freeze-free
+2074,"Middle of the Road
+(SSP2-4.5)",228.2,198.36,209,Little Bighorn,freeze-free
+2074,"High Emissions
+(SSP3-7.0)",232.64,206.24,215.8,Little Bighorn,freeze-free
+2074,"Accelerating Emissions
+(SSP5-8.5)",245.12,211.28,219.6,Little Bighorn,freeze-free
+2075,"Moderating Emissions
+(SSP1-2.6)",212.08,196.44,204.4,Little Bighorn,freeze-free
+2075,"Middle of the Road
+(SSP2-4.5)",220.32,197.48,202,Little Bighorn,freeze-free
+2075,"High Emissions
+(SSP3-7.0)",232.32,202.36,217.4,Little Bighorn,freeze-free
+2075,"Accelerating Emissions
+(SSP5-8.5)",247.92,212.6,226.2,Little Bighorn,freeze-free
+2076,"Moderating Emissions
+(SSP1-2.6)",221.48,191.36,196.8,Little Bighorn,freeze-free
+2076,"Middle of the Road
+(SSP2-4.5)",222.96,200.6,209.4,Little Bighorn,freeze-free
+2076,"High Emissions
+(SSP3-7.0)",247.52,213.04,218.4,Little Bighorn,freeze-free
+2076,"Accelerating Emissions
+(SSP5-8.5)",243.8,213.28,224.8,Little Bighorn,freeze-free
+2077,"Moderating Emissions
+(SSP1-2.6)",216.76,199.96,213.2,Little Bighorn,freeze-free
+2077,"Middle of the Road
+(SSP2-4.5)",226.28,206.52,213.2,Little Bighorn,freeze-free
+2077,"High Emissions
+(SSP3-7.0)",239.56,207.8,215.4,Little Bighorn,freeze-free
+2077,"Accelerating Emissions
+(SSP5-8.5)",244.92,209.76,222.2,Little Bighorn,freeze-free
+2078,"Moderating Emissions
+(SSP1-2.6)",215.92,194.88,204,Little Bighorn,freeze-free
+2078,"Middle of the Road
+(SSP2-4.5)",230.28,200.48,212.6,Little Bighorn,freeze-free
+2078,"High Emissions
+(SSP3-7.0)",234.08,206.88,212.2,Little Bighorn,freeze-free
+2078,"Accelerating Emissions
+(SSP5-8.5)",244.64,215.56,217.8,Little Bighorn,freeze-free
+2079,"Moderating Emissions
+(SSP1-2.6)",214.72,198.84,203.8,Little Bighorn,freeze-free
+2079,"Middle of the Road
+(SSP2-4.5)",239.04,203.4,210.6,Little Bighorn,freeze-free
+2079,"High Emissions
+(SSP3-7.0)",241.2,201.44,222.8,Little Bighorn,freeze-free
+2079,"Accelerating Emissions
+(SSP5-8.5)",244,217.64,232.2,Little Bighorn,freeze-free
+2080,"Moderating Emissions
+(SSP1-2.6)",209.4,191.72,202.2,Little Bighorn,freeze-free
+2080,"Middle of the Road
+(SSP2-4.5)",230.52,195.96,212.4,Little Bighorn,freeze-free
+2080,"High Emissions
+(SSP3-7.0)",238.04,207.48,222.2,Little Bighorn,freeze-free
+2080,"Accelerating Emissions
+(SSP5-8.5)",255.08,219.28,235.4,Little Bighorn,freeze-free
+2081,"Moderating Emissions
+(SSP1-2.6)",217.64,190.96,198.4,Little Bighorn,freeze-free
+2081,"Middle of the Road
+(SSP2-4.5)",233.96,206.2,211,Little Bighorn,freeze-free
+2081,"High Emissions
+(SSP3-7.0)",255.28,210.32,221.4,Little Bighorn,freeze-free
+2081,"Accelerating Emissions
+(SSP5-8.5)",248.48,217.36,235,Little Bighorn,freeze-free
+2082,"Moderating Emissions
+(SSP1-2.6)",221.92,197.64,206,Little Bighorn,freeze-free
+2082,"Middle of the Road
+(SSP2-4.5)",227.6,205.36,213.2,Little Bighorn,freeze-free
+2082,"High Emissions
+(SSP3-7.0)",247.36,204.44,222.8,Little Bighorn,freeze-free
+2082,"Accelerating Emissions
+(SSP5-8.5)",260.76,222,233,Little Bighorn,freeze-free
+2083,"Moderating Emissions
+(SSP1-2.6)",216.64,194.52,202.6,Little Bighorn,freeze-free
+2083,"Middle of the Road
+(SSP2-4.5)",240.64,197.32,205.2,Little Bighorn,freeze-free
+2083,"High Emissions
+(SSP3-7.0)",243.68,211.24,218.2,Little Bighorn,freeze-free
+2083,"Accelerating Emissions
+(SSP5-8.5)",254.88,222.92,236,Little Bighorn,freeze-free
+2084,"Moderating Emissions
+(SSP1-2.6)",216.68,193.2,199,Little Bighorn,freeze-free
+2084,"Middle of the Road
+(SSP2-4.5)",236.56,202.04,215.8,Little Bighorn,freeze-free
+2084,"High Emissions
+(SSP3-7.0)",257.28,206.72,219.8,Little Bighorn,freeze-free
+2084,"Accelerating Emissions
+(SSP5-8.5)",251.08,217.6,227,Little Bighorn,freeze-free
+2085,"Moderating Emissions
+(SSP1-2.6)",218.96,188.64,195.2,Little Bighorn,freeze-free
+2085,"Middle of the Road
+(SSP2-4.5)",224.48,200.16,218.2,Little Bighorn,freeze-free
+2085,"High Emissions
+(SSP3-7.0)",237.56,207.72,220.8,Little Bighorn,freeze-free
+2085,"Accelerating Emissions
+(SSP5-8.5)",266.64,217.08,232.6,Little Bighorn,freeze-free
+2086,"Moderating Emissions
+(SSP1-2.6)",224.88,203.32,209.8,Little Bighorn,freeze-free
+2086,"Middle of the Road
+(SSP2-4.5)",231.88,206.28,216,Little Bighorn,freeze-free
+2086,"High Emissions
+(SSP3-7.0)",250.68,209.08,220.2,Little Bighorn,freeze-free
+2086,"Accelerating Emissions
+(SSP5-8.5)",266.84,214.96,232.4,Little Bighorn,freeze-free
+2087,"Moderating Emissions
+(SSP1-2.6)",215.04,196.24,199.8,Little Bighorn,freeze-free
+2087,"Middle of the Road
+(SSP2-4.5)",232.68,209.56,221.8,Little Bighorn,freeze-free
+2087,"High Emissions
+(SSP3-7.0)",252.16,212,229.4,Little Bighorn,freeze-free
+2087,"Accelerating Emissions
+(SSP5-8.5)",264.88,224.04,234.2,Little Bighorn,freeze-free
+2088,"Moderating Emissions
+(SSP1-2.6)",224.56,198.6,206.8,Little Bighorn,freeze-free
+2088,"Middle of the Road
+(SSP2-4.5)",226,205.16,213.2,Little Bighorn,freeze-free
+2088,"High Emissions
+(SSP3-7.0)",248.88,218.72,227,Little Bighorn,freeze-free
+2088,"Accelerating Emissions
+(SSP5-8.5)",264.72,217.92,230.2,Little Bighorn,freeze-free
+2089,"Moderating Emissions
+(SSP1-2.6)",211.64,196.08,201.2,Little Bighorn,freeze-free
+2089,"Middle of the Road
+(SSP2-4.5)",240.68,209.76,215.4,Little Bighorn,freeze-free
+2089,"High Emissions
+(SSP3-7.0)",238.04,214.76,221.8,Little Bighorn,freeze-free
+2089,"Accelerating Emissions
+(SSP5-8.5)",264.48,229.28,241.8,Little Bighorn,freeze-free
+2090,"Moderating Emissions
+(SSP1-2.6)",221.56,193.28,204.6,Little Bighorn,freeze-free
+2090,"Middle of the Road
+(SSP2-4.5)",227.16,211.08,216.8,Little Bighorn,freeze-free
+2090,"High Emissions
+(SSP3-7.0)",247.04,215.56,226.4,Little Bighorn,freeze-free
+2090,"Accelerating Emissions
+(SSP5-8.5)",261.36,233.24,239.4,Little Bighorn,freeze-free
+2091,"Moderating Emissions
+(SSP1-2.6)",215.4,193.2,202.6,Little Bighorn,freeze-free
+2091,"Middle of the Road
+(SSP2-4.5)",234.68,206.44,213.8,Little Bighorn,freeze-free
+2091,"High Emissions
+(SSP3-7.0)",251.72,216.56,228.6,Little Bighorn,freeze-free
+2091,"Accelerating Emissions
+(SSP5-8.5)",260.16,224.12,236.2,Little Bighorn,freeze-free
+2092,"Moderating Emissions
+(SSP1-2.6)",216.44,195.48,204.2,Little Bighorn,freeze-free
+2092,"Middle of the Road
+(SSP2-4.5)",227.68,207.16,213.8,Little Bighorn,freeze-free
+2092,"High Emissions
+(SSP3-7.0)",262.04,208.96,232.6,Little Bighorn,freeze-free
+2092,"Accelerating Emissions
+(SSP5-8.5)",268.24,225.12,233.8,Little Bighorn,freeze-free
+2093,"Moderating Emissions
+(SSP1-2.6)",219.64,198.52,205.8,Little Bighorn,freeze-free
+2093,"Middle of the Road
+(SSP2-4.5)",239.52,201.04,208.8,Little Bighorn,freeze-free
+2093,"High Emissions
+(SSP3-7.0)",264.56,212.6,229.2,Little Bighorn,freeze-free
+2093,"Accelerating Emissions
+(SSP5-8.5)",273.36,216.88,236,Little Bighorn,freeze-free
+2094,"Moderating Emissions
+(SSP1-2.6)",228.96,191.52,208.6,Little Bighorn,freeze-free
+2094,"Middle of the Road
+(SSP2-4.5)",240.92,204.04,213.4,Little Bighorn,freeze-free
+2094,"High Emissions
+(SSP3-7.0)",255.76,221.76,234.4,Little Bighorn,freeze-free
+2094,"Accelerating Emissions
+(SSP5-8.5)",275.24,225.96,248.4,Little Bighorn,freeze-free
+2095,"Moderating Emissions
+(SSP1-2.6)",218.64,194.88,200.2,Little Bighorn,freeze-free
+2095,"Middle of the Road
+(SSP2-4.5)",240.68,203.84,217.4,Little Bighorn,freeze-free
+2095,"High Emissions
+(SSP3-7.0)",268.6,221.48,234.6,Little Bighorn,freeze-free
+2095,"Accelerating Emissions
+(SSP5-8.5)",262.6,219.6,231.2,Little Bighorn,freeze-free
+2096,"Moderating Emissions
+(SSP1-2.6)",211.92,193.8,198.6,Little Bighorn,freeze-free
+2096,"Middle of the Road
+(SSP2-4.5)",238.16,210.88,221.8,Little Bighorn,freeze-free
+2096,"High Emissions
+(SSP3-7.0)",254.08,215,234,Little Bighorn,freeze-free
+2096,"Accelerating Emissions
+(SSP5-8.5)",251.36,224.08,246,Little Bighorn,freeze-free
+2097,"Moderating Emissions
+(SSP1-2.6)",212.36,187.28,199.4,Little Bighorn,freeze-free
+2097,"Middle of the Road
+(SSP2-4.5)",234.04,209.48,215.2,Little Bighorn,freeze-free
+2097,"High Emissions
+(SSP3-7.0)",251.6,215.16,235,Little Bighorn,freeze-free
+2097,"Accelerating Emissions
+(SSP5-8.5)",276.68,227.16,238.2,Little Bighorn,freeze-free
+2098,"Moderating Emissions
+(SSP1-2.6)",213.84,190.32,204.6,Little Bighorn,freeze-free
+2098,"Middle of the Road
+(SSP2-4.5)",232.32,196.28,216.2,Little Bighorn,freeze-free
+2098,"High Emissions
+(SSP3-7.0)",267.72,216.8,232.8,Little Bighorn,freeze-free
+2098,"Accelerating Emissions
+(SSP5-8.5)",265.68,218.12,242.4,Little Bighorn,freeze-free
+2099,"Moderating Emissions
+(SSP1-2.6)",222.4,197.04,205.8,Little Bighorn,freeze-free
+2099,"Middle of the Road
+(SSP2-4.5)",233.44,199.2,208.2,Little Bighorn,freeze-free
+2099,"High Emissions
+(SSP3-7.0)",277.08,219.48,236.6,Little Bighorn,freeze-free
+2099,"Accelerating Emissions
+(SSP5-8.5)",282.16,228,255.2,Little Bighorn,freeze-free
+2100,"Moderating Emissions
+(SSP1-2.6)",218.44,199.68,204.8,Little Bighorn,freeze-free
+2100,"Middle of the Road
+(SSP2-4.5)",233.92,207.36,218,Little Bighorn,freeze-free
+2100,"High Emissions
+(SSP3-7.0)",257.72,220.84,231.6,Little Bighorn,freeze-free
+2100,"Accelerating Emissions
+(SSP5-8.5)",275.84,226,244.2,Little Bighorn,freeze-free

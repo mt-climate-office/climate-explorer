@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,28.712,25.79,27.025,West Fork Poplar,tasmin
+1951,Historical Emissions,28.728,25.43,27.174,West Fork Poplar,tasmin
+1952,Historical Emissions,28.948,25.076,27.352,West Fork Poplar,tasmin
+1953,Historical Emissions,27.911,24.391,27.158,West Fork Poplar,tasmin
+1954,Historical Emissions,30.564,23.355,26.264,West Fork Poplar,tasmin
+1955,Historical Emissions,29.773,26.103,26.912,West Fork Poplar,tasmin
+1956,Historical Emissions,29.69,26.442,27.512,West Fork Poplar,tasmin
+1957,Historical Emissions,30.286,26.428,27.937,West Fork Poplar,tasmin
+1958,Historical Emissions,29.919,24.181,27.461,West Fork Poplar,tasmin
+1959,Historical Emissions,27.412,24.008,26.444,West Fork Poplar,tasmin
+1960,Historical Emissions,29.065,23.087,27.473,West Fork Poplar,tasmin
+1961,Historical Emissions,29.784,25.258,27.926,West Fork Poplar,tasmin
+1962,Historical Emissions,27.733,24.555,26.231,West Fork Poplar,tasmin
+1963,Historical Emissions,28.097,25.732,26.607,West Fork Poplar,tasmin
+1964,Historical Emissions,29.019,25.504,28.118,West Fork Poplar,tasmin
+1965,Historical Emissions,28.073,25.106,26.844,West Fork Poplar,tasmin
+1966,Historical Emissions,29.266,25.196,26.889,West Fork Poplar,tasmin
+1967,Historical Emissions,27.479,24.743,27.05,West Fork Poplar,tasmin
+1968,Historical Emissions,27.077,23.76,25.938,West Fork Poplar,tasmin
+1969,Historical Emissions,28.476,24.906,27.001,West Fork Poplar,tasmin
+1970,Historical Emissions,29.323,25.903,26.734,West Fork Poplar,tasmin
+1971,Historical Emissions,31.062,27.592,28.878,West Fork Poplar,tasmin
+1972,Historical Emissions,29.223,25.049,27.331,West Fork Poplar,tasmin
+1973,Historical Emissions,28.829,25.566,27.442,West Fork Poplar,tasmin
+1974,Historical Emissions,29.756,24.506,27.651,West Fork Poplar,tasmin
+1975,Historical Emissions,28.857,23.564,28.047,West Fork Poplar,tasmin
+1976,Historical Emissions,28.465,24.745,26.993,West Fork Poplar,tasmin
+1977,Historical Emissions,30.079,26.259,28.449,West Fork Poplar,tasmin
+1978,Historical Emissions,28.81,24.876,27.073,West Fork Poplar,tasmin
+1979,Historical Emissions,30.652,25.14,28.087,West Fork Poplar,tasmin
+1980,Historical Emissions,28.436,25.36,26.419,West Fork Poplar,tasmin
+1981,Historical Emissions,29.08,26.76,27.561,West Fork Poplar,tasmin
+1982,Historical Emissions,28.838,26.493,27.073,West Fork Poplar,tasmin
+1983,Historical Emissions,29.515,24.731,27.189,West Fork Poplar,tasmin
+1984,Historical Emissions,29.363,25.996,27.148,West Fork Poplar,tasmin
+1985,Historical Emissions,29.947,26.324,28.119,West Fork Poplar,tasmin
+1986,Historical Emissions,27.899,25.566,26.941,West Fork Poplar,tasmin
+1987,Historical Emissions,29.392,23.215,26.606,West Fork Poplar,tasmin
+1988,Historical Emissions,29.102,25.197,28.12,West Fork Poplar,tasmin
+1989,Historical Emissions,29.257,26.195,28.441,West Fork Poplar,tasmin
+1990,Historical Emissions,31.209,27.381,29.175,West Fork Poplar,tasmin
+1991,Historical Emissions,30.078,25.778,27.322,West Fork Poplar,tasmin
+1992,Historical Emissions,30.039,25.437,27.111,West Fork Poplar,tasmin
+1993,Historical Emissions,30.133,26.145,28.057,West Fork Poplar,tasmin
+1994,Historical Emissions,29.88,27.246,29.018,West Fork Poplar,tasmin
+1995,Historical Emissions,30.136,25.957,27.666,West Fork Poplar,tasmin
+1996,Historical Emissions,30.511,25.807,28.312,West Fork Poplar,tasmin
+1997,Historical Emissions,30.911,26.893,28.978,West Fork Poplar,tasmin
+1998,Historical Emissions,30.58,25.582,27.544,West Fork Poplar,tasmin
+1999,Historical Emissions,31.054,27.386,29.895,West Fork Poplar,tasmin
+2000,Historical Emissions,30.091,27.449,28.417,West Fork Poplar,tasmin
+2001,Historical Emissions,30.61,26.552,29.191,West Fork Poplar,tasmin
+2002,Historical Emissions,31.25,27.421,28.208,West Fork Poplar,tasmin
+2003,Historical Emissions,31.223,28.12,28.914,West Fork Poplar,tasmin
+2004,Historical Emissions,31.586,27.851,29.386,West Fork Poplar,tasmin
+2005,Historical Emissions,32.8,27.277,30.084,West Fork Poplar,tasmin
+2006,Historical Emissions,31.598,26.167,28.979,West Fork Poplar,tasmin
+2007,Historical Emissions,30.23,28.807,29.89,West Fork Poplar,tasmin
+2008,Historical Emissions,30.72,27.858,29.763,West Fork Poplar,tasmin
+2009,Historical Emissions,30.517,28.104,29.595,West Fork Poplar,tasmin
+2010,Historical Emissions,31.061,27.842,28.995,West Fork Poplar,tasmin
+2011,Historical Emissions,32.099,28.743,29.441,West Fork Poplar,tasmin
+2012,Historical Emissions,30.778,28.521,29.546,West Fork Poplar,tasmin
+2013,Historical Emissions,31.619,27.479,29.176,West Fork Poplar,tasmin
+2014,Historical Emissions,32.463,28.849,29.904,West Fork Poplar,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",32.69,27.862,29.675,West Fork Poplar,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",31.615,27.605,29.26,West Fork Poplar,tasmin
+2015,"High Emissions
+(SSP3-7.0)",31.084,28.151,29.316,West Fork Poplar,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",30.732,28.192,29.124,West Fork Poplar,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",33.032,28.774,30.941,West Fork Poplar,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",32.481,28.064,29.684,West Fork Poplar,tasmin
+2016,"High Emissions
+(SSP3-7.0)",33.637,26.982,29.611,West Fork Poplar,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",30.937,28.957,30.41,West Fork Poplar,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",32.139,28.072,29.57,West Fork Poplar,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",32.755,26.863,29.459,West Fork Poplar,tasmin
+2017,"High Emissions
+(SSP3-7.0)",32.857,29.334,29.591,West Fork Poplar,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",31.363,28.074,29.667,West Fork Poplar,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",31.03,28.423,29.795,West Fork Poplar,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",32.167,28.749,29.64,West Fork Poplar,tasmin
+2018,"High Emissions
+(SSP3-7.0)",33.69,28.372,29.197,West Fork Poplar,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",32.481,27.113,30.02,West Fork Poplar,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",32.997,29.07,31.135,West Fork Poplar,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",31.342,27.209,29.325,West Fork Poplar,tasmin
+2019,"High Emissions
+(SSP3-7.0)",32.912,28.346,29.853,West Fork Poplar,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",33.29,29.982,31.806,West Fork Poplar,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",32.925,27.882,31.508,West Fork Poplar,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",30.421,28.056,29.497,West Fork Poplar,tasmin
+2020,"High Emissions
+(SSP3-7.0)",32.134,28.809,30.256,West Fork Poplar,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",32.212,29.15,30.605,West Fork Poplar,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",32.949,28.49,30.456,West Fork Poplar,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",31.563,28.868,29.864,West Fork Poplar,tasmin
+2021,"High Emissions
+(SSP3-7.0)",33.161,28.802,30.943,West Fork Poplar,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",32.196,28.165,30.656,West Fork Poplar,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",31.903,28.852,30.298,West Fork Poplar,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",32.525,28.823,30.85,West Fork Poplar,tasmin
+2022,"High Emissions
+(SSP3-7.0)",32.41,29.859,30.655,West Fork Poplar,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",33.504,29.217,30.42,West Fork Poplar,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",31.599,29.242,30.341,West Fork Poplar,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",32.086,29.775,30.662,West Fork Poplar,tasmin
+2023,"High Emissions
+(SSP3-7.0)",34.653,28.852,31.21,West Fork Poplar,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",31.293,27.575,28.29,West Fork Poplar,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",32.898,28.884,30.59,West Fork Poplar,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",31.571,28.792,30.352,West Fork Poplar,tasmin
+2024,"High Emissions
+(SSP3-7.0)",34.264,28.413,30.359,West Fork Poplar,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",34.44,27.976,31.059,West Fork Poplar,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",32.715,29.429,31.554,West Fork Poplar,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",32.61,28.778,30.138,West Fork Poplar,tasmin
+2025,"High Emissions
+(SSP3-7.0)",33.377,29.391,31.059,West Fork Poplar,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",34.185,29.556,31.905,West Fork Poplar,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",32.29,28.854,29.867,West Fork Poplar,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",32.783,28.797,31.346,West Fork Poplar,tasmin
+2026,"High Emissions
+(SSP3-7.0)",34.069,27.655,31.122,West Fork Poplar,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",32.414,29.166,31.385,West Fork Poplar,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",33.684,28.236,30.213,West Fork Poplar,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",33.301,30.188,32.143,West Fork Poplar,tasmin
+2027,"High Emissions
+(SSP3-7.0)",32.95,28.944,31.435,West Fork Poplar,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",32.569,30.122,31.089,West Fork Poplar,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",33.299,29.72,31.944,West Fork Poplar,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",33.603,28.083,31.203,West Fork Poplar,tasmin
+2028,"High Emissions
+(SSP3-7.0)",32.962,29.771,30.702,West Fork Poplar,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",33.989,29.355,31.673,West Fork Poplar,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",35.009,30.334,31.956,West Fork Poplar,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",33.803,28.731,31.846,West Fork Poplar,tasmin
+2029,"High Emissions
+(SSP3-7.0)",33.008,28.257,30.988,West Fork Poplar,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",32.046,30.363,31.122,West Fork Poplar,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",34.437,29.57,31.124,West Fork Poplar,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",34.084,29.643,31.807,West Fork Poplar,tasmin
+2030,"High Emissions
+(SSP3-7.0)",33.68,28.12,30.988,West Fork Poplar,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",34.282,27.974,31.667,West Fork Poplar,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",33.305,28.527,31.35,West Fork Poplar,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",33.458,29.984,31.498,West Fork Poplar,tasmin
+2031,"High Emissions
+(SSP3-7.0)",33.78,28.356,32.223,West Fork Poplar,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",35.392,32.427,33.269,West Fork Poplar,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",32.718,29.874,30.556,West Fork Poplar,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",32.279,29.158,30.716,West Fork Poplar,tasmin
+2032,"High Emissions
+(SSP3-7.0)",33.032,29.654,31.161,West Fork Poplar,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",34.649,29.63,31.483,West Fork Poplar,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",33.472,29.764,31.646,West Fork Poplar,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",34.661,29.897,32.305,West Fork Poplar,tasmin
+2033,"High Emissions
+(SSP3-7.0)",32.558,29.878,30.617,West Fork Poplar,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",33.422,30.285,30.99,West Fork Poplar,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",32.501,28.69,29.91,West Fork Poplar,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",33.279,30.8,31.494,West Fork Poplar,tasmin
+2034,"High Emissions
+(SSP3-7.0)",32.65,31.043,32.489,West Fork Poplar,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",34.097,27.573,31.489,West Fork Poplar,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",33.071,28.491,30.85,West Fork Poplar,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",34.062,29.661,32.259,West Fork Poplar,tasmin
+2035,"High Emissions
+(SSP3-7.0)",32.798,28.416,31.444,West Fork Poplar,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",34.543,29.192,31.605,West Fork Poplar,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",33.743,30.878,31.737,West Fork Poplar,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",33.362,29.541,31.504,West Fork Poplar,tasmin
+2036,"High Emissions
+(SSP3-7.0)",33.059,28.52,31.212,West Fork Poplar,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",34.095,30.622,32.57,West Fork Poplar,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",33.661,30.486,33.184,West Fork Poplar,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",33.837,28.902,31.475,West Fork Poplar,tasmin
+2037,"High Emissions
+(SSP3-7.0)",32.804,29.086,31.722,West Fork Poplar,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",34.251,30.958,32.245,West Fork Poplar,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",35.581,30.859,32,West Fork Poplar,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",33.298,30.462,31.59,West Fork Poplar,tasmin
+2038,"High Emissions
+(SSP3-7.0)",34.364,29.964,31.696,West Fork Poplar,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",36.391,30.263,34.028,West Fork Poplar,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",35.146,30.568,32.844,West Fork Poplar,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",33.682,30.112,31.293,West Fork Poplar,tasmin
+2039,"High Emissions
+(SSP3-7.0)",35.229,30.145,32.57,West Fork Poplar,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",36.215,28.917,33.818,West Fork Poplar,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",35.286,30.444,31.924,West Fork Poplar,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",33.586,30.136,32.813,West Fork Poplar,tasmin
+2040,"High Emissions
+(SSP3-7.0)",34.838,30.64,32.886,West Fork Poplar,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",36.123,30.89,32.973,West Fork Poplar,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",34.223,27.998,31.274,West Fork Poplar,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",33.012,30.883,31.568,West Fork Poplar,tasmin
+2041,"High Emissions
+(SSP3-7.0)",34.137,29.456,31.132,West Fork Poplar,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",33.271,31.102,32.507,West Fork Poplar,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",34.296,30.79,32.232,West Fork Poplar,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",33.068,28.653,30.027,West Fork Poplar,tasmin
+2042,"High Emissions
+(SSP3-7.0)",33.592,31.08,32.102,West Fork Poplar,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",35.649,31.289,32.242,West Fork Poplar,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",34.164,30.87,31.893,West Fork Poplar,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",34.93,30.224,32.379,West Fork Poplar,tasmin
+2043,"High Emissions
+(SSP3-7.0)",33.572,30.389,31.689,West Fork Poplar,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",33.833,32.352,32.779,West Fork Poplar,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",34.539,29.611,31.637,West Fork Poplar,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",35.818,30.888,33.254,West Fork Poplar,tasmin
+2044,"High Emissions
+(SSP3-7.0)",33.322,30.977,32.122,West Fork Poplar,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",36.814,30.224,33.334,West Fork Poplar,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",34.779,30.024,32.222,West Fork Poplar,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",34.898,29.3,33.775,West Fork Poplar,tasmin
+2045,"High Emissions
+(SSP3-7.0)",34.076,29.076,31.451,West Fork Poplar,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",33.429,29.351,33.165,West Fork Poplar,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",36.039,27.993,32.809,West Fork Poplar,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",34.965,30.23,32.187,West Fork Poplar,tasmin
+2046,"High Emissions
+(SSP3-7.0)",36.514,31.369,33.871,West Fork Poplar,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",34.822,30.177,31.964,West Fork Poplar,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",33.949,30.035,32.571,West Fork Poplar,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",35.606,28.309,32.013,West Fork Poplar,tasmin
+2047,"High Emissions
+(SSP3-7.0)",33.614,29.395,31.478,West Fork Poplar,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",34.878,30.327,32.677,West Fork Poplar,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",33.127,30.077,31.388,West Fork Poplar,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",35.46,30.347,32.077,West Fork Poplar,tasmin
+2048,"High Emissions
+(SSP3-7.0)",36.111,30.794,33.215,West Fork Poplar,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",36.078,32.573,34.611,West Fork Poplar,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",33.952,27.779,30.323,West Fork Poplar,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",35.614,32.293,33.646,West Fork Poplar,tasmin
+2049,"High Emissions
+(SSP3-7.0)",36.515,31.237,33.227,West Fork Poplar,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",34.454,32.44,33.765,West Fork Poplar,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",33.151,29.454,31.181,West Fork Poplar,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",36.745,30.122,32.465,West Fork Poplar,tasmin
+2050,"High Emissions
+(SSP3-7.0)",35.885,31.932,32.811,West Fork Poplar,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",34.615,32.965,34.271,West Fork Poplar,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",34.952,30.532,32.946,West Fork Poplar,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",36.283,31.092,32.379,West Fork Poplar,tasmin
+2051,"High Emissions
+(SSP3-7.0)",34.623,32.099,32.957,West Fork Poplar,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",35.073,31.494,33.536,West Fork Poplar,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",34.125,31.227,32.36,West Fork Poplar,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",36.21,31.281,32.043,West Fork Poplar,tasmin
+2052,"High Emissions
+(SSP3-7.0)",36.876,30.455,32.673,West Fork Poplar,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",35.429,32.187,34.849,West Fork Poplar,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",33.922,30.216,32.262,West Fork Poplar,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",34.238,30.574,32.721,West Fork Poplar,tasmin
+2053,"High Emissions
+(SSP3-7.0)",36.37,32.67,34.8,West Fork Poplar,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",37.809,31.795,33.94,West Fork Poplar,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",34.255,30.795,31.343,West Fork Poplar,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",33.231,30.69,32.229,West Fork Poplar,tasmin
+2054,"High Emissions
+(SSP3-7.0)",34.802,31.914,32.951,West Fork Poplar,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",36.972,32.622,33.446,West Fork Poplar,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",34.457,31.498,32.037,West Fork Poplar,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",33.965,31.069,32.657,West Fork Poplar,tasmin
+2055,"High Emissions
+(SSP3-7.0)",35.36,31.93,33.539,West Fork Poplar,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",38.166,33.498,35.673,West Fork Poplar,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",35.95,30.269,33.119,West Fork Poplar,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",35.685,30.794,32.349,West Fork Poplar,tasmin
+2056,"High Emissions
+(SSP3-7.0)",37.083,31.354,34.31,West Fork Poplar,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",37.7,31.786,34.5,West Fork Poplar,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",34.866,30.09,31.962,West Fork Poplar,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",36.234,30.656,33.422,West Fork Poplar,tasmin
+2057,"High Emissions
+(SSP3-7.0)",35.571,32.367,33.044,West Fork Poplar,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",36.301,29.919,34.117,West Fork Poplar,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",34.621,30.287,33.042,West Fork Poplar,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",36.38,30.979,33.656,West Fork Poplar,tasmin
+2058,"High Emissions
+(SSP3-7.0)",34.559,32.227,34.181,West Fork Poplar,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",36.568,32.228,33.46,West Fork Poplar,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",34.479,30.496,32.158,West Fork Poplar,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",38.237,32.719,34.37,West Fork Poplar,tasmin
+2059,"High Emissions
+(SSP3-7.0)",38.047,33.123,34.397,West Fork Poplar,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",36.877,33.495,36.07,West Fork Poplar,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",35.635,29.447,31.102,West Fork Poplar,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",35.201,30.925,32.911,West Fork Poplar,tasmin
+2060,"High Emissions
+(SSP3-7.0)",35.339,32.506,34.148,West Fork Poplar,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",36.808,34.432,35.549,West Fork Poplar,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",34.934,30.83,32.193,West Fork Poplar,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",35.709,31.689,33.642,West Fork Poplar,tasmin
+2061,"High Emissions
+(SSP3-7.0)",37.075,32.914,34.359,West Fork Poplar,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",38.219,33.361,37.129,West Fork Poplar,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",33.144,31.185,32.252,West Fork Poplar,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",36.429,30.248,32.793,West Fork Poplar,tasmin
+2062,"High Emissions
+(SSP3-7.0)",35.692,33.47,34.557,West Fork Poplar,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",37.802,33.25,35.483,West Fork Poplar,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",33.888,30.019,32.252,West Fork Poplar,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",35.508,31.228,33.524,West Fork Poplar,tasmin
+2063,"High Emissions
+(SSP3-7.0)",36.795,31.951,33.582,West Fork Poplar,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",37.128,32.572,35.148,West Fork Poplar,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",36.053,31.597,33.687,West Fork Poplar,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",34.314,30.887,32.49,West Fork Poplar,tasmin
+2064,"High Emissions
+(SSP3-7.0)",34.822,32.789,33.996,West Fork Poplar,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",38.207,33.56,34.67,West Fork Poplar,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",33.947,29.444,32.794,West Fork Poplar,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",35.98,30.802,32.702,West Fork Poplar,tasmin
+2065,"High Emissions
+(SSP3-7.0)",36.392,32.164,34.171,West Fork Poplar,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",39.871,33.562,36.797,West Fork Poplar,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",35.43,28.961,33.206,West Fork Poplar,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",37.119,32.388,34.962,West Fork Poplar,tasmin
+2066,"High Emissions
+(SSP3-7.0)",37.85,32.794,33.903,West Fork Poplar,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",37.593,33.566,36.392,West Fork Poplar,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",35.325,31.167,33.738,West Fork Poplar,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",36.209,31.199,33.099,West Fork Poplar,tasmin
+2067,"High Emissions
+(SSP3-7.0)",37.461,34.038,35.508,West Fork Poplar,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",40.233,33.833,35.095,West Fork Poplar,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",33.733,30.627,32.804,West Fork Poplar,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",35.229,31.754,32.629,West Fork Poplar,tasmin
+2068,"High Emissions
+(SSP3-7.0)",36.639,31.854,33.151,West Fork Poplar,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",37.861,34.868,35.615,West Fork Poplar,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",34.932,31.12,32.898,West Fork Poplar,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",34.308,31.033,33.316,West Fork Poplar,tasmin
+2069,"High Emissions
+(SSP3-7.0)",37.936,34.188,36.139,West Fork Poplar,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",39.425,34.582,35.799,West Fork Poplar,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",34.611,30.382,31.983,West Fork Poplar,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",34.996,30.459,32.935,West Fork Poplar,tasmin
+2070,"High Emissions
+(SSP3-7.0)",38.532,33.647,35.739,West Fork Poplar,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",39.856,34.359,36.948,West Fork Poplar,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",38.158,28.889,32.403,West Fork Poplar,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",37.342,31.42,33.419,West Fork Poplar,tasmin
+2071,"High Emissions
+(SSP3-7.0)",38.321,34.696,35.448,West Fork Poplar,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",39.183,33.266,35.684,West Fork Poplar,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",36.685,30.283,32.844,West Fork Poplar,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",37.634,31.2,33.524,West Fork Poplar,tasmin
+2072,"High Emissions
+(SSP3-7.0)",37.575,34.302,35.39,West Fork Poplar,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",38.638,35.241,36.155,West Fork Poplar,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",34.597,29.951,32.127,West Fork Poplar,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",38.059,32.124,34.544,West Fork Poplar,tasmin
+2073,"High Emissions
+(SSP3-7.0)",37.761,32.597,35.942,West Fork Poplar,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",39.428,32.861,37.31,West Fork Poplar,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",37.378,30.071,33.169,West Fork Poplar,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",35.372,33.258,34.444,West Fork Poplar,tasmin
+2074,"High Emissions
+(SSP3-7.0)",38.022,33.44,34.864,West Fork Poplar,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",38.304,34.049,36.385,West Fork Poplar,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",35.097,30.07,32.368,West Fork Poplar,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",36.829,31.386,32.772,West Fork Poplar,tasmin
+2075,"High Emissions
+(SSP3-7.0)",37.759,33.713,35.023,West Fork Poplar,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",40.057,33.961,38.319,West Fork Poplar,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",35.006,29.858,31.581,West Fork Poplar,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",36.18,33.169,34.339,West Fork Poplar,tasmin
+2076,"High Emissions
+(SSP3-7.0)",36.592,33.604,35.69,West Fork Poplar,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",39.758,34.663,37.034,West Fork Poplar,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",35.078,31.032,32.73,West Fork Poplar,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",37.925,33.37,34.731,West Fork Poplar,tasmin
+2077,"High Emissions
+(SSP3-7.0)",38.275,33.611,36.063,West Fork Poplar,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",39.452,34.758,37.125,West Fork Poplar,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",34.406,31.306,33.672,West Fork Poplar,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",35.182,31.962,33.419,West Fork Poplar,tasmin
+2078,"High Emissions
+(SSP3-7.0)",38.903,33.898,35.924,West Fork Poplar,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",38.078,34.841,36.494,West Fork Poplar,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",34.089,31.136,33.054,West Fork Poplar,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",35.651,32.595,33.653,West Fork Poplar,tasmin
+2079,"High Emissions
+(SSP3-7.0)",39.108,33.685,36.567,West Fork Poplar,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",40.294,34.775,37.866,West Fork Poplar,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",34.412,30.188,31.762,West Fork Poplar,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",35.805,32.01,34.2,West Fork Poplar,tasmin
+2080,"High Emissions
+(SSP3-7.0)",37.073,34.919,36.081,West Fork Poplar,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",41.204,35.717,39.377,West Fork Poplar,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",35.056,28.524,32.965,West Fork Poplar,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",37.02,32.821,34.136,West Fork Poplar,tasmin
+2081,"High Emissions
+(SSP3-7.0)",39.258,34.165,35.01,West Fork Poplar,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",41.492,37.052,38.271,West Fork Poplar,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",36.175,30.207,32.541,West Fork Poplar,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",37.295,32.661,34.739,West Fork Poplar,tasmin
+2082,"High Emissions
+(SSP3-7.0)",39.047,33.968,35.241,West Fork Poplar,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",41.839,36.087,39.002,West Fork Poplar,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",34.722,30.625,32.203,West Fork Poplar,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",37.872,32.206,34.023,West Fork Poplar,tasmin
+2083,"High Emissions
+(SSP3-7.0)",39.463,33.758,36.438,West Fork Poplar,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",41.631,37.142,39.144,West Fork Poplar,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",35.178,29.875,32.325,West Fork Poplar,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",37.973,32.991,35.756,West Fork Poplar,tasmin
+2084,"High Emissions
+(SSP3-7.0)",40.917,34.441,38.088,West Fork Poplar,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",40.576,36.481,38.982,West Fork Poplar,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",33.349,28.193,31.361,West Fork Poplar,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",36.177,31.715,34.318,West Fork Poplar,tasmin
+2085,"High Emissions
+(SSP3-7.0)",39.179,34.839,35.965,West Fork Poplar,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",42.034,36.611,38.219,West Fork Poplar,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",35.868,31.746,32.966,West Fork Poplar,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",35.965,32.999,34.499,West Fork Poplar,tasmin
+2086,"High Emissions
+(SSP3-7.0)",40.426,34.794,37.19,West Fork Poplar,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",42.552,35.472,39.148,West Fork Poplar,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",34.238,30.19,32.325,West Fork Poplar,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",38.953,31.783,34.986,West Fork Poplar,tasmin
+2087,"High Emissions
+(SSP3-7.0)",40.619,34.953,37.356,West Fork Poplar,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",42.103,36.28,38.696,West Fork Poplar,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",34.857,29.337,32.68,West Fork Poplar,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",36.229,32.184,34.538,West Fork Poplar,tasmin
+2088,"High Emissions
+(SSP3-7.0)",41.338,35.143,36.721,West Fork Poplar,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",41.633,37.697,38.327,West Fork Poplar,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",33.13,30.571,32.049,West Fork Poplar,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",36.447,33.112,35.18,West Fork Poplar,tasmin
+2089,"High Emissions
+(SSP3-7.0)",39.969,35.084,36.822,West Fork Poplar,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",43.16,36.5,40.334,West Fork Poplar,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",35.053,30.468,32.585,West Fork Poplar,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",37.704,32.87,35.537,West Fork Poplar,tasmin
+2090,"High Emissions
+(SSP3-7.0)",39.181,34.905,36.37,West Fork Poplar,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",43.153,37.503,39.937,West Fork Poplar,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",35.52,30.874,32.378,West Fork Poplar,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",37.706,32.732,35.015,West Fork Poplar,tasmin
+2091,"High Emissions
+(SSP3-7.0)",40.53,34.698,36.118,West Fork Poplar,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",44.144,36.679,39.383,West Fork Poplar,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",36.256,29.23,34.004,West Fork Poplar,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",37.334,32.844,34.021,West Fork Poplar,tasmin
+2092,"High Emissions
+(SSP3-7.0)",39.683,34.515,37.54,West Fork Poplar,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",43.46,37.205,38.855,West Fork Poplar,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",35.225,29.142,31.91,West Fork Poplar,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",37.871,32.311,34.437,West Fork Poplar,tasmin
+2093,"High Emissions
+(SSP3-7.0)",41.599,35.56,36.672,West Fork Poplar,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",44.833,37.026,39.975,West Fork Poplar,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",34.898,28.975,32.609,West Fork Poplar,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",37.811,30.173,33.064,West Fork Poplar,tasmin
+2094,"High Emissions
+(SSP3-7.0)",41.805,35.545,37.837,West Fork Poplar,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",44.353,37.595,40.642,West Fork Poplar,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",34.563,30.956,33.084,West Fork Poplar,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",38.597,33.128,35.573,West Fork Poplar,tasmin
+2095,"High Emissions
+(SSP3-7.0)",41.964,34.336,37.616,West Fork Poplar,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",42.828,37.238,37.82,West Fork Poplar,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",35.04,31.573,32.311,West Fork Poplar,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",37.823,34.223,36.07,West Fork Poplar,tasmin
+2096,"High Emissions
+(SSP3-7.0)",39.544,36.486,38.845,West Fork Poplar,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",43.956,37.086,39.643,West Fork Poplar,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",35.651,29.684,31.642,West Fork Poplar,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",36.77,34.265,35.243,West Fork Poplar,tasmin
+2097,"High Emissions
+(SSP3-7.0)",41.198,35.844,38.539,West Fork Poplar,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",46.003,35.925,40.322,West Fork Poplar,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",33.33,29.622,32.744,West Fork Poplar,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",37.572,31.891,34.643,West Fork Poplar,tasmin
+2098,"High Emissions
+(SSP3-7.0)",42.121,36.792,37.532,West Fork Poplar,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",43.25,38.295,40.767,West Fork Poplar,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",36.564,29.73,32.205,West Fork Poplar,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",36.969,32.638,34.236,West Fork Poplar,tasmin
+2099,"High Emissions
+(SSP3-7.0)",42.754,35.276,38.327,West Fork Poplar,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",44.043,38.071,40.672,West Fork Poplar,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",35.197,29.773,31.928,West Fork Poplar,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",38.248,33.36,36.349,West Fork Poplar,tasmin
+2100,"High Emissions
+(SSP3-7.0)",42.121,35.901,38.768,West Fork Poplar,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",44.272,37.142,40.221,West Fork Poplar,tasmin

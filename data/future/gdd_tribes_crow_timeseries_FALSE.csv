@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2855.751,2440.853,2582.372,Crow,gdd
+1951,Historical Emissions,2909.339,2485.169,2650.64,Crow,gdd
+1952,Historical Emissions,2841.967,2303.146,2538.581,Crow,gdd
+1953,Historical Emissions,2812.541,2272.495,2557.017,Crow,gdd
+1954,Historical Emissions,2744.266,2164.626,2486.062,Crow,gdd
+1955,Historical Emissions,2968.578,2423.827,2466.718,Crow,gdd
+1956,Historical Emissions,2874.538,2459.728,2656.382,Crow,gdd
+1957,Historical Emissions,3124.429,2207.142,2482.047,Crow,gdd
+1958,Historical Emissions,2796.894,2348.79,2474.44,Crow,gdd
+1959,Historical Emissions,2705.104,2217.74,2424.386,Crow,gdd
+1960,Historical Emissions,2702.297,2404.007,2493.765,Crow,gdd
+1961,Historical Emissions,2695.827,2340.788,2524.226,Crow,gdd
+1962,Historical Emissions,2651.083,2177.501,2441.368,Crow,gdd
+1963,Historical Emissions,2530.983,2163.856,2423.798,Crow,gdd
+1964,Historical Emissions,2650.942,2287.984,2452.965,Crow,gdd
+1965,Historical Emissions,2713.724,2167.5,2513.818,Crow,gdd
+1966,Historical Emissions,2661.555,2182.011,2400.894,Crow,gdd
+1967,Historical Emissions,2745.962,2310.09,2413.311,Crow,gdd
+1968,Historical Emissions,2560.686,2115.669,2334.836,Crow,gdd
+1969,Historical Emissions,2592.656,2213.876,2491.887,Crow,gdd
+1970,Historical Emissions,2601.423,2332.96,2533.983,Crow,gdd
+1971,Historical Emissions,2820.774,2365.264,2584.874,Crow,gdd
+1972,Historical Emissions,2717.988,2244.93,2428.051,Crow,gdd
+1973,Historical Emissions,2775.628,2169.872,2437.853,Crow,gdd
+1974,Historical Emissions,2628.466,2120.509,2527.383,Crow,gdd
+1975,Historical Emissions,2767.425,2372.456,2479.196,Crow,gdd
+1976,Historical Emissions,2609.842,2384.608,2494.762,Crow,gdd
+1977,Historical Emissions,2829.233,2382.717,2477.948,Crow,gdd
+1978,Historical Emissions,2753.23,2279.863,2516.449,Crow,gdd
+1979,Historical Emissions,2757.788,2246.716,2601.047,Crow,gdd
+1980,Historical Emissions,2833.796,2224.882,2452.228,Crow,gdd
+1981,Historical Emissions,2780.062,2295.294,2554.529,Crow,gdd
+1982,Historical Emissions,2729.178,2342.199,2649.718,Crow,gdd
+1983,Historical Emissions,2605.948,2288.604,2428.006,Crow,gdd
+1984,Historical Emissions,2760.947,2299.05,2507.92,Crow,gdd
+1985,Historical Emissions,2736.949,2429.046,2627.844,Crow,gdd
+1986,Historical Emissions,2583.98,2177.036,2430.426,Crow,gdd
+1987,Historical Emissions,2654.553,2201.113,2456.947,Crow,gdd
+1988,Historical Emissions,2644.029,2247.158,2487.207,Crow,gdd
+1989,Historical Emissions,2790.635,2365.585,2517.596,Crow,gdd
+1990,Historical Emissions,2977.791,2429.98,2693.453,Crow,gdd
+1991,Historical Emissions,2728.424,2352.898,2400.674,Crow,gdd
+1992,Historical Emissions,2507.778,2263.828,2363.771,Crow,gdd
+1993,Historical Emissions,2655.077,2336.082,2478.792,Crow,gdd
+1994,Historical Emissions,2904.559,2256.563,2551.952,Crow,gdd
+1995,Historical Emissions,2984.839,2419.896,2645.191,Crow,gdd
+1996,Historical Emissions,3063.199,2541.721,2881.453,Crow,gdd
+1997,Historical Emissions,2766.639,2463.828,2554.892,Crow,gdd
+1998,Historical Emissions,2906.496,2460.696,2675.95,Crow,gdd
+1999,Historical Emissions,2778.647,2380.837,2632.41,Crow,gdd
+2000,Historical Emissions,2841.276,2482.168,2713.982,Crow,gdd
+2001,Historical Emissions,2899.056,2407.306,2669.152,Crow,gdd
+2002,Historical Emissions,3105.697,2645.713,2801.925,Crow,gdd
+2003,Historical Emissions,2951.038,2506.771,2750.672,Crow,gdd
+2004,Historical Emissions,3079.101,2678.967,2805.832,Crow,gdd
+2005,Historical Emissions,3120.786,2633.048,2860.641,Crow,gdd
+2006,Historical Emissions,2993.045,2535.423,2731.946,Crow,gdd
+2007,Historical Emissions,2801.645,2647.727,2758.114,Crow,gdd
+2008,Historical Emissions,3065.283,2593.931,2730.48,Crow,gdd
+2009,Historical Emissions,2934.383,2540.865,2635.57,Crow,gdd
+2010,Historical Emissions,2982.358,2596.155,2741.525,Crow,gdd
+2011,Historical Emissions,3102.847,2665.783,2859.995,Crow,gdd
+2012,Historical Emissions,2952.993,2728.726,2883.441,Crow,gdd
+2013,Historical Emissions,3230.854,2707.961,3035.892,Crow,gdd
+2014,Historical Emissions,3256.766,2729.296,2912.487,Crow,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",3274.052,2777.197,2961.985,Crow,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",3131.873,2644.776,2929.433,Crow,gdd
+2015,"High Emissions
+(SSP3-7.0)",3136.915,2674.99,2952.194,Crow,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",3016.732,2554.509,2918.372,Crow,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",3155.614,2903.858,2971.753,Crow,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",3120.867,2632.704,2800.136,Crow,gdd
+2016,"High Emissions
+(SSP3-7.0)",3231.024,2627.851,2968.567,Crow,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",3050.038,2677.745,2942.405,Crow,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",3139.554,2699.849,2852.369,Crow,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",3155.832,2621.867,2997.766,Crow,gdd
+2017,"High Emissions
+(SSP3-7.0)",3044.124,2699.445,2914.22,Crow,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",3200.912,2773.747,2978.344,Crow,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",3055.164,2614.475,2805.08,Crow,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",3162.315,2688.892,2956.839,Crow,gdd
+2018,"High Emissions
+(SSP3-7.0)",2955.777,2482.037,2880.089,Crow,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",2973.203,2720.032,2910.326,Crow,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",3343.999,2810.119,2998.391,Crow,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",3219.414,2605.895,2876.201,Crow,gdd
+2019,"High Emissions
+(SSP3-7.0)",3282.273,2673.026,2824.356,Crow,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",3263.657,2679.528,2924.122,Crow,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",3180.549,2742.276,2839.057,Crow,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",3088.741,2697.435,2922.295,Crow,gdd
+2020,"High Emissions
+(SSP3-7.0)",3160.215,2606.189,2772.643,Crow,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",3141.437,2662.49,2955.724,Crow,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",3159.613,2778.677,2905.999,Crow,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",3353.878,2552.885,3030.542,Crow,gdd
+2021,"High Emissions
+(SSP3-7.0)",3212.015,2710.04,2941.689,Crow,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",3068.089,2778.224,2949.141,Crow,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",3156.306,2837.456,3069.684,Crow,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",3118.542,2789.175,2907.513,Crow,gdd
+2022,"High Emissions
+(SSP3-7.0)",3049.748,2594.016,2892.115,Crow,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",3317.197,2799.86,3161.011,Crow,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",3056.819,2804.127,2964.593,Crow,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",3392.4,2677.716,2960.303,Crow,gdd
+2023,"High Emissions
+(SSP3-7.0)",3294.895,2787.101,2909.603,Crow,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",3104.471,2547.643,2842.929,Crow,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",3224.019,2773.888,2928.244,Crow,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",3212.179,2726.588,3046.539,Crow,gdd
+2024,"High Emissions
+(SSP3-7.0)",3311.592,2722.177,3132.466,Crow,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",3263.835,2729.528,3051.05,Crow,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",3234.397,2847.205,3013.78,Crow,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",3232.771,2735.262,2850.62,Crow,gdd
+2025,"High Emissions
+(SSP3-7.0)",3259.865,2932.001,3094.473,Crow,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",3363.261,2750.49,3108.511,Crow,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",3263.838,2795.309,2950.145,Crow,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",3440.295,2801.447,3057.305,Crow,gdd
+2026,"High Emissions
+(SSP3-7.0)",3119.685,2813.907,2906.279,Crow,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",3254.66,2702.981,2929.456,Crow,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",3383.347,2692.135,2984.815,Crow,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",3332.301,2752.585,3025.74,Crow,gdd
+2027,"High Emissions
+(SSP3-7.0)",3299.663,2713.585,2994.227,Crow,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",3245.933,2841.62,3071.711,Crow,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",3108.663,2766.364,2931.295,Crow,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",3061.974,2689.084,2876.73,Crow,gdd
+2028,"High Emissions
+(SSP3-7.0)",3176.737,2845.451,2943.943,Crow,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",3137.309,2790.336,2973.818,Crow,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",3424.014,3032.35,3171.62,Crow,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",3237.498,2781.932,2948.685,Crow,gdd
+2029,"High Emissions
+(SSP3-7.0)",3281.446,2731.868,2912.513,Crow,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",3296.384,2904.354,3134.975,Crow,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",3354.149,2775.127,3065.77,Crow,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",3474.049,2770.372,3131.404,Crow,gdd
+2030,"High Emissions
+(SSP3-7.0)",3322.336,2683.235,3039.132,Crow,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",3443.001,2794.537,2998.334,Crow,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",3279.968,2886.134,3052.79,Crow,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",3377.423,2721.821,3025.306,Crow,gdd
+2031,"High Emissions
+(SSP3-7.0)",3389.022,2863.993,3141.815,Crow,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",3411.515,3099.156,3223.387,Crow,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",3305.358,2729.834,3101.584,Crow,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",3121.875,2717.268,2987.446,Crow,gdd
+2032,"High Emissions
+(SSP3-7.0)",3373.941,2717.775,3147.429,Crow,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",3360.95,2796.338,2979.119,Crow,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",3371.252,2858.107,3037.215,Crow,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",3498.321,2806.046,3206.463,Crow,gdd
+2033,"High Emissions
+(SSP3-7.0)",3212.885,2614.187,3047.069,Crow,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",3355.112,2927.621,3125.707,Crow,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",3200.609,2717.707,2968.588,Crow,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",3376.449,2770.045,2981.846,Crow,gdd
+2034,"High Emissions
+(SSP3-7.0)",3442.91,2715.962,3099.148,Crow,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",3492.442,2801.991,3110.919,Crow,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",3355.597,3007.32,3083.962,Crow,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",3507.415,2933.11,3116.237,Crow,gdd
+2035,"High Emissions
+(SSP3-7.0)",3224.919,2660.817,3096.857,Crow,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",3505.327,2979.089,3242.673,Crow,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",3296.367,2844.876,3007.684,Crow,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",3206.864,2724.894,3141.839,Crow,gdd
+2036,"High Emissions
+(SSP3-7.0)",3484.664,2859.921,3183.903,Crow,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",3328.594,2575.998,3228.6,Crow,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",3425.853,2896.593,3216.78,Crow,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",3467.622,2740.718,3010.743,Crow,gdd
+2037,"High Emissions
+(SSP3-7.0)",3225.724,2741.411,3012.348,Crow,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",3402.918,2809.419,3189.42,Crow,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",3387.897,2895.508,2986.041,Crow,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",3218.326,2881.54,2955.826,Crow,gdd
+2038,"High Emissions
+(SSP3-7.0)",3383.818,2888.246,3208.067,Crow,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",3750.988,2802.411,3265.844,Crow,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",3231.791,2664.699,3167.022,Crow,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",3205.081,2812.999,3029.179,Crow,gdd
+2039,"High Emissions
+(SSP3-7.0)",3409.682,3052.933,3172.873,Crow,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",3611.786,2658.908,3054.819,Crow,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",3343.427,2872.593,3160.91,Crow,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",3462.394,2789.436,3133.241,Crow,gdd
+2040,"High Emissions
+(SSP3-7.0)",3295.392,3010.68,3083.12,Crow,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",3672.434,2928.047,3344.875,Crow,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",3291.731,2763.236,3089.948,Crow,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",3331.674,2801.944,3148.326,Crow,gdd
+2041,"High Emissions
+(SSP3-7.0)",3402.728,2881.806,2974.975,Crow,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",3417.689,2922.053,3107.132,Crow,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",3519.649,2792.524,3117.84,Crow,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",3406.686,2698.191,3159.447,Crow,gdd
+2042,"High Emissions
+(SSP3-7.0)",3379.582,2929.918,3164.433,Crow,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",3716.48,3042.219,3277.013,Crow,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",3304.072,2934.309,3021.666,Crow,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",3365.268,2936.09,3090.384,Crow,gdd
+2043,"High Emissions
+(SSP3-7.0)",3309.645,2826.394,3086.657,Crow,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",3374.857,3031.197,3215.082,Crow,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",3354.367,2965.555,3159.267,Crow,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",3516.205,3035.367,3128.805,Crow,gdd
+2044,"High Emissions
+(SSP3-7.0)",3420.517,3035.949,3200.035,Crow,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",3505.793,3045.676,3208.1,Crow,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",3307.277,2819.066,3070.285,Crow,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",3434.154,2923.153,3211.927,Crow,gdd
+2045,"High Emissions
+(SSP3-7.0)",3496.494,2872.446,3195.029,Crow,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",3454.07,2959.727,3355.183,Crow,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",3642.066,2970.968,3263.549,Crow,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",3475.414,2862.872,3268.967,Crow,gdd
+2046,"High Emissions
+(SSP3-7.0)",3439.098,3133.217,3257.444,Crow,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",3511.182,2932.164,3145.188,Crow,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",3507.32,2935.205,3311.566,Crow,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",3418.343,2790.189,3129.84,Crow,gdd
+2047,"High Emissions
+(SSP3-7.0)",3343.627,3082.247,3175.05,Crow,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",3742.292,2935.105,3419.879,Crow,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",3299.929,3000.414,3173.561,Crow,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",3519.709,2831.259,3262.697,Crow,gdd
+2048,"High Emissions
+(SSP3-7.0)",3680.72,2917.349,3199.723,Crow,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",3875.827,2973.334,3505.818,Crow,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",3354.155,2860.968,3200.371,Crow,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",3481.744,2984.71,3301.345,Crow,gdd
+2049,"High Emissions
+(SSP3-7.0)",3407.025,3085.037,3160.208,Crow,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",3544.788,3052.524,3367.142,Crow,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",3413.397,2924.694,3109.864,Crow,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",3645.97,3068.448,3453.048,Crow,gdd
+2050,"High Emissions
+(SSP3-7.0)",3561.529,2988.971,3264.755,Crow,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",3585.552,3047.14,3376.718,Crow,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",3361.267,2842.35,3184.965,Crow,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",3513.255,3015.997,3252.607,Crow,gdd
+2051,"High Emissions
+(SSP3-7.0)",3517.096,3039.259,3372.058,Crow,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",3632.077,3110.322,3289.855,Crow,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",3277.096,3052.376,3098.447,Crow,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",3421.976,2886.4,3181.133,Crow,gdd
+2052,"High Emissions
+(SSP3-7.0)",3469.303,2874.942,3184.697,Crow,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",3595.955,3246.204,3344.888,Crow,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",3509.792,2832.071,3297.51,Crow,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",3457.831,2743.982,3310.614,Crow,gdd
+2053,"High Emissions
+(SSP3-7.0)",3700.83,3152.956,3321.039,Crow,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",3794.276,2963.832,3651.704,Crow,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",3510.372,3030.601,3313.145,Crow,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",3392.103,2846.272,3207.204,Crow,gdd
+2054,"High Emissions
+(SSP3-7.0)",3521.477,3004.154,3167.314,Crow,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",3712.604,3202.339,3518.189,Crow,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",3334.05,3115.347,3208.905,Crow,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",3498.083,2786.572,3145.249,Crow,gdd
+2055,"High Emissions
+(SSP3-7.0)",3590.143,3174.88,3429.63,Crow,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",3760.233,3084.071,3593.113,Crow,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",3364.722,3013.743,3217.938,Crow,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",3568.309,2970.746,3444.633,Crow,gdd
+2056,"High Emissions
+(SSP3-7.0)",3824.314,2944.691,3323.402,Crow,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",3627.082,3314.527,3492.704,Crow,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",3377.179,2908.04,3268.693,Crow,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",3585.897,3063.696,3397.802,Crow,gdd
+2057,"High Emissions
+(SSP3-7.0)",3667.991,3071.529,3201.875,Crow,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",3767.973,3086.809,3376.233,Crow,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",3258.351,2938.398,3157.52,Crow,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",3670.317,3081.213,3376.456,Crow,gdd
+2058,"High Emissions
+(SSP3-7.0)",3510.616,3026.433,3380.773,Crow,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",3627.728,3107.282,3417.032,Crow,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",3437.587,3013.163,3284.242,Crow,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",3661.784,3031.178,3308.79,Crow,gdd
+2059,"High Emissions
+(SSP3-7.0)",3757.034,3122.572,3463.956,Crow,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",3797.831,3392.501,3576.824,Crow,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",3242.664,3017.93,3162.472,Crow,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",3748.339,2981.869,3239.519,Crow,gdd
+2060,"High Emissions
+(SSP3-7.0)",3696.137,3136.59,3366.962,Crow,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",3675.037,3211.741,3514.391,Crow,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",3359.063,2809.33,3153.909,Crow,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",3736.427,2975.231,3168.818,Crow,gdd
+2061,"High Emissions
+(SSP3-7.0)",3627.744,3216.537,3385.121,Crow,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",3998.56,3459.629,3765.874,Crow,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",3495.7,2894.097,3188.328,Crow,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",3523.725,3107.132,3279.123,Crow,gdd
+2062,"High Emissions
+(SSP3-7.0)",3554.405,3224.622,3320.45,Crow,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",3878.431,3349.355,3627.923,Crow,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",3337.752,3025.13,3172.907,Crow,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",3440.389,2934.91,3134.33,Crow,gdd
+2063,"High Emissions
+(SSP3-7.0)",3736.755,3283.225,3478.3,Crow,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",3912.96,3405.694,3636.882,Crow,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",3653.081,2795.124,3141.82,Crow,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",3570.131,2901.602,3190.434,Crow,gdd
+2064,"High Emissions
+(SSP3-7.0)",3701.711,2965.6,3320.49,Crow,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",3763.486,3316.505,3655.018,Crow,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",3561.174,2802.138,2991.951,Crow,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",3546.182,2974.993,3229.388,Crow,gdd
+2065,"High Emissions
+(SSP3-7.0)",3724.188,3148.559,3602.67,Crow,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",4091.96,3494.201,3662.052,Crow,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",3534.481,3051.969,3168.247,Crow,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",3600.846,3136.711,3465.332,Crow,gdd
+2066,"High Emissions
+(SSP3-7.0)",3810.022,3288.153,3456.451,Crow,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",4043.243,3305.751,3759.172,Crow,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",3455.091,3030.805,3363.055,Crow,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",3615.338,3081.641,3366.601,Crow,gdd
+2067,"High Emissions
+(SSP3-7.0)",3959.603,3407.881,3500.177,Crow,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",4018.952,3327.565,3685.878,Crow,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",3600.081,3043.116,3160.374,Crow,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",3617.161,2973.547,3218.031,Crow,gdd
+2068,"High Emissions
+(SSP3-7.0)",3839.021,3229.721,3439.667,Crow,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",3985.851,3452.309,3701.167,Crow,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",3681.917,2915.883,3149.94,Crow,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",3678.411,2940.69,3348.788,Crow,gdd
+2069,"High Emissions
+(SSP3-7.0)",4009.23,3396.151,3670.229,Crow,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",4290.483,3337.626,3961,Crow,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",3440.479,2967.573,3198.37,Crow,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",3627.942,2927.994,3253.625,Crow,gdd
+2070,"High Emissions
+(SSP3-7.0)",4013.646,3538.904,3787.23,Crow,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",4159.466,3457.622,3659.567,Crow,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",3764.898,2958.563,3239.67,Crow,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",3438.373,3296.452,3375.78,Crow,gdd
+2071,"High Emissions
+(SSP3-7.0)",3867.192,3432.777,3678.072,Crow,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",4110.778,3528.074,3756.233,Crow,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",3559.718,3151.69,3322.401,Crow,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",3523.309,3154.734,3254.48,Crow,gdd
+2072,"High Emissions
+(SSP3-7.0)",3833.071,3178.907,3546.55,Crow,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",4166.98,3522.74,3654.375,Crow,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",3522.032,2964.915,3183.348,Crow,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",3631.768,2883.732,3325.325,Crow,gdd
+2073,"High Emissions
+(SSP3-7.0)",3739.898,3488.771,3618.824,Crow,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",4112.847,3259.182,3705.269,Crow,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",3516.387,2862.982,3150.157,Crow,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",3724.768,3065.01,3339.759,Crow,gdd
+2074,"High Emissions
+(SSP3-7.0)",3890.827,3255.322,3452.324,Crow,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",4260.761,3522.474,3801.772,Crow,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",3585.205,2809.666,3294.57,Crow,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",3661.011,2918.313,3304.741,Crow,gdd
+2075,"High Emissions
+(SSP3-7.0)",3978.542,3229.579,3461.024,Crow,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",4093.387,3511.02,3865.826,Crow,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",3424.596,2835.745,3060.898,Crow,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",3476.676,3033.068,3245.451,Crow,gdd
+2076,"High Emissions
+(SSP3-7.0)",4057.497,3502.277,3742.649,Crow,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",4352.12,3420.861,3965.308,Crow,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",3586.423,3029.202,3207.999,Crow,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",3802.08,3208.946,3463.587,Crow,gdd
+2077,"High Emissions
+(SSP3-7.0)",3911.94,3375.766,3649.474,Crow,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",4222.967,3719.444,4032.923,Crow,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",3557.647,3137.483,3303.403,Crow,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",3678.035,3114.04,3513.783,Crow,gdd
+2078,"High Emissions
+(SSP3-7.0)",3997.092,3286.407,3726.164,Crow,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",3959.966,3560.009,3753.34,Crow,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",3427.795,3035.347,3282.977,Crow,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",3736.806,3222.189,3340.16,Crow,gdd
+2079,"High Emissions
+(SSP3-7.0)",3835.966,3215.2,3482.435,Crow,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",4270.41,3502.438,3969.493,Crow,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",3290.761,2725.009,3059.929,Crow,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",3613.352,3055.439,3526.727,Crow,gdd
+2080,"High Emissions
+(SSP3-7.0)",4018.48,3390.33,3619.407,Crow,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",4203.146,3779.866,4037.626,Crow,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",3456.528,2694.643,3191.572,Crow,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",3733.854,3097.142,3402.385,Crow,gdd
+2081,"High Emissions
+(SSP3-7.0)",4210.847,3197.839,3524.012,Crow,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",4301.697,3635.011,3964.409,Crow,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",3525.571,3064.527,3319.89,Crow,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",3766.052,3068.235,3388.782,Crow,gdd
+2082,"High Emissions
+(SSP3-7.0)",4140.171,3221.29,3613.33,Crow,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",4313.745,3794.767,4181.417,Crow,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",3518.295,3091.77,3431.749,Crow,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",3608.71,3187.782,3413.555,Crow,gdd
+2083,"High Emissions
+(SSP3-7.0)",4059.009,3281.55,3696.008,Crow,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",4387.581,3678.091,4144.33,Crow,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",3607.461,2761.298,3031.118,Crow,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",3975.761,3219.156,3636.015,Crow,gdd
+2084,"High Emissions
+(SSP3-7.0)",4259.418,3516.231,3930.869,Crow,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",4513.51,3694.943,4059.829,Crow,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",3396.354,2905.605,3097.415,Crow,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",3817.583,3064.848,3399.488,Crow,gdd
+2085,"High Emissions
+(SSP3-7.0)",4076.642,3453.334,3704.644,Crow,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",4356.589,3394.128,4124.879,Crow,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",3408.444,3146.08,3234.963,Crow,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",3621.003,3294.697,3563.853,Crow,gdd
+2086,"High Emissions
+(SSP3-7.0)",4179.116,3399.564,3757.407,Crow,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",4398.296,3678.63,4324.541,Crow,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",3299.13,2862.586,3053.283,Crow,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",3789.946,3346.151,3612.304,Crow,gdd
+2087,"High Emissions
+(SSP3-7.0)",4266.616,3407.947,3719.852,Crow,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",4542.907,3629.147,3794.128,Crow,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",3449.916,2951.659,3113.144,Crow,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",3784.779,3309.602,3536.383,Crow,gdd
+2088,"High Emissions
+(SSP3-7.0)",4338.843,3550.621,3772.473,Crow,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",4474.446,3790.426,4231.335,Crow,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",3466.364,2972.275,3092.183,Crow,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",3807.141,3034.723,3436.977,Crow,gdd
+2089,"High Emissions
+(SSP3-7.0)",4274.711,3453.95,3984.694,Crow,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",4491.721,3965.953,4268.017,Crow,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",3384.457,3053.03,3195.421,Crow,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",3659.067,3054.1,3498.395,Crow,gdd
+2090,"High Emissions
+(SSP3-7.0)",4274.91,3724.673,3949.554,Crow,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",4616.324,4001.357,4221.132,Crow,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",3554.63,2882.479,3110.951,Crow,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",3686.141,3191.66,3500.637,Crow,gdd
+2091,"High Emissions
+(SSP3-7.0)",4248.743,3861.301,4066.168,Crow,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",4707.913,3727.631,4132.31,Crow,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",3558.615,2925.829,3344.019,Crow,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",3932.798,3171.2,3777.807,Crow,gdd
+2092,"High Emissions
+(SSP3-7.0)",4257.704,3734.86,3922.893,Crow,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",4642.575,3718.931,4270.582,Crow,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",3521.118,2944.138,3225.27,Crow,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",3743.176,3092.817,3582.371,Crow,gdd
+2093,"High Emissions
+(SSP3-7.0)",4460.075,3589.577,3724.787,Crow,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",4783.795,3978.514,4234.92,Crow,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",3443.37,2850.739,3050.791,Crow,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",3951.398,3006.117,3718.652,Crow,gdd
+2094,"High Emissions
+(SSP3-7.0)",4453.518,3735.064,3872.226,Crow,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",4834.537,3833.054,4160.864,Crow,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",3454.769,3032.794,3314.281,Crow,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",3928.426,3430.887,3665.268,Crow,gdd
+2095,"High Emissions
+(SSP3-7.0)",4432.52,3730.249,4089.613,Crow,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",4647.3,3844.339,4153.015,Crow,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",3401.675,2906.963,3216.738,Crow,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",3795.975,3423.051,3677.868,Crow,gdd
+2096,"High Emissions
+(SSP3-7.0)",4405.182,3739.908,4063.602,Crow,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",4744.866,3966.032,4499.47,Crow,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",3560.786,2836.518,3050.984,Crow,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",3980.907,3199.875,3524.937,Crow,gdd
+2097,"High Emissions
+(SSP3-7.0)",4685.853,3536.989,4098.643,Crow,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",5172.735,3897.243,4234.52,Crow,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",3414.602,2925.175,3123.69,Crow,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",3703.449,3160.95,3480.676,Crow,gdd
+2098,"High Emissions
+(SSP3-7.0)",4318.251,3616.026,3949.64,Crow,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",4747.948,4010.388,4302.453,Crow,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",3502.636,2750.811,3284.759,Crow,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",3821.408,3127.091,3544.383,Crow,gdd
+2099,"High Emissions
+(SSP3-7.0)",4544.845,3677.471,4015.219,Crow,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",4814.027,3943.379,4531.733,Crow,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",3476.427,2709.615,3084.103,Crow,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",3869.637,3212.365,3602.271,Crow,gdd
+2100,"High Emissions
+(SSP3-7.0)",4197.11,3652.983,3996.709,Crow,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",4801.075,3942.454,4203.789,Crow,gdd

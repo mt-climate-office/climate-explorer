@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,24.612,22.694,23.741,St. Marys,tasmin
+1951,Historical Emissions,24.76,22.26,23.824,St. Marys,tasmin
+1952,Historical Emissions,24.877,20.103,23.699,St. Marys,tasmin
+1953,Historical Emissions,23.992,21.163,23.027,St. Marys,tasmin
+1954,Historical Emissions,26.111,21.19,22.155,St. Marys,tasmin
+1955,Historical Emissions,25.331,21.659,24.143,St. Marys,tasmin
+1956,Historical Emissions,24.647,22.755,24.118,St. Marys,tasmin
+1957,Historical Emissions,25.308,22.41,24.877,St. Marys,tasmin
+1958,Historical Emissions,24.941,22.425,23.592,St. Marys,tasmin
+1959,Historical Emissions,23.957,21.106,22.158,St. Marys,tasmin
+1960,Historical Emissions,24.634,19.982,22.259,St. Marys,tasmin
+1961,Historical Emissions,25.161,22.403,23.93,St. Marys,tasmin
+1962,Historical Emissions,24.065,21.496,22.672,St. Marys,tasmin
+1963,Historical Emissions,23.807,22.543,23.027,St. Marys,tasmin
+1964,Historical Emissions,24.92,21.969,23.265,St. Marys,tasmin
+1965,Historical Emissions,24.343,22.117,23.427,St. Marys,tasmin
+1966,Historical Emissions,25.117,22.135,23.551,St. Marys,tasmin
+1967,Historical Emissions,24.229,21.258,23.664,St. Marys,tasmin
+1968,Historical Emissions,24.544,20.184,23.03,St. Marys,tasmin
+1969,Historical Emissions,24.575,21.88,24.129,St. Marys,tasmin
+1970,Historical Emissions,25.616,23.729,24.009,St. Marys,tasmin
+1971,Historical Emissions,26.878,22.825,25.047,St. Marys,tasmin
+1972,Historical Emissions,24.572,22.059,23.274,St. Marys,tasmin
+1973,Historical Emissions,24.783,21.757,23.321,St. Marys,tasmin
+1974,Historical Emissions,25.111,21.069,24.349,St. Marys,tasmin
+1975,Historical Emissions,24.517,21.195,24.098,St. Marys,tasmin
+1976,Historical Emissions,24.718,21.502,23.841,St. Marys,tasmin
+1977,Historical Emissions,26.68,23.539,24.607,St. Marys,tasmin
+1978,Historical Emissions,26.732,22.153,23.694,St. Marys,tasmin
+1979,Historical Emissions,25.758,22.583,24.59,St. Marys,tasmin
+1980,Historical Emissions,24.186,22.584,23.769,St. Marys,tasmin
+1981,Historical Emissions,26.173,23.49,24.569,St. Marys,tasmin
+1982,Historical Emissions,25.949,22.327,24.284,St. Marys,tasmin
+1983,Historical Emissions,26.262,22.644,23.054,St. Marys,tasmin
+1984,Historical Emissions,25.147,23.539,24.283,St. Marys,tasmin
+1985,Historical Emissions,25.411,22.505,24.367,St. Marys,tasmin
+1986,Historical Emissions,25.054,21.936,23.352,St. Marys,tasmin
+1987,Historical Emissions,25.398,20.22,23.149,St. Marys,tasmin
+1988,Historical Emissions,25.175,22.232,23.507,St. Marys,tasmin
+1989,Historical Emissions,25.135,23.365,23.804,St. Marys,tasmin
+1990,Historical Emissions,26.457,22.848,25.627,St. Marys,tasmin
+1991,Historical Emissions,25.677,21.721,23.568,St. Marys,tasmin
+1992,Historical Emissions,25.554,21.938,23.048,St. Marys,tasmin
+1993,Historical Emissions,26.699,21.907,23.674,St. Marys,tasmin
+1994,Historical Emissions,25.901,23.032,24.595,St. Marys,tasmin
+1995,Historical Emissions,24.551,22.337,23.069,St. Marys,tasmin
+1996,Historical Emissions,26.083,22.067,25.095,St. Marys,tasmin
+1997,Historical Emissions,25.273,22.742,24.322,St. Marys,tasmin
+1998,Historical Emissions,26.532,21.9,24.63,St. Marys,tasmin
+1999,Historical Emissions,26.165,22.598,25.236,St. Marys,tasmin
+2000,Historical Emissions,25.516,23.398,24.236,St. Marys,tasmin
+2001,Historical Emissions,26.08,23.065,25.083,St. Marys,tasmin
+2002,Historical Emissions,27.567,23.856,24.54,St. Marys,tasmin
+2003,Historical Emissions,26.944,24.667,24.889,St. Marys,tasmin
+2004,Historical Emissions,26.847,24.426,26.021,St. Marys,tasmin
+2005,Historical Emissions,28.484,23.767,26.513,St. Marys,tasmin
+2006,Historical Emissions,26.47,22.575,23.814,St. Marys,tasmin
+2007,Historical Emissions,27.049,24.109,25.907,St. Marys,tasmin
+2008,Historical Emissions,27.045,24.08,25.796,St. Marys,tasmin
+2009,Historical Emissions,25.886,24.544,25.298,St. Marys,tasmin
+2010,Historical Emissions,26.704,23.843,25.74,St. Marys,tasmin
+2011,Historical Emissions,28.147,25.041,25.592,St. Marys,tasmin
+2012,Historical Emissions,26.667,23.751,25.392,St. Marys,tasmin
+2013,Historical Emissions,27.511,22.544,25.016,St. Marys,tasmin
+2014,Historical Emissions,26.97,24.764,26.302,St. Marys,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",27.947,23.932,26.06,St. Marys,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",27.163,23.539,25.331,St. Marys,tasmin
+2015,"High Emissions
+(SSP3-7.0)",27.119,23.843,25.519,St. Marys,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",26.527,24.372,25.543,St. Marys,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",27.316,24.491,26.36,St. Marys,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",27.018,24.233,25.465,St. Marys,tasmin
+2016,"High Emissions
+(SSP3-7.0)",29.512,24.104,25.453,St. Marys,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",26.823,24.797,25.825,St. Marys,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",27.658,24.227,25.656,St. Marys,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",28.141,24.155,25.379,St. Marys,tasmin
+2017,"High Emissions
+(SSP3-7.0)",28.705,25.252,25.595,St. Marys,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",27.877,24.556,26.29,St. Marys,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",27.018,24.618,25.876,St. Marys,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",27.843,24.91,25.629,St. Marys,tasmin
+2018,"High Emissions
+(SSP3-7.0)",28.841,24.489,25.575,St. Marys,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",28.299,24.842,26.357,St. Marys,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",28.299,25.364,27.489,St. Marys,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",27.518,22.916,25.421,St. Marys,tasmin
+2019,"High Emissions
+(SSP3-7.0)",27.663,23.842,25.55,St. Marys,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",28.54,25.666,26.54,St. Marys,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",28.301,24.749,27.67,St. Marys,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",27.959,24.387,25.681,St. Marys,tasmin
+2020,"High Emissions
+(SSP3-7.0)",27.644,24.746,26.123,St. Marys,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",27.855,25.361,26.161,St. Marys,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",28.367,24.024,27.081,St. Marys,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",27.34,25,26.589,St. Marys,tasmin
+2021,"High Emissions
+(SSP3-7.0)",27.587,24.918,27.117,St. Marys,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",28.557,24.157,27.506,St. Marys,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",28.313,24.415,26.213,St. Marys,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",28.028,24.891,26.922,St. Marys,tasmin
+2022,"High Emissions
+(SSP3-7.0)",28.424,26.204,26.639,St. Marys,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",28.206,24.973,26.8,St. Marys,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",27.697,26.003,26.721,St. Marys,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",28.289,25.891,26.835,St. Marys,tasmin
+2023,"High Emissions
+(SSP3-7.0)",28.623,24.876,27.252,St. Marys,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",27.037,24.197,25.448,St. Marys,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",28.622,24.71,26.578,St. Marys,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",27.51,25.464,26.039,St. Marys,tasmin
+2024,"High Emissions
+(SSP3-7.0)",30.299,24.478,26.349,St. Marys,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",29.751,24.539,26.175,St. Marys,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",28.33,25.546,27.162,St. Marys,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",28.952,24.94,26.621,St. Marys,tasmin
+2025,"High Emissions
+(SSP3-7.0)",28.716,25.706,27.249,St. Marys,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",29.647,25.768,27.21,St. Marys,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",28.35,24.996,26.627,St. Marys,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",27.932,25.256,26.891,St. Marys,tasmin
+2026,"High Emissions
+(SSP3-7.0)",28.96,23.538,27.408,St. Marys,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",28.799,25.086,27.043,St. Marys,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",29.138,24.835,26.128,St. Marys,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",28.647,25.205,27.642,St. Marys,tasmin
+2027,"High Emissions
+(SSP3-7.0)",28.748,25.734,26.861,St. Marys,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",28.039,25.743,26.678,St. Marys,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",29.482,25.448,27.528,St. Marys,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",29.68,23.512,27.75,St. Marys,tasmin
+2028,"High Emissions
+(SSP3-7.0)",27.689,26.125,26.984,St. Marys,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",29.282,26.521,27.65,St. Marys,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",30.185,25.888,27.902,St. Marys,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",28.657,25.065,27.499,St. Marys,tasmin
+2029,"High Emissions
+(SSP3-7.0)",28.535,24.631,27.317,St. Marys,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",28.516,25.739,27.469,St. Marys,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",30.242,24.982,26.995,St. Marys,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",29.322,25.798,27.312,St. Marys,tasmin
+2030,"High Emissions
+(SSP3-7.0)",28.451,24.921,27.315,St. Marys,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",29.879,25.59,27.339,St. Marys,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",27.818,25.13,26.429,St. Marys,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",30.159,25.414,27.821,St. Marys,tasmin
+2031,"High Emissions
+(SSP3-7.0)",29.617,25.64,28.041,St. Marys,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",29.229,27.44,27.954,St. Marys,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",28.368,25.837,26.499,St. Marys,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",27.881,25.28,26.446,St. Marys,tasmin
+2032,"High Emissions
+(SSP3-7.0)",28.941,25.298,26.721,St. Marys,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",29.83,25.232,26.989,St. Marys,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",29.057,25.956,27.725,St. Marys,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",28.716,25.101,27.811,St. Marys,tasmin
+2033,"High Emissions
+(SSP3-7.0)",29.713,25.571,27.278,St. Marys,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",28.476,25.833,27.607,St. Marys,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",28.278,25.25,27.323,St. Marys,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",29.415,26.653,27.318,St. Marys,tasmin
+2034,"High Emissions
+(SSP3-7.0)",28.846,26.557,28.186,St. Marys,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",29.3,24.453,28.02,St. Marys,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",28.499,24.647,27.151,St. Marys,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",28.95,25.675,27.252,St. Marys,tasmin
+2035,"High Emissions
+(SSP3-7.0)",28.645,25.653,27.615,St. Marys,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",30.15,25.192,27.547,St. Marys,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",29.172,26.904,28.11,St. Marys,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",28.378,26.069,27.15,St. Marys,tasmin
+2036,"High Emissions
+(SSP3-7.0)",29.418,25.679,27.203,St. Marys,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",29.987,26.627,29.291,St. Marys,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",30.045,26.936,28.757,St. Marys,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",29.934,24.84,27.475,St. Marys,tasmin
+2037,"High Emissions
+(SSP3-7.0)",29.105,25.077,27.51,St. Marys,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",29.219,26.239,27.944,St. Marys,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",30.296,27.024,28.406,St. Marys,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",28.529,26.037,27.775,St. Marys,tasmin
+2038,"High Emissions
+(SSP3-7.0)",30.17,26.335,27.702,St. Marys,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",30.238,26.447,29.205,St. Marys,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",30.239,26.973,27.968,St. Marys,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",29.38,26.431,27.659,St. Marys,tasmin
+2039,"High Emissions
+(SSP3-7.0)",30.3,27.519,28.215,St. Marys,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",31.772,26.026,29.369,St. Marys,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",29.162,26.194,26.938,St. Marys,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",28.488,26.483,27.699,St. Marys,tasmin
+2040,"High Emissions
+(SSP3-7.0)",29.751,26.553,28.746,St. Marys,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",31.199,27.964,29.051,St. Marys,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",29.457,24.976,27.301,St. Marys,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",28.779,26.768,28.17,St. Marys,tasmin
+2041,"High Emissions
+(SSP3-7.0)",29.173,26.294,27.451,St. Marys,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",29.398,27.634,28.44,St. Marys,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",29.911,27.235,28.882,St. Marys,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",28.879,24.185,26.122,St. Marys,tasmin
+2042,"High Emissions
+(SSP3-7.0)",29.551,26.556,28.601,St. Marys,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",30.044,27.923,28.68,St. Marys,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",29.419,26.686,27.511,St. Marys,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",29.923,25.272,27.806,St. Marys,tasmin
+2043,"High Emissions
+(SSP3-7.0)",29.433,26.336,28.238,St. Marys,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",29.838,27.741,28.685,St. Marys,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",29.717,26.711,27.735,St. Marys,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",30.288,26.699,28.293,St. Marys,tasmin
+2044,"High Emissions
+(SSP3-7.0)",29.527,26.581,27.9,St. Marys,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",31.728,26.955,28.084,St. Marys,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",29.432,27.351,28.598,St. Marys,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",32.126,25.49,29.104,St. Marys,tasmin
+2045,"High Emissions
+(SSP3-7.0)",30.324,25.938,27.164,St. Marys,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",29.32,27.206,28.239,St. Marys,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",30.85,24.826,28.586,St. Marys,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",30.062,26.055,27.953,St. Marys,tasmin
+2046,"High Emissions
+(SSP3-7.0)",30.738,27.61,28.935,St. Marys,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",30.909,26.049,28.179,St. Marys,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",29.247,26.72,27.951,St. Marys,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",29.763,24.336,28.994,St. Marys,tasmin
+2047,"High Emissions
+(SSP3-7.0)",29.728,25.949,27.866,St. Marys,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",31.325,26.584,28.809,St. Marys,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",29.156,26.424,27.865,St. Marys,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",30.804,25.987,28.627,St. Marys,tasmin
+2048,"High Emissions
+(SSP3-7.0)",30.398,26.388,29.233,St. Marys,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",31.5,28.324,30.085,St. Marys,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",30.006,24.877,27.621,St. Marys,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",30.821,27.307,28.091,St. Marys,tasmin
+2049,"High Emissions
+(SSP3-7.0)",30.63,27.187,30.085,St. Marys,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",30.165,28.275,29.888,St. Marys,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",29.718,25.279,28.829,St. Marys,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",30.886,27.002,29.034,St. Marys,tasmin
+2050,"High Emissions
+(SSP3-7.0)",31.647,27.617,28.709,St. Marys,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",30.672,28.023,29.993,St. Marys,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",30.437,26.231,29.102,St. Marys,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",30.315,27.602,29.025,St. Marys,tasmin
+2051,"High Emissions
+(SSP3-7.0)",30.87,27.725,29.201,St. Marys,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",31.062,27.766,28.828,St. Marys,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",30.084,27.683,28.675,St. Marys,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",30.087,26.912,28.775,St. Marys,tasmin
+2052,"High Emissions
+(SSP3-7.0)",30.189,27.213,29.02,St. Marys,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",30.152,28.816,29.529,St. Marys,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",29.591,25.813,27.67,St. Marys,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",29.671,27.497,28.24,St. Marys,tasmin
+2053,"High Emissions
+(SSP3-7.0)",31.881,28.125,30.059,St. Marys,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",31.693,28.088,29.512,St. Marys,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",29.41,27.493,28.745,St. Marys,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",29.808,26.462,27.68,St. Marys,tasmin
+2054,"High Emissions
+(SSP3-7.0)",30.923,27.626,28.899,St. Marys,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",32.144,28.534,30.051,St. Marys,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",30.301,26.579,28.032,St. Marys,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",29.565,26.92,28.437,St. Marys,tasmin
+2055,"High Emissions
+(SSP3-7.0)",30.725,26.865,29.091,St. Marys,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",31.819,29.101,30.144,St. Marys,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",30.747,27.075,28.935,St. Marys,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",31.254,27.015,28.246,St. Marys,tasmin
+2056,"High Emissions
+(SSP3-7.0)",32.261,26.993,29.591,St. Marys,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",32.568,28.887,31.106,St. Marys,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",29.485,25.914,27.716,St. Marys,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",30.428,27.219,29.003,St. Marys,tasmin
+2057,"High Emissions
+(SSP3-7.0)",31.776,27.812,28.832,St. Marys,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",32.022,27.413,30.692,St. Marys,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",29.931,25.225,27.926,St. Marys,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",32.267,26.996,28.967,St. Marys,tasmin
+2058,"High Emissions
+(SSP3-7.0)",30.189,28.233,29.722,St. Marys,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",31.25,27.07,30.11,St. Marys,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",29.536,26.094,27.986,St. Marys,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",32.435,27.994,29.672,St. Marys,tasmin
+2059,"High Emissions
+(SSP3-7.0)",32.256,28.074,31.292,St. Marys,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",32.603,29.063,31.909,St. Marys,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",30.904,25.464,28.119,St. Marys,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",31.071,27.697,28.747,St. Marys,tasmin
+2060,"High Emissions
+(SSP3-7.0)",31.441,28.55,30.186,St. Marys,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",33.025,28.612,30.958,St. Marys,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",29.579,27.135,27.976,St. Marys,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",31.257,26.981,28.497,St. Marys,tasmin
+2061,"High Emissions
+(SSP3-7.0)",31.414,27.914,30.067,St. Marys,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",32.43,29.326,30.594,St. Marys,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",29.124,27.032,28.329,St. Marys,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",32.052,26.756,28.739,St. Marys,tasmin
+2062,"High Emissions
+(SSP3-7.0)",31.072,27.397,30.499,St. Marys,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",33.037,29.485,30.503,St. Marys,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",29.214,26.131,28.007,St. Marys,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",30.533,27.707,29.629,St. Marys,tasmin
+2063,"High Emissions
+(SSP3-7.0)",31.06,28.466,28.952,St. Marys,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",31.719,28.237,30.932,St. Marys,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",30.991,27.935,28.795,St. Marys,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",29.507,26.77,28.886,St. Marys,tasmin
+2064,"High Emissions
+(SSP3-7.0)",30.383,29.223,30.006,St. Marys,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",32.175,29.41,30.045,St. Marys,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",31.047,25.252,27.563,St. Marys,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",31.386,26.714,29.6,St. Marys,tasmin
+2065,"High Emissions
+(SSP3-7.0)",31.241,28.319,29.273,St. Marys,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",33.933,29.285,32.156,St. Marys,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",31.291,26.127,28.866,St. Marys,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",31.447,28.919,30.461,St. Marys,tasmin
+2066,"High Emissions
+(SSP3-7.0)",32.375,26.637,29.56,St. Marys,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",32.302,29.308,30.574,St. Marys,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",30.609,27.858,29.389,St. Marys,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",31.13,27.98,28.706,St. Marys,tasmin
+2067,"High Emissions
+(SSP3-7.0)",32.512,29.45,31.136,St. Marys,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",33.951,29.291,30.88,St. Marys,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",31.099,26.673,28.204,St. Marys,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",30.483,28.458,28.916,St. Marys,tasmin
+2068,"High Emissions
+(SSP3-7.0)",32.215,28.513,28.932,St. Marys,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",34.151,30.6,30.948,St. Marys,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",30.67,27.437,29.124,St. Marys,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",30.549,27.1,29.25,St. Marys,tasmin
+2069,"High Emissions
+(SSP3-7.0)",33.203,29.259,31.236,St. Marys,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",35.091,30.311,31.681,St. Marys,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",29.233,26.809,28.078,St. Marys,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",31.377,27.298,29.416,St. Marys,tasmin
+2070,"High Emissions
+(SSP3-7.0)",32.986,29.45,30.973,St. Marys,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",34.836,29.894,31.896,St. Marys,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",31.093,25.474,28.487,St. Marys,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",31.159,28.216,29.586,St. Marys,tasmin
+2071,"High Emissions
+(SSP3-7.0)",33.001,29.499,30.804,St. Marys,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",33.799,29.69,30.876,St. Marys,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",29.951,26.529,28.385,St. Marys,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",32.357,27.204,29.085,St. Marys,tasmin
+2072,"High Emissions
+(SSP3-7.0)",32.205,29.374,31.478,St. Marys,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",33.233,30.726,31.476,St. Marys,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",29.915,26.312,27.613,St. Marys,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",31.71,28.13,29.612,St. Marys,tasmin
+2073,"High Emissions
+(SSP3-7.0)",33.392,29.368,31.182,St. Marys,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",33.933,29.824,32.491,St. Marys,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",31.565,26.141,28.807,St. Marys,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",31.24,28.436,29.838,St. Marys,tasmin
+2074,"High Emissions
+(SSP3-7.0)",32.295,28.856,30.63,St. Marys,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",33.989,30.136,31.137,St. Marys,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",30.405,25.555,27.398,St. Marys,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",32.457,27.409,28.872,St. Marys,tasmin
+2075,"High Emissions
+(SSP3-7.0)",32.651,29.041,30.124,St. Marys,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",34.329,29.741,33.269,St. Marys,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",29.906,25.825,27.167,St. Marys,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",30.371,28.673,29.976,St. Marys,tasmin
+2076,"High Emissions
+(SSP3-7.0)",32.621,30.136,30.789,St. Marys,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",34.304,30.215,30.954,St. Marys,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",30.781,26.517,28.084,St. Marys,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",32.477,28.794,29.564,St. Marys,tasmin
+2077,"High Emissions
+(SSP3-7.0)",33.799,29.568,31.166,St. Marys,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",34.378,30.261,32.199,St. Marys,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",30.371,27.314,28.444,St. Marys,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",30.992,28.713,29.776,St. Marys,tasmin
+2078,"High Emissions
+(SSP3-7.0)",33.217,29.517,31.605,St. Marys,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",33.137,30.715,31.438,St. Marys,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",29.607,26.197,28.83,St. Marys,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",32.076,29.115,29.611,St. Marys,tasmin
+2079,"High Emissions
+(SSP3-7.0)",33.99,29.411,31.729,St. Marys,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",34.221,30.741,32.143,St. Marys,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",28.788,25.85,28.018,St. Marys,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",31.829,28.298,29.294,St. Marys,tasmin
+2080,"High Emissions
+(SSP3-7.0)",34.115,30.451,31.206,St. Marys,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",35.664,32.176,33.482,St. Marys,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",29.981,25.717,27.818,St. Marys,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",32.044,28.743,29.683,St. Marys,tasmin
+2081,"High Emissions
+(SSP3-7.0)",34.65,30.277,30.634,St. Marys,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",37.173,32.961,34.047,St. Marys,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",29.949,26.45,28.779,St. Marys,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",32.705,29.301,30.758,St. Marys,tasmin
+2082,"High Emissions
+(SSP3-7.0)",33.999,29.551,30.432,St. Marys,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",36.201,30.822,34.511,St. Marys,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",30.349,26.411,28.548,St. Marys,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",31.977,27.679,29.555,St. Marys,tasmin
+2083,"High Emissions
+(SSP3-7.0)",34.602,28.545,32.513,St. Marys,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",35.874,32.119,34.343,St. Marys,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",30.427,26.147,28.689,St. Marys,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",32.285,28.108,31.126,St. Marys,tasmin
+2084,"High Emissions
+(SSP3-7.0)",35.136,30.333,33.062,St. Marys,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",35.84,32.343,33.932,St. Marys,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",29.627,26.051,28.826,St. Marys,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",31.214,26.973,30.318,St. Marys,tasmin
+2085,"High Emissions
+(SSP3-7.0)",33.406,30.355,31.297,St. Marys,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",36.382,32.591,34.34,St. Marys,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",31.295,27.847,29.304,St. Marys,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",31.812,29.515,30.68,St. Marys,tasmin
+2086,"High Emissions
+(SSP3-7.0)",34.77,29.619,33.103,St. Marys,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",37.151,32.728,35.157,St. Marys,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",28.883,26.51,27.762,St. Marys,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",32.738,28.278,31.549,St. Marys,tasmin
+2087,"High Emissions
+(SSP3-7.0)",35.051,30.704,32.548,St. Marys,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",35.905,32.458,34.583,St. Marys,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",31.296,25.988,28.446,St. Marys,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",31.591,29.226,29.795,St. Marys,tasmin
+2088,"High Emissions
+(SSP3-7.0)",35.363,30.932,31.781,St. Marys,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",36.128,33.147,33.773,St. Marys,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",29.684,26.214,27.982,St. Marys,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",32.846,28.59,29.964,St. Marys,tasmin
+2089,"High Emissions
+(SSP3-7.0)",34.673,30.962,32.477,St. Marys,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",38.003,33.039,35.63,St. Marys,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",30.506,27.062,29.045,St. Marys,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",31.716,28.62,31.115,St. Marys,tasmin
+2090,"High Emissions
+(SSP3-7.0)",34.706,30.468,32.127,St. Marys,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",38.068,33.55,34.565,St. Marys,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",29.83,27.364,28.373,St. Marys,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",31.729,27.816,30.553,St. Marys,tasmin
+2091,"High Emissions
+(SSP3-7.0)",36.148,30.399,32.856,St. Marys,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",36.357,31.878,34.27,St. Marys,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",30.92,25.741,29.531,St. Marys,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",33.27,29.257,30.48,St. Marys,tasmin
+2092,"High Emissions
+(SSP3-7.0)",35.258,29.616,33.077,St. Marys,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",36.657,32.615,33.929,St. Marys,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",29.852,25.854,28,St. Marys,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",32.699,27.902,30.461,St. Marys,tasmin
+2093,"High Emissions
+(SSP3-7.0)",35.599,30.892,33.418,St. Marys,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",38.087,33.117,34.806,St. Marys,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",30.607,24.984,28.577,St. Marys,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",32.645,28.27,29.696,St. Marys,tasmin
+2094,"High Emissions
+(SSP3-7.0)",35.803,31.19,33.635,St. Marys,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",38.417,33.596,35.763,St. Marys,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",29.498,26.991,28.694,St. Marys,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",33.917,28.86,31.898,St. Marys,tasmin
+2095,"High Emissions
+(SSP3-7.0)",36.441,31.192,34.142,St. Marys,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",37.513,32.867,34.116,St. Marys,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",30.045,25.768,28.448,St. Marys,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",32.454,29.921,31.444,St. Marys,tasmin
+2096,"High Emissions
+(SSP3-7.0)",35.039,31.887,33.669,St. Marys,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",36.903,32.195,35.003,St. Marys,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",30.113,25.36,27.453,St. Marys,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",32.73,30.021,30.729,St. Marys,tasmin
+2097,"High Emissions
+(SSP3-7.0)",35.931,31.431,33.455,St. Marys,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",40.754,32.283,36.305,St. Marys,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",29.181,25.576,27.642,St. Marys,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",31.501,28.317,30.161,St. Marys,tasmin
+2098,"High Emissions
+(SSP3-7.0)",37.328,31.656,33.174,St. Marys,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",38.159,33.191,35.774,St. Marys,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",31.365,26.471,28.491,St. Marys,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",33.086,28.075,29.298,St. Marys,tasmin
+2099,"High Emissions
+(SSP3-7.0)",37.778,30.751,32.767,St. Marys,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",39.004,32.821,36.971,St. Marys,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",30.742,25.522,27.514,St. Marys,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",34.019,28.754,31.528,St. Marys,tasmin
+2100,"High Emissions
+(SSP3-7.0)",36.078,31.752,33.571,St. Marys,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",38.439,32.715,35.525,St. Marys,tasmin

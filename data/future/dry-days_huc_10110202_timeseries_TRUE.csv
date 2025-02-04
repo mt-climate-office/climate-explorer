@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,269.04,243.48,261,Boxelder,dry-days
+1951,Historical Emissions,269.76,241,255.8,Boxelder,dry-days
+1952,Historical Emissions,280.72,236.64,255.4,Boxelder,dry-days
+1953,Historical Emissions,277.28,232.44,252.4,Boxelder,dry-days
+1954,Historical Emissions,268.52,215.32,255,Boxelder,dry-days
+1955,Historical Emissions,282.72,242.2,248,Boxelder,dry-days
+1956,Historical Emissions,273.04,248.84,264,Boxelder,dry-days
+1957,Historical Emissions,294.56,230.24,263.2,Boxelder,dry-days
+1958,Historical Emissions,273.44,232,250.8,Boxelder,dry-days
+1959,Historical Emissions,259.4,233.2,249.6,Boxelder,dry-days
+1960,Historical Emissions,266.8,232.84,258.4,Boxelder,dry-days
+1961,Historical Emissions,266.64,237.52,255.2,Boxelder,dry-days
+1962,Historical Emissions,279.36,233.76,256.2,Boxelder,dry-days
+1963,Historical Emissions,264.8,230.68,256,Boxelder,dry-days
+1964,Historical Emissions,268.44,249.16,256.6,Boxelder,dry-days
+1965,Historical Emissions,275.24,239.84,260.4,Boxelder,dry-days
+1966,Historical Emissions,272.72,223.48,248,Boxelder,dry-days
+1967,Historical Emissions,276.4,238.2,251.6,Boxelder,dry-days
+1968,Historical Emissions,266.68,225.2,242.8,Boxelder,dry-days
+1969,Historical Emissions,265.8,240.24,253.8,Boxelder,dry-days
+1970,Historical Emissions,279.04,234.36,260,Boxelder,dry-days
+1971,Historical Emissions,272.8,236.68,258,Boxelder,dry-days
+1972,Historical Emissions,271.76,242.08,259.8,Boxelder,dry-days
+1973,Historical Emissions,277.52,230.28,256,Boxelder,dry-days
+1974,Historical Emissions,279.28,228.44,257.2,Boxelder,dry-days
+1975,Historical Emissions,267.36,240.48,253,Boxelder,dry-days
+1976,Historical Emissions,269.52,250.48,258.2,Boxelder,dry-days
+1977,Historical Emissions,268.64,244.28,249.2,Boxelder,dry-days
+1978,Historical Emissions,262.64,213.92,245.8,Boxelder,dry-days
+1979,Historical Emissions,271.2,226.92,256.8,Boxelder,dry-days
+1980,Historical Emissions,282.28,226.2,256.6,Boxelder,dry-days
+1981,Historical Emissions,271,243.32,250.8,Boxelder,dry-days
+1982,Historical Emissions,268.88,240.48,256.4,Boxelder,dry-days
+1983,Historical Emissions,275.04,240.68,253.6,Boxelder,dry-days
+1984,Historical Emissions,278.72,243.8,252.4,Boxelder,dry-days
+1985,Historical Emissions,275.64,246.84,260.4,Boxelder,dry-days
+1986,Historical Emissions,253.88,221.96,238.8,Boxelder,dry-days
+1987,Historical Emissions,256.8,234.52,240.4,Boxelder,dry-days
+1988,Historical Emissions,260.24,228.6,249.6,Boxelder,dry-days
+1989,Historical Emissions,272.44,243.72,256.8,Boxelder,dry-days
+1990,Historical Emissions,280.88,243.32,252,Boxelder,dry-days
+1991,Historical Emissions,276.88,227.96,247.6,Boxelder,dry-days
+1992,Historical Emissions,276.68,240.88,254,Boxelder,dry-days
+1993,Historical Emissions,270.44,236.16,254.6,Boxelder,dry-days
+1994,Historical Emissions,267.96,241.68,254.2,Boxelder,dry-days
+1995,Historical Emissions,270.88,249.8,256.8,Boxelder,dry-days
+1996,Historical Emissions,289.12,235.92,250,Boxelder,dry-days
+1997,Historical Emissions,264.92,235,253.2,Boxelder,dry-days
+1998,Historical Emissions,275.72,232.96,245.2,Boxelder,dry-days
+1999,Historical Emissions,263.6,237.56,252.2,Boxelder,dry-days
+2000,Historical Emissions,278.12,239.44,264.2,Boxelder,dry-days
+2001,Historical Emissions,261.08,237.6,258.2,Boxelder,dry-days
+2002,Historical Emissions,268.04,244.8,260.2,Boxelder,dry-days
+2003,Historical Emissions,270.92,233.64,254.8,Boxelder,dry-days
+2004,Historical Emissions,283.84,234.56,265.2,Boxelder,dry-days
+2005,Historical Emissions,277.32,241.48,265.8,Boxelder,dry-days
+2006,Historical Emissions,273.32,238.48,250.2,Boxelder,dry-days
+2007,Historical Emissions,270,240.84,247.6,Boxelder,dry-days
+2008,Historical Emissions,271.04,241.48,248.8,Boxelder,dry-days
+2009,Historical Emissions,266.76,230.68,247.4,Boxelder,dry-days
+2010,Historical Emissions,274.64,237.72,259.4,Boxelder,dry-days
+2011,Historical Emissions,271.12,243.8,262.4,Boxelder,dry-days
+2012,Historical Emissions,270,229.72,260.6,Boxelder,dry-days
+2013,Historical Emissions,269.6,245.84,254,Boxelder,dry-days
+2014,Historical Emissions,266.64,240.36,258.8,Boxelder,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",280.2,246.32,258.6,Boxelder,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",279.56,242.24,267.4,Boxelder,dry-days
+2015,"High Emissions
+(SSP3-7.0)",274.32,241.56,251.4,Boxelder,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",268.16,240.24,257,Boxelder,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",270.36,233.72,260.2,Boxelder,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",263.36,230.96,251.6,Boxelder,dry-days
+2016,"High Emissions
+(SSP3-7.0)",291.32,234.24,252.6,Boxelder,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",261.16,233.72,253.6,Boxelder,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",267.32,242.6,254,Boxelder,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",274.56,232.44,243.2,Boxelder,dry-days
+2017,"High Emissions
+(SSP3-7.0)",262.36,231.48,253.6,Boxelder,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",261.44,248.96,257.6,Boxelder,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",264.88,227.16,248.4,Boxelder,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",263.12,238.68,248.6,Boxelder,dry-days
+2018,"High Emissions
+(SSP3-7.0)",261.08,232.08,256.4,Boxelder,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",270.72,233.48,249.2,Boxelder,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",275.28,250.56,259,Boxelder,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",264.16,243.32,250.6,Boxelder,dry-days
+2019,"High Emissions
+(SSP3-7.0)",265.52,235.4,249.6,Boxelder,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",276.88,220.92,256.6,Boxelder,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",269.84,224.04,253.4,Boxelder,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",276.76,223.2,254.4,Boxelder,dry-days
+2020,"High Emissions
+(SSP3-7.0)",254.88,238.64,246.4,Boxelder,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",260,229.24,249,Boxelder,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",272.44,224.12,265,Boxelder,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",283.28,244.24,267.2,Boxelder,dry-days
+2021,"High Emissions
+(SSP3-7.0)",272.52,236.4,261,Boxelder,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",278.92,232.44,250.4,Boxelder,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",270.92,237.88,252.8,Boxelder,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",265.92,231.96,256,Boxelder,dry-days
+2022,"High Emissions
+(SSP3-7.0)",265.96,242.84,250.2,Boxelder,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",279.2,232.32,266,Boxelder,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",272.32,232.8,254.6,Boxelder,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",276.6,237.56,251.2,Boxelder,dry-days
+2023,"High Emissions
+(SSP3-7.0)",279,224.68,249,Boxelder,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",252.36,231.96,247.2,Boxelder,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",265.6,240.56,251.8,Boxelder,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",270.4,237.48,252.2,Boxelder,dry-days
+2024,"High Emissions
+(SSP3-7.0)",270.68,244,261.6,Boxelder,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",266.56,220.64,256.4,Boxelder,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",271.72,242.88,258.2,Boxelder,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",266.68,232.2,260.6,Boxelder,dry-days
+2025,"High Emissions
+(SSP3-7.0)",266.56,236.2,254.8,Boxelder,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",260.32,238.24,249.2,Boxelder,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",274.52,245.36,260.2,Boxelder,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",268.04,225,259.8,Boxelder,dry-days
+2026,"High Emissions
+(SSP3-7.0)",258.04,234.92,247.4,Boxelder,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",267.56,241,248,Boxelder,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",271.68,214.88,242.8,Boxelder,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",277.4,227.88,254.8,Boxelder,dry-days
+2027,"High Emissions
+(SSP3-7.0)",259.44,233.12,254.4,Boxelder,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",274.6,240.92,256.4,Boxelder,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",265.64,236.52,255.2,Boxelder,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",265.48,232.36,246,Boxelder,dry-days
+2028,"High Emissions
+(SSP3-7.0)",265.72,235.48,252.8,Boxelder,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",268.4,232.36,251.4,Boxelder,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",271.64,234.48,254.6,Boxelder,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",271.04,239.52,255.4,Boxelder,dry-days
+2029,"High Emissions
+(SSP3-7.0)",269.6,232.2,249.2,Boxelder,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",281.32,236.12,257.8,Boxelder,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",275.32,227.92,255.2,Boxelder,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",277.4,239.64,255,Boxelder,dry-days
+2030,"High Emissions
+(SSP3-7.0)",268.96,225.48,251.6,Boxelder,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",281.64,238.12,262,Boxelder,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",289.32,236.16,260.2,Boxelder,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",268.68,231.76,246.4,Boxelder,dry-days
+2031,"High Emissions
+(SSP3-7.0)",286.28,250,261.2,Boxelder,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",269.64,236,249.8,Boxelder,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",276.2,232.68,250.8,Boxelder,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",263.28,236.56,253.2,Boxelder,dry-days
+2032,"High Emissions
+(SSP3-7.0)",275.6,243.12,254,Boxelder,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",273.56,226.52,250.2,Boxelder,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",264.52,235.56,252.6,Boxelder,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",277.2,222.6,253.6,Boxelder,dry-days
+2033,"High Emissions
+(SSP3-7.0)",268.56,226.72,257.2,Boxelder,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",268.36,245.84,253,Boxelder,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",264.32,237.32,247.4,Boxelder,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",269.08,230.4,256.8,Boxelder,dry-days
+2034,"High Emissions
+(SSP3-7.0)",267.36,243.12,261.6,Boxelder,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",264.2,215.24,255.8,Boxelder,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",285.12,235.8,248.4,Boxelder,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",273.68,232.44,258.6,Boxelder,dry-days
+2035,"High Emissions
+(SSP3-7.0)",263.96,219.76,242,Boxelder,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",270.6,241.36,254.6,Boxelder,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",268.92,236.04,254.8,Boxelder,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",275.04,240.2,246.6,Boxelder,dry-days
+2036,"High Emissions
+(SSP3-7.0)",276.92,224.04,252.6,Boxelder,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",264.2,232.28,247.2,Boxelder,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",280.24,228.8,245.2,Boxelder,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",255.84,237.08,248.2,Boxelder,dry-days
+2037,"High Emissions
+(SSP3-7.0)",262.16,233.76,245.2,Boxelder,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",269.96,225.76,254.6,Boxelder,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",271.28,235.16,251.2,Boxelder,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",275.44,232.76,245,Boxelder,dry-days
+2038,"High Emissions
+(SSP3-7.0)",263.52,240.56,257.2,Boxelder,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",271.84,223.68,248.8,Boxelder,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",273.76,234.4,248.6,Boxelder,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",259.44,228.36,249.2,Boxelder,dry-days
+2039,"High Emissions
+(SSP3-7.0)",273.04,242.2,254.8,Boxelder,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",272.76,227.08,252,Boxelder,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",275.24,228,242.2,Boxelder,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",273.2,236.96,261.2,Boxelder,dry-days
+2040,"High Emissions
+(SSP3-7.0)",279.72,229.56,262.6,Boxelder,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",285.24,230.44,252.8,Boxelder,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",277.04,229.2,253.2,Boxelder,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",262.44,240.28,245.4,Boxelder,dry-days
+2041,"High Emissions
+(SSP3-7.0)",267.16,232.88,249.8,Boxelder,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",266.24,229.84,249,Boxelder,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",265.4,231,256,Boxelder,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",277.72,237.92,258.2,Boxelder,dry-days
+2042,"High Emissions
+(SSP3-7.0)",271.16,221.44,245.8,Boxelder,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",281.64,233.6,259,Boxelder,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",269.64,245.28,259.6,Boxelder,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",276.32,229.96,249.2,Boxelder,dry-days
+2043,"High Emissions
+(SSP3-7.0)",265.48,232.72,245.8,Boxelder,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",276.08,231.68,251.2,Boxelder,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",264.36,243.28,252.2,Boxelder,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",265.2,249.48,259.8,Boxelder,dry-days
+2044,"High Emissions
+(SSP3-7.0)",272.88,233.04,256.2,Boxelder,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",273.4,229.48,258,Boxelder,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",266.96,232.4,249.4,Boxelder,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",272.36,239.84,253,Boxelder,dry-days
+2045,"High Emissions
+(SSP3-7.0)",268.68,239.48,262,Boxelder,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",259.8,237.2,252.4,Boxelder,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",275.48,237.32,252.4,Boxelder,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",260.72,235.64,246.6,Boxelder,dry-days
+2046,"High Emissions
+(SSP3-7.0)",262.44,240.08,254.2,Boxelder,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",267.12,239.08,256.2,Boxelder,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",268.68,231.32,256.8,Boxelder,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",267.4,224.6,252.6,Boxelder,dry-days
+2047,"High Emissions
+(SSP3-7.0)",269.6,230.2,250.6,Boxelder,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",268.8,238.04,258.4,Boxelder,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",278.48,230.2,249.6,Boxelder,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",266.96,243.4,250.4,Boxelder,dry-days
+2048,"High Emissions
+(SSP3-7.0)",271.72,242.32,253.8,Boxelder,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",272.4,242.96,263.2,Boxelder,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",263.2,240.2,252,Boxelder,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",263.16,237.24,260.4,Boxelder,dry-days
+2049,"High Emissions
+(SSP3-7.0)",270.04,225.92,254.8,Boxelder,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",284.88,238.76,252.6,Boxelder,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",281.32,224.92,250.6,Boxelder,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",276.6,246.96,252.8,Boxelder,dry-days
+2050,"High Emissions
+(SSP3-7.0)",271.6,237.52,256.4,Boxelder,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",273.52,243.68,255,Boxelder,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",270.28,232.28,256.4,Boxelder,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",271.6,240.52,255.8,Boxelder,dry-days
+2051,"High Emissions
+(SSP3-7.0)",274.44,233.68,263.4,Boxelder,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",272.92,237.64,256.4,Boxelder,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",274.88,239.04,253.4,Boxelder,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",265.28,235.92,255.2,Boxelder,dry-days
+2052,"High Emissions
+(SSP3-7.0)",262.28,220.08,251,Boxelder,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",276.32,245.84,258.8,Boxelder,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",267,232.08,254.2,Boxelder,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",269.84,237.12,253.6,Boxelder,dry-days
+2053,"High Emissions
+(SSP3-7.0)",271.88,241.72,258,Boxelder,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",272.04,237.44,243.8,Boxelder,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",275.44,232.04,257.6,Boxelder,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",262.28,236.16,250.4,Boxelder,dry-days
+2054,"High Emissions
+(SSP3-7.0)",266.2,222.32,251,Boxelder,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",284.4,241.72,263,Boxelder,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",273.64,237.28,261.2,Boxelder,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",271.48,239.36,254.4,Boxelder,dry-days
+2055,"High Emissions
+(SSP3-7.0)",279.24,231.16,258.6,Boxelder,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",274,236.6,253,Boxelder,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",266.08,241.84,254.4,Boxelder,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",263.92,243.88,245.4,Boxelder,dry-days
+2056,"High Emissions
+(SSP3-7.0)",281.52,236.92,248,Boxelder,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",266.68,238.84,255,Boxelder,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",275.76,230,245.8,Boxelder,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",273.28,241.32,252,Boxelder,dry-days
+2057,"High Emissions
+(SSP3-7.0)",271.8,235.24,241.8,Boxelder,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",253.96,229.84,246,Boxelder,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",265.68,239.28,250.8,Boxelder,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",262.92,241.88,251.2,Boxelder,dry-days
+2058,"High Emissions
+(SSP3-7.0)",263.32,233.48,244.2,Boxelder,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",266.96,227.76,251.6,Boxelder,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",273.36,233.36,257.2,Boxelder,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",268.08,235.24,258.8,Boxelder,dry-days
+2059,"High Emissions
+(SSP3-7.0)",277.28,233.44,257.2,Boxelder,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",274.16,234.56,252.4,Boxelder,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",267.44,250.08,258.4,Boxelder,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",263.2,229.72,252.6,Boxelder,dry-days
+2060,"High Emissions
+(SSP3-7.0)",261,233.8,251,Boxelder,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",265.16,231.24,246.8,Boxelder,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",272.24,235.72,251,Boxelder,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",269.32,241.96,259.2,Boxelder,dry-days
+2061,"High Emissions
+(SSP3-7.0)",274,232.16,251.4,Boxelder,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",271.24,232.2,258.8,Boxelder,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",270,233,247,Boxelder,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",272,238.56,255.4,Boxelder,dry-days
+2062,"High Emissions
+(SSP3-7.0)",268.92,238.32,249,Boxelder,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",259.36,234.8,248.4,Boxelder,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",268.04,242.2,255.4,Boxelder,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",264.64,225.24,250.2,Boxelder,dry-days
+2063,"High Emissions
+(SSP3-7.0)",279.32,235.16,259.2,Boxelder,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",269.04,243.04,253.8,Boxelder,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",266.32,234.24,250.8,Boxelder,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",263.12,223.6,248.2,Boxelder,dry-days
+2064,"High Emissions
+(SSP3-7.0)",265.96,234.44,248.6,Boxelder,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",282.36,243.96,268.2,Boxelder,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",271.28,213,255.8,Boxelder,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",278.08,239.92,258,Boxelder,dry-days
+2065,"High Emissions
+(SSP3-7.0)",271,236.32,255.4,Boxelder,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",270.8,240.96,252.8,Boxelder,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",268.12,243.32,254.2,Boxelder,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",266.36,225.24,258,Boxelder,dry-days
+2066,"High Emissions
+(SSP3-7.0)",282.04,230.12,254.2,Boxelder,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",275.48,225.8,259.4,Boxelder,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",280.84,239.36,253.8,Boxelder,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",267.92,234.72,260.6,Boxelder,dry-days
+2067,"High Emissions
+(SSP3-7.0)",282.96,239.04,256,Boxelder,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",273,250,256.8,Boxelder,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",258.04,237.48,246.8,Boxelder,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",259.52,222.32,247.4,Boxelder,dry-days
+2068,"High Emissions
+(SSP3-7.0)",273.96,225.04,244.8,Boxelder,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",271.52,229,254.6,Boxelder,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",269.6,222,255,Boxelder,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",273.96,226.24,253,Boxelder,dry-days
+2069,"High Emissions
+(SSP3-7.0)",278.28,243.8,264.8,Boxelder,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",277.48,242.08,248,Boxelder,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",273.08,229.64,251.6,Boxelder,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",275.72,230.36,254.6,Boxelder,dry-days
+2070,"High Emissions
+(SSP3-7.0)",280.12,244.64,257,Boxelder,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",264.44,237.64,257.8,Boxelder,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",288.56,222.76,255.6,Boxelder,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",279.8,227.04,250.2,Boxelder,dry-days
+2071,"High Emissions
+(SSP3-7.0)",267.64,243.2,257.6,Boxelder,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",283.68,242.28,260.2,Boxelder,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",275.96,237.08,258.4,Boxelder,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",274.44,224.52,243.4,Boxelder,dry-days
+2072,"High Emissions
+(SSP3-7.0)",264.72,241.6,253.6,Boxelder,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",265.76,218.6,253,Boxelder,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",270.88,243.52,254.4,Boxelder,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",249.36,230,247,Boxelder,dry-days
+2073,"High Emissions
+(SSP3-7.0)",270.64,243.4,254,Boxelder,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",274.48,238.28,247.2,Boxelder,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",269.2,233.08,247,Boxelder,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",271.32,244.48,253.2,Boxelder,dry-days
+2074,"High Emissions
+(SSP3-7.0)",266.72,238.52,250.8,Boxelder,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",275.04,234.76,263,Boxelder,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",277.12,233.8,255.4,Boxelder,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",274.88,240.4,251,Boxelder,dry-days
+2075,"High Emissions
+(SSP3-7.0)",266.96,232,249.4,Boxelder,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",269.92,238.56,263.4,Boxelder,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",263.04,236.16,255,Boxelder,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",263.4,220.88,254.8,Boxelder,dry-days
+2076,"High Emissions
+(SSP3-7.0)",266.64,238.52,261.6,Boxelder,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",269.72,241.16,255.8,Boxelder,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",275.12,242.28,258,Boxelder,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",266.36,243.8,260.8,Boxelder,dry-days
+2077,"High Emissions
+(SSP3-7.0)",274.88,219.96,257,Boxelder,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",276.84,236.88,260.8,Boxelder,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",270.76,239.36,261.6,Boxelder,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",265.76,231.28,252.8,Boxelder,dry-days
+2078,"High Emissions
+(SSP3-7.0)",273.08,239.48,250,Boxelder,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",264.32,232.6,248,Boxelder,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",279.88,239.92,261.8,Boxelder,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",264.8,233.76,255.6,Boxelder,dry-days
+2079,"High Emissions
+(SSP3-7.0)",252.68,220.48,248.4,Boxelder,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",280.28,230.6,255.4,Boxelder,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",271.16,229,249.2,Boxelder,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",271.84,232.24,242,Boxelder,dry-days
+2080,"High Emissions
+(SSP3-7.0)",271.88,237.2,253.4,Boxelder,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",271.72,238.92,254.8,Boxelder,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",267.52,242.28,254.4,Boxelder,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",270.92,249.24,259.8,Boxelder,dry-days
+2081,"High Emissions
+(SSP3-7.0)",265.04,225.84,259.8,Boxelder,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",272.2,249,262.2,Boxelder,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",271.16,240.6,257,Boxelder,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",270.64,233.44,251.6,Boxelder,dry-days
+2082,"High Emissions
+(SSP3-7.0)",261.6,240.68,254,Boxelder,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",268.2,241.8,255.2,Boxelder,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",283.56,235.84,261.8,Boxelder,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",266.2,234.88,261.6,Boxelder,dry-days
+2083,"High Emissions
+(SSP3-7.0)",265.16,232.92,253.4,Boxelder,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",274.36,232.2,254,Boxelder,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",268.6,219.56,252.6,Boxelder,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",283.12,236.56,250,Boxelder,dry-days
+2084,"High Emissions
+(SSP3-7.0)",270.88,250.24,263.6,Boxelder,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",272.4,235.28,252.4,Boxelder,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",269.16,238.56,257.4,Boxelder,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",250.8,235.64,245.8,Boxelder,dry-days
+2085,"High Emissions
+(SSP3-7.0)",262.6,240.64,252,Boxelder,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",266.52,241.84,255.8,Boxelder,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",260.64,230.92,254.4,Boxelder,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",271.84,231.24,253.8,Boxelder,dry-days
+2086,"High Emissions
+(SSP3-7.0)",271.44,233.92,253.6,Boxelder,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",277.88,238.2,251.2,Boxelder,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",262.4,237.96,245.8,Boxelder,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",273.04,236.6,252.4,Boxelder,dry-days
+2087,"High Emissions
+(SSP3-7.0)",273.04,243.4,253,Boxelder,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",258.4,227.12,233.6,Boxelder,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",263.52,227.28,252,Boxelder,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",278.76,237.08,253.8,Boxelder,dry-days
+2088,"High Emissions
+(SSP3-7.0)",267.92,229.88,253.4,Boxelder,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",275.48,232.88,260.6,Boxelder,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",260.76,230.36,249.4,Boxelder,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",264.52,241.2,252.2,Boxelder,dry-days
+2089,"High Emissions
+(SSP3-7.0)",266.56,253.64,264.4,Boxelder,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",288.96,240.24,255.6,Boxelder,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",276.32,235.72,247.4,Boxelder,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",262.56,238.48,248.2,Boxelder,dry-days
+2090,"High Emissions
+(SSP3-7.0)",287.44,242.56,259.2,Boxelder,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",285.2,231.28,257,Boxelder,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",267.48,240.84,253.8,Boxelder,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",284.52,238.44,254,Boxelder,dry-days
+2091,"High Emissions
+(SSP3-7.0)",284.2,243.56,260.8,Boxelder,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",282.32,229.36,249.6,Boxelder,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",277.36,235.44,266.2,Boxelder,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",284.96,237.2,242.8,Boxelder,dry-days
+2092,"High Emissions
+(SSP3-7.0)",283.48,236.6,244,Boxelder,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",273.56,235.88,260.8,Boxelder,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",273.72,230.2,252.4,Boxelder,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",267.36,245.56,251.4,Boxelder,dry-days
+2093,"High Emissions
+(SSP3-7.0)",252.88,228.96,243.4,Boxelder,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",286.56,236.76,258.2,Boxelder,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",275.68,239.96,260,Boxelder,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",264.52,233.04,261.2,Boxelder,dry-days
+2094,"High Emissions
+(SSP3-7.0)",273.88,241.44,255.2,Boxelder,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",276.32,244.52,262.4,Boxelder,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",273.8,235.56,258.8,Boxelder,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",276.52,242.08,261.6,Boxelder,dry-days
+2095,"High Emissions
+(SSP3-7.0)",271.16,234.84,263.8,Boxelder,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",278.04,243,257.8,Boxelder,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",275.96,221.04,253.8,Boxelder,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",264.88,238.88,252.8,Boxelder,dry-days
+2096,"High Emissions
+(SSP3-7.0)",270.12,248.36,264.2,Boxelder,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",272.44,246.28,255.8,Boxelder,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",281.92,235.2,256.2,Boxelder,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",270.76,231.92,248.4,Boxelder,dry-days
+2097,"High Emissions
+(SSP3-7.0)",290.96,232.72,259.6,Boxelder,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",276.16,229.64,248.2,Boxelder,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",267.16,233.96,257.2,Boxelder,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",272,240.92,244,Boxelder,dry-days
+2098,"High Emissions
+(SSP3-7.0)",267.6,233.76,247.2,Boxelder,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",279.68,246.48,257.2,Boxelder,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",271.4,227.32,260,Boxelder,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",277.2,233.2,257.8,Boxelder,dry-days
+2099,"High Emissions
+(SSP3-7.0)",271.96,238.32,256.4,Boxelder,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",272.64,238.08,254.6,Boxelder,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",257.64,231.28,245.4,Boxelder,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",274.28,234.04,248.4,Boxelder,dry-days
+2100,"High Emissions
+(SSP3-7.0)",271.64,235.52,256.6,Boxelder,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",275.52,248.32,257.6,Boxelder,dry-days

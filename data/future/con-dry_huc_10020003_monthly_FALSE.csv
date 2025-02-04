@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),29.98,14,19.4,Ruby,con-dry
+Historical Emissions,Jan,End-of-Century (2070-2099),29.98,14,19.4,Ruby,con-dry
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),28.56,14.62,19.5,Ruby,con-dry
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),30,14.4,20,Ruby,con-dry
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),26.12,15.94,20.4,Ruby,con-dry
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),30.06,13.8,20.2,Ruby,con-dry
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),27.88,13.02,18.3,Ruby,con-dry
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),31.4,13.4,19,Ruby,con-dry
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),30.06,16.14,19.8,Ruby,con-dry
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),31.26,13.78,20.4,Ruby,con-dry

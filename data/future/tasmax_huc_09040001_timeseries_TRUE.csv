@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,47.767,44.586,45.984,St. Marys,tasmax
+1951,Historical Emissions,47.103,44.544,46.012,St. Marys,tasmax
+1952,Historical Emissions,46.182,43.268,45.448,St. Marys,tasmax
+1953,Historical Emissions,46.399,44.252,45.513,St. Marys,tasmax
+1954,Historical Emissions,48.047,42.362,44.703,St. Marys,tasmax
+1955,Historical Emissions,47.503,43.409,45.097,St. Marys,tasmax
+1956,Historical Emissions,47.332,43.361,45.66,St. Marys,tasmax
+1957,Historical Emissions,47.244,43.329,45.665,St. Marys,tasmax
+1958,Historical Emissions,46.314,43.927,45.22,St. Marys,tasmax
+1959,Historical Emissions,45.543,42.414,44.372,St. Marys,tasmax
+1960,Historical Emissions,46.455,42.597,44.532,St. Marys,tasmax
+1961,Historical Emissions,46.963,43.479,44.942,St. Marys,tasmax
+1962,Historical Emissions,45.276,42.298,44.576,St. Marys,tasmax
+1963,Historical Emissions,45.584,43.258,44.278,St. Marys,tasmax
+1964,Historical Emissions,47.008,43.203,45.388,St. Marys,tasmax
+1965,Historical Emissions,45.966,43.683,45.026,St. Marys,tasmax
+1966,Historical Emissions,47.527,43.313,44.518,St. Marys,tasmax
+1967,Historical Emissions,46.108,43.961,44.772,St. Marys,tasmax
+1968,Historical Emissions,45.896,41.048,44.352,St. Marys,tasmax
+1969,Historical Emissions,46.176,43.576,45.084,St. Marys,tasmax
+1970,Historical Emissions,46.442,43.815,45.128,St. Marys,tasmax
+1971,Historical Emissions,48.579,44.353,46.041,St. Marys,tasmax
+1972,Historical Emissions,46.086,43.368,45.077,St. Marys,tasmax
+1973,Historical Emissions,46.189,43.268,44.765,St. Marys,tasmax
+1974,Historical Emissions,46.791,42.6,45.663,St. Marys,tasmax
+1975,Historical Emissions,46.12,42.91,45.767,St. Marys,tasmax
+1976,Historical Emissions,46.588,43.513,44.775,St. Marys,tasmax
+1977,Historical Emissions,47.109,44.572,45.555,St. Marys,tasmax
+1978,Historical Emissions,47.136,43.764,44.865,St. Marys,tasmax
+1979,Historical Emissions,47.505,43.858,45.752,St. Marys,tasmax
+1980,Historical Emissions,46.013,43.846,44.713,St. Marys,tasmax
+1981,Historical Emissions,47.442,44.333,45.092,St. Marys,tasmax
+1982,Historical Emissions,46.959,44.547,45.577,St. Marys,tasmax
+1983,Historical Emissions,46.726,43.852,44.581,St. Marys,tasmax
+1984,Historical Emissions,46.391,43.903,45.359,St. Marys,tasmax
+1985,Historical Emissions,46.595,44.446,45.266,St. Marys,tasmax
+1986,Historical Emissions,45.675,43.218,43.994,St. Marys,tasmax
+1987,Historical Emissions,46.868,42.326,44.818,St. Marys,tasmax
+1988,Historical Emissions,46.274,43.566,45.066,St. Marys,tasmax
+1989,Historical Emissions,47.334,44.43,45.402,St. Marys,tasmax
+1990,Historical Emissions,48.924,44.191,45.942,St. Marys,tasmax
+1991,Historical Emissions,47.755,42.822,45.261,St. Marys,tasmax
+1992,Historical Emissions,47.147,43.617,44.351,St. Marys,tasmax
+1993,Historical Emissions,47.076,43.529,45.35,St. Marys,tasmax
+1994,Historical Emissions,48.298,44.008,45.288,St. Marys,tasmax
+1995,Historical Emissions,46.847,44.103,45.258,St. Marys,tasmax
+1996,Historical Emissions,48.861,45.89,46.565,St. Marys,tasmax
+1997,Historical Emissions,47.746,43.299,45.924,St. Marys,tasmax
+1998,Historical Emissions,48.13,44.026,46.156,St. Marys,tasmax
+1999,Historical Emissions,47.493,44.465,46.204,St. Marys,tasmax
+2000,Historical Emissions,47.204,44.329,45.399,St. Marys,tasmax
+2001,Historical Emissions,47.965,44.792,46.247,St. Marys,tasmax
+2002,Historical Emissions,49.725,44.798,46.355,St. Marys,tasmax
+2003,Historical Emissions,48.625,45.734,46.632,St. Marys,tasmax
+2004,Historical Emissions,48.231,46.412,47.241,St. Marys,tasmax
+2005,Historical Emissions,49.591,45.362,48.793,St. Marys,tasmax
+2006,Historical Emissions,48.509,44.007,46.064,St. Marys,tasmax
+2007,Historical Emissions,48.219,46,46.741,St. Marys,tasmax
+2008,Historical Emissions,48.398,45.529,47.177,St. Marys,tasmax
+2009,Historical Emissions,47.741,45.228,46.234,St. Marys,tasmax
+2010,Historical Emissions,47.829,45.855,47.112,St. Marys,tasmax
+2011,Historical Emissions,49.095,45.853,46.686,St. Marys,tasmax
+2012,Historical Emissions,49.252,45.674,47.638,St. Marys,tasmax
+2013,Historical Emissions,49.725,46.479,47.185,St. Marys,tasmax
+2014,Historical Emissions,49.062,45.973,47.322,St. Marys,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",50.482,46.533,47.843,St. Marys,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",49.406,44.825,47.514,St. Marys,tasmax
+2015,"High Emissions
+(SSP3-7.0)",49.019,45.343,47.411,St. Marys,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",48.105,46.536,47.665,St. Marys,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",49.768,45.912,48.201,St. Marys,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",49.283,45.543,46.655,St. Marys,tasmax
+2016,"High Emissions
+(SSP3-7.0)",51.097,45.833,48.601,St. Marys,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",49.272,46.025,47.648,St. Marys,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",48.589,46.281,47.38,St. Marys,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",49.775,46.284,47.826,St. Marys,tasmax
+2017,"High Emissions
+(SSP3-7.0)",48.725,46.812,47.573,St. Marys,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",49.91,46.769,48.231,St. Marys,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",48.786,46.394,47.133,St. Marys,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",49.64,46.36,47.666,St. Marys,tasmax
+2018,"High Emissions
+(SSP3-7.0)",49.469,45.084,46.805,St. Marys,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",48.399,46.579,47.884,St. Marys,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",50.487,47.67,49.37,St. Marys,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",48.729,44.715,47.27,St. Marys,tasmax
+2019,"High Emissions
+(SSP3-7.0)",50.673,45.403,46.427,St. Marys,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",51.134,47.059,48.135,St. Marys,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",51.088,46.779,47.905,St. Marys,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",48.923,45.444,47.45,St. Marys,tasmax
+2020,"High Emissions
+(SSP3-7.0)",49.166,45.711,47.662,St. Marys,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",49.063,46.661,47.673,St. Marys,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",51.091,46.273,48.29,St. Marys,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",50.178,47.263,47.789,St. Marys,tasmax
+2021,"High Emissions
+(SSP3-7.0)",49.101,47.149,48.302,St. Marys,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",49.495,46.902,47.996,St. Marys,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",49.167,46.12,47.364,St. Marys,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",49.571,46.967,48.958,St. Marys,tasmax
+2022,"High Emissions
+(SSP3-7.0)",49.186,46.145,47.737,St. Marys,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",50.039,47.145,48.496,St. Marys,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",48.832,47.523,48.114,St. Marys,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",49.894,47.021,48.175,St. Marys,tasmax
+2023,"High Emissions
+(SSP3-7.0)",51.048,46.074,47.806,St. Marys,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",48.295,45.311,46.886,St. Marys,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",49.932,46.134,48.422,St. Marys,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",49.972,47.49,48.559,St. Marys,tasmax
+2024,"High Emissions
+(SSP3-7.0)",51.022,46.499,47.931,St. Marys,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",51.471,45.796,48.09,St. Marys,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",50.196,48.027,48.927,St. Marys,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",49.762,45.12,47.252,St. Marys,tasmax
+2025,"High Emissions
+(SSP3-7.0)",50.659,47.826,48.581,St. Marys,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",51.235,47.368,48.48,St. Marys,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",50.377,46.406,48.08,St. Marys,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",50.659,46.531,48.375,St. Marys,tasmax
+2026,"High Emissions
+(SSP3-7.0)",50.138,44.984,48.21,St. Marys,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",51.34,47.033,48.564,St. Marys,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",50.442,46.128,47.755,St. Marys,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",51.326,45.932,49.273,St. Marys,tasmax
+2027,"High Emissions
+(SSP3-7.0)",50.58,46.932,49.639,St. Marys,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",50.677,46.684,49.086,St. Marys,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",50.47,46.863,48.661,St. Marys,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",50.011,44.953,48.266,St. Marys,tasmax
+2028,"High Emissions
+(SSP3-7.0)",50.347,47.06,48.674,St. Marys,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",50.752,47.549,48.796,St. Marys,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",51.88,47.679,50.11,St. Marys,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",50.512,46.934,48.438,St. Marys,tasmax
+2029,"High Emissions
+(SSP3-7.0)",50.903,45.769,48.479,St. Marys,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",50.453,47.132,49.286,St. Marys,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",50.714,47.251,47.835,St. Marys,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",50.682,47.51,49.586,St. Marys,tasmax
+2030,"High Emissions
+(SSP3-7.0)",51.481,47.086,47.598,St. Marys,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",51.408,47.438,48.775,St. Marys,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",50.29,46.856,48.982,St. Marys,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",51.455,46.806,48.914,St. Marys,tasmax
+2031,"High Emissions
+(SSP3-7.0)",51.494,47.1,49.653,St. Marys,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",51.911,47.87,49.474,St. Marys,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",50.599,46.665,49.408,St. Marys,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",49.753,46.781,48.709,St. Marys,tasmax
+2032,"High Emissions
+(SSP3-7.0)",51.524,46.83,47.264,St. Marys,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",51.827,46.386,47.793,St. Marys,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",51.169,47.581,48.969,St. Marys,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",50.836,47.402,48.822,St. Marys,tasmax
+2033,"High Emissions
+(SSP3-7.0)",50.585,47.068,49.285,St. Marys,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",50.733,46.703,50.241,St. Marys,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",51.071,47.017,47.973,St. Marys,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",51.123,47.75,49.204,St. Marys,tasmax
+2034,"High Emissions
+(SSP3-7.0)",51.397,47.712,50.043,St. Marys,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",51.534,45.204,48.336,St. Marys,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",51.605,47.052,49.882,St. Marys,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",51.548,47.231,48.87,St. Marys,tasmax
+2035,"High Emissions
+(SSP3-7.0)",50.04,46.362,48.919,St. Marys,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",50.751,47.182,49.397,St. Marys,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",51.268,48.637,50.032,St. Marys,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",50.199,47.514,49.006,St. Marys,tasmax
+2036,"High Emissions
+(SSP3-7.0)",50.082,47.955,49.499,St. Marys,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",51.245,46.083,50.754,St. Marys,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",51.729,48.866,50.294,St. Marys,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",51.561,46.278,49.281,St. Marys,tasmax
+2037,"High Emissions
+(SSP3-7.0)",50.839,45.295,48.556,St. Marys,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",51.146,47.212,49.204,St. Marys,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",51.464,47.841,49.089,St. Marys,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",50.54,47.138,48.952,St. Marys,tasmax
+2038,"High Emissions
+(SSP3-7.0)",51.616,47.68,48.894,St. Marys,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",51.682,46.428,50.877,St. Marys,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",51.835,46.942,49.682,St. Marys,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",50.32,47.901,48.756,St. Marys,tasmax
+2039,"High Emissions
+(SSP3-7.0)",51.585,48.95,49.922,St. Marys,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",51.792,47.455,48.963,St. Marys,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",50.761,46.659,49.118,St. Marys,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",50.249,46.969,49.727,St. Marys,tasmax
+2040,"High Emissions
+(SSP3-7.0)",51.342,47.798,49.668,St. Marys,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",53.568,48.169,50.473,St. Marys,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",50.798,45.825,48.549,St. Marys,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",50.664,47.873,50.353,St. Marys,tasmax
+2041,"High Emissions
+(SSP3-7.0)",51.365,47.917,48.869,St. Marys,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",50.158,47.776,49.352,St. Marys,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",52.268,47.574,49.216,St. Marys,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",49.878,46.595,48.765,St. Marys,tasmax
+2042,"High Emissions
+(SSP3-7.0)",50.676,46.89,49.286,St. Marys,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",51.786,48.016,50.03,St. Marys,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",50.615,47.696,49.764,St. Marys,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",51.574,47.23,49.292,St. Marys,tasmax
+2043,"High Emissions
+(SSP3-7.0)",50.355,46.632,49.201,St. Marys,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",51.497,48.774,50.218,St. Marys,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",51.226,48.549,49.305,St. Marys,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",52.945,48.317,50.018,St. Marys,tasmax
+2044,"High Emissions
+(SSP3-7.0)",51.207,47.903,49.845,St. Marys,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",53.432,48.431,49.917,St. Marys,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",50.666,48.46,49.844,St. Marys,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",53.07,47.619,49.852,St. Marys,tasmax
+2045,"High Emissions
+(SSP3-7.0)",51.047,47.592,49.294,St. Marys,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",51.291,48.723,49.869,St. Marys,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",52.565,47.348,50.146,St. Marys,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",50.972,46.963,50.095,St. Marys,tasmax
+2046,"High Emissions
+(SSP3-7.0)",50.959,48.666,49.576,St. Marys,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",51.46,47.428,48.345,St. Marys,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",51.8,48.598,50.589,St. Marys,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",51.338,45.044,49.524,St. Marys,tasmax
+2047,"High Emissions
+(SSP3-7.0)",50.381,48.552,49.254,St. Marys,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",53.223,48.278,51.468,St. Marys,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",50.862,47.826,49.069,St. Marys,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",52.45,47.805,51.44,St. Marys,tasmax
+2048,"High Emissions
+(SSP3-7.0)",52.421,47.17,50.539,St. Marys,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",54.093,48.441,51.705,St. Marys,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",50.768,47.648,48.104,St. Marys,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",51.609,48.158,50.226,St. Marys,tasmax
+2049,"High Emissions
+(SSP3-7.0)",51.875,48.442,50.552,St. Marys,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",52.18,49.353,50.89,St. Marys,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",51.763,46.633,49.96,St. Marys,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",52.186,47.559,51.197,St. Marys,tasmax
+2050,"High Emissions
+(SSP3-7.0)",52.324,48.548,50.177,St. Marys,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",53.343,48.798,51.079,St. Marys,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",51.525,47.428,50.338,St. Marys,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",51.984,48.728,49.911,St. Marys,tasmax
+2051,"High Emissions
+(SSP3-7.0)",52.586,48.435,50.359,St. Marys,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",52.136,48.549,50.845,St. Marys,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",50.422,47.732,49.936,St. Marys,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",52.468,48.473,49.818,St. Marys,tasmax
+2052,"High Emissions
+(SSP3-7.0)",52.615,47.408,49.369,St. Marys,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",52.392,49.699,51.414,St. Marys,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",50.908,47.429,49.239,St. Marys,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",51.495,48.651,50.033,St. Marys,tasmax
+2053,"High Emissions
+(SSP3-7.0)",53.811,49.13,52.787,St. Marys,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",54.071,49.475,49.87,St. Marys,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",52.122,49.469,50.439,St. Marys,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",51.214,48.12,48.615,St. Marys,tasmax
+2054,"High Emissions
+(SSP3-7.0)",52.04,48.106,49.584,St. Marys,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",53.611,49.276,50.429,St. Marys,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",51.296,49.289,50.327,St. Marys,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",52.625,48.101,50.773,St. Marys,tasmax
+2055,"High Emissions
+(SSP3-7.0)",52.17,48.797,50.054,St. Marys,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",53.678,49.19,52.052,St. Marys,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",51.889,48.338,50.544,St. Marys,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",53.049,49.138,50.173,St. Marys,tasmax
+2056,"High Emissions
+(SSP3-7.0)",53.116,48.565,50.225,St. Marys,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",53.289,49.758,52.691,St. Marys,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",51.115,46.098,49.831,St. Marys,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",52.185,49.307,50.825,St. Marys,tasmax
+2057,"High Emissions
+(SSP3-7.0)",53.164,47.708,48.866,St. Marys,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",53.282,48.132,51.581,St. Marys,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",52.545,48.497,50.166,St. Marys,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",54.085,48.782,51.123,St. Marys,tasmax
+2058,"High Emissions
+(SSP3-7.0)",52.377,49.135,51.179,St. Marys,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",53.913,48.049,50.009,St. Marys,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",52.526,48.3,49.145,St. Marys,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",54.154,49.297,51.574,St. Marys,tasmax
+2059,"High Emissions
+(SSP3-7.0)",54.81,49.207,51.774,St. Marys,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",54.044,50.639,52.112,St. Marys,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",52.323,48.095,49.457,St. Marys,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",53.477,48.907,50.671,St. Marys,tasmax
+2060,"High Emissions
+(SSP3-7.0)",52.527,48.822,50.6,St. Marys,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",53.184,49.985,52.133,St. Marys,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",52.366,48.22,49.668,St. Marys,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",52.234,47.99,50.47,St. Marys,tasmax
+2061,"High Emissions
+(SSP3-7.0)",52.887,49.723,51.587,St. Marys,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",55.735,50.984,51.743,St. Marys,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",51.591,48.867,49.561,St. Marys,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",53.244,47.878,49.502,St. Marys,tasmax
+2062,"High Emissions
+(SSP3-7.0)",52.281,50.266,51.392,St. Marys,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",54.321,50.92,52.325,St. Marys,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",51.419,48.483,49.547,St. Marys,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",52.386,47.738,50.35,St. Marys,tasmax
+2063,"High Emissions
+(SSP3-7.0)",52.883,49.595,50.736,St. Marys,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",54.655,49.711,53.217,St. Marys,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",52.536,47.393,51.022,St. Marys,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",51.038,48.604,49.627,St. Marys,tasmax
+2064,"High Emissions
+(SSP3-7.0)",52.283,49.658,50.85,St. Marys,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",53.181,50.752,51.589,St. Marys,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",51.732,46.578,49.642,St. Marys,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",52.71,47.812,50.768,St. Marys,tasmax
+2065,"High Emissions
+(SSP3-7.0)",52.99,49.539,50.669,St. Marys,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",55.537,51.173,52.637,St. Marys,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",52.618,48.991,50.734,St. Marys,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",53.69,49.485,51.612,St. Marys,tasmax
+2066,"High Emissions
+(SSP3-7.0)",53.313,48.552,50.611,St. Marys,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",55.593,50.383,52.965,St. Marys,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",51.883,49.704,50.216,St. Marys,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",52.93,48.871,49.239,St. Marys,tasmax
+2067,"High Emissions
+(SSP3-7.0)",54.616,51.356,52.528,St. Marys,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",55.482,50.549,52.063,St. Marys,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",52.409,47.938,49.792,St. Marys,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",52.012,49.525,51.087,St. Marys,tasmax
+2068,"High Emissions
+(SSP3-7.0)",53.538,49.023,50.427,St. Marys,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",54.313,51.602,52.047,St. Marys,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",52.947,49.009,50.821,St. Marys,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",52.1,48.32,50.383,St. Marys,tasmax
+2069,"High Emissions
+(SSP3-7.0)",57.212,50.761,51.528,St. Marys,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",56.988,51.604,53.322,St. Marys,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",51.561,48.086,49.884,St. Marys,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",53.307,48.065,50.384,St. Marys,tasmax
+2070,"High Emissions
+(SSP3-7.0)",55.386,50.838,52.007,St. Marys,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",57.32,51.312,53.262,St. Marys,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",53.497,47.605,49.614,St. Marys,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",52.731,49.138,51.138,St. Marys,tasmax
+2071,"High Emissions
+(SSP3-7.0)",53.941,51.162,51.947,St. Marys,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",56.364,50.583,52.738,St. Marys,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",52.559,48.911,49.894,St. Marys,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",52.852,48.524,51.243,St. Marys,tasmax
+2072,"High Emissions
+(SSP3-7.0)",54.569,48.95,52.261,St. Marys,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",55.331,52.032,53.287,St. Marys,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",51.211,47.837,49.259,St. Marys,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",52.757,47.678,51.401,St. Marys,tasmax
+2073,"High Emissions
+(SSP3-7.0)",53.646,50.645,52.308,St. Marys,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",55.351,51.169,53.082,St. Marys,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",53.565,46.957,50.94,St. Marys,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",53.331,49.272,50.05,St. Marys,tasmax
+2074,"High Emissions
+(SSP3-7.0)",53.995,50.08,51.109,St. Marys,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",57.128,51.285,53.105,St. Marys,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",53.641,46.31,49.633,St. Marys,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",54.39,48.616,49.712,St. Marys,tasmax
+2075,"High Emissions
+(SSP3-7.0)",55.246,49.067,50.677,St. Marys,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",56.236,50.762,53.508,St. Marys,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",52.498,46.414,49.367,St. Marys,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",52.134,48.787,50.23,St. Marys,tasmax
+2076,"High Emissions
+(SSP3-7.0)",54.982,50.533,52.181,St. Marys,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",56.066,51.265,53.046,St. Marys,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",52.215,48.544,51.212,St. Marys,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",53.749,49.601,51.568,St. Marys,tasmax
+2077,"High Emissions
+(SSP3-7.0)",54.818,50.37,52.497,St. Marys,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",56.504,51.715,53.534,St. Marys,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",52.321,48.203,50.038,St. Marys,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",52.6,49.592,51.293,St. Marys,tasmax
+2078,"High Emissions
+(SSP3-7.0)",55.382,50.473,52.225,St. Marys,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",54.429,51.36,52.445,St. Marys,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",52.261,48.54,49.923,St. Marys,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",53.49,49.275,51.198,St. Marys,tasmax
+2079,"High Emissions
+(SSP3-7.0)",54.625,50.518,52.751,St. Marys,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",56.623,51.64,53.713,St. Marys,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",51.543,48.006,48.99,St. Marys,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",53.273,48.454,50.446,St. Marys,tasmax
+2080,"High Emissions
+(SSP3-7.0)",56.745,51.299,52.374,St. Marys,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",56.951,52.721,54.37,St. Marys,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",53.011,48.128,49.287,St. Marys,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",53.328,49.789,51.252,St. Marys,tasmax
+2081,"High Emissions
+(SSP3-7.0)",56.066,50.191,51.702,St. Marys,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",58.717,53.223,55.504,St. Marys,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",52.819,47.806,50.958,St. Marys,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",55.081,49.89,51.295,St. Marys,tasmax
+2082,"High Emissions
+(SSP3-7.0)",55.511,49.642,52.236,St. Marys,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",58.792,51.986,55.369,St. Marys,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",52.517,48.178,50.593,St. Marys,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",54.311,48.782,49.703,St. Marys,tasmax
+2083,"High Emissions
+(SSP3-7.0)",55.741,49.511,53.082,St. Marys,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",56.898,52.826,56.541,St. Marys,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",53.015,47.497,48.615,St. Marys,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",54.308,49.343,51.539,St. Marys,tasmax
+2084,"High Emissions
+(SSP3-7.0)",56.712,51.97,53.829,St. Marys,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",57.864,53.303,54.939,St. Marys,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",52.082,46.454,49.586,St. Marys,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",53.259,49.175,51.763,St. Marys,tasmax
+2085,"High Emissions
+(SSP3-7.0)",55.039,50.577,52.071,St. Marys,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",58.026,52.895,55.667,St. Marys,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",52.909,49.143,50.949,St. Marys,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",53.57,50.529,51.629,St. Marys,tasmax
+2086,"High Emissions
+(SSP3-7.0)",55.782,51.285,53.83,St. Marys,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",58.123,52.739,56.085,St. Marys,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",50.353,48.133,49.143,St. Marys,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",54.367,49.861,51.743,St. Marys,tasmax
+2087,"High Emissions
+(SSP3-7.0)",56.911,50.709,53.513,St. Marys,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",57.148,53.52,54.569,St. Marys,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",53.245,47.828,49.16,St. Marys,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",53.476,51.271,52.394,St. Marys,tasmax
+2088,"High Emissions
+(SSP3-7.0)",56.591,51.291,53.621,St. Marys,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",58.094,54.172,55.948,St. Marys,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",50.944,47.907,49.52,St. Marys,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",54.598,49.556,51.905,St. Marys,tasmax
+2089,"High Emissions
+(SSP3-7.0)",56.189,51.129,54.416,St. Marys,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",59.151,53.577,55.904,St. Marys,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",51.431,48.461,50.218,St. Marys,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",53.513,49.563,52.196,St. Marys,tasmax
+2090,"High Emissions
+(SSP3-7.0)",57.484,52.672,54.233,St. Marys,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",59.778,54.637,55.964,St. Marys,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",51.914,48.194,50.303,St. Marys,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",52.89,50.267,52.086,St. Marys,tasmax
+2091,"High Emissions
+(SSP3-7.0)",56.145,52.578,54.942,St. Marys,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",58.518,52.922,55.244,St. Marys,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",51.96,47.338,51.038,St. Marys,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",55.714,50.095,52.629,St. Marys,tasmax
+2092,"High Emissions
+(SSP3-7.0)",54.898,51.031,52.716,St. Marys,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",58.976,54.373,55.746,St. Marys,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",52.149,47.03,49.182,St. Marys,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",53.715,49.444,51.681,St. Marys,tasmax
+2093,"High Emissions
+(SSP3-7.0)",57.446,51.828,53.863,St. Marys,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",59.125,54.315,55.678,St. Marys,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",53.016,47.255,48.701,St. Marys,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",55.183,48.463,52.504,St. Marys,tasmax
+2094,"High Emissions
+(SSP3-7.0)",57.072,52.204,54.641,St. Marys,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",59.988,53.876,58.364,St. Marys,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",52.756,47.696,51.042,St. Marys,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",55.147,50.467,53.118,St. Marys,tasmax
+2095,"High Emissions
+(SSP3-7.0)",58.205,52.467,55.709,St. Marys,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",58.682,53.757,55.699,St. Marys,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",51.572,47.877,50.621,St. Marys,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",54.046,50.57,52.682,St. Marys,tasmax
+2096,"High Emissions
+(SSP3-7.0)",56.883,52.42,54.576,St. Marys,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",59.479,54.525,55.033,St. Marys,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",52.915,47.842,49.41,St. Marys,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",55.033,50.389,52.788,St. Marys,tasmax
+2097,"High Emissions
+(SSP3-7.0)",60.128,51.779,55.455,St. Marys,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",60.421,53.616,56.039,St. Marys,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",50.946,47.987,49.208,St. Marys,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",52.938,50.171,52.075,St. Marys,tasmax
+2098,"High Emissions
+(SSP3-7.0)",58.413,52.632,54.534,St. Marys,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",58.615,53.899,57.205,St. Marys,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",53.152,47.568,50.858,St. Marys,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",54.324,48.793,51.723,St. Marys,tasmax
+2099,"High Emissions
+(SSP3-7.0)",59.118,51.976,53.37,St. Marys,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",61.023,55.289,56.931,St. Marys,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",51.387,47.266,48.165,St. Marys,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",55.603,49.971,51.684,St. Marys,tasmax
+2100,"High Emissions
+(SSP3-7.0)",56.834,52.511,54.803,St. Marys,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",60.503,54.074,55.824,St. Marys,tasmax

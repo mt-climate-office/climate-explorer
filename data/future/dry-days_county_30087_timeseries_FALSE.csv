@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,271.47,239.78,253,Rosebud County,dry-days
+1951,Historical Emissions,261.23,236.83,257.95,Rosebud County,dry-days
+1952,Historical Emissions,271.67,241.76,253.05,Rosebud County,dry-days
+1953,Historical Emissions,270.72,229.85,252.65,Rosebud County,dry-days
+1954,Historical Emissions,269.75,229.34,243.1,Rosebud County,dry-days
+1955,Historical Emissions,278.3,233.96,252.75,Rosebud County,dry-days
+1956,Historical Emissions,273.36,237.44,266.5,Rosebud County,dry-days
+1957,Historical Emissions,290.3,229.88,253.9,Rosebud County,dry-days
+1958,Historical Emissions,264.74,229.46,248.95,Rosebud County,dry-days
+1959,Historical Emissions,254.04,233.12,242.5,Rosebud County,dry-days
+1960,Historical Emissions,265.17,235.13,250.2,Rosebud County,dry-days
+1961,Historical Emissions,264.73,237.13,251.6,Rosebud County,dry-days
+1962,Historical Emissions,275.44,231.52,242.1,Rosebud County,dry-days
+1963,Historical Emissions,265.09,228.98,254.4,Rosebud County,dry-days
+1964,Historical Emissions,267.13,242.58,258.5,Rosebud County,dry-days
+1965,Historical Emissions,271.68,243.8,250.45,Rosebud County,dry-days
+1966,Historical Emissions,273.3,222.58,245.85,Rosebud County,dry-days
+1967,Historical Emissions,269.28,232.96,255.7,Rosebud County,dry-days
+1968,Historical Emissions,259.96,226.87,245.55,Rosebud County,dry-days
+1969,Historical Emissions,268.72,241.17,257.6,Rosebud County,dry-days
+1970,Historical Emissions,264.94,237.38,250.6,Rosebud County,dry-days
+1971,Historical Emissions,270.6,239.03,258.8,Rosebud County,dry-days
+1972,Historical Emissions,262.43,237.54,257.5,Rosebud County,dry-days
+1973,Historical Emissions,271.79,231.03,244.35,Rosebud County,dry-days
+1974,Historical Emissions,274.51,228.56,253.55,Rosebud County,dry-days
+1975,Historical Emissions,269.58,240.02,249.1,Rosebud County,dry-days
+1976,Historical Emissions,256.23,245.28,247.4,Rosebud County,dry-days
+1977,Historical Emissions,265.39,236.04,251.35,Rosebud County,dry-days
+1978,Historical Emissions,263.94,222.27,239.3,Rosebud County,dry-days
+1979,Historical Emissions,260.34,227.79,247.05,Rosebud County,dry-days
+1980,Historical Emissions,276.93,231.17,243.45,Rosebud County,dry-days
+1981,Historical Emissions,266.72,234.14,247.25,Rosebud County,dry-days
+1982,Historical Emissions,268.69,237.76,252.45,Rosebud County,dry-days
+1983,Historical Emissions,275.04,237.55,248.75,Rosebud County,dry-days
+1984,Historical Emissions,275.07,240.67,256.55,Rosebud County,dry-days
+1985,Historical Emissions,265.19,236.93,254.6,Rosebud County,dry-days
+1986,Historical Emissions,251.63,218.19,237.55,Rosebud County,dry-days
+1987,Historical Emissions,249.22,228.64,238.9,Rosebud County,dry-days
+1988,Historical Emissions,253.86,228.86,246.7,Rosebud County,dry-days
+1989,Historical Emissions,264.55,239.14,252.6,Rosebud County,dry-days
+1990,Historical Emissions,277.12,237.27,250,Rosebud County,dry-days
+1991,Historical Emissions,276.1,225.95,246.25,Rosebud County,dry-days
+1992,Historical Emissions,275.64,244.18,254.8,Rosebud County,dry-days
+1993,Historical Emissions,263.89,235.29,248.95,Rosebud County,dry-days
+1994,Historical Emissions,270.07,240.26,252.75,Rosebud County,dry-days
+1995,Historical Emissions,270.35,238.79,252.55,Rosebud County,dry-days
+1996,Historical Emissions,293.26,234.74,248.7,Rosebud County,dry-days
+1997,Historical Emissions,266.23,239.18,247.9,Rosebud County,dry-days
+1998,Historical Emissions,270.08,231.04,242.2,Rosebud County,dry-days
+1999,Historical Emissions,268.71,239.62,252.4,Rosebud County,dry-days
+2000,Historical Emissions,273.14,238.33,250.8,Rosebud County,dry-days
+2001,Historical Emissions,264.53,232.25,252.6,Rosebud County,dry-days
+2002,Historical Emissions,267.06,241.45,257.8,Rosebud County,dry-days
+2003,Historical Emissions,270.72,234.68,253.95,Rosebud County,dry-days
+2004,Historical Emissions,279.89,233.4,255.3,Rosebud County,dry-days
+2005,Historical Emissions,272.92,231.09,265.85,Rosebud County,dry-days
+2006,Historical Emissions,272.04,231.08,242.6,Rosebud County,dry-days
+2007,Historical Emissions,270.52,240.83,253.35,Rosebud County,dry-days
+2008,Historical Emissions,261.87,236.7,250.1,Rosebud County,dry-days
+2009,Historical Emissions,256.22,239.69,247.1,Rosebud County,dry-days
+2010,Historical Emissions,268.65,236.78,258.65,Rosebud County,dry-days
+2011,Historical Emissions,265.81,243.49,252.85,Rosebud County,dry-days
+2012,Historical Emissions,269.65,237.69,254.45,Rosebud County,dry-days
+2013,Historical Emissions,266.12,242.82,248.55,Rosebud County,dry-days
+2014,Historical Emissions,268.06,236.86,254.7,Rosebud County,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",276.5,237.91,257.05,Rosebud County,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",276.9,236.75,265.6,Rosebud County,dry-days
+2015,"High Emissions
+(SSP3-7.0)",271.15,225.23,249.6,Rosebud County,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",266.14,233.43,258.3,Rosebud County,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",265.09,234.15,251.7,Rosebud County,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",266.21,232.79,240.7,Rosebud County,dry-days
+2016,"High Emissions
+(SSP3-7.0)",282.32,232.92,249.45,Rosebud County,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",256.84,237.18,251.65,Rosebud County,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",265.59,241.78,248.6,Rosebud County,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",273.4,225.49,250.8,Rosebud County,dry-days
+2017,"High Emissions
+(SSP3-7.0)",256.55,223.92,250.75,Rosebud County,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",259.21,246.22,255,Rosebud County,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",258.62,225.78,250.35,Rosebud County,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",264.85,234.48,252.6,Rosebud County,dry-days
+2018,"High Emissions
+(SSP3-7.0)",261.44,227.52,248.45,Rosebud County,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",263.97,230.2,251.15,Rosebud County,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",273.67,251.6,255.5,Rosebud County,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",259.85,235.97,248.25,Rosebud County,dry-days
+2019,"High Emissions
+(SSP3-7.0)",259.83,231.58,252.2,Rosebud County,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",270.53,234.87,252.8,Rosebud County,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",260.23,230.24,249.25,Rosebud County,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",275.49,227.22,260,Rosebud County,dry-days
+2020,"High Emissions
+(SSP3-7.0)",250.48,235.27,245.5,Rosebud County,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",263.04,227.83,253.5,Rosebud County,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",271.23,225.93,258.35,Rosebud County,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",288.28,238.74,258.3,Rosebud County,dry-days
+2021,"High Emissions
+(SSP3-7.0)",274.15,222.29,259.75,Rosebud County,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",279.39,238.18,250.15,Rosebud County,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",266.38,234.96,259.35,Rosebud County,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",262.07,221.34,252.95,Rosebud County,dry-days
+2022,"High Emissions
+(SSP3-7.0)",257.65,235.21,251.25,Rosebud County,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",277.73,235.86,251.7,Rosebud County,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",264.13,232.17,243.35,Rosebud County,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",268.54,234.14,251.6,Rosebud County,dry-days
+2023,"High Emissions
+(SSP3-7.0)",268.21,229.61,244.3,Rosebud County,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",251.68,229.79,236.05,Rosebud County,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",276.17,229.77,242.95,Rosebud County,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",268.91,230.4,252.85,Rosebud County,dry-days
+2024,"High Emissions
+(SSP3-7.0)",272.14,238.4,260.2,Rosebud County,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",258.69,227.46,246.9,Rosebud County,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",268.29,241.88,255.1,Rosebud County,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",268.42,226.85,253.45,Rosebud County,dry-days
+2025,"High Emissions
+(SSP3-7.0)",273.41,234.17,253.6,Rosebud County,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",255.76,230.33,244.65,Rosebud County,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",267.41,233.39,254.1,Rosebud County,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",268.72,235.16,251.75,Rosebud County,dry-days
+2026,"High Emissions
+(SSP3-7.0)",257.48,226.48,245.7,Rosebud County,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",255.99,223.2,248.6,Rosebud County,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",266.46,217.8,238.6,Rosebud County,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",269.5,234.04,248.25,Rosebud County,dry-days
+2027,"High Emissions
+(SSP3-7.0)",260.71,235.34,248.9,Rosebud County,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",267.61,231.48,255.2,Rosebud County,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",262.44,241.91,252.6,Rosebud County,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",254.82,223.78,241.6,Rosebud County,dry-days
+2028,"High Emissions
+(SSP3-7.0)",256.37,232.38,249.8,Rosebud County,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",260.66,230.85,246.9,Rosebud County,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",262.38,232.29,256.5,Rosebud County,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",269.17,237.91,247.95,Rosebud County,dry-days
+2029,"High Emissions
+(SSP3-7.0)",260.24,230.46,248.75,Rosebud County,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",271.87,227.2,251.85,Rosebud County,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",269.61,229.84,248.45,Rosebud County,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",271.02,247.72,253.85,Rosebud County,dry-days
+2030,"High Emissions
+(SSP3-7.0)",263.69,209.71,252.55,Rosebud County,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",273.27,234.36,258.8,Rosebud County,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",281.08,234.5,253.15,Rosebud County,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",270.29,234.46,246.15,Rosebud County,dry-days
+2031,"High Emissions
+(SSP3-7.0)",285.61,238.26,256.25,Rosebud County,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",275.93,233.78,252,Rosebud County,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",272.66,231.56,248.65,Rosebud County,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",261.6,225.8,250.05,Rosebud County,dry-days
+2032,"High Emissions
+(SSP3-7.0)",277.23,239.81,257.45,Rosebud County,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",282.82,223.91,245.2,Rosebud County,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",267.09,233.98,246.3,Rosebud County,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",275.84,227.5,246.05,Rosebud County,dry-days
+2033,"High Emissions
+(SSP3-7.0)",268.29,217.61,254.35,Rosebud County,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",262.25,242.49,251.05,Rosebud County,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",265.35,233.97,247.5,Rosebud County,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",267.92,236.25,254.4,Rosebud County,dry-days
+2034,"High Emissions
+(SSP3-7.0)",271.78,228.24,257.3,Rosebud County,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",260.23,213.58,256.55,Rosebud County,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",280.92,237.09,245.3,Rosebud County,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",274.01,241.8,258.65,Rosebud County,dry-days
+2035,"High Emissions
+(SSP3-7.0)",253.87,229.98,235.2,Rosebud County,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",264.31,239.79,250.3,Rosebud County,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",265.05,237.68,247,Rosebud County,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",265.52,234.2,256.1,Rosebud County,dry-days
+2036,"High Emissions
+(SSP3-7.0)",276.28,226.49,247.55,Rosebud County,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",264.53,228.98,248.5,Rosebud County,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",270.58,230.77,251.35,Rosebud County,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",258.65,223.58,242.15,Rosebud County,dry-days
+2037,"High Emissions
+(SSP3-7.0)",253.74,230.3,241.1,Rosebud County,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",272.21,219.17,253.35,Rosebud County,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",270.69,234.02,247.6,Rosebud County,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",269.34,230.57,254.55,Rosebud County,dry-days
+2038,"High Emissions
+(SSP3-7.0)",267.87,240.73,253.85,Rosebud County,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",276.21,229.88,250,Rosebud County,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",270.69,240.17,247.9,Rosebud County,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",258.08,234.61,244.1,Rosebud County,dry-days
+2039,"High Emissions
+(SSP3-7.0)",273.32,230.63,258.2,Rosebud County,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",268.08,227.85,241.5,Rosebud County,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",276,228.68,256.2,Rosebud County,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",269.67,240.29,256,Rosebud County,dry-days
+2040,"High Emissions
+(SSP3-7.0)",275.97,235.16,249.1,Rosebud County,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",280.54,229.41,249.6,Rosebud County,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",267.73,227.72,248.8,Rosebud County,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",255.89,234.73,244.1,Rosebud County,dry-days
+2041,"High Emissions
+(SSP3-7.0)",264.23,234.88,243.15,Rosebud County,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",266.06,230.83,240.55,Rosebud County,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",259.21,224.93,253.9,Rosebud County,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",276.5,229.09,248.9,Rosebud County,dry-days
+2042,"High Emissions
+(SSP3-7.0)",264.57,219.76,242.8,Rosebud County,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",271.63,226.86,263.25,Rosebud County,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",268.81,247.02,254.15,Rosebud County,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",279.25,229.84,241.8,Rosebud County,dry-days
+2043,"High Emissions
+(SSP3-7.0)",265.3,231.01,251.1,Rosebud County,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",266.01,233.61,252.2,Rosebud County,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",261.78,238.66,250.4,Rosebud County,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",269.91,249.6,252.35,Rosebud County,dry-days
+2044,"High Emissions
+(SSP3-7.0)",268.36,231.56,244.6,Rosebud County,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",274.56,230.04,253.95,Rosebud County,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",261.46,232.06,237.5,Rosebud County,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",260.57,238.73,252.45,Rosebud County,dry-days
+2045,"High Emissions
+(SSP3-7.0)",267.23,233.66,255.45,Rosebud County,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",259.02,233.93,245.9,Rosebud County,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",265.97,234.3,253.35,Rosebud County,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",257.99,233.59,247.15,Rosebud County,dry-days
+2046,"High Emissions
+(SSP3-7.0)",260.56,228.15,242.55,Rosebud County,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",264.14,235.89,253.1,Rosebud County,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",267.03,235.78,252.15,Rosebud County,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",263.95,222.3,250.3,Rosebud County,dry-days
+2047,"High Emissions
+(SSP3-7.0)",263.97,231.66,243.3,Rosebud County,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",271.05,236.14,249.6,Rosebud County,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",269.58,231.69,247.4,Rosebud County,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",262.48,242.89,251.45,Rosebud County,dry-days
+2048,"High Emissions
+(SSP3-7.0)",263.81,234.57,252.65,Rosebud County,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",275.85,234.12,251.35,Rosebud County,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",264.01,244.11,252.4,Rosebud County,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",259.87,236.9,249.4,Rosebud County,dry-days
+2049,"High Emissions
+(SSP3-7.0)",262.06,230.03,253.25,Rosebud County,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",276.61,242.08,252.05,Rosebud County,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",272.66,220.62,241.8,Rosebud County,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",269.35,239.42,255.45,Rosebud County,dry-days
+2050,"High Emissions
+(SSP3-7.0)",260.87,235.06,253.15,Rosebud County,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",270.34,236.21,247.55,Rosebud County,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",266.93,229.37,252.2,Rosebud County,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",266.39,235.11,247.65,Rosebud County,dry-days
+2051,"High Emissions
+(SSP3-7.0)",274.05,243.77,254.95,Rosebud County,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",259.88,235.02,250.6,Rosebud County,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",262.08,233.38,248.45,Rosebud County,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",259.52,237.57,247.7,Rosebud County,dry-days
+2052,"High Emissions
+(SSP3-7.0)",256.59,227.43,246.7,Rosebud County,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",279.19,243.97,250.2,Rosebud County,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",263.34,233.43,258.4,Rosebud County,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",267.46,238.6,248.7,Rosebud County,dry-days
+2053,"High Emissions
+(SSP3-7.0)",270.73,246.89,255.85,Rosebud County,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",270.47,234.49,243.1,Rosebud County,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",271.2,234.53,251.35,Rosebud County,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",262.23,236.18,241.5,Rosebud County,dry-days
+2054,"High Emissions
+(SSP3-7.0)",256.44,234.1,248.05,Rosebud County,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",272.07,243.72,256,Rosebud County,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",272.97,234.52,256.65,Rosebud County,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",262.04,242.31,254.6,Rosebud County,dry-days
+2055,"High Emissions
+(SSP3-7.0)",269.32,229.6,255.6,Rosebud County,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",274.35,228.96,246.35,Rosebud County,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",261.69,237.6,251.6,Rosebud County,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",261.24,239.37,249.8,Rosebud County,dry-days
+2056,"High Emissions
+(SSP3-7.0)",279.53,237.2,246.4,Rosebud County,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",266.43,239.01,250,Rosebud County,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",272.2,223.99,248.95,Rosebud County,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",270.12,242.28,253.4,Rosebud County,dry-days
+2057,"High Emissions
+(SSP3-7.0)",270.52,231.88,247.4,Rosebud County,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",253.82,220.29,241.75,Rosebud County,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",262.34,233.79,250.1,Rosebud County,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",264.76,235.57,257.6,Rosebud County,dry-days
+2058,"High Emissions
+(SSP3-7.0)",252.09,233.78,246.3,Rosebud County,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",259.96,228.42,242.65,Rosebud County,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",274.59,226.5,256.25,Rosebud County,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",266.83,232.9,250.95,Rosebud County,dry-days
+2059,"High Emissions
+(SSP3-7.0)",274.46,226.35,253.1,Rosebud County,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",277.64,235.11,255.05,Rosebud County,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",264.49,241.25,260.35,Rosebud County,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",260.25,233.24,251.05,Rosebud County,dry-days
+2060,"High Emissions
+(SSP3-7.0)",263.37,225.51,249.2,Rosebud County,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",256.25,230.18,245.75,Rosebud County,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",272.35,227.14,251.1,Rosebud County,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",264.72,237.85,250.9,Rosebud County,dry-days
+2061,"High Emissions
+(SSP3-7.0)",271.29,229.22,250.95,Rosebud County,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",272.31,227.06,263.25,Rosebud County,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",268.66,229.04,241.1,Rosebud County,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",273.55,227.6,253.3,Rosebud County,dry-days
+2062,"High Emissions
+(SSP3-7.0)",266.73,237.76,252.5,Rosebud County,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",258.49,224.58,248.2,Rosebud County,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",264.32,242.47,253.45,Rosebud County,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",263.61,225.34,243.9,Rosebud County,dry-days
+2063,"High Emissions
+(SSP3-7.0)",273.82,230.01,259.5,Rosebud County,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",262.34,240.96,251.85,Rosebud County,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",259.32,233.96,243.3,Rosebud County,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",258.93,224.66,251.35,Rosebud County,dry-days
+2064,"High Emissions
+(SSP3-7.0)",260.79,233.65,250.5,Rosebud County,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",280.84,241.99,260.7,Rosebud County,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",261.64,217.97,253.5,Rosebud County,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",272.16,236.11,255.6,Rosebud County,dry-days
+2065,"High Emissions
+(SSP3-7.0)",263.69,238.64,250.05,Rosebud County,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",271.33,240.03,247.55,Rosebud County,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",264.14,240.83,252.9,Rosebud County,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",264.19,221.87,254.7,Rosebud County,dry-days
+2066,"High Emissions
+(SSP3-7.0)",272.96,228.29,259.65,Rosebud County,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",273.74,219.76,262.2,Rosebud County,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",275.72,235.97,252.15,Rosebud County,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",263.25,234.97,251.5,Rosebud County,dry-days
+2067,"High Emissions
+(SSP3-7.0)",279.82,237.01,255.35,Rosebud County,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",277.63,241.85,256.55,Rosebud County,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",261.42,233.67,242.1,Rosebud County,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",265.47,224.96,238.65,Rosebud County,dry-days
+2068,"High Emissions
+(SSP3-7.0)",263.75,234.08,249.15,Rosebud County,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",275.07,239.13,252.3,Rosebud County,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",262.5,229.46,251.3,Rosebud County,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",268.16,227.22,254.35,Rosebud County,dry-days
+2069,"High Emissions
+(SSP3-7.0)",280.87,248.89,266.05,Rosebud County,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",276.1,240.39,242.25,Rosebud County,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",264.98,230.62,245.3,Rosebud County,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",268.09,228.74,245.7,Rosebud County,dry-days
+2070,"High Emissions
+(SSP3-7.0)",275.08,235.75,252.3,Rosebud County,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",259.05,237.69,250.85,Rosebud County,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",287.59,230.88,253.75,Rosebud County,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",279.15,231.27,244.45,Rosebud County,dry-days
+2071,"High Emissions
+(SSP3-7.0)",270.45,233.97,248.95,Rosebud County,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",280.1,248.03,260,Rosebud County,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",273.61,241,255.25,Rosebud County,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",266.75,231.59,244.05,Rosebud County,dry-days
+2072,"High Emissions
+(SSP3-7.0)",261.26,241.61,246.25,Rosebud County,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",264.77,232.18,250.55,Rosebud County,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",263.39,241.64,257.7,Rosebud County,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",252.6,232.32,240.4,Rosebud County,dry-days
+2073,"High Emissions
+(SSP3-7.0)",266.91,234.72,251.65,Rosebud County,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",267.14,236.38,250.75,Rosebud County,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",266.51,226,242.65,Rosebud County,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",262.66,244.7,256.75,Rosebud County,dry-days
+2074,"High Emissions
+(SSP3-7.0)",264.17,233.49,251.25,Rosebud County,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",277.88,228.52,261.5,Rosebud County,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",271.11,225.3,251.75,Rosebud County,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",264.79,238.89,249.6,Rosebud County,dry-days
+2075,"High Emissions
+(SSP3-7.0)",266.99,224,242.5,Rosebud County,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",264.94,238.61,259.45,Rosebud County,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",255.59,230.14,248.7,Rosebud County,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",261.69,230.78,256.35,Rosebud County,dry-days
+2076,"High Emissions
+(SSP3-7.0)",263.85,231.71,257.8,Rosebud County,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",268.19,240.81,259.6,Rosebud County,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",273.86,229.42,246.9,Rosebud County,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",268.37,233.81,255.8,Rosebud County,dry-days
+2077,"High Emissions
+(SSP3-7.0)",273.13,227.28,254.1,Rosebud County,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",266.98,237.73,254.35,Rosebud County,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",272.18,232.38,256.25,Rosebud County,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",260.21,234.91,248.7,Rosebud County,dry-days
+2078,"High Emissions
+(SSP3-7.0)",264.24,239.61,256.35,Rosebud County,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",258.39,233.78,241.85,Rosebud County,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",281.53,222.05,256,Rosebud County,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",265.1,235.79,241.6,Rosebud County,dry-days
+2079,"High Emissions
+(SSP3-7.0)",258,229.95,245.65,Rosebud County,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",273.81,227.9,259.2,Rosebud County,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",264.22,228.63,244.7,Rosebud County,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",266.96,223.76,246,Rosebud County,dry-days
+2080,"High Emissions
+(SSP3-7.0)",274.03,236.2,246.85,Rosebud County,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",268.29,238.6,256.4,Rosebud County,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",265.87,239.24,256.45,Rosebud County,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",262.85,244.69,254.75,Rosebud County,dry-days
+2081,"High Emissions
+(SSP3-7.0)",272.58,222.32,253.6,Rosebud County,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",271.58,242.91,256.9,Rosebud County,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",271.79,230.9,260.35,Rosebud County,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",263.63,239.53,248.1,Rosebud County,dry-days
+2082,"High Emissions
+(SSP3-7.0)",263.82,238.75,250.95,Rosebud County,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",267.78,240.06,254,Rosebud County,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",281.73,235.28,267.35,Rosebud County,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",268.5,229.19,261.9,Rosebud County,dry-days
+2083,"High Emissions
+(SSP3-7.0)",260.78,231.92,254.45,Rosebud County,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",268.63,231.93,261.1,Rosebud County,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",264.12,217.94,249.05,Rosebud County,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",279.17,239.84,249.85,Rosebud County,dry-days
+2084,"High Emissions
+(SSP3-7.0)",268.44,246.7,261.95,Rosebud County,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",267.24,226.06,254.85,Rosebud County,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",264.65,233.43,252,Rosebud County,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",250.02,229.64,246,Rosebud County,dry-days
+2085,"High Emissions
+(SSP3-7.0)",260.21,232.32,248.65,Rosebud County,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",264.36,243.48,248.1,Rosebud County,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",262.83,221.95,252.8,Rosebud County,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",268.24,220.72,241.05,Rosebud County,dry-days
+2086,"High Emissions
+(SSP3-7.0)",270.87,234.85,250.7,Rosebud County,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",269.89,229.54,245.1,Rosebud County,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",265.92,231.8,245.65,Rosebud County,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",269.36,224.88,251.2,Rosebud County,dry-days
+2087,"High Emissions
+(SSP3-7.0)",271.96,240.4,252.55,Rosebud County,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",256.05,223.94,244.75,Rosebud County,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",263.96,228.05,247.25,Rosebud County,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",273.67,236.59,246.35,Rosebud County,dry-days
+2088,"High Emissions
+(SSP3-7.0)",264.82,233.42,251,Rosebud County,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",278.69,234.06,254.95,Rosebud County,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",260.25,225.89,239.4,Rosebud County,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",265.68,233.01,243.4,Rosebud County,dry-days
+2089,"High Emissions
+(SSP3-7.0)",271.53,250.82,263.1,Rosebud County,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",287.43,241.96,257.05,Rosebud County,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",274.06,230.76,243.35,Rosebud County,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",261.35,236.79,245.5,Rosebud County,dry-days
+2090,"High Emissions
+(SSP3-7.0)",286.86,242.87,259.45,Rosebud County,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",271.93,228.52,254.65,Rosebud County,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",261.49,241.14,251.15,Rosebud County,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",276.91,243.18,250.7,Rosebud County,dry-days
+2091,"High Emissions
+(SSP3-7.0)",273.91,240.2,260.7,Rosebud County,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",270.53,221.73,250.95,Rosebud County,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",279.45,232.88,254.65,Rosebud County,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",278.15,229.19,236.85,Rosebud County,dry-days
+2092,"High Emissions
+(SSP3-7.0)",277.3,224.97,243.55,Rosebud County,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",278.89,234.84,252.1,Rosebud County,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",266.25,232.31,249.8,Rosebud County,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",261.71,243.71,251.75,Rosebud County,dry-days
+2093,"High Emissions
+(SSP3-7.0)",252.34,231.18,242.35,Rosebud County,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",280.52,237.63,268.25,Rosebud County,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",265.62,242.59,251.45,Rosebud County,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",264.89,234.36,256,Rosebud County,dry-days
+2094,"High Emissions
+(SSP3-7.0)",269.07,235.78,251.45,Rosebud County,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",273.33,237.86,258.6,Rosebud County,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",276.33,237.05,253.15,Rosebud County,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",272.26,238.79,259.55,Rosebud County,dry-days
+2095,"High Emissions
+(SSP3-7.0)",273.4,232.52,258.55,Rosebud County,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",280.58,233.96,252.6,Rosebud County,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",265.79,219.47,245.25,Rosebud County,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",264.35,242.57,251.65,Rosebud County,dry-days
+2096,"High Emissions
+(SSP3-7.0)",270.68,245.48,262.6,Rosebud County,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",276.04,243.33,257.75,Rosebud County,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",273.77,238.67,255.25,Rosebud County,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",264.23,224.8,247.8,Rosebud County,dry-days
+2097,"High Emissions
+(SSP3-7.0)",276.77,231.73,257.95,Rosebud County,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",270.32,230.75,249.85,Rosebud County,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",262.31,223.49,254.7,Rosebud County,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",270.73,240.91,245.1,Rosebud County,dry-days
+2098,"High Emissions
+(SSP3-7.0)",264.21,225.47,242.25,Rosebud County,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",274.86,238.71,251.1,Rosebud County,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",266.35,235.87,241.45,Rosebud County,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",270.59,223.05,251.25,Rosebud County,dry-days
+2099,"High Emissions
+(SSP3-7.0)",273.97,234.99,249.6,Rosebud County,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",279.81,225.02,250.55,Rosebud County,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",262.43,225.62,246.75,Rosebud County,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",268.87,233.07,243.4,Rosebud County,dry-days
+2100,"High Emissions
+(SSP3-7.0)",265.86,235.24,248.45,Rosebud County,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",270.28,239.98,258.4,Rosebud County,dry-days

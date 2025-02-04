@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),0.964,0.012,0.398,Billings,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),0.964,0.012,0.398,Billings,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.011,0.044,0.56,Billings,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.108,0.035,0.536,Billings,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.191,0.053,0.428,Billings,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.133,0.072,0.578,Billings,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.228,0.347,0.886,Billings,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.149,0.071,0.572,Billings,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.534,0.032,0.464,Billings,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.024,0.06,0.566,Billings,con-wet

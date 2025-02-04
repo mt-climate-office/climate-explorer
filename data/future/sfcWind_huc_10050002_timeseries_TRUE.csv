@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,9.426,8.816,9.223,Upper Milk,sfcWind
+1951,Historical Emissions,9.365,8.863,9.155,Upper Milk,sfcWind
+1952,Historical Emissions,9.564,8.709,9.299,Upper Milk,sfcWind
+1953,Historical Emissions,9.803,8.67,8.919,Upper Milk,sfcWind
+1954,Historical Emissions,9.711,8.759,9.316,Upper Milk,sfcWind
+1955,Historical Emissions,9.468,8.679,9.221,Upper Milk,sfcWind
+1956,Historical Emissions,10.086,8.738,9.327,Upper Milk,sfcWind
+1957,Historical Emissions,10.028,8.949,9.552,Upper Milk,sfcWind
+1958,Historical Emissions,9.387,8.742,9.165,Upper Milk,sfcWind
+1959,Historical Emissions,9.815,8.669,9.246,Upper Milk,sfcWind
+1960,Historical Emissions,9.757,9.361,9.569,Upper Milk,sfcWind
+1961,Historical Emissions,10.008,8.846,9.305,Upper Milk,sfcWind
+1962,Historical Emissions,9.572,8.933,9.161,Upper Milk,sfcWind
+1963,Historical Emissions,9.611,8.877,9.032,Upper Milk,sfcWind
+1964,Historical Emissions,9.947,8.972,9.188,Upper Milk,sfcWind
+1965,Historical Emissions,9.674,8.999,9.262,Upper Milk,sfcWind
+1966,Historical Emissions,9.662,9.191,9.4,Upper Milk,sfcWind
+1967,Historical Emissions,9.64,8.701,9.319,Upper Milk,sfcWind
+1968,Historical Emissions,9.775,8.775,8.976,Upper Milk,sfcWind
+1969,Historical Emissions,9.534,8.708,9.034,Upper Milk,sfcWind
+1970,Historical Emissions,9.863,8.848,9.248,Upper Milk,sfcWind
+1971,Historical Emissions,9.742,8.924,9.448,Upper Milk,sfcWind
+1972,Historical Emissions,9.434,9.142,9.245,Upper Milk,sfcWind
+1973,Historical Emissions,9.709,8.7,9.251,Upper Milk,sfcWind
+1974,Historical Emissions,9.815,8.395,9.594,Upper Milk,sfcWind
+1975,Historical Emissions,9.733,8.654,9.326,Upper Milk,sfcWind
+1976,Historical Emissions,9.429,8.981,9.281,Upper Milk,sfcWind
+1977,Historical Emissions,9.584,8.564,9.216,Upper Milk,sfcWind
+1978,Historical Emissions,9.341,8.751,9.079,Upper Milk,sfcWind
+1979,Historical Emissions,9.492,8.898,9.173,Upper Milk,sfcWind
+1980,Historical Emissions,9.762,8.773,9.236,Upper Milk,sfcWind
+1981,Historical Emissions,9.542,8.983,9.154,Upper Milk,sfcWind
+1982,Historical Emissions,9.509,8.552,9.208,Upper Milk,sfcWind
+1983,Historical Emissions,9.799,8.698,8.824,Upper Milk,sfcWind
+1984,Historical Emissions,9.72,8.669,8.927,Upper Milk,sfcWind
+1985,Historical Emissions,9.693,8.82,9.246,Upper Milk,sfcWind
+1986,Historical Emissions,9.656,8.572,9.104,Upper Milk,sfcWind
+1987,Historical Emissions,9.586,8.629,8.947,Upper Milk,sfcWind
+1988,Historical Emissions,9.549,8.993,9.383,Upper Milk,sfcWind
+1989,Historical Emissions,9.688,8.866,9.115,Upper Milk,sfcWind
+1990,Historical Emissions,9.738,8.653,9.289,Upper Milk,sfcWind
+1991,Historical Emissions,9.546,8.687,9.161,Upper Milk,sfcWind
+1992,Historical Emissions,9.707,9.151,9.457,Upper Milk,sfcWind
+1993,Historical Emissions,9.557,8.656,9.085,Upper Milk,sfcWind
+1994,Historical Emissions,9.988,8.452,8.921,Upper Milk,sfcWind
+1995,Historical Emissions,9.993,8.978,9.429,Upper Milk,sfcWind
+1996,Historical Emissions,9.743,8.884,9.444,Upper Milk,sfcWind
+1997,Historical Emissions,9.667,8.613,9.234,Upper Milk,sfcWind
+1998,Historical Emissions,9.58,8.731,9.054,Upper Milk,sfcWind
+1999,Historical Emissions,9.315,8.832,9.133,Upper Milk,sfcWind
+2000,Historical Emissions,9.444,8.938,9.307,Upper Milk,sfcWind
+2001,Historical Emissions,9.533,8.719,9.14,Upper Milk,sfcWind
+2002,Historical Emissions,9.748,8.755,9.251,Upper Milk,sfcWind
+2003,Historical Emissions,9.37,8.726,9.157,Upper Milk,sfcWind
+2004,Historical Emissions,9.878,8.871,9.299,Upper Milk,sfcWind
+2005,Historical Emissions,9.786,8.643,9.154,Upper Milk,sfcWind
+2006,Historical Emissions,9.606,8.642,9.363,Upper Milk,sfcWind
+2007,Historical Emissions,9.548,8.556,9.135,Upper Milk,sfcWind
+2008,Historical Emissions,9.487,8.559,9.085,Upper Milk,sfcWind
+2009,Historical Emissions,9.553,8.667,9.186,Upper Milk,sfcWind
+2010,Historical Emissions,9.52,8.635,9.137,Upper Milk,sfcWind
+2011,Historical Emissions,9.631,8.734,9.013,Upper Milk,sfcWind
+2012,Historical Emissions,9.532,8.72,9.069,Upper Milk,sfcWind
+2013,Historical Emissions,9.592,8.681,9.032,Upper Milk,sfcWind
+2014,Historical Emissions,9.705,8.904,9.224,Upper Milk,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",9.906,8.238,9.112,Upper Milk,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",9.711,8.126,9.052,Upper Milk,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",9.729,8.423,8.968,Upper Milk,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",9.582,8.653,9.115,Upper Milk,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",9.429,8.33,8.844,Upper Milk,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",9.658,8.323,9.145,Upper Milk,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",9.605,8.457,9.02,Upper Milk,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",10.227,8.455,8.91,Upper Milk,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",9.529,8.003,9.067,Upper Milk,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",9.214,8.608,8.962,Upper Milk,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",9.31,7.923,8.52,Upper Milk,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",9.385,8.524,9.11,Upper Milk,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",9.652,8.386,9.245,Upper Milk,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",9.439,7.954,8.906,Upper Milk,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",9.184,7.874,8.835,Upper Milk,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",9.28,8.31,8.672,Upper Milk,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",8.982,8.125,8.712,Upper Milk,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",9.767,8.244,9.086,Upper Milk,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",9.575,8.165,8.867,Upper Milk,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",9.417,8.255,9.064,Upper Milk,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",9.286,8.344,8.813,Upper Milk,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",9.419,8.351,9.207,Upper Milk,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",9.47,8.483,9.127,Upper Milk,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",9.508,8.148,8.849,Upper Milk,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",9.348,8.495,8.911,Upper Milk,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",9.369,8.544,9.176,Upper Milk,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",9.673,8.374,8.904,Upper Milk,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",9.207,8.523,8.999,Upper Milk,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",9.699,8.498,9.183,Upper Milk,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",9.164,8.457,8.772,Upper Milk,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",9.393,8.333,8.705,Upper Milk,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",9.421,8.219,8.762,Upper Milk,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",9.377,8.485,9.109,Upper Milk,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",9.496,8.533,8.994,Upper Milk,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",9.69,8.434,8.855,Upper Milk,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",9.83,8.611,8.958,Upper Milk,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",9.522,8.515,8.744,Upper Milk,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",9.383,8.032,9.053,Upper Milk,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",9.562,8.425,8.946,Upper Milk,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",9.59,8.349,8.84,Upper Milk,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",9.42,8.472,9.205,Upper Milk,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",9.698,8.007,9.011,Upper Milk,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",9.543,8.183,8.963,Upper Milk,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",9.434,8.738,9.055,Upper Milk,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",9.449,8.406,8.888,Upper Milk,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",9.431,8.612,9.021,Upper Milk,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",8.94,7.995,8.708,Upper Milk,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",9.408,8.638,8.884,Upper Milk,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",9.711,8.28,8.711,Upper Milk,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",9.354,8.286,8.933,Upper Milk,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",9.227,8.385,8.526,Upper Milk,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",9.58,8.262,8.983,Upper Milk,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",9.427,8.082,8.643,Upper Milk,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",9.003,8.018,8.855,Upper Milk,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",9.435,8.186,8.948,Upper Milk,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",9.156,8.604,8.965,Upper Milk,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",9.239,8.319,8.809,Upper Milk,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",9.358,7.972,9.082,Upper Milk,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",9.438,8.516,9.06,Upper Milk,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",9.093,8.057,8.659,Upper Milk,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",9.044,8.197,8.823,Upper Milk,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",10.109,8.626,9.312,Upper Milk,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",9.575,8.598,8.96,Upper Milk,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",9.292,8.362,8.733,Upper Milk,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",9.441,8.735,9.028,Upper Milk,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",9.526,8.652,9.305,Upper Milk,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",9.668,8.552,8.863,Upper Milk,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",9.326,8.385,8.957,Upper Milk,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",9.255,8.053,9.128,Upper Milk,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",9.651,8.634,8.896,Upper Milk,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",9.345,8.76,9.211,Upper Milk,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",9.5,8.386,9.172,Upper Milk,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",9.902,8.367,9.184,Upper Milk,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",9.443,8.428,9.22,Upper Milk,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",9.282,8.036,8.538,Upper Milk,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",9.211,8.083,8.879,Upper Milk,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",9.544,8.282,9.11,Upper Milk,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",9.184,8.214,9.019,Upper Milk,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",9.491,8.196,8.828,Upper Milk,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",9.78,8.568,9.062,Upper Milk,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",9.536,8.642,9.027,Upper Milk,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",9.258,8.363,8.788,Upper Milk,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",9.347,8.545,9.095,Upper Milk,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",9.623,8.176,9.3,Upper Milk,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",9.033,8.083,8.947,Upper Milk,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",9.397,8.763,9.078,Upper Milk,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",9.084,8.132,8.832,Upper Milk,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",9.365,8.254,8.834,Upper Milk,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",9.497,8.197,8.695,Upper Milk,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",9.325,8.387,8.769,Upper Milk,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",9.36,8.34,8.727,Upper Milk,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",9.856,8.484,9.173,Upper Milk,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",9.466,8.63,8.933,Upper Milk,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",9.551,8.482,8.944,Upper Milk,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",9.406,8.705,9.03,Upper Milk,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",9.255,8.616,8.985,Upper Milk,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",9.172,8.509,8.921,Upper Milk,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",9.301,8.756,9.02,Upper Milk,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",9.439,8.227,9.222,Upper Milk,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",9.219,8.192,9.009,Upper Milk,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",9.769,7.994,9.081,Upper Milk,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",9.718,8.383,8.995,Upper Milk,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",9.717,8.362,8.603,Upper Milk,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",9.335,7.966,8.772,Upper Milk,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",9.515,8.672,8.852,Upper Milk,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",9.244,8.196,8.734,Upper Milk,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",9.009,8.052,8.7,Upper Milk,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",9.548,8.179,8.83,Upper Milk,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",9.562,8.32,8.912,Upper Milk,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",9.241,8.477,8.933,Upper Milk,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",9.469,8.203,8.677,Upper Milk,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",9.326,8.489,8.952,Upper Milk,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",9.488,8.155,8.912,Upper Milk,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",9.628,8.145,9.152,Upper Milk,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",9.486,8.204,9.396,Upper Milk,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",9.396,8.429,8.968,Upper Milk,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",9.483,7.8,9.094,Upper Milk,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",9.506,8.494,9.108,Upper Milk,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",9.357,8.766,9.042,Upper Milk,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",9.04,8.198,8.886,Upper Milk,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",8.932,8.332,8.584,Upper Milk,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",9.429,8.306,8.927,Upper Milk,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",9.524,8.013,8.795,Upper Milk,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",9.027,8.018,8.869,Upper Milk,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",9.391,8.207,9.082,Upper Milk,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",9.294,8.224,9.049,Upper Milk,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",9.063,8.54,8.677,Upper Milk,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",9.587,7.393,9.082,Upper Milk,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",9.363,7.595,8.969,Upper Milk,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",9.205,8.115,9.041,Upper Milk,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",9.235,8.379,8.853,Upper Milk,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",9.971,7.806,9.278,Upper Milk,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",9.373,8.354,8.905,Upper Milk,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",8.918,7.842,8.626,Upper Milk,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",9.6,8.457,8.95,Upper Milk,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",9.587,8.62,8.892,Upper Milk,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",9.694,7.827,9.169,Upper Milk,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",9.625,8.551,9.199,Upper Milk,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",9.293,8.442,8.937,Upper Milk,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",9.493,8.247,8.475,Upper Milk,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",9.288,8.03,8.71,Upper Milk,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",9.603,8.462,8.983,Upper Milk,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",9.271,8.661,9.122,Upper Milk,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",9.297,8.107,8.839,Upper Milk,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",9.191,8.474,8.813,Upper Milk,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",9.944,8.349,9.048,Upper Milk,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",9.069,8.307,8.866,Upper Milk,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",9.842,8.311,9.34,Upper Milk,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",9.557,8.185,8.505,Upper Milk,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",9.246,8.29,8.991,Upper Milk,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",9.069,8.016,8.83,Upper Milk,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",9.407,7.738,8.856,Upper Milk,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",9.831,8.178,9.178,Upper Milk,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",9.683,8.429,9.128,Upper Milk,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",9.287,7.837,8.917,Upper Milk,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",9.294,8.535,9.039,Upper Milk,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",9.366,7.74,8.887,Upper Milk,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",9.409,7.7,9.061,Upper Milk,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",9.265,8.275,8.917,Upper Milk,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",9.556,8.35,8.949,Upper Milk,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",9.353,8.505,8.976,Upper Milk,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",9.279,8.467,8.863,Upper Milk,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",9.174,8.461,8.903,Upper Milk,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",9.191,8.244,8.855,Upper Milk,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",9.274,8.661,9.134,Upper Milk,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",9.313,8.492,8.783,Upper Milk,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",8.994,8.386,8.772,Upper Milk,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",8.999,7.942,8.567,Upper Milk,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",9.397,8.083,9.084,Upper Milk,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",9.366,8.271,9.182,Upper Milk,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",9.035,7.866,8.777,Upper Milk,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",9.036,8.035,8.561,Upper Milk,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",9.621,8.533,9.037,Upper Milk,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",9.266,8.072,8.945,Upper Milk,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",9.111,7.945,8.716,Upper Milk,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",9.248,8.065,8.831,Upper Milk,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",9.47,8.175,9.323,Upper Milk,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",9.34,8.223,9.015,Upper Milk,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",9.299,8.566,8.935,Upper Milk,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",9.134,8.124,8.653,Upper Milk,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",9.447,8.383,8.779,Upper Milk,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",9.538,7.997,8.809,Upper Milk,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",9.135,8.489,8.69,Upper Milk,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",9.673,7.958,8.59,Upper Milk,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",9.462,8.712,8.945,Upper Milk,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",9.802,8.375,9.029,Upper Milk,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",9.337,7.969,8.841,Upper Milk,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",9.553,8.322,8.965,Upper Milk,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",9.687,8.254,9.18,Upper Milk,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",9.565,8.386,8.814,Upper Milk,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",9.127,8.055,8.774,Upper Milk,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",9.477,7.849,8.925,Upper Milk,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",9.443,8.331,9.187,Upper Milk,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",9.396,8.268,9.061,Upper Milk,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",9.451,8.058,8.907,Upper Milk,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",9.467,8.181,8.893,Upper Milk,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",9.698,8.358,9.044,Upper Milk,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",9.09,8.196,8.797,Upper Milk,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",9.266,8.135,8.482,Upper Milk,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",9.321,8.449,8.808,Upper Milk,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",9.971,8.146,8.883,Upper Milk,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",9.596,8.289,8.453,Upper Milk,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",9.551,8.555,8.888,Upper Milk,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",9.569,8.165,8.578,Upper Milk,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",9.349,7.869,8.91,Upper Milk,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",9.24,8.194,9.05,Upper Milk,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",9.816,7.929,8.766,Upper Milk,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",9.255,8.343,8.991,Upper Milk,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",9.399,8.137,8.771,Upper Milk,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",9.543,8.592,9.058,Upper Milk,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",9.27,8.046,8.772,Upper Milk,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",9.107,7.569,8.712,Upper Milk,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",9.429,8.313,9.124,Upper Milk,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",9.644,8.276,9.154,Upper Milk,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",9.228,8.478,9.018,Upper Milk,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",9.301,7.794,9.135,Upper Milk,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",9.563,8.156,8.788,Upper Milk,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",9.209,8.459,8.819,Upper Milk,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",9.281,7.914,8.865,Upper Milk,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",9.4,8.004,8.599,Upper Milk,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",9.404,8.073,8.925,Upper Milk,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",9.595,8.17,8.74,Upper Milk,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",9.508,8.007,8.711,Upper Milk,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",9.004,8.149,8.688,Upper Milk,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",9.793,8.188,8.931,Upper Milk,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",9.646,8.556,8.921,Upper Milk,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",9.635,7.964,8.926,Upper Milk,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",9.607,8.044,8.698,Upper Milk,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",9.395,8.267,9.005,Upper Milk,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",9.31,8.139,8.836,Upper Milk,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",9.397,8.405,8.915,Upper Milk,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",9.164,7.995,8.779,Upper Milk,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",9.537,7.999,9.023,Upper Milk,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",9.728,7.945,8.883,Upper Milk,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",9.437,8.242,8.675,Upper Milk,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",8.968,8.284,8.601,Upper Milk,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",9.261,7.712,9.022,Upper Milk,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",9.45,8.177,9.118,Upper Milk,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",8.822,7.807,8.548,Upper Milk,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",9.364,7.849,8.758,Upper Milk,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",9.304,7.789,8.817,Upper Milk,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",9.687,8.398,9.067,Upper Milk,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",9.687,8.241,8.949,Upper Milk,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",9.306,7.544,8.673,Upper Milk,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",10.128,7.984,9.041,Upper Milk,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",9.547,8.162,9.127,Upper Milk,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",9.424,8.358,9.006,Upper Milk,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",9.659,8.022,8.95,Upper Milk,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",9.42,8.264,8.818,Upper Milk,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",9.175,7.948,8.748,Upper Milk,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",9.457,7.844,8.661,Upper Milk,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",9.437,8.491,9.007,Upper Milk,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",9.8,8.41,9.031,Upper Milk,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",9.698,8.276,9.364,Upper Milk,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",9.536,7.878,8.591,Upper Milk,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",9.53,7.94,8.858,Upper Milk,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",9.769,7.957,9.053,Upper Milk,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",9.369,8.12,8.916,Upper Milk,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",9.464,7.825,8.403,Upper Milk,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",9.117,8.154,8.812,Upper Milk,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",9.487,8.447,8.911,Upper Milk,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",9.412,7.797,9.223,Upper Milk,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",8.895,7.86,8.516,Upper Milk,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",9.227,7.857,8.699,Upper Milk,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",9.392,7.899,9.018,Upper Milk,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",9.79,8.346,8.724,Upper Milk,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",9.585,8.323,8.622,Upper Milk,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",9.362,7.638,8.704,Upper Milk,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",9.621,7.996,8.971,Upper Milk,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",9.144,8.113,8.787,Upper Milk,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",9.21,8.296,8.712,Upper Milk,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",9.364,7.907,9.014,Upper Milk,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",9.655,8.183,9.081,Upper Milk,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",9.597,8.353,8.956,Upper Milk,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",9.079,7.922,8.503,Upper Milk,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",9.233,8.008,8.972,Upper Milk,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",9.831,8.06,8.83,Upper Milk,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",9.535,8.708,9.096,Upper Milk,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",9.105,8.181,8.796,Upper Milk,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",9.422,7.993,9.092,Upper Milk,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",9.845,7.849,8.635,Upper Milk,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",9.174,7.806,8.882,Upper Milk,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",9.671,8.19,8.804,Upper Milk,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",9.255,8.234,8.945,Upper Milk,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",9.172,8.207,8.513,Upper Milk,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",9.278,8.158,8.987,Upper Milk,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",8.888,8.229,8.587,Upper Milk,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",9.627,7.694,9.073,Upper Milk,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",9.557,8.078,9.047,Upper Milk,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",9.637,8.173,9.072,Upper Milk,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",9.347,8.142,8.957,Upper Milk,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",9.068,8.242,8.834,Upper Milk,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",9.552,7.71,9.058,Upper Milk,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",9.242,8.532,9.067,Upper Milk,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",9.165,7.737,8.784,Upper Milk,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",9.334,8.201,8.675,Upper Milk,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",9.266,8.313,8.768,Upper Milk,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",9.314,8.181,8.736,Upper Milk,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",9.538,8.023,8.898,Upper Milk,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",9.353,7.894,8.811,Upper Milk,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",9.384,7.948,8.812,Upper Milk,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",9.482,7.989,9.055,Upper Milk,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",9.448,8.588,8.826,Upper Milk,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",9.308,8.105,8.565,Upper Milk,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",9.403,7.78,9.079,Upper Milk,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",9.718,8.279,8.881,Upper Milk,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",9.484,8.074,8.64,Upper Milk,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",9.122,8.157,9.083,Upper Milk,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",9.307,8.36,8.932,Upper Milk,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",9.126,7.858,8.763,Upper Milk,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",9.494,8.151,8.685,Upper Milk,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",9.393,8.504,9.184,Upper Milk,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",9.555,8.06,9.253,Upper Milk,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",9.257,8.144,8.589,Upper Milk,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",9.244,7.8,8.469,Upper Milk,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",9.433,8.096,8.78,Upper Milk,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",9.773,7.984,8.8,Upper Milk,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",9.592,8.414,9.011,Upper Milk,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",9.136,7.78,8.764,Upper Milk,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",9.234,8.33,8.628,Upper Milk,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",9.679,7.856,9.067,Upper Milk,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",9.455,7.881,8.583,Upper Milk,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",9.506,8.348,8.696,Upper Milk,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",9.317,8.678,8.831,Upper Milk,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",9.725,7.752,8.962,Upper Milk,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",10.016,8.049,8.929,Upper Milk,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",9.263,8.301,8.595,Upper Milk,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",9.14,8.28,9.026,Upper Milk,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",9.643,8.216,9.218,Upper Milk,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",9.213,8.144,9.005,Upper Milk,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",9.138,8.104,8.694,Upper Milk,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",9.622,8.382,8.644,Upper Milk,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",9.462,8.291,9.089,Upper Milk,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",9.566,8.475,9.179,Upper Milk,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",9.242,8.183,8.802,Upper Milk,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",9.392,7.773,8.403,Upper Milk,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",9.144,8.109,8.876,Upper Milk,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",9.567,8.172,8.895,Upper Milk,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",9.071,8.474,8.912,Upper Milk,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",8.977,7.77,8.562,Upper Milk,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",9.687,7.865,9.011,Upper Milk,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",9.223,8.207,8.816,Upper Milk,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",9.222,8.452,8.765,Upper Milk,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",9.614,8.375,8.722,Upper Milk,sfcWind

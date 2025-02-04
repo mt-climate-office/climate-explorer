@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,42.899,41.644,42.263,Beaver-Camas,tas
+1951,Historical Emissions,43.3,40.061,42.104,Beaver-Camas,tas
+1952,Historical Emissions,42.506,39.115,41.541,Beaver-Camas,tas
+1953,Historical Emissions,43.346,39.639,41.961,Beaver-Camas,tas
+1954,Historical Emissions,44.099,39.639,40.939,Beaver-Camas,tas
+1955,Historical Emissions,43.35,39.832,41.928,Beaver-Camas,tas
+1956,Historical Emissions,43.702,40.488,42.031,Beaver-Camas,tas
+1957,Historical Emissions,43.743,39.6,42.183,Beaver-Camas,tas
+1958,Historical Emissions,43.004,39.684,41.618,Beaver-Camas,tas
+1959,Historical Emissions,42.115,39.61,40.461,Beaver-Camas,tas
+1960,Historical Emissions,42.825,39.578,41.107,Beaver-Camas,tas
+1961,Historical Emissions,42.7,39.855,42.074,Beaver-Camas,tas
+1962,Historical Emissions,41.741,39.103,40.079,Beaver-Camas,tas
+1963,Historical Emissions,41.619,39.811,40.655,Beaver-Camas,tas
+1964,Historical Emissions,41.961,39.264,40.466,Beaver-Camas,tas
+1965,Historical Emissions,41.989,40.091,40.812,Beaver-Camas,tas
+1966,Historical Emissions,43.521,40.398,41.494,Beaver-Camas,tas
+1967,Historical Emissions,42.374,40.004,41.419,Beaver-Camas,tas
+1968,Historical Emissions,42.689,38.244,40.744,Beaver-Camas,tas
+1969,Historical Emissions,42.183,39.82,40.726,Beaver-Camas,tas
+1970,Historical Emissions,42.976,41.104,42.109,Beaver-Camas,tas
+1971,Historical Emissions,43.998,39.357,42.407,Beaver-Camas,tas
+1972,Historical Emissions,42.431,40.56,41.4,Beaver-Camas,tas
+1973,Historical Emissions,43.187,40.25,41.908,Beaver-Camas,tas
+1974,Historical Emissions,43.286,39.948,41.018,Beaver-Camas,tas
+1975,Historical Emissions,43.075,40.319,42.052,Beaver-Camas,tas
+1976,Historical Emissions,42.175,39.871,41.526,Beaver-Camas,tas
+1977,Historical Emissions,43.561,41.012,41.711,Beaver-Camas,tas
+1978,Historical Emissions,43.358,40.223,41.711,Beaver-Camas,tas
+1979,Historical Emissions,43.232,41.051,42.284,Beaver-Camas,tas
+1980,Historical Emissions,42.814,40.26,41.3,Beaver-Camas,tas
+1981,Historical Emissions,43.752,40.457,41.878,Beaver-Camas,tas
+1982,Historical Emissions,43.111,41.156,41.877,Beaver-Camas,tas
+1983,Historical Emissions,42.692,40.524,41.074,Beaver-Camas,tas
+1984,Historical Emissions,43.006,41.126,41.702,Beaver-Camas,tas
+1985,Historical Emissions,43.018,41.162,42.212,Beaver-Camas,tas
+1986,Historical Emissions,42.368,39.9,41.486,Beaver-Camas,tas
+1987,Historical Emissions,43.162,40.759,41.259,Beaver-Camas,tas
+1988,Historical Emissions,42.647,40.514,41.994,Beaver-Camas,tas
+1989,Historical Emissions,42.861,40.499,41.643,Beaver-Camas,tas
+1990,Historical Emissions,44.296,41.062,43.479,Beaver-Camas,tas
+1991,Historical Emissions,43.975,41.127,41.513,Beaver-Camas,tas
+1992,Historical Emissions,42.655,39.834,40.634,Beaver-Camas,tas
+1993,Historical Emissions,42.848,39.987,42.1,Beaver-Camas,tas
+1994,Historical Emissions,43.463,40.733,41.848,Beaver-Camas,tas
+1995,Historical Emissions,43.166,40.607,41.102,Beaver-Camas,tas
+1996,Historical Emissions,44.921,42.586,43.148,Beaver-Camas,tas
+1997,Historical Emissions,43.174,40.762,41.925,Beaver-Camas,tas
+1998,Historical Emissions,44.925,40.533,41.808,Beaver-Camas,tas
+1999,Historical Emissions,44.124,40.636,42.601,Beaver-Camas,tas
+2000,Historical Emissions,43.54,41.408,42.407,Beaver-Camas,tas
+2001,Historical Emissions,44.074,41.145,42.849,Beaver-Camas,tas
+2002,Historical Emissions,45.784,42.539,43.966,Beaver-Camas,tas
+2003,Historical Emissions,45.547,42.538,43.634,Beaver-Camas,tas
+2004,Historical Emissions,44.977,42.689,43.994,Beaver-Camas,tas
+2005,Historical Emissions,45.808,42.689,44.988,Beaver-Camas,tas
+2006,Historical Emissions,44.677,42.021,43.159,Beaver-Camas,tas
+2007,Historical Emissions,45.092,41.505,44.073,Beaver-Camas,tas
+2008,Historical Emissions,45.204,42.097,43.168,Beaver-Camas,tas
+2009,Historical Emissions,44.206,42.617,43.689,Beaver-Camas,tas
+2010,Historical Emissions,44.825,41.945,43.687,Beaver-Camas,tas
+2011,Historical Emissions,45.431,42.604,43.575,Beaver-Camas,tas
+2012,Historical Emissions,44.803,42.326,43.724,Beaver-Camas,tas
+2013,Historical Emissions,45.98,43.18,43.504,Beaver-Camas,tas
+2014,Historical Emissions,45.561,43.181,44.012,Beaver-Camas,tas
+2015,"Moderating Emissions
+(SSP1-2.6)",46.261,43.182,44.603,Beaver-Camas,tas
+2015,"Middle of the Road
+(SSP2-4.5)",44.913,42.518,44.006,Beaver-Camas,tas
+2015,"High Emissions
+(SSP3-7.0)",46.257,41.842,43.513,Beaver-Camas,tas
+2015,"Accelerating Emissions
+(SSP5-8.5)",45.473,42.945,43.933,Beaver-Camas,tas
+2016,"Moderating Emissions
+(SSP1-2.6)",46.93,43.544,44.405,Beaver-Camas,tas
+2016,"Middle of the Road
+(SSP2-4.5)",45.472,42.459,43.369,Beaver-Camas,tas
+2016,"High Emissions
+(SSP3-7.0)",46.686,43.066,44.654,Beaver-Camas,tas
+2016,"Accelerating Emissions
+(SSP5-8.5)",45.323,42.76,43.991,Beaver-Camas,tas
+2017,"Moderating Emissions
+(SSP1-2.6)",45.464,42.632,43.963,Beaver-Camas,tas
+2017,"Middle of the Road
+(SSP2-4.5)",46.423,42.858,44.466,Beaver-Camas,tas
+2017,"High Emissions
+(SSP3-7.0)",45.58,43.712,44.59,Beaver-Camas,tas
+2017,"Accelerating Emissions
+(SSP5-8.5)",46.073,43.455,44.663,Beaver-Camas,tas
+2018,"Moderating Emissions
+(SSP1-2.6)",44.93,43.149,44.202,Beaver-Camas,tas
+2018,"Middle of the Road
+(SSP2-4.5)",45.787,43.109,44.707,Beaver-Camas,tas
+2018,"High Emissions
+(SSP3-7.0)",45.12,42.568,44.306,Beaver-Camas,tas
+2018,"Accelerating Emissions
+(SSP5-8.5)",45.666,43.905,44.501,Beaver-Camas,tas
+2019,"Moderating Emissions
+(SSP1-2.6)",47.015,44.116,45.419,Beaver-Camas,tas
+2019,"Middle of the Road
+(SSP2-4.5)",46.52,42.164,43.154,Beaver-Camas,tas
+2019,"High Emissions
+(SSP3-7.0)",45.868,42.786,44.044,Beaver-Camas,tas
+2019,"Accelerating Emissions
+(SSP5-8.5)",45.854,43.462,44.173,Beaver-Camas,tas
+2020,"Moderating Emissions
+(SSP1-2.6)",45.448,43.4,44.848,Beaver-Camas,tas
+2020,"Middle of the Road
+(SSP2-4.5)",44.835,42.934,44.508,Beaver-Camas,tas
+2020,"High Emissions
+(SSP3-7.0)",45.184,43.664,44.777,Beaver-Camas,tas
+2020,"Accelerating Emissions
+(SSP5-8.5)",45.296,42.953,44.623,Beaver-Camas,tas
+2021,"Moderating Emissions
+(SSP1-2.6)",45.831,43.177,44.718,Beaver-Camas,tas
+2021,"Middle of the Road
+(SSP2-4.5)",45.784,43.556,45.032,Beaver-Camas,tas
+2021,"High Emissions
+(SSP3-7.0)",45.567,44.048,44.627,Beaver-Camas,tas
+2021,"Accelerating Emissions
+(SSP5-8.5)",46.048,44.332,44.804,Beaver-Camas,tas
+2022,"Moderating Emissions
+(SSP1-2.6)",46.091,43.517,44.716,Beaver-Camas,tas
+2022,"Middle of the Road
+(SSP2-4.5)",46.153,43.587,44.841,Beaver-Camas,tas
+2022,"High Emissions
+(SSP3-7.0)",46.123,43.296,44.889,Beaver-Camas,tas
+2022,"Accelerating Emissions
+(SSP5-8.5)",46.058,43.788,44.808,Beaver-Camas,tas
+2023,"Moderating Emissions
+(SSP1-2.6)",46.365,44.018,44.987,Beaver-Camas,tas
+2023,"Middle of the Road
+(SSP2-4.5)",45.876,43.692,44.105,Beaver-Camas,tas
+2023,"High Emissions
+(SSP3-7.0)",46.39,42.963,44.539,Beaver-Camas,tas
+2023,"Accelerating Emissions
+(SSP5-8.5)",45.885,42.4,43.918,Beaver-Camas,tas
+2024,"Moderating Emissions
+(SSP1-2.6)",46.525,43.623,44.829,Beaver-Camas,tas
+2024,"Middle of the Road
+(SSP2-4.5)",45.646,43.4,44.26,Beaver-Camas,tas
+2024,"High Emissions
+(SSP3-7.0)",47.543,43.795,44.385,Beaver-Camas,tas
+2024,"Accelerating Emissions
+(SSP5-8.5)",47.103,43.354,45.298,Beaver-Camas,tas
+2025,"Moderating Emissions
+(SSP1-2.6)",46.547,43.731,45.385,Beaver-Camas,tas
+2025,"Middle of the Road
+(SSP2-4.5)",46.892,43.006,44.612,Beaver-Camas,tas
+2025,"High Emissions
+(SSP3-7.0)",46.815,44.643,45.823,Beaver-Camas,tas
+2025,"Accelerating Emissions
+(SSP5-8.5)",46.797,44.571,45.858,Beaver-Camas,tas
+2026,"Moderating Emissions
+(SSP1-2.6)",46.858,44.221,45.311,Beaver-Camas,tas
+2026,"Middle of the Road
+(SSP2-4.5)",46.717,43.736,45.503,Beaver-Camas,tas
+2026,"High Emissions
+(SSP3-7.0)",46.669,43.39,45.454,Beaver-Camas,tas
+2026,"Accelerating Emissions
+(SSP5-8.5)",47.218,44.074,45.341,Beaver-Camas,tas
+2027,"Moderating Emissions
+(SSP1-2.6)",46.174,42.92,45.142,Beaver-Camas,tas
+2027,"Middle of the Road
+(SSP2-4.5)",49.312,43.42,45.248,Beaver-Camas,tas
+2027,"High Emissions
+(SSP3-7.0)",47.026,43.836,45.364,Beaver-Camas,tas
+2027,"Accelerating Emissions
+(SSP5-8.5)",46.743,43.654,44.637,Beaver-Camas,tas
+2028,"Moderating Emissions
+(SSP1-2.6)",46.636,44.575,46.326,Beaver-Camas,tas
+2028,"Middle of the Road
+(SSP2-4.5)",46.563,42.572,44.461,Beaver-Camas,tas
+2028,"High Emissions
+(SSP3-7.0)",46.353,44.755,45.364,Beaver-Camas,tas
+2028,"Accelerating Emissions
+(SSP5-8.5)",47.081,44.165,45.357,Beaver-Camas,tas
+2029,"Moderating Emissions
+(SSP1-2.6)",48.059,45.247,46.315,Beaver-Camas,tas
+2029,"Middle of the Road
+(SSP2-4.5)",46.426,44.046,45.366,Beaver-Camas,tas
+2029,"High Emissions
+(SSP3-7.0)",47.205,42.861,44.462,Beaver-Camas,tas
+2029,"Accelerating Emissions
+(SSP5-8.5)",46.598,44.255,45.477,Beaver-Camas,tas
+2030,"Moderating Emissions
+(SSP1-2.6)",48.038,44.179,45.552,Beaver-Camas,tas
+2030,"Middle of the Road
+(SSP2-4.5)",46.827,45.011,45.26,Beaver-Camas,tas
+2030,"High Emissions
+(SSP3-7.0)",46.494,44.59,45.044,Beaver-Camas,tas
+2030,"Accelerating Emissions
+(SSP5-8.5)",47.625,44.444,45.593,Beaver-Camas,tas
+2031,"Moderating Emissions
+(SSP1-2.6)",46.744,44.259,44.93,Beaver-Camas,tas
+2031,"Middle of the Road
+(SSP2-4.5)",48.008,43.691,46.762,Beaver-Camas,tas
+2031,"High Emissions
+(SSP3-7.0)",47.334,43.132,46.015,Beaver-Camas,tas
+2031,"Accelerating Emissions
+(SSP5-8.5)",46.961,44.935,46.371,Beaver-Camas,tas
+2032,"Moderating Emissions
+(SSP1-2.6)",46.729,44.263,45.793,Beaver-Camas,tas
+2032,"Middle of the Road
+(SSP2-4.5)",46.11,43.669,44.579,Beaver-Camas,tas
+2032,"High Emissions
+(SSP3-7.0)",46.99,43.573,44.624,Beaver-Camas,tas
+2032,"Accelerating Emissions
+(SSP5-8.5)",47.52,44.026,44.543,Beaver-Camas,tas
+2033,"Moderating Emissions
+(SSP1-2.6)",46.557,44.436,45.751,Beaver-Camas,tas
+2033,"Middle of the Road
+(SSP2-4.5)",47.761,44.772,46.406,Beaver-Camas,tas
+2033,"High Emissions
+(SSP3-7.0)",47.176,44.414,45.071,Beaver-Camas,tas
+2033,"Accelerating Emissions
+(SSP5-8.5)",47.201,44.064,46.434,Beaver-Camas,tas
+2034,"Moderating Emissions
+(SSP1-2.6)",46.603,43.744,45.246,Beaver-Camas,tas
+2034,"Middle of the Road
+(SSP2-4.5)",47.664,43.722,45.753,Beaver-Camas,tas
+2034,"High Emissions
+(SSP3-7.0)",47.661,44.424,45.666,Beaver-Camas,tas
+2034,"Accelerating Emissions
+(SSP5-8.5)",47.22,43.704,46.08,Beaver-Camas,tas
+2035,"Moderating Emissions
+(SSP1-2.6)",46.257,43.299,45.829,Beaver-Camas,tas
+2035,"Middle of the Road
+(SSP2-4.5)",47.594,44.387,46.022,Beaver-Camas,tas
+2035,"High Emissions
+(SSP3-7.0)",46.907,44.375,45.95,Beaver-Camas,tas
+2035,"Accelerating Emissions
+(SSP5-8.5)",47.039,44.482,45.903,Beaver-Camas,tas
+2036,"Moderating Emissions
+(SSP1-2.6)",47.763,45.119,45.976,Beaver-Camas,tas
+2036,"Middle of the Road
+(SSP2-4.5)",46.071,44.314,45.466,Beaver-Camas,tas
+2036,"High Emissions
+(SSP3-7.0)",47.234,44.678,46.116,Beaver-Camas,tas
+2036,"Accelerating Emissions
+(SSP5-8.5)",47.954,43.043,47.398,Beaver-Camas,tas
+2037,"Moderating Emissions
+(SSP1-2.6)",47.125,44.956,46.473,Beaver-Camas,tas
+2037,"Middle of the Road
+(SSP2-4.5)",48.028,43.246,45.261,Beaver-Camas,tas
+2037,"High Emissions
+(SSP3-7.0)",47.434,43.494,44.761,Beaver-Camas,tas
+2037,"Accelerating Emissions
+(SSP5-8.5)",47.525,45.215,45.962,Beaver-Camas,tas
+2038,"Moderating Emissions
+(SSP1-2.6)",46.923,44.53,45.85,Beaver-Camas,tas
+2038,"Middle of the Road
+(SSP2-4.5)",46.586,43.721,45.546,Beaver-Camas,tas
+2038,"High Emissions
+(SSP3-7.0)",48.35,45.011,45.783,Beaver-Camas,tas
+2038,"Accelerating Emissions
+(SSP5-8.5)",47.973,44.738,46.346,Beaver-Camas,tas
+2039,"Moderating Emissions
+(SSP1-2.6)",47.108,43.733,46.222,Beaver-Camas,tas
+2039,"Middle of the Road
+(SSP2-4.5)",45.885,44.594,45.522,Beaver-Camas,tas
+2039,"High Emissions
+(SSP3-7.0)",48.469,45.607,46.661,Beaver-Camas,tas
+2039,"Accelerating Emissions
+(SSP5-8.5)",48.237,43.498,45.092,Beaver-Camas,tas
+2040,"Moderating Emissions
+(SSP1-2.6)",47.625,43.855,45.11,Beaver-Camas,tas
+2040,"Middle of the Road
+(SSP2-4.5)",46.784,44.59,46.149,Beaver-Camas,tas
+2040,"High Emissions
+(SSP3-7.0)",47.993,45.502,45.825,Beaver-Camas,tas
+2040,"Accelerating Emissions
+(SSP5-8.5)",50.042,45.894,47.124,Beaver-Camas,tas
+2041,"Moderating Emissions
+(SSP1-2.6)",47.407,43.286,45.549,Beaver-Camas,tas
+2041,"Middle of the Road
+(SSP2-4.5)",47.143,44.562,46.709,Beaver-Camas,tas
+2041,"High Emissions
+(SSP3-7.0)",47.407,43.993,46.194,Beaver-Camas,tas
+2041,"Accelerating Emissions
+(SSP5-8.5)",47.715,45.124,46.901,Beaver-Camas,tas
+2042,"Moderating Emissions
+(SSP1-2.6)",48.676,45.224,46.218,Beaver-Camas,tas
+2042,"Middle of the Road
+(SSP2-4.5)",47.619,43.943,45.55,Beaver-Camas,tas
+2042,"High Emissions
+(SSP3-7.0)",48.013,45.007,45.871,Beaver-Camas,tas
+2042,"Accelerating Emissions
+(SSP5-8.5)",48.939,45.854,47.099,Beaver-Camas,tas
+2043,"Moderating Emissions
+(SSP1-2.6)",48.131,44.99,45.988,Beaver-Camas,tas
+2043,"Middle of the Road
+(SSP2-4.5)",47.585,44.99,45.991,Beaver-Camas,tas
+2043,"High Emissions
+(SSP3-7.0)",47.289,44.806,46.414,Beaver-Camas,tas
+2043,"Accelerating Emissions
+(SSP5-8.5)",47.986,45.531,47.264,Beaver-Camas,tas
+2044,"Moderating Emissions
+(SSP1-2.6)",47.87,44.592,47.266,Beaver-Camas,tas
+2044,"Middle of the Road
+(SSP2-4.5)",48.53,45.544,46.566,Beaver-Camas,tas
+2044,"High Emissions
+(SSP3-7.0)",48.337,45.314,46.595,Beaver-Camas,tas
+2044,"Accelerating Emissions
+(SSP5-8.5)",50.453,46.297,47.147,Beaver-Camas,tas
+2045,"Moderating Emissions
+(SSP1-2.6)",48.281,45.216,46.64,Beaver-Camas,tas
+2045,"Middle of the Road
+(SSP2-4.5)",49.788,44.946,46.534,Beaver-Camas,tas
+2045,"High Emissions
+(SSP3-7.0)",49.52,45.129,46.734,Beaver-Camas,tas
+2045,"Accelerating Emissions
+(SSP5-8.5)",48.272,45.732,46.803,Beaver-Camas,tas
+2046,"Moderating Emissions
+(SSP1-2.6)",48.402,44.196,45.553,Beaver-Camas,tas
+2046,"Middle of the Road
+(SSP2-4.5)",48.026,44.462,46.797,Beaver-Camas,tas
+2046,"High Emissions
+(SSP3-7.0)",48.091,46.473,47.05,Beaver-Camas,tas
+2046,"Accelerating Emissions
+(SSP5-8.5)",48.649,44.036,45.545,Beaver-Camas,tas
+2047,"Moderating Emissions
+(SSP1-2.6)",47.92,45.051,46.968,Beaver-Camas,tas
+2047,"Middle of the Road
+(SSP2-4.5)",47.82,42.894,47.19,Beaver-Camas,tas
+2047,"High Emissions
+(SSP3-7.0)",47.175,45.528,46.828,Beaver-Camas,tas
+2047,"Accelerating Emissions
+(SSP5-8.5)",49.271,44.767,47.746,Beaver-Camas,tas
+2048,"Moderating Emissions
+(SSP1-2.6)",47.969,43.669,46.346,Beaver-Camas,tas
+2048,"Middle of the Road
+(SSP2-4.5)",48.815,44.926,47.512,Beaver-Camas,tas
+2048,"High Emissions
+(SSP3-7.0)",48.349,44.808,47.572,Beaver-Camas,tas
+2048,"Accelerating Emissions
+(SSP5-8.5)",51.362,45.619,48.527,Beaver-Camas,tas
+2049,"Moderating Emissions
+(SSP1-2.6)",47.56,43.849,44.299,Beaver-Camas,tas
+2049,"Middle of the Road
+(SSP2-4.5)",48.313,45.448,46.097,Beaver-Camas,tas
+2049,"High Emissions
+(SSP3-7.0)",49.266,45.464,47.535,Beaver-Camas,tas
+2049,"Accelerating Emissions
+(SSP5-8.5)",48.685,45.606,46.911,Beaver-Camas,tas
+2050,"Moderating Emissions
+(SSP1-2.6)",47.768,43.259,46.569,Beaver-Camas,tas
+2050,"Middle of the Road
+(SSP2-4.5)",48.592,45.061,47.718,Beaver-Camas,tas
+2050,"High Emissions
+(SSP3-7.0)",49.344,45.973,47.063,Beaver-Camas,tas
+2050,"Accelerating Emissions
+(SSP5-8.5)",49.132,45.465,47.33,Beaver-Camas,tas
+2051,"Moderating Emissions
+(SSP1-2.6)",47.982,44.636,46.209,Beaver-Camas,tas
+2051,"Middle of the Road
+(SSP2-4.5)",48.152,45.703,46.508,Beaver-Camas,tas
+2051,"High Emissions
+(SSP3-7.0)",49.173,45.679,47.583,Beaver-Camas,tas
+2051,"Accelerating Emissions
+(SSP5-8.5)",49.473,45.07,47.161,Beaver-Camas,tas
+2052,"Moderating Emissions
+(SSP1-2.6)",47.602,44.839,46.54,Beaver-Camas,tas
+2052,"Middle of the Road
+(SSP2-4.5)",48.126,44.964,45.546,Beaver-Camas,tas
+2052,"High Emissions
+(SSP3-7.0)",48.124,45.207,46.536,Beaver-Camas,tas
+2052,"Accelerating Emissions
+(SSP5-8.5)",48.374,46.514,46.91,Beaver-Camas,tas
+2053,"Moderating Emissions
+(SSP1-2.6)",47.689,43.305,46.049,Beaver-Camas,tas
+2053,"Middle of the Road
+(SSP2-4.5)",48.255,44.856,47.279,Beaver-Camas,tas
+2053,"High Emissions
+(SSP3-7.0)",50.215,46.19,48.714,Beaver-Camas,tas
+2053,"Accelerating Emissions
+(SSP5-8.5)",50.484,45.844,46.915,Beaver-Camas,tas
+2054,"Moderating Emissions
+(SSP1-2.6)",47.517,45.716,47.006,Beaver-Camas,tas
+2054,"Middle of the Road
+(SSP2-4.5)",48.526,45.205,46.316,Beaver-Camas,tas
+2054,"High Emissions
+(SSP3-7.0)",48.492,45.579,47.123,Beaver-Camas,tas
+2054,"Accelerating Emissions
+(SSP5-8.5)",50.056,46.472,48.485,Beaver-Camas,tas
+2055,"Moderating Emissions
+(SSP1-2.6)",47.876,45.779,46.65,Beaver-Camas,tas
+2055,"Middle of the Road
+(SSP2-4.5)",48.688,44.56,46.602,Beaver-Camas,tas
+2055,"High Emissions
+(SSP3-7.0)",48.513,46.111,47.856,Beaver-Camas,tas
+2055,"Accelerating Emissions
+(SSP5-8.5)",49.748,46.546,48.825,Beaver-Camas,tas
+2056,"Moderating Emissions
+(SSP1-2.6)",47.689,44.957,46.517,Beaver-Camas,tas
+2056,"Middle of the Road
+(SSP2-4.5)",50.089,45.679,47.27,Beaver-Camas,tas
+2056,"High Emissions
+(SSP3-7.0)",49.085,46.018,47.385,Beaver-Camas,tas
+2056,"Accelerating Emissions
+(SSP5-8.5)",50.354,46.661,49.179,Beaver-Camas,tas
+2057,"Moderating Emissions
+(SSP1-2.6)",47.287,43.939,45.848,Beaver-Camas,tas
+2057,"Middle of the Road
+(SSP2-4.5)",48.863,46.028,46.757,Beaver-Camas,tas
+2057,"High Emissions
+(SSP3-7.0)",49.016,45.644,46.625,Beaver-Camas,tas
+2057,"Accelerating Emissions
+(SSP5-8.5)",51.372,46.611,47.994,Beaver-Camas,tas
+2058,"Moderating Emissions
+(SSP1-2.6)",48.101,44.534,45.77,Beaver-Camas,tas
+2058,"Middle of the Road
+(SSP2-4.5)",49.823,45.8,46.823,Beaver-Camas,tas
+2058,"High Emissions
+(SSP3-7.0)",48.732,45.866,48.006,Beaver-Camas,tas
+2058,"Accelerating Emissions
+(SSP5-8.5)",49.567,45.077,47.905,Beaver-Camas,tas
+2059,"Moderating Emissions
+(SSP1-2.6)",48.062,45.336,46.221,Beaver-Camas,tas
+2059,"Middle of the Road
+(SSP2-4.5)",49.589,46.266,47.82,Beaver-Camas,tas
+2059,"High Emissions
+(SSP3-7.0)",49.75,46.042,48.018,Beaver-Camas,tas
+2059,"Accelerating Emissions
+(SSP5-8.5)",51.357,47.029,48.862,Beaver-Camas,tas
+2060,"Moderating Emissions
+(SSP1-2.6)",48.545,44.617,46.468,Beaver-Camas,tas
+2060,"Middle of the Road
+(SSP2-4.5)",49.865,45.272,46.409,Beaver-Camas,tas
+2060,"High Emissions
+(SSP3-7.0)",49.766,46.433,47.993,Beaver-Camas,tas
+2060,"Accelerating Emissions
+(SSP5-8.5)",49.952,47.042,48.736,Beaver-Camas,tas
+2061,"Moderating Emissions
+(SSP1-2.6)",47.261,45.002,45.853,Beaver-Camas,tas
+2061,"Middle of the Road
+(SSP2-4.5)",49.106,45.199,46.397,Beaver-Camas,tas
+2061,"High Emissions
+(SSP3-7.0)",49.519,46.377,47.888,Beaver-Camas,tas
+2061,"Accelerating Emissions
+(SSP5-8.5)",51.323,47.817,48.873,Beaver-Camas,tas
+2062,"Moderating Emissions
+(SSP1-2.6)",47.705,45.362,46.614,Beaver-Camas,tas
+2062,"Middle of the Road
+(SSP2-4.5)",49.782,44.856,45.989,Beaver-Camas,tas
+2062,"High Emissions
+(SSP3-7.0)",49.09,46.535,48.368,Beaver-Camas,tas
+2062,"Accelerating Emissions
+(SSP5-8.5)",51.837,47.942,49.161,Beaver-Camas,tas
+2063,"Moderating Emissions
+(SSP1-2.6)",47.861,43.636,45.631,Beaver-Camas,tas
+2063,"Middle of the Road
+(SSP2-4.5)",48.892,45.211,46.433,Beaver-Camas,tas
+2063,"High Emissions
+(SSP3-7.0)",49.608,46.667,48.077,Beaver-Camas,tas
+2063,"Accelerating Emissions
+(SSP5-8.5)",51.372,47.27,50.026,Beaver-Camas,tas
+2064,"Moderating Emissions
+(SSP1-2.6)",49.335,44.191,48.5,Beaver-Camas,tas
+2064,"Middle of the Road
+(SSP2-4.5)",48.015,45.481,47.269,Beaver-Camas,tas
+2064,"High Emissions
+(SSP3-7.0)",48.927,46.825,48.213,Beaver-Camas,tas
+2064,"Accelerating Emissions
+(SSP5-8.5)",49.8,47.802,49.138,Beaver-Camas,tas
+2065,"Moderating Emissions
+(SSP1-2.6)",48.113,44.503,46.198,Beaver-Camas,tas
+2065,"Middle of the Road
+(SSP2-4.5)",49.577,44.302,47.19,Beaver-Camas,tas
+2065,"High Emissions
+(SSP3-7.0)",50.269,46.764,48.172,Beaver-Camas,tas
+2065,"Accelerating Emissions
+(SSP5-8.5)",52.547,48.89,49.778,Beaver-Camas,tas
+2066,"Moderating Emissions
+(SSP1-2.6)",48.411,45.076,47.32,Beaver-Camas,tas
+2066,"Middle of the Road
+(SSP2-4.5)",49.838,46.707,48.161,Beaver-Camas,tas
+2066,"High Emissions
+(SSP3-7.0)",50.033,45.854,48.271,Beaver-Camas,tas
+2066,"Accelerating Emissions
+(SSP5-8.5)",52.036,47.736,49.918,Beaver-Camas,tas
+2067,"Moderating Emissions
+(SSP1-2.6)",48.676,46.142,47.022,Beaver-Camas,tas
+2067,"Middle of the Road
+(SSP2-4.5)",48.964,45.604,46.982,Beaver-Camas,tas
+2067,"High Emissions
+(SSP3-7.0)",50.782,47.138,48.566,Beaver-Camas,tas
+2067,"Accelerating Emissions
+(SSP5-8.5)",51.992,48.132,49.515,Beaver-Camas,tas
+2068,"Moderating Emissions
+(SSP1-2.6)",48.914,45.559,46.32,Beaver-Camas,tas
+2068,"Middle of the Road
+(SSP2-4.5)",48.333,45.656,47.606,Beaver-Camas,tas
+2068,"High Emissions
+(SSP3-7.0)",50.368,46.911,47.864,Beaver-Camas,tas
+2068,"Accelerating Emissions
+(SSP5-8.5)",51.314,48.263,49.489,Beaver-Camas,tas
+2069,"Moderating Emissions
+(SSP1-2.6)",48.374,44.702,47.499,Beaver-Camas,tas
+2069,"Middle of the Road
+(SSP2-4.5)",48.591,45.732,47.154,Beaver-Camas,tas
+2069,"High Emissions
+(SSP3-7.0)",52.041,47.569,49.416,Beaver-Camas,tas
+2069,"Accelerating Emissions
+(SSP5-8.5)",53.438,48.242,49.971,Beaver-Camas,tas
+2070,"Moderating Emissions
+(SSP1-2.6)",47.661,45.713,46.277,Beaver-Camas,tas
+2070,"Middle of the Road
+(SSP2-4.5)",49.28,44.87,47.636,Beaver-Camas,tas
+2070,"High Emissions
+(SSP3-7.0)",51.253,47.978,48.883,Beaver-Camas,tas
+2070,"Accelerating Emissions
+(SSP5-8.5)",53.085,48.867,50.039,Beaver-Camas,tas
+2071,"Moderating Emissions
+(SSP1-2.6)",48.544,44.681,46.629,Beaver-Camas,tas
+2071,"Middle of the Road
+(SSP2-4.5)",48.125,45.47,47.318,Beaver-Camas,tas
+2071,"High Emissions
+(SSP3-7.0)",50.736,48.459,49.252,Beaver-Camas,tas
+2071,"Accelerating Emissions
+(SSP5-8.5)",51.957,47.905,49.204,Beaver-Camas,tas
+2072,"Moderating Emissions
+(SSP1-2.6)",47.985,45.451,46.945,Beaver-Camas,tas
+2072,"Middle of the Road
+(SSP2-4.5)",50.312,45.955,47.362,Beaver-Camas,tas
+2072,"High Emissions
+(SSP3-7.0)",51.782,47.586,48.279,Beaver-Camas,tas
+2072,"Accelerating Emissions
+(SSP5-8.5)",51.94,48.371,50.441,Beaver-Camas,tas
+2073,"Moderating Emissions
+(SSP1-2.6)",47.707,44.719,46.063,Beaver-Camas,tas
+2073,"Middle of the Road
+(SSP2-4.5)",50.426,45.269,46.889,Beaver-Camas,tas
+2073,"High Emissions
+(SSP3-7.0)",52.17,47.964,49.789,Beaver-Camas,tas
+2073,"Accelerating Emissions
+(SSP5-8.5)",52.101,48.198,50.393,Beaver-Camas,tas
+2074,"Moderating Emissions
+(SSP1-2.6)",49.96,44.289,47.46,Beaver-Camas,tas
+2074,"Middle of the Road
+(SSP2-4.5)",50.115,45.487,47.469,Beaver-Camas,tas
+2074,"High Emissions
+(SSP3-7.0)",50.886,47.068,48.241,Beaver-Camas,tas
+2074,"Accelerating Emissions
+(SSP5-8.5)",52.87,47.912,51.408,Beaver-Camas,tas
+2075,"Moderating Emissions
+(SSP1-2.6)",48.11,43.419,46.995,Beaver-Camas,tas
+2075,"Middle of the Road
+(SSP2-4.5)",50.613,44.985,46.803,Beaver-Camas,tas
+2075,"High Emissions
+(SSP3-7.0)",51.178,45.998,47.516,Beaver-Camas,tas
+2075,"Accelerating Emissions
+(SSP5-8.5)",52.87,48.305,50.755,Beaver-Camas,tas
+2076,"Moderating Emissions
+(SSP1-2.6)",48.085,44.131,45.621,Beaver-Camas,tas
+2076,"Middle of the Road
+(SSP2-4.5)",48.569,46.107,47.251,Beaver-Camas,tas
+2076,"High Emissions
+(SSP3-7.0)",52.303,48.337,49.973,Beaver-Camas,tas
+2076,"Accelerating Emissions
+(SSP5-8.5)",52.873,48.323,49.561,Beaver-Camas,tas
+2077,"Moderating Emissions
+(SSP1-2.6)",48.433,44.908,47.605,Beaver-Camas,tas
+2077,"Middle of the Road
+(SSP2-4.5)",50.532,46.145,49.035,Beaver-Camas,tas
+2077,"High Emissions
+(SSP3-7.0)",52.321,46.713,50.412,Beaver-Camas,tas
+2077,"Accelerating Emissions
+(SSP5-8.5)",52.728,48.507,51.258,Beaver-Camas,tas
+2078,"Moderating Emissions
+(SSP1-2.6)",48.518,45.023,46.309,Beaver-Camas,tas
+2078,"Middle of the Road
+(SSP2-4.5)",50.195,46.71,48.91,Beaver-Camas,tas
+2078,"High Emissions
+(SSP3-7.0)",51.076,48.47,49.572,Beaver-Camas,tas
+2078,"Accelerating Emissions
+(SSP5-8.5)",51.935,49.421,50.22,Beaver-Camas,tas
+2079,"Moderating Emissions
+(SSP1-2.6)",48.159,44.459,46.922,Beaver-Camas,tas
+2079,"Middle of the Road
+(SSP2-4.5)",50.529,46.245,48.65,Beaver-Camas,tas
+2079,"High Emissions
+(SSP3-7.0)",50.675,47.917,49.276,Beaver-Camas,tas
+2079,"Accelerating Emissions
+(SSP5-8.5)",53.466,48.127,51.296,Beaver-Camas,tas
+2080,"Moderating Emissions
+(SSP1-2.6)",46.307,45.112,45.447,Beaver-Camas,tas
+2080,"Middle of the Road
+(SSP2-4.5)",50.048,45.986,48.355,Beaver-Camas,tas
+2080,"High Emissions
+(SSP3-7.0)",52.669,48.86,49.485,Beaver-Camas,tas
+2080,"Accelerating Emissions
+(SSP5-8.5)",53.553,50.389,51.592,Beaver-Camas,tas
+2081,"Moderating Emissions
+(SSP1-2.6)",49.2,44.687,46.179,Beaver-Camas,tas
+2081,"Middle of the Road
+(SSP2-4.5)",49.129,46.49,48.04,Beaver-Camas,tas
+2081,"High Emissions
+(SSP3-7.0)",53.418,46.959,49.71,Beaver-Camas,tas
+2081,"Accelerating Emissions
+(SSP5-8.5)",54.397,49.843,51.715,Beaver-Camas,tas
+2082,"Moderating Emissions
+(SSP1-2.6)",48.714,45.743,46.865,Beaver-Camas,tas
+2082,"Middle of the Road
+(SSP2-4.5)",49.894,46.928,48.46,Beaver-Camas,tas
+2082,"High Emissions
+(SSP3-7.0)",53.279,47.371,49,Beaver-Camas,tas
+2082,"Accelerating Emissions
+(SSP5-8.5)",54.233,49.88,53.036,Beaver-Camas,tas
+2083,"Moderating Emissions
+(SSP1-2.6)",48.552,45.074,46.552,Beaver-Camas,tas
+2083,"Middle of the Road
+(SSP2-4.5)",50.062,45.561,47.151,Beaver-Camas,tas
+2083,"High Emissions
+(SSP3-7.0)",51.541,47.386,49.89,Beaver-Camas,tas
+2083,"Accelerating Emissions
+(SSP5-8.5)",53.788,49.381,52.853,Beaver-Camas,tas
+2084,"Moderating Emissions
+(SSP1-2.6)",49.072,44.084,46.151,Beaver-Camas,tas
+2084,"Middle of the Road
+(SSP2-4.5)",50.749,46.733,48.891,Beaver-Camas,tas
+2084,"High Emissions
+(SSP3-7.0)",52.736,48.978,51.428,Beaver-Camas,tas
+2084,"Accelerating Emissions
+(SSP5-8.5)",54.097,50.047,51.987,Beaver-Camas,tas
+2085,"Moderating Emissions
+(SSP1-2.6)",48.765,43.824,45.52,Beaver-Camas,tas
+2085,"Middle of the Road
+(SSP2-4.5)",49.725,46.311,48.625,Beaver-Camas,tas
+2085,"High Emissions
+(SSP3-7.0)",52.054,48.954,50.026,Beaver-Camas,tas
+2085,"Accelerating Emissions
+(SSP5-8.5)",54.955,49.901,52.654,Beaver-Camas,tas
+2086,"Moderating Emissions
+(SSP1-2.6)",48.115,45.084,46.556,Beaver-Camas,tas
+2086,"Middle of the Road
+(SSP2-4.5)",50.642,46.381,48.937,Beaver-Camas,tas
+2086,"High Emissions
+(SSP3-7.0)",52.029,48.542,50.361,Beaver-Camas,tas
+2086,"Accelerating Emissions
+(SSP5-8.5)",55.925,49.798,53.004,Beaver-Camas,tas
+2087,"Moderating Emissions
+(SSP1-2.6)",46.83,44.843,46.144,Beaver-Camas,tas
+2087,"Middle of the Road
+(SSP2-4.5)",49.664,47.454,48.705,Beaver-Camas,tas
+2087,"High Emissions
+(SSP3-7.0)",53.208,48.224,50.106,Beaver-Camas,tas
+2087,"Accelerating Emissions
+(SSP5-8.5)",54.449,50.749,52.705,Beaver-Camas,tas
+2088,"Moderating Emissions
+(SSP1-2.6)",48.621,44.642,45.957,Beaver-Camas,tas
+2088,"Middle of the Road
+(SSP2-4.5)",49.985,47.23,48.135,Beaver-Camas,tas
+2088,"High Emissions
+(SSP3-7.0)",53.869,48.144,51.521,Beaver-Camas,tas
+2088,"Accelerating Emissions
+(SSP5-8.5)",54.679,50.943,52.983,Beaver-Camas,tas
+2089,"Moderating Emissions
+(SSP1-2.6)",47.247,45.071,46.388,Beaver-Camas,tas
+2089,"Middle of the Road
+(SSP2-4.5)",50.995,47.385,48.396,Beaver-Camas,tas
+2089,"High Emissions
+(SSP3-7.0)",52.713,48.887,50.437,Beaver-Camas,tas
+2089,"Accelerating Emissions
+(SSP5-8.5)",55.861,51.407,53.055,Beaver-Camas,tas
+2090,"Moderating Emissions
+(SSP1-2.6)",47.622,45.287,46.856,Beaver-Camas,tas
+2090,"Middle of the Road
+(SSP2-4.5)",49.745,46.234,48.607,Beaver-Camas,tas
+2090,"High Emissions
+(SSP3-7.0)",53.924,49.671,50.87,Beaver-Camas,tas
+2090,"Accelerating Emissions
+(SSP5-8.5)",55.301,51.275,53.327,Beaver-Camas,tas
+2091,"Moderating Emissions
+(SSP1-2.6)",48.333,44.699,46.358,Beaver-Camas,tas
+2091,"Middle of the Road
+(SSP2-4.5)",50.212,46.238,49.182,Beaver-Camas,tas
+2091,"High Emissions
+(SSP3-7.0)",53.459,49.695,52.064,Beaver-Camas,tas
+2091,"Accelerating Emissions
+(SSP5-8.5)",55.205,50.055,51.915,Beaver-Camas,tas
+2092,"Moderating Emissions
+(SSP1-2.6)",47.972,43.792,47.115,Beaver-Camas,tas
+2092,"Middle of the Road
+(SSP2-4.5)",51.771,46.759,49.885,Beaver-Camas,tas
+2092,"High Emissions
+(SSP3-7.0)",53.3,49.504,51.27,Beaver-Camas,tas
+2092,"Accelerating Emissions
+(SSP5-8.5)",54.841,49.778,52.65,Beaver-Camas,tas
+2093,"Moderating Emissions
+(SSP1-2.6)",48.362,43.853,45.452,Beaver-Camas,tas
+2093,"Middle of the Road
+(SSP2-4.5)",50.5,46.133,49.045,Beaver-Camas,tas
+2093,"High Emissions
+(SSP3-7.0)",54.07,49.4,50.529,Beaver-Camas,tas
+2093,"Accelerating Emissions
+(SSP5-8.5)",56.991,51.398,52.176,Beaver-Camas,tas
+2094,"Moderating Emissions
+(SSP1-2.6)",49.624,44.535,45.463,Beaver-Camas,tas
+2094,"Middle of the Road
+(SSP2-4.5)",51.029,45.999,48.362,Beaver-Camas,tas
+2094,"High Emissions
+(SSP3-7.0)",53.912,48.637,51.837,Beaver-Camas,tas
+2094,"Accelerating Emissions
+(SSP5-8.5)",56.935,50.578,54.142,Beaver-Camas,tas
+2095,"Moderating Emissions
+(SSP1-2.6)",48.938,45.471,46.924,Beaver-Camas,tas
+2095,"Middle of the Road
+(SSP2-4.5)",51.546,46.658,49.019,Beaver-Camas,tas
+2095,"High Emissions
+(SSP3-7.0)",54.887,49.009,52.452,Beaver-Camas,tas
+2095,"Accelerating Emissions
+(SSP5-8.5)",55.097,50.527,52.82,Beaver-Camas,tas
+2096,"Moderating Emissions
+(SSP1-2.6)",47.146,44.218,45.834,Beaver-Camas,tas
+2096,"Middle of the Road
+(SSP2-4.5)",51.188,47.758,48.801,Beaver-Camas,tas
+2096,"High Emissions
+(SSP3-7.0)",53.096,49.749,52.51,Beaver-Camas,tas
+2096,"Accelerating Emissions
+(SSP5-8.5)",55.776,50.474,53.226,Beaver-Camas,tas
+2097,"Moderating Emissions
+(SSP1-2.6)",47.876,44.242,45.587,Beaver-Camas,tas
+2097,"Middle of the Road
+(SSP2-4.5)",52.59,47.857,49.082,Beaver-Camas,tas
+2097,"High Emissions
+(SSP3-7.0)",55.179,48.628,52.184,Beaver-Camas,tas
+2097,"Accelerating Emissions
+(SSP5-8.5)",58.703,50.063,53.494,Beaver-Camas,tas
+2098,"Moderating Emissions
+(SSP1-2.6)",47.681,44.558,45.516,Beaver-Camas,tas
+2098,"Middle of the Road
+(SSP2-4.5)",49.755,46.771,47.781,Beaver-Camas,tas
+2098,"High Emissions
+(SSP3-7.0)",54.863,49.816,51.824,Beaver-Camas,tas
+2098,"Accelerating Emissions
+(SSP5-8.5)",56.867,51.705,53.834,Beaver-Camas,tas
+2099,"Moderating Emissions
+(SSP1-2.6)",49.024,43.939,46.786,Beaver-Camas,tas
+2099,"Middle of the Road
+(SSP2-4.5)",50.218,46.744,48.026,Beaver-Camas,tas
+2099,"High Emissions
+(SSP3-7.0)",55.246,49.996,50.872,Beaver-Camas,tas
+2099,"Accelerating Emissions
+(SSP5-8.5)",57.981,50.923,55.243,Beaver-Camas,tas
+2100,"Moderating Emissions
+(SSP1-2.6)",48.202,43.317,45.119,Beaver-Camas,tas
+2100,"Middle of the Road
+(SSP2-4.5)",51.81,46.991,48.974,Beaver-Camas,tas
+2100,"High Emissions
+(SSP3-7.0)",53.927,49.571,51.785,Beaver-Camas,tas
+2100,"Accelerating Emissions
+(SSP5-8.5)",56.179,51,53.65,Beaver-Camas,tas

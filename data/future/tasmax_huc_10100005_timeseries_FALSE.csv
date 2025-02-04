@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,60.184,57.462,58.169,O'Fallon,tasmax
+1951,Historical Emissions,60.069,55.489,58.469,O'Fallon,tasmax
+1952,Historical Emissions,60.163,55.292,58.549,O'Fallon,tasmax
+1953,Historical Emissions,61.028,54.592,56.987,O'Fallon,tasmax
+1954,Historical Emissions,59.122,54.998,57.933,O'Fallon,tasmax
+1955,Historical Emissions,61.494,55.735,57.176,O'Fallon,tasmax
+1956,Historical Emissions,60.931,57.201,58.789,O'Fallon,tasmax
+1957,Historical Emissions,63.993,55.634,58.453,O'Fallon,tasmax
+1958,Historical Emissions,60.849,56.458,57.835,O'Fallon,tasmax
+1959,Historical Emissions,57.549,54.927,56.672,O'Fallon,tasmax
+1960,Historical Emissions,59.511,55.478,56.997,O'Fallon,tasmax
+1961,Historical Emissions,60.137,56.261,57.645,O'Fallon,tasmax
+1962,Historical Emissions,58.74,54.278,57.546,O'Fallon,tasmax
+1963,Historical Emissions,58.167,55.063,56.352,O'Fallon,tasmax
+1964,Historical Emissions,58.952,55.345,58.475,O'Fallon,tasmax
+1965,Historical Emissions,58.849,55.237,57.405,O'Fallon,tasmax
+1966,Historical Emissions,61.628,55.497,57.202,O'Fallon,tasmax
+1967,Historical Emissions,59.304,55.223,57.592,O'Fallon,tasmax
+1968,Historical Emissions,57.778,53.798,55.971,O'Fallon,tasmax
+1969,Historical Emissions,58.228,55.403,57.173,O'Fallon,tasmax
+1970,Historical Emissions,59.65,55.758,58.007,O'Fallon,tasmax
+1971,Historical Emissions,60.824,57.275,59.023,O'Fallon,tasmax
+1972,Historical Emissions,59.047,56.13,57.36,O'Fallon,tasmax
+1973,Historical Emissions,60.188,54.694,56.516,O'Fallon,tasmax
+1974,Historical Emissions,60.478,55.333,58.225,O'Fallon,tasmax
+1975,Historical Emissions,59.947,55.199,57.579,O'Fallon,tasmax
+1976,Historical Emissions,58.804,55.465,57.626,O'Fallon,tasmax
+1977,Historical Emissions,60.407,56.372,58.262,O'Fallon,tasmax
+1978,Historical Emissions,60.095,55.224,57.777,O'Fallon,tasmax
+1979,Historical Emissions,60.733,55.975,60.116,O'Fallon,tasmax
+1980,Historical Emissions,59.831,55.687,57.654,O'Fallon,tasmax
+1981,Historical Emissions,60.12,56.58,58.4,O'Fallon,tasmax
+1982,Historical Emissions,59.659,56.44,57.575,O'Fallon,tasmax
+1983,Historical Emissions,58.824,55.833,57.141,O'Fallon,tasmax
+1984,Historical Emissions,60.347,56.916,58.078,O'Fallon,tasmax
+1985,Historical Emissions,60.084,57.072,58.77,O'Fallon,tasmax
+1986,Historical Emissions,56.463,54.877,55.712,O'Fallon,tasmax
+1987,Historical Emissions,58.192,54.414,55.219,O'Fallon,tasmax
+1988,Historical Emissions,58.677,55.451,57.541,O'Fallon,tasmax
+1989,Historical Emissions,60.534,56.259,58.011,O'Fallon,tasmax
+1990,Historical Emissions,62.088,55.598,58.54,O'Fallon,tasmax
+1991,Historical Emissions,59.4,55.954,57.005,O'Fallon,tasmax
+1992,Historical Emissions,59.772,55.899,56.879,O'Fallon,tasmax
+1993,Historical Emissions,59.814,56.309,57.23,O'Fallon,tasmax
+1994,Historical Emissions,60.381,56.699,57.497,O'Fallon,tasmax
+1995,Historical Emissions,62.013,57.084,57.696,O'Fallon,tasmax
+1996,Historical Emissions,61.953,57.868,59.801,O'Fallon,tasmax
+1997,Historical Emissions,62.123,56.095,58.433,O'Fallon,tasmax
+1998,Historical Emissions,60.044,55.688,58.901,O'Fallon,tasmax
+1999,Historical Emissions,60.959,57.408,59.072,O'Fallon,tasmax
+2000,Historical Emissions,60.432,56.865,58.202,O'Fallon,tasmax
+2001,Historical Emissions,60.382,56.519,58.281,O'Fallon,tasmax
+2002,Historical Emissions,61.639,57.733,60.27,O'Fallon,tasmax
+2003,Historical Emissions,61.408,57.508,58.896,O'Fallon,tasmax
+2004,Historical Emissions,60.87,59.04,60.139,O'Fallon,tasmax
+2005,Historical Emissions,62.336,58.212,61.32,O'Fallon,tasmax
+2006,Historical Emissions,61.636,57.543,58.914,O'Fallon,tasmax
+2007,Historical Emissions,61.1,57.855,60.08,O'Fallon,tasmax
+2008,Historical Emissions,60.575,57.185,58.701,O'Fallon,tasmax
+2009,Historical Emissions,60.66,57.526,59.15,O'Fallon,tasmax
+2010,Historical Emissions,61.233,58.084,60.579,O'Fallon,tasmax
+2011,Historical Emissions,61.565,59.085,60.144,O'Fallon,tasmax
+2012,Historical Emissions,60.991,58.607,60.348,O'Fallon,tasmax
+2013,Historical Emissions,62.01,57.457,59.72,O'Fallon,tasmax
+2014,Historical Emissions,63.223,60.045,60.302,O'Fallon,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",63.941,59.261,60.435,O'Fallon,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",63.067,57.983,60.177,O'Fallon,tasmax
+2015,"High Emissions
+(SSP3-7.0)",62.32,58.761,60.588,O'Fallon,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",62.342,58.75,60.493,O'Fallon,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",62.625,59.78,61.649,O'Fallon,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",62.537,57.856,60.875,O'Fallon,tasmax
+2016,"High Emissions
+(SSP3-7.0)",64.349,57.385,60.986,O'Fallon,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",62.037,58.482,60.06,O'Fallon,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",62.036,59.427,60.338,O'Fallon,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",62.605,57.924,59.798,O'Fallon,tasmax
+2017,"High Emissions
+(SSP3-7.0)",61.863,58.919,60.11,O'Fallon,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",62.186,59.389,60.923,O'Fallon,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",62.449,58.516,61.035,O'Fallon,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",63.091,58.995,60.939,O'Fallon,tasmax
+2018,"High Emissions
+(SSP3-7.0)",63.254,57.083,59.836,O'Fallon,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",62.022,58.754,60.277,O'Fallon,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",64.084,59.788,61.269,O'Fallon,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",63.248,58.388,59.09,O'Fallon,tasmax
+2019,"High Emissions
+(SSP3-7.0)",62.611,57.739,59.823,O'Fallon,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",65.787,59.077,61.209,O'Fallon,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",65.295,58.114,59.762,O'Fallon,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",62.949,58.867,60.747,O'Fallon,tasmax
+2020,"High Emissions
+(SSP3-7.0)",62.158,58.526,60.284,O'Fallon,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",62.274,58.926,60.469,O'Fallon,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",62.915,58.855,61.007,O'Fallon,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",63.466,58.219,61.629,O'Fallon,tasmax
+2021,"High Emissions
+(SSP3-7.0)",62.734,59.391,60.519,O'Fallon,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",62.683,60.096,61.658,O'Fallon,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",62.54,59.957,60.39,O'Fallon,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",63.203,58.262,60.243,O'Fallon,tasmax
+2022,"High Emissions
+(SSP3-7.0)",62.232,58.894,60.002,O'Fallon,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",64.677,57.966,61.847,O'Fallon,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",62.872,59.685,60.64,O'Fallon,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",63.276,59.37,60.334,O'Fallon,tasmax
+2023,"High Emissions
+(SSP3-7.0)",65.043,58.897,60.659,O'Fallon,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",61.639,57.402,59.207,O'Fallon,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",62.965,59.73,61.518,O'Fallon,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",62.407,58.677,60.223,O'Fallon,tasmax
+2024,"High Emissions
+(SSP3-7.0)",63.335,59.447,60.818,O'Fallon,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",63.557,59.105,61.712,O'Fallon,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",63.19,60.692,62.001,O'Fallon,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",62.96,57.668,61.578,O'Fallon,tasmax
+2025,"High Emissions
+(SSP3-7.0)",63.118,60.648,61.838,O'Fallon,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",63.635,60.019,61.283,O'Fallon,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",64.436,59.687,61.213,O'Fallon,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",64.374,59.12,62.314,O'Fallon,tasmax
+2026,"High Emissions
+(SSP3-7.0)",62.218,58.698,60.455,O'Fallon,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",63.517,59.107,60.747,O'Fallon,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",63.833,58.638,60.112,O'Fallon,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",64.987,59.495,61.361,O'Fallon,tasmax
+2027,"High Emissions
+(SSP3-7.0)",63.61,58.262,59.729,O'Fallon,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",63.238,60.061,61.541,O'Fallon,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",62.552,58.925,61.175,O'Fallon,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",61.985,58.554,60.298,O'Fallon,tasmax
+2028,"High Emissions
+(SSP3-7.0)",62.094,59.853,61.047,O'Fallon,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",63.628,59.238,60.204,O'Fallon,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",65.814,60.932,62.509,O'Fallon,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",63.711,58.799,61.933,O'Fallon,tasmax
+2029,"High Emissions
+(SSP3-7.0)",63.028,58.333,59.342,O'Fallon,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",63.327,59.728,61.792,O'Fallon,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",63.942,59.246,61.907,O'Fallon,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",64.606,60.824,62.54,O'Fallon,tasmax
+2030,"High Emissions
+(SSP3-7.0)",64.459,58.275,60.417,O'Fallon,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",64.321,59.455,61.678,O'Fallon,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",63.635,59.263,61.891,O'Fallon,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",64.154,60.287,61.777,O'Fallon,tasmax
+2031,"High Emissions
+(SSP3-7.0)",64.749,59.693,63.122,O'Fallon,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",65.185,61.028,62.895,O'Fallon,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",63.3,58.858,60.756,O'Fallon,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",63.416,58.865,60.304,O'Fallon,tasmax
+2032,"High Emissions
+(SSP3-7.0)",65.418,59.618,60.514,O'Fallon,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",65.14,58.116,62.259,O'Fallon,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",64.107,60.105,61.31,O'Fallon,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",65.119,59.95,62.166,O'Fallon,tasmax
+2033,"High Emissions
+(SSP3-7.0)",62.765,58.133,61.136,O'Fallon,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",64.225,60.646,62.23,O'Fallon,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",64.052,58.262,61.13,O'Fallon,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",63.364,60.497,61.781,O'Fallon,tasmax
+2034,"High Emissions
+(SSP3-7.0)",65.412,59.614,62.208,O'Fallon,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",64.567,59.431,62.57,O'Fallon,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",64.544,60.361,61.469,O'Fallon,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",64.539,60.826,63.039,O'Fallon,tasmax
+2035,"High Emissions
+(SSP3-7.0)",62.055,59.051,60.57,O'Fallon,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",65.061,60.077,63.126,O'Fallon,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",63.456,60.419,61.59,O'Fallon,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",63.167,59.186,62.148,O'Fallon,tasmax
+2036,"High Emissions
+(SSP3-7.0)",63.146,59.044,61.412,O'Fallon,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",64.711,57.476,62.882,O'Fallon,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",64.823,60.653,63.308,O'Fallon,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",63.896,57.45,61.072,O'Fallon,tasmax
+2037,"High Emissions
+(SSP3-7.0)",62.306,59.138,60.373,O'Fallon,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",64.679,59.788,62.319,O'Fallon,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",65.122,60.481,62.262,O'Fallon,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",63.464,60.098,61.585,O'Fallon,tasmax
+2038,"High Emissions
+(SSP3-7.0)",63.996,60.979,62.831,O'Fallon,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",66.761,58.293,63.634,O'Fallon,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",64.263,58.845,62.277,O'Fallon,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",63.229,59.514,61.515,O'Fallon,tasmax
+2039,"High Emissions
+(SSP3-7.0)",63.896,62.094,63.071,O'Fallon,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",65.525,59.583,61.712,O'Fallon,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",64.247,59.578,62.53,O'Fallon,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",64.577,60.954,62.737,O'Fallon,tasmax
+2040,"High Emissions
+(SSP3-7.0)",64.029,61.264,62.675,O'Fallon,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",66.712,61.05,63.151,O'Fallon,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",64.208,58.463,61.439,O'Fallon,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",63.27,60.319,62.115,O'Fallon,tasmax
+2041,"High Emissions
+(SSP3-7.0)",63.228,59.545,60.885,O'Fallon,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",63.167,60.363,61.944,O'Fallon,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",65.017,59.951,62.038,O'Fallon,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",63.622,59.355,61.779,O'Fallon,tasmax
+2042,"High Emissions
+(SSP3-7.0)",62.999,60.323,61.749,O'Fallon,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",65.603,61.509,62.831,O'Fallon,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",63.001,59.675,62.012,O'Fallon,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",65.301,59.978,62.458,O'Fallon,tasmax
+2043,"High Emissions
+(SSP3-7.0)",64.136,58.251,61.839,O'Fallon,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",63.789,61.294,62.955,O'Fallon,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",64.425,60.383,61.131,O'Fallon,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",67.587,60.522,63.711,O'Fallon,tasmax
+2044,"High Emissions
+(SSP3-7.0)",63.42,61.671,62.683,O'Fallon,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",66.072,59.79,62.191,O'Fallon,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",64.311,58.113,62.363,O'Fallon,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",65.253,60.551,62.546,O'Fallon,tasmax
+2045,"High Emissions
+(SSP3-7.0)",64.508,59.868,62.317,O'Fallon,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",63.743,59.797,61.822,O'Fallon,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",65.496,59.064,63.123,O'Fallon,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",64.38,59.445,62.553,O'Fallon,tasmax
+2046,"High Emissions
+(SSP3-7.0)",65.372,61.887,63.411,O'Fallon,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",65.45,60.537,62.12,O'Fallon,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",65.299,60.285,62.687,O'Fallon,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",64.671,58.093,61.42,O'Fallon,tasmax
+2047,"High Emissions
+(SSP3-7.0)",62.736,60.812,62.273,O'Fallon,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",66.761,60.406,63.342,O'Fallon,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",64.982,61.18,62.543,O'Fallon,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",65.583,59.742,62.133,O'Fallon,tasmax
+2048,"High Emissions
+(SSP3-7.0)",65.707,60.331,63.417,O'Fallon,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",69.709,61.415,64.714,O'Fallon,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",64.587,60.037,61.685,O'Fallon,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",65.237,61.843,64.305,O'Fallon,tasmax
+2049,"High Emissions
+(SSP3-7.0)",65.686,61.164,63.474,O'Fallon,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",65.156,61.215,63.014,O'Fallon,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",64.334,58.423,62.038,O'Fallon,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",66.109,61.815,64.021,O'Fallon,tasmax
+2050,"High Emissions
+(SSP3-7.0)",65.642,61.661,62.832,O'Fallon,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",65.665,61.278,63.951,O'Fallon,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",65.388,60.257,62.332,O'Fallon,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",67.01,61.269,63.575,O'Fallon,tasmax
+2051,"High Emissions
+(SSP3-7.0)",65.424,62.062,63.554,O'Fallon,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",66.149,62.418,64.456,O'Fallon,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",65.013,60.889,62.593,O'Fallon,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",65.214,61.105,62.588,O'Fallon,tasmax
+2052,"High Emissions
+(SSP3-7.0)",65.172,59.953,62.261,O'Fallon,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",65.854,62.565,65.106,O'Fallon,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",65.008,60.098,62.607,O'Fallon,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",64.883,60.426,63.777,O'Fallon,tasmax
+2053,"High Emissions
+(SSP3-7.0)",66.247,62.151,64.744,O'Fallon,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",67.482,60.873,65.27,O'Fallon,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",65.366,61.806,63.248,O'Fallon,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",64.893,60.214,62.301,O'Fallon,tasmax
+2054,"High Emissions
+(SSP3-7.0)",65.562,60.759,62.104,O'Fallon,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",66.632,61.146,65.313,O'Fallon,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",64.407,62.059,62.696,O'Fallon,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",66.352,60.065,63.53,O'Fallon,tasmax
+2055,"High Emissions
+(SSP3-7.0)",66.281,61.596,63.82,O'Fallon,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",66.939,62.397,64.825,O'Fallon,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",64.297,61.086,63.217,O'Fallon,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",65.183,60.504,63.517,O'Fallon,tasmax
+2056,"High Emissions
+(SSP3-7.0)",66.266,60.811,63.004,O'Fallon,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",65.651,61.652,64.639,O'Fallon,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",66.261,59.938,62.834,O'Fallon,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",65.497,62.54,64.039,O'Fallon,tasmax
+2057,"High Emissions
+(SSP3-7.0)",65.23,60.38,62.187,O'Fallon,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",66.502,60.279,62.89,O'Fallon,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",64.582,60,62.716,O'Fallon,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",66.535,61.12,64.612,O'Fallon,tasmax
+2058,"High Emissions
+(SSP3-7.0)",64.607,60.032,63.513,O'Fallon,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",65.615,61.608,64.026,O'Fallon,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",66.041,61.645,63.65,O'Fallon,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",67.399,60.635,64.557,O'Fallon,tasmax
+2059,"High Emissions
+(SSP3-7.0)",68.083,62.486,63.846,O'Fallon,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",67.402,63.378,65.7,O'Fallon,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",66.285,60.284,62.336,O'Fallon,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",67.288,60.503,62.717,O'Fallon,tasmax
+2060,"High Emissions
+(SSP3-7.0)",64.455,62.15,62.926,O'Fallon,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",66.144,62.377,64.554,O'Fallon,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",64.349,60.948,62.305,O'Fallon,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",65.97,61.327,63.747,O'Fallon,tasmax
+2061,"High Emissions
+(SSP3-7.0)",65.617,61.679,64.245,O'Fallon,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",68.004,63.433,66.021,O'Fallon,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",65.137,60.264,62.355,O'Fallon,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",65.622,61.099,62.585,O'Fallon,tasmax
+2062,"High Emissions
+(SSP3-7.0)",65.268,61.652,64.357,O'Fallon,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",65.819,63.433,64.846,O'Fallon,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",64.799,60.663,62.261,O'Fallon,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",64.902,61.44,62.544,O'Fallon,tasmax
+2063,"High Emissions
+(SSP3-7.0)",67.292,61.805,64.789,O'Fallon,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",67.986,62.313,65.354,O'Fallon,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",65.526,60.63,63.062,O'Fallon,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",63.939,61.368,62.053,O'Fallon,tasmax
+2064,"High Emissions
+(SSP3-7.0)",64.923,60.893,62.676,O'Fallon,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",68.07,63.336,64.171,O'Fallon,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",65.63,58.021,61.47,O'Fallon,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",65.884,60.932,61.415,O'Fallon,tasmax
+2065,"High Emissions
+(SSP3-7.0)",66.826,62.323,64.237,O'Fallon,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",69.413,63.306,66.314,O'Fallon,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",65.105,60.994,62.647,O'Fallon,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",66.788,60.972,64.401,O'Fallon,tasmax
+2066,"High Emissions
+(SSP3-7.0)",66.918,63.353,63.907,O'Fallon,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",68.89,62.816,66.023,O'Fallon,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",65.195,61.967,63.341,O'Fallon,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",65.98,62.212,63.62,O'Fallon,tasmax
+2067,"High Emissions
+(SSP3-7.0)",67.85,64.304,65.392,O'Fallon,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",69.567,64.034,65.924,O'Fallon,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",64.421,60.856,62.654,O'Fallon,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",64.999,60.607,64.244,O'Fallon,tasmax
+2068,"High Emissions
+(SSP3-7.0)",66.934,61.828,63.786,O'Fallon,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",67.561,63.74,66.24,O'Fallon,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",66.702,61.056,62.721,O'Fallon,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",65.131,60.792,62.91,O'Fallon,tasmax
+2069,"High Emissions
+(SSP3-7.0)",68.702,64.25,66.106,O'Fallon,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",70.639,63.166,66.702,O'Fallon,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",64.497,60.821,63.688,O'Fallon,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",65.219,60.859,62.425,O'Fallon,tasmax
+2070,"High Emissions
+(SSP3-7.0)",67.724,64.357,66.467,O'Fallon,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",69.838,64.23,67.016,O'Fallon,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",69.865,60.021,61.746,O'Fallon,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",65.371,62.178,63.383,O'Fallon,tasmax
+2071,"High Emissions
+(SSP3-7.0)",67.946,63.502,66.325,O'Fallon,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",70.168,64.322,66.218,O'Fallon,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",66.37,61.351,62.442,O'Fallon,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",64.781,60.508,63.251,O'Fallon,tasmax
+2072,"High Emissions
+(SSP3-7.0)",68.332,63.549,64.949,O'Fallon,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",68.784,64.314,66.225,O'Fallon,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",65.368,60.258,63.205,O'Fallon,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",66.361,60.071,63.466,O'Fallon,tasmax
+2073,"High Emissions
+(SSP3-7.0)",66.747,63.038,65.422,O'Fallon,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",69.112,61.913,66.104,O'Fallon,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",65.617,59.888,62.492,O'Fallon,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",66.224,61.729,63.58,O'Fallon,tasmax
+2074,"High Emissions
+(SSP3-7.0)",67.487,62.76,63.81,O'Fallon,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",70.64,64.602,65.218,O'Fallon,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",65.849,58.737,62.131,O'Fallon,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",67.524,61.452,62.705,O'Fallon,tasmax
+2075,"High Emissions
+(SSP3-7.0)",68.962,62.114,63.504,O'Fallon,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",71.048,64.213,65.724,O'Fallon,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",64.831,59.773,61.948,O'Fallon,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",64.536,61.652,62.955,O'Fallon,tasmax
+2076,"High Emissions
+(SSP3-7.0)",69.338,63.935,65.103,O'Fallon,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",70.989,63.403,67.083,O'Fallon,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",65.228,61.785,62.858,O'Fallon,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",66.478,62.284,64.264,O'Fallon,tasmax
+2077,"High Emissions
+(SSP3-7.0)",68.805,62.198,65.802,O'Fallon,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",70.805,64.968,67.071,O'Fallon,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",64.961,61.946,62.121,O'Fallon,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",67.281,62.415,64.362,O'Fallon,tasmax
+2078,"High Emissions
+(SSP3-7.0)",68.514,62.836,65.957,O'Fallon,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",67.345,63.642,65.228,O'Fallon,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",65.075,61.908,62.984,O'Fallon,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",65.87,61.818,63.341,O'Fallon,tasmax
+2079,"High Emissions
+(SSP3-7.0)",67.772,61.357,66.186,O'Fallon,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",70.09,63.707,68.109,O'Fallon,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",65.331,59.909,62.435,O'Fallon,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",66.899,61.618,64.091,O'Fallon,tasmax
+2080,"High Emissions
+(SSP3-7.0)",67.79,63.017,64.89,O'Fallon,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",71.261,65.049,67.951,O'Fallon,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",66.682,59.768,61.905,O'Fallon,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",66.561,62.459,64.017,O'Fallon,tasmax
+2081,"High Emissions
+(SSP3-7.0)",69.56,61.336,64.348,O'Fallon,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",70.71,66.062,67.925,O'Fallon,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",66.213,61.323,63.723,O'Fallon,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",67.152,62.4,63.812,O'Fallon,tasmax
+2082,"High Emissions
+(SSP3-7.0)",68.862,61.807,65.237,O'Fallon,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",71.849,64.756,69.942,O'Fallon,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",66.006,62.355,63.824,O'Fallon,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",66.295,62.487,63.867,O'Fallon,tasmax
+2083,"High Emissions
+(SSP3-7.0)",68.604,62.981,66.136,O'Fallon,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",72.12,65.749,68.956,O'Fallon,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",66.214,59.966,62.969,O'Fallon,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",67.916,62.342,65.819,O'Fallon,tasmax
+2084,"High Emissions
+(SSP3-7.0)",71.415,64.171,67.875,O'Fallon,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",71.158,66.058,68.433,O'Fallon,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",65.571,60.221,61.494,O'Fallon,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",65.878,61.798,63.337,O'Fallon,tasmax
+2085,"High Emissions
+(SSP3-7.0)",67.739,64.525,65.715,O'Fallon,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",72.027,64.405,68.955,O'Fallon,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",64.729,61.862,63.786,O'Fallon,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",66.286,62.918,63.811,O'Fallon,tasmax
+2086,"High Emissions
+(SSP3-7.0)",68.848,64.008,66.054,O'Fallon,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",71.471,65.094,69.33,O'Fallon,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",63.552,60.682,61.845,O'Fallon,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",67.308,62.928,65.498,O'Fallon,tasmax
+2087,"High Emissions
+(SSP3-7.0)",71.787,64.143,67.362,O'Fallon,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",71.683,64.173,67.77,O'Fallon,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",65.538,60.217,61.742,O'Fallon,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",66.949,63.253,65.87,O'Fallon,tasmax
+2088,"High Emissions
+(SSP3-7.0)",71.164,64.156,66.086,O'Fallon,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",71.561,66.15,68.613,O'Fallon,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",63.463,59.684,61.336,O'Fallon,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",66.257,62.029,64.35,O'Fallon,tasmax
+2089,"High Emissions
+(SSP3-7.0)",70.33,63.01,66.668,O'Fallon,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",72.42,66.995,70.455,O'Fallon,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",64.354,61.204,63.232,O'Fallon,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",66.135,62.778,64.254,O'Fallon,tasmax
+2090,"High Emissions
+(SSP3-7.0)",72.124,65.707,68.535,O'Fallon,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",72.569,67.334,69.226,O'Fallon,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",64.762,60.373,62.987,O'Fallon,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",67.155,62.536,65.183,O'Fallon,tasmax
+2091,"High Emissions
+(SSP3-7.0)",70.343,66.752,68.688,O'Fallon,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",74.842,64.877,67.88,O'Fallon,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",65.932,59.811,63.048,O'Fallon,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",68.226,61.513,66.591,O'Fallon,tasmax
+2092,"High Emissions
+(SSP3-7.0)",69.885,64.075,67.987,O'Fallon,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",74.59,65.354,70.05,O'Fallon,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",65.942,59.052,62.666,O'Fallon,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",67.242,60.81,64.844,O'Fallon,tasmax
+2093,"High Emissions
+(SSP3-7.0)",70.442,64.768,65.491,O'Fallon,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",73.593,67.8,68.87,O'Fallon,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",65.209,59.438,63.057,O'Fallon,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",69.241,61.76,63.574,O'Fallon,tasmax
+2094,"High Emissions
+(SSP3-7.0)",69.765,64.876,67.144,O'Fallon,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",75.303,66.621,70.51,O'Fallon,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",65.532,59.843,63.519,O'Fallon,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",68.604,62.722,66.303,O'Fallon,tasmax
+2095,"High Emissions
+(SSP3-7.0)",71.951,65.1,67.537,O'Fallon,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",72.654,66.342,69.581,O'Fallon,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",64.303,60.407,62.962,O'Fallon,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",67.833,63.837,65.47,O'Fallon,tasmax
+2096,"High Emissions
+(SSP3-7.0)",70.093,65.212,69.001,O'Fallon,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",72.464,66.66,69.869,O'Fallon,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",66.24,60.752,61.633,O'Fallon,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",68.643,63.404,65.206,O'Fallon,tasmax
+2097,"High Emissions
+(SSP3-7.0)",74.378,63.896,69.405,O'Fallon,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",75.395,66.812,68.095,O'Fallon,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",65.055,59.857,62.118,O'Fallon,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",66.631,61.958,65.446,O'Fallon,tasmax
+2098,"High Emissions
+(SSP3-7.0)",70.892,64.445,67.046,O'Fallon,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",71.866,68.043,70.418,O'Fallon,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",66.202,58.2,62.821,O'Fallon,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",66.995,63.318,64.412,O'Fallon,tasmax
+2099,"High Emissions
+(SSP3-7.0)",72.779,64.348,67.094,O'Fallon,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",73.551,66.356,71.209,O'Fallon,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",66.273,58.533,60.853,O'Fallon,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",68.694,62.877,64.385,O'Fallon,tasmax
+2100,"High Emissions
+(SSP3-7.0)",71.197,64.693,68.975,O'Fallon,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",74.173,66.922,69.713,O'Fallon,tasmax

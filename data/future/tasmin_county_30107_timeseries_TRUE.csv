@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,32.802,31.056,32.022,Wheatland County,tasmin
+1951,Historical Emissions,33.1,30.544,32.12,Wheatland County,tasmin
+1952,Historical Emissions,32.82,30.125,31.344,Wheatland County,tasmin
+1953,Historical Emissions,32.074,29.184,31.37,Wheatland County,tasmin
+1954,Historical Emissions,33.923,29.51,31.194,Wheatland County,tasmin
+1955,Historical Emissions,33.573,30.227,32.666,Wheatland County,tasmin
+1956,Historical Emissions,33.126,31.251,32.033,Wheatland County,tasmin
+1957,Historical Emissions,33.56,31.238,32.234,Wheatland County,tasmin
+1958,Historical Emissions,33.091,30.932,31.48,Wheatland County,tasmin
+1959,Historical Emissions,31.586,28.522,30.825,Wheatland County,tasmin
+1960,Historical Emissions,33.23,28.85,30.758,Wheatland County,tasmin
+1961,Historical Emissions,33.615,30.457,32.452,Wheatland County,tasmin
+1962,Historical Emissions,32.228,29.513,31.052,Wheatland County,tasmin
+1963,Historical Emissions,32.321,30.409,31.335,Wheatland County,tasmin
+1964,Historical Emissions,32.811,29.997,31.465,Wheatland County,tasmin
+1965,Historical Emissions,32.31,30.317,31.514,Wheatland County,tasmin
+1966,Historical Emissions,34.225,31.087,32.131,Wheatland County,tasmin
+1967,Historical Emissions,32.32,29.936,31.412,Wheatland County,tasmin
+1968,Historical Emissions,32.545,28.478,31.472,Wheatland County,tasmin
+1969,Historical Emissions,32.529,30.125,31.786,Wheatland County,tasmin
+1970,Historical Emissions,33.569,31.51,32.432,Wheatland County,tasmin
+1971,Historical Emissions,35.139,31.333,33.596,Wheatland County,tasmin
+1972,Historical Emissions,32.871,29.919,31.138,Wheatland County,tasmin
+1973,Historical Emissions,33.158,30.858,31.772,Wheatland County,tasmin
+1974,Historical Emissions,33.621,30.067,31.9,Wheatland County,tasmin
+1975,Historical Emissions,33.17,29.133,32.064,Wheatland County,tasmin
+1976,Historical Emissions,33.001,29.497,31.65,Wheatland County,tasmin
+1977,Historical Emissions,34.074,31.548,32.862,Wheatland County,tasmin
+1978,Historical Emissions,34.719,30.037,32.12,Wheatland County,tasmin
+1979,Historical Emissions,34.15,31.285,32.903,Wheatland County,tasmin
+1980,Historical Emissions,32.478,30.811,31.922,Wheatland County,tasmin
+1981,Historical Emissions,33.976,30.912,32.987,Wheatland County,tasmin
+1982,Historical Emissions,33.093,30.895,32.728,Wheatland County,tasmin
+1983,Historical Emissions,33.839,31.014,31.873,Wheatland County,tasmin
+1984,Historical Emissions,32.992,31.319,32.459,Wheatland County,tasmin
+1985,Historical Emissions,33.725,30.882,32.357,Wheatland County,tasmin
+1986,Historical Emissions,32.722,30.066,31.888,Wheatland County,tasmin
+1987,Historical Emissions,33.51,29.357,30.535,Wheatland County,tasmin
+1988,Historical Emissions,33.065,31.101,31.458,Wheatland County,tasmin
+1989,Historical Emissions,33.229,31.166,31.713,Wheatland County,tasmin
+1990,Historical Emissions,34.37,31.421,33.049,Wheatland County,tasmin
+1991,Historical Emissions,33.41,29.869,31.523,Wheatland County,tasmin
+1992,Historical Emissions,33.4,29.962,30.952,Wheatland County,tasmin
+1993,Historical Emissions,34.446,29.78,32.571,Wheatland County,tasmin
+1994,Historical Emissions,34.368,31.385,32.538,Wheatland County,tasmin
+1995,Historical Emissions,33.231,30.219,31.422,Wheatland County,tasmin
+1996,Historical Emissions,34.467,30.89,33.492,Wheatland County,tasmin
+1997,Historical Emissions,34.247,31.312,32.921,Wheatland County,tasmin
+1998,Historical Emissions,34.888,29.579,33.044,Wheatland County,tasmin
+1999,Historical Emissions,34.453,31.371,32.904,Wheatland County,tasmin
+2000,Historical Emissions,33.87,31.245,32.431,Wheatland County,tasmin
+2001,Historical Emissions,34.788,31.793,32.769,Wheatland County,tasmin
+2002,Historical Emissions,35.561,32.062,33.719,Wheatland County,tasmin
+2003,Historical Emissions,35.176,32.904,33.33,Wheatland County,tasmin
+2004,Historical Emissions,34.884,32.78,33.985,Wheatland County,tasmin
+2005,Historical Emissions,36.519,31.91,35.194,Wheatland County,tasmin
+2006,Historical Emissions,34.36,31.094,32.462,Wheatland County,tasmin
+2007,Historical Emissions,34.923,32.339,34.236,Wheatland County,tasmin
+2008,Historical Emissions,35.746,32.576,33.602,Wheatland County,tasmin
+2009,Historical Emissions,33.813,32.961,33.303,Wheatland County,tasmin
+2010,Historical Emissions,34.335,32.316,33.668,Wheatland County,tasmin
+2011,Historical Emissions,35.885,33.313,33.608,Wheatland County,tasmin
+2012,Historical Emissions,34.627,31.157,33.78,Wheatland County,tasmin
+2013,Historical Emissions,35.796,31.484,33.284,Wheatland County,tasmin
+2014,Historical Emissions,35.78,32.764,33.949,Wheatland County,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",36.445,33.275,34.293,Wheatland County,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",35.598,32.399,34.074,Wheatland County,tasmin
+2015,"High Emissions
+(SSP3-7.0)",36.302,31.668,34.337,Wheatland County,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",34.512,32.909,34.32,Wheatland County,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",36.445,32.926,34.894,Wheatland County,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",35.757,32.456,33.694,Wheatland County,tasmin
+2016,"High Emissions
+(SSP3-7.0)",37.099,32.684,34.094,Wheatland County,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",35.231,32.565,34.319,Wheatland County,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",36.097,32.697,33.767,Wheatland County,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",36.724,32.843,34.145,Wheatland County,tasmin
+2017,"High Emissions
+(SSP3-7.0)",36.596,33.506,34.302,Wheatland County,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",36.229,32.884,34.42,Wheatland County,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",35.092,33.736,34.003,Wheatland County,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",35.893,33.297,34.121,Wheatland County,tasmin
+2018,"High Emissions
+(SSP3-7.0)",36.294,32.788,34.013,Wheatland County,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",36.406,33.069,34.111,Wheatland County,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",36.86,33.697,35.891,Wheatland County,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",36.451,31.916,33.102,Wheatland County,tasmin
+2019,"High Emissions
+(SSP3-7.0)",36.173,31.537,33.675,Wheatland County,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",36.478,33.816,34.579,Wheatland County,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",36.808,32.899,35.242,Wheatland County,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",35.61,32.746,34.442,Wheatland County,tasmin
+2020,"High Emissions
+(SSP3-7.0)",35.774,32.813,34.442,Wheatland County,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",35.531,33.278,34.567,Wheatland County,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",36.657,32.947,35.183,Wheatland County,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",36.1,33.815,34.484,Wheatland County,tasmin
+2021,"High Emissions
+(SSP3-7.0)",35.19,33.925,34.609,Wheatland County,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",36.702,32.631,35.302,Wheatland County,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",36.268,33.522,34.142,Wheatland County,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",36.696,33.434,34.687,Wheatland County,tasmin
+2022,"High Emissions
+(SSP3-7.0)",36.138,33.705,34.753,Wheatland County,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",36.691,33.114,35.658,Wheatland County,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",35.914,34.505,34.772,Wheatland County,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",36.251,33.403,35.091,Wheatland County,tasmin
+2023,"High Emissions
+(SSP3-7.0)",37.006,33.944,35.284,Wheatland County,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",35.379,32.473,33.486,Wheatland County,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",36.605,33.022,35.25,Wheatland County,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",35.499,33.2,33.936,Wheatland County,tasmin
+2024,"High Emissions
+(SSP3-7.0)",37.938,33.02,33.943,Wheatland County,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",38.671,33.857,35.321,Wheatland County,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",36.496,33.966,36.074,Wheatland County,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",36.643,33.185,34.527,Wheatland County,tasmin
+2025,"High Emissions
+(SSP3-7.0)",37.134,33.894,35.055,Wheatland County,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",37.831,34.309,35.745,Wheatland County,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",36.609,33.637,34.573,Wheatland County,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",36.423,32.804,35.159,Wheatland County,tasmin
+2026,"High Emissions
+(SSP3-7.0)",36.883,32.212,35.224,Wheatland County,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",36.848,33.948,35.324,Wheatland County,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",37.411,33.216,34.844,Wheatland County,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",37.463,34.282,35.419,Wheatland County,tasmin
+2027,"High Emissions
+(SSP3-7.0)",37.12,34.263,34.885,Wheatland County,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",36.283,34.272,34.772,Wheatland County,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",37.627,33.971,35.087,Wheatland County,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",37.237,32.484,34.773,Wheatland County,tasmin
+2028,"High Emissions
+(SSP3-7.0)",36.803,34.422,34.736,Wheatland County,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",37.051,34.258,35.496,Wheatland County,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",38.081,34.668,36.13,Wheatland County,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",37.702,33.738,35.862,Wheatland County,tasmin
+2029,"High Emissions
+(SSP3-7.0)",37.441,32.212,35.261,Wheatland County,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",36.952,33.996,35.925,Wheatland County,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",37.486,33.99,35.765,Wheatland County,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",36.628,34.42,35.779,Wheatland County,tasmin
+2030,"High Emissions
+(SSP3-7.0)",36.242,32.804,35.732,Wheatland County,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",38.82,33.795,35.357,Wheatland County,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",36.273,33.465,34.817,Wheatland County,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",38.327,34.211,36.071,Wheatland County,tasmin
+2031,"High Emissions
+(SSP3-7.0)",37.671,33.686,35.467,Wheatland County,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",38.191,35.479,36.408,Wheatland County,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",36.716,33.513,35.231,Wheatland County,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",36.236,33.594,34.777,Wheatland County,tasmin
+2032,"High Emissions
+(SSP3-7.0)",37.269,33.756,34.92,Wheatland County,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",37.6,34.546,35.328,Wheatland County,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",36.88,34.721,35.539,Wheatland County,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",37.026,34.116,35.878,Wheatland County,tasmin
+2033,"High Emissions
+(SSP3-7.0)",37.434,33.933,34.917,Wheatland County,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",36.901,33.418,35.975,Wheatland County,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",36.541,33.413,34.674,Wheatland County,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",38.326,34.954,35.252,Wheatland County,tasmin
+2034,"High Emissions
+(SSP3-7.0)",37.385,34.486,36.004,Wheatland County,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",37.527,32.731,35.822,Wheatland County,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",37.067,33.333,35.587,Wheatland County,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",37.21,33.868,35.937,Wheatland County,tasmin
+2035,"High Emissions
+(SSP3-7.0)",36.947,33.979,34.977,Wheatland County,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",38.093,33.917,36.21,Wheatland County,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",37.327,35.739,36.487,Wheatland County,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",36.628,34.461,35.479,Wheatland County,tasmin
+2036,"High Emissions
+(SSP3-7.0)",37.286,34.009,35.693,Wheatland County,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",38.615,34.395,37.204,Wheatland County,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",38.215,34.987,36.634,Wheatland County,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",37.736,33.063,36.286,Wheatland County,tasmin
+2037,"High Emissions
+(SSP3-7.0)",37.14,33.451,35.176,Wheatland County,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",37.24,34.74,36.386,Wheatland County,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",38.622,34.548,36.364,Wheatland County,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",36.428,34.427,35.756,Wheatland County,tasmin
+2038,"High Emissions
+(SSP3-7.0)",37.684,34.521,36.555,Wheatland County,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",38.887,34.291,37.557,Wheatland County,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",37.659,34.968,36.086,Wheatland County,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",36.689,34.735,35.742,Wheatland County,tasmin
+2039,"High Emissions
+(SSP3-7.0)",37.805,35.551,36.345,Wheatland County,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",39.452,33.395,37.122,Wheatland County,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",37.143,34.663,35.943,Wheatland County,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",36.594,34.723,36.144,Wheatland County,tasmin
+2040,"High Emissions
+(SSP3-7.0)",38.04,34.629,36.711,Wheatland County,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",40.393,36.079,37.155,Wheatland County,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",37.546,33.115,35.505,Wheatland County,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",36.529,35.074,35.946,Wheatland County,tasmin
+2041,"High Emissions
+(SSP3-7.0)",37.113,34.396,35.255,Wheatland County,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",37.464,35.629,36.932,Wheatland County,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",37.609,35.237,35.744,Wheatland County,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",36.673,32.749,34.762,Wheatland County,tasmin
+2042,"High Emissions
+(SSP3-7.0)",37.891,34.922,36.116,Wheatland County,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",38.934,35.31,37.088,Wheatland County,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",37.361,34.307,36.613,Wheatland County,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",37.575,34.517,35.955,Wheatland County,tasmin
+2043,"High Emissions
+(SSP3-7.0)",37.307,34.729,36.092,Wheatland County,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",37.607,35.773,36.693,Wheatland County,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",38.413,34.539,35.643,Wheatland County,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",38.99,34.974,36.977,Wheatland County,tasmin
+2044,"High Emissions
+(SSP3-7.0)",38.482,35.129,36.384,Wheatland County,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",40.148,35.368,37.031,Wheatland County,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",37.917,35.002,36.24,Wheatland County,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",39.375,34.263,36.951,Wheatland County,tasmin
+2045,"High Emissions
+(SSP3-7.0)",38.286,34.525,35.898,Wheatland County,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",38.048,35.26,36.795,Wheatland County,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",39.049,32.692,36.565,Wheatland County,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",37.954,34.662,36.492,Wheatland County,tasmin
+2046,"High Emissions
+(SSP3-7.0)",38.666,36.42,37.187,Wheatland County,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",38.799,34.28,35.953,Wheatland County,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",37.802,34.778,36.145,Wheatland County,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",37.863,32.557,36.275,Wheatland County,tasmin
+2047,"High Emissions
+(SSP3-7.0)",37.404,34.307,36.577,Wheatland County,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",39.073,35.211,37.494,Wheatland County,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",36.98,34.399,35.824,Wheatland County,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",38.825,34.297,36.808,Wheatland County,tasmin
+2048,"High Emissions
+(SSP3-7.0)",38.583,35.053,37.625,Wheatland County,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",39.822,36.069,37.603,Wheatland County,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",37.416,33.947,34.82,Wheatland County,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",38.635,35.767,36.283,Wheatland County,tasmin
+2049,"High Emissions
+(SSP3-7.0)",39.842,35.75,37.719,Wheatland County,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",38.321,35.369,37.755,Wheatland County,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",37.242,33.393,36.409,Wheatland County,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",39.086,35.218,36.919,Wheatland County,tasmin
+2050,"High Emissions
+(SSP3-7.0)",39.466,36.354,36.995,Wheatland County,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",38.969,36.624,37.622,Wheatland County,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",38.675,34.844,36.665,Wheatland County,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",38.584,35.414,37.146,Wheatland County,tasmin
+2051,"High Emissions
+(SSP3-7.0)",38.665,36.415,37.505,Wheatland County,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",38.636,35.891,36.604,Wheatland County,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",37.392,35.61,36.346,Wheatland County,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",38.349,35.215,35.971,Wheatland County,tasmin
+2052,"High Emissions
+(SSP3-7.0)",39.877,35.067,37.118,Wheatland County,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",38.172,36.334,37.38,Wheatland County,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",38.15,34.533,35.964,Wheatland County,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",38.065,34.989,36.625,Wheatland County,tasmin
+2053,"High Emissions
+(SSP3-7.0)",39.992,36.312,38.542,Wheatland County,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",40.163,35.986,37.509,Wheatland County,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",37.73,35.411,36.312,Wheatland County,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",37.705,35.542,35.956,Wheatland County,tasmin
+2054,"High Emissions
+(SSP3-7.0)",38.655,35.904,37.156,Wheatland County,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",40.171,37.245,37.849,Wheatland County,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",38.673,35.663,35.996,Wheatland County,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",37.734,34.38,36.567,Wheatland County,tasmin
+2055,"High Emissions
+(SSP3-7.0)",38.572,35.836,37.428,Wheatland County,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",40.398,37.206,38.316,Wheatland County,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",38.571,35.218,36.83,Wheatland County,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",39.421,35.335,36.142,Wheatland County,tasmin
+2056,"High Emissions
+(SSP3-7.0)",40.03,35.873,37.258,Wheatland County,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",40.398,36.68,39.158,Wheatland County,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",38.43,34.288,36.081,Wheatland County,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",40.106,35.88,37.279,Wheatland County,tasmin
+2057,"High Emissions
+(SSP3-7.0)",39.681,36.139,37.143,Wheatland County,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",39.783,35.627,38.602,Wheatland County,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",37.916,34.036,36.025,Wheatland County,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",40.558,35.855,37.141,Wheatland County,tasmin
+2058,"High Emissions
+(SSP3-7.0)",38.616,36.3,38.341,Wheatland County,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",39.868,35.705,38.017,Wheatland County,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",37.851,34.175,36.345,Wheatland County,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",40.579,36.228,37.797,Wheatland County,tasmin
+2059,"High Emissions
+(SSP3-7.0)",40.571,36.306,38.133,Wheatland County,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",40.627,37.433,39.326,Wheatland County,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",39.104,33.718,36.447,Wheatland County,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",38.891,35.379,36.8,Wheatland County,tasmin
+2060,"High Emissions
+(SSP3-7.0)",39.357,36.909,38.338,Wheatland County,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",40.442,36.954,39.023,Wheatland County,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",37.865,34.849,35.342,Wheatland County,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",39.436,35.012,36.967,Wheatland County,tasmin
+2061,"High Emissions
+(SSP3-7.0)",39.655,36.433,37.595,Wheatland County,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",41.713,37.439,38.737,Wheatland County,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",37.126,36.076,36.441,Wheatland County,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",39.912,34.827,36.447,Wheatland County,tasmin
+2062,"High Emissions
+(SSP3-7.0)",39.118,36.212,38.273,Wheatland County,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",41.597,37.594,38.78,Wheatland County,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",37.255,33.869,36.299,Wheatland County,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",38.858,35.344,37.212,Wheatland County,tasmin
+2063,"High Emissions
+(SSP3-7.0)",40.318,36.778,37.748,Wheatland County,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",40.353,37.157,39.211,Wheatland County,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",38.638,35.413,37.458,Wheatland County,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",37.497,35.213,37.086,Wheatland County,tasmin
+2064,"High Emissions
+(SSP3-7.0)",38.429,37.16,37.918,Wheatland County,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",40.248,37.462,38.571,Wheatland County,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",38.454,34.245,36.178,Wheatland County,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",39.15,35.273,37.183,Wheatland County,tasmin
+2065,"High Emissions
+(SSP3-7.0)",40.68,37.37,37.876,Wheatland County,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",43.237,36.662,40.403,Wheatland County,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",38.835,34.166,36.854,Wheatland County,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",39.707,37.089,38.384,Wheatland County,tasmin
+2066,"High Emissions
+(SSP3-7.0)",40.483,36.082,38.186,Wheatland County,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",41.356,37.986,39.111,Wheatland County,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",38.975,36.078,37.271,Wheatland County,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",39.664,35.94,37.007,Wheatland County,tasmin
+2067,"High Emissions
+(SSP3-7.0)",40.167,37.22,38.841,Wheatland County,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",42.609,37.496,38.224,Wheatland County,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",38.592,35.145,36.679,Wheatland County,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",38.198,36.34,37.442,Wheatland County,tasmin
+2068,"High Emissions
+(SSP3-7.0)",40.02,36.828,37.92,Wheatland County,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",42.227,38.63,39.007,Wheatland County,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",38.513,35.03,37.282,Wheatland County,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",38.671,35.277,37.207,Wheatland County,tasmin
+2069,"High Emissions
+(SSP3-7.0)",41.062,37.699,39.175,Wheatland County,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",43.127,38.513,39.962,Wheatland County,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",37.967,35.271,35.848,Wheatland County,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",39.389,35.12,37.703,Wheatland County,tasmin
+2070,"High Emissions
+(SSP3-7.0)",41.055,37.564,39.035,Wheatland County,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",43.745,38.731,39.678,Wheatland County,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",39.582,34.369,36.118,Wheatland County,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",39.7,36.024,37.401,Wheatland County,tasmin
+2071,"High Emissions
+(SSP3-7.0)",41.012,38.359,39.491,Wheatland County,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",42.702,37.747,39.565,Wheatland County,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",39.009,35.103,37.059,Wheatland County,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",40.393,35.807,36.616,Wheatland County,tasmin
+2072,"High Emissions
+(SSP3-7.0)",40.698,37.623,38.783,Wheatland County,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",41.882,38.375,39.552,Wheatland County,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",38.017,34.12,35.424,Wheatland County,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",40,35.887,37.446,Wheatland County,tasmin
+2073,"High Emissions
+(SSP3-7.0)",41.513,37.654,39.166,Wheatland County,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",42.488,37.953,40.303,Wheatland County,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",40.354,33.925,36.908,Wheatland County,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",39.69,36.565,37.689,Wheatland County,tasmin
+2074,"High Emissions
+(SSP3-7.0)",40.715,36.903,38.221,Wheatland County,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",42.47,38.157,39.801,Wheatland County,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",38.419,34.162,36.377,Wheatland County,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",40.486,35.451,37.006,Wheatland County,tasmin
+2075,"High Emissions
+(SSP3-7.0)",41.064,37.405,38.215,Wheatland County,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",42.93,37.954,40.903,Wheatland County,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",38.166,33.218,35.756,Wheatland County,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",39.206,35.973,37.575,Wheatland County,tasmin
+2076,"High Emissions
+(SSP3-7.0)",41.193,38.543,39.501,Wheatland County,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",43.225,38.028,39.256,Wheatland County,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",38.607,34.116,36.715,Wheatland County,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",40.556,36.358,37.854,Wheatland County,tasmin
+2077,"High Emissions
+(SSP3-7.0)",42.494,37.832,39.776,Wheatland County,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",43.504,38.829,40.641,Wheatland County,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",38.589,35.597,36.861,Wheatland County,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",39.571,37.131,37.704,Wheatland County,tasmin
+2078,"High Emissions
+(SSP3-7.0)",41.023,38.121,39.426,Wheatland County,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",41.593,39.123,39.919,Wheatland County,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",37.948,34.923,36.937,Wheatland County,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",40.434,36.952,37.609,Wheatland County,tasmin
+2079,"High Emissions
+(SSP3-7.0)",41.415,38.231,39.892,Wheatland County,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",42.793,39.268,41.106,Wheatland County,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",36.775,34.802,35.78,Wheatland County,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",39.717,36.48,37.471,Wheatland County,tasmin
+2080,"High Emissions
+(SSP3-7.0)",41.596,38.269,39.178,Wheatland County,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",43.353,39.724,41.883,Wheatland County,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",39.699,34.014,35.462,Wheatland County,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",40.322,36.808,37.749,Wheatland County,tasmin
+2081,"High Emissions
+(SSP3-7.0)",43.45,37.743,39.13,Wheatland County,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",44.614,40.472,41.902,Wheatland County,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",38.783,35.199,37.266,Wheatland County,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",40.858,37.033,38.666,Wheatland County,tasmin
+2082,"High Emissions
+(SSP3-7.0)",43.256,38.102,38.657,Wheatland County,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",44.362,39.992,41.951,Wheatland County,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",38.158,34.62,36.282,Wheatland County,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",41.241,35.566,37.793,Wheatland County,tasmin
+2083,"High Emissions
+(SSP3-7.0)",42.034,37.127,40.473,Wheatland County,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",44.521,40.032,41.727,Wheatland County,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",39.798,34.611,35.878,Wheatland County,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",41.099,36.589,38.646,Wheatland County,tasmin
+2084,"High Emissions
+(SSP3-7.0)",43.861,38.63,40.829,Wheatland County,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",44.396,39.878,41.818,Wheatland County,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",37.681,33.735,36.217,Wheatland County,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",39.75,36.057,38.215,Wheatland County,tasmin
+2085,"High Emissions
+(SSP3-7.0)",41.629,38.205,39.38,Wheatland County,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",44.825,40.372,42.032,Wheatland County,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",39.529,36.32,37.216,Wheatland County,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",40.227,37.344,38.58,Wheatland County,tasmin
+2086,"High Emissions
+(SSP3-7.0)",43.71,38.218,41.091,Wheatland County,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",45.225,40.643,42.678,Wheatland County,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",36.96,34.357,35.777,Wheatland County,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",41.123,36.844,39.322,Wheatland County,tasmin
+2087,"High Emissions
+(SSP3-7.0)",43.114,39.256,41.126,Wheatland County,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",44.915,40.3,41.906,Wheatland County,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",37.848,33.903,36.359,Wheatland County,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",40.182,37.095,38.053,Wheatland County,tasmin
+2088,"High Emissions
+(SSP3-7.0)",44.127,38.899,40.63,Wheatland County,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",44.27,41.161,41.997,Wheatland County,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",37.309,34.714,36.567,Wheatland County,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",40.38,37.061,38.197,Wheatland County,tasmin
+2089,"High Emissions
+(SSP3-7.0)",43.04,38.877,40.824,Wheatland County,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",45.304,41.44,43.71,Wheatland County,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",38.758,35.103,36.065,Wheatland County,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",39.882,36.52,39.032,Wheatland County,tasmin
+2090,"High Emissions
+(SSP3-7.0)",43.014,38.677,39.971,Wheatland County,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",46.156,41.85,43.058,Wheatland County,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",38.887,34.734,36.801,Wheatland County,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",40.118,36.652,38.749,Wheatland County,tasmin
+2091,"High Emissions
+(SSP3-7.0)",44.703,38.516,40.408,Wheatland County,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",45.635,40.092,42.374,Wheatland County,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",38.606,34.51,37.68,Wheatland County,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",40.779,37.661,38.319,Wheatland County,tasmin
+2092,"High Emissions
+(SSP3-7.0)",43.385,38.548,40.583,Wheatland County,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",45.179,40.982,42.632,Wheatland County,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",38.08,34.551,37.043,Wheatland County,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",41.058,35.979,38.148,Wheatland County,tasmin
+2093,"High Emissions
+(SSP3-7.0)",44.301,38.9,41.209,Wheatland County,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",46.912,41.203,42.508,Wheatland County,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",38.772,32.718,35.638,Wheatland County,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",40.671,36.559,38.075,Wheatland County,tasmin
+2094,"High Emissions
+(SSP3-7.0)",44.522,38.959,41.901,Wheatland County,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",47.127,41.863,43.997,Wheatland County,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",37.783,35.148,37.161,Wheatland County,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",41.687,37.119,39.755,Wheatland County,tasmin
+2095,"High Emissions
+(SSP3-7.0)",45.003,38.859,41.323,Wheatland County,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",45.378,40.592,41.408,Wheatland County,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",37.713,34.146,36.752,Wheatland County,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",40.546,38.079,38.779,Wheatland County,tasmin
+2096,"High Emissions
+(SSP3-7.0)",44.025,39.789,41.909,Wheatland County,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",45.516,40.519,43.753,Wheatland County,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",38.411,34.165,35.428,Wheatland County,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",41.111,38.038,38.479,Wheatland County,tasmin
+2097,"High Emissions
+(SSP3-7.0)",44.714,38.922,41.752,Wheatland County,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",49.141,40.16,44.148,Wheatland County,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",38.289,33.875,35.978,Wheatland County,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",40.064,36.922,37.786,Wheatland County,tasmin
+2098,"High Emissions
+(SSP3-7.0)",45.534,40.158,40.899,Wheatland County,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",45.825,41.598,43.779,Wheatland County,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",40.019,34.664,36.768,Wheatland County,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",40.989,36.852,38.208,Wheatland County,tasmin
+2099,"High Emissions
+(SSP3-7.0)",46.201,39.122,41.273,Wheatland County,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",47.576,40.65,44.804,Wheatland County,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",38.397,34.268,35.405,Wheatland County,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",41.723,37.225,39.195,Wheatland County,tasmin
+2100,"High Emissions
+(SSP3-7.0)",44.17,39.72,41.047,Wheatland County,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",47.511,40.631,43.363,Wheatland County,tasmin

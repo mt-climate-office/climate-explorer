@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,53.643,49.815,50.973,Middle Kootenai,tasmax
+1951,Historical Emissions,52.482,49.627,51.241,Middle Kootenai,tasmax
+1952,Historical Emissions,51.457,48.764,50.955,Middle Kootenai,tasmax
+1953,Historical Emissions,51.608,49.851,51.087,Middle Kootenai,tasmax
+1954,Historical Emissions,53.584,47.925,49.805,Middle Kootenai,tasmax
+1955,Historical Emissions,52.569,48.425,50.728,Middle Kootenai,tasmax
+1956,Historical Emissions,52.659,48.004,51.249,Middle Kootenai,tasmax
+1957,Historical Emissions,52.337,48.762,51.175,Middle Kootenai,tasmax
+1958,Historical Emissions,51.881,49.254,50.632,Middle Kootenai,tasmax
+1959,Historical Emissions,51.147,48.812,49.588,Middle Kootenai,tasmax
+1960,Historical Emissions,51.645,48.201,49.808,Middle Kootenai,tasmax
+1961,Historical Emissions,52.412,48.879,50.466,Middle Kootenai,tasmax
+1962,Historical Emissions,50.486,47.658,49.678,Middle Kootenai,tasmax
+1963,Historical Emissions,51.553,48.695,49.643,Middle Kootenai,tasmax
+1964,Historical Emissions,52.07,48.799,50.41,Middle Kootenai,tasmax
+1965,Historical Emissions,51.378,49.334,50.259,Middle Kootenai,tasmax
+1966,Historical Emissions,52.441,48.822,50.318,Middle Kootenai,tasmax
+1967,Historical Emissions,51.623,49.339,50.216,Middle Kootenai,tasmax
+1968,Historical Emissions,51.308,46.482,50.072,Middle Kootenai,tasmax
+1969,Historical Emissions,51.527,49.218,50.238,Middle Kootenai,tasmax
+1970,Historical Emissions,52.325,48.941,50.217,Middle Kootenai,tasmax
+1971,Historical Emissions,53.956,48.542,51.775,Middle Kootenai,tasmax
+1972,Historical Emissions,51.887,48.629,50.524,Middle Kootenai,tasmax
+1973,Historical Emissions,51.754,48.798,50.476,Middle Kootenai,tasmax
+1974,Historical Emissions,52.212,48.065,51.247,Middle Kootenai,tasmax
+1975,Historical Emissions,51.363,48.594,50.772,Middle Kootenai,tasmax
+1976,Historical Emissions,51.906,49.018,50.541,Middle Kootenai,tasmax
+1977,Historical Emissions,52.434,49.678,51.229,Middle Kootenai,tasmax
+1978,Historical Emissions,52.184,49.483,50.378,Middle Kootenai,tasmax
+1979,Historical Emissions,52.968,49.639,50.545,Middle Kootenai,tasmax
+1980,Historical Emissions,51.014,49.039,50.248,Middle Kootenai,tasmax
+1981,Historical Emissions,52.245,49.729,50.635,Middle Kootenai,tasmax
+1982,Historical Emissions,52.414,49.807,50.577,Middle Kootenai,tasmax
+1983,Historical Emissions,51.923,49.135,50.312,Middle Kootenai,tasmax
+1984,Historical Emissions,51.665,49.354,50.57,Middle Kootenai,tasmax
+1985,Historical Emissions,52.178,49.907,50.531,Middle Kootenai,tasmax
+1986,Historical Emissions,51.538,48.515,49.847,Middle Kootenai,tasmax
+1987,Historical Emissions,52.24,48.197,50.651,Middle Kootenai,tasmax
+1988,Historical Emissions,51.685,49.313,50.553,Middle Kootenai,tasmax
+1989,Historical Emissions,52.358,50.044,51.214,Middle Kootenai,tasmax
+1990,Historical Emissions,54.846,49.475,51.021,Middle Kootenai,tasmax
+1991,Historical Emissions,53.247,48.368,51.262,Middle Kootenai,tasmax
+1992,Historical Emissions,52.052,49.061,49.954,Middle Kootenai,tasmax
+1993,Historical Emissions,52.767,49.022,51.024,Middle Kootenai,tasmax
+1994,Historical Emissions,53.463,50.12,51.054,Middle Kootenai,tasmax
+1995,Historical Emissions,51.947,49.455,50.538,Middle Kootenai,tasmax
+1996,Historical Emissions,54.703,51.504,52.14,Middle Kootenai,tasmax
+1997,Historical Emissions,52.963,48.682,51.657,Middle Kootenai,tasmax
+1998,Historical Emissions,53.573,49.802,51.636,Middle Kootenai,tasmax
+1999,Historical Emissions,52.715,49.661,51.844,Middle Kootenai,tasmax
+2000,Historical Emissions,52.813,50.097,51.522,Middle Kootenai,tasmax
+2001,Historical Emissions,53.577,50.442,51.855,Middle Kootenai,tasmax
+2002,Historical Emissions,55.037,50.211,51.349,Middle Kootenai,tasmax
+2003,Historical Emissions,54.138,51.902,52.719,Middle Kootenai,tasmax
+2004,Historical Emissions,53.672,51.992,52.182,Middle Kootenai,tasmax
+2005,Historical Emissions,55.439,51.08,53.925,Middle Kootenai,tasmax
+2006,Historical Emissions,53.806,50.123,51.381,Middle Kootenai,tasmax
+2007,Historical Emissions,53.726,51.768,52.754,Middle Kootenai,tasmax
+2008,Historical Emissions,54.561,50.729,52.809,Middle Kootenai,tasmax
+2009,Historical Emissions,53.793,51.158,51.682,Middle Kootenai,tasmax
+2010,Historical Emissions,53.56,51.462,52.362,Middle Kootenai,tasmax
+2011,Historical Emissions,54.579,51.407,52.153,Middle Kootenai,tasmax
+2012,Historical Emissions,54.677,51.276,53.22,Middle Kootenai,tasmax
+2013,Historical Emissions,54.844,51.623,52.949,Middle Kootenai,tasmax
+2014,Historical Emissions,54.085,51.356,52.704,Middle Kootenai,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",55.846,51.749,53.682,Middle Kootenai,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",54.661,50.396,53.071,Middle Kootenai,tasmax
+2015,"High Emissions
+(SSP3-7.0)",54.581,50.727,52.28,Middle Kootenai,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",53.503,52.192,52.918,Middle Kootenai,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",55.169,51.422,53.57,Middle Kootenai,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",54.695,51.264,52.207,Middle Kootenai,tasmax
+2016,"High Emissions
+(SSP3-7.0)",56.817,51.082,54.2,Middle Kootenai,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",54.599,51.564,52.525,Middle Kootenai,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",53.766,51.142,52.665,Middle Kootenai,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",55.571,51.953,53.06,Middle Kootenai,tasmax
+2017,"High Emissions
+(SSP3-7.0)",54.497,52.094,53.229,Middle Kootenai,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",55.331,51.812,53.896,Middle Kootenai,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",54.136,51.532,53.036,Middle Kootenai,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",54.796,51.59,53.04,Middle Kootenai,tasmax
+2018,"High Emissions
+(SSP3-7.0)",55.153,51.449,52.422,Middle Kootenai,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",54.331,52.67,53.317,Middle Kootenai,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",55.987,53.455,54.78,Middle Kootenai,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",54.346,50.139,53.206,Middle Kootenai,tasmax
+2019,"High Emissions
+(SSP3-7.0)",55.99,51.734,52.213,Middle Kootenai,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",55.847,52.328,53.418,Middle Kootenai,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",56.134,52.6,54.502,Middle Kootenai,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",54.008,50.976,52.668,Middle Kootenai,tasmax
+2020,"High Emissions
+(SSP3-7.0)",54.957,51.321,53.031,Middle Kootenai,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",54.974,52.154,52.889,Middle Kootenai,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",56.574,52.149,53.957,Middle Kootenai,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",55.099,53.091,53.466,Middle Kootenai,tasmax
+2021,"High Emissions
+(SSP3-7.0)",54.593,52.25,53.858,Middle Kootenai,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",54.853,52.367,53.666,Middle Kootenai,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",54.118,51.042,52.653,Middle Kootenai,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",55.006,52.537,54.071,Middle Kootenai,tasmax
+2022,"High Emissions
+(SSP3-7.0)",55.07,51.946,53.228,Middle Kootenai,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",55.6,52.393,53.672,Middle Kootenai,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",54.561,52.418,53.701,Middle Kootenai,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",55.373,52.553,53.833,Middle Kootenai,tasmax
+2023,"High Emissions
+(SSP3-7.0)",56.773,51.48,52.948,Middle Kootenai,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",53.837,50.793,52.467,Middle Kootenai,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",55.278,50.984,53.659,Middle Kootenai,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",55.48,53.132,54.429,Middle Kootenai,tasmax
+2024,"High Emissions
+(SSP3-7.0)",56.545,52.119,53.327,Middle Kootenai,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",56.346,51.39,53.094,Middle Kootenai,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",55.5,53.271,54.43,Middle Kootenai,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",55.369,50.535,53.244,Middle Kootenai,tasmax
+2025,"High Emissions
+(SSP3-7.0)",56.274,53.033,53.788,Middle Kootenai,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",56.984,52.843,54.127,Middle Kootenai,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",56.029,52.041,53.602,Middle Kootenai,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",55.942,51.333,53.547,Middle Kootenai,tasmax
+2026,"High Emissions
+(SSP3-7.0)",55.88,51.054,53.648,Middle Kootenai,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",57.031,52.125,53.864,Middle Kootenai,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",55.514,51.619,53.338,Middle Kootenai,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",56.994,51.486,54.169,Middle Kootenai,tasmax
+2027,"High Emissions
+(SSP3-7.0)",56.566,52.434,55.585,Middle Kootenai,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",55.472,51.867,54.826,Middle Kootenai,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",55.417,53.118,54.649,Middle Kootenai,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",55.77,50.208,53.889,Middle Kootenai,tasmax
+2028,"High Emissions
+(SSP3-7.0)",55.75,52.578,53.87,Middle Kootenai,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",56.681,52.923,54.061,Middle Kootenai,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",57.555,53.084,55.019,Middle Kootenai,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",56.044,52.747,54.052,Middle Kootenai,tasmax
+2029,"High Emissions
+(SSP3-7.0)",56.323,51.131,53.977,Middle Kootenai,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",55.708,52.966,54.906,Middle Kootenai,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",56.735,52.64,53.867,Middle Kootenai,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",56.222,53.219,54.48,Middle Kootenai,tasmax
+2030,"High Emissions
+(SSP3-7.0)",55.951,52.575,53.107,Middle Kootenai,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",57.236,52.956,53.965,Middle Kootenai,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",55.894,52.444,54.12,Middle Kootenai,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",57.232,51.798,54.683,Middle Kootenai,tasmax
+2031,"High Emissions
+(SSP3-7.0)",55.955,52.666,55.146,Middle Kootenai,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",56.856,53.296,55.046,Middle Kootenai,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",56.328,52.146,55.251,Middle Kootenai,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",56.013,51.698,54.054,Middle Kootenai,tasmax
+2032,"High Emissions
+(SSP3-7.0)",56.743,52.118,52.891,Middle Kootenai,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",57.586,52.077,53.126,Middle Kootenai,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",56.493,53.174,54.291,Middle Kootenai,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",56.921,53.06,54.715,Middle Kootenai,tasmax
+2033,"High Emissions
+(SSP3-7.0)",56.437,52.365,54.42,Middle Kootenai,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",56.027,51.921,55.578,Middle Kootenai,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",56.677,52.809,54.017,Middle Kootenai,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",56.443,53.029,54.312,Middle Kootenai,tasmax
+2034,"High Emissions
+(SSP3-7.0)",55.902,53.209,55.376,Middle Kootenai,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",56.885,50.7,53.818,Middle Kootenai,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",57.029,52.585,55.02,Middle Kootenai,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",56.529,52.343,54.152,Middle Kootenai,tasmax
+2035,"High Emissions
+(SSP3-7.0)",55.728,52.138,54.047,Middle Kootenai,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",55.647,52.574,54.078,Middle Kootenai,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",56.566,53.92,56,Middle Kootenai,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",56.294,52.484,53.92,Middle Kootenai,tasmax
+2036,"High Emissions
+(SSP3-7.0)",55.676,53.313,54.95,Middle Kootenai,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",56.419,52.699,56.05,Middle Kootenai,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",57.062,54.315,55.025,Middle Kootenai,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",57.581,52.197,54.014,Middle Kootenai,tasmax
+2037,"High Emissions
+(SSP3-7.0)",55.926,50.474,54.349,Middle Kootenai,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",56.176,52.946,53.955,Middle Kootenai,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",56.633,53.376,54.548,Middle Kootenai,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",55.628,52.906,54.73,Middle Kootenai,tasmax
+2038,"High Emissions
+(SSP3-7.0)",56.621,53.153,54.06,Middle Kootenai,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",56.518,52.267,55.844,Middle Kootenai,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",57.18,53.022,54.942,Middle Kootenai,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",55.629,53.636,54.296,Middle Kootenai,tasmax
+2039,"High Emissions
+(SSP3-7.0)",57.127,53.952,55.037,Middle Kootenai,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",57.759,53.102,54.833,Middle Kootenai,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",55.83,52.275,54.892,Middle Kootenai,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",55.827,52.707,54.747,Middle Kootenai,tasmax
+2040,"High Emissions
+(SSP3-7.0)",56.415,53.301,55.485,Middle Kootenai,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",58.93,53.249,55.746,Middle Kootenai,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",56.351,51.357,54.677,Middle Kootenai,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",56.427,53.233,55.967,Middle Kootenai,tasmax
+2041,"High Emissions
+(SSP3-7.0)",56.859,53.461,54.382,Middle Kootenai,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",55.628,53.322,55.19,Middle Kootenai,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",57.441,52.575,54.818,Middle Kootenai,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",55.86,51.712,54.306,Middle Kootenai,tasmax
+2042,"High Emissions
+(SSP3-7.0)",56.42,52.114,54.793,Middle Kootenai,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",56.914,53.934,55.404,Middle Kootenai,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",56.466,52.586,54.872,Middle Kootenai,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",56.172,52.959,54.73,Middle Kootenai,tasmax
+2043,"High Emissions
+(SSP3-7.0)",55.535,53.082,54.536,Middle Kootenai,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",56.95,54.108,55.817,Middle Kootenai,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",56.652,54.106,55.176,Middle Kootenai,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",58.955,53.8,55.713,Middle Kootenai,tasmax
+2044,"High Emissions
+(SSP3-7.0)",56.813,52.809,55.482,Middle Kootenai,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",58.911,54.122,55.706,Middle Kootenai,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",56.485,53.778,55.603,Middle Kootenai,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",58.428,53.264,54.976,Middle Kootenai,tasmax
+2045,"High Emissions
+(SSP3-7.0)",57.149,53.534,55.474,Middle Kootenai,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",56.778,53.966,55.642,Middle Kootenai,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",57.712,52.881,55.179,Middle Kootenai,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",57.035,52.74,55.848,Middle Kootenai,tasmax
+2046,"High Emissions
+(SSP3-7.0)",56.138,53.924,54.915,Middle Kootenai,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",57.092,53.027,54.327,Middle Kootenai,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",58.046,53.774,55.803,Middle Kootenai,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",57.26,50.497,54.452,Middle Kootenai,tasmax
+2047,"High Emissions
+(SSP3-7.0)",55.3,53.289,54.962,Middle Kootenai,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",59.059,52.946,56.611,Middle Kootenai,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",56.717,53.368,54.945,Middle Kootenai,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",57.761,53.842,57.051,Middle Kootenai,tasmax
+2048,"High Emissions
+(SSP3-7.0)",57.51,52.614,55.803,Middle Kootenai,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",58.929,53.688,57.601,Middle Kootenai,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",56.289,53.151,53.655,Middle Kootenai,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",56.789,53.129,55.311,Middle Kootenai,tasmax
+2049,"High Emissions
+(SSP3-7.0)",56.976,54.157,55.991,Middle Kootenai,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",57.432,54.848,56.074,Middle Kootenai,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",57.216,51.962,55.538,Middle Kootenai,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",57.664,53.417,56.67,Middle Kootenai,tasmax
+2050,"High Emissions
+(SSP3-7.0)",58.025,54.019,55.658,Middle Kootenai,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",58.821,54.142,57.124,Middle Kootenai,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",57.26,53.042,56.052,Middle Kootenai,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",56.528,54.615,54.952,Middle Kootenai,tasmax
+2051,"High Emissions
+(SSP3-7.0)",58.379,53.596,55.681,Middle Kootenai,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",57.326,53.901,55.902,Middle Kootenai,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",55.85,52.803,55.314,Middle Kootenai,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",57.367,53.987,54.821,Middle Kootenai,tasmax
+2052,"High Emissions
+(SSP3-7.0)",58.284,52.621,55.878,Middle Kootenai,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",58.505,54.408,56.338,Middle Kootenai,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",56.517,52.799,54.734,Middle Kootenai,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",56.691,53.553,56.079,Middle Kootenai,tasmax
+2053,"High Emissions
+(SSP3-7.0)",59.092,54.778,57.749,Middle Kootenai,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",59.367,54.464,55.07,Middle Kootenai,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",56.879,54.992,55.981,Middle Kootenai,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",56.395,53.536,54.597,Middle Kootenai,tasmax
+2054,"High Emissions
+(SSP3-7.0)",56.989,53.957,55.06,Middle Kootenai,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",58.852,54.5,55.481,Middle Kootenai,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",56.779,54.873,55.573,Middle Kootenai,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",58.102,53.568,55.946,Middle Kootenai,tasmax
+2055,"High Emissions
+(SSP3-7.0)",57.536,53.5,55.39,Middle Kootenai,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",59.036,54.816,57.189,Middle Kootenai,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",57.073,52.969,55.959,Middle Kootenai,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",58.781,54.437,55.383,Middle Kootenai,tasmax
+2056,"High Emissions
+(SSP3-7.0)",58.618,54.173,55.971,Middle Kootenai,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",59.379,55.503,58.095,Middle Kootenai,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",56.573,51.477,54.821,Middle Kootenai,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",57.462,54.621,55.911,Middle Kootenai,tasmax
+2057,"High Emissions
+(SSP3-7.0)",58.83,53.004,54.174,Middle Kootenai,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",58.802,54.159,57.409,Middle Kootenai,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",57.948,53.405,55.845,Middle Kootenai,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",59.512,54.122,56.019,Middle Kootenai,tasmax
+2058,"High Emissions
+(SSP3-7.0)",58.083,54.05,56.103,Middle Kootenai,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",59.398,53.185,55.749,Middle Kootenai,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",57.69,53.484,54.82,Middle Kootenai,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",59.305,54.87,56.957,Middle Kootenai,tasmax
+2059,"High Emissions
+(SSP3-7.0)",59.363,54.711,57.331,Middle Kootenai,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",59.2,55.879,57.796,Middle Kootenai,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",57.613,53.283,54.923,Middle Kootenai,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",59.056,54.196,55.999,Middle Kootenai,tasmax
+2060,"High Emissions
+(SSP3-7.0)",57.908,54.483,56.763,Middle Kootenai,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",58.719,55.539,57.416,Middle Kootenai,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",57.312,53.44,55.757,Middle Kootenai,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",57.399,53.645,56.036,Middle Kootenai,tasmax
+2061,"High Emissions
+(SSP3-7.0)",58.169,54.952,56.563,Middle Kootenai,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",61.233,56.166,57.512,Middle Kootenai,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",56.983,54.711,55.1,Middle Kootenai,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",58.813,53.305,55.069,Middle Kootenai,tasmax
+2062,"High Emissions
+(SSP3-7.0)",57.876,55.25,56.554,Middle Kootenai,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",59.484,56.072,57.951,Middle Kootenai,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",57.07,53.759,54.968,Middle Kootenai,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",58.194,53.36,55.383,Middle Kootenai,tasmax
+2063,"High Emissions
+(SSP3-7.0)",58.117,54.861,57.041,Middle Kootenai,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",59.604,55.198,58.757,Middle Kootenai,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",57.489,52.83,56.846,Middle Kootenai,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",56.575,53.997,54.952,Middle Kootenai,tasmax
+2064,"High Emissions
+(SSP3-7.0)",57.987,55.836,56.124,Middle Kootenai,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",58.322,55.739,57.118,Middle Kootenai,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",56.696,52.248,55.948,Middle Kootenai,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",58.222,53.029,56.808,Middle Kootenai,tasmax
+2065,"High Emissions
+(SSP3-7.0)",58.479,55.1,56.175,Middle Kootenai,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",60.853,56.968,57.928,Middle Kootenai,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",58.455,54.555,57.058,Middle Kootenai,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",59.379,54.687,56.915,Middle Kootenai,tasmax
+2066,"High Emissions
+(SSP3-7.0)",58.531,53.665,55.988,Middle Kootenai,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",60.587,55.914,58.124,Middle Kootenai,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",57.841,55.045,55.634,Middle Kootenai,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",58.435,53.578,54.905,Middle Kootenai,tasmax
+2067,"High Emissions
+(SSP3-7.0)",59.53,56.657,57.206,Middle Kootenai,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",60.274,56.089,57.352,Middle Kootenai,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",57.758,53.8,54.759,Middle Kootenai,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",57.617,55.264,56.48,Middle Kootenai,tasmax
+2068,"High Emissions
+(SSP3-7.0)",58.531,53.982,55.535,Middle Kootenai,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",59.634,56.532,57.329,Middle Kootenai,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",57.46,54.967,55.961,Middle Kootenai,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",58.15,53.356,55.852,Middle Kootenai,tasmax
+2069,"High Emissions
+(SSP3-7.0)",62.303,55.502,56.753,Middle Kootenai,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",62.59,56.416,58.774,Middle Kootenai,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",57.744,53.832,55.727,Middle Kootenai,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",58.779,53.802,56.155,Middle Kootenai,tasmax
+2070,"High Emissions
+(SSP3-7.0)",61.331,55.722,57.436,Middle Kootenai,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",62.543,56.986,59.074,Middle Kootenai,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",58.101,53.297,55.178,Middle Kootenai,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",57.865,54.246,56.678,Middle Kootenai,tasmax
+2071,"High Emissions
+(SSP3-7.0)",58.667,56.437,57.055,Middle Kootenai,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",61.574,55.747,57.831,Middle Kootenai,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",57.424,54.308,55.4,Middle Kootenai,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",58.66,54.289,56.549,Middle Kootenai,tasmax
+2072,"High Emissions
+(SSP3-7.0)",59.462,54.766,57.404,Middle Kootenai,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",60.393,56.746,58.804,Middle Kootenai,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",56.9,53.65,54.918,Middle Kootenai,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",58.08,53.368,56.802,Middle Kootenai,tasmax
+2073,"High Emissions
+(SSP3-7.0)",59.461,56.194,57.616,Middle Kootenai,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",61.418,56.467,58.412,Middle Kootenai,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",58.717,52.907,56.697,Middle Kootenai,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",58.919,54.475,55.225,Middle Kootenai,tasmax
+2074,"High Emissions
+(SSP3-7.0)",59.054,55.736,56.872,Middle Kootenai,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",63.099,56.529,58.426,Middle Kootenai,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",58.216,52.197,54.942,Middle Kootenai,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",59.767,53.646,55.867,Middle Kootenai,tasmax
+2075,"High Emissions
+(SSP3-7.0)",60.609,54.693,55.978,Middle Kootenai,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",61.91,56.318,58.935,Middle Kootenai,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",57.739,52.065,55.184,Middle Kootenai,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",57.591,54.919,55.599,Middle Kootenai,tasmax
+2076,"High Emissions
+(SSP3-7.0)",60.009,56.314,57.584,Middle Kootenai,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",61.038,56.939,58.456,Middle Kootenai,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",57.891,53.595,56.286,Middle Kootenai,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",59.181,54.617,57.796,Middle Kootenai,tasmax
+2077,"High Emissions
+(SSP3-7.0)",60.487,56.103,57.53,Middle Kootenai,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",61.083,57.103,58.762,Middle Kootenai,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",57.768,53.697,55.577,Middle Kootenai,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",57.967,55.068,57.321,Middle Kootenai,tasmax
+2078,"High Emissions
+(SSP3-7.0)",61.057,56.294,57.553,Middle Kootenai,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",59.874,56.591,57.498,Middle Kootenai,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",57.835,53.639,55.323,Middle Kootenai,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",58.682,54.576,57.139,Middle Kootenai,tasmax
+2079,"High Emissions
+(SSP3-7.0)",60.146,56.391,58.543,Middle Kootenai,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",62.52,56.837,59.33,Middle Kootenai,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",56.493,53.641,54.566,Middle Kootenai,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",58.52,54.201,56.157,Middle Kootenai,tasmax
+2080,"High Emissions
+(SSP3-7.0)",62.001,56.862,57.581,Middle Kootenai,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",62.387,57.75,59.372,Middle Kootenai,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",58.169,54.121,54.765,Middle Kootenai,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",58.801,54.979,56.805,Middle Kootenai,tasmax
+2081,"High Emissions
+(SSP3-7.0)",61.525,56.126,57.692,Middle Kootenai,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",65.032,58.615,60.483,Middle Kootenai,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",58.467,53.641,56.012,Middle Kootenai,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",60.329,55.822,56.709,Middle Kootenai,tasmax
+2082,"High Emissions
+(SSP3-7.0)",61.353,55.227,57.639,Middle Kootenai,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",63.286,57.511,60.013,Middle Kootenai,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",57.739,54.156,55.536,Middle Kootenai,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",59.283,54.31,55.68,Middle Kootenai,tasmax
+2083,"High Emissions
+(SSP3-7.0)",61.05,54.63,58.601,Middle Kootenai,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",61.814,57.634,60.913,Middle Kootenai,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",58.177,53.353,54.187,Middle Kootenai,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",59.379,54.437,56.973,Middle Kootenai,tasmax
+2084,"High Emissions
+(SSP3-7.0)",61.285,57.441,59.146,Middle Kootenai,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",63.227,58.722,60.317,Middle Kootenai,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",57.674,52.032,54.787,Middle Kootenai,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",58.69,53.798,57.481,Middle Kootenai,tasmax
+2085,"High Emissions
+(SSP3-7.0)",59.723,55.894,57.196,Middle Kootenai,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",62.456,58.796,60.575,Middle Kootenai,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",58.597,54.578,56.662,Middle Kootenai,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",58.457,56.177,57.33,Middle Kootenai,tasmax
+2086,"High Emissions
+(SSP3-7.0)",61.008,56.25,59.622,Middle Kootenai,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",62.976,57.983,61.524,Middle Kootenai,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",55.446,53.483,54.791,Middle Kootenai,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",59.509,55.191,57.665,Middle Kootenai,tasmax
+2087,"High Emissions
+(SSP3-7.0)",62.072,55.825,58.751,Middle Kootenai,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",62.863,59.404,60.173,Middle Kootenai,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",58.355,52.991,55.458,Middle Kootenai,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",58.167,56.578,57.6,Middle Kootenai,tasmax
+2088,"High Emissions
+(SSP3-7.0)",61.753,56.792,59.381,Middle Kootenai,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",63.617,59.549,61.073,Middle Kootenai,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",56.586,53.09,54.808,Middle Kootenai,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",60.232,54.915,57.364,Middle Kootenai,tasmax
+2089,"High Emissions
+(SSP3-7.0)",61.101,56.772,59.238,Middle Kootenai,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",64.713,58.808,60.734,Middle Kootenai,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",57.206,54.248,55.799,Middle Kootenai,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",59.421,54.837,57.197,Middle Kootenai,tasmax
+2090,"High Emissions
+(SSP3-7.0)",62.268,57.907,59.545,Middle Kootenai,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",65.876,59.712,60.752,Middle Kootenai,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",57.366,53.475,56.35,Middle Kootenai,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",58.582,55.348,56.732,Middle Kootenai,tasmax
+2091,"High Emissions
+(SSP3-7.0)",61.171,57.302,60.545,Middle Kootenai,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",64.028,58.318,60.851,Middle Kootenai,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",57.363,52.999,55.979,Middle Kootenai,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",61.481,56.176,58.779,Middle Kootenai,tasmax
+2092,"High Emissions
+(SSP3-7.0)",60.053,56.563,58.185,Middle Kootenai,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",64.136,59.749,60.786,Middle Kootenai,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",56.713,52.651,54.79,Middle Kootenai,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",59.28,54.793,56.703,Middle Kootenai,tasmax
+2093,"High Emissions
+(SSP3-7.0)",62.628,57.171,59.918,Middle Kootenai,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",65.096,59.518,61.592,Middle Kootenai,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",58.626,53.18,54.322,Middle Kootenai,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",60.303,54.254,56.821,Middle Kootenai,tasmax
+2094,"High Emissions
+(SSP3-7.0)",62.448,58.019,60.152,Middle Kootenai,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",64.723,59.146,63.187,Middle Kootenai,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",58.273,52.989,56.152,Middle Kootenai,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",60.483,56.091,58.218,Middle Kootenai,tasmax
+2095,"High Emissions
+(SSP3-7.0)",63.388,57.421,60.636,Middle Kootenai,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",63.551,59.24,60.884,Middle Kootenai,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",56.942,53.362,56.138,Middle Kootenai,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",60.06,55.768,57.64,Middle Kootenai,tasmax
+2096,"High Emissions
+(SSP3-7.0)",62.029,57.979,60.123,Middle Kootenai,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",65.053,59.101,60.188,Middle Kootenai,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",57.267,52.715,54.915,Middle Kootenai,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",59.96,55.585,58.137,Middle Kootenai,tasmax
+2097,"High Emissions
+(SSP3-7.0)",65.481,57.496,60.124,Middle Kootenai,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",64.491,58.765,61.201,Middle Kootenai,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",56.472,53.094,54.802,Middle Kootenai,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",58.057,55.692,56.828,Middle Kootenai,tasmax
+2098,"High Emissions
+(SSP3-7.0)",63.489,58.079,59.796,Middle Kootenai,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",63.961,59.184,62.054,Middle Kootenai,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",57.784,53.159,56.851,Middle Kootenai,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",59.712,53.909,56.982,Middle Kootenai,tasmax
+2099,"High Emissions
+(SSP3-7.0)",64.115,57.446,58.697,Middle Kootenai,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",66.246,61.196,62.382,Middle Kootenai,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",57.212,52.389,53.827,Middle Kootenai,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",60.12,55.536,56.918,Middle Kootenai,tasmax
+2100,"High Emissions
+(SSP3-7.0)",62.532,57.627,59.837,Middle Kootenai,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",65.111,59.725,61.644,Middle Kootenai,tasmax

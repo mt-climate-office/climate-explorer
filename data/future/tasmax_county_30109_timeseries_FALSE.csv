@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,58.195,55.373,56.162,Wibaux County,tasmax
+1951,Historical Emissions,57.771,53.094,56.19,Wibaux County,tasmax
+1952,Historical Emissions,58.431,53.416,56.5,Wibaux County,tasmax
+1953,Historical Emissions,58.397,52.467,55.474,Wibaux County,tasmax
+1954,Historical Emissions,57.182,52.774,56.099,Wibaux County,tasmax
+1955,Historical Emissions,59.47,53.331,54.882,Wibaux County,tasmax
+1956,Historical Emissions,59.407,55.16,56.274,Wibaux County,tasmax
+1957,Historical Emissions,61.971,53.179,56.316,Wibaux County,tasmax
+1958,Historical Emissions,58.576,54.025,55.614,Wibaux County,tasmax
+1959,Historical Emissions,55.665,52.408,54.137,Wibaux County,tasmax
+1960,Historical Emissions,57.57,53.332,54.612,Wibaux County,tasmax
+1961,Historical Emissions,58.322,54.254,55.634,Wibaux County,tasmax
+1962,Historical Emissions,56.56,51.992,55.156,Wibaux County,tasmax
+1963,Historical Emissions,55.976,53.064,54.948,Wibaux County,tasmax
+1964,Historical Emissions,57.25,53.065,56.435,Wibaux County,tasmax
+1965,Historical Emissions,57.163,53.651,55.415,Wibaux County,tasmax
+1966,Historical Emissions,59.193,53.114,54.564,Wibaux County,tasmax
+1967,Historical Emissions,57.034,52.86,55.575,Wibaux County,tasmax
+1968,Historical Emissions,55.167,51.65,53.681,Wibaux County,tasmax
+1969,Historical Emissions,56.338,53.141,55.148,Wibaux County,tasmax
+1970,Historical Emissions,57.827,53.522,55.841,Wibaux County,tasmax
+1971,Historical Emissions,58.712,55.079,56.906,Wibaux County,tasmax
+1972,Historical Emissions,56.942,54.283,55.57,Wibaux County,tasmax
+1973,Historical Emissions,58.416,52.14,54.416,Wibaux County,tasmax
+1974,Historical Emissions,58.611,53.22,56.273,Wibaux County,tasmax
+1975,Historical Emissions,57.729,52.996,55.345,Wibaux County,tasmax
+1976,Historical Emissions,57.147,53.278,55.143,Wibaux County,tasmax
+1977,Historical Emissions,58.331,54.029,55.963,Wibaux County,tasmax
+1978,Historical Emissions,58.024,53.18,55.725,Wibaux County,tasmax
+1979,Historical Emissions,58.704,54.15,58.144,Wibaux County,tasmax
+1980,Historical Emissions,57.724,53.709,55.769,Wibaux County,tasmax
+1981,Historical Emissions,58.377,54.633,55.941,Wibaux County,tasmax
+1982,Historical Emissions,57.427,54.391,55.258,Wibaux County,tasmax
+1983,Historical Emissions,56.912,53.759,54.636,Wibaux County,tasmax
+1984,Historical Emissions,58.484,54.679,56.512,Wibaux County,tasmax
+1985,Historical Emissions,58.11,54.953,56.565,Wibaux County,tasmax
+1986,Historical Emissions,54.462,52.603,53.916,Wibaux County,tasmax
+1987,Historical Emissions,56.35,51.784,53.436,Wibaux County,tasmax
+1988,Historical Emissions,56.515,53.181,55.219,Wibaux County,tasmax
+1989,Historical Emissions,58.742,54.06,56.157,Wibaux County,tasmax
+1990,Historical Emissions,60.237,53.701,56.571,Wibaux County,tasmax
+1991,Historical Emissions,57.522,53.779,54.66,Wibaux County,tasmax
+1992,Historical Emissions,58.494,53.825,54.976,Wibaux County,tasmax
+1993,Historical Emissions,57.929,54.061,55.128,Wibaux County,tasmax
+1994,Historical Emissions,58.331,54.863,55.328,Wibaux County,tasmax
+1995,Historical Emissions,60.268,54.781,55.78,Wibaux County,tasmax
+1996,Historical Emissions,59.569,55.716,57.617,Wibaux County,tasmax
+1997,Historical Emissions,60.292,53.589,56.634,Wibaux County,tasmax
+1998,Historical Emissions,57.839,53.806,56.805,Wibaux County,tasmax
+1999,Historical Emissions,58.915,55.248,57.204,Wibaux County,tasmax
+2000,Historical Emissions,58.45,54.57,56.361,Wibaux County,tasmax
+2001,Historical Emissions,58.519,54.205,56.406,Wibaux County,tasmax
+2002,Historical Emissions,59.684,55.225,58.056,Wibaux County,tasmax
+2003,Historical Emissions,59.621,55.451,56.908,Wibaux County,tasmax
+2004,Historical Emissions,58.973,57.002,57.964,Wibaux County,tasmax
+2005,Historical Emissions,60.521,56.057,58.889,Wibaux County,tasmax
+2006,Historical Emissions,59.538,55.244,56.996,Wibaux County,tasmax
+2007,Historical Emissions,58.74,56.013,57.614,Wibaux County,tasmax
+2008,Historical Emissions,58.513,54.858,56.473,Wibaux County,tasmax
+2009,Historical Emissions,58.58,55.828,57.094,Wibaux County,tasmax
+2010,Historical Emissions,59.417,55.691,58.467,Wibaux County,tasmax
+2011,Historical Emissions,59.625,56.626,57.932,Wibaux County,tasmax
+2012,Historical Emissions,59.032,56.674,58.179,Wibaux County,tasmax
+2013,Historical Emissions,59.966,55.949,57.94,Wibaux County,tasmax
+2014,Historical Emissions,61.531,57.735,58.346,Wibaux County,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",61.902,56.998,58.478,Wibaux County,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",60.951,55.737,57.992,Wibaux County,tasmax
+2015,"High Emissions
+(SSP3-7.0)",60.405,56.741,58.364,Wibaux County,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",60.36,56.655,58.38,Wibaux County,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",60.486,57.548,59.024,Wibaux County,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",59.911,55.739,58.966,Wibaux County,tasmax
+2016,"High Emissions
+(SSP3-7.0)",62.475,55.321,59.346,Wibaux County,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",60.043,56.414,57.932,Wibaux County,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",59.992,57.452,58.309,Wibaux County,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",60.703,55.489,57.537,Wibaux County,tasmax
+2017,"High Emissions
+(SSP3-7.0)",59.737,56.301,57.991,Wibaux County,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",60.489,57.222,58.569,Wibaux County,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",60.659,56.178,59.002,Wibaux County,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",60.714,56.883,58.562,Wibaux County,tasmax
+2018,"High Emissions
+(SSP3-7.0)",61.346,54.892,58.219,Wibaux County,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",59.903,56.564,58.417,Wibaux County,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",61.892,58.189,59.388,Wibaux County,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",61.053,56.293,57.06,Wibaux County,tasmax
+2019,"High Emissions
+(SSP3-7.0)",60.765,55.879,57.422,Wibaux County,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",64.154,56.752,59.24,Wibaux County,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",63.116,56.042,57.957,Wibaux County,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",60.848,56.816,58.522,Wibaux County,tasmax
+2020,"High Emissions
+(SSP3-7.0)",60.022,56.323,58.674,Wibaux County,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",60.491,57.226,58.317,Wibaux County,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",61.186,57.012,58.735,Wibaux County,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",61.294,56.28,59.255,Wibaux County,tasmax
+2021,"High Emissions
+(SSP3-7.0)",60.968,57.209,58.75,Wibaux County,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",60.841,58.234,59.603,Wibaux County,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",60.03,57.664,58.496,Wibaux County,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",60.713,56.101,58.38,Wibaux County,tasmax
+2022,"High Emissions
+(SSP3-7.0)",59.989,56.974,58.055,Wibaux County,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",62.763,55.977,59.688,Wibaux County,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",60.705,57.847,58.571,Wibaux County,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",61.331,57.24,58.668,Wibaux County,tasmax
+2023,"High Emissions
+(SSP3-7.0)",63.027,57.076,59.107,Wibaux County,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",59.468,55.622,56.643,Wibaux County,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",60.74,57.186,59.64,Wibaux County,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",60.66,56.637,58.342,Wibaux County,tasmax
+2024,"High Emissions
+(SSP3-7.0)",61.652,57.275,59.007,Wibaux County,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",61.387,56.5,59.259,Wibaux County,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",61.233,58.282,60.25,Wibaux County,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",60.831,55.216,59.287,Wibaux County,tasmax
+2025,"High Emissions
+(SSP3-7.0)",61.008,58.251,59.795,Wibaux County,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",61.725,58.183,59.594,Wibaux County,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",61.696,57.338,59.354,Wibaux County,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",62.048,57.294,60.086,Wibaux County,tasmax
+2026,"High Emissions
+(SSP3-7.0)",60.183,56.618,58.045,Wibaux County,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",61.383,56.881,58.729,Wibaux County,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",61.311,56.364,57.952,Wibaux County,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",62.573,57.432,59.351,Wibaux County,tasmax
+2027,"High Emissions
+(SSP3-7.0)",61.951,55.694,57.97,Wibaux County,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",61.16,57.618,60.006,Wibaux County,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",60.379,56.69,58.63,Wibaux County,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",59.913,56.427,57.867,Wibaux County,tasmax
+2028,"High Emissions
+(SSP3-7.0)",60.208,57.666,58.887,Wibaux County,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",61.637,57.248,57.894,Wibaux County,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",63.597,58.83,59.758,Wibaux County,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",61.823,56.596,60.157,Wibaux County,tasmax
+2029,"High Emissions
+(SSP3-7.0)",60.981,56.315,57.684,Wibaux County,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",60.712,57.97,59.132,Wibaux County,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",61.749,57.26,59.786,Wibaux County,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",62.672,58.704,60.7,Wibaux County,tasmax
+2030,"High Emissions
+(SSP3-7.0)",62.741,56.409,58.551,Wibaux County,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",62.016,57.229,59.559,Wibaux County,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",62.02,56.874,60.222,Wibaux County,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",62.172,58.401,59.341,Wibaux County,tasmax
+2031,"High Emissions
+(SSP3-7.0)",62.823,57.619,60.99,Wibaux County,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",63.506,58.534,61.041,Wibaux County,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",61.256,57.045,58.55,Wibaux County,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",61.522,57.242,58.332,Wibaux County,tasmax
+2032,"High Emissions
+(SSP3-7.0)",63.106,57.694,58.515,Wibaux County,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",63.751,56.514,60.108,Wibaux County,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",61.719,57.767,59.616,Wibaux County,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",63.286,57.953,60.325,Wibaux County,tasmax
+2033,"High Emissions
+(SSP3-7.0)",60.563,56.378,58.861,Wibaux County,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",62.275,58.232,60.043,Wibaux County,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",62.131,56.512,59.378,Wibaux County,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",61.302,58.747,60.15,Wibaux County,tasmax
+2034,"High Emissions
+(SSP3-7.0)",62.873,57.568,60.014,Wibaux County,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",62.08,57.201,60.594,Wibaux County,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",62.593,57.922,59.618,Wibaux County,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",62.577,58.525,60.797,Wibaux County,tasmax
+2035,"High Emissions
+(SSP3-7.0)",59.946,56.664,58.392,Wibaux County,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",62.742,57.377,60.696,Wibaux County,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",61.924,58.544,59.857,Wibaux County,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",60.966,57.312,59.974,Wibaux County,tasmax
+2036,"High Emissions
+(SSP3-7.0)",60.719,56.862,59.41,Wibaux County,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",62.686,56.013,60.694,Wibaux County,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",62.7,58.746,61.183,Wibaux County,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",61.625,55.163,59.119,Wibaux County,tasmax
+2037,"High Emissions
+(SSP3-7.0)",60.316,56.991,58.142,Wibaux County,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",62.395,57.71,60.634,Wibaux County,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",62.917,58.408,60.615,Wibaux County,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",60.988,58.008,59.651,Wibaux County,tasmax
+2038,"High Emissions
+(SSP3-7.0)",62.02,59.101,60.202,Wibaux County,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",65.212,56.409,61.774,Wibaux County,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",62.306,56.723,60,Wibaux County,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",61.298,57.551,59.507,Wibaux County,tasmax
+2039,"High Emissions
+(SSP3-7.0)",62.052,59.835,60.994,Wibaux County,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",63.109,57.539,60.245,Wibaux County,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",62.057,57.741,60.863,Wibaux County,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",62.572,58.724,61,Wibaux County,tasmax
+2040,"High Emissions
+(SSP3-7.0)",62.145,59.094,60.424,Wibaux County,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",65.056,59.134,61.219,Wibaux County,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",62.046,56.11,59.453,Wibaux County,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",61.241,58.069,59.91,Wibaux County,tasmax
+2041,"High Emissions
+(SSP3-7.0)",61.543,57.55,58.551,Wibaux County,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",61.383,58.371,59.885,Wibaux County,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",63.208,57.791,59.499,Wibaux County,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",61.288,57.808,59.455,Wibaux County,tasmax
+2042,"High Emissions
+(SSP3-7.0)",60.571,57.955,59.567,Wibaux County,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",63.234,59.301,60.756,Wibaux County,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",60.874,57.716,59.732,Wibaux County,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",63.099,58.166,60.274,Wibaux County,tasmax
+2043,"High Emissions
+(SSP3-7.0)",61.847,56.481,59.862,Wibaux County,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",62.007,59.225,60.819,Wibaux County,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",62.578,58.106,58.905,Wibaux County,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",65.808,58.517,62.261,Wibaux County,tasmax
+2044,"High Emissions
+(SSP3-7.0)",61.534,59.65,60.643,Wibaux County,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",64.117,57.565,60.303,Wibaux County,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",62.548,56.147,60.226,Wibaux County,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",63.274,58.356,60.267,Wibaux County,tasmax
+2045,"High Emissions
+(SSP3-7.0)",62.379,57.656,60.079,Wibaux County,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",61.72,57.417,59.778,Wibaux County,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",63.609,56.563,61.139,Wibaux County,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",62.305,57.338,59.361,Wibaux County,tasmax
+2046,"High Emissions
+(SSP3-7.0)",63.414,59.481,61.261,Wibaux County,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",63.23,58.882,59.751,Wibaux County,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",62.948,58.208,59.995,Wibaux County,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",62.611,55.658,59.303,Wibaux County,tasmax
+2047,"High Emissions
+(SSP3-7.0)",61.147,58.357,60.085,Wibaux County,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",64.673,58.164,61.346,Wibaux County,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",63.368,59.063,60.89,Wibaux County,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",63.668,57.497,60.263,Wibaux County,tasmax
+2048,"High Emissions
+(SSP3-7.0)",63.863,58.181,61.44,Wibaux County,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",67.679,59.204,62.232,Wibaux County,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",62.416,58.211,59.413,Wibaux County,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",63.405,59.805,62.464,Wibaux County,tasmax
+2049,"High Emissions
+(SSP3-7.0)",63.718,59.408,61.062,Wibaux County,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",63.382,59.146,61.076,Wibaux County,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",62.076,55.832,59.536,Wibaux County,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",63.863,59.383,62.129,Wibaux County,tasmax
+2050,"High Emissions
+(SSP3-7.0)",63.648,59.496,61.061,Wibaux County,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",63.608,59.542,62.133,Wibaux County,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",63.021,58.423,60.273,Wibaux County,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",65.551,59.232,61.665,Wibaux County,tasmax
+2051,"High Emissions
+(SSP3-7.0)",63.707,59.38,61.533,Wibaux County,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",63.956,60.608,61.584,Wibaux County,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",62.835,58.783,60.887,Wibaux County,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",62.988,58.843,60.588,Wibaux County,tasmax
+2052,"High Emissions
+(SSP3-7.0)",63.47,57.809,60.049,Wibaux County,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",64.164,60.463,62.979,Wibaux County,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",62.76,58.15,60.335,Wibaux County,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",62.746,58.672,61.704,Wibaux County,tasmax
+2053,"High Emissions
+(SSP3-7.0)",64.078,59.796,63.251,Wibaux County,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",65.486,59.141,63.049,Wibaux County,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",63.572,59.9,61.231,Wibaux County,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",62.593,58.053,60.213,Wibaux County,tasmax
+2054,"High Emissions
+(SSP3-7.0)",63.099,58.968,60.077,Wibaux County,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",64.68,59.122,63.181,Wibaux County,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",62.68,59.528,61.244,Wibaux County,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",64.414,58.356,61.674,Wibaux County,tasmax
+2055,"High Emissions
+(SSP3-7.0)",64.121,59.346,61.779,Wibaux County,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",65.092,60.428,63.221,Wibaux County,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",62.394,58.584,61.439,Wibaux County,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",62.985,58.29,61.545,Wibaux County,tasmax
+2056,"High Emissions
+(SSP3-7.0)",64.283,58.666,61.291,Wibaux County,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",63.819,59.426,62.696,Wibaux County,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",63.82,57.616,60.928,Wibaux County,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",63.477,60.5,61.69,Wibaux County,tasmax
+2057,"High Emissions
+(SSP3-7.0)",63.512,58.51,60.139,Wibaux County,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",64.47,57.908,60.698,Wibaux County,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",62.583,58.111,60.76,Wibaux County,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",64.01,59.253,62.435,Wibaux County,tasmax
+2058,"High Emissions
+(SSP3-7.0)",62.707,57.94,61.23,Wibaux County,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",63.35,59.476,61.201,Wibaux County,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",63.74,59.365,61.935,Wibaux County,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",65.513,58.571,62.384,Wibaux County,tasmax
+2059,"High Emissions
+(SSP3-7.0)",66.348,60.594,61.882,Wibaux County,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",64.963,61.009,64.328,Wibaux County,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",64.443,58.249,60.293,Wibaux County,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",64.94,58.495,61.029,Wibaux County,tasmax
+2060,"High Emissions
+(SSP3-7.0)",62.048,60.311,60.801,Wibaux County,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",64.084,60.461,62.956,Wibaux County,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",62.465,59.024,60.21,Wibaux County,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",64.032,59.575,61.639,Wibaux County,tasmax
+2061,"High Emissions
+(SSP3-7.0)",63.743,59.536,62.227,Wibaux County,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",66.426,61.798,63.849,Wibaux County,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",63.152,58.153,60.12,Wibaux County,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",63.352,58.809,60.702,Wibaux County,tasmax
+2062,"High Emissions
+(SSP3-7.0)",63.355,59.367,62.251,Wibaux County,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",64.216,61.883,63.013,Wibaux County,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",62.83,58.751,60.321,Wibaux County,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",62.82,59.341,61.15,Wibaux County,tasmax
+2063,"High Emissions
+(SSP3-7.0)",65.127,59.572,62.504,Wibaux County,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",65.924,59.944,63.534,Wibaux County,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",63.889,59.142,60.794,Wibaux County,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",61.815,59.049,60.086,Wibaux County,tasmax
+2064,"High Emissions
+(SSP3-7.0)",62.778,58.718,60.377,Wibaux County,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",65.841,61.211,62.296,Wibaux County,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",63.434,55.902,59.383,Wibaux County,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",64.136,58.113,59.652,Wibaux County,tasmax
+2065,"High Emissions
+(SSP3-7.0)",64.649,60.623,62.553,Wibaux County,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",67.595,61.513,64.089,Wibaux County,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",63.254,58.838,60.564,Wibaux County,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",64.421,59.234,62.271,Wibaux County,tasmax
+2066,"High Emissions
+(SSP3-7.0)",64.867,61.238,61.867,Wibaux County,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",66.708,60.488,64.253,Wibaux County,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",63.194,59.985,60.634,Wibaux County,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",64.505,60.085,61.442,Wibaux County,tasmax
+2067,"High Emissions
+(SSP3-7.0)",65.395,62.277,63.644,Wibaux County,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",68.043,62.031,63.782,Wibaux County,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",62.277,58.48,60.434,Wibaux County,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",63.228,58.478,61.717,Wibaux County,tasmax
+2068,"High Emissions
+(SSP3-7.0)",64.666,59.776,61.318,Wibaux County,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",65.642,61.719,64.128,Wibaux County,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",64.794,58.913,60.585,Wibaux County,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",63.286,59.052,60.809,Wibaux County,tasmax
+2069,"High Emissions
+(SSP3-7.0)",66.587,62.071,64.281,Wibaux County,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",68.089,61.041,64.407,Wibaux County,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",62.427,58.531,60.657,Wibaux County,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",63.453,58.879,60.27,Wibaux County,tasmax
+2070,"High Emissions
+(SSP3-7.0)",65.819,62.015,64.247,Wibaux County,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",67.724,62.214,65.166,Wibaux County,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",67.952,57.579,59.87,Wibaux County,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",63.012,60.217,61.605,Wibaux County,tasmax
+2071,"High Emissions
+(SSP3-7.0)",66.103,61.54,63.842,Wibaux County,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",68.344,62.51,64.14,Wibaux County,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",64.427,59.226,60.253,Wibaux County,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",63.289,58.565,61.067,Wibaux County,tasmax
+2072,"High Emissions
+(SSP3-7.0)",65.937,61.461,62.867,Wibaux County,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",67.089,62.486,64.082,Wibaux County,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",63.341,58.548,61.023,Wibaux County,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",64.462,58.059,61.497,Wibaux County,tasmax
+2073,"High Emissions
+(SSP3-7.0)",64.616,60.903,63.505,Wibaux County,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",66.959,60.309,63.919,Wibaux County,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",63.713,57.606,60.503,Wibaux County,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",63.932,59.852,61.244,Wibaux County,tasmax
+2074,"High Emissions
+(SSP3-7.0)",65.341,60.72,61.853,Wibaux County,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",68.303,62.658,63.071,Wibaux County,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",64.15,56.65,60.924,Wibaux County,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",65.372,59.564,60.251,Wibaux County,tasmax
+2075,"High Emissions
+(SSP3-7.0)",67.117,59.956,61.462,Wibaux County,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",69.357,62.524,64.01,Wibaux County,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",63.166,57.726,60.041,Wibaux County,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",62.795,59.345,60.906,Wibaux County,tasmax
+2076,"High Emissions
+(SSP3-7.0)",66.803,61.741,62.644,Wibaux County,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",69.026,60.929,65.008,Wibaux County,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",63.391,59.567,60.597,Wibaux County,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",64.443,60.623,62.454,Wibaux County,tasmax
+2077,"High Emissions
+(SSP3-7.0)",66.554,59.984,63.938,Wibaux County,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",68.33,63.112,65.219,Wibaux County,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",63.284,59.92,60.736,Wibaux County,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",64.773,60.214,62.603,Wibaux County,tasmax
+2078,"High Emissions
+(SSP3-7.0)",66.11,60.622,64.046,Wibaux County,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",64.953,61.418,63.078,Wibaux County,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",63.374,59.771,61.183,Wibaux County,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",63.194,59.745,61.323,Wibaux County,tasmax
+2079,"High Emissions
+(SSP3-7.0)",65.907,59.209,64.21,Wibaux County,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",67.947,62.187,66.29,Wibaux County,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",64.342,58.022,60.324,Wibaux County,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",64.767,59.504,61.855,Wibaux County,tasmax
+2080,"High Emissions
+(SSP3-7.0)",65.559,60.876,62.765,Wibaux County,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",69.392,62.744,66.108,Wibaux County,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",64.897,57.649,59.68,Wibaux County,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",64.327,59.847,61.925,Wibaux County,tasmax
+2081,"High Emissions
+(SSP3-7.0)",67.222,59.193,62.631,Wibaux County,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",69.022,64.723,66.115,Wibaux County,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",64.4,58.984,62.563,Wibaux County,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",65.3,60.594,61.846,Wibaux County,tasmax
+2082,"High Emissions
+(SSP3-7.0)",66.514,60.071,63.489,Wibaux County,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",70.246,62.594,67.605,Wibaux County,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",64.033,60.365,61.55,Wibaux County,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",64.376,60.073,61.775,Wibaux County,tasmax
+2083,"High Emissions
+(SSP3-7.0)",66.15,60.66,64.779,Wibaux County,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",69.996,63.799,66.798,Wibaux County,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",64.079,58.23,60.771,Wibaux County,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",65.404,59.923,63.592,Wibaux County,tasmax
+2084,"High Emissions
+(SSP3-7.0)",69.121,62.199,65.307,Wibaux County,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",68.97,64.105,66.535,Wibaux County,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",63.468,57.989,59.599,Wibaux County,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",64.253,59.635,61.24,Wibaux County,tasmax
+2085,"High Emissions
+(SSP3-7.0)",66.008,62.487,63.978,Wibaux County,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",69.877,63.055,66.497,Wibaux County,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",62.79,60.113,61.572,Wibaux County,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",64.062,60.515,62.09,Wibaux County,tasmax
+2086,"High Emissions
+(SSP3-7.0)",66.529,62.25,63.944,Wibaux County,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",69.461,63.035,66.999,Wibaux County,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",61.592,58.856,60.236,Wibaux County,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",65.437,60.941,63.67,Wibaux County,tasmax
+2087,"High Emissions
+(SSP3-7.0)",69.759,61.888,65.452,Wibaux County,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",69.317,62.262,65.89,Wibaux County,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",63.751,58.168,59.826,Wibaux County,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",65.059,61.421,63.809,Wibaux County,tasmax
+2088,"High Emissions
+(SSP3-7.0)",69.168,62.219,64.105,Wibaux County,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",69.897,63.972,66.442,Wibaux County,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",61.431,57.815,58.883,Wibaux County,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",64.031,60.207,62.437,Wibaux County,tasmax
+2089,"High Emissions
+(SSP3-7.0)",68.069,61.172,64.897,Wibaux County,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",70.643,65.037,68.611,Wibaux County,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",62.359,59.067,61.11,Wibaux County,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",64.118,60.937,62.448,Wibaux County,tasmax
+2090,"High Emissions
+(SSP3-7.0)",69.897,64.116,66.055,Wibaux County,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",70.944,65.445,67.376,Wibaux County,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",62.535,58.426,60.754,Wibaux County,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",64.955,60.499,63.042,Wibaux County,tasmax
+2091,"High Emissions
+(SSP3-7.0)",68.706,64.77,66.671,Wibaux County,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",72.92,63.144,65.797,Wibaux County,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",63.947,57.597,60.545,Wibaux County,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",66.31,59.569,64.407,Wibaux County,tasmax
+2092,"High Emissions
+(SSP3-7.0)",67.794,62.095,66.006,Wibaux County,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",73.077,63.947,67.853,Wibaux County,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",64.038,57.449,60.753,Wibaux County,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",64.721,59.188,62.661,Wibaux County,tasmax
+2093,"High Emissions
+(SSP3-7.0)",68.595,62.922,63.82,Wibaux County,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",71.157,65.877,67.06,Wibaux County,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",62.913,57.32,61.209,Wibaux County,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",67.259,59.36,61.534,Wibaux County,tasmax
+2094,"High Emissions
+(SSP3-7.0)",67.711,62.905,65.509,Wibaux County,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",73.114,64.561,68.551,Wibaux County,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",63.475,57.82,61.522,Wibaux County,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",66.503,60.822,64.103,Wibaux County,tasmax
+2095,"High Emissions
+(SSP3-7.0)",69.912,62.772,66.076,Wibaux County,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",70.75,64.374,67.383,Wibaux County,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",62.633,58.219,60.977,Wibaux County,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",65.482,61.891,63.287,Wibaux County,tasmax
+2096,"High Emissions
+(SSP3-7.0)",68.401,63.103,66.945,Wibaux County,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",70.103,65.024,68.018,Wibaux County,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",64.463,58.875,60.006,Wibaux County,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",66.624,61.291,62.816,Wibaux County,tasmax
+2097,"High Emissions
+(SSP3-7.0)",72.991,61.66,67.481,Wibaux County,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",73.539,64.71,65.97,Wibaux County,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",63.075,57.733,60.602,Wibaux County,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",64.626,60.305,63.474,Wibaux County,tasmax
+2098,"High Emissions
+(SSP3-7.0)",68.755,62.786,65.244,Wibaux County,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",70.034,65.943,68.374,Wibaux County,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",63.806,55.987,60.705,Wibaux County,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",64.59,61.361,62.374,Wibaux County,tasmax
+2099,"High Emissions
+(SSP3-7.0)",70.508,62.207,65.567,Wibaux County,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",71.676,64.673,69.045,Wibaux County,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",64.5,56.407,58.736,Wibaux County,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",66.702,60.324,62.934,Wibaux County,tasmax
+2100,"High Emissions
+(SSP3-7.0)",68.861,62.672,67.13,Wibaux County,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",72.264,65.47,68.1,Wibaux County,tasmax

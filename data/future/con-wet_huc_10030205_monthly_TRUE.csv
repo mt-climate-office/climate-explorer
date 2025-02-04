@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1,0,0,Teton,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1,0,0,Teton,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.93,0,0.3,Teton,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1,0,0.2,Teton,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),0.93,0,0.2,Teton,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1,0,0.1,Teton,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1,0,0.7,Teton,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1,0,0.1,Teton,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),0.46,0,0,Teton,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1,0,0.1,Teton,con-wet

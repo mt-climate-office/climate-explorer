@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,57.341,53.69,54.393,Prairie Elk-Wolf,tasmax
+1951,Historical Emissions,56.037,52.09,54.924,Prairie Elk-Wolf,tasmax
+1952,Historical Emissions,57.236,51.951,54.622,Prairie Elk-Wolf,tasmax
+1953,Historical Emissions,55.858,50.808,54.498,Prairie Elk-Wolf,tasmax
+1954,Historical Emissions,56.138,50.483,54.288,Prairie Elk-Wolf,tasmax
+1955,Historical Emissions,58.16,51.704,52.508,Prairie Elk-Wolf,tasmax
+1956,Historical Emissions,58.692,53.537,54.785,Prairie Elk-Wolf,tasmax
+1957,Historical Emissions,60.13,51.74,55.018,Prairie Elk-Wolf,tasmax
+1958,Historical Emissions,56.349,52.245,53.331,Prairie Elk-Wolf,tasmax
+1959,Historical Emissions,54.509,50.153,52.537,Prairie Elk-Wolf,tasmax
+1960,Historical Emissions,55.71,51.511,53.345,Prairie Elk-Wolf,tasmax
+1961,Historical Emissions,56.457,52.166,54.128,Prairie Elk-Wolf,tasmax
+1962,Historical Emissions,54.598,50.331,53.004,Prairie Elk-Wolf,tasmax
+1963,Historical Emissions,54.002,51.624,53.171,Prairie Elk-Wolf,tasmax
+1964,Historical Emissions,55.942,51.538,54.889,Prairie Elk-Wolf,tasmax
+1965,Historical Emissions,55.352,52.579,53.942,Prairie Elk-Wolf,tasmax
+1966,Historical Emissions,57.315,51.233,52.81,Prairie Elk-Wolf,tasmax
+1967,Historical Emissions,55.389,50.467,53.349,Prairie Elk-Wolf,tasmax
+1968,Historical Emissions,53.649,49.991,52.186,Prairie Elk-Wolf,tasmax
+1969,Historical Emissions,55.07,51.426,54.35,Prairie Elk-Wolf,tasmax
+1970,Historical Emissions,56.436,51.535,54.083,Prairie Elk-Wolf,tasmax
+1971,Historical Emissions,57.105,53.252,55.496,Prairie Elk-Wolf,tasmax
+1972,Historical Emissions,55.137,52.261,54.31,Prairie Elk-Wolf,tasmax
+1973,Historical Emissions,56.709,50.637,52.97,Prairie Elk-Wolf,tasmax
+1974,Historical Emissions,56.792,51.155,54.857,Prairie Elk-Wolf,tasmax
+1975,Historical Emissions,55.957,50.997,54.284,Prairie Elk-Wolf,tasmax
+1976,Historical Emissions,55.343,51.395,53.235,Prairie Elk-Wolf,tasmax
+1977,Historical Emissions,56.376,52.569,54.665,Prairie Elk-Wolf,tasmax
+1978,Historical Emissions,56.167,51.84,53.833,Prairie Elk-Wolf,tasmax
+1979,Historical Emissions,56.858,53.173,56.384,Prairie Elk-Wolf,tasmax
+1980,Historical Emissions,55.783,51.756,53.72,Prairie Elk-Wolf,tasmax
+1981,Historical Emissions,56.754,53.02,53.993,Prairie Elk-Wolf,tasmax
+1982,Historical Emissions,55.376,52.879,54.427,Prairie Elk-Wolf,tasmax
+1983,Historical Emissions,55.502,52.133,53.243,Prairie Elk-Wolf,tasmax
+1984,Historical Emissions,57.3,52.783,54.592,Prairie Elk-Wolf,tasmax
+1985,Historical Emissions,56.964,53.156,54.683,Prairie Elk-Wolf,tasmax
+1986,Historical Emissions,52.761,50.997,52.179,Prairie Elk-Wolf,tasmax
+1987,Historical Emissions,55.603,49.661,51.784,Prairie Elk-Wolf,tasmax
+1988,Historical Emissions,55.528,51.33,53.911,Prairie Elk-Wolf,tasmax
+1989,Historical Emissions,57.383,52.093,54.712,Prairie Elk-Wolf,tasmax
+1990,Historical Emissions,58.874,51.886,55.079,Prairie Elk-Wolf,tasmax
+1991,Historical Emissions,56.268,51.795,53.51,Prairie Elk-Wolf,tasmax
+1992,Historical Emissions,57.253,52.254,53.442,Prairie Elk-Wolf,tasmax
+1993,Historical Emissions,56.484,52.231,53.581,Prairie Elk-Wolf,tasmax
+1994,Historical Emissions,57.015,53.452,53.789,Prairie Elk-Wolf,tasmax
+1995,Historical Emissions,58.764,52.98,54.129,Prairie Elk-Wolf,tasmax
+1996,Historical Emissions,57.483,54.348,55.826,Prairie Elk-Wolf,tasmax
+1997,Historical Emissions,58.821,51.622,54.601,Prairie Elk-Wolf,tasmax
+1998,Historical Emissions,55.943,52.188,54.287,Prairie Elk-Wolf,tasmax
+1999,Historical Emissions,57.307,53.527,55.439,Prairie Elk-Wolf,tasmax
+2000,Historical Emissions,56.855,53.322,55.23,Prairie Elk-Wolf,tasmax
+2001,Historical Emissions,57.046,53.261,54.998,Prairie Elk-Wolf,tasmax
+2002,Historical Emissions,58.651,52.932,56.271,Prairie Elk-Wolf,tasmax
+2003,Historical Emissions,57.682,53.851,55.592,Prairie Elk-Wolf,tasmax
+2004,Historical Emissions,57.414,55.338,56.295,Prairie Elk-Wolf,tasmax
+2005,Historical Emissions,59.056,54.483,56.113,Prairie Elk-Wolf,tasmax
+2006,Historical Emissions,57.849,53.163,55.172,Prairie Elk-Wolf,tasmax
+2007,Historical Emissions,56.957,54.761,56.153,Prairie Elk-Wolf,tasmax
+2008,Historical Emissions,57.029,53.414,55.148,Prairie Elk-Wolf,tasmax
+2009,Historical Emissions,56.85,54.288,55.61,Prairie Elk-Wolf,tasmax
+2010,Historical Emissions,57.814,54.189,56.737,Prairie Elk-Wolf,tasmax
+2011,Historical Emissions,57.85,54.463,55.799,Prairie Elk-Wolf,tasmax
+2012,Historical Emissions,57.638,54.957,56.831,Prairie Elk-Wolf,tasmax
+2013,Historical Emissions,58.57,54.427,56.305,Prairie Elk-Wolf,tasmax
+2014,Historical Emissions,59.606,55.765,56.529,Prairie Elk-Wolf,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",59.894,54.895,56.831,Prairie Elk-Wolf,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",59.39,53.957,55.786,Prairie Elk-Wolf,tasmax
+2015,"High Emissions
+(SSP3-7.0)",58.494,54.95,56.226,Prairie Elk-Wolf,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",58.62,55.026,56.35,Prairie Elk-Wolf,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",59.169,55.892,57.802,Prairie Elk-Wolf,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",57.877,54.386,57.078,Prairie Elk-Wolf,tasmax
+2016,"High Emissions
+(SSP3-7.0)",60.643,54.608,57.489,Prairie Elk-Wolf,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",58.299,55.009,56.858,Prairie Elk-Wolf,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",57.591,55.264,56.292,Prairie Elk-Wolf,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",58.932,54.008,55.839,Prairie Elk-Wolf,tasmax
+2017,"High Emissions
+(SSP3-7.0)",58.575,54.461,56.094,Prairie Elk-Wolf,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",59.011,55.438,57.331,Prairie Elk-Wolf,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",58.433,54.204,56.871,Prairie Elk-Wolf,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",58.998,55.425,56.679,Prairie Elk-Wolf,tasmax
+2018,"High Emissions
+(SSP3-7.0)",59.276,53.31,56.947,Prairie Elk-Wolf,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",58.065,54.831,57.059,Prairie Elk-Wolf,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",60.298,57.129,58.018,Prairie Elk-Wolf,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",58.702,53.784,55.738,Prairie Elk-Wolf,tasmax
+2019,"High Emissions
+(SSP3-7.0)",59.379,54.12,55.641,Prairie Elk-Wolf,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",62.506,55.414,57.784,Prairie Elk-Wolf,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",61.252,54.379,56.958,Prairie Elk-Wolf,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",58.804,55.01,56.659,Prairie Elk-Wolf,tasmax
+2020,"High Emissions
+(SSP3-7.0)",58.001,54.136,57.265,Prairie Elk-Wolf,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",58.97,55.753,56.953,Prairie Elk-Wolf,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",59.677,55.614,57.823,Prairie Elk-Wolf,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",59.487,54.861,57.818,Prairie Elk-Wolf,tasmax
+2021,"High Emissions
+(SSP3-7.0)",59.841,55.602,57.921,Prairie Elk-Wolf,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",59.519,56.459,57.377,Prairie Elk-Wolf,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",59.471,55.675,56.854,Prairie Elk-Wolf,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",58.883,54.403,57.424,Prairie Elk-Wolf,tasmax
+2022,"High Emissions
+(SSP3-7.0)",58.593,54.86,56.403,Prairie Elk-Wolf,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",61.053,54.597,57.597,Prairie Elk-Wolf,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",58.463,56.142,56.876,Prairie Elk-Wolf,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",59.121,55.174,57.187,Prairie Elk-Wolf,tasmax
+2023,"High Emissions
+(SSP3-7.0)",60.608,55.574,57.797,Prairie Elk-Wolf,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",57.182,54.06,54.848,Prairie Elk-Wolf,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",59.052,55.642,57.985,Prairie Elk-Wolf,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",58.95,54.958,56.597,Prairie Elk-Wolf,tasmax
+2024,"High Emissions
+(SSP3-7.0)",60.85,55.626,58.041,Prairie Elk-Wolf,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",59.515,54.261,57.412,Prairie Elk-Wolf,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",59.056,57.081,58.805,Prairie Elk-Wolf,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",59.164,53.525,57.21,Prairie Elk-Wolf,tasmax
+2025,"High Emissions
+(SSP3-7.0)",59.789,56.574,58.423,Prairie Elk-Wolf,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",59.704,56.426,58.101,Prairie Elk-Wolf,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",60.16,55.351,57.409,Prairie Elk-Wolf,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",60.246,55.648,58.513,Prairie Elk-Wolf,tasmax
+2026,"High Emissions
+(SSP3-7.0)",58.835,54.514,56.951,Prairie Elk-Wolf,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",59.952,55.058,56.865,Prairie Elk-Wolf,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",59.293,54.057,56.37,Prairie Elk-Wolf,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",60.152,55.482,57.836,Prairie Elk-Wolf,tasmax
+2027,"High Emissions
+(SSP3-7.0)",60.139,54.285,56.733,Prairie Elk-Wolf,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",59.913,55.537,58.205,Prairie Elk-Wolf,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",58.549,54.62,57.538,Prairie Elk-Wolf,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",57.726,54.684,56.081,Prairie Elk-Wolf,tasmax
+2028,"High Emissions
+(SSP3-7.0)",58.617,56.295,57.718,Prairie Elk-Wolf,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",59.962,55.849,56.133,Prairie Elk-Wolf,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",62.208,57.288,58.601,Prairie Elk-Wolf,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",59.977,54.813,57.814,Prairie Elk-Wolf,tasmax
+2029,"High Emissions
+(SSP3-7.0)",59.586,54.637,56.651,Prairie Elk-Wolf,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",59.283,56.626,57.476,Prairie Elk-Wolf,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",60.144,55.273,57.143,Prairie Elk-Wolf,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",61.169,56.743,58.741,Prairie Elk-Wolf,tasmax
+2030,"High Emissions
+(SSP3-7.0)",61.22,55.164,57.205,Prairie Elk-Wolf,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",60.589,54.767,57.861,Prairie Elk-Wolf,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",60.643,55.232,58.815,Prairie Elk-Wolf,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",60.522,56.311,58.232,Prairie Elk-Wolf,tasmax
+2031,"High Emissions
+(SSP3-7.0)",61.36,55.301,59.528,Prairie Elk-Wolf,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",62.589,56.791,59.392,Prairie Elk-Wolf,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",59.419,55.476,56.856,Prairie Elk-Wolf,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",59.108,55.972,56.831,Prairie Elk-Wolf,tasmax
+2032,"High Emissions
+(SSP3-7.0)",60.457,56.362,57.52,Prairie Elk-Wolf,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",61.754,55.002,58.756,Prairie Elk-Wolf,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",59.972,55.673,58.391,Prairie Elk-Wolf,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",61.446,56.506,58.611,Prairie Elk-Wolf,tasmax
+2033,"High Emissions
+(SSP3-7.0)",59.235,55.04,57.38,Prairie Elk-Wolf,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",60.582,56.296,58.501,Prairie Elk-Wolf,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",60.72,55.291,57.89,Prairie Elk-Wolf,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",60.095,57.091,58.408,Prairie Elk-Wolf,tasmax
+2034,"High Emissions
+(SSP3-7.0)",60.236,56.209,59.161,Prairie Elk-Wolf,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",59.957,55.291,58.669,Prairie Elk-Wolf,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",61.167,55.599,58.429,Prairie Elk-Wolf,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",60.448,55.928,59.141,Prairie Elk-Wolf,tasmax
+2035,"High Emissions
+(SSP3-7.0)",58.142,55.259,56.82,Prairie Elk-Wolf,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",61.364,55.37,58.679,Prairie Elk-Wolf,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",60.43,56.69,58.948,Prairie Elk-Wolf,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",59.102,55.645,58.495,Prairie Elk-Wolf,tasmax
+2036,"High Emissions
+(SSP3-7.0)",59.211,54.92,57.963,Prairie Elk-Wolf,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",60.509,54.946,59.206,Prairie Elk-Wolf,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",61.011,57.068,58.942,Prairie Elk-Wolf,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",60.301,53.948,58.025,Prairie Elk-Wolf,tasmax
+2037,"High Emissions
+(SSP3-7.0)",59.596,55.209,56.285,Prairie Elk-Wolf,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",60.405,56.429,59.116,Prairie Elk-Wolf,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",60.75,56.745,58.817,Prairie Elk-Wolf,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",59.211,56.286,57.387,Prairie Elk-Wolf,tasmax
+2038,"High Emissions
+(SSP3-7.0)",60.208,57.103,59.007,Prairie Elk-Wolf,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",63.352,55.633,59.937,Prairie Elk-Wolf,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",60.852,55.373,58.437,Prairie Elk-Wolf,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",60.215,55.77,57.736,Prairie Elk-Wolf,tasmax
+2039,"High Emissions
+(SSP3-7.0)",60.934,58.449,59.357,Prairie Elk-Wolf,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",61.358,55.866,59.353,Prairie Elk-Wolf,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",60.418,56.174,58.541,Prairie Elk-Wolf,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",60.494,56.703,59.375,Prairie Elk-Wolf,tasmax
+2040,"High Emissions
+(SSP3-7.0)",60.869,56.914,58.997,Prairie Elk-Wolf,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",63.987,57.495,59.622,Prairie Elk-Wolf,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",60.148,54.123,57.548,Prairie Elk-Wolf,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",59.821,56.424,58.122,Prairie Elk-Wolf,tasmax
+2041,"High Emissions
+(SSP3-7.0)",60.087,55.759,57.455,Prairie Elk-Wolf,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",59.338,56.965,58.543,Prairie Elk-Wolf,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",61.788,56.595,57.605,Prairie Elk-Wolf,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",59.135,55.944,57.719,Prairie Elk-Wolf,tasmax
+2042,"High Emissions
+(SSP3-7.0)",58.9,56.157,57.825,Prairie Elk-Wolf,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",61.86,57.77,59.511,Prairie Elk-Wolf,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",59.128,56.189,58.226,Prairie Elk-Wolf,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",61.584,56.758,58.157,Prairie Elk-Wolf,tasmax
+2043,"High Emissions
+(SSP3-7.0)",60.278,55.218,58.785,Prairie Elk-Wolf,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",60.808,57.438,59.17,Prairie Elk-Wolf,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",61.366,56.495,57.505,Prairie Elk-Wolf,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",64.006,57.205,60.462,Prairie Elk-Wolf,tasmax
+2044,"High Emissions
+(SSP3-7.0)",59.581,57.975,59.031,Prairie Elk-Wolf,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",62.92,55.751,58.662,Prairie Elk-Wolf,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",60.945,55.066,58.775,Prairie Elk-Wolf,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",61.477,56.031,59.117,Prairie Elk-Wolf,tasmax
+2045,"High Emissions
+(SSP3-7.0)",60.602,56.11,57.947,Prairie Elk-Wolf,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",60.089,56.14,58.219,Prairie Elk-Wolf,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",63.147,54.793,59.308,Prairie Elk-Wolf,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",60.789,55.503,57.27,Prairie Elk-Wolf,tasmax
+2046,"High Emissions
+(SSP3-7.0)",61.411,57.95,59.591,Prairie Elk-Wolf,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",61.673,56.508,58.119,Prairie Elk-Wolf,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",61.106,56.865,59.087,Prairie Elk-Wolf,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",61.147,53.8,57.698,Prairie Elk-Wolf,tasmax
+2047,"High Emissions
+(SSP3-7.0)",59.388,56.161,57.666,Prairie Elk-Wolf,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",63.151,56.466,59.987,Prairie Elk-Wolf,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",61.639,57.184,58.413,Prairie Elk-Wolf,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",62.343,56.284,59.363,Prairie Elk-Wolf,tasmax
+2048,"High Emissions
+(SSP3-7.0)",62.664,56.179,59.021,Prairie Elk-Wolf,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",66.307,57.877,60.99,Prairie Elk-Wolf,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",60.963,56.399,57.078,Prairie Elk-Wolf,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",62.386,58.126,60.984,Prairie Elk-Wolf,tasmax
+2049,"High Emissions
+(SSP3-7.0)",61.718,57.541,59.183,Prairie Elk-Wolf,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",62.124,57.576,60.225,Prairie Elk-Wolf,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",60.4,54.552,58.346,Prairie Elk-Wolf,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",62.399,57.289,59.857,Prairie Elk-Wolf,tasmax
+2050,"High Emissions
+(SSP3-7.0)",62.023,57.087,59.621,Prairie Elk-Wolf,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",61.943,58.196,60.467,Prairie Elk-Wolf,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",61.555,56.182,58.609,Prairie Elk-Wolf,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",63.816,57.471,60.073,Prairie Elk-Wolf,tasmax
+2051,"High Emissions
+(SSP3-7.0)",61.898,57.914,59.676,Prairie Elk-Wolf,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",62.081,58.511,59.349,Prairie Elk-Wolf,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",60.445,56.918,59.637,Prairie Elk-Wolf,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",61.844,57.009,58.939,Prairie Elk-Wolf,tasmax
+2052,"High Emissions
+(SSP3-7.0)",63.059,56.23,58.299,Prairie Elk-Wolf,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",62.519,58.358,60.312,Prairie Elk-Wolf,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",61.268,56.696,57.599,Prairie Elk-Wolf,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",60.77,57.141,60.084,Prairie Elk-Wolf,tasmax
+2053,"High Emissions
+(SSP3-7.0)",62.82,58.393,61.896,Prairie Elk-Wolf,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",63.836,58.163,59.963,Prairie Elk-Wolf,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",61.795,58.112,59.423,Prairie Elk-Wolf,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",60.832,55.834,58.844,Prairie Elk-Wolf,tasmax
+2054,"High Emissions
+(SSP3-7.0)",61.221,57.312,58.742,Prairie Elk-Wolf,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",62.878,57.954,61.676,Prairie Elk-Wolf,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",60.822,58.326,59.885,Prairie Elk-Wolf,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",62.91,56.88,60.518,Prairie Elk-Wolf,tasmax
+2055,"High Emissions
+(SSP3-7.0)",61.979,57.881,59.423,Prairie Elk-Wolf,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",63.468,58.743,62.402,Prairie Elk-Wolf,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",60.544,56.848,59.519,Prairie Elk-Wolf,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",61.325,56.64,59.626,Prairie Elk-Wolf,tasmax
+2056,"High Emissions
+(SSP3-7.0)",62.532,57.38,59.774,Prairie Elk-Wolf,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",62.549,57.88,61.355,Prairie Elk-Wolf,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",61.609,55.672,59.492,Prairie Elk-Wolf,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",61.897,58.443,60.319,Prairie Elk-Wolf,tasmax
+2057,"High Emissions
+(SSP3-7.0)",61.944,56.88,58.467,Prairie Elk-Wolf,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",62.189,55.761,58.899,Prairie Elk-Wolf,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",61.372,56.65,58.871,Prairie Elk-Wolf,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",62.765,58.016,61.07,Prairie Elk-Wolf,tasmax
+2058,"High Emissions
+(SSP3-7.0)",61.404,56.843,59.917,Prairie Elk-Wolf,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",61.871,57.493,59.082,Prairie Elk-Wolf,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",61.871,57.75,60.551,Prairie Elk-Wolf,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",64.585,57.008,61,Prairie Elk-Wolf,tasmax
+2059,"High Emissions
+(SSP3-7.0)",64.936,58.766,60.42,Prairie Elk-Wolf,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",63.609,59.454,62.442,Prairie Elk-Wolf,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",62.647,56.807,58.416,Prairie Elk-Wolf,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",63.224,57.364,59.415,Prairie Elk-Wolf,tasmax
+2060,"High Emissions
+(SSP3-7.0)",60.675,58.509,58.847,Prairie Elk-Wolf,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",62.736,59.469,61.423,Prairie Elk-Wolf,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",61.154,57.971,58.866,Prairie Elk-Wolf,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",62.552,57.994,60.914,Prairie Elk-Wolf,tasmax
+2061,"High Emissions
+(SSP3-7.0)",62.232,57.999,60.772,Prairie Elk-Wolf,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",65.325,60.446,62.522,Prairie Elk-Wolf,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",61.179,56.556,58.38,Prairie Elk-Wolf,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",61.53,56.911,58.738,Prairie Elk-Wolf,tasmax
+2062,"High Emissions
+(SSP3-7.0)",61.616,58.201,60.467,Prairie Elk-Wolf,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",63.223,60.77,61.537,Prairie Elk-Wolf,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",60.341,57.34,58.81,Prairie Elk-Wolf,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",61.04,57.631,59.68,Prairie Elk-Wolf,tasmax
+2063,"High Emissions
+(SSP3-7.0)",63.307,58.195,61.052,Prairie Elk-Wolf,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",64.571,58.335,61.924,Prairie Elk-Wolf,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",61.64,58.025,59.355,Prairie Elk-Wolf,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",60.018,57.363,57.672,Prairie Elk-Wolf,tasmax
+2064,"High Emissions
+(SSP3-7.0)",61.419,57.304,59.058,Prairie Elk-Wolf,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",63.581,59.719,61.413,Prairie Elk-Wolf,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",61.648,54.552,57.673,Prairie Elk-Wolf,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",62.578,56.229,58.056,Prairie Elk-Wolf,tasmax
+2065,"High Emissions
+(SSP3-7.0)",62.644,59.336,60.487,Prairie Elk-Wolf,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",66.121,59.958,62.823,Prairie Elk-Wolf,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",62.106,56.816,58.692,Prairie Elk-Wolf,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",62.415,57.521,61.442,Prairie Elk-Wolf,tasmax
+2066,"High Emissions
+(SSP3-7.0)",63.273,59.147,60.026,Prairie Elk-Wolf,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",65.052,58.202,62.874,Prairie Elk-Wolf,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",61.746,58.369,59.584,Prairie Elk-Wolf,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",62.783,57.93,59.015,Prairie Elk-Wolf,tasmax
+2067,"High Emissions
+(SSP3-7.0)",64.631,61.163,62.319,Prairie Elk-Wolf,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",66.221,60.028,62.078,Prairie Elk-Wolf,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",61.007,55.749,58.534,Prairie Elk-Wolf,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",62,57.027,59.939,Prairie Elk-Wolf,tasmax
+2068,"High Emissions
+(SSP3-7.0)",63.316,58.057,59.984,Prairie Elk-Wolf,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",64.069,60.862,62.067,Prairie Elk-Wolf,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",62.889,56.895,58.485,Prairie Elk-Wolf,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",61.211,57.272,59.137,Prairie Elk-Wolf,tasmax
+2069,"High Emissions
+(SSP3-7.0)",65.674,60.898,62.695,Prairie Elk-Wolf,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",66.828,59.333,62.86,Prairie Elk-Wolf,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",61.033,56.992,58.964,Prairie Elk-Wolf,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",62.037,57.049,58.571,Prairie Elk-Wolf,tasmax
+2070,"High Emissions
+(SSP3-7.0)",64.632,59.882,62.341,Prairie Elk-Wolf,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",66.682,60.829,63.099,Prairie Elk-Wolf,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",65.509,55.887,58.844,Prairie Elk-Wolf,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",61.735,58.155,59.662,Prairie Elk-Wolf,tasmax
+2071,"High Emissions
+(SSP3-7.0)",64.164,60.26,62.318,Prairie Elk-Wolf,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",65.41,61,61.792,Prairie Elk-Wolf,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",62.961,57.914,58.542,Prairie Elk-Wolf,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",62.147,56.694,60.232,Prairie Elk-Wolf,tasmax
+2072,"High Emissions
+(SSP3-7.0)",63.893,59.685,61.461,Prairie Elk-Wolf,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",65.28,61.16,62.665,Prairie Elk-Wolf,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",61.078,56.863,59.617,Prairie Elk-Wolf,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",63.123,56.552,60.07,Prairie Elk-Wolf,tasmax
+2073,"High Emissions
+(SSP3-7.0)",63.335,58.993,62.151,Prairie Elk-Wolf,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",65.58,59.111,61.952,Prairie Elk-Wolf,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",62.101,55.769,59.326,Prairie Elk-Wolf,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",62.473,58.462,59.869,Prairie Elk-Wolf,tasmax
+2074,"High Emissions
+(SSP3-7.0)",63.99,58.977,60.267,Prairie Elk-Wolf,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",66.706,60.882,62.126,Prairie Elk-Wolf,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",63.249,54.818,59.56,Prairie Elk-Wolf,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",64.047,57.485,58.7,Prairie Elk-Wolf,tasmax
+2075,"High Emissions
+(SSP3-7.0)",65.605,58.231,60.213,Prairie Elk-Wolf,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",67.439,60.929,62.013,Prairie Elk-Wolf,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",62.009,55.781,58.879,Prairie Elk-Wolf,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",61.602,57.512,59.45,Prairie Elk-Wolf,tasmax
+2076,"High Emissions
+(SSP3-7.0)",65.051,60.132,60.998,Prairie Elk-Wolf,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",68.038,60.333,63.225,Prairie Elk-Wolf,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",61.954,58,59.311,Prairie Elk-Wolf,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",63.079,59.213,60.845,Prairie Elk-Wolf,tasmax
+2077,"High Emissions
+(SSP3-7.0)",64.142,58.165,62.561,Prairie Elk-Wolf,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",66.166,61.546,63.518,Prairie Elk-Wolf,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",62.54,57.856,58.747,Prairie Elk-Wolf,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",62.738,58.744,60.008,Prairie Elk-Wolf,tasmax
+2078,"High Emissions
+(SSP3-7.0)",64.628,59.527,62.138,Prairie Elk-Wolf,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",62.575,59.456,61.229,Prairie Elk-Wolf,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",62.089,58.328,59.467,Prairie Elk-Wolf,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",61.47,58.116,60.2,Prairie Elk-Wolf,tasmax
+2079,"High Emissions
+(SSP3-7.0)",64.354,58.294,62.724,Prairie Elk-Wolf,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",66.256,61.004,64.371,Prairie Elk-Wolf,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",63.29,56.44,58.059,Prairie Elk-Wolf,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",63.05,57.539,59.845,Prairie Elk-Wolf,tasmax
+2080,"High Emissions
+(SSP3-7.0)",64.101,59.127,60.766,Prairie Elk-Wolf,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",67.476,61.232,65.033,Prairie Elk-Wolf,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",63.625,56.107,58.254,Prairie Elk-Wolf,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",62.576,58.497,59.98,Prairie Elk-Wolf,tasmax
+2081,"High Emissions
+(SSP3-7.0)",66.164,57.701,60.995,Prairie Elk-Wolf,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",67.659,63.445,64.323,Prairie Elk-Wolf,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",63.269,57.371,60.755,Prairie Elk-Wolf,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",62.938,58.576,60.491,Prairie Elk-Wolf,tasmax
+2082,"High Emissions
+(SSP3-7.0)",64.917,59.144,61.773,Prairie Elk-Wolf,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",68.09,61.572,65.076,Prairie Elk-Wolf,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",62.247,58.607,59.861,Prairie Elk-Wolf,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",62.868,57.687,59.826,Prairie Elk-Wolf,tasmax
+2083,"High Emissions
+(SSP3-7.0)",64.527,59.135,63.689,Prairie Elk-Wolf,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",68.319,62.429,65.638,Prairie Elk-Wolf,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",62.628,56.844,58.232,Prairie Elk-Wolf,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",64.39,58.603,61.533,Prairie Elk-Wolf,tasmax
+2084,"High Emissions
+(SSP3-7.0)",67.233,61.345,63.894,Prairie Elk-Wolf,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",67.729,62.628,64.782,Prairie Elk-Wolf,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",61.778,56.144,58.326,Prairie Elk-Wolf,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",63.089,57.594,60.699,Prairie Elk-Wolf,tasmax
+2085,"High Emissions
+(SSP3-7.0)",64.597,61.116,62.599,Prairie Elk-Wolf,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",68.118,62.088,65.028,Prairie Elk-Wolf,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",61.623,58.292,59.719,Prairie Elk-Wolf,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",63.108,59.105,60.51,Prairie Elk-Wolf,tasmax
+2086,"High Emissions
+(SSP3-7.0)",65.617,60.719,62.601,Prairie Elk-Wolf,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",67.99,61.56,65.246,Prairie Elk-Wolf,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",60,57.008,58.712,Prairie Elk-Wolf,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",64.261,59.117,61.587,Prairie Elk-Wolf,tasmax
+2087,"High Emissions
+(SSP3-7.0)",68.275,60.275,63.611,Prairie Elk-Wolf,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",67.307,61.723,64.772,Prairie Elk-Wolf,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",62.705,55.767,57.836,Prairie Elk-Wolf,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",63.681,59.847,61.823,Prairie Elk-Wolf,tasmax
+2088,"High Emissions
+(SSP3-7.0)",68.147,60.719,62.472,Prairie Elk-Wolf,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",68.211,62.63,64.923,Prairie Elk-Wolf,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",59.911,56.383,57.446,Prairie Elk-Wolf,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",62.349,58.589,60.695,Prairie Elk-Wolf,tasmax
+2089,"High Emissions
+(SSP3-7.0)",65.851,59.544,63.973,Prairie Elk-Wolf,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",69.242,63.467,66.773,Prairie Elk-Wolf,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",60.856,57.275,59.577,Prairie Elk-Wolf,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",62.538,59.65,61.122,Prairie Elk-Wolf,tasmax
+2090,"High Emissions
+(SSP3-7.0)",68.015,62.96,64.301,Prairie Elk-Wolf,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",69.202,63.979,65.871,Prairie Elk-Wolf,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",60.972,57.042,58.93,Prairie Elk-Wolf,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",62.688,58.652,61.766,Prairie Elk-Wolf,tasmax
+2091,"High Emissions
+(SSP3-7.0)",67.257,62.722,64.809,Prairie Elk-Wolf,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",70.875,62.14,64.201,Prairie Elk-Wolf,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",62.278,55.746,59.444,Prairie Elk-Wolf,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",63.994,57.672,61.927,Prairie Elk-Wolf,tasmax
+2092,"High Emissions
+(SSP3-7.0)",65.538,60.354,64.181,Prairie Elk-Wolf,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",71.267,63.037,66.027,Prairie Elk-Wolf,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",62.01,55.666,58.663,Prairie Elk-Wolf,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",63.342,57.405,60.595,Prairie Elk-Wolf,tasmax
+2093,"High Emissions
+(SSP3-7.0)",67.159,61.458,62.265,Prairie Elk-Wolf,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",69.336,64.165,65.559,Prairie Elk-Wolf,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",61.363,56.462,59.068,Prairie Elk-Wolf,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",64.986,57.196,60.591,Prairie Elk-Wolf,tasmax
+2094,"High Emissions
+(SSP3-7.0)",66.366,61.761,63.303,Prairie Elk-Wolf,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",71.095,63.304,68.124,Prairie Elk-Wolf,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",62.709,56.149,59.869,Prairie Elk-Wolf,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",64.205,59.071,62.54,Prairie Elk-Wolf,tasmax
+2095,"High Emissions
+(SSP3-7.0)",68.21,60.999,65.681,Prairie Elk-Wolf,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",69.788,62.697,65.446,Prairie Elk-Wolf,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",61.475,56.782,60.327,Prairie Elk-Wolf,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",63.797,60.206,61.655,Prairie Elk-Wolf,tasmax
+2096,"High Emissions
+(SSP3-7.0)",67.253,61.682,64.25,Prairie Elk-Wolf,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",68.628,64.045,65.941,Prairie Elk-Wolf,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",63.004,56.991,58.782,Prairie Elk-Wolf,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",65.182,59.81,60.679,Prairie Elk-Wolf,tasmax
+2097,"High Emissions
+(SSP3-7.0)",71.157,60.62,65.479,Prairie Elk-Wolf,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",72.319,62.79,64.312,Prairie Elk-Wolf,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",61.172,55.95,58.764,Prairie Elk-Wolf,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",63.256,58.495,61.474,Prairie Elk-Wolf,tasmax
+2098,"High Emissions
+(SSP3-7.0)",67.236,61.643,63.666,Prairie Elk-Wolf,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",69.056,64.382,66.924,Prairie Elk-Wolf,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",62.15,54.359,59.204,Prairie Elk-Wolf,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",62.883,59.342,60.322,Prairie Elk-Wolf,tasmax
+2099,"High Emissions
+(SSP3-7.0)",68.761,61.225,63.488,Prairie Elk-Wolf,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",70.593,64,67.636,Prairie Elk-Wolf,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",62.794,54.632,56.52,Prairie Elk-Wolf,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",65.901,57.801,62.219,Prairie Elk-Wolf,tasmax
+2100,"High Emissions
+(SSP3-7.0)",67.57,61.335,65.802,Prairie Elk-Wolf,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",70.287,63.942,66.882,Prairie Elk-Wolf,tasmax

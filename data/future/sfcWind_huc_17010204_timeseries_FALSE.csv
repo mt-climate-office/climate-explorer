@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,6.38,5.81,5.972,Middle Clark Fork,sfcWind
+1951,Historical Emissions,6.253,5.835,6.03,Middle Clark Fork,sfcWind
+1952,Historical Emissions,6.305,5.744,6.075,Middle Clark Fork,sfcWind
+1953,Historical Emissions,6.458,5.805,6.083,Middle Clark Fork,sfcWind
+1954,Historical Emissions,6.472,5.757,6.251,Middle Clark Fork,sfcWind
+1955,Historical Emissions,6.135,5.754,5.9,Middle Clark Fork,sfcWind
+1956,Historical Emissions,6.533,5.895,6.086,Middle Clark Fork,sfcWind
+1957,Historical Emissions,6.555,5.951,6.183,Middle Clark Fork,sfcWind
+1958,Historical Emissions,6.523,5.83,5.991,Middle Clark Fork,sfcWind
+1959,Historical Emissions,6.305,5.921,6.105,Middle Clark Fork,sfcWind
+1960,Historical Emissions,6.443,6.006,6.225,Middle Clark Fork,sfcWind
+1961,Historical Emissions,6.285,5.944,6.165,Middle Clark Fork,sfcWind
+1962,Historical Emissions,6.156,5.794,6.031,Middle Clark Fork,sfcWind
+1963,Historical Emissions,6.268,5.725,6.151,Middle Clark Fork,sfcWind
+1964,Historical Emissions,6.531,5.885,6.016,Middle Clark Fork,sfcWind
+1965,Historical Emissions,6.491,5.898,6.076,Middle Clark Fork,sfcWind
+1966,Historical Emissions,6.403,5.986,6.237,Middle Clark Fork,sfcWind
+1967,Historical Emissions,6.395,5.718,6.181,Middle Clark Fork,sfcWind
+1968,Historical Emissions,6.371,5.643,6.112,Middle Clark Fork,sfcWind
+1969,Historical Emissions,6.354,5.825,6.136,Middle Clark Fork,sfcWind
+1970,Historical Emissions,6.363,5.862,6.073,Middle Clark Fork,sfcWind
+1971,Historical Emissions,6.334,5.901,6.135,Middle Clark Fork,sfcWind
+1972,Historical Emissions,6.338,6.122,6.218,Middle Clark Fork,sfcWind
+1973,Historical Emissions,6.237,5.814,5.95,Middle Clark Fork,sfcWind
+1974,Historical Emissions,6.327,5.733,6.195,Middle Clark Fork,sfcWind
+1975,Historical Emissions,6.458,5.803,6.029,Middle Clark Fork,sfcWind
+1976,Historical Emissions,6.31,6.032,6.249,Middle Clark Fork,sfcWind
+1977,Historical Emissions,6.337,5.754,5.865,Middle Clark Fork,sfcWind
+1978,Historical Emissions,6.2,5.858,6.026,Middle Clark Fork,sfcWind
+1979,Historical Emissions,6.308,5.907,6.114,Middle Clark Fork,sfcWind
+1980,Historical Emissions,6.536,5.82,6.229,Middle Clark Fork,sfcWind
+1981,Historical Emissions,6.467,5.736,6.031,Middle Clark Fork,sfcWind
+1982,Historical Emissions,6.412,5.664,6.095,Middle Clark Fork,sfcWind
+1983,Historical Emissions,6.61,5.771,5.926,Middle Clark Fork,sfcWind
+1984,Historical Emissions,6.29,5.828,6.103,Middle Clark Fork,sfcWind
+1985,Historical Emissions,6.18,5.895,6.04,Middle Clark Fork,sfcWind
+1986,Historical Emissions,6.323,5.75,6.172,Middle Clark Fork,sfcWind
+1987,Historical Emissions,6.531,5.742,6.053,Middle Clark Fork,sfcWind
+1988,Historical Emissions,6.382,5.92,6.217,Middle Clark Fork,sfcWind
+1989,Historical Emissions,6.201,5.774,5.892,Middle Clark Fork,sfcWind
+1990,Historical Emissions,6.362,5.487,6.148,Middle Clark Fork,sfcWind
+1991,Historical Emissions,6.413,5.764,6.177,Middle Clark Fork,sfcWind
+1992,Historical Emissions,6.329,5.993,6.218,Middle Clark Fork,sfcWind
+1993,Historical Emissions,6.192,5.754,5.877,Middle Clark Fork,sfcWind
+1994,Historical Emissions,6.267,5.662,5.935,Middle Clark Fork,sfcWind
+1995,Historical Emissions,6.482,5.816,6.086,Middle Clark Fork,sfcWind
+1996,Historical Emissions,6.417,5.576,6.141,Middle Clark Fork,sfcWind
+1997,Historical Emissions,6.239,5.8,5.989,Middle Clark Fork,sfcWind
+1998,Historical Emissions,6.136,5.727,5.938,Middle Clark Fork,sfcWind
+1999,Historical Emissions,6.146,5.744,5.939,Middle Clark Fork,sfcWind
+2000,Historical Emissions,6.057,5.918,6.008,Middle Clark Fork,sfcWind
+2001,Historical Emissions,6.529,5.636,5.899,Middle Clark Fork,sfcWind
+2002,Historical Emissions,6.424,5.656,5.955,Middle Clark Fork,sfcWind
+2003,Historical Emissions,6.11,5.72,5.875,Middle Clark Fork,sfcWind
+2004,Historical Emissions,6.383,5.794,6.046,Middle Clark Fork,sfcWind
+2005,Historical Emissions,6.298,5.566,6.013,Middle Clark Fork,sfcWind
+2006,Historical Emissions,6.4,5.798,6.095,Middle Clark Fork,sfcWind
+2007,Historical Emissions,6.375,5.666,6.067,Middle Clark Fork,sfcWind
+2008,Historical Emissions,6.239,5.607,5.943,Middle Clark Fork,sfcWind
+2009,Historical Emissions,6.378,5.688,6.078,Middle Clark Fork,sfcWind
+2010,Historical Emissions,6.202,5.664,5.929,Middle Clark Fork,sfcWind
+2011,Historical Emissions,6.137,5.798,5.98,Middle Clark Fork,sfcWind
+2012,Historical Emissions,6.104,5.74,5.927,Middle Clark Fork,sfcWind
+2013,Historical Emissions,6.248,5.565,5.919,Middle Clark Fork,sfcWind
+2014,Historical Emissions,6.205,5.672,5.913,Middle Clark Fork,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",6.285,5.548,6.068,Middle Clark Fork,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",6.261,5.393,5.956,Middle Clark Fork,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",6.281,5.446,6.068,Middle Clark Fork,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",6.252,5.65,5.987,Middle Clark Fork,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",6.365,5.395,5.877,Middle Clark Fork,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",6.162,5.663,5.961,Middle Clark Fork,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",6.27,5.358,6.054,Middle Clark Fork,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",6.625,5.507,5.782,Middle Clark Fork,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",6.434,5.383,6.158,Middle Clark Fork,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",6.268,5.518,5.911,Middle Clark Fork,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",6.16,5.41,5.8,Middle Clark Fork,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",6.312,5.596,5.792,Middle Clark Fork,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",6.48,5.698,6.092,Middle Clark Fork,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",6.157,5.161,5.912,Middle Clark Fork,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",6.122,5.342,5.917,Middle Clark Fork,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",6.168,5.518,5.896,Middle Clark Fork,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",6.101,5.31,5.829,Middle Clark Fork,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",6.565,5.732,6.124,Middle Clark Fork,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",6.163,5.471,5.914,Middle Clark Fork,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",6.181,5.55,5.86,Middle Clark Fork,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",5.993,5.465,5.772,Middle Clark Fork,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",6.375,5.584,6.221,Middle Clark Fork,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",6.171,5.611,6.044,Middle Clark Fork,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",6.093,5.408,5.884,Middle Clark Fork,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",6.083,5.467,5.873,Middle Clark Fork,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",6.113,5.492,5.909,Middle Clark Fork,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",6.325,5.422,5.925,Middle Clark Fork,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",6.051,5.565,5.931,Middle Clark Fork,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",6.378,5.576,5.959,Middle Clark Fork,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",5.995,5.428,5.792,Middle Clark Fork,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",6.211,5.339,5.69,Middle Clark Fork,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",6.166,5.361,5.858,Middle Clark Fork,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",6.378,5.565,6.103,Middle Clark Fork,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",6.245,5.587,5.884,Middle Clark Fork,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",6.243,5.54,6.014,Middle Clark Fork,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",6.445,5.419,6.022,Middle Clark Fork,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",6.256,5.536,5.938,Middle Clark Fork,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",6.056,5.534,5.948,Middle Clark Fork,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",6.353,5.503,5.973,Middle Clark Fork,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",6.421,5.513,5.934,Middle Clark Fork,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",6.237,5.295,5.903,Middle Clark Fork,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",6.367,5.42,5.915,Middle Clark Fork,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",6.294,5.406,5.826,Middle Clark Fork,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",6.218,5.592,5.97,Middle Clark Fork,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",6.221,5.578,5.924,Middle Clark Fork,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",6.133,5.578,5.998,Middle Clark Fork,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",6.068,5.27,5.741,Middle Clark Fork,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",6.285,5.571,5.967,Middle Clark Fork,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",6.328,5.494,5.896,Middle Clark Fork,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",6.25,5.288,5.907,Middle Clark Fork,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",6.235,5.559,5.81,Middle Clark Fork,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",6.119,5.621,5.974,Middle Clark Fork,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",6.222,5.343,5.963,Middle Clark Fork,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",6.03,5.527,5.883,Middle Clark Fork,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",6.16,5.356,5.957,Middle Clark Fork,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",5.99,5.403,5.78,Middle Clark Fork,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",6.093,5.499,5.974,Middle Clark Fork,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",6.121,5.411,5.98,Middle Clark Fork,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",6.344,5.449,5.979,Middle Clark Fork,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",6.161,5.423,5.595,Middle Clark Fork,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",6.138,5.308,5.881,Middle Clark Fork,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",6.437,5.569,6.051,Middle Clark Fork,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",6.215,5.649,5.97,Middle Clark Fork,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",6.176,5.441,5.955,Middle Clark Fork,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",6.305,5.459,5.897,Middle Clark Fork,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",6.35,5.697,5.988,Middle Clark Fork,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",6.114,5.558,5.814,Middle Clark Fork,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",6.107,5.443,5.765,Middle Clark Fork,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",6.159,5.55,5.856,Middle Clark Fork,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",6.336,5.301,5.859,Middle Clark Fork,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",6.17,5.633,5.924,Middle Clark Fork,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",6.311,5.479,6.046,Middle Clark Fork,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",6.528,5.695,5.932,Middle Clark Fork,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",6.218,5.48,6.072,Middle Clark Fork,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",6.13,5.356,5.698,Middle Clark Fork,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",6.08,5.396,5.892,Middle Clark Fork,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",6.294,5.603,5.998,Middle Clark Fork,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",6.122,5.322,5.771,Middle Clark Fork,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",6.239,5.383,5.954,Middle Clark Fork,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",6.396,5.606,6.068,Middle Clark Fork,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",6.321,5.548,5.936,Middle Clark Fork,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",6.39,5.571,5.93,Middle Clark Fork,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",6.288,5.522,5.975,Middle Clark Fork,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",6.45,5.392,6.066,Middle Clark Fork,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",5.912,5.353,5.817,Middle Clark Fork,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",6.293,5.641,5.864,Middle Clark Fork,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",6.167,5.39,5.857,Middle Clark Fork,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",6.25,5.37,5.772,Middle Clark Fork,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",6.093,5.187,5.811,Middle Clark Fork,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",6.16,5.451,5.885,Middle Clark Fork,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",6.089,5.491,5.742,Middle Clark Fork,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",6.422,5.56,5.902,Middle Clark Fork,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",6.32,5.604,5.848,Middle Clark Fork,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",6.217,5.486,5.99,Middle Clark Fork,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",6.153,5.495,5.893,Middle Clark Fork,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",6.125,5.556,5.864,Middle Clark Fork,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",6.003,5.634,5.942,Middle Clark Fork,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",6.2,5.468,5.9,Middle Clark Fork,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",6.303,5.419,6.021,Middle Clark Fork,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",6.074,5.271,5.773,Middle Clark Fork,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",6.28,5.302,6.044,Middle Clark Fork,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",6.151,5.458,6.005,Middle Clark Fork,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",6.313,5.398,5.881,Middle Clark Fork,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",6.028,5.411,5.776,Middle Clark Fork,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",6.176,5.537,5.956,Middle Clark Fork,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",6.14,5.546,5.914,Middle Clark Fork,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",6.109,5.506,5.856,Middle Clark Fork,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",6.187,5.458,5.908,Middle Clark Fork,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",6.117,5.527,5.905,Middle Clark Fork,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",6.121,5.625,5.937,Middle Clark Fork,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",6.066,5.541,5.936,Middle Clark Fork,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",6.353,5.401,5.82,Middle Clark Fork,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",6.205,5.394,6.053,Middle Clark Fork,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",6.381,5.142,6.01,Middle Clark Fork,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",6.34,5.506,6.171,Middle Clark Fork,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",6.087,5.5,5.95,Middle Clark Fork,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",6.347,5.511,6.103,Middle Clark Fork,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",6.263,5.376,5.975,Middle Clark Fork,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",6.206,5.7,6.036,Middle Clark Fork,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",5.923,5.553,5.777,Middle Clark Fork,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",5.955,5.567,5.685,Middle Clark Fork,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",6.183,5.519,6.001,Middle Clark Fork,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",6.344,5.571,5.832,Middle Clark Fork,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",6.058,5.382,5.727,Middle Clark Fork,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",6.085,5.409,5.789,Middle Clark Fork,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",6.182,5.247,5.979,Middle Clark Fork,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",6.026,5.5,5.784,Middle Clark Fork,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",6.167,5.083,6.019,Middle Clark Fork,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",6.188,5.43,5.911,Middle Clark Fork,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",6.12,5.337,5.88,Middle Clark Fork,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",6.243,5.423,5.803,Middle Clark Fork,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",6.617,5.425,6.012,Middle Clark Fork,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",6.198,5.492,5.894,Middle Clark Fork,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",5.865,5.283,5.692,Middle Clark Fork,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",6.143,5.496,5.898,Middle Clark Fork,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",6.287,5.512,5.846,Middle Clark Fork,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",6.236,5.477,5.774,Middle Clark Fork,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",6.147,5.587,5.91,Middle Clark Fork,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",6.257,5.502,5.807,Middle Clark Fork,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",6.056,5.349,5.766,Middle Clark Fork,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",6.103,5.607,5.895,Middle Clark Fork,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",6.291,5.54,5.977,Middle Clark Fork,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",6.142,5.557,5.905,Middle Clark Fork,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",6.137,5.19,5.907,Middle Clark Fork,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",6.127,5.544,5.885,Middle Clark Fork,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",6.383,5.622,6.03,Middle Clark Fork,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",6.032,5.357,5.778,Middle Clark Fork,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",6.422,5.633,5.818,Middle Clark Fork,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",6.156,5.464,5.846,Middle Clark Fork,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",6.134,5.462,5.859,Middle Clark Fork,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",6.099,5.399,5.677,Middle Clark Fork,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",6.038,5.193,5.748,Middle Clark Fork,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",6.194,5.528,5.934,Middle Clark Fork,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",6.415,5.652,5.843,Middle Clark Fork,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",6.19,5.454,5.89,Middle Clark Fork,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",6.198,5.454,5.972,Middle Clark Fork,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",6.219,5.199,5.893,Middle Clark Fork,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",6.389,5.498,5.922,Middle Clark Fork,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",6.153,5.47,5.826,Middle Clark Fork,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",6.112,5.586,5.894,Middle Clark Fork,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",6.183,5.665,5.942,Middle Clark Fork,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",5.973,5.489,5.837,Middle Clark Fork,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",6.133,5.528,5.823,Middle Clark Fork,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",6.039,5.217,5.841,Middle Clark Fork,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",6.264,5.575,5.899,Middle Clark Fork,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",5.981,5.628,5.805,Middle Clark Fork,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",5.902,5.321,5.56,Middle Clark Fork,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",5.879,5.231,5.706,Middle Clark Fork,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",6.183,5.321,5.823,Middle Clark Fork,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",6.234,5.378,6.019,Middle Clark Fork,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",6.015,5.349,5.828,Middle Clark Fork,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",6.002,5.36,5.645,Middle Clark Fork,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",6.213,5.446,5.961,Middle Clark Fork,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",6.198,5.365,5.898,Middle Clark Fork,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",6.097,5.101,5.829,Middle Clark Fork,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",6.233,5.345,5.763,Middle Clark Fork,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",6.161,5.55,6.069,Middle Clark Fork,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",6.102,5.299,5.709,Middle Clark Fork,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",6.065,5.252,5.951,Middle Clark Fork,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",6.019,5.495,5.741,Middle Clark Fork,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",6.047,5.509,5.936,Middle Clark Fork,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",6.1,5.139,5.874,Middle Clark Fork,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",6.012,5.458,5.716,Middle Clark Fork,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",6.143,5.265,5.772,Middle Clark Fork,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",6.188,5.55,5.84,Middle Clark Fork,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",6.134,5.353,5.888,Middle Clark Fork,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",6.114,5.408,5.859,Middle Clark Fork,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",6.134,5.376,5.849,Middle Clark Fork,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",6.288,5.529,5.942,Middle Clark Fork,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",6.309,5.294,6.034,Middle Clark Fork,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",5.983,5.498,5.783,Middle Clark Fork,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",6.209,5.341,5.83,Middle Clark Fork,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",6.221,5.533,6.077,Middle Clark Fork,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",6.214,5.435,5.965,Middle Clark Fork,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",6.185,5.391,5.826,Middle Clark Fork,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",6.337,5.248,5.791,Middle Clark Fork,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",6.323,5.254,5.853,Middle Clark Fork,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",6.064,5.553,5.878,Middle Clark Fork,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",6.052,5.356,5.642,Middle Clark Fork,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",6.195,5.47,5.896,Middle Clark Fork,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",6.666,5.384,5.965,Middle Clark Fork,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",6.023,5.295,5.624,Middle Clark Fork,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",6.017,5.512,5.875,Middle Clark Fork,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",6.189,5.365,5.796,Middle Clark Fork,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",6.001,5.409,5.845,Middle Clark Fork,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",6.056,5.487,5.943,Middle Clark Fork,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",6.456,5.192,5.938,Middle Clark Fork,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",6.107,5.453,5.977,Middle Clark Fork,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",5.914,5.577,5.757,Middle Clark Fork,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",6.25,5.515,5.977,Middle Clark Fork,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",6.04,5.312,5.81,Middle Clark Fork,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",6.026,5.203,5.619,Middle Clark Fork,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",6.314,5.578,5.98,Middle Clark Fork,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",6.285,5.409,5.998,Middle Clark Fork,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",6.193,5.627,5.911,Middle Clark Fork,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",6.248,5.145,5.906,Middle Clark Fork,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",6.163,5.433,5.946,Middle Clark Fork,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",6.1,5.588,5.818,Middle Clark Fork,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",6.169,5.066,5.518,Middle Clark Fork,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",6.039,5.334,5.695,Middle Clark Fork,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",6.198,5.478,5.83,Middle Clark Fork,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",6.064,5.17,5.789,Middle Clark Fork,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",6.307,5.457,5.867,Middle Clark Fork,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",5.845,5.438,5.683,Middle Clark Fork,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",6.21,5.352,5.852,Middle Clark Fork,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",6.103,5.454,5.939,Middle Clark Fork,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",6.159,5.399,5.867,Middle Clark Fork,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",6.111,5.466,5.837,Middle Clark Fork,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",6.16,5.294,5.846,Middle Clark Fork,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",6.123,5.352,5.741,Middle Clark Fork,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",6.068,5.541,5.84,Middle Clark Fork,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",6.038,5.345,5.764,Middle Clark Fork,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",6.201,5.428,5.93,Middle Clark Fork,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",6.153,5.264,5.85,Middle Clark Fork,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",6.147,5.422,5.689,Middle Clark Fork,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",5.89,5.377,5.653,Middle Clark Fork,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",6.116,5.328,5.81,Middle Clark Fork,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",6.104,5.463,5.878,Middle Clark Fork,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",5.913,5.262,5.757,Middle Clark Fork,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",6.082,5.17,5.73,Middle Clark Fork,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",6.036,5.499,5.849,Middle Clark Fork,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",6.411,5.525,6.15,Middle Clark Fork,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",6.159,5.542,5.859,Middle Clark Fork,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",6.074,5.245,5.785,Middle Clark Fork,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",6.419,5.553,6.059,Middle Clark Fork,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",6.089,5.18,5.928,Middle Clark Fork,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",6.121,5.548,5.864,Middle Clark Fork,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",6.192,5.362,6.011,Middle Clark Fork,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",6.048,5.307,5.805,Middle Clark Fork,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",5.911,5.264,5.755,Middle Clark Fork,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",6.102,5.191,5.814,Middle Clark Fork,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",6.014,5.406,5.848,Middle Clark Fork,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",6.128,5.586,5.72,Middle Clark Fork,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",6.332,5.633,6.103,Middle Clark Fork,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",6.04,5.196,5.722,Middle Clark Fork,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",6.235,5.301,5.789,Middle Clark Fork,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",6.282,5.593,6.062,Middle Clark Fork,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",6.012,5.508,5.917,Middle Clark Fork,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",6.011,5.191,5.775,Middle Clark Fork,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",6.058,5.293,5.757,Middle Clark Fork,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",6.177,5.618,5.922,Middle Clark Fork,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",6.223,5.218,6.052,Middle Clark Fork,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",5.765,5.434,5.623,Middle Clark Fork,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",5.978,4.919,5.435,Middle Clark Fork,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",6.11,5.458,5.938,Middle Clark Fork,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",6.063,5.229,5.92,Middle Clark Fork,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",6.078,5.327,5.89,Middle Clark Fork,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",6.119,5.28,5.611,Middle Clark Fork,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",6.254,5.564,5.765,Middle Clark Fork,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",6.167,5.371,5.748,Middle Clark Fork,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",6.14,5.312,5.658,Middle Clark Fork,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",5.945,5.267,5.872,Middle Clark Fork,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",6.16,5.373,5.933,Middle Clark Fork,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",6.469,5.274,6.01,Middle Clark Fork,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",5.899,5.355,5.707,Middle Clark Fork,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",5.904,5.334,5.674,Middle Clark Fork,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",6.356,5.427,5.914,Middle Clark Fork,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",6.313,5.561,5.894,Middle Clark Fork,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",6.031,5.405,5.941,Middle Clark Fork,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",6.048,5.245,5.777,Middle Clark Fork,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",6.306,5.399,5.827,Middle Clark Fork,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",6.234,5.395,5.959,Middle Clark Fork,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",6.281,5.171,5.797,Middle Clark Fork,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",6.219,5.374,5.774,Middle Clark Fork,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",5.94,5.325,5.77,Middle Clark Fork,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",6.053,5.449,5.835,Middle Clark Fork,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",5.907,5.179,5.589,Middle Clark Fork,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",6.098,5.118,5.589,Middle Clark Fork,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",6.312,5.384,5.841,Middle Clark Fork,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",6.024,5.45,5.83,Middle Clark Fork,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",6.224,5.336,5.974,Middle Clark Fork,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",5.988,5.323,5.75,Middle Clark Fork,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",6.317,5.587,5.927,Middle Clark Fork,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",6.201,5.4,5.796,Middle Clark Fork,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",5.872,5.459,5.694,Middle Clark Fork,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",5.833,5.317,5.619,Middle Clark Fork,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",6.092,5.632,5.937,Middle Clark Fork,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",6.119,5.256,5.779,Middle Clark Fork,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",6.151,5.243,5.711,Middle Clark Fork,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",6.06,5.281,5.904,Middle Clark Fork,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",5.951,5.506,5.827,Middle Clark Fork,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",6.069,5.22,5.837,Middle Clark Fork,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",6.438,5.458,5.844,Middle Clark Fork,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",5.751,5.04,5.598,Middle Clark Fork,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",6.1,5.444,5.933,Middle Clark Fork,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",6.22,5.402,5.943,Middle Clark Fork,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",6.242,5.258,5.59,Middle Clark Fork,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",5.948,5.298,5.723,Middle Clark Fork,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",6.02,5.506,5.786,Middle Clark Fork,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",6.055,5.465,5.761,Middle Clark Fork,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",6.164,5.42,5.758,Middle Clark Fork,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",6.164,5.392,5.765,Middle Clark Fork,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",6.318,5.475,6.078,Middle Clark Fork,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",5.893,5.474,5.697,Middle Clark Fork,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",6.02,5.103,5.639,Middle Clark Fork,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",5.901,5.104,5.7,Middle Clark Fork,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",6.263,5.645,6.021,Middle Clark Fork,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",6.132,5.722,5.977,Middle Clark Fork,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",6.002,5.176,5.858,Middle Clark Fork,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",5.978,5.159,5.545,Middle Clark Fork,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",6.119,5.397,5.896,Middle Clark Fork,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",6.116,5.16,5.84,Middle Clark Fork,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",6.14,5.344,5.654,Middle Clark Fork,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",5.954,5.337,5.75,Middle Clark Fork,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",6.305,5.396,5.964,Middle Clark Fork,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",6.25,5.056,5.972,Middle Clark Fork,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",5.949,5.393,5.73,Middle Clark Fork,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",5.943,5.235,5.746,Middle Clark Fork,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",6.268,5.492,6.006,Middle Clark Fork,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",6.013,5.419,5.881,Middle Clark Fork,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",6.035,5.376,5.807,Middle Clark Fork,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",6.082,5.343,5.826,Middle Clark Fork,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",6.192,5.477,5.85,Middle Clark Fork,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",6.197,5.537,6.061,Middle Clark Fork,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",6.064,5.378,5.878,Middle Clark Fork,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",5.882,5.087,5.381,Middle Clark Fork,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",6.155,5.418,5.717,Middle Clark Fork,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",6.257,5.334,5.859,Middle Clark Fork,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",6.05,5.435,5.823,Middle Clark Fork,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",5.809,4.951,5.624,Middle Clark Fork,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",6.336,5.416,6.007,Middle Clark Fork,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",6.036,5.141,5.879,Middle Clark Fork,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",5.903,5.373,5.581,Middle Clark Fork,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",6.201,5.419,5.61,Middle Clark Fork,sfcWind

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,29.326,27.914,28.95,Beaver-Camas,tasmin
+1951,Historical Emissions,29.833,26.466,28.041,Beaver-Camas,tasmin
+1952,Historical Emissions,28.781,25.217,27.871,Beaver-Camas,tasmin
+1953,Historical Emissions,29.468,26.159,28.017,Beaver-Camas,tasmin
+1954,Historical Emissions,30.523,26.246,27.747,Beaver-Camas,tasmin
+1955,Historical Emissions,29.572,25.639,28.111,Beaver-Camas,tasmin
+1956,Historical Emissions,30.78,26.873,27.906,Beaver-Camas,tasmin
+1957,Historical Emissions,30.116,25.681,29.523,Beaver-Camas,tasmin
+1958,Historical Emissions,29.41,26.222,28.727,Beaver-Camas,tasmin
+1959,Historical Emissions,29.072,26.079,26.851,Beaver-Camas,tasmin
+1960,Historical Emissions,29.199,26.195,27.668,Beaver-Camas,tasmin
+1961,Historical Emissions,28.943,26.551,28.568,Beaver-Camas,tasmin
+1962,Historical Emissions,28.089,25.193,27.435,Beaver-Camas,tasmin
+1963,Historical Emissions,28.213,26.786,27.273,Beaver-Camas,tasmin
+1964,Historical Emissions,28.372,26.273,27.759,Beaver-Camas,tasmin
+1965,Historical Emissions,28.821,26.592,27.482,Beaver-Camas,tasmin
+1966,Historical Emissions,29.581,27.606,28.56,Beaver-Camas,tasmin
+1967,Historical Emissions,29.432,26.469,27.757,Beaver-Camas,tasmin
+1968,Historical Emissions,29.695,24.544,28.129,Beaver-Camas,tasmin
+1969,Historical Emissions,29.117,26.27,27.586,Beaver-Camas,tasmin
+1970,Historical Emissions,30.626,27.992,29.446,Beaver-Camas,tasmin
+1971,Historical Emissions,30.524,26.49,28.716,Beaver-Camas,tasmin
+1972,Historical Emissions,29.317,27.117,27.704,Beaver-Camas,tasmin
+1973,Historical Emissions,30.294,26.784,28.713,Beaver-Camas,tasmin
+1974,Historical Emissions,30.377,26.974,28.036,Beaver-Camas,tasmin
+1975,Historical Emissions,29.839,26.519,28.305,Beaver-Camas,tasmin
+1976,Historical Emissions,28.992,26.285,28.169,Beaver-Camas,tasmin
+1977,Historical Emissions,29.979,27.945,29.145,Beaver-Camas,tasmin
+1978,Historical Emissions,30.188,26.261,27.633,Beaver-Camas,tasmin
+1979,Historical Emissions,29.795,28.152,28.782,Beaver-Camas,tasmin
+1980,Historical Emissions,29.244,27.216,28.385,Beaver-Camas,tasmin
+1981,Historical Emissions,30.525,27.171,28.914,Beaver-Camas,tasmin
+1982,Historical Emissions,30.055,28.106,28.672,Beaver-Camas,tasmin
+1983,Historical Emissions,30.234,27.074,27.975,Beaver-Camas,tasmin
+1984,Historical Emissions,30.332,27.917,28.217,Beaver-Camas,tasmin
+1985,Historical Emissions,30.11,27.2,28.58,Beaver-Camas,tasmin
+1986,Historical Emissions,29.517,25.926,29.001,Beaver-Camas,tasmin
+1987,Historical Emissions,30.941,26.614,28.332,Beaver-Camas,tasmin
+1988,Historical Emissions,29.396,27.957,28.529,Beaver-Camas,tasmin
+1989,Historical Emissions,29.37,27.356,28.247,Beaver-Camas,tasmin
+1990,Historical Emissions,30.731,27.735,29.597,Beaver-Camas,tasmin
+1991,Historical Emissions,30.974,27.681,28.224,Beaver-Camas,tasmin
+1992,Historical Emissions,29.538,25.498,27.247,Beaver-Camas,tasmin
+1993,Historical Emissions,29.92,26.697,28.726,Beaver-Camas,tasmin
+1994,Historical Emissions,30.595,27.596,28.891,Beaver-Camas,tasmin
+1995,Historical Emissions,29.294,27.135,27.544,Beaver-Camas,tasmin
+1996,Historical Emissions,31.302,28.336,30.072,Beaver-Camas,tasmin
+1997,Historical Emissions,30.011,27.606,28.879,Beaver-Camas,tasmin
+1998,Historical Emissions,31.122,26.925,29.283,Beaver-Camas,tasmin
+1999,Historical Emissions,30.809,26.514,29.532,Beaver-Camas,tasmin
+2000,Historical Emissions,30.32,27.751,28.815,Beaver-Camas,tasmin
+2001,Historical Emissions,31.251,28.048,29.106,Beaver-Camas,tasmin
+2002,Historical Emissions,32.133,28.592,31.422,Beaver-Camas,tasmin
+2003,Historical Emissions,32.547,29.167,30.407,Beaver-Camas,tasmin
+2004,Historical Emissions,31.415,28.889,31.102,Beaver-Camas,tasmin
+2005,Historical Emissions,32.331,28.994,31.136,Beaver-Camas,tasmin
+2006,Historical Emissions,30.474,28.381,29.696,Beaver-Camas,tasmin
+2007,Historical Emissions,32.144,27.432,30.989,Beaver-Camas,tasmin
+2008,Historical Emissions,31.952,28.374,29.768,Beaver-Camas,tasmin
+2009,Historical Emissions,31.559,29.52,30.121,Beaver-Camas,tasmin
+2010,Historical Emissions,31.023,28.748,30.374,Beaver-Camas,tasmin
+2011,Historical Emissions,32.361,29.169,29.974,Beaver-Camas,tasmin
+2012,Historical Emissions,31.516,28.811,29.84,Beaver-Camas,tasmin
+2013,Historical Emissions,32.354,28.873,30.149,Beaver-Camas,tasmin
+2014,Historical Emissions,32.284,28.784,30.399,Beaver-Camas,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",32.743,28.993,31.414,Beaver-Camas,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",31.091,28.579,30.489,Beaver-Camas,tasmin
+2015,"High Emissions
+(SSP3-7.0)",33.213,27.748,29.609,Beaver-Camas,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",32.237,29.175,30.314,Beaver-Camas,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",33.498,29.394,31.21,Beaver-Camas,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",31.375,29.388,29.819,Beaver-Camas,tasmin
+2016,"High Emissions
+(SSP3-7.0)",33.42,29.076,31.512,Beaver-Camas,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",31.199,28.76,29.981,Beaver-Camas,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",31.981,29.227,30.246,Beaver-Camas,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",32.793,29.809,30.828,Beaver-Camas,tasmin
+2017,"High Emissions
+(SSP3-7.0)",33.454,29.889,30.897,Beaver-Camas,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",31.881,29.499,30.651,Beaver-Camas,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",31.454,29.955,30.806,Beaver-Camas,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",32.797,29.524,31.584,Beaver-Camas,tasmin
+2018,"High Emissions
+(SSP3-7.0)",31.724,29.764,30.511,Beaver-Camas,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",32.891,30.288,31.442,Beaver-Camas,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",33.999,30.568,31.901,Beaver-Camas,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",34.657,28.499,30.014,Beaver-Camas,tasmin
+2019,"High Emissions
+(SSP3-7.0)",32.061,28.965,30.679,Beaver-Camas,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",31.932,30.232,30.698,Beaver-Camas,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",32.079,29.891,31.198,Beaver-Camas,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",31.246,29.59,30.936,Beaver-Camas,tasmin
+2020,"High Emissions
+(SSP3-7.0)",32.039,30.052,31.273,Beaver-Camas,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",32.122,29.732,30.916,Beaver-Camas,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",32.552,28.338,31.388,Beaver-Camas,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",32.67,30.2,31.134,Beaver-Camas,tasmin
+2021,"High Emissions
+(SSP3-7.0)",32.068,29.897,31.095,Beaver-Camas,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",32.744,30.71,31.377,Beaver-Camas,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",32.247,29.93,30.795,Beaver-Camas,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",33.614,30.112,31.253,Beaver-Camas,tasmin
+2022,"High Emissions
+(SSP3-7.0)",33.115,29.792,31.332,Beaver-Camas,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",32.648,30.58,31.205,Beaver-Camas,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",32.674,30.261,31.845,Beaver-Camas,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",32.699,30.007,30.908,Beaver-Camas,tasmin
+2023,"High Emissions
+(SSP3-7.0)",32.861,29.647,31.107,Beaver-Camas,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",32.601,29.173,29.766,Beaver-Camas,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",33.117,29.879,31.914,Beaver-Camas,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",32.196,29.597,30.459,Beaver-Camas,tasmin
+2024,"High Emissions
+(SSP3-7.0)",33.646,29.638,30.869,Beaver-Camas,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",33.338,29.782,32.255,Beaver-Camas,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",32.888,30.134,31.959,Beaver-Camas,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",33.837,29.626,31.77,Beaver-Camas,tasmin
+2025,"High Emissions
+(SSP3-7.0)",33.593,30.171,32.618,Beaver-Camas,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",34.355,31.174,31.638,Beaver-Camas,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",32.709,30.99,31.909,Beaver-Camas,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",32.945,29.732,32.116,Beaver-Camas,tasmin
+2026,"High Emissions
+(SSP3-7.0)",33.872,30.53,32.998,Beaver-Camas,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",33.34,31.123,31.715,Beaver-Camas,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",32.951,29.483,31.803,Beaver-Camas,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",33.545,30.307,32.534,Beaver-Camas,tasmin
+2027,"High Emissions
+(SSP3-7.0)",33.973,30.274,31.548,Beaver-Camas,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",33.041,30.156,31.161,Beaver-Camas,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",33.641,31.338,32.482,Beaver-Camas,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",32.877,29.801,31.166,Beaver-Camas,tasmin
+2028,"High Emissions
+(SSP3-7.0)",32.63,30.947,32.07,Beaver-Camas,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",33.653,30.974,32.253,Beaver-Camas,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",34.204,31.119,33.105,Beaver-Camas,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",33.005,30.709,31.564,Beaver-Camas,tasmin
+2029,"High Emissions
+(SSP3-7.0)",34.411,29.405,30.455,Beaver-Camas,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",33.092,31.676,32.063,Beaver-Camas,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",34.126,30.43,32.786,Beaver-Camas,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",33.994,30.025,31.84,Beaver-Camas,tasmin
+2030,"High Emissions
+(SSP3-7.0)",33.272,30.089,32.527,Beaver-Camas,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",34.958,30.897,32.052,Beaver-Camas,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",33.219,30.511,31.209,Beaver-Camas,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",34.331,30.612,33.101,Beaver-Camas,tasmin
+2031,"High Emissions
+(SSP3-7.0)",33.932,29.571,32.273,Beaver-Camas,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",33.502,31.221,32.572,Beaver-Camas,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",32.961,31.519,32.053,Beaver-Camas,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",32.224,30.581,31.242,Beaver-Camas,tasmin
+2032,"High Emissions
+(SSP3-7.0)",33.164,30.034,30.882,Beaver-Camas,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",32.609,30.686,31.228,Beaver-Camas,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",32.951,30.894,32.249,Beaver-Camas,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",34.72,31.499,32.712,Beaver-Camas,tasmin
+2033,"High Emissions
+(SSP3-7.0)",34.028,30.717,31.925,Beaver-Camas,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",33.788,31.015,32.491,Beaver-Camas,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",33.302,30.201,31.772,Beaver-Camas,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",33.712,30.839,32.044,Beaver-Camas,tasmin
+2034,"High Emissions
+(SSP3-7.0)",34.338,31.28,32.044,Beaver-Camas,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",33.348,30.8,32.531,Beaver-Camas,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",32.914,29.856,32.119,Beaver-Camas,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",33.536,30.618,32.387,Beaver-Camas,tasmin
+2035,"High Emissions
+(SSP3-7.0)",33.348,31.277,32.394,Beaver-Camas,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",33.699,30.905,31.798,Beaver-Camas,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",34.507,31.032,33.101,Beaver-Camas,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",32.419,31.096,31.875,Beaver-Camas,tasmin
+2036,"High Emissions
+(SSP3-7.0)",33.542,30.931,32.873,Beaver-Camas,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",35.047,30.069,33.386,Beaver-Camas,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",34.576,31.837,32.302,Beaver-Camas,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",33.917,29.688,31.575,Beaver-Camas,tasmin
+2037,"High Emissions
+(SSP3-7.0)",33.503,30.132,31.041,Beaver-Camas,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",34.656,31.02,32.214,Beaver-Camas,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",33.365,30.565,32.298,Beaver-Camas,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",32.867,30.295,31.54,Beaver-Camas,tasmin
+2038,"High Emissions
+(SSP3-7.0)",34.273,31.362,32.162,Beaver-Camas,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",34.049,31.765,33.107,Beaver-Camas,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",33.818,30.543,31.878,Beaver-Camas,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",33.148,31.023,32.166,Beaver-Camas,tasmin
+2039,"High Emissions
+(SSP3-7.0)",34.571,31.684,33.085,Beaver-Camas,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",34.908,29.943,31.786,Beaver-Camas,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",33.414,30.487,31.996,Beaver-Camas,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",33.797,30.587,32.531,Beaver-Camas,tasmin
+2040,"High Emissions
+(SSP3-7.0)",34.806,31.748,32.453,Beaver-Camas,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",35.679,32.295,34.135,Beaver-Camas,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",33.864,30.422,31.787,Beaver-Camas,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",33.667,31.322,33.524,Beaver-Camas,tasmin
+2041,"High Emissions
+(SSP3-7.0)",33.641,30.906,32.701,Beaver-Camas,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",34.515,31.945,34.017,Beaver-Camas,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",34.995,31.26,32.8,Beaver-Camas,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",33.875,29.333,32.308,Beaver-Camas,tasmin
+2042,"High Emissions
+(SSP3-7.0)",33.895,31.337,32.757,Beaver-Camas,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",35.528,32.952,33.954,Beaver-Camas,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",34.489,31.308,32.811,Beaver-Camas,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",34.317,30.952,32.265,Beaver-Camas,tasmin
+2043,"High Emissions
+(SSP3-7.0)",33.948,31.307,32.663,Beaver-Camas,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",34.363,32.897,33.863,Beaver-Camas,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",34.719,31.6,32.763,Beaver-Camas,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",34.929,32.024,32.535,Beaver-Camas,tasmin
+2044,"High Emissions
+(SSP3-7.0)",35.207,31.07,32.627,Beaver-Camas,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",36.489,32.597,33.666,Beaver-Camas,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",35.039,31.795,33.657,Beaver-Camas,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",36.096,31.777,32.548,Beaver-Camas,tasmin
+2045,"High Emissions
+(SSP3-7.0)",35.096,32.012,33.838,Beaver-Camas,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",35.107,31.897,34.079,Beaver-Camas,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",34.202,30.345,31.546,Beaver-Camas,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",34.396,31.118,32.858,Beaver-Camas,tasmin
+2046,"High Emissions
+(SSP3-7.0)",34.333,33.357,33.861,Beaver-Camas,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",35.005,30.589,32.401,Beaver-Camas,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",34.486,31.238,33.303,Beaver-Camas,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",34.742,29.531,33.441,Beaver-Camas,tasmin
+2047,"High Emissions
+(SSP3-7.0)",33.75,31.227,33.18,Beaver-Camas,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",36.249,31.466,33.44,Beaver-Camas,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",34.309,29.946,32.702,Beaver-Camas,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",35.513,31.482,34.227,Beaver-Camas,tasmin
+2048,"High Emissions
+(SSP3-7.0)",34.593,31.497,34.063,Beaver-Camas,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",36.896,32.847,34.482,Beaver-Camas,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",33.968,30,31.143,Beaver-Camas,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",34.915,32.252,32.691,Beaver-Camas,tasmin
+2049,"High Emissions
+(SSP3-7.0)",35.481,31.83,34.323,Beaver-Camas,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",35.889,31.722,33.62,Beaver-Camas,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",34.004,29.376,33.192,Beaver-Camas,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",34.9,31.269,34.133,Beaver-Camas,tasmin
+2050,"High Emissions
+(SSP3-7.0)",35.551,32.544,34.136,Beaver-Camas,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",35.867,32.342,34.272,Beaver-Camas,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",34.385,31.637,32.763,Beaver-Camas,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",34.606,32.542,33.088,Beaver-Camas,tasmin
+2051,"High Emissions
+(SSP3-7.0)",35.813,32.762,34.306,Beaver-Camas,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",35.771,31.897,33.318,Beaver-Camas,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",34.543,31.562,33.51,Beaver-Camas,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",34.147,31.625,31.987,Beaver-Camas,tasmin
+2052,"High Emissions
+(SSP3-7.0)",35.197,32.371,33.408,Beaver-Camas,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",35.513,32.574,33.476,Beaver-Camas,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",33.982,29.454,31.712,Beaver-Camas,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",34.339,31.564,33.277,Beaver-Camas,tasmin
+2053,"High Emissions
+(SSP3-7.0)",36.157,32.823,34.503,Beaver-Camas,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",36.982,32.549,33.73,Beaver-Camas,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",34.194,31.784,32.731,Beaver-Camas,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",35.774,32.062,33.056,Beaver-Camas,tasmin
+2054,"High Emissions
+(SSP3-7.0)",34.777,32.139,33.594,Beaver-Camas,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",36.602,33.019,34.352,Beaver-Camas,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",34.61,31.736,33.094,Beaver-Camas,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",34.631,31.12,32.402,Beaver-Camas,tasmin
+2055,"High Emissions
+(SSP3-7.0)",35.494,32.978,34.319,Beaver-Camas,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",36.189,33.518,34.865,Beaver-Camas,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",34.007,31.158,32.703,Beaver-Camas,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",36.274,31.114,33.293,Beaver-Camas,tasmin
+2056,"High Emissions
+(SSP3-7.0)",35.731,32.508,34.378,Beaver-Camas,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",37.353,32.733,36.267,Beaver-Camas,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",33.901,30.898,32.566,Beaver-Camas,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",34.791,32.477,33.087,Beaver-Camas,tasmin
+2057,"High Emissions
+(SSP3-7.0)",35.882,31.84,33.94,Beaver-Camas,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",37.671,32.707,34.927,Beaver-Camas,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",34.458,29.774,31.707,Beaver-Camas,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",35.792,32.594,33.969,Beaver-Camas,tasmin
+2058,"High Emissions
+(SSP3-7.0)",35.316,32.183,34.388,Beaver-Camas,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",36.023,31.852,34.818,Beaver-Camas,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",34.164,31.188,32.856,Beaver-Camas,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",35.646,33.19,34.774,Beaver-Camas,tasmin
+2059,"High Emissions
+(SSP3-7.0)",35.909,31.747,34.772,Beaver-Camas,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",37.626,33.045,35.974,Beaver-Camas,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",34.948,30.63,32.284,Beaver-Camas,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",35.934,32.353,32.953,Beaver-Camas,tasmin
+2060,"High Emissions
+(SSP3-7.0)",36.689,33.535,34.262,Beaver-Camas,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",37.142,33.13,35.863,Beaver-Camas,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",33.923,30.733,32.357,Beaver-Camas,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",35.84,31.567,32.731,Beaver-Camas,tasmin
+2061,"High Emissions
+(SSP3-7.0)",36.112,32.835,34.515,Beaver-Camas,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",37.318,34.14,35.868,Beaver-Camas,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",33.554,32.468,32.995,Beaver-Camas,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",36.139,30.397,32.519,Beaver-Camas,tasmin
+2062,"High Emissions
+(SSP3-7.0)",36.253,31.691,35.35,Beaver-Camas,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",38.187,34.371,35.847,Beaver-Camas,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",33.491,29.919,31.187,Beaver-Camas,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",35.397,32.166,33.339,Beaver-Camas,tasmin
+2063,"High Emissions
+(SSP3-7.0)",36.019,32.286,34.773,Beaver-Camas,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",37.651,34.116,36.305,Beaver-Camas,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",35.986,31.372,35.316,Beaver-Camas,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",34.661,32.42,33.719,Beaver-Camas,tasmin
+2064,"High Emissions
+(SSP3-7.0)",35.674,33.677,34.453,Beaver-Camas,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",36.935,34.042,35.225,Beaver-Camas,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",35.313,30.901,33.075,Beaver-Camas,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",36.282,30.529,33.886,Beaver-Camas,tasmin
+2065,"High Emissions
+(SSP3-7.0)",36.818,31.874,34.781,Beaver-Camas,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",37.747,34.521,36.461,Beaver-Camas,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",34.57,31.506,32.679,Beaver-Camas,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",36.384,32.805,34.622,Beaver-Camas,tasmin
+2066,"High Emissions
+(SSP3-7.0)",37.512,32.271,34.192,Beaver-Camas,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",37.942,34.746,35.556,Beaver-Camas,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",36.032,32.038,33.384,Beaver-Camas,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",35.363,32.07,33.194,Beaver-Camas,tasmin
+2067,"High Emissions
+(SSP3-7.0)",36.691,32.72,34.589,Beaver-Camas,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",38.409,34.488,36.012,Beaver-Camas,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",35.798,31.508,33.894,Beaver-Camas,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",35.48,32.173,33.798,Beaver-Camas,tasmin
+2068,"High Emissions
+(SSP3-7.0)",36.968,33.994,34.62,Beaver-Camas,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",38.11,34.547,36.807,Beaver-Camas,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",34.936,31.051,33.827,Beaver-Camas,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",34.961,32.638,33.669,Beaver-Camas,tasmin
+2069,"High Emissions
+(SSP3-7.0)",37.318,33.531,36.456,Beaver-Camas,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",39.873,34.81,36.617,Beaver-Camas,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",34.622,31.986,33.185,Beaver-Camas,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",36.183,30.807,34.668,Beaver-Camas,tasmin
+2070,"High Emissions
+(SSP3-7.0)",37.233,34.209,35.552,Beaver-Camas,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",38.988,35.053,36.921,Beaver-Camas,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",34.387,30.712,33.566,Beaver-Camas,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",35.051,31.775,33.894,Beaver-Camas,tasmin
+2071,"High Emissions
+(SSP3-7.0)",37.175,34.952,35.986,Beaver-Camas,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",38.672,34.19,36.343,Beaver-Camas,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",34.752,31.268,32.828,Beaver-Camas,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",37.08,32.173,33.436,Beaver-Camas,tasmin
+2072,"High Emissions
+(SSP3-7.0)",36.871,33.983,36.077,Beaver-Camas,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",38.297,35.006,36.648,Beaver-Camas,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",34.472,30.769,32.38,Beaver-Camas,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",36.792,32.177,34.216,Beaver-Camas,tasmin
+2073,"High Emissions
+(SSP3-7.0)",38.519,34.687,36.863,Beaver-Camas,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",38.917,34.61,37.529,Beaver-Camas,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",35.572,30.563,33.695,Beaver-Camas,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",36.461,31.456,35.063,Beaver-Camas,tasmin
+2074,"High Emissions
+(SSP3-7.0)",37.627,33.279,35.581,Beaver-Camas,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",40.308,33.455,38.064,Beaver-Camas,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",33.959,30.336,32.812,Beaver-Camas,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",36.561,31.867,33.561,Beaver-Camas,tasmin
+2075,"High Emissions
+(SSP3-7.0)",36.815,33.181,35.065,Beaver-Camas,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",39.179,35.116,36.691,Beaver-Camas,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",34.42,30.392,32.588,Beaver-Camas,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",35.283,32.761,33.962,Beaver-Camas,tasmin
+2076,"High Emissions
+(SSP3-7.0)",37.48,35.006,35.849,Beaver-Camas,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",38.398,34.763,36.426,Beaver-Camas,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",35.188,30.764,33.607,Beaver-Camas,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",36.541,32.534,35.288,Beaver-Camas,tasmin
+2077,"High Emissions
+(SSP3-7.0)",38.828,34.266,36.321,Beaver-Camas,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",38.68,35.53,37.676,Beaver-Camas,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",34.243,31.212,32.804,Beaver-Camas,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",36.677,33.64,35.512,Beaver-Camas,tasmin
+2078,"High Emissions
+(SSP3-7.0)",37.881,34.727,36.165,Beaver-Camas,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",39.077,36.196,37.249,Beaver-Camas,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",34.809,30.765,32.838,Beaver-Camas,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",36.323,33.283,35.227,Beaver-Camas,tasmin
+2079,"High Emissions
+(SSP3-7.0)",37.974,34.997,36.422,Beaver-Camas,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",39.568,35.007,37.856,Beaver-Camas,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",32.29,30.983,31.684,Beaver-Camas,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",37.145,32.909,33.775,Beaver-Camas,tasmin
+2080,"High Emissions
+(SSP3-7.0)",38.912,35.548,35.982,Beaver-Camas,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",39.825,36.812,37.95,Beaver-Camas,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",35.105,30.576,32.181,Beaver-Camas,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",36.493,32.465,34.664,Beaver-Camas,tasmin
+2081,"High Emissions
+(SSP3-7.0)",39.377,34.551,36.462,Beaver-Camas,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",40.977,36.774,38.895,Beaver-Camas,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",34.482,31.726,32.883,Beaver-Camas,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",36.407,33.585,35.135,Beaver-Camas,tasmin
+2082,"High Emissions
+(SSP3-7.0)",40.333,33.531,35.356,Beaver-Camas,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",41.761,36.352,38.46,Beaver-Camas,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",35.352,31.053,32.619,Beaver-Camas,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",36.73,31.75,34.271,Beaver-Camas,tasmin
+2083,"High Emissions
+(SSP3-7.0)",38.345,34.127,37.642,Beaver-Camas,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",41.159,36.205,39.022,Beaver-Camas,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",34.773,31.259,32.882,Beaver-Camas,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",36.534,32.275,34.292,Beaver-Camas,tasmin
+2084,"High Emissions
+(SSP3-7.0)",39.924,34.966,37.687,Beaver-Camas,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",40.874,36.586,39.032,Beaver-Camas,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",34.997,30.299,31.718,Beaver-Camas,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",35.967,32.847,35.368,Beaver-Camas,tasmin
+2085,"High Emissions
+(SSP3-7.0)",38.078,35.829,36.778,Beaver-Camas,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",41.629,37.131,39.657,Beaver-Camas,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",35.363,31.593,33.672,Beaver-Camas,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",37.588,32.976,35.907,Beaver-Camas,tasmin
+2086,"High Emissions
+(SSP3-7.0)",38.767,34.742,36.703,Beaver-Camas,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",42.207,37.44,39.585,Beaver-Camas,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",32.933,30.573,32.359,Beaver-Camas,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",36.655,33.637,35.071,Beaver-Camas,tasmin
+2087,"High Emissions
+(SSP3-7.0)",38.838,35.464,36.866,Beaver-Camas,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",40.417,37.709,39.189,Beaver-Camas,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",35.773,30.856,32.635,Beaver-Camas,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",36.523,33.165,34.42,Beaver-Camas,tasmin
+2088,"High Emissions
+(SSP3-7.0)",40.045,35.218,38.469,Beaver-Camas,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",40.897,37.734,39.488,Beaver-Camas,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",34.143,31.487,32.98,Beaver-Camas,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",37.331,33.649,35.937,Beaver-Camas,tasmin
+2089,"High Emissions
+(SSP3-7.0)",39.058,34.516,36.817,Beaver-Camas,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",42.404,38.658,39.921,Beaver-Camas,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",34.414,31.392,33.264,Beaver-Camas,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",36.17,33.184,35.511,Beaver-Camas,tasmin
+2090,"High Emissions
+(SSP3-7.0)",39.224,36.044,36.705,Beaver-Camas,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",42.336,37.884,40.334,Beaver-Camas,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",34.676,30.805,32.814,Beaver-Camas,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",36.874,31.874,35.599,Beaver-Camas,tasmin
+2091,"High Emissions
+(SSP3-7.0)",39.915,35.103,38.416,Beaver-Camas,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",41.109,36.8,39.181,Beaver-Camas,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",34.866,30.404,33.935,Beaver-Camas,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",38.066,33.918,36.203,Beaver-Camas,tasmin
+2092,"High Emissions
+(SSP3-7.0)",40.65,35.841,37.465,Beaver-Camas,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",41.019,36.581,39.401,Beaver-Camas,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",34.544,30.565,32.221,Beaver-Camas,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",36.92,32.114,34.236,Beaver-Camas,tasmin
+2093,"High Emissions
+(SSP3-7.0)",40.844,35.551,37.745,Beaver-Camas,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",43.158,38.244,38.73,Beaver-Camas,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",35.722,30.462,33.036,Beaver-Camas,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",36.562,32.513,34.575,Beaver-Camas,tasmin
+2094,"High Emissions
+(SSP3-7.0)",40.257,35.805,38.79,Beaver-Camas,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",42.848,37.896,41.906,Beaver-Camas,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",35.263,31.568,33.615,Beaver-Camas,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",38.126,32.659,35.883,Beaver-Camas,tasmin
+2095,"High Emissions
+(SSP3-7.0)",40.129,35.623,38.942,Beaver-Camas,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",41.735,37.428,39.765,Beaver-Camas,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",33.363,30.422,31.98,Beaver-Camas,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",37.576,34.427,34.978,Beaver-Camas,tasmin
+2096,"High Emissions
+(SSP3-7.0)",40.259,36.692,38.692,Beaver-Camas,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",43.463,36.683,39.556,Beaver-Camas,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",34.385,30.2,31.955,Beaver-Camas,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",38.785,34.369,35.476,Beaver-Camas,tasmin
+2097,"High Emissions
+(SSP3-7.0)",41.168,34.488,40.078,Beaver-Camas,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",45.05,36.728,40.979,Beaver-Camas,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",33.514,30.987,32.051,Beaver-Camas,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",37.311,33.303,34.418,Beaver-Camas,tasmin
+2098,"High Emissions
+(SSP3-7.0)",40.517,36.326,38.976,Beaver-Camas,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",42.972,37.707,40.257,Beaver-Camas,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",34.467,30.708,32.954,Beaver-Camas,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",36.875,33.231,34.615,Beaver-Camas,tasmin
+2099,"High Emissions
+(SSP3-7.0)",41.331,36.78,37.853,Beaver-Camas,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",43.868,36.647,41.874,Beaver-Camas,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",35.088,29.668,31.836,Beaver-Camas,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",38.109,33.911,35.553,Beaver-Camas,tasmin
+2100,"High Emissions
+(SSP3-7.0)",40.546,36.872,37.407,Beaver-Camas,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",42.025,38.024,41.063,Beaver-Camas,tasmin

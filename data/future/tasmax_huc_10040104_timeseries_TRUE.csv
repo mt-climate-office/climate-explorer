@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,59.195,55.804,56.522,Fort Peck Reservoir,tasmax
+1951,Historical Emissions,58.108,54.426,57.197,Fort Peck Reservoir,tasmax
+1952,Historical Emissions,58.758,53.752,56.417,Fort Peck Reservoir,tasmax
+1953,Historical Emissions,57.82,53.35,56.365,Fort Peck Reservoir,tasmax
+1954,Historical Emissions,58.05,53.057,56.081,Fort Peck Reservoir,tasmax
+1955,Historical Emissions,59.86,53.941,55.012,Fort Peck Reservoir,tasmax
+1956,Historical Emissions,60.407,55.143,56.861,Fort Peck Reservoir,tasmax
+1957,Historical Emissions,61.218,54.036,56.771,Fort Peck Reservoir,tasmax
+1958,Historical Emissions,57.884,54.522,55.379,Fort Peck Reservoir,tasmax
+1959,Historical Emissions,56.121,52.577,54.608,Fort Peck Reservoir,tasmax
+1960,Historical Emissions,58.014,53.149,55.287,Fort Peck Reservoir,tasmax
+1961,Historical Emissions,58.482,54.103,56.011,Fort Peck Reservoir,tasmax
+1962,Historical Emissions,56.647,52.441,55.277,Fort Peck Reservoir,tasmax
+1963,Historical Emissions,55.909,53.338,54.966,Fort Peck Reservoir,tasmax
+1964,Historical Emissions,57.413,53.663,57.037,Fort Peck Reservoir,tasmax
+1965,Historical Emissions,57.323,54.204,55.742,Fort Peck Reservoir,tasmax
+1966,Historical Emissions,59.393,53.297,55.757,Fort Peck Reservoir,tasmax
+1967,Historical Emissions,57.156,53.135,55.426,Fort Peck Reservoir,tasmax
+1968,Historical Emissions,56.216,52.147,53.99,Fort Peck Reservoir,tasmax
+1969,Historical Emissions,56.784,53.602,55.84,Fort Peck Reservoir,tasmax
+1970,Historical Emissions,57.794,53.975,55.996,Fort Peck Reservoir,tasmax
+1971,Historical Emissions,59.19,55.134,57.536,Fort Peck Reservoir,tasmax
+1972,Historical Emissions,57.106,54.042,55.922,Fort Peck Reservoir,tasmax
+1973,Historical Emissions,58.181,52.918,55.025,Fort Peck Reservoir,tasmax
+1974,Historical Emissions,58.258,53.215,56.63,Fort Peck Reservoir,tasmax
+1975,Historical Emissions,57.746,53.067,56.156,Fort Peck Reservoir,tasmax
+1976,Historical Emissions,56.827,53.738,55.629,Fort Peck Reservoir,tasmax
+1977,Historical Emissions,58.527,54.57,56.363,Fort Peck Reservoir,tasmax
+1978,Historical Emissions,58.18,54.161,55.743,Fort Peck Reservoir,tasmax
+1979,Historical Emissions,58.726,54.387,57.796,Fort Peck Reservoir,tasmax
+1980,Historical Emissions,57.185,53.97,55.29,Fort Peck Reservoir,tasmax
+1981,Historical Emissions,58.646,54.954,56.264,Fort Peck Reservoir,tasmax
+1982,Historical Emissions,57.486,55.242,55.804,Fort Peck Reservoir,tasmax
+1983,Historical Emissions,57.585,54.014,55.295,Fort Peck Reservoir,tasmax
+1984,Historical Emissions,58.917,54.885,55.754,Fort Peck Reservoir,tasmax
+1985,Historical Emissions,58.728,54.737,56.412,Fort Peck Reservoir,tasmax
+1986,Historical Emissions,55.085,53.326,54.475,Fort Peck Reservoir,tasmax
+1987,Historical Emissions,57.597,51.817,53.487,Fort Peck Reservoir,tasmax
+1988,Historical Emissions,57.769,53.505,55.445,Fort Peck Reservoir,tasmax
+1989,Historical Emissions,58.564,54.296,55.939,Fort Peck Reservoir,tasmax
+1990,Historical Emissions,60.433,54.014,57.015,Fort Peck Reservoir,tasmax
+1991,Historical Emissions,58.21,53.77,54.9,Fort Peck Reservoir,tasmax
+1992,Historical Emissions,58.337,54.042,55.464,Fort Peck Reservoir,tasmax
+1993,Historical Emissions,57.979,54.001,55.388,Fort Peck Reservoir,tasmax
+1994,Historical Emissions,59.084,54.887,55.632,Fort Peck Reservoir,tasmax
+1995,Historical Emissions,60.073,55.203,55.82,Fort Peck Reservoir,tasmax
+1996,Historical Emissions,59.55,56.355,57.951,Fort Peck Reservoir,tasmax
+1997,Historical Emissions,60.405,53.454,56.543,Fort Peck Reservoir,tasmax
+1998,Historical Emissions,57.91,54.068,56.331,Fort Peck Reservoir,tasmax
+1999,Historical Emissions,58.899,55.585,56.828,Fort Peck Reservoir,tasmax
+2000,Historical Emissions,58.34,55.001,56.716,Fort Peck Reservoir,tasmax
+2001,Historical Emissions,58.447,55.402,56.552,Fort Peck Reservoir,tasmax
+2002,Historical Emissions,60.556,55.048,57.087,Fort Peck Reservoir,tasmax
+2003,Historical Emissions,59.407,55.651,57.591,Fort Peck Reservoir,tasmax
+2004,Historical Emissions,59.293,57.415,58.184,Fort Peck Reservoir,tasmax
+2005,Historical Emissions,61.068,56.532,58.601,Fort Peck Reservoir,tasmax
+2006,Historical Emissions,59.465,54.639,56.886,Fort Peck Reservoir,tasmax
+2007,Historical Emissions,59.161,56.34,57.961,Fort Peck Reservoir,tasmax
+2008,Historical Emissions,59.073,55.624,57.783,Fort Peck Reservoir,tasmax
+2009,Historical Emissions,58.273,55.719,57.353,Fort Peck Reservoir,tasmax
+2010,Historical Emissions,59.164,56.423,58.434,Fort Peck Reservoir,tasmax
+2011,Historical Emissions,59.722,56.582,57.656,Fort Peck Reservoir,tasmax
+2012,Historical Emissions,59.645,56.395,58.913,Fort Peck Reservoir,tasmax
+2013,Historical Emissions,60.603,56.34,58.03,Fort Peck Reservoir,tasmax
+2014,Historical Emissions,60.838,57.43,58.338,Fort Peck Reservoir,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",61.76,56.795,58.474,Fort Peck Reservoir,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",61.606,55.836,57.604,Fort Peck Reservoir,tasmax
+2015,"High Emissions
+(SSP3-7.0)",60.336,56.897,58.379,Fort Peck Reservoir,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",60.423,56.892,58.141,Fort Peck Reservoir,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",60.79,58.06,59.646,Fort Peck Reservoir,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",59.614,56.232,58.711,Fort Peck Reservoir,tasmax
+2016,"High Emissions
+(SSP3-7.0)",62.345,56.399,59.115,Fort Peck Reservoir,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",60.31,56.975,58.836,Fort Peck Reservoir,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",59.27,57.271,57.926,Fort Peck Reservoir,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",61.102,56.029,58.082,Fort Peck Reservoir,tasmax
+2017,"High Emissions
+(SSP3-7.0)",60.075,56.615,58.063,Fort Peck Reservoir,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",61.01,57.399,59.103,Fort Peck Reservoir,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",59.656,56.448,58.396,Fort Peck Reservoir,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",61.124,57.034,58.214,Fort Peck Reservoir,tasmax
+2018,"High Emissions
+(SSP3-7.0)",60.684,55.105,58.4,Fort Peck Reservoir,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",59.882,56.625,58.541,Fort Peck Reservoir,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",62.202,58.824,60.14,Fort Peck Reservoir,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",60.535,55.85,57.456,Fort Peck Reservoir,tasmax
+2019,"High Emissions
+(SSP3-7.0)",61.351,55.75,57.55,Fort Peck Reservoir,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",63.834,57.811,59.574,Fort Peck Reservoir,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",63.389,56.101,58.225,Fort Peck Reservoir,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",60.737,57.115,58.467,Fort Peck Reservoir,tasmax
+2020,"High Emissions
+(SSP3-7.0)",60.004,56.244,58.454,Fort Peck Reservoir,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",60.759,57.338,58.861,Fort Peck Reservoir,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",61.608,57.409,59.378,Fort Peck Reservoir,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",61.145,56.843,59.755,Fort Peck Reservoir,tasmax
+2021,"High Emissions
+(SSP3-7.0)",61.273,57.71,59.611,Fort Peck Reservoir,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",61.152,57.876,59.341,Fort Peck Reservoir,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",61.201,57.307,58.786,Fort Peck Reservoir,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",61.542,56.66,59.382,Fort Peck Reservoir,tasmax
+2022,"High Emissions
+(SSP3-7.0)",60.365,56.64,57.929,Fort Peck Reservoir,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",62.268,56.529,59.567,Fort Peck Reservoir,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",59.818,58.172,58.889,Fort Peck Reservoir,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",60.947,57.178,58.729,Fort Peck Reservoir,tasmax
+2023,"High Emissions
+(SSP3-7.0)",61.672,56.779,58.964,Fort Peck Reservoir,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",59.068,55.843,56.904,Fort Peck Reservoir,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",61.16,58.036,59.458,Fort Peck Reservoir,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",60.332,56.779,58.521,Fort Peck Reservoir,tasmax
+2024,"High Emissions
+(SSP3-7.0)",62.15,57.616,59.349,Fort Peck Reservoir,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",61.691,56.376,58.733,Fort Peck Reservoir,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",61.098,59.05,60.589,Fort Peck Reservoir,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",61.203,55.523,58.477,Fort Peck Reservoir,tasmax
+2025,"High Emissions
+(SSP3-7.0)",61.796,58.737,60.228,Fort Peck Reservoir,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",61.644,58.308,59.761,Fort Peck Reservoir,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",62.163,57.057,58.972,Fort Peck Reservoir,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",61.816,57.093,59.681,Fort Peck Reservoir,tasmax
+2026,"High Emissions
+(SSP3-7.0)",60.939,55.946,58.61,Fort Peck Reservoir,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",62.161,57.044,58.869,Fort Peck Reservoir,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",61.182,56.773,58.599,Fort Peck Reservoir,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",62.071,57.205,59.684,Fort Peck Reservoir,tasmax
+2027,"High Emissions
+(SSP3-7.0)",61.815,56.351,58.286,Fort Peck Reservoir,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",61.595,57.552,60.129,Fort Peck Reservoir,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",60.419,56.868,59.391,Fort Peck Reservoir,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",59.536,56.196,57.9,Fort Peck Reservoir,tasmax
+2028,"High Emissions
+(SSP3-7.0)",60.126,58.569,59.616,Fort Peck Reservoir,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",61.514,57.834,58.179,Fort Peck Reservoir,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",63.475,59.186,60.162,Fort Peck Reservoir,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",61.332,56.614,59.349,Fort Peck Reservoir,tasmax
+2029,"High Emissions
+(SSP3-7.0)",61.221,56.192,58.175,Fort Peck Reservoir,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",61.386,58.246,59.524,Fort Peck Reservoir,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",62.227,57.382,59.202,Fort Peck Reservoir,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",62.934,58.729,60.15,Fort Peck Reservoir,tasmax
+2030,"High Emissions
+(SSP3-7.0)",62.759,57.328,59.075,Fort Peck Reservoir,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",62.769,56.828,59.712,Fort Peck Reservoir,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",61.845,57.174,60.401,Fort Peck Reservoir,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",62.346,57.797,59.814,Fort Peck Reservoir,tasmax
+2031,"High Emissions
+(SSP3-7.0)",62.926,57.522,61.135,Fort Peck Reservoir,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",63.669,58.937,61.252,Fort Peck Reservoir,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",61.017,56.961,59.026,Fort Peck Reservoir,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",61.096,57.737,58.336,Fort Peck Reservoir,tasmax
+2032,"High Emissions
+(SSP3-7.0)",62.552,58.09,59.299,Fort Peck Reservoir,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",63.427,56.46,60.168,Fort Peck Reservoir,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",62.2,57.841,60.063,Fort Peck Reservoir,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",62.95,57.761,60.435,Fort Peck Reservoir,tasmax
+2033,"High Emissions
+(SSP3-7.0)",60.607,56.631,59.099,Fort Peck Reservoir,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",62.071,57.75,60.601,Fort Peck Reservoir,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",62.577,57.156,59.529,Fort Peck Reservoir,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",61.722,58.696,59.936,Fort Peck Reservoir,tasmax
+2034,"High Emissions
+(SSP3-7.0)",62.448,58.31,61.209,Fort Peck Reservoir,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",62.166,57.466,59.685,Fort Peck Reservoir,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",63.052,57.598,60.453,Fort Peck Reservoir,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",62.255,57.606,60.921,Fort Peck Reservoir,tasmax
+2035,"High Emissions
+(SSP3-7.0)",60.312,56.701,58.315,Fort Peck Reservoir,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",63.325,57.511,60.772,Fort Peck Reservoir,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",62.03,58.362,60.906,Fort Peck Reservoir,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",60.799,57.379,60.22,Fort Peck Reservoir,tasmax
+2036,"High Emissions
+(SSP3-7.0)",60.982,57.455,60.12,Fort Peck Reservoir,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",62.811,56.349,61.129,Fort Peck Reservoir,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",62.905,58.724,60.803,Fort Peck Reservoir,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",62.314,56.245,59.85,Fort Peck Reservoir,tasmax
+2037,"High Emissions
+(SSP3-7.0)",61.569,57.091,57.888,Fort Peck Reservoir,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",62.661,58.143,60.385,Fort Peck Reservoir,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",62.351,58.769,60.51,Fort Peck Reservoir,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",61.183,57.92,59.324,Fort Peck Reservoir,tasmax
+2038,"High Emissions
+(SSP3-7.0)",62.354,58.657,60.474,Fort Peck Reservoir,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",64.432,57.414,61.502,Fort Peck Reservoir,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",62.703,57.205,60.671,Fort Peck Reservoir,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",62.041,57.881,59.693,Fort Peck Reservoir,tasmax
+2039,"High Emissions
+(SSP3-7.0)",62.789,59.97,60.894,Fort Peck Reservoir,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",63.29,57.737,60.437,Fort Peck Reservoir,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",62.135,58.06,60.667,Fort Peck Reservoir,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",61.968,58.74,61.475,Fort Peck Reservoir,tasmax
+2040,"High Emissions
+(SSP3-7.0)",62.493,59.013,60.721,Fort Peck Reservoir,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",65.286,59.499,61.124,Fort Peck Reservoir,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",61.771,56.49,59.393,Fort Peck Reservoir,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",61.814,58.402,59.931,Fort Peck Reservoir,tasmax
+2041,"High Emissions
+(SSP3-7.0)",62.015,58.432,58.715,Fort Peck Reservoir,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",61.035,58.815,60.191,Fort Peck Reservoir,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",63.773,58.527,59.337,Fort Peck Reservoir,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",60.88,57.334,60.191,Fort Peck Reservoir,tasmax
+2042,"High Emissions
+(SSP3-7.0)",60.76,58.215,59.483,Fort Peck Reservoir,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",63.434,59.473,61.367,Fort Peck Reservoir,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",61.015,58.118,59.726,Fort Peck Reservoir,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",63.309,58.193,59.858,Fort Peck Reservoir,tasmax
+2043,"High Emissions
+(SSP3-7.0)",61.893,56.875,60.855,Fort Peck Reservoir,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",62.522,59.146,61.21,Fort Peck Reservoir,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",62.916,58.615,59.114,Fort Peck Reservoir,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",65.452,59.014,61.502,Fort Peck Reservoir,tasmax
+2044,"High Emissions
+(SSP3-7.0)",61.531,59.87,60.538,Fort Peck Reservoir,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",64.716,57.717,60.445,Fort Peck Reservoir,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",62.176,57.357,60.543,Fort Peck Reservoir,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",63.607,58.185,60.806,Fort Peck Reservoir,tasmax
+2045,"High Emissions
+(SSP3-7.0)",62.223,58.364,60.119,Fort Peck Reservoir,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",62.064,58.069,60.623,Fort Peck Reservoir,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",65.2,57.419,60.984,Fort Peck Reservoir,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",62.61,57.46,60.377,Fort Peck Reservoir,tasmax
+2046,"High Emissions
+(SSP3-7.0)",62.739,59.6,61.199,Fort Peck Reservoir,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",63.435,58.403,59.565,Fort Peck Reservoir,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",62.991,58.896,60.431,Fort Peck Reservoir,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",62.761,56.174,59.514,Fort Peck Reservoir,tasmax
+2047,"High Emissions
+(SSP3-7.0)",61.187,58.573,59.73,Fort Peck Reservoir,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",65.22,58.924,61.964,Fort Peck Reservoir,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",62.487,59.057,60.143,Fort Peck Reservoir,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",64.002,58.333,61.213,Fort Peck Reservoir,tasmax
+2048,"High Emissions
+(SSP3-7.0)",64.12,58.028,60.869,Fort Peck Reservoir,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",68.124,59.379,63.343,Fort Peck Reservoir,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",62.632,58.392,58.863,Fort Peck Reservoir,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",64.121,60.113,62.402,Fort Peck Reservoir,tasmax
+2049,"High Emissions
+(SSP3-7.0)",63.713,59.517,61.49,Fort Peck Reservoir,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",63.443,59.257,61.815,Fort Peck Reservoir,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",62.831,56.684,60.408,Fort Peck Reservoir,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",63.793,59.421,61.733,Fort Peck Reservoir,tasmax
+2050,"High Emissions
+(SSP3-7.0)",63.692,59.071,61.221,Fort Peck Reservoir,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",63.679,60.021,62.192,Fort Peck Reservoir,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",62.834,57.45,60.733,Fort Peck Reservoir,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",65.08,59.37,61.762,Fort Peck Reservoir,tasmax
+2051,"High Emissions
+(SSP3-7.0)",62.813,60.002,61.442,Fort Peck Reservoir,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",63.805,60.237,61.568,Fort Peck Reservoir,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",62.257,58.743,60.867,Fort Peck Reservoir,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",63.518,59.28,60.374,Fort Peck Reservoir,tasmax
+2052,"High Emissions
+(SSP3-7.0)",64.336,58.243,60.403,Fort Peck Reservoir,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",63.677,60.383,62.303,Fort Peck Reservoir,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",63.295,58.121,59.071,Fort Peck Reservoir,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",62.231,58.47,61.746,Fort Peck Reservoir,tasmax
+2053,"High Emissions
+(SSP3-7.0)",64.75,60.366,63.844,Fort Peck Reservoir,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",65.524,59.985,61.855,Fort Peck Reservoir,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",63.122,59.573,61.474,Fort Peck Reservoir,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",62.644,57.672,60.185,Fort Peck Reservoir,tasmax
+2054,"High Emissions
+(SSP3-7.0)",63.657,59.101,60.543,Fort Peck Reservoir,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",64.895,60.279,62.896,Fort Peck Reservoir,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",62.355,60.058,61.696,Fort Peck Reservoir,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",64.75,58.253,62.295,Fort Peck Reservoir,tasmax
+2055,"High Emissions
+(SSP3-7.0)",64.073,60.004,61.553,Fort Peck Reservoir,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",65.13,60.459,64.287,Fort Peck Reservoir,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",62.487,59.277,61.078,Fort Peck Reservoir,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",62.981,59.329,61.162,Fort Peck Reservoir,tasmax
+2056,"High Emissions
+(SSP3-7.0)",64.227,59.126,61.286,Fort Peck Reservoir,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",64.096,60.113,63.033,Fort Peck Reservoir,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",63.426,57.706,61.189,Fort Peck Reservoir,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",63.601,60.513,62.21,Fort Peck Reservoir,tasmax
+2057,"High Emissions
+(SSP3-7.0)",63.255,58.675,60.279,Fort Peck Reservoir,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",63.634,57.842,61.066,Fort Peck Reservoir,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",63.136,58.333,60.684,Fort Peck Reservoir,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",64.517,59.662,62.966,Fort Peck Reservoir,tasmax
+2058,"High Emissions
+(SSP3-7.0)",63.325,58.595,61.629,Fort Peck Reservoir,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",63.604,59.583,60.913,Fort Peck Reservoir,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",63.641,59.333,62.016,Fort Peck Reservoir,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",66.501,58.679,63.523,Fort Peck Reservoir,tasmax
+2059,"High Emissions
+(SSP3-7.0)",66.375,60.484,62.155,Fort Peck Reservoir,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",65.444,61.823,64.006,Fort Peck Reservoir,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",64.03,58.67,60.606,Fort Peck Reservoir,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",65.03,59.211,60.907,Fort Peck Reservoir,tasmax
+2060,"High Emissions
+(SSP3-7.0)",63.067,60.015,61.432,Fort Peck Reservoir,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",63.947,61.493,62.723,Fort Peck Reservoir,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",62.813,59.248,60.211,Fort Peck Reservoir,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",64.061,59.359,61.819,Fort Peck Reservoir,tasmax
+2061,"High Emissions
+(SSP3-7.0)",63.904,59.718,62.358,Fort Peck Reservoir,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",66.761,62.196,63.981,Fort Peck Reservoir,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",62.689,58.867,60.124,Fort Peck Reservoir,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",63.317,58.918,60.302,Fort Peck Reservoir,tasmax
+2062,"High Emissions
+(SSP3-7.0)",63.499,60.391,61.908,Fort Peck Reservoir,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",64.432,61.896,63.644,Fort Peck Reservoir,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",62.508,59.155,60.446,Fort Peck Reservoir,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",62.686,59.375,61.158,Fort Peck Reservoir,tasmax
+2063,"High Emissions
+(SSP3-7.0)",65.126,59.967,62.685,Fort Peck Reservoir,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",66.361,60.279,63.817,Fort Peck Reservoir,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",63.397,59.077,61.161,Fort Peck Reservoir,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",61.962,59.38,60.225,Fort Peck Reservoir,tasmax
+2064,"High Emissions
+(SSP3-7.0)",63.473,59.351,60.9,Fort Peck Reservoir,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",64.92,61.409,63.102,Fort Peck Reservoir,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",63.323,56.512,59.312,Fort Peck Reservoir,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",64.078,58.617,60.147,Fort Peck Reservoir,tasmax
+2065,"High Emissions
+(SSP3-7.0)",64.524,60.904,61.879,Fort Peck Reservoir,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",67.346,61.361,64.188,Fort Peck Reservoir,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",63.883,58.829,61.201,Fort Peck Reservoir,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",63.871,59.636,63.131,Fort Peck Reservoir,tasmax
+2066,"High Emissions
+(SSP3-7.0)",65.065,60.772,61.588,Fort Peck Reservoir,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",66.973,60.172,64.424,Fort Peck Reservoir,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",63.408,60.255,61.71,Fort Peck Reservoir,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",64.34,60.099,61.31,Fort Peck Reservoir,tasmax
+2067,"High Emissions
+(SSP3-7.0)",66.674,62.72,64.009,Fort Peck Reservoir,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",67.013,61.715,63.343,Fort Peck Reservoir,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",62.874,57.868,60.038,Fort Peck Reservoir,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",63.455,58.833,61.928,Fort Peck Reservoir,tasmax
+2068,"High Emissions
+(SSP3-7.0)",65.427,59.78,62.324,Fort Peck Reservoir,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",66.262,62.585,63.774,Fort Peck Reservoir,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",64.704,58.673,61.121,Fort Peck Reservoir,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",62.648,59.336,60.617,Fort Peck Reservoir,tasmax
+2069,"High Emissions
+(SSP3-7.0)",67.452,62.81,64.283,Fort Peck Reservoir,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",68.829,61.257,64.896,Fort Peck Reservoir,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",62.295,58.587,61.326,Fort Peck Reservoir,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",64.13,58.543,60.78,Fort Peck Reservoir,tasmax
+2070,"High Emissions
+(SSP3-7.0)",65.887,61.64,63.846,Fort Peck Reservoir,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",68.602,63.141,64.323,Fort Peck Reservoir,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",66.862,57.578,60.586,Fort Peck Reservoir,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",63.422,60.109,61.413,Fort Peck Reservoir,tasmax
+2071,"High Emissions
+(SSP3-7.0)",65.79,61.951,64.468,Fort Peck Reservoir,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",67.237,62.776,63.731,Fort Peck Reservoir,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",64.696,59.626,60.768,Fort Peck Reservoir,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",63.98,58.266,61.859,Fort Peck Reservoir,tasmax
+2072,"High Emissions
+(SSP3-7.0)",65.763,61.128,63.182,Fort Peck Reservoir,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",66.444,62.706,64.072,Fort Peck Reservoir,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",62.484,58.194,61.172,Fort Peck Reservoir,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",64.389,57.925,62.144,Fort Peck Reservoir,tasmax
+2073,"High Emissions
+(SSP3-7.0)",65.216,61.323,64.005,Fort Peck Reservoir,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",67.063,61.172,64.398,Fort Peck Reservoir,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",63.654,57.578,61.355,Fort Peck Reservoir,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",64.488,60.008,61.253,Fort Peck Reservoir,tasmax
+2074,"High Emissions
+(SSP3-7.0)",65.368,60.661,62.012,Fort Peck Reservoir,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",68.546,62.172,64.114,Fort Peck Reservoir,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",65.059,56.426,60.568,Fort Peck Reservoir,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",65.894,59.36,60.501,Fort Peck Reservoir,tasmax
+2075,"High Emissions
+(SSP3-7.0)",67.105,59.872,62.269,Fort Peck Reservoir,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",68.17,62.429,63.81,Fort Peck Reservoir,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",63.432,57.378,60.252,Fort Peck Reservoir,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",62.821,59.525,60.841,Fort Peck Reservoir,tasmax
+2076,"High Emissions
+(SSP3-7.0)",66.669,61.605,63.422,Fort Peck Reservoir,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",68.947,61.696,65.067,Fort Peck Reservoir,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",63.225,59.308,61.593,Fort Peck Reservoir,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",64.692,60.914,62.364,Fort Peck Reservoir,tasmax
+2077,"High Emissions
+(SSP3-7.0)",65.681,60.291,64.285,Fort Peck Reservoir,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",68.275,63.043,65.522,Fort Peck Reservoir,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",63.937,59.491,60.344,Fort Peck Reservoir,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",63.819,60.716,61.939,Fort Peck Reservoir,tasmax
+2078,"High Emissions
+(SSP3-7.0)",66.733,61.179,63.656,Fort Peck Reservoir,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",64.72,61.698,62.934,Fort Peck Reservoir,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",64.18,59.787,61.231,Fort Peck Reservoir,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",63.9,60.06,61.812,Fort Peck Reservoir,tasmax
+2079,"High Emissions
+(SSP3-7.0)",65.463,60.064,64.679,Fort Peck Reservoir,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",68.021,62.456,65.565,Fort Peck Reservoir,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",63.898,58.022,60.205,Fort Peck Reservoir,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",64.512,59.421,61.833,Fort Peck Reservoir,tasmax
+2080,"High Emissions
+(SSP3-7.0)",66.682,60.819,62.481,Fort Peck Reservoir,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",68.933,63.351,66.619,Fort Peck Reservoir,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",65.249,58.137,60.043,Fort Peck Reservoir,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",64.32,60.663,61.783,Fort Peck Reservoir,tasmax
+2081,"High Emissions
+(SSP3-7.0)",67.973,59.669,62.156,Fort Peck Reservoir,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",69.231,64.675,65.959,Fort Peck Reservoir,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",64.788,59.045,61.966,Fort Peck Reservoir,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",65.148,60.129,62.194,Fort Peck Reservoir,tasmax
+2082,"High Emissions
+(SSP3-7.0)",66.692,60.38,62.971,Fort Peck Reservoir,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",69.834,63.279,67.438,Fort Peck Reservoir,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",63.719,60.276,62.038,Fort Peck Reservoir,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",65.027,59.733,61.553,Fort Peck Reservoir,tasmax
+2083,"High Emissions
+(SSP3-7.0)",66.127,60.539,64.959,Fort Peck Reservoir,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",70.122,63.937,67.596,Fort Peck Reservoir,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",64.581,58.545,60.12,Fort Peck Reservoir,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",66.303,60.899,63.042,Fort Peck Reservoir,tasmax
+2084,"High Emissions
+(SSP3-7.0)",68.8,62.877,65.584,Fort Peck Reservoir,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",69.393,63.971,66.31,Fort Peck Reservoir,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",63.67,57.899,59.871,Fort Peck Reservoir,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",64.166,59.37,62.244,Fort Peck Reservoir,tasmax
+2085,"High Emissions
+(SSP3-7.0)",66.089,62.803,64.277,Fort Peck Reservoir,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",69.958,63.27,66.951,Fort Peck Reservoir,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",63.661,60.201,61.772,Fort Peck Reservoir,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",64.951,61.05,61.917,Fort Peck Reservoir,tasmax
+2086,"High Emissions
+(SSP3-7.0)",67.354,62.269,64.283,Fort Peck Reservoir,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",69.426,63.127,67.478,Fort Peck Reservoir,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",62.067,58.759,60.123,Fort Peck Reservoir,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",65.646,61.183,62.844,Fort Peck Reservoir,tasmax
+2087,"High Emissions
+(SSP3-7.0)",69.799,62.268,64.817,Fort Peck Reservoir,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",69.111,63,65.946,Fort Peck Reservoir,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",64.447,57.43,58.725,Fort Peck Reservoir,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",65.169,61.622,63.961,Fort Peck Reservoir,tasmax
+2088,"High Emissions
+(SSP3-7.0)",69.045,62.518,64.26,Fort Peck Reservoir,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",69.265,64.606,66.884,Fort Peck Reservoir,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",61.43,58.307,59.636,Fort Peck Reservoir,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",64.615,60.238,62.489,Fort Peck Reservoir,tasmax
+2089,"High Emissions
+(SSP3-7.0)",67.69,61.121,65.631,Fort Peck Reservoir,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",70.511,65.037,68.137,Fort Peck Reservoir,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",62.865,59.213,61.167,Fort Peck Reservoir,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",64.25,61.264,62.367,Fort Peck Reservoir,tasmax
+2090,"High Emissions
+(SSP3-7.0)",69.779,64.408,65.818,Fort Peck Reservoir,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",70.395,65.517,67.381,Fort Peck Reservoir,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",62.378,58.817,61.095,Fort Peck Reservoir,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",64.273,60.03,63.323,Fort Peck Reservoir,tasmax
+2091,"High Emissions
+(SSP3-7.0)",68.093,64.351,66.446,Fort Peck Reservoir,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",71.831,63.387,65.838,Fort Peck Reservoir,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",64.492,57.577,61.623,Fort Peck Reservoir,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",65.697,59.355,63.636,Fort Peck Reservoir,tasmax
+2092,"High Emissions
+(SSP3-7.0)",67.104,62.269,65.576,Fort Peck Reservoir,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",72.171,64.646,67.657,Fort Peck Reservoir,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",63.766,57.368,60.446,Fort Peck Reservoir,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",65.318,58.832,62.193,Fort Peck Reservoir,tasmax
+2093,"High Emissions
+(SSP3-7.0)",68.415,63.172,63.852,Fort Peck Reservoir,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",70.869,65.94,67.258,Fort Peck Reservoir,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",63.421,58.372,60.313,Fort Peck Reservoir,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",67.113,58.953,62.57,Fort Peck Reservoir,tasmax
+2094,"High Emissions
+(SSP3-7.0)",67.968,63.33,65.074,Fort Peck Reservoir,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",72.476,65.447,69.769,Fort Peck Reservoir,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",63.771,58.06,61.924,Fort Peck Reservoir,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",66.192,61.089,64.539,Fort Peck Reservoir,tasmax
+2095,"High Emissions
+(SSP3-7.0)",70.016,62.697,67.001,Fort Peck Reservoir,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",71.215,64.651,66.438,Fort Peck Reservoir,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",62.868,58.559,61.749,Fort Peck Reservoir,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",65.422,62.019,63.236,Fort Peck Reservoir,tasmax
+2096,"High Emissions
+(SSP3-7.0)",68.192,63.141,66.368,Fort Peck Reservoir,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",70.453,64.947,67.425,Fort Peck Reservoir,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",64.712,59.299,60.523,Fort Peck Reservoir,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",66.857,61.83,62.647,Fort Peck Reservoir,tasmax
+2097,"High Emissions
+(SSP3-7.0)",71.95,62.21,67.32,Fort Peck Reservoir,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",73.555,64.844,66.468,Fort Peck Reservoir,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",62.9,57.699,60.336,Fort Peck Reservoir,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",65.052,60.623,62.952,Fort Peck Reservoir,tasmax
+2098,"High Emissions
+(SSP3-7.0)",68.621,63.168,65.433,Fort Peck Reservoir,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",70.393,65.892,68.268,Fort Peck Reservoir,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",64.325,56.638,61.252,Fort Peck Reservoir,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",65.249,60.542,62.176,Fort Peck Reservoir,tasmax
+2099,"High Emissions
+(SSP3-7.0)",70.386,62.913,64.409,Fort Peck Reservoir,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",72.481,65.439,69.517,Fort Peck Reservoir,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",63.895,56.96,58.714,Fort Peck Reservoir,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",67.579,59.764,63.162,Fort Peck Reservoir,tasmax
+2100,"High Emissions
+(SSP3-7.0)",68.93,62.65,66.896,Fort Peck Reservoir,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",72.179,64.962,67.612,Fort Peck Reservoir,tasmax

@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1,0,0.423,Flathead County,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1,0,0.423,Flathead County,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.742,0.338,0.885,Flathead County,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.038,0.038,0.558,Flathead County,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1,0.223,0.596,Flathead County,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.038,0,0.538,Flathead County,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.35,0.115,0.769,Flathead County,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.119,0.038,0.538,Flathead County,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),0.973,0.154,0.385,Flathead County,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.231,0.038,0.538,Flathead County,con-wet

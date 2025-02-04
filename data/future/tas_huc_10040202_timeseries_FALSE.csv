@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,46.817,44.535,45.685,Middle Musselshell,tas
+1951,Historical Emissions,46.973,43.873,45.952,Middle Musselshell,tas
+1952,Historical Emissions,46.793,43.128,44.851,Middle Musselshell,tas
+1953,Historical Emissions,46.614,42.891,45.379,Middle Musselshell,tas
+1954,Historical Emissions,47.029,42.494,45.017,Middle Musselshell,tas
+1955,Historical Emissions,48.104,43.802,45.05,Middle Musselshell,tas
+1956,Historical Emissions,47.533,44.634,45.916,Middle Musselshell,tas
+1957,Historical Emissions,48.706,43.896,45.962,Middle Musselshell,tas
+1958,Historical Emissions,46.812,44.361,44.809,Middle Musselshell,tas
+1959,Historical Emissions,45.609,42.254,44.094,Middle Musselshell,tas
+1960,Historical Emissions,47.162,42.355,44.306,Middle Musselshell,tas
+1961,Historical Emissions,47.276,43.532,45.59,Middle Musselshell,tas
+1962,Historical Emissions,46.229,42.8,44.075,Middle Musselshell,tas
+1963,Historical Emissions,45.656,43.697,44.275,Middle Musselshell,tas
+1964,Historical Emissions,46.234,43.086,45.518,Middle Musselshell,tas
+1965,Historical Emissions,46.057,43.611,44.457,Middle Musselshell,tas
+1966,Historical Emissions,47.82,43.619,44.627,Middle Musselshell,tas
+1967,Historical Emissions,45.66,43.7,44.93,Middle Musselshell,tas
+1968,Historical Emissions,45.395,41.681,43.783,Middle Musselshell,tas
+1969,Historical Emissions,46.047,42.976,44.783,Middle Musselshell,tas
+1970,Historical Emissions,46.634,44.141,45.83,Middle Musselshell,tas
+1971,Historical Emissions,48.492,44.838,46.489,Middle Musselshell,tas
+1972,Historical Emissions,46.103,43.79,45.103,Middle Musselshell,tas
+1973,Historical Emissions,46.762,43.049,44.969,Middle Musselshell,tas
+1974,Historical Emissions,47.395,43.395,45.987,Middle Musselshell,tas
+1975,Historical Emissions,46.576,42.321,45.506,Middle Musselshell,tas
+1976,Historical Emissions,45.802,42.96,45.039,Middle Musselshell,tas
+1977,Historical Emissions,47.411,44.373,46.068,Middle Musselshell,tas
+1978,Historical Emissions,47.8,43.315,44.808,Middle Musselshell,tas
+1979,Historical Emissions,47.824,43.592,46.553,Middle Musselshell,tas
+1980,Historical Emissions,46.312,43.86,45.211,Middle Musselshell,tas
+1981,Historical Emissions,47.389,44.912,46.321,Middle Musselshell,tas
+1982,Historical Emissions,46.503,44.545,45.72,Middle Musselshell,tas
+1983,Historical Emissions,47.107,43.811,45.063,Middle Musselshell,tas
+1984,Historical Emissions,47.056,43.869,45.349,Middle Musselshell,tas
+1985,Historical Emissions,47.153,44.14,45.914,Middle Musselshell,tas
+1986,Historical Emissions,45.394,43.227,44.23,Middle Musselshell,tas
+1987,Historical Emissions,46.361,42.087,43.952,Middle Musselshell,tas
+1988,Historical Emissions,46.812,43.635,44.492,Middle Musselshell,tas
+1989,Historical Emissions,46.996,44.079,45.462,Middle Musselshell,tas
+1990,Historical Emissions,48.254,44.569,46.21,Middle Musselshell,tas
+1991,Historical Emissions,47.1,43.291,44.681,Middle Musselshell,tas
+1992,Historical Emissions,46.432,43.425,44.467,Middle Musselshell,tas
+1993,Historical Emissions,47.21,43.483,44.982,Middle Musselshell,tas
+1994,Historical Emissions,48.084,44.487,45.326,Middle Musselshell,tas
+1995,Historical Emissions,47.872,44.346,45.186,Middle Musselshell,tas
+1996,Historical Emissions,48.213,45.417,46.548,Middle Musselshell,tas
+1997,Historical Emissions,48.387,44.097,46.149,Middle Musselshell,tas
+1998,Historical Emissions,47.612,43.451,46.431,Middle Musselshell,tas
+1999,Historical Emissions,47.83,45.1,46.34,Middle Musselshell,tas
+2000,Historical Emissions,47.345,44.518,45.427,Middle Musselshell,tas
+2001,Historical Emissions,47.784,44.655,45.909,Middle Musselshell,tas
+2002,Historical Emissions,49.04,45.202,47.086,Middle Musselshell,tas
+2003,Historical Emissions,48.678,45.509,46.462,Middle Musselshell,tas
+2004,Historical Emissions,48.208,46.559,47.415,Middle Musselshell,tas
+2005,Historical Emissions,49.393,45.532,48.609,Middle Musselshell,tas
+2006,Historical Emissions,48.398,43.973,46.178,Middle Musselshell,tas
+2007,Historical Emissions,48.252,45.976,47.264,Middle Musselshell,tas
+2008,Historical Emissions,48.209,45.961,46.618,Middle Musselshell,tas
+2009,Historical Emissions,47.381,45.509,46.455,Middle Musselshell,tas
+2010,Historical Emissions,47.987,46,47.327,Middle Musselshell,tas
+2011,Historical Emissions,49.209,46.563,47.377,Middle Musselshell,tas
+2012,Historical Emissions,48.431,45.728,47.351,Middle Musselshell,tas
+2013,Historical Emissions,49.353,45.388,46.703,Middle Musselshell,tas
+2014,Historical Emissions,49.904,46.531,48.11,Middle Musselshell,tas
+2015,"Moderating Emissions
+(SSP1-2.6)",50.329,46.413,47.782,Middle Musselshell,tas
+2015,"Middle of the Road
+(SSP2-4.5)",49.872,45.287,47.451,Middle Musselshell,tas
+2015,"High Emissions
+(SSP3-7.0)",49.351,45.89,48.023,Middle Musselshell,tas
+2015,"Accelerating Emissions
+(SSP5-8.5)",48.644,46.304,47.219,Middle Musselshell,tas
+2016,"Moderating Emissions
+(SSP1-2.6)",50.292,47.379,48.468,Middle Musselshell,tas
+2016,"Middle of the Road
+(SSP2-4.5)",49.519,45.627,47.33,Middle Musselshell,tas
+2016,"High Emissions
+(SSP3-7.0)",50.943,45.598,47.732,Middle Musselshell,tas
+2016,"Accelerating Emissions
+(SSP5-8.5)",48.805,45.896,48.272,Middle Musselshell,tas
+2017,"Moderating Emissions
+(SSP1-2.6)",49.346,46.174,47.027,Middle Musselshell,tas
+2017,"Middle of the Road
+(SSP2-4.5)",50.327,46.393,47.554,Middle Musselshell,tas
+2017,"High Emissions
+(SSP3-7.0)",49.506,46.918,47.717,Middle Musselshell,tas
+2017,"Accelerating Emissions
+(SSP5-8.5)",49.637,46.248,48.348,Middle Musselshell,tas
+2018,"Moderating Emissions
+(SSP1-2.6)",48.513,46.442,47.497,Middle Musselshell,tas
+2018,"Middle of the Road
+(SSP2-4.5)",49.415,46.642,47.948,Middle Musselshell,tas
+2018,"High Emissions
+(SSP3-7.0)",49.72,45.484,47.076,Middle Musselshell,tas
+2018,"Accelerating Emissions
+(SSP5-8.5)",49.571,45.887,47.318,Middle Musselshell,tas
+2019,"Moderating Emissions
+(SSP1-2.6)",50.749,47.45,48.841,Middle Musselshell,tas
+2019,"Middle of the Road
+(SSP2-4.5)",49.524,45.468,46.252,Middle Musselshell,tas
+2019,"High Emissions
+(SSP3-7.0)",49.878,45.534,47.094,Middle Musselshell,tas
+2019,"Accelerating Emissions
+(SSP5-8.5)",50.57,47.149,49.106,Middle Musselshell,tas
+2020,"Moderating Emissions
+(SSP1-2.6)",51.535,46.097,47.616,Middle Musselshell,tas
+2020,"Middle of the Road
+(SSP2-4.5)",49.844,46.131,47.435,Middle Musselshell,tas
+2020,"High Emissions
+(SSP3-7.0)",49.111,45.911,47.877,Middle Musselshell,tas
+2020,"Accelerating Emissions
+(SSP5-8.5)",49.45,46.368,48.074,Middle Musselshell,tas
+2021,"Moderating Emissions
+(SSP1-2.6)",49.972,46.943,48.359,Middle Musselshell,tas
+2021,"Middle of the Road
+(SSP2-4.5)",49.858,46.251,48.439,Middle Musselshell,tas
+2021,"High Emissions
+(SSP3-7.0)",48.897,47.388,48.123,Middle Musselshell,tas
+2021,"Accelerating Emissions
+(SSP5-8.5)",50.131,46.771,48.622,Middle Musselshell,tas
+2022,"Moderating Emissions
+(SSP1-2.6)",49.823,47.016,47.826,Middle Musselshell,tas
+2022,"Middle of the Road
+(SSP2-4.5)",50.806,46.013,48.062,Middle Musselshell,tas
+2022,"High Emissions
+(SSP3-7.0)",49.673,46.465,47.418,Middle Musselshell,tas
+2022,"Accelerating Emissions
+(SSP5-8.5)",50.562,46.31,49.125,Middle Musselshell,tas
+2023,"Moderating Emissions
+(SSP1-2.6)",49.622,47.429,47.827,Middle Musselshell,tas
+2023,"Middle of the Road
+(SSP2-4.5)",50.218,46.683,47.928,Middle Musselshell,tas
+2023,"High Emissions
+(SSP3-7.0)",50.798,46.212,48.42,Middle Musselshell,tas
+2023,"Accelerating Emissions
+(SSP5-8.5)",48.294,44.897,46.927,Middle Musselshell,tas
+2024,"Moderating Emissions
+(SSP1-2.6)",50.335,47.059,48.611,Middle Musselshell,tas
+2024,"Middle of the Road
+(SSP2-4.5)",49.053,46.409,47.599,Middle Musselshell,tas
+2024,"High Emissions
+(SSP3-7.0)",51.281,46.853,47.734,Middle Musselshell,tas
+2024,"Accelerating Emissions
+(SSP5-8.5)",51.125,46.366,48.827,Middle Musselshell,tas
+2025,"Moderating Emissions
+(SSP1-2.6)",49.93,47.449,49.499,Middle Musselshell,tas
+2025,"Middle of the Road
+(SSP2-4.5)",50.284,45.941,47.928,Middle Musselshell,tas
+2025,"High Emissions
+(SSP3-7.0)",50.437,47.955,48.756,Middle Musselshell,tas
+2025,"Accelerating Emissions
+(SSP5-8.5)",50.591,47.398,48.7,Middle Musselshell,tas
+2026,"Moderating Emissions
+(SSP1-2.6)",50.802,46.738,47.704,Middle Musselshell,tas
+2026,"Middle of the Road
+(SSP2-4.5)",50.43,46.175,48.85,Middle Musselshell,tas
+2026,"High Emissions
+(SSP3-7.0)",50.523,45.29,48.084,Middle Musselshell,tas
+2026,"Accelerating Emissions
+(SSP5-8.5)",50.743,46.548,48.377,Middle Musselshell,tas
+2027,"Moderating Emissions
+(SSP1-2.6)",49.961,46.85,49.141,Middle Musselshell,tas
+2027,"Middle of the Road
+(SSP2-4.5)",51.071,47.304,48.942,Middle Musselshell,tas
+2027,"High Emissions
+(SSP3-7.0)",50.006,46.53,48.012,Middle Musselshell,tas
+2027,"Accelerating Emissions
+(SSP5-8.5)",50.034,47.388,48.303,Middle Musselshell,tas
+2028,"Moderating Emissions
+(SSP1-2.6)",49.799,46.726,48.41,Middle Musselshell,tas
+2028,"Middle of the Road
+(SSP2-4.5)",49.805,45.904,48.077,Middle Musselshell,tas
+2028,"High Emissions
+(SSP3-7.0)",49.841,47.765,48.441,Middle Musselshell,tas
+2028,"Accelerating Emissions
+(SSP5-8.5)",51.026,47.237,48.242,Middle Musselshell,tas
+2029,"Moderating Emissions
+(SSP1-2.6)",52.169,48.33,50.104,Middle Musselshell,tas
+2029,"Middle of the Road
+(SSP2-4.5)",50.811,46.066,48.572,Middle Musselshell,tas
+2029,"High Emissions
+(SSP3-7.0)",50.167,45.398,47.879,Middle Musselshell,tas
+2029,"Accelerating Emissions
+(SSP5-8.5)",50.643,48.218,48.842,Middle Musselshell,tas
+2030,"Moderating Emissions
+(SSP1-2.6)",50.836,47.516,48.738,Middle Musselshell,tas
+2030,"Middle of the Road
+(SSP2-4.5)",51.026,47.789,48.944,Middle Musselshell,tas
+2030,"High Emissions
+(SSP3-7.0)",50.738,46.614,48.161,Middle Musselshell,tas
+2030,"Accelerating Emissions
+(SSP5-8.5)",51.268,46.788,48.994,Middle Musselshell,tas
+2031,"Moderating Emissions
+(SSP1-2.6)",50.404,46.841,48.691,Middle Musselshell,tas
+2031,"Middle of the Road
+(SSP2-4.5)",51.144,47.524,48.674,Middle Musselshell,tas
+2031,"High Emissions
+(SSP3-7.0)",51.266,47.037,49.94,Middle Musselshell,tas
+2031,"Accelerating Emissions
+(SSP5-8.5)",52.359,49.132,50.483,Middle Musselshell,tas
+2032,"Moderating Emissions
+(SSP1-2.6)",50.073,46.443,48.363,Middle Musselshell,tas
+2032,"Middle of the Road
+(SSP2-4.5)",49.851,47.12,48.137,Middle Musselshell,tas
+2032,"High Emissions
+(SSP3-7.0)",51.731,47.262,48.24,Middle Musselshell,tas
+2032,"Accelerating Emissions
+(SSP5-8.5)",51.365,47.032,49.075,Middle Musselshell,tas
+2033,"Moderating Emissions
+(SSP1-2.6)",50.863,47.837,48.597,Middle Musselshell,tas
+2033,"Middle of the Road
+(SSP2-4.5)",51.336,47.548,49.017,Middle Musselshell,tas
+2033,"High Emissions
+(SSP3-7.0)",50.756,46.746,47.857,Middle Musselshell,tas
+2033,"Accelerating Emissions
+(SSP5-8.5)",50.355,47.274,49.643,Middle Musselshell,tas
+2034,"Moderating Emissions
+(SSP1-2.6)",50.292,46.641,47.616,Middle Musselshell,tas
+2034,"Middle of the Road
+(SSP2-4.5)",51.456,47.84,48.951,Middle Musselshell,tas
+2034,"High Emissions
+(SSP3-7.0)",51.254,47.558,49.787,Middle Musselshell,tas
+2034,"Accelerating Emissions
+(SSP5-8.5)",50.956,45.908,48.979,Middle Musselshell,tas
+2035,"Moderating Emissions
+(SSP1-2.6)",50.883,47.131,49.118,Middle Musselshell,tas
+2035,"Middle of the Road
+(SSP2-4.5)",51.402,47.374,49.905,Middle Musselshell,tas
+2035,"High Emissions
+(SSP3-7.0)",49.97,46.655,48.044,Middle Musselshell,tas
+2035,"Accelerating Emissions
+(SSP5-8.5)",51.788,47.012,50.037,Middle Musselshell,tas
+2036,"Moderating Emissions
+(SSP1-2.6)",50.883,48.099,49.556,Middle Musselshell,tas
+2036,"Middle of the Road
+(SSP2-4.5)",50.19,46.904,49.345,Middle Musselshell,tas
+2036,"High Emissions
+(SSP3-7.0)",51.02,46.792,49.163,Middle Musselshell,tas
+2036,"Accelerating Emissions
+(SSP5-8.5)",51.96,46.083,50.564,Middle Musselshell,tas
+2037,"Moderating Emissions
+(SSP1-2.6)",51.509,48.299,49.821,Middle Musselshell,tas
+2037,"Middle of the Road
+(SSP2-4.5)",51.331,45.818,49.166,Middle Musselshell,tas
+2037,"High Emissions
+(SSP3-7.0)",50.254,46.521,48.062,Middle Musselshell,tas
+2037,"Accelerating Emissions
+(SSP5-8.5)",51.59,48.072,49.121,Middle Musselshell,tas
+2038,"Moderating Emissions
+(SSP1-2.6)",52.023,47.936,49.751,Middle Musselshell,tas
+2038,"Middle of the Road
+(SSP2-4.5)",49.986,47.574,48.804,Middle Musselshell,tas
+2038,"High Emissions
+(SSP3-7.0)",50.843,48.162,50.301,Middle Musselshell,tas
+2038,"Accelerating Emissions
+(SSP5-8.5)",52.818,47.325,50.942,Middle Musselshell,tas
+2039,"Moderating Emissions
+(SSP1-2.6)",51.295,47.366,50.191,Middle Musselshell,tas
+2039,"Middle of the Road
+(SSP2-4.5)",50.77,47.41,48.955,Middle Musselshell,tas
+2039,"High Emissions
+(SSP3-7.0)",51.643,48.76,49.905,Middle Musselshell,tas
+2039,"Accelerating Emissions
+(SSP5-8.5)",52.31,46.691,49.554,Middle Musselshell,tas
+2040,"Moderating Emissions
+(SSP1-2.6)",51.235,47.493,49.427,Middle Musselshell,tas
+2040,"Middle of the Road
+(SSP2-4.5)",50.589,48.213,49.765,Middle Musselshell,tas
+2040,"High Emissions
+(SSP3-7.0)",52.021,47.868,49.988,Middle Musselshell,tas
+2040,"Accelerating Emissions
+(SSP5-8.5)",53.986,49.173,50.41,Middle Musselshell,tas
+2041,"Moderating Emissions
+(SSP1-2.6)",50.75,46.581,48.788,Middle Musselshell,tas
+2041,"Middle of the Road
+(SSP2-4.5)",50.523,48.52,49.309,Middle Musselshell,tas
+2041,"High Emissions
+(SSP3-7.0)",51.023,47.208,48.831,Middle Musselshell,tas
+2041,"Accelerating Emissions
+(SSP5-8.5)",50.279,48.22,49.887,Middle Musselshell,tas
+2042,"Moderating Emissions
+(SSP1-2.6)",51.893,48.045,48.957,Middle Musselshell,tas
+2042,"Middle of the Road
+(SSP2-4.5)",50.155,46.217,48.514,Middle Musselshell,tas
+2042,"High Emissions
+(SSP3-7.0)",50.977,48.038,49.072,Middle Musselshell,tas
+2042,"Accelerating Emissions
+(SSP5-8.5)",52.503,48.477,50.361,Middle Musselshell,tas
+2043,"Moderating Emissions
+(SSP1-2.6)",50.634,47.394,49.609,Middle Musselshell,tas
+2043,"Middle of the Road
+(SSP2-4.5)",51.885,47.229,49.624,Middle Musselshell,tas
+2043,"High Emissions
+(SSP3-7.0)",50.834,46.667,49.874,Middle Musselshell,tas
+2043,"Accelerating Emissions
+(SSP5-8.5)",51.655,48.722,50.147,Middle Musselshell,tas
+2044,"Moderating Emissions
+(SSP1-2.6)",51.198,47.912,49.101,Middle Musselshell,tas
+2044,"Middle of the Road
+(SSP2-4.5)",52.62,48.642,50.85,Middle Musselshell,tas
+2044,"High Emissions
+(SSP3-7.0)",51.191,48.742,49.43,Middle Musselshell,tas
+2044,"Accelerating Emissions
+(SSP5-8.5)",53.077,47.679,49.756,Middle Musselshell,tas
+2045,"Moderating Emissions
+(SSP1-2.6)",51.12,47.581,49.722,Middle Musselshell,tas
+2045,"Middle of the Road
+(SSP2-4.5)",52.146,47.619,50.593,Middle Musselshell,tas
+2045,"High Emissions
+(SSP3-7.0)",51.558,47.532,49.531,Middle Musselshell,tas
+2045,"Accelerating Emissions
+(SSP5-8.5)",50.999,47.681,49.807,Middle Musselshell,tas
+2046,"Moderating Emissions
+(SSP1-2.6)",53.678,46.242,50.003,Middle Musselshell,tas
+2046,"Middle of the Road
+(SSP2-4.5)",51.58,47.402,49.622,Middle Musselshell,tas
+2046,"High Emissions
+(SSP3-7.0)",52.147,49.74,50.8,Middle Musselshell,tas
+2046,"Accelerating Emissions
+(SSP5-8.5)",51.963,47.639,49.14,Middle Musselshell,tas
+2047,"Moderating Emissions
+(SSP1-2.6)",51.268,48.262,50.444,Middle Musselshell,tas
+2047,"Middle of the Road
+(SSP2-4.5)",51.442,45.583,49.178,Middle Musselshell,tas
+2047,"High Emissions
+(SSP3-7.0)",50.242,47.851,49.397,Middle Musselshell,tas
+2047,"Accelerating Emissions
+(SSP5-8.5)",53.245,48.615,51.256,Middle Musselshell,tas
+2048,"Moderating Emissions
+(SSP1-2.6)",50.351,48.207,49.257,Middle Musselshell,tas
+2048,"Middle of the Road
+(SSP2-4.5)",52.557,47.638,49.958,Middle Musselshell,tas
+2048,"High Emissions
+(SSP3-7.0)",52.536,47.879,49.719,Middle Musselshell,tas
+2048,"Accelerating Emissions
+(SSP5-8.5)",55.224,48.823,52.113,Middle Musselshell,tas
+2049,"Moderating Emissions
+(SSP1-2.6)",51.131,47.409,48.193,Middle Musselshell,tas
+2049,"Middle of the Road
+(SSP2-4.5)",52.08,49.537,50.43,Middle Musselshell,tas
+2049,"High Emissions
+(SSP3-7.0)",52.882,48.859,50.827,Middle Musselshell,tas
+2049,"Accelerating Emissions
+(SSP5-8.5)",51.546,48.696,50.965,Middle Musselshell,tas
+2050,"Moderating Emissions
+(SSP1-2.6)",50.978,47.301,49.445,Middle Musselshell,tas
+2050,"Middle of the Road
+(SSP2-4.5)",52.827,49.242,49.918,Middle Musselshell,tas
+2050,"High Emissions
+(SSP3-7.0)",53.078,49.251,50.192,Middle Musselshell,tas
+2050,"Accelerating Emissions
+(SSP5-8.5)",52.602,49.493,51.028,Middle Musselshell,tas
+2051,"Moderating Emissions
+(SSP1-2.6)",51.624,46.951,49.751,Middle Musselshell,tas
+2051,"Middle of the Road
+(SSP2-4.5)",52.943,48.809,50.099,Middle Musselshell,tas
+2051,"High Emissions
+(SSP3-7.0)",51.694,49.37,50.514,Middle Musselshell,tas
+2051,"Accelerating Emissions
+(SSP5-8.5)",52.561,49.366,50.997,Middle Musselshell,tas
+2052,"Moderating Emissions
+(SSP1-2.6)",51.397,48.744,49.457,Middle Musselshell,tas
+2052,"Middle of the Road
+(SSP2-4.5)",52.581,48.442,49.239,Middle Musselshell,tas
+2052,"High Emissions
+(SSP3-7.0)",53.729,47.683,49.659,Middle Musselshell,tas
+2052,"Accelerating Emissions
+(SSP5-8.5)",52.035,49.771,51.536,Middle Musselshell,tas
+2053,"Moderating Emissions
+(SSP1-2.6)",51.739,47.634,49.546,Middle Musselshell,tas
+2053,"Middle of the Road
+(SSP2-4.5)",51.712,47.52,50.19,Middle Musselshell,tas
+2053,"High Emissions
+(SSP3-7.0)",53.392,49.502,52.378,Middle Musselshell,tas
+2053,"Accelerating Emissions
+(SSP5-8.5)",54.281,49.439,50.565,Middle Musselshell,tas
+2054,"Moderating Emissions
+(SSP1-2.6)",52.13,48.766,50.088,Middle Musselshell,tas
+2054,"Middle of the Road
+(SSP2-4.5)",51.09,47.763,49.046,Middle Musselshell,tas
+2054,"High Emissions
+(SSP3-7.0)",52.714,48.905,50.016,Middle Musselshell,tas
+2054,"Accelerating Emissions
+(SSP5-8.5)",54.012,49.911,51.57,Middle Musselshell,tas
+2055,"Moderating Emissions
+(SSP1-2.6)",51.411,49.231,50.043,Middle Musselshell,tas
+2055,"Middle of the Road
+(SSP2-4.5)",52.076,47.366,50.409,Middle Musselshell,tas
+2055,"High Emissions
+(SSP3-7.0)",52.949,49.371,50.919,Middle Musselshell,tas
+2055,"Accelerating Emissions
+(SSP5-8.5)",54.623,49.885,52.566,Middle Musselshell,tas
+2056,"Moderating Emissions
+(SSP1-2.6)",51.604,48.764,50.58,Middle Musselshell,tas
+2056,"Middle of the Road
+(SSP2-4.5)",52.792,48.663,50.086,Middle Musselshell,tas
+2056,"High Emissions
+(SSP3-7.0)",53.655,48.466,50.047,Middle Musselshell,tas
+2056,"Accelerating Emissions
+(SSP5-8.5)",53.421,49.689,51.827,Middle Musselshell,tas
+2057,"Moderating Emissions
+(SSP1-2.6)",51.658,47.302,49.764,Middle Musselshell,tas
+2057,"Middle of the Road
+(SSP2-4.5)",53.191,49.504,50.667,Middle Musselshell,tas
+2057,"High Emissions
+(SSP3-7.0)",52.609,49.054,49.909,Middle Musselshell,tas
+2057,"Accelerating Emissions
+(SSP5-8.5)",52.778,48.175,51.255,Middle Musselshell,tas
+2058,"Moderating Emissions
+(SSP1-2.6)",51.604,47.624,49.626,Middle Musselshell,tas
+2058,"Middle of the Road
+(SSP2-4.5)",54.1,49.092,51.477,Middle Musselshell,tas
+2058,"High Emissions
+(SSP3-7.0)",52.507,49.472,50.806,Middle Musselshell,tas
+2058,"Accelerating Emissions
+(SSP5-8.5)",52.967,48.982,50.652,Middle Musselshell,tas
+2059,"Moderating Emissions
+(SSP1-2.6)",52.305,47.915,50.664,Middle Musselshell,tas
+2059,"Middle of the Road
+(SSP2-4.5)",54.597,48.945,51.814,Middle Musselshell,tas
+2059,"High Emissions
+(SSP3-7.0)",54.487,49.846,51.841,Middle Musselshell,tas
+2059,"Accelerating Emissions
+(SSP5-8.5)",54.165,50.981,52.958,Middle Musselshell,tas
+2060,"Moderating Emissions
+(SSP1-2.6)",53.071,47.527,49.567,Middle Musselshell,tas
+2060,"Middle of the Road
+(SSP2-4.5)",52.753,48.501,49.712,Middle Musselshell,tas
+2060,"High Emissions
+(SSP3-7.0)",52.72,49.658,51.218,Middle Musselshell,tas
+2060,"Accelerating Emissions
+(SSP5-8.5)",53.152,50.989,51.873,Middle Musselshell,tas
+2061,"Moderating Emissions
+(SSP1-2.6)",51.307,48.074,49.323,Middle Musselshell,tas
+2061,"Middle of the Road
+(SSP2-4.5)",52.915,48.51,50.73,Middle Musselshell,tas
+2061,"High Emissions
+(SSP3-7.0)",52.249,49.776,51.401,Middle Musselshell,tas
+2061,"Accelerating Emissions
+(SSP5-8.5)",56.305,51.395,52.309,Middle Musselshell,tas
+2062,"Moderating Emissions
+(SSP1-2.6)",51.028,48.673,49.382,Middle Musselshell,tas
+2062,"Middle of the Road
+(SSP2-4.5)",52.323,48.536,49.613,Middle Musselshell,tas
+2062,"High Emissions
+(SSP3-7.0)",52.153,49.761,51.185,Middle Musselshell,tas
+2062,"Accelerating Emissions
+(SSP5-8.5)",54.274,51.141,52.336,Middle Musselshell,tas
+2063,"Moderating Emissions
+(SSP1-2.6)",51.521,47.782,49.663,Middle Musselshell,tas
+2063,"Middle of the Road
+(SSP2-4.5)",52.428,48.926,49.91,Middle Musselshell,tas
+2063,"High Emissions
+(SSP3-7.0)",54.238,49.609,50.938,Middle Musselshell,tas
+2063,"Accelerating Emissions
+(SSP5-8.5)",55.143,49.924,52.18,Middle Musselshell,tas
+2064,"Moderating Emissions
+(SSP1-2.6)",52.132,48.536,50.542,Middle Musselshell,tas
+2064,"Middle of the Road
+(SSP2-4.5)",50.971,48.441,50.095,Middle Musselshell,tas
+2064,"High Emissions
+(SSP3-7.0)",51.848,49.626,50.631,Middle Musselshell,tas
+2064,"Accelerating Emissions
+(SSP5-8.5)",53.982,50.707,51.917,Middle Musselshell,tas
+2065,"Moderating Emissions
+(SSP1-2.6)",52.266,46.981,49.022,Middle Musselshell,tas
+2065,"Middle of the Road
+(SSP2-4.5)",52.857,48.126,49.559,Middle Musselshell,tas
+2065,"High Emissions
+(SSP3-7.0)",54.275,50.587,51.365,Middle Musselshell,tas
+2065,"Accelerating Emissions
+(SSP5-8.5)",56.489,50.485,53.222,Middle Musselshell,tas
+2066,"Moderating Emissions
+(SSP1-2.6)",52.353,47.724,49.723,Middle Musselshell,tas
+2066,"Middle of the Road
+(SSP2-4.5)",53.094,49.68,51.94,Middle Musselshell,tas
+2066,"High Emissions
+(SSP3-7.0)",54.051,50.451,51.138,Middle Musselshell,tas
+2066,"Accelerating Emissions
+(SSP5-8.5)",55.522,50.292,53.379,Middle Musselshell,tas
+2067,"Moderating Emissions
+(SSP1-2.6)",52.346,49.22,50.832,Middle Musselshell,tas
+2067,"Middle of the Road
+(SSP2-4.5)",53.423,49.237,50.313,Middle Musselshell,tas
+2067,"High Emissions
+(SSP3-7.0)",54.507,51.462,52.799,Middle Musselshell,tas
+2067,"Accelerating Emissions
+(SSP5-8.5)",56.235,50.564,52.111,Middle Musselshell,tas
+2068,"Moderating Emissions
+(SSP1-2.6)",51.926,48.353,49.843,Middle Musselshell,tas
+2068,"Middle of the Road
+(SSP2-4.5)",51.974,48.745,51.125,Middle Musselshell,tas
+2068,"High Emissions
+(SSP3-7.0)",53.62,49.548,51.553,Middle Musselshell,tas
+2068,"Accelerating Emissions
+(SSP5-8.5)",54.923,51.848,52.952,Middle Musselshell,tas
+2069,"Moderating Emissions
+(SSP1-2.6)",52.908,48.354,50.201,Middle Musselshell,tas
+2069,"Middle of the Road
+(SSP2-4.5)",51.517,48.42,50.124,Middle Musselshell,tas
+2069,"High Emissions
+(SSP3-7.0)",55.111,51.65,53.162,Middle Musselshell,tas
+2069,"Accelerating Emissions
+(SSP5-8.5)",57.146,51.13,53.568,Middle Musselshell,tas
+2070,"Moderating Emissions
+(SSP1-2.6)",51.249,47.927,50.065,Middle Musselshell,tas
+2070,"Middle of the Road
+(SSP2-4.5)",52.987,48.122,50.041,Middle Musselshell,tas
+2070,"High Emissions
+(SSP3-7.0)",54.763,51.411,52.816,Middle Musselshell,tas
+2070,"Accelerating Emissions
+(SSP5-8.5)",57.923,52.148,53.238,Middle Musselshell,tas
+2071,"Moderating Emissions
+(SSP1-2.6)",54.804,46.934,49.463,Middle Musselshell,tas
+2071,"Middle of the Road
+(SSP2-4.5)",52.983,49.673,50.754,Middle Musselshell,tas
+2071,"High Emissions
+(SSP3-7.0)",54.408,52.042,52.682,Middle Musselshell,tas
+2071,"Accelerating Emissions
+(SSP5-8.5)",56.442,51.454,52.838,Middle Musselshell,tas
+2072,"Moderating Emissions
+(SSP1-2.6)",53.151,48.782,49.699,Middle Musselshell,tas
+2072,"Middle of the Road
+(SSP2-4.5)",53.662,48.228,50.434,Middle Musselshell,tas
+2072,"High Emissions
+(SSP3-7.0)",55.055,50.663,52.635,Middle Musselshell,tas
+2072,"Accelerating Emissions
+(SSP5-8.5)",55.255,51.598,52.956,Middle Musselshell,tas
+2073,"Moderating Emissions
+(SSP1-2.6)",51.408,47.23,49.844,Middle Musselshell,tas
+2073,"Middle of the Road
+(SSP2-4.5)",52.822,48.223,51.185,Middle Musselshell,tas
+2073,"High Emissions
+(SSP3-7.0)",54.43,50.465,52.73,Middle Musselshell,tas
+2073,"Accelerating Emissions
+(SSP5-8.5)",56.03,50.379,53.74,Middle Musselshell,tas
+2074,"Moderating Emissions
+(SSP1-2.6)",53.158,46.999,49.845,Middle Musselshell,tas
+2074,"Middle of the Road
+(SSP2-4.5)",53.295,49.686,51.052,Middle Musselshell,tas
+2074,"High Emissions
+(SSP3-7.0)",54.39,49.845,51.667,Middle Musselshell,tas
+2074,"Accelerating Emissions
+(SSP5-8.5)",56.773,51.815,52.866,Middle Musselshell,tas
+2075,"Moderating Emissions
+(SSP1-2.6)",53.08,46.794,49.395,Middle Musselshell,tas
+2075,"Middle of the Road
+(SSP2-4.5)",53.949,48.621,49.537,Middle Musselshell,tas
+2075,"High Emissions
+(SSP3-7.0)",55.412,49.929,51.072,Middle Musselshell,tas
+2075,"Accelerating Emissions
+(SSP5-8.5)",56.127,51.39,54.589,Middle Musselshell,tas
+2076,"Moderating Emissions
+(SSP1-2.6)",51.853,46.688,48.841,Middle Musselshell,tas
+2076,"Middle of the Road
+(SSP2-4.5)",51.785,49.258,50.407,Middle Musselshell,tas
+2076,"High Emissions
+(SSP3-7.0)",54.774,51.729,52.547,Middle Musselshell,tas
+2076,"Accelerating Emissions
+(SSP5-8.5)",57.088,51.294,53.433,Middle Musselshell,tas
+2077,"Moderating Emissions
+(SSP1-2.6)",52.289,48.715,50.024,Middle Musselshell,tas
+2077,"Middle of the Road
+(SSP2-4.5)",53.681,50.011,51.035,Middle Musselshell,tas
+2077,"High Emissions
+(SSP3-7.0)",55.575,50.677,52.809,Middle Musselshell,tas
+2077,"Accelerating Emissions
+(SSP5-8.5)",57.456,52.239,55.038,Middle Musselshell,tas
+2078,"Moderating Emissions
+(SSP1-2.6)",52.146,48.719,49.7,Middle Musselshell,tas
+2078,"Middle of the Road
+(SSP2-4.5)",53.003,49.953,50.987,Middle Musselshell,tas
+2078,"High Emissions
+(SSP3-7.0)",55.862,50.99,52.621,Middle Musselshell,tas
+2078,"Accelerating Emissions
+(SSP5-8.5)",54.584,52.336,52.597,Middle Musselshell,tas
+2079,"Moderating Emissions
+(SSP1-2.6)",51.631,48.448,49.997,Middle Musselshell,tas
+2079,"Middle of the Road
+(SSP2-4.5)",53.269,49.7,50.644,Middle Musselshell,tas
+2079,"High Emissions
+(SSP3-7.0)",54.822,50.276,53.289,Middle Musselshell,tas
+2079,"Accelerating Emissions
+(SSP5-8.5)",57.212,51.726,54.802,Middle Musselshell,tas
+2080,"Moderating Emissions
+(SSP1-2.6)",51.455,47.851,49.21,Middle Musselshell,tas
+2080,"Middle of the Road
+(SSP2-4.5)",52.604,49.223,51.365,Middle Musselshell,tas
+2080,"High Emissions
+(SSP3-7.0)",55.161,50.927,51.82,Middle Musselshell,tas
+2080,"Accelerating Emissions
+(SSP5-8.5)",56.953,52.953,55.996,Middle Musselshell,tas
+2081,"Moderating Emissions
+(SSP1-2.6)",53.493,47.34,49.465,Middle Musselshell,tas
+2081,"Middle of the Road
+(SSP2-4.5)",53.923,50.09,51.289,Middle Musselshell,tas
+2081,"High Emissions
+(SSP3-7.0)",57.316,50.231,50.995,Middle Musselshell,tas
+2081,"Accelerating Emissions
+(SSP5-8.5)",57.88,53.4,55.886,Middle Musselshell,tas
+2082,"Moderating Emissions
+(SSP1-2.6)",53.134,48.659,50.693,Middle Musselshell,tas
+2082,"Middle of the Road
+(SSP2-4.5)",54.214,49.962,51.225,Middle Musselshell,tas
+2082,"High Emissions
+(SSP3-7.0)",56.118,50.686,51.686,Middle Musselshell,tas
+2082,"Accelerating Emissions
+(SSP5-8.5)",57.822,53.098,56.307,Middle Musselshell,tas
+2083,"Moderating Emissions
+(SSP1-2.6)",52.204,48.874,51.199,Middle Musselshell,tas
+2083,"Middle of the Road
+(SSP2-4.5)",54.502,48.914,50.738,Middle Musselshell,tas
+2083,"High Emissions
+(SSP3-7.0)",55.319,50.266,53.937,Middle Musselshell,tas
+2083,"Accelerating Emissions
+(SSP5-8.5)",58.408,52.93,56.546,Middle Musselshell,tas
+2084,"Moderating Emissions
+(SSP1-2.6)",53.414,47.653,49.176,Middle Musselshell,tas
+2084,"Middle of the Road
+(SSP2-4.5)",55.012,50.618,52.384,Middle Musselshell,tas
+2084,"High Emissions
+(SSP3-7.0)",57.8,51.889,54.815,Middle Musselshell,tas
+2084,"Accelerating Emissions
+(SSP5-8.5)",58.009,53.411,55.509,Middle Musselshell,tas
+2085,"Moderating Emissions
+(SSP1-2.6)",51.225,46.855,49.245,Middle Musselshell,tas
+2085,"Middle of the Road
+(SSP2-4.5)",53.038,49.17,51.662,Middle Musselshell,tas
+2085,"High Emissions
+(SSP3-7.0)",55.381,51.314,53.077,Middle Musselshell,tas
+2085,"Accelerating Emissions
+(SSP5-8.5)",57.74,52.54,56.447,Middle Musselshell,tas
+2086,"Moderating Emissions
+(SSP1-2.6)",53.118,49.241,50.504,Middle Musselshell,tas
+2086,"Middle of the Road
+(SSP2-4.5)",53.204,50.858,51.196,Middle Musselshell,tas
+2086,"High Emissions
+(SSP3-7.0)",56.96,51.421,53.741,Middle Musselshell,tas
+2086,"Accelerating Emissions
+(SSP5-8.5)",57.935,52.648,56.889,Middle Musselshell,tas
+2087,"Moderating Emissions
+(SSP1-2.6)",50.657,47.975,49.757,Middle Musselshell,tas
+2087,"Middle of the Road
+(SSP2-4.5)",54.795,50.301,51.831,Middle Musselshell,tas
+2087,"High Emissions
+(SSP3-7.0)",57.259,51.779,54.495,Middle Musselshell,tas
+2087,"Accelerating Emissions
+(SSP5-8.5)",58.626,53.169,54.783,Middle Musselshell,tas
+2088,"Moderating Emissions
+(SSP1-2.6)",52.388,47.638,48.84,Middle Musselshell,tas
+2088,"Middle of the Road
+(SSP2-4.5)",53.883,50.256,51.8,Middle Musselshell,tas
+2088,"High Emissions
+(SSP3-7.0)",57.632,52.142,52.739,Middle Musselshell,tas
+2088,"Accelerating Emissions
+(SSP5-8.5)",57.663,54.182,55.911,Middle Musselshell,tas
+2089,"Moderating Emissions
+(SSP1-2.6)",50.05,48.199,49.502,Middle Musselshell,tas
+2089,"Middle of the Road
+(SSP2-4.5)",53.796,50.035,50.902,Middle Musselshell,tas
+2089,"High Emissions
+(SSP3-7.0)",56.759,51.491,54.741,Middle Musselshell,tas
+2089,"Accelerating Emissions
+(SSP5-8.5)",58.592,54.575,58.221,Middle Musselshell,tas
+2090,"Moderating Emissions
+(SSP1-2.6)",51.572,48.46,50.186,Middle Musselshell,tas
+2090,"Middle of the Road
+(SSP2-4.5)",53.062,50.147,52.228,Middle Musselshell,tas
+2090,"High Emissions
+(SSP3-7.0)",57.319,52.859,53.994,Middle Musselshell,tas
+2090,"Accelerating Emissions
+(SSP5-8.5)",59.372,55.08,56.513,Middle Musselshell,tas
+2091,"Moderating Emissions
+(SSP1-2.6)",52.037,47.745,50.174,Middle Musselshell,tas
+2091,"Middle of the Road
+(SSP2-4.5)",53.925,50.382,52.237,Middle Musselshell,tas
+2091,"High Emissions
+(SSP3-7.0)",57.241,52.951,54.447,Middle Musselshell,tas
+2091,"Accelerating Emissions
+(SSP5-8.5)",59.533,53.211,55.469,Middle Musselshell,tas
+2092,"Moderating Emissions
+(SSP1-2.6)",53.798,46.946,50.748,Middle Musselshell,tas
+2092,"Middle of the Road
+(SSP2-4.5)",54.659,49.336,52.312,Middle Musselshell,tas
+2092,"High Emissions
+(SSP3-7.0)",56.195,52.034,55.093,Middle Musselshell,tas
+2092,"Accelerating Emissions
+(SSP5-8.5)",59.97,54.2,55.842,Middle Musselshell,tas
+2093,"Moderating Emissions
+(SSP1-2.6)",52.542,47.163,50.852,Middle Musselshell,tas
+2093,"Middle of the Road
+(SSP2-4.5)",54.528,48.352,51.48,Middle Musselshell,tas
+2093,"High Emissions
+(SSP3-7.0)",57.523,52.481,53.556,Middle Musselshell,tas
+2093,"Accelerating Emissions
+(SSP5-8.5)",60.203,54.151,55.892,Middle Musselshell,tas
+2094,"Moderating Emissions
+(SSP1-2.6)",52.813,47.377,48.997,Middle Musselshell,tas
+2094,"Middle of the Road
+(SSP2-4.5)",55.658,48.573,51.365,Middle Musselshell,tas
+2094,"High Emissions
+(SSP3-7.0)",57.978,52.007,54.609,Middle Musselshell,tas
+2094,"Accelerating Emissions
+(SSP5-8.5)",60.537,54.732,57.791,Middle Musselshell,tas
+2095,"Moderating Emissions
+(SSP1-2.6)",51.631,48.278,50.781,Middle Musselshell,tas
+2095,"Middle of the Road
+(SSP2-4.5)",55.387,50.646,52.544,Middle Musselshell,tas
+2095,"High Emissions
+(SSP3-7.0)",59.157,52.074,54.761,Middle Musselshell,tas
+2095,"Accelerating Emissions
+(SSP5-8.5)",58.903,53.83,54.979,Middle Musselshell,tas
+2096,"Moderating Emissions
+(SSP1-2.6)",51.418,48.064,49.93,Middle Musselshell,tas
+2096,"Middle of the Road
+(SSP2-4.5)",54.336,51.529,52.852,Middle Musselshell,tas
+2096,"High Emissions
+(SSP3-7.0)",57.369,53.2,55.738,Middle Musselshell,tas
+2096,"Accelerating Emissions
+(SSP5-8.5)",58.744,53.729,57.437,Middle Musselshell,tas
+2097,"Moderating Emissions
+(SSP1-2.6)",53.105,47.708,48.914,Middle Musselshell,tas
+2097,"Middle of the Road
+(SSP2-4.5)",55.009,51.089,52.569,Middle Musselshell,tas
+2097,"High Emissions
+(SSP3-7.0)",59.412,51.791,55.495,Middle Musselshell,tas
+2097,"Accelerating Emissions
+(SSP5-8.5)",62.851,53.695,56.449,Middle Musselshell,tas
+2098,"Moderating Emissions
+(SSP1-2.6)",51.65,47.04,49.235,Middle Musselshell,tas
+2098,"Middle of the Road
+(SSP2-4.5)",54.134,50.339,51.307,Middle Musselshell,tas
+2098,"High Emissions
+(SSP3-7.0)",58.372,53.019,54.112,Middle Musselshell,tas
+2098,"Accelerating Emissions
+(SSP5-8.5)",59.359,55.024,57.417,Middle Musselshell,tas
+2099,"Moderating Emissions
+(SSP1-2.6)",53.754,46.741,50.246,Middle Musselshell,tas
+2099,"Middle of the Road
+(SSP2-4.5)",53.619,50.011,52.151,Middle Musselshell,tas
+2099,"High Emissions
+(SSP3-7.0)",59.494,52.381,54.156,Middle Musselshell,tas
+2099,"Accelerating Emissions
+(SSP5-8.5)",61.141,54.449,58.779,Middle Musselshell,tas
+2100,"Moderating Emissions
+(SSP1-2.6)",51.896,47.158,48.597,Middle Musselshell,tas
+2100,"Middle of the Road
+(SSP2-4.5)",55.6,50.061,52.439,Middle Musselshell,tas
+2100,"High Emissions
+(SSP3-7.0)",57.752,52.168,55.301,Middle Musselshell,tas
+2100,"Accelerating Emissions
+(SSP5-8.5)",61.216,54.154,56.61,Middle Musselshell,tas

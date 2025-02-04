@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,30.354,28.734,30.006,Beaverhead,tasmin
+1951,Historical Emissions,30.846,28.013,29.523,Beaverhead,tasmin
+1952,Historical Emissions,29.827,26.078,28.752,Beaverhead,tasmin
+1953,Historical Emissions,29.938,27.096,29.06,Beaverhead,tasmin
+1954,Historical Emissions,31.627,27.001,29.077,Beaverhead,tasmin
+1955,Historical Emissions,30.645,27.077,28.991,Beaverhead,tasmin
+1956,Historical Emissions,31.631,27.471,28.923,Beaverhead,tasmin
+1957,Historical Emissions,31.393,27.516,29.741,Beaverhead,tasmin
+1958,Historical Emissions,30.721,27.442,29.956,Beaverhead,tasmin
+1959,Historical Emissions,30.016,27.127,27.862,Beaverhead,tasmin
+1960,Historical Emissions,30.265,27.382,28.89,Beaverhead,tasmin
+1961,Historical Emissions,30.377,27.811,29.486,Beaverhead,tasmin
+1962,Historical Emissions,29.333,26.645,28.06,Beaverhead,tasmin
+1963,Historical Emissions,29.464,27.844,28.462,Beaverhead,tasmin
+1964,Historical Emissions,29.655,27.387,29.047,Beaverhead,tasmin
+1965,Historical Emissions,29.773,27.709,28.907,Beaverhead,tasmin
+1966,Historical Emissions,30.555,28.217,29.653,Beaverhead,tasmin
+1967,Historical Emissions,29.721,26.896,28.656,Beaverhead,tasmin
+1968,Historical Emissions,30.63,25.98,29.213,Beaverhead,tasmin
+1969,Historical Emissions,30.491,27.38,28.622,Beaverhead,tasmin
+1970,Historical Emissions,31.38,29.039,30.345,Beaverhead,tasmin
+1971,Historical Emissions,31.819,27.624,29.74,Beaverhead,tasmin
+1972,Historical Emissions,29.91,28.216,28.566,Beaverhead,tasmin
+1973,Historical Emissions,31.602,27.819,29.298,Beaverhead,tasmin
+1974,Historical Emissions,31.462,27.656,29.372,Beaverhead,tasmin
+1975,Historical Emissions,30.723,27.327,29.553,Beaverhead,tasmin
+1976,Historical Emissions,30.082,26.818,29.23,Beaverhead,tasmin
+1977,Historical Emissions,31.104,29.165,30.465,Beaverhead,tasmin
+1978,Historical Emissions,31.715,27.492,29.013,Beaverhead,tasmin
+1979,Historical Emissions,31.388,29.173,29.711,Beaverhead,tasmin
+1980,Historical Emissions,30.269,28.297,29.661,Beaverhead,tasmin
+1981,Historical Emissions,31.414,28.591,29.842,Beaverhead,tasmin
+1982,Historical Emissions,31.117,28.916,29.918,Beaverhead,tasmin
+1983,Historical Emissions,31.718,28.507,28.93,Beaverhead,tasmin
+1984,Historical Emissions,31.314,29.12,29.592,Beaverhead,tasmin
+1985,Historical Emissions,31.698,28.545,29.636,Beaverhead,tasmin
+1986,Historical Emissions,30.693,27.41,30.038,Beaverhead,tasmin
+1987,Historical Emissions,31.981,27.813,29.33,Beaverhead,tasmin
+1988,Historical Emissions,30.24,28.821,29.903,Beaverhead,tasmin
+1989,Historical Emissions,30.327,28.543,29.286,Beaverhead,tasmin
+1990,Historical Emissions,32.179,28.848,30.466,Beaverhead,tasmin
+1991,Historical Emissions,31.565,28.613,29.155,Beaverhead,tasmin
+1992,Historical Emissions,30.365,27.156,28.312,Beaverhead,tasmin
+1993,Historical Emissions,31.394,27.502,30.008,Beaverhead,tasmin
+1994,Historical Emissions,31.46,28.51,30.264,Beaverhead,tasmin
+1995,Historical Emissions,30.055,28.264,28.808,Beaverhead,tasmin
+1996,Historical Emissions,31.802,29.061,31.156,Beaverhead,tasmin
+1997,Historical Emissions,31.004,28.831,29.653,Beaverhead,tasmin
+1998,Historical Emissions,32.579,27.622,30.066,Beaverhead,tasmin
+1999,Historical Emissions,32.199,27.38,30.424,Beaverhead,tasmin
+2000,Historical Emissions,31.139,29.127,29.764,Beaverhead,tasmin
+2001,Historical Emissions,32.433,29.24,29.839,Beaverhead,tasmin
+2002,Historical Emissions,33.023,29.516,32.254,Beaverhead,tasmin
+2003,Historical Emissions,33.006,30.126,31.224,Beaverhead,tasmin
+2004,Historical Emissions,32.579,29.846,32.016,Beaverhead,tasmin
+2005,Historical Emissions,33.823,30.048,32.106,Beaverhead,tasmin
+2006,Historical Emissions,31.43,29.348,30.414,Beaverhead,tasmin
+2007,Historical Emissions,32.494,28.493,31.964,Beaverhead,tasmin
+2008,Historical Emissions,33.055,29.401,31.213,Beaverhead,tasmin
+2009,Historical Emissions,31.926,30.847,31.356,Beaverhead,tasmin
+2010,Historical Emissions,32.349,30.002,31.296,Beaverhead,tasmin
+2011,Historical Emissions,33.973,30.529,31.408,Beaverhead,tasmin
+2012,Historical Emissions,32.639,29.423,30.981,Beaverhead,tasmin
+2013,Historical Emissions,33.364,29.804,30.954,Beaverhead,tasmin
+2014,Historical Emissions,33.41,29.872,31.684,Beaverhead,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",33.981,30.288,32.762,Beaverhead,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",32.103,29.995,31.615,Beaverhead,tasmin
+2015,"High Emissions
+(SSP3-7.0)",34.192,29.293,30.668,Beaverhead,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",33.148,29.959,31.398,Beaverhead,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",34.606,30.302,32.239,Beaverhead,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",32.57,29.755,31.043,Beaverhead,tasmin
+2016,"High Emissions
+(SSP3-7.0)",34.84,29.931,32.223,Beaverhead,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",32.087,29.854,30.617,Beaverhead,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",32.998,29.97,31.303,Beaverhead,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",33.726,30.887,31.646,Beaverhead,tasmin
+2017,"High Emissions
+(SSP3-7.0)",34.476,30.531,31.493,Beaverhead,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",32.831,30.572,31.469,Beaverhead,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",32.26,30.909,31.324,Beaverhead,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",33.425,30.371,32.438,Beaverhead,tasmin
+2018,"High Emissions
+(SSP3-7.0)",32.706,30.318,31.853,Beaverhead,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",33.777,31.328,32.589,Beaverhead,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",34.81,31.397,33.302,Beaverhead,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",35.222,29.51,31.317,Beaverhead,tasmin
+2019,"High Emissions
+(SSP3-7.0)",33.234,29.785,31.259,Beaverhead,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",33.014,31.302,31.8,Beaverhead,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",33.432,31.028,32.658,Beaverhead,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",32.58,30.49,31.818,Beaverhead,tasmin
+2020,"High Emissions
+(SSP3-7.0)",32.871,31.019,32.407,Beaverhead,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",33.403,30.964,31.643,Beaverhead,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",33.54,29.84,32.264,Beaverhead,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",33.512,30.872,31.434,Beaverhead,tasmin
+2021,"High Emissions
+(SSP3-7.0)",33.094,30.615,32.13,Beaverhead,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",33.794,30.933,32.389,Beaverhead,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",33.029,30.792,31.664,Beaverhead,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",34.68,31.053,32.093,Beaverhead,tasmin
+2022,"High Emissions
+(SSP3-7.0)",34.189,30.657,32.119,Beaverhead,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",33.369,31.554,32.562,Beaverhead,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",33.585,31.593,32.754,Beaverhead,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",33.627,30.858,31.651,Beaverhead,tasmin
+2023,"High Emissions
+(SSP3-7.0)",33.737,30.645,32.381,Beaverhead,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",33.709,30.101,31.006,Beaverhead,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",33.831,30.239,32.745,Beaverhead,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",33.402,30.583,31.254,Beaverhead,tasmin
+2024,"High Emissions
+(SSP3-7.0)",34.826,30.486,31.872,Beaverhead,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",34.798,31.077,32.918,Beaverhead,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",34.008,31.078,32.843,Beaverhead,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",34.871,30.97,32.645,Beaverhead,tasmin
+2025,"High Emissions
+(SSP3-7.0)",34.641,31.513,33.473,Beaverhead,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",35.207,32.157,32.402,Beaverhead,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",33.634,31.781,32.66,Beaverhead,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",34.08,30.325,33.13,Beaverhead,tasmin
+2026,"High Emissions
+(SSP3-7.0)",34.646,31.303,34.101,Beaverhead,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",34.207,31.944,32.815,Beaverhead,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",34.398,30.696,32.996,Beaverhead,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",34.778,30.952,33.273,Beaverhead,tasmin
+2027,"High Emissions
+(SSP3-7.0)",34.506,31.065,32.931,Beaverhead,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",33.857,31.051,32.319,Beaverhead,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",34.251,32.286,33.142,Beaverhead,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",34.025,30.496,32.291,Beaverhead,tasmin
+2028,"High Emissions
+(SSP3-7.0)",33.224,31.744,32.781,Beaverhead,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",35.158,32.148,33.303,Beaverhead,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",35.499,31.884,34.01,Beaverhead,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",33.884,31.677,32.537,Beaverhead,tasmin
+2029,"High Emissions
+(SSP3-7.0)",35.148,30.627,31.727,Beaverhead,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",34.24,31.846,32.731,Beaverhead,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",35.37,31.369,33.292,Beaverhead,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",34.517,30.942,32.432,Beaverhead,tasmin
+2030,"High Emissions
+(SSP3-7.0)",34.379,31.018,33.357,Beaverhead,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",36.094,31.621,32.924,Beaverhead,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",33.564,31.526,32.275,Beaverhead,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",35.632,31.931,34.156,Beaverhead,tasmin
+2031,"High Emissions
+(SSP3-7.0)",35.133,31.047,33.059,Beaverhead,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",34.465,32.21,33.729,Beaverhead,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",33.951,32.342,33.368,Beaverhead,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",33.485,31.086,33.059,Beaverhead,tasmin
+2032,"High Emissions
+(SSP3-7.0)",33.646,30.902,32.308,Beaverhead,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",33.79,31.686,32.385,Beaverhead,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",34.054,31.875,32.78,Beaverhead,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",35.533,32.42,33.797,Beaverhead,tasmin
+2033,"High Emissions
+(SSP3-7.0)",34.578,31.521,33.128,Beaverhead,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",34.549,32.349,33.297,Beaverhead,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",34.208,30.889,32.401,Beaverhead,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",34.811,31.276,32.902,Beaverhead,tasmin
+2034,"High Emissions
+(SSP3-7.0)",34.932,32.332,32.914,Beaverhead,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",33.974,32.159,32.84,Beaverhead,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",33.883,30.736,32.558,Beaverhead,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",34.624,31.513,33.122,Beaverhead,tasmin
+2035,"High Emissions
+(SSP3-7.0)",34.016,32.216,32.824,Beaverhead,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",34.471,31.509,33.192,Beaverhead,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",35.563,32.339,33.784,Beaverhead,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",33.7,31.894,32.925,Beaverhead,tasmin
+2036,"High Emissions
+(SSP3-7.0)",35.128,31.426,33.231,Beaverhead,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",35.939,31.535,34.255,Beaverhead,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",35.116,33.094,34.139,Beaverhead,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",35.228,30.499,32.866,Beaverhead,tasmin
+2037,"High Emissions
+(SSP3-7.0)",34.476,30.701,31.86,Beaverhead,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",35.363,31.875,33.128,Beaverhead,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",34.618,31.737,33.726,Beaverhead,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",33.894,31.092,32.693,Beaverhead,tasmin
+2038,"High Emissions
+(SSP3-7.0)",35.032,32.341,33.141,Beaverhead,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",35.238,32.891,33.988,Beaverhead,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",35.092,31.611,33.027,Beaverhead,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",34.519,32.48,33.15,Beaverhead,tasmin
+2039,"High Emissions
+(SSP3-7.0)",35.722,32.526,33.818,Beaverhead,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",36.006,31.471,33.533,Beaverhead,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",34.161,31.832,33.056,Beaverhead,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",34.929,31.522,33.509,Beaverhead,tasmin
+2040,"High Emissions
+(SSP3-7.0)",35.27,32.806,33.42,Beaverhead,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",36.995,33.264,34.911,Beaverhead,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",35.145,31.278,32.738,Beaverhead,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",34.669,32.229,34.284,Beaverhead,tasmin
+2041,"High Emissions
+(SSP3-7.0)",35.103,32.271,33.504,Beaverhead,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",35.729,32.515,34.899,Beaverhead,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",35.922,32.265,33.894,Beaverhead,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",34.932,30.042,33.234,Beaverhead,tasmin
+2042,"High Emissions
+(SSP3-7.0)",35.019,32.383,33.473,Beaverhead,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",36.064,33.421,34.854,Beaverhead,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",35.779,32.463,33.929,Beaverhead,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",35.583,31.751,33.216,Beaverhead,tasmin
+2043,"High Emissions
+(SSP3-7.0)",34.774,32.691,33.644,Beaverhead,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",35.242,33.763,34.337,Beaverhead,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",35.679,32.712,33.772,Beaverhead,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",36.406,32.5,33.774,Beaverhead,tasmin
+2044,"High Emissions
+(SSP3-7.0)",35.859,32.527,33.696,Beaverhead,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",37.308,33.476,34.441,Beaverhead,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",35.269,32.94,34.252,Beaverhead,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",36.947,32.535,33.588,Beaverhead,tasmin
+2045,"High Emissions
+(SSP3-7.0)",36.319,32.658,34.601,Beaverhead,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",35.712,32.612,34.916,Beaverhead,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",35.512,30.172,32.679,Beaverhead,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",35.478,32.028,34.005,Beaverhead,tasmin
+2046,"High Emissions
+(SSP3-7.0)",35.329,34.418,34.862,Beaverhead,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",36.243,31.759,33.373,Beaverhead,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",35.61,32.713,34.165,Beaverhead,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",35.414,30.456,34.548,Beaverhead,tasmin
+2047,"High Emissions
+(SSP3-7.0)",34.822,32.548,34.312,Beaverhead,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",36.998,32.547,34.466,Beaverhead,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",35.351,31.046,33.774,Beaverhead,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",36.845,32.317,34.96,Beaverhead,tasmin
+2048,"High Emissions
+(SSP3-7.0)",35.638,32.627,35.234,Beaverhead,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",37.253,34.099,35.607,Beaverhead,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",35.254,30.931,32.305,Beaverhead,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",36.202,32.777,34.324,Beaverhead,tasmin
+2049,"High Emissions
+(SSP3-7.0)",36.176,32.603,34.905,Beaverhead,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",36.79,32.924,34.73,Beaverhead,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",35.111,30.391,34.172,Beaverhead,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",35.925,32.548,34.74,Beaverhead,tasmin
+2050,"High Emissions
+(SSP3-7.0)",36.787,33.365,34.882,Beaverhead,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",36.486,33.793,35.638,Beaverhead,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",35.44,32.511,34.082,Beaverhead,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",35.438,33.25,34.442,Beaverhead,tasmin
+2051,"High Emissions
+(SSP3-7.0)",36.695,34.108,35.675,Beaverhead,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",36.442,32.677,34.572,Beaverhead,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",35.448,32.471,34.725,Beaverhead,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",35.043,32.728,33.888,Beaverhead,tasmin
+2052,"High Emissions
+(SSP3-7.0)",36.309,33.41,34.411,Beaverhead,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",36.301,33.862,34.364,Beaverhead,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",35.21,31.213,33.216,Beaverhead,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",35.386,32.4,34.367,Beaverhead,tasmin
+2053,"High Emissions
+(SSP3-7.0)",36.871,33.526,35.708,Beaverhead,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",37.662,33.685,34.741,Beaverhead,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",34.491,33.047,33.876,Beaverhead,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",36.71,33.368,34.093,Beaverhead,tasmin
+2054,"High Emissions
+(SSP3-7.0)",36.037,33.762,34.364,Beaverhead,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",37.792,34.038,35.279,Beaverhead,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",35.623,32.742,33.958,Beaverhead,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",35.664,32.043,33.446,Beaverhead,tasmin
+2055,"High Emissions
+(SSP3-7.0)",36.439,34.169,35.124,Beaverhead,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",37.282,34.525,35.884,Beaverhead,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",34.912,32.83,33.445,Beaverhead,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",37.079,32.786,33.704,Beaverhead,tasmin
+2056,"High Emissions
+(SSP3-7.0)",37.138,33.658,35.349,Beaverhead,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",37.991,34.19,37.45,Beaverhead,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",35.063,31.773,33.405,Beaverhead,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",35.7,33.001,34.375,Beaverhead,tasmin
+2057,"High Emissions
+(SSP3-7.0)",36.995,32.853,35.321,Beaverhead,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",38.914,34.241,36.413,Beaverhead,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",35.906,31.153,33.281,Beaverhead,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",36.785,33.137,34.998,Beaverhead,tasmin
+2058,"High Emissions
+(SSP3-7.0)",36.182,33.521,35.728,Beaverhead,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",37.005,33.716,35.8,Beaverhead,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",35.37,31.96,33.093,Beaverhead,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",36.663,34.255,35.526,Beaverhead,tasmin
+2059,"High Emissions
+(SSP3-7.0)",37.266,32.757,35.79,Beaverhead,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",38.553,34.981,36.922,Beaverhead,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",35.596,31.84,34.026,Beaverhead,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",37.209,33.253,34.078,Beaverhead,tasmin
+2060,"High Emissions
+(SSP3-7.0)",37.488,34.773,35.354,Beaverhead,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",38.763,34.854,36.705,Beaverhead,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",34.684,32.136,33.719,Beaverhead,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",36.94,32.683,33.715,Beaverhead,tasmin
+2061,"High Emissions
+(SSP3-7.0)",36.839,34.409,35.502,Beaverhead,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",38.443,35.095,36.536,Beaverhead,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",34.584,32.766,34.13,Beaverhead,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",37.312,31.674,33.861,Beaverhead,tasmin
+2062,"High Emissions
+(SSP3-7.0)",37.394,32.584,35.819,Beaverhead,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",39.209,35.486,36.488,Beaverhead,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",34.493,30.885,32.744,Beaverhead,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",36.214,33.48,34.368,Beaverhead,tasmin
+2063,"High Emissions
+(SSP3-7.0)",36.92,33.268,35.581,Beaverhead,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",38.767,35.195,37.462,Beaverhead,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",36.837,32.525,35.857,Beaverhead,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",35.171,33.248,34.628,Beaverhead,tasmin
+2064,"High Emissions
+(SSP3-7.0)",36.7,34.83,35.508,Beaverhead,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",37.527,34.858,36.023,Beaverhead,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",36.442,31.227,33.621,Beaverhead,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",37.382,31.766,34.754,Beaverhead,tasmin
+2065,"High Emissions
+(SSP3-7.0)",37.506,32.84,35.583,Beaverhead,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",38.928,35.468,37.312,Beaverhead,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",36.096,32.152,34.29,Beaverhead,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",37.274,34.018,35.325,Beaverhead,tasmin
+2066,"High Emissions
+(SSP3-7.0)",38.142,32.965,34.739,Beaverhead,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",39.023,35.52,36.345,Beaverhead,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",36.544,33.169,34.364,Beaverhead,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",36.307,33.39,34.094,Beaverhead,tasmin
+2067,"High Emissions
+(SSP3-7.0)",37.742,33.463,36.097,Beaverhead,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",38.828,35.425,36.828,Beaverhead,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",36.132,32.685,33.834,Beaverhead,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",36.451,33.107,34.571,Beaverhead,tasmin
+2068,"High Emissions
+(SSP3-7.0)",38.077,34.708,35.708,Beaverhead,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",39.224,35.967,36.665,Beaverhead,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",35.657,32.195,34.775,Beaverhead,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",35.837,33.439,34.603,Beaverhead,tasmin
+2069,"High Emissions
+(SSP3-7.0)",38.609,34.823,36.764,Beaverhead,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",41.271,35.762,36.92,Beaverhead,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",35.423,33.295,34.101,Beaverhead,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",36.896,32.481,35.757,Beaverhead,tasmin
+2070,"High Emissions
+(SSP3-7.0)",38.439,35.259,36.56,Beaverhead,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",40.105,36.3,38.076,Beaverhead,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",35.272,31.443,34.389,Beaverhead,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",36.004,33.203,34.95,Beaverhead,tasmin
+2071,"High Emissions
+(SSP3-7.0)",38.288,35.795,37.371,Beaverhead,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",39.735,35.233,37.123,Beaverhead,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",35.868,32.239,33.711,Beaverhead,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",38.23,33.435,34.604,Beaverhead,tasmin
+2072,"High Emissions
+(SSP3-7.0)",38.186,35.16,36.256,Beaverhead,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",39.211,35.93,37.032,Beaverhead,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",35.631,31.724,33.514,Beaverhead,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",37.189,33.014,35.195,Beaverhead,tasmin
+2073,"High Emissions
+(SSP3-7.0)",39.548,35.601,37.19,Beaverhead,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",40.113,35.746,38.406,Beaverhead,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",37.26,31.692,34.549,Beaverhead,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",37.224,33.029,36.418,Beaverhead,tasmin
+2074,"High Emissions
+(SSP3-7.0)",38.08,34.228,36.347,Beaverhead,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",41.147,34.945,37.865,Beaverhead,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",34.594,31.247,33.24,Beaverhead,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",37.303,33.119,34.318,Beaverhead,tasmin
+2075,"High Emissions
+(SSP3-7.0)",37.792,34.789,36.364,Beaverhead,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",40.043,35.686,37.985,Beaverhead,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",34.839,30.968,33.549,Beaverhead,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",36.082,33.616,34.689,Beaverhead,tasmin
+2076,"High Emissions
+(SSP3-7.0)",38.46,36.224,37.322,Beaverhead,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",39.291,35.537,37.296,Beaverhead,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",36.085,31.332,34.467,Beaverhead,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",37.554,33.204,36.398,Beaverhead,tasmin
+2077,"High Emissions
+(SSP3-7.0)",39.843,34.976,37.542,Beaverhead,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",39.634,36.45,38.526,Beaverhead,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",35.286,32.263,34.151,Beaverhead,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",36.939,34.514,36.053,Beaverhead,tasmin
+2078,"High Emissions
+(SSP3-7.0)",38.514,35.812,36.864,Beaverhead,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",39.781,36.895,38.289,Beaverhead,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",35.551,31.757,33.402,Beaverhead,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",37.106,34.185,35.436,Beaverhead,tasmin
+2079,"High Emissions
+(SSP3-7.0)",39.248,36.296,37.084,Beaverhead,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",40.301,36.595,38.75,Beaverhead,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",33.449,31.833,32.834,Beaverhead,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",38.329,33.861,35.19,Beaverhead,tasmin
+2080,"High Emissions
+(SSP3-7.0)",40.016,36.739,37.022,Beaverhead,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",41.042,37.835,39.174,Beaverhead,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",36.324,31.655,33.448,Beaverhead,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",37.741,33.846,35.616,Beaverhead,tasmin
+2081,"High Emissions
+(SSP3-7.0)",39.561,35.482,37.622,Beaverhead,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",42.513,37.779,39.99,Beaverhead,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",35.703,32.519,33.827,Beaverhead,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",37.405,34.697,35.777,Beaverhead,tasmin
+2082,"High Emissions
+(SSP3-7.0)",41.253,34.816,36.116,Beaverhead,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",42.23,36.683,39.115,Beaverhead,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",36.291,32.003,33.587,Beaverhead,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",37.167,33.42,35.55,Beaverhead,tasmin
+2083,"High Emissions
+(SSP3-7.0)",39.194,34.666,38.624,Beaverhead,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",41.613,37.62,39.857,Beaverhead,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",35.613,32.156,33.453,Beaverhead,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",37.365,33.201,35.799,Beaverhead,tasmin
+2084,"High Emissions
+(SSP3-7.0)",40.733,35.98,38.713,Beaverhead,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",41.551,37.76,40.112,Beaverhead,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",36.08,31.365,33.628,Beaverhead,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",37.035,34.231,36.073,Beaverhead,tasmin
+2085,"High Emissions
+(SSP3-7.0)",38.692,36.796,37.274,Beaverhead,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",42.341,38.512,40.708,Beaverhead,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",36.564,32.671,35.307,Beaverhead,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",38.265,34.527,37.128,Beaverhead,tasmin
+2086,"High Emissions
+(SSP3-7.0)",39.79,35.635,37.505,Beaverhead,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",43.321,38.6,41.173,Beaverhead,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",34.033,31.325,32.913,Beaverhead,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",37.848,35.411,35.946,Beaverhead,tasmin
+2087,"High Emissions
+(SSP3-7.0)",39.698,36.898,37.947,Beaverhead,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",41.624,38.499,39.928,Beaverhead,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",36.548,31.959,34.05,Beaverhead,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",37.432,34.189,35.267,Beaverhead,tasmin
+2088,"High Emissions
+(SSP3-7.0)",40.346,36.264,39.097,Beaverhead,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",41.391,38.73,40.199,Beaverhead,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",35.375,32.78,33.603,Beaverhead,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",38.144,34.541,36.903,Beaverhead,tasmin
+2089,"High Emissions
+(SSP3-7.0)",39.85,35.914,37.625,Beaverhead,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",43.297,39.621,40.861,Beaverhead,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",35.839,32.796,33.99,Beaverhead,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",37.43,34.141,36.31,Beaverhead,tasmin
+2090,"High Emissions
+(SSP3-7.0)",39.655,36.859,37.997,Beaverhead,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",43.65,39.612,40.693,Beaverhead,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",35.71,31.777,34.045,Beaverhead,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",37.676,33.389,36.288,Beaverhead,tasmin
+2091,"High Emissions
+(SSP3-7.0)",40.526,36.895,39.032,Beaverhead,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",41.522,37.987,40.292,Beaverhead,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",35.814,31.732,34.983,Beaverhead,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",39.602,34.674,37.263,Beaverhead,tasmin
+2092,"High Emissions
+(SSP3-7.0)",41.19,36.422,38.78,Beaverhead,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",41.801,37.69,40.13,Beaverhead,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",35.77,31.806,33.264,Beaverhead,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",38.124,33.491,35.575,Beaverhead,tasmin
+2093,"High Emissions
+(SSP3-7.0)",41.277,36.511,38.724,Beaverhead,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",43.808,38.813,40.126,Beaverhead,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",36.401,31.278,34.177,Beaverhead,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",37.847,34.302,35.508,Beaverhead,tasmin
+2094,"High Emissions
+(SSP3-7.0)",40.984,37.138,39.66,Beaverhead,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",43.569,39.29,42.763,Beaverhead,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",36.073,32.821,34.638,Beaverhead,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",38.566,34.26,37.082,Beaverhead,tasmin
+2095,"High Emissions
+(SSP3-7.0)",41.418,37.067,40.593,Beaverhead,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",42.542,38.848,40.082,Beaverhead,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",34.108,31.941,33.127,Beaverhead,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",38.765,35.52,36.106,Beaverhead,tasmin
+2096,"High Emissions
+(SSP3-7.0)",41.067,37.85,39.729,Beaverhead,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",43.817,38.105,41.391,Beaverhead,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",34.857,31.05,32.616,Beaverhead,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",39.33,35.554,36.45,Beaverhead,tasmin
+2097,"High Emissions
+(SSP3-7.0)",42.029,36.273,40.586,Beaverhead,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",46.092,37.95,41.727,Beaverhead,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",34.743,31.779,33.188,Beaverhead,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",37.684,34.35,35.593,Beaverhead,tasmin
+2098,"High Emissions
+(SSP3-7.0)",41.653,37.722,39.523,Beaverhead,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",43.646,38.29,41.19,Beaverhead,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",35.619,32.448,34.116,Beaverhead,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",37.506,34.342,36.063,Beaverhead,tasmin
+2099,"High Emissions
+(SSP3-7.0)",42.437,37.612,38.782,Beaverhead,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",44.713,37.662,43.31,Beaverhead,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",36.023,30.566,33.014,Beaverhead,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",39.356,34.845,36.59,Beaverhead,tasmin
+2100,"High Emissions
+(SSP3-7.0)",41.769,37.849,38.968,Beaverhead,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",42.868,39.663,41.878,Beaverhead,tasmin

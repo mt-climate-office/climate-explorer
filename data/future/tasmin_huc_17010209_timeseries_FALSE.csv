@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,27.447,26.187,26.746,South Fork Flathead,tasmin
+1951,Historical Emissions,28.1,25.254,27.074,South Fork Flathead,tasmin
+1952,Historical Emissions,27.825,23.633,26.498,South Fork Flathead,tasmin
+1953,Historical Emissions,27.181,24.283,26.237,South Fork Flathead,tasmin
+1954,Historical Emissions,29.044,24.88,25.585,South Fork Flathead,tasmin
+1955,Historical Emissions,27.968,25.27,27.07,South Fork Flathead,tasmin
+1956,Historical Emissions,27.539,25.54,27.095,South Fork Flathead,tasmin
+1957,Historical Emissions,28.42,25.658,27.757,South Fork Flathead,tasmin
+1958,Historical Emissions,28.054,25.85,27.029,South Fork Flathead,tasmin
+1959,Historical Emissions,27.151,24.79,25.501,South Fork Flathead,tasmin
+1960,Historical Emissions,27.787,23.442,25.493,South Fork Flathead,tasmin
+1961,Historical Emissions,27.731,25.653,26.836,South Fork Flathead,tasmin
+1962,Historical Emissions,27.076,24.442,25.424,South Fork Flathead,tasmin
+1963,Historical Emissions,27.207,25.629,25.976,South Fork Flathead,tasmin
+1964,Historical Emissions,27.678,25.186,26.437,South Fork Flathead,tasmin
+1965,Historical Emissions,27.274,25.121,26.826,South Fork Flathead,tasmin
+1966,Historical Emissions,28.176,26.3,26.681,South Fork Flathead,tasmin
+1967,Historical Emissions,27.41,24.713,26.535,South Fork Flathead,tasmin
+1968,Historical Emissions,27.626,23.4,26.246,South Fork Flathead,tasmin
+1969,Historical Emissions,27.513,24.973,26.523,South Fork Flathead,tasmin
+1970,Historical Emissions,28.625,26.953,27.225,South Fork Flathead,tasmin
+1971,Historical Emissions,29.461,25.651,28.018,South Fork Flathead,tasmin
+1972,Historical Emissions,27.894,25.174,26.328,South Fork Flathead,tasmin
+1973,Historical Emissions,28.177,25.503,26.311,South Fork Flathead,tasmin
+1974,Historical Emissions,28.536,24.283,27.139,South Fork Flathead,tasmin
+1975,Historical Emissions,28.017,24.61,27.323,South Fork Flathead,tasmin
+1976,Historical Emissions,27.753,24.595,27.089,South Fork Flathead,tasmin
+1977,Historical Emissions,29.323,26.889,27.755,South Fork Flathead,tasmin
+1978,Historical Emissions,29.979,25.186,26.871,South Fork Flathead,tasmin
+1979,Historical Emissions,28.857,25.992,27.582,South Fork Flathead,tasmin
+1980,Historical Emissions,27.311,25.918,26.919,South Fork Flathead,tasmin
+1981,Historical Emissions,29.187,26.773,27.421,South Fork Flathead,tasmin
+1982,Historical Emissions,29.105,25.415,27.514,South Fork Flathead,tasmin
+1983,Historical Emissions,28.702,25.545,26.259,South Fork Flathead,tasmin
+1984,Historical Emissions,28.287,26.665,27.439,South Fork Flathead,tasmin
+1985,Historical Emissions,27.989,25.92,27.002,South Fork Flathead,tasmin
+1986,Historical Emissions,28.275,25.211,26.657,South Fork Flathead,tasmin
+1987,Historical Emissions,28.599,24.72,26.701,South Fork Flathead,tasmin
+1988,Historical Emissions,27.968,25.956,26.8,South Fork Flathead,tasmin
+1989,Historical Emissions,27.956,26.213,26.793,South Fork Flathead,tasmin
+1990,Historical Emissions,29.407,26.015,28.835,South Fork Flathead,tasmin
+1991,Historical Emissions,28.51,25.041,26.949,South Fork Flathead,tasmin
+1992,Historical Emissions,28.106,25.33,25.805,South Fork Flathead,tasmin
+1993,Historical Emissions,29.201,25,27.252,South Fork Flathead,tasmin
+1994,Historical Emissions,28.843,26.475,27.404,South Fork Flathead,tasmin
+1995,Historical Emissions,27.752,25.489,26.455,South Fork Flathead,tasmin
+1996,Historical Emissions,28.638,25.624,28.172,South Fork Flathead,tasmin
+1997,Historical Emissions,28.128,25.786,27.219,South Fork Flathead,tasmin
+1998,Historical Emissions,29.474,24.781,28.057,South Fork Flathead,tasmin
+1999,Historical Emissions,29.549,25.831,27.732,South Fork Flathead,tasmin
+2000,Historical Emissions,28.612,26.025,27.408,South Fork Flathead,tasmin
+2001,Historical Emissions,29.383,26.392,27.83,South Fork Flathead,tasmin
+2002,Historical Emissions,30.565,26.921,28.536,South Fork Flathead,tasmin
+2003,Historical Emissions,30.104,27.489,28.149,South Fork Flathead,tasmin
+2004,Historical Emissions,29.757,27.215,28.661,South Fork Flathead,tasmin
+2005,Historical Emissions,31.351,26.781,29.432,South Fork Flathead,tasmin
+2006,Historical Emissions,28.963,25.843,27.262,South Fork Flathead,tasmin
+2007,Historical Emissions,29.977,26.593,29.021,South Fork Flathead,tasmin
+2008,Historical Emissions,30.234,26.787,28.519,South Fork Flathead,tasmin
+2009,Historical Emissions,29.246,27.935,28.429,South Fork Flathead,tasmin
+2010,Historical Emissions,29.534,27.384,28.997,South Fork Flathead,tasmin
+2011,Historical Emissions,31.004,28.343,28.523,South Fork Flathead,tasmin
+2012,Historical Emissions,29.33,26.344,28.43,South Fork Flathead,tasmin
+2013,Historical Emissions,30.63,26.135,28.152,South Fork Flathead,tasmin
+2014,Historical Emissions,30.23,27.682,29.237,South Fork Flathead,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",31.142,27.612,29.45,South Fork Flathead,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",30.242,26.881,28.769,South Fork Flathead,tasmin
+2015,"High Emissions
+(SSP3-7.0)",30.384,26.532,28.407,South Fork Flathead,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",29.759,27.446,29.138,South Fork Flathead,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",30.456,27.641,29.82,South Fork Flathead,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",29.882,26.872,28.399,South Fork Flathead,tasmin
+2016,"High Emissions
+(SSP3-7.0)",31.986,27.177,29.283,South Fork Flathead,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",29.442,27.831,28.751,South Fork Flathead,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",30.338,27.651,28.505,South Fork Flathead,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",31.251,27.834,28.43,South Fork Flathead,tasmin
+2017,"High Emissions
+(SSP3-7.0)",31.519,28.267,28.7,South Fork Flathead,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",30.293,27.93,29.282,South Fork Flathead,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",29.878,27.752,28.688,South Fork Flathead,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",31.094,27.721,29.228,South Fork Flathead,tasmin
+2018,"High Emissions
+(SSP3-7.0)",31.676,27.629,29.095,South Fork Flathead,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",31.444,28.164,29.591,South Fork Flathead,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",31.588,28.62,30.843,South Fork Flathead,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",31.179,26.511,28.102,South Fork Flathead,tasmin
+2019,"High Emissions
+(SSP3-7.0)",30.471,27.126,28.838,South Fork Flathead,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",31.228,28.734,29.222,South Fork Flathead,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",31.176,28.022,30.236,South Fork Flathead,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",30.754,27.341,28.872,South Fork Flathead,tasmin
+2020,"High Emissions
+(SSP3-7.0)",30.707,27.629,29.518,South Fork Flathead,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",30.882,28.272,29.204,South Fork Flathead,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",31.266,27.13,29.645,South Fork Flathead,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",30.553,28.25,29.374,South Fork Flathead,tasmin
+2021,"High Emissions
+(SSP3-7.0)",30.714,27.866,29.591,South Fork Flathead,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",31.442,27.497,30.395,South Fork Flathead,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",30.851,27.779,29.079,South Fork Flathead,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",31.265,28.451,29.689,South Fork Flathead,tasmin
+2022,"High Emissions
+(SSP3-7.0)",31.32,28.701,29.601,South Fork Flathead,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",30.82,28.346,30.091,South Fork Flathead,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",30.691,29.196,29.751,South Fork Flathead,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",31.076,29.064,29.498,South Fork Flathead,tasmin
+2023,"High Emissions
+(SSP3-7.0)",31.454,28.237,30.144,South Fork Flathead,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",30.669,27.424,28.493,South Fork Flathead,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",31.323,27.671,29.773,South Fork Flathead,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",30.467,28.432,28.962,South Fork Flathead,tasmin
+2024,"High Emissions
+(SSP3-7.0)",32.739,27.317,29.758,South Fork Flathead,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",32.471,27.766,29.581,South Fork Flathead,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",31.384,28.698,30.104,South Fork Flathead,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",32.306,28.229,29.494,South Fork Flathead,tasmin
+2025,"High Emissions
+(SSP3-7.0)",31.888,28.803,30.262,South Fork Flathead,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",32.798,29.179,29.834,South Fork Flathead,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",31.517,28.478,29.742,South Fork Flathead,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",30.557,28.018,29.988,South Fork Flathead,tasmin
+2026,"High Emissions
+(SSP3-7.0)",32.089,27.162,30.305,South Fork Flathead,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",32.101,28.834,30.083,South Fork Flathead,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",32.382,28.05,29.738,South Fork Flathead,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",31.717,28.013,30.452,South Fork Flathead,tasmin
+2027,"High Emissions
+(SSP3-7.0)",31.604,29.133,29.929,South Fork Flathead,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",30.858,28.891,29.757,South Fork Flathead,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",32.402,28.57,30.511,South Fork Flathead,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",32.463,26.829,30.299,South Fork Flathead,tasmin
+2028,"High Emissions
+(SSP3-7.0)",30.542,29.442,29.796,South Fork Flathead,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",31.888,29.576,30.546,South Fork Flathead,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",32.812,29.304,31.092,South Fork Flathead,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",31.837,28.468,30.206,South Fork Flathead,tasmin
+2029,"High Emissions
+(SSP3-7.0)",31.392,27.651,30.128,South Fork Flathead,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",31.139,28.476,30.507,South Fork Flathead,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",32.805,28.681,29.686,South Fork Flathead,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",31.884,29.086,30.063,South Fork Flathead,tasmin
+2030,"High Emissions
+(SSP3-7.0)",31.193,28.056,30.392,South Fork Flathead,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",32.807,29.158,30.092,South Fork Flathead,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",30.561,28.682,29.886,South Fork Flathead,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",33.087,29.071,30.81,South Fork Flathead,tasmin
+2031,"High Emissions
+(SSP3-7.0)",32.518,28.892,30.778,South Fork Flathead,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",32.123,30.147,30.665,South Fork Flathead,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",31.219,28.666,29.832,South Fork Flathead,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",30.88,27.839,29.779,South Fork Flathead,tasmin
+2032,"High Emissions
+(SSP3-7.0)",31.278,28.47,29.64,South Fork Flathead,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",32.23,28.648,29.614,South Fork Flathead,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",31.702,29.189,30.131,South Fork Flathead,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",31.831,28.254,31.009,South Fork Flathead,tasmin
+2033,"High Emissions
+(SSP3-7.0)",32.203,28.856,30.221,South Fork Flathead,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",31.614,29.032,30.79,South Fork Flathead,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",31.615,28.378,30.173,South Fork Flathead,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",32.452,29.622,30.349,South Fork Flathead,tasmin
+2034,"High Emissions
+(SSP3-7.0)",31.798,29.517,30.944,South Fork Flathead,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",32.197,28.21,30.792,South Fork Flathead,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",31.66,27.88,29.892,South Fork Flathead,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",31.698,28.685,30.471,South Fork Flathead,tasmin
+2035,"High Emissions
+(SSP3-7.0)",31.835,29.229,30.478,South Fork Flathead,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",32.501,28.415,30.718,South Fork Flathead,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",32.284,30.124,30.826,South Fork Flathead,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",31.087,29.015,30.005,South Fork Flathead,tasmin
+2036,"High Emissions
+(SSP3-7.0)",32.833,28.921,29.864,South Fork Flathead,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",33.027,29.473,32.126,South Fork Flathead,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",32.844,30.289,31.829,South Fork Flathead,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",32.787,27.526,30.282,South Fork Flathead,tasmin
+2037,"High Emissions
+(SSP3-7.0)",31.94,28.317,30.591,South Fork Flathead,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",32.197,29.662,31.376,South Fork Flathead,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",32.875,29.751,31.731,South Fork Flathead,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",31.475,28.971,30.778,South Fork Flathead,tasmin
+2038,"High Emissions
+(SSP3-7.0)",32.65,29.245,31.227,South Fork Flathead,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",32.897,29.667,31.509,South Fork Flathead,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",33.058,29.761,30.53,South Fork Flathead,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",31.954,29.486,30.567,South Fork Flathead,tasmin
+2039,"High Emissions
+(SSP3-7.0)",32.819,30.577,31.444,South Fork Flathead,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",34.539,28.86,31.919,South Fork Flathead,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",31.671,29.042,30.919,South Fork Flathead,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",31.374,29.606,30.701,South Fork Flathead,tasmin
+2040,"High Emissions
+(SSP3-7.0)",32.616,29.808,31.471,South Fork Flathead,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",34.27,30.693,32.127,South Fork Flathead,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",32.352,28.475,30.034,South Fork Flathead,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",31.799,29.824,30.966,South Fork Flathead,tasmin
+2041,"High Emissions
+(SSP3-7.0)",32.31,29.129,30.377,South Fork Flathead,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",32.833,30.249,31.413,South Fork Flathead,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",32.859,30.288,31.009,South Fork Flathead,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",31.997,27.409,29.739,South Fork Flathead,tasmin
+2042,"High Emissions
+(SSP3-7.0)",32.385,29.359,31.518,South Fork Flathead,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",32.828,30.379,31.954,South Fork Flathead,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",32.49,29.447,30.903,South Fork Flathead,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",32.66,28.822,30.36,South Fork Flathead,tasmin
+2043,"High Emissions
+(SSP3-7.0)",31.966,29.54,31.004,South Fork Flathead,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",32.71,30.942,31.748,South Fork Flathead,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",32.617,29.631,31.121,South Fork Flathead,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",33.443,29.621,31.343,South Fork Flathead,tasmin
+2044,"High Emissions
+(SSP3-7.0)",32.883,29.567,31.259,South Fork Flathead,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",34.678,30.164,30.985,South Fork Flathead,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",32.385,30.051,31.546,South Fork Flathead,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",34.467,28.859,31.663,South Fork Flathead,tasmin
+2045,"High Emissions
+(SSP3-7.0)",33.491,29.52,31.226,South Fork Flathead,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",32.715,30.178,31.412,South Fork Flathead,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",33.614,27.696,31.409,South Fork Flathead,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",32.873,29.489,30.314,South Fork Flathead,tasmin
+2046,"High Emissions
+(SSP3-7.0)",32.886,30.854,32.031,South Fork Flathead,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",34.004,28.987,31.489,South Fork Flathead,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",32.602,29.538,30.915,South Fork Flathead,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",32.517,27.31,32.072,South Fork Flathead,tasmin
+2047,"High Emissions
+(SSP3-7.0)",32.622,28.735,30.551,South Fork Flathead,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",33.827,30.257,32.07,South Fork Flathead,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",32.451,29.629,30.593,South Fork Flathead,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",33.888,28.715,31.882,South Fork Flathead,tasmin
+2048,"High Emissions
+(SSP3-7.0)",33.647,29.633,32.265,South Fork Flathead,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",34.054,31.343,32.795,South Fork Flathead,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",32.908,28.359,30.429,South Fork Flathead,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",33.645,30.393,30.844,South Fork Flathead,tasmin
+2049,"High Emissions
+(SSP3-7.0)",33.476,30.591,32.892,South Fork Flathead,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",33.437,31.116,32.195,South Fork Flathead,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",32.46,27.958,32.101,South Fork Flathead,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",33.79,29.522,32.105,South Fork Flathead,tasmin
+2050,"High Emissions
+(SSP3-7.0)",34.107,30.724,31.894,South Fork Flathead,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",33.695,31.284,32.593,South Fork Flathead,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",33.351,28.984,31.889,South Fork Flathead,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",33.011,30.433,32.019,South Fork Flathead,tasmin
+2051,"High Emissions
+(SSP3-7.0)",33.519,30.721,32.489,South Fork Flathead,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",33.688,30.642,31.93,South Fork Flathead,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",32.541,30.829,31.94,South Fork Flathead,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",32.624,30.176,31.692,South Fork Flathead,tasmin
+2052,"High Emissions
+(SSP3-7.0)",33.051,30.236,31.515,South Fork Flathead,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",33.346,31.536,32.138,South Fork Flathead,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",32.372,28.879,30.563,South Fork Flathead,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",32.388,30.305,31.446,South Fork Flathead,tasmin
+2053,"High Emissions
+(SSP3-7.0)",34.819,31.155,32.967,South Fork Flathead,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",34.495,30.967,32.248,South Fork Flathead,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",32.507,30.402,31.587,South Fork Flathead,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",32.767,29.798,30.933,South Fork Flathead,tasmin
+2054,"High Emissions
+(SSP3-7.0)",33.631,30.452,32.118,South Fork Flathead,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",34.993,31.877,32.477,South Fork Flathead,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",33.243,29.68,31.094,South Fork Flathead,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",32.245,29.718,31.325,South Fork Flathead,tasmin
+2055,"High Emissions
+(SSP3-7.0)",33.542,30.32,32.405,South Fork Flathead,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",34.108,31.999,33.651,South Fork Flathead,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",32.944,30.076,31.769,South Fork Flathead,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",34.05,30.149,31.083,South Fork Flathead,tasmin
+2056,"High Emissions
+(SSP3-7.0)",34.876,30.273,32.396,South Fork Flathead,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",35.46,32.361,33.507,South Fork Flathead,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",32.5,28.762,30.489,South Fork Flathead,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",33.118,30.418,31.809,South Fork Flathead,tasmin
+2057,"High Emissions
+(SSP3-7.0)",34.165,30.602,31.91,South Fork Flathead,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",35.244,30.475,33.31,South Fork Flathead,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",33.016,27.927,31.009,South Fork Flathead,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",34.791,30.058,31.99,South Fork Flathead,tasmin
+2058,"High Emissions
+(SSP3-7.0)",32.985,31.138,32.715,South Fork Flathead,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",34.034,30.529,33.14,South Fork Flathead,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",32.696,29.137,30.341,South Fork Flathead,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",35.027,31.069,32.582,South Fork Flathead,tasmin
+2059,"High Emissions
+(SSP3-7.0)",35.032,30.778,33.238,South Fork Flathead,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",35.881,32.839,34.703,South Fork Flathead,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",33.121,28.661,31.222,South Fork Flathead,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",33.974,30.758,31.953,South Fork Flathead,tasmin
+2060,"High Emissions
+(SSP3-7.0)",34.364,31.829,32.928,South Fork Flathead,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",36.143,31.893,33.497,South Fork Flathead,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",32.546,30.008,30.539,South Fork Flathead,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",34.38,30.098,31.09,South Fork Flathead,tasmin
+2061,"High Emissions
+(SSP3-7.0)",34.099,30.802,32.872,South Fork Flathead,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",35.219,32.523,33.39,South Fork Flathead,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",31.782,29.852,31.277,South Fork Flathead,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",34.971,29.065,31.404,South Fork Flathead,tasmin
+2062,"High Emissions
+(SSP3-7.0)",34.035,30.018,33.426,South Fork Flathead,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",35.726,32.698,33.711,South Fork Flathead,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",32.075,28.519,30.512,South Fork Flathead,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",33.515,30.793,32.629,South Fork Flathead,tasmin
+2063,"High Emissions
+(SSP3-7.0)",33.968,31.52,32.215,South Fork Flathead,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",34.797,31.902,34.248,South Fork Flathead,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",34.216,30.349,31.783,South Fork Flathead,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",32.287,29.989,31.558,South Fork Flathead,tasmin
+2064,"High Emissions
+(SSP3-7.0)",33.294,31.902,32.969,South Fork Flathead,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",34.663,32.664,33.4,South Fork Flathead,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",34.084,29.03,30.545,South Fork Flathead,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",34.284,29.6,32.212,South Fork Flathead,tasmin
+2065,"High Emissions
+(SSP3-7.0)",34.131,30.786,32.629,South Fork Flathead,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",36.284,32.274,35.135,South Fork Flathead,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",34.199,29.513,31.872,South Fork Flathead,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",34.198,31.941,33.176,South Fork Flathead,tasmin
+2066,"High Emissions
+(SSP3-7.0)",35.249,29.325,32.918,South Fork Flathead,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",35.414,32.405,33.87,South Fork Flathead,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",33.34,30.505,32.24,South Fork Flathead,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",33.879,31.116,31.757,South Fork Flathead,tasmin
+2067,"High Emissions
+(SSP3-7.0)",35.337,31.697,34.011,South Fork Flathead,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",36.212,32.235,33.856,South Fork Flathead,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",34.037,29.563,31.136,South Fork Flathead,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",33.812,31.253,31.94,South Fork Flathead,tasmin
+2068,"High Emissions
+(SSP3-7.0)",34.692,31.425,32.043,South Fork Flathead,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",37.416,33.576,33.869,South Fork Flathead,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",33.389,29.996,31.987,South Fork Flathead,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",33.483,30.638,32.34,South Fork Flathead,tasmin
+2069,"High Emissions
+(SSP3-7.0)",35.586,31.754,33.837,South Fork Flathead,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",38.385,33.504,34.556,South Fork Flathead,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",32.044,30.111,31.313,South Fork Flathead,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",34.045,30.057,32.942,South Fork Flathead,tasmin
+2070,"High Emissions
+(SSP3-7.0)",35.809,32.395,33.78,South Fork Flathead,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",37.435,33.067,35.182,South Fork Flathead,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",33.079,28.961,31.513,South Fork Flathead,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",33.343,31.069,32.57,South Fork Flathead,tasmin
+2071,"High Emissions
+(SSP3-7.0)",35.546,32.305,33.657,South Fork Flathead,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",36.941,32.947,33.968,South Fork Flathead,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",32.84,29.389,31.071,South Fork Flathead,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",34.646,30.661,31.717,South Fork Flathead,tasmin
+2072,"High Emissions
+(SSP3-7.0)",35.319,32.146,34.072,South Fork Flathead,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",35.982,33.414,34.542,South Fork Flathead,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",32.985,28.932,30.909,South Fork Flathead,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",34.448,31.408,32.174,South Fork Flathead,tasmin
+2073,"High Emissions
+(SSP3-7.0)",36.405,32.103,33.451,South Fork Flathead,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",36.69,33.139,35.541,South Fork Flathead,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",33.776,29.077,31.778,South Fork Flathead,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",34.293,30.978,32.965,South Fork Flathead,tasmin
+2074,"High Emissions
+(SSP3-7.0)",35.204,31.695,33.536,South Fork Flathead,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",36.805,33.062,34.399,South Fork Flathead,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",32.42,28.655,30.168,South Fork Flathead,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",35.403,30.466,31.683,South Fork Flathead,tasmin
+2075,"High Emissions
+(SSP3-7.0)",35.025,32.206,33.332,South Fork Flathead,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",36.864,32.828,35.559,South Fork Flathead,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",32.561,28.343,30.501,South Fork Flathead,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",33.058,31.52,32.783,South Fork Flathead,tasmin
+2076,"High Emissions
+(SSP3-7.0)",35.61,33.14,34.109,South Fork Flathead,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",37.489,33.425,33.691,South Fork Flathead,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",33.763,29.512,31.404,South Fork Flathead,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",35.343,31.344,32.573,South Fork Flathead,tasmin
+2077,"High Emissions
+(SSP3-7.0)",36.899,33.106,34.085,South Fork Flathead,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",36.862,33.2,35.339,South Fork Flathead,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",33.115,30.159,31.629,South Fork Flathead,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",33.908,31.918,33.033,South Fork Flathead,tasmin
+2078,"High Emissions
+(SSP3-7.0)",35.967,32.917,34.233,South Fork Flathead,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",36.105,33.774,34.574,South Fork Flathead,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",32.536,29.344,31.805,South Fork Flathead,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",34.771,32.07,32.522,South Fork Flathead,tasmin
+2079,"High Emissions
+(SSP3-7.0)",37.026,32.984,34.398,South Fork Flathead,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",37.181,34.015,35.194,South Fork Flathead,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",31.32,28.526,31.02,South Fork Flathead,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",35.066,31.369,32.214,South Fork Flathead,tasmin
+2080,"High Emissions
+(SSP3-7.0)",36.495,33.659,34.55,South Fork Flathead,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",38.435,35.039,36.467,South Fork Flathead,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",32.925,29.044,30.402,South Fork Flathead,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",34.823,31.842,32.478,South Fork Flathead,tasmin
+2081,"High Emissions
+(SSP3-7.0)",36.995,33.372,34.342,South Fork Flathead,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",40.057,35.509,36.937,South Fork Flathead,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",33.027,29.996,31.649,South Fork Flathead,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",35.257,32.238,33.098,South Fork Flathead,tasmin
+2082,"High Emissions
+(SSP3-7.0)",37.221,32.794,33.461,South Fork Flathead,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",38.689,34.072,37.138,South Fork Flathead,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",33.485,29.677,31.137,South Fork Flathead,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",34.24,30.761,32.51,South Fork Flathead,tasmin
+2083,"High Emissions
+(SSP3-7.0)",37.207,31.474,34.959,South Fork Flathead,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",38.705,34.742,37.105,South Fork Flathead,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",33.601,29.145,31.493,South Fork Flathead,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",34.75,30.948,33.667,South Fork Flathead,tasmin
+2084,"High Emissions
+(SSP3-7.0)",37.662,33.608,35.663,South Fork Flathead,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",38.669,35.335,36.831,South Fork Flathead,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",32.437,28.739,31.714,South Fork Flathead,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",34.264,30.5,32.726,South Fork Flathead,tasmin
+2085,"High Emissions
+(SSP3-7.0)",36.184,33.188,34.399,South Fork Flathead,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",39.022,35.903,37.649,South Fork Flathead,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",33.781,30.869,32.401,South Fork Flathead,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",34.652,32.323,33.848,South Fork Flathead,tasmin
+2086,"High Emissions
+(SSP3-7.0)",37.2,32.715,36.032,South Fork Flathead,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",39.978,35.768,37.718,South Fork Flathead,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",31.475,29.688,30.864,South Fork Flathead,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",35.157,31.943,34.137,South Fork Flathead,tasmin
+2087,"High Emissions
+(SSP3-7.0)",37.517,34.085,35.199,South Fork Flathead,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",38.856,35.527,37.187,South Fork Flathead,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",34.014,29.077,31.557,South Fork Flathead,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",34.326,32.025,32.949,South Fork Flathead,tasmin
+2088,"High Emissions
+(SSP3-7.0)",37.91,33.97,34.697,South Fork Flathead,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",38.69,36.151,36.717,South Fork Flathead,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",32.725,29.582,30.639,South Fork Flathead,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",35.617,31.623,32.968,South Fork Flathead,tasmin
+2089,"High Emissions
+(SSP3-7.0)",36.962,33.776,35.261,South Fork Flathead,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",40.469,36.421,37.934,South Fork Flathead,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",33.429,30.38,31.979,South Fork Flathead,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",34.589,31.626,33.394,South Fork Flathead,tasmin
+2090,"High Emissions
+(SSP3-7.0)",37.353,33.768,35.159,South Fork Flathead,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",40.664,36.784,37.653,South Fork Flathead,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",32.731,29.996,31.349,South Fork Flathead,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",34.48,30.472,33.553,South Fork Flathead,tasmin
+2091,"High Emissions
+(SSP3-7.0)",39.194,33.582,35.993,South Fork Flathead,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",39.002,35.21,37.403,South Fork Flathead,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",33.788,28.962,32.17,South Fork Flathead,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",36.239,32.568,33.382,South Fork Flathead,tasmin
+2092,"High Emissions
+(SSP3-7.0)",38.082,32.771,35.741,South Fork Flathead,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",39.263,35.515,37.23,South Fork Flathead,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",32.697,29.59,31.111,South Fork Flathead,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",34.802,31.192,33.273,South Fork Flathead,tasmin
+2093,"High Emissions
+(SSP3-7.0)",37.754,34.138,36.513,South Fork Flathead,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",41.226,36.343,37.273,South Fork Flathead,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",34.042,27.723,31.423,South Fork Flathead,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",34.863,31.625,32.819,South Fork Flathead,tasmin
+2094,"High Emissions
+(SSP3-7.0)",38.319,34.371,35.826,South Fork Flathead,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",40.772,36.649,38.827,South Fork Flathead,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",32.885,30.31,31.599,South Fork Flathead,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",36.365,31.925,34.825,South Fork Flathead,tasmin
+2095,"High Emissions
+(SSP3-7.0)",38.759,34.135,37.062,South Fork Flathead,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",39.758,35.929,37.321,South Fork Flathead,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",32.39,28.982,31.148,South Fork Flathead,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",35.236,32.891,33.802,South Fork Flathead,tasmin
+2096,"High Emissions
+(SSP3-7.0)",37.854,34.94,36.561,South Fork Flathead,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",40.021,35.465,38.344,South Fork Flathead,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",32.789,28.313,29.762,South Fork Flathead,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",35.954,32.818,33.609,South Fork Flathead,tasmin
+2097,"High Emissions
+(SSP3-7.0)",39.352,34.431,36.24,South Fork Flathead,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",43.152,35.322,39.345,South Fork Flathead,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",31.887,29.036,30.62,South Fork Flathead,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",33.988,31.621,33.173,South Fork Flathead,tasmin
+2098,"High Emissions
+(SSP3-7.0)",39.244,34.664,36.259,South Fork Flathead,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",40.771,36.278,38.341,South Fork Flathead,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",33.51,29.605,31.467,South Fork Flathead,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",35.74,31.272,32.588,South Fork Flathead,tasmin
+2099,"High Emissions
+(SSP3-7.0)",40.407,34.221,35.816,South Fork Flathead,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",41.551,35.251,39.379,South Fork Flathead,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",33.267,28.409,30.792,South Fork Flathead,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",36.915,31.706,33.927,South Fork Flathead,tasmin
+2100,"High Emissions
+(SSP3-7.0)",38.972,34.634,36.586,South Fork Flathead,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",41.355,35.817,38.333,South Fork Flathead,tasmin

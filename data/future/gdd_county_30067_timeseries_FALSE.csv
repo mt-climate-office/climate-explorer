@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2057.14,1570.535,1837.523,Park County,gdd
+1951,Historical Emissions,1983.717,1667.15,1778.381,Park County,gdd
+1952,Historical Emissions,1938.241,1538.321,1704.09,Park County,gdd
+1953,Historical Emissions,1988.152,1568.692,1724.159,Park County,gdd
+1954,Historical Emissions,1908.572,1388.15,1669.615,Park County,gdd
+1955,Historical Emissions,2064.731,1612.231,1689.686,Park County,gdd
+1956,Historical Emissions,2095.841,1574.837,1776.082,Park County,gdd
+1957,Historical Emissions,2123.244,1418.59,1618.673,Park County,gdd
+1958,Historical Emissions,1857.745,1490.651,1669.999,Park County,gdd
+1959,Historical Emissions,1776.692,1427.319,1691.274,Park County,gdd
+1960,Historical Emissions,1838.774,1532.233,1662.572,Park County,gdd
+1961,Historical Emissions,1870.138,1508.595,1661.909,Park County,gdd
+1962,Historical Emissions,1797.497,1481.937,1656.657,Park County,gdd
+1963,Historical Emissions,1701.224,1520.481,1630.549,Park County,gdd
+1964,Historical Emissions,1744.406,1481.892,1635.635,Park County,gdd
+1965,Historical Emissions,1781.414,1503.021,1706.347,Park County,gdd
+1966,Historical Emissions,1795.916,1404.103,1616.646,Park County,gdd
+1967,Historical Emissions,1856.881,1433.911,1670.733,Park County,gdd
+1968,Historical Emissions,1705.716,1423.648,1614.224,Park County,gdd
+1969,Historical Emissions,1799.092,1412.596,1670.078,Park County,gdd
+1970,Historical Emissions,1780.582,1496.694,1612.929,Park County,gdd
+1971,Historical Emissions,2067.348,1525.247,1718.047,Park County,gdd
+1972,Historical Emissions,1809.065,1486.773,1690.401,Park County,gdd
+1973,Historical Emissions,2007.023,1431.123,1633.465,Park County,gdd
+1974,Historical Emissions,1784.115,1323.179,1713.688,Park County,gdd
+1975,Historical Emissions,1863.385,1618.391,1745.033,Park County,gdd
+1976,Historical Emissions,1736.932,1600.256,1696.31,Park County,gdd
+1977,Historical Emissions,2029.899,1531.098,1693.777,Park County,gdd
+1978,Historical Emissions,1899.373,1562.112,1650.439,Park County,gdd
+1979,Historical Emissions,1956.843,1484.392,1712.849,Park County,gdd
+1980,Historical Emissions,2011.124,1456.079,1643.969,Park County,gdd
+1981,Historical Emissions,1879.848,1601.821,1814.089,Park County,gdd
+1982,Historical Emissions,1896.213,1609.209,1828.364,Park County,gdd
+1983,Historical Emissions,1748.399,1535.156,1608.54,Park County,gdd
+1984,Historical Emissions,1889.433,1435.771,1700.044,Park County,gdd
+1985,Historical Emissions,1905.58,1604.748,1798.829,Park County,gdd
+1986,Historical Emissions,1833.035,1519.682,1614.384,Park County,gdd
+1987,Historical Emissions,1831.173,1489.104,1668.667,Park County,gdd
+1988,Historical Emissions,1817.121,1486.406,1679.129,Park County,gdd
+1989,Historical Emissions,1942.608,1587.122,1663.775,Park County,gdd
+1990,Historical Emissions,2135.915,1638.519,1795.17,Park County,gdd
+1991,Historical Emissions,2003.09,1483.793,1655.127,Park County,gdd
+1992,Historical Emissions,1757.335,1466.489,1553.321,Park County,gdd
+1993,Historical Emissions,1761.477,1539.569,1600,Park County,gdd
+1994,Historical Emissions,2094.644,1489.264,1669.322,Park County,gdd
+1995,Historical Emissions,2081.144,1669.755,1721.704,Park County,gdd
+1996,Historical Emissions,2201.901,1736.993,2036.386,Park County,gdd
+1997,Historical Emissions,1882.892,1637.249,1773.196,Park County,gdd
+1998,Historical Emissions,2055.344,1570.727,1914.334,Park County,gdd
+1999,Historical Emissions,1925.552,1566.753,1794.619,Park County,gdd
+2000,Historical Emissions,2069.198,1652.089,1811.444,Park County,gdd
+2001,Historical Emissions,2030.744,1641.558,1875.475,Park County,gdd
+2002,Historical Emissions,2188.05,1741.307,1966.24,Park County,gdd
+2003,Historical Emissions,2068.151,1744.414,1999.354,Park County,gdd
+2004,Historical Emissions,2204.447,1824.59,1952.33,Park County,gdd
+2005,Historical Emissions,2254.277,1801.258,1999.936,Park County,gdd
+2006,Historical Emissions,2092.341,1734.936,1939.932,Park County,gdd
+2007,Historical Emissions,1951.711,1801.434,1881.898,Park County,gdd
+2008,Historical Emissions,2165.573,1792.295,1924.324,Park County,gdd
+2009,Historical Emissions,1985.303,1768.383,1825.142,Park County,gdd
+2010,Historical Emissions,2095.463,1765.074,1868.197,Park County,gdd
+2011,Historical Emissions,2178.529,1835.522,1921.595,Park County,gdd
+2012,Historical Emissions,2065.83,1887.858,1962.761,Park County,gdd
+2013,Historical Emissions,2333.609,1975.202,2151.354,Park County,gdd
+2014,Historical Emissions,2303.648,1845.936,1956.348,Park County,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",2307.641,1949.402,2179.55,Park County,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",2195.884,1886.759,2051.668,Park County,gdd
+2015,"High Emissions
+(SSP3-7.0)",2212.098,1827.124,2028.87,Park County,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",2119.069,1780.799,2012.205,Park County,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",2229.965,2001.756,2132.747,Park County,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",2174.768,1798.875,1867.332,Park County,gdd
+2016,"High Emissions
+(SSP3-7.0)",2254.351,1832.657,2101.413,Park County,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",2192.64,1896.048,2015.468,Park County,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",2285.59,1896.861,2058.506,Park County,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",2228.025,1761.128,2126.886,Park County,gdd
+2017,"High Emissions
+(SSP3-7.0)",2103.685,1887.302,2021.529,Park County,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",2343.582,1916.222,2120.088,Park County,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",2216.347,1754.822,1951.316,Park County,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",2256.605,1860.913,2066.484,Park County,gdd
+2018,"High Emissions
+(SSP3-7.0)",2082.963,1742.75,1959.007,Park County,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",2140.942,1858.789,1984.053,Park County,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",2527.698,1945.917,2095.73,Park County,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",2273.193,1733.96,1938.74,Park County,gdd
+2019,"High Emissions
+(SSP3-7.0)",2375.753,1880.546,2003.958,Park County,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",2403.493,1849.507,2059.439,Park County,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",2322.574,1899.165,2044.562,Park County,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",2162.633,1871.595,2084.661,Park County,gdd
+2020,"High Emissions
+(SSP3-7.0)",2293.868,1822.466,1897.831,Park County,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",2252.442,1842.973,2054.278,Park County,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",2351.669,1936.513,2030.681,Park County,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",2444.776,1794.685,2221,Park County,gdd
+2021,"High Emissions
+(SSP3-7.0)",2309.42,1855.859,2072.234,Park County,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",2212.875,1894.793,2050.982,Park County,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",2260.614,1950.914,2066.167,Park County,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",2202.927,1888.088,2090.373,Park County,gdd
+2022,"High Emissions
+(SSP3-7.0)",2117.057,1839.112,2069.047,Park County,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",2487.059,1878.786,2060.658,Park County,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",2159.551,1920.233,2004.474,Park County,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",2535.166,1849.533,2086.408,Park County,gdd
+2023,"High Emissions
+(SSP3-7.0)",2249.621,1885.15,2068.091,Park County,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",2208.173,1720.472,1835.271,Park County,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",2357.986,1953.971,2102.663,Park County,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",2251.745,1884.022,2140.048,Park County,gdd
+2024,"High Emissions
+(SSP3-7.0)",2453.225,1892.468,2224.149,Park County,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",2371.347,1822.289,2215.356,Park County,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",2331.73,2016.711,2113.736,Park County,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",2287.718,1864.748,1922.621,Park County,gdd
+2025,"High Emissions
+(SSP3-7.0)",2489.28,2034.264,2099.186,Park County,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",2473.334,1886.494,2280.606,Park County,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",2289.548,1865.783,2049.349,Park County,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",2564.384,1968.4,2197.767,Park County,gdd
+2026,"High Emissions
+(SSP3-7.0)",2190.98,1865.226,1923.785,Park County,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",2389.65,1839.383,2060.688,Park County,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",2477.641,1835.68,2180.299,Park County,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",2466.096,1874.311,2142.842,Park County,gdd
+2027,"High Emissions
+(SSP3-7.0)",2372.001,1980.284,2140.711,Park County,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",2399.943,2011.611,2190.587,Park County,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",2344.64,1945.257,2075.456,Park County,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",2206.627,1892.044,2004.306,Park County,gdd
+2028,"High Emissions
+(SSP3-7.0)",2286.956,2022.729,2139.129,Park County,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",2219.325,1985.421,2127.511,Park County,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",2481.668,2087.636,2267.123,Park County,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",2354.23,1891.043,2122.444,Park County,gdd
+2029,"High Emissions
+(SSP3-7.0)",2347.527,1842.519,2105.486,Park County,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",2438.908,2070.736,2174.505,Park County,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",2357.566,1908.015,2117.491,Park County,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",2524.763,1913.264,2256.269,Park County,gdd
+2030,"High Emissions
+(SSP3-7.0)",2389.741,1934.819,2202.778,Park County,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",2616.213,1956.65,2151.202,Park County,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",2334.946,2038.354,2236.739,Park County,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",2422.563,1924.578,2122.636,Park County,gdd
+2031,"High Emissions
+(SSP3-7.0)",2457.725,1932.905,2186.315,Park County,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",2432.564,2110.004,2318.744,Park County,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",2420.301,1869.611,2262.967,Park County,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",2273.127,1919.98,2093.459,Park County,gdd
+2032,"High Emissions
+(SSP3-7.0)",2457.898,1872.107,2244.911,Park County,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",2416.196,1949.562,2071.12,Park County,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",2426.008,2048.497,2131.805,Park County,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",2521.654,1969.207,2271.738,Park County,gdd
+2033,"High Emissions
+(SSP3-7.0)",2369.611,1840.279,2072.885,Park County,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",2493.687,2110.294,2236.509,Park County,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",2379.571,1897.689,2134.402,Park County,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",2383.431,1805.89,2124.501,Park County,gdd
+2034,"High Emissions
+(SSP3-7.0)",2522.756,1822.869,2346.792,Park County,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",2473.303,1899.436,2229.682,Park County,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",2446.504,2045.166,2151.251,Park County,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",2499.073,2043.391,2155.006,Park County,gdd
+2035,"High Emissions
+(SSP3-7.0)",2362.88,1919.155,2228.57,Park County,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",2433.862,2066.552,2180.716,Park County,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",2398.046,2015.979,2161.009,Park County,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",2354.867,2000.32,2215.171,Park County,gdd
+2036,"High Emissions
+(SSP3-7.0)",2458.715,1976.717,2236.718,Park County,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",2421.456,1822.235,2282.613,Park County,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",2412.027,2006.597,2173.257,Park County,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",2487.355,2008.584,2142.886,Park County,gdd
+2037,"High Emissions
+(SSP3-7.0)",2378.773,1822.436,2103.492,Park County,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",2469.225,1980.167,2317.347,Park County,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",2439.465,2000.981,2077.625,Park County,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",2363.796,1981.85,2199.731,Park County,gdd
+2038,"High Emissions
+(SSP3-7.0)",2409.529,2069.074,2273.499,Park County,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",2672.549,1957.677,2342.422,Park County,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",2380.033,1798.396,2211.471,Park County,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",2249.157,1909.533,2141.01,Park County,gdd
+2039,"High Emissions
+(SSP3-7.0)",2486.762,2118.17,2318.96,Park County,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",2742.275,1825.077,2205.884,Park County,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",2429.816,1940.196,2268.645,Park County,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",2540.554,1946.609,2292.066,Park County,gdd
+2040,"High Emissions
+(SSP3-7.0)",2424.258,2079.686,2217.751,Park County,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",2745.459,2004.312,2460.462,Park County,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",2434.917,1849.862,2135.896,Park County,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",2477.381,2018.443,2289.84,Park County,gdd
+2041,"High Emissions
+(SSP3-7.0)",2480.719,2029.119,2187.648,Park County,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",2429.682,2041.143,2296.881,Park County,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",2598.385,1929.456,2176.818,Park County,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",2441.244,1904.592,2237.272,Park County,gdd
+2042,"High Emissions
+(SSP3-7.0)",2390.878,2065.552,2337.217,Park County,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",2819.881,2094.611,2309.99,Park County,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",2371.926,2057.544,2200.274,Park County,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",2405.182,2046.507,2199.142,Park County,gdd
+2043,"High Emissions
+(SSP3-7.0)",2369.817,2041.789,2236.795,Park County,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",2468.068,2150.752,2321.226,Park County,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",2470.424,2081.107,2288.508,Park County,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",2650.426,2056.606,2272.541,Park County,gdd
+2044,"High Emissions
+(SSP3-7.0)",2522.112,2160.369,2396.523,Park County,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",2603.009,2275.441,2355.927,Park County,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",2434.732,2047.169,2155.149,Park County,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",2593.079,2034.199,2283.676,Park County,gdd
+2045,"High Emissions
+(SSP3-7.0)",2593.974,2045.755,2368.346,Park County,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",2569.544,2056.624,2430.354,Park County,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",2668.721,2064.075,2297.328,Park County,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",2603.136,1975.926,2309.572,Park County,gdd
+2046,"High Emissions
+(SSP3-7.0)",2533.81,2187.594,2335.136,Park County,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",2621.04,2062.029,2236.889,Park County,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",2572.453,2072.27,2409.519,Park County,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",2482.284,1992.586,2317.336,Park County,gdd
+2047,"High Emissions
+(SSP3-7.0)",2528.708,2185.303,2274.803,Park County,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",2796.313,2100.764,2550.925,Park County,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",2372.623,2106.859,2245.008,Park County,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",2564.231,1991.332,2334.43,Park County,gdd
+2048,"High Emissions
+(SSP3-7.0)",2729.448,2013.589,2322.132,Park County,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",2980.917,2120.051,2580.613,Park County,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",2444.952,1990.344,2266.945,Park County,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",2529.962,1980.732,2347.492,Park County,gdd
+2049,"High Emissions
+(SSP3-7.0)",2484.02,2194.713,2246.723,Park County,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",2590.607,2091.82,2471.673,Park County,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",2464.161,2000.622,2225.188,Park County,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",2714.361,2115.559,2389.37,Park County,gdd
+2050,"High Emissions
+(SSP3-7.0)",2549.861,2149.968,2335.455,Park County,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",2689.122,2137.93,2531.509,Park County,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",2432.043,2032.405,2213.969,Park County,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",2567.51,2127.607,2328.137,Park County,gdd
+2051,"High Emissions
+(SSP3-7.0)",2559.601,2132.81,2388.378,Park County,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",2674.827,2178.787,2304.423,Park County,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",2309.778,2139.821,2191.291,Park County,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",2490.817,1954.323,2218.998,Park County,gdd
+2052,"High Emissions
+(SSP3-7.0)",2482.387,1998.809,2256.289,Park County,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",2513.057,2312.522,2434.425,Park County,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",2466.384,1922.523,2368.097,Park County,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",2503.448,1976.235,2405.42,Park County,gdd
+2053,"High Emissions
+(SSP3-7.0)",2752.687,2296.504,2537.065,Park County,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",2842.13,2146.689,2444.184,Park County,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",2541.596,2146.585,2395.552,Park County,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",2488.318,1999.971,2276.788,Park County,gdd
+2054,"High Emissions
+(SSP3-7.0)",2701.411,2129.109,2316.531,Park County,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",2751.628,2233.453,2554.292,Park County,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",2502.834,2160.787,2374.063,Park County,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",2681.912,1968.508,2296.675,Park County,gdd
+2055,"High Emissions
+(SSP3-7.0)",2591.449,2196.977,2405.04,Park County,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",2856.805,2198.963,2567.124,Park County,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",2485.356,2003.264,2304.954,Park County,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",2655.096,2126.069,2474.345,Park County,gdd
+2056,"High Emissions
+(SSP3-7.0)",2760.311,2055.321,2375.178,Park County,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",2693.248,2414.189,2551.293,Park County,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",2384.648,1919.079,2234.736,Park County,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",2655.889,2196.312,2450.344,Park County,gdd
+2057,"High Emissions
+(SSP3-7.0)",2672.021,2184.032,2368.524,Park County,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",2857.902,2242.508,2508.6,Park County,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",2416.932,1910.839,2235.05,Park County,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",2727.788,2180.531,2454.965,Park County,gdd
+2058,"High Emissions
+(SSP3-7.0)",2561.282,2198.614,2384.094,Park County,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",2651.961,2162.56,2417.781,Park County,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",2497.111,2186.329,2357.587,Park County,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",2821.119,2110.998,2430.193,Park County,gdd
+2059,"High Emissions
+(SSP3-7.0)",2823.584,2274.166,2426.232,Park County,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",2836.862,2473.846,2646.288,Park County,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",2403.284,2057.26,2238.988,Park County,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",2883.617,2087.267,2381.008,Park County,gdd
+2060,"High Emissions
+(SSP3-7.0)",2668.786,2226.603,2446.398,Park County,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",2722.972,2269.465,2644.78,Park County,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",2402.863,1915.5,2202.966,Park County,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",2787.067,2096.309,2195.985,Park County,gdd
+2061,"High Emissions
+(SSP3-7.0)",2626.606,2264.977,2445.31,Park County,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",2927.583,2509.395,2685.982,Park County,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",2593.565,2006.273,2219.375,Park County,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",2605.302,2229.75,2377.012,Park County,gdd
+2062,"High Emissions
+(SSP3-7.0)",2536.557,2323.412,2410.21,Park County,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",2892.67,2463.145,2753.82,Park County,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",2464.418,2165.692,2278.802,Park County,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",2551.791,2019.026,2275.265,Park County,gdd
+2063,"High Emissions
+(SSP3-7.0)",2754.532,2318.721,2546.177,Park County,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",2927.099,2478.499,2690.117,Park County,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",2617.534,1979.349,2262.673,Park County,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",2551.674,2108.272,2256.401,Park County,gdd
+2064,"High Emissions
+(SSP3-7.0)",2666.996,2213.483,2432.98,Park County,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",2776.065,2349.035,2698.354,Park County,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",2439.49,1980.139,2187.51,Park County,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",2634.068,2122.875,2363.131,Park County,gdd
+2065,"High Emissions
+(SSP3-7.0)",2731.702,2229.294,2579.981,Park County,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",3144.605,2541.487,2704.128,Park County,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",2619.145,2124.703,2302.862,Park County,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",2694.009,2287.737,2485.592,Park County,gdd
+2066,"High Emissions
+(SSP3-7.0)",2800.302,2260.257,2505.305,Park County,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",2982.649,2299.866,2866.893,Park County,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",2470.555,2117.193,2342.421,Park County,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",2707.159,2173.301,2365.739,Park County,gdd
+2067,"High Emissions
+(SSP3-7.0)",3073.8,2458.191,2576.871,Park County,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",3014.211,2397.211,2573.765,Park County,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",2686.939,2114.779,2246.141,Park County,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",2595.769,2085.254,2342.664,Park County,gdd
+2068,"High Emissions
+(SSP3-7.0)",2843.933,2263.76,2448.345,Park County,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",3083.193,2450.743,2760.711,Park County,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",2643.375,2152.833,2281.334,Park County,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",2697.495,2011.176,2487.707,Park County,gdd
+2069,"High Emissions
+(SSP3-7.0)",3123.22,2526.739,2694.917,Park County,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",3317.143,2424.835,2987.096,Park County,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",2394.633,1984.483,2259.347,Park County,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",2628.936,2067.221,2288.042,Park County,gdd
+2070,"High Emissions
+(SSP3-7.0)",3029.127,2555.229,2800.883,Park County,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",3094.412,2452.557,2744.371,Park County,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",2743.407,2012.191,2363.269,Park County,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",2547.843,2359.111,2437.789,Park County,gdd
+2071,"High Emissions
+(SSP3-7.0)",2907.508,2467.624,2678.472,Park County,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",3106.255,2565.864,2789.956,Park County,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",2655.505,2227.646,2337.326,Park County,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",2605.014,2189.035,2422.011,Park County,gdd
+2072,"High Emissions
+(SSP3-7.0)",2926.96,2324.009,2600.77,Park County,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",3191.457,2567.247,2744.865,Park County,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",2422.017,2159.553,2247.54,Park County,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",2670.971,1947.568,2417.341,Park County,gdd
+2073,"High Emissions
+(SSP3-7.0)",2784.753,2560.847,2710.851,Park County,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",3109.954,2410.353,2684.638,Park County,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",2648.192,1939.911,2265.571,Park County,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",2760.764,2199.546,2350.13,Park County,gdd
+2074,"High Emissions
+(SSP3-7.0)",2878.937,2356.538,2519.381,Park County,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",3336.066,2565.226,2888.853,Park County,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",2622.746,1857.031,2387.601,Park County,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",2801.639,2066.601,2385.363,Park County,gdd
+2075,"High Emissions
+(SSP3-7.0)",3089.01,2298.774,2534.56,Park County,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",3160.928,2461.226,2834.974,Park County,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",2531.323,1964.165,2213.33,Park County,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",2616.463,2124.52,2280.535,Park County,gdd
+2076,"High Emissions
+(SSP3-7.0)",3011.844,2676.142,2821.266,Park County,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",3233.534,2504.968,2935.039,Park County,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",2615.659,2128.661,2391.043,Park County,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",2876.504,2133.751,2570.386,Park County,gdd
+2077,"High Emissions
+(SSP3-7.0)",3033.502,2439.066,2706.85,Park County,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",3247.679,2626.299,2961.001,Park County,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",2593.494,2291.038,2360.494,Park County,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",2734.319,2275.706,2510.242,Park County,gdd
+2078,"High Emissions
+(SSP3-7.0)",3111.67,2359.863,2811.294,Park County,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",2995.861,2599.892,2838.469,Park County,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",2501.91,2037.629,2376.281,Park County,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",2878.722,2311.208,2423.034,Park County,gdd
+2079,"High Emissions
+(SSP3-7.0)",2909.398,2362.075,2632.687,Park County,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",3325.266,2616.174,2956.958,Park County,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",2463.906,1933.488,2128.032,Park County,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",2673.811,2040.072,2540.15,Park County,gdd
+2080,"High Emissions
+(SSP3-7.0)",3077.865,2450.037,2668.914,Park County,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",3297.262,2799.713,3045.59,Park County,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",2532.609,1960.514,2278.343,Park County,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",2754.08,2270.968,2442.439,Park County,gdd
+2081,"High Emissions
+(SSP3-7.0)",3174.033,2311.457,2694.071,Park County,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",3319.65,2783.416,2875.431,Park County,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",2674.079,2100.637,2353.068,Park County,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",2807.629,2153.975,2387.556,Park County,gdd
+2082,"High Emissions
+(SSP3-7.0)",3141.448,2345.63,2786.728,Park County,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",3319.164,2840.718,3131.241,Park County,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",2594.844,2139.549,2427.673,Park County,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",2707.008,2194.844,2504.225,Park County,gdd
+2083,"High Emissions
+(SSP3-7.0)",3091.32,2236.308,2733.24,Park County,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",3318.832,2570.206,2878.632,Park County,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",2663.551,1908.109,2150.251,Park County,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",2914.452,2307.592,2594.297,Park County,gdd
+2084,"High Emissions
+(SSP3-7.0)",3293.571,2657.796,3007.09,Park County,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",3508.832,2686.765,3002.63,Park County,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",2434.974,1991.606,2194.581,Park County,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",2793.499,2192.963,2486.954,Park County,gdd
+2085,"High Emissions
+(SSP3-7.0)",3011.905,2480.392,2686.158,Park County,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",3410.794,2517.049,3044.572,Park County,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",2495.693,2171.321,2298.708,Park County,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",2698.2,2311.644,2598.835,Park County,gdd
+2086,"High Emissions
+(SSP3-7.0)",3188.883,2487.658,2829.965,Park County,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",3414.803,2750.135,3251.75,Park County,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",2408.243,2013.589,2182.008,Park County,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",2790.234,2332.905,2507.018,Park County,gdd
+2087,"High Emissions
+(SSP3-7.0)",3193.014,2452.289,2750.421,Park County,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",3509.799,2746.336,2883.821,Park County,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",2453.247,2098.454,2205.962,Park County,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",2810.342,2443.237,2570.875,Park County,gdd
+2088,"High Emissions
+(SSP3-7.0)",3186.013,2600.291,2818.236,Park County,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",3641.663,2765.34,3089.214,Park County,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",2531.489,2051.655,2150.606,Park County,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",2939.621,2155.412,2444.077,Park County,gdd
+2089,"High Emissions
+(SSP3-7.0)",3366.052,2580.842,3110.906,Park County,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",3557.862,2889.775,3227.098,Park County,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",2409.232,2168.013,2223.437,Park County,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",2658.4,2155.338,2522.463,Park County,gdd
+2090,"High Emissions
+(SSP3-7.0)",3332.396,2811.721,2952.388,Park County,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",3530.768,2769.744,3198.162,Park County,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",2654.088,2047.168,2247.478,Park County,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",2710.801,2276.672,2592.254,Park County,gdd
+2091,"High Emissions
+(SSP3-7.0)",3168.808,2852.095,2979.091,Park County,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",3653.41,2674.551,3153.153,Park County,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",2595.745,2061.965,2324.425,Park County,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",2943.985,2321.811,2774.932,Park County,gdd
+2092,"High Emissions
+(SSP3-7.0)",3101.809,2776.358,2869.382,Park County,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",3613.129,2751.411,3276.928,Park County,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",2404.107,2077.058,2273.306,Park County,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",2711.951,2235.833,2570.749,Park County,gdd
+2093,"High Emissions
+(SSP3-7.0)",3350.423,2617.524,2844.382,Park County,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",3796.009,3045.712,3224.985,Park County,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",2596.003,1939.749,2177.359,Park County,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",3012.832,2123.204,2678.928,Park County,gdd
+2094,"High Emissions
+(SSP3-7.0)",3277.067,2638.375,2950.309,Park County,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",3779.429,2874.449,3104.786,Park County,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",2574.266,2120.645,2402.207,Park County,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",2907.696,2496.679,2685.227,Park County,gdd
+2095,"High Emissions
+(SSP3-7.0)",3404.623,2755.918,3113.201,Park County,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",3643.757,2829.219,3128.025,Park County,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",2427.672,2023.4,2334.172,Park County,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",2898.094,2521.117,2667.233,Park County,gdd
+2096,"High Emissions
+(SSP3-7.0)",3374.086,2816.578,3137.924,Park County,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",3688.667,2881.627,3169.706,Park County,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",2636.576,2093.79,2189.903,Park County,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",3010.811,2349.809,2585.457,Park County,gdd
+2097,"High Emissions
+(SSP3-7.0)",3644.281,2700.195,3061.303,Park County,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",4119.466,2874.681,3246.091,Park County,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",2539.434,2057.168,2221,Park County,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",2731.672,2233.109,2474.263,Park County,gdd
+2098,"High Emissions
+(SSP3-7.0)",3358.808,2621.585,3067.142,Park County,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",3679.529,3059.163,3244.717,Park County,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",2529.973,1888.444,2268.279,Park County,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",2771.19,2183.681,2520.982,Park County,gdd
+2099,"High Emissions
+(SSP3-7.0)",3549.072,2697.476,3006.488,Park County,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",3839.084,3053.159,3494.107,Park County,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",2509.033,1899.536,2122.248,Park County,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",2908.088,2327.111,2643.558,Park County,gdd
+2100,"High Emissions
+(SSP3-7.0)",3219.368,2750.908,3009.455,Park County,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",3770.435,2982.623,3356.648,Park County,gdd

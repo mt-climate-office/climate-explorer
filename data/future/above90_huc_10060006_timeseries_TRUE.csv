@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,25.4,5.564,13.727,Big Muddy,above90
+1951,Historical Emissions,31.691,2.291,13.091,Big Muddy,above90
+1952,Historical Emissions,28.183,6.545,18.091,Big Muddy,above90
+1953,Historical Emissions,19.254,3.273,11.637,Big Muddy,above90
+1954,Historical Emissions,19.473,0.51,8.364,Big Muddy,above90
+1955,Historical Emissions,28.927,2.855,12,Big Muddy,above90
+1956,Historical Emissions,39.437,7.454,16.455,Big Muddy,above90
+1957,Historical Emissions,40.982,3.363,13.818,Big Muddy,above90
+1958,Historical Emissions,25.236,0,7.909,Big Muddy,above90
+1959,Historical Emissions,15.091,0,8.001,Big Muddy,above90
+1960,Historical Emissions,27.328,4.691,5.727,Big Muddy,above90
+1961,Historical Emissions,16.909,2.909,5.455,Big Muddy,above90
+1962,Historical Emissions,17.655,2.582,11.728,Big Muddy,above90
+1963,Historical Emissions,14.436,4.582,9.272,Big Muddy,above90
+1964,Historical Emissions,29.418,0.601,15.546,Big Muddy,above90
+1965,Historical Emissions,15.127,6.073,10.727,Big Muddy,above90
+1966,Historical Emissions,33.8,1.874,9.909,Big Muddy,above90
+1967,Historical Emissions,16.691,3.255,11.091,Big Muddy,above90
+1968,Historical Emissions,15.982,3.527,9.273,Big Muddy,above90
+1969,Historical Emissions,28.2,1.873,18.637,Big Muddy,above90
+1970,Historical Emissions,15.582,2.327,8.181,Big Muddy,above90
+1971,Historical Emissions,16.145,4.964,12.818,Big Muddy,above90
+1972,Historical Emissions,21.309,4.163,13.728,Big Muddy,above90
+1973,Historical Emissions,30.455,7.163,14.636,Big Muddy,above90
+1974,Historical Emissions,10.618,4.582,8.364,Big Muddy,above90
+1975,Historical Emissions,17.582,1.964,6.636,Big Muddy,above90
+1976,Historical Emissions,14.2,1.818,8.637,Big Muddy,above90
+1977,Historical Emissions,22.89,2.237,8.909,Big Muddy,above90
+1978,Historical Emissions,21.837,2.727,9.273,Big Muddy,above90
+1979,Historical Emissions,20.855,3.218,9.728,Big Muddy,above90
+1980,Historical Emissions,18.4,5.145,11.363,Big Muddy,above90
+1981,Historical Emissions,18.036,1.182,5.909,Big Muddy,above90
+1982,Historical Emissions,18.763,4.491,12.636,Big Muddy,above90
+1983,Historical Emissions,21.437,0.637,8.455,Big Muddy,above90
+1984,Historical Emissions,21,4.764,8.455,Big Muddy,above90
+1985,Historical Emissions,25.764,4.055,7.546,Big Muddy,above90
+1986,Historical Emissions,22.709,0.818,16,Big Muddy,above90
+1987,Historical Emissions,24.727,0.946,11.363,Big Muddy,above90
+1988,Historical Emissions,23.727,3.891,7,Big Muddy,above90
+1989,Historical Emissions,21.164,2.218,15.091,Big Muddy,above90
+1990,Historical Emissions,42.564,7.6,19.818,Big Muddy,above90
+1991,Historical Emissions,28.891,4.145,8,Big Muddy,above90
+1992,Historical Emissions,22.291,0.618,8.091,Big Muddy,above90
+1993,Historical Emissions,14.636,4.291,9.545,Big Muddy,above90
+1994,Historical Emissions,26.673,8.782,12.818,Big Muddy,above90
+1995,Historical Emissions,38.364,2.037,17.272,Big Muddy,above90
+1996,Historical Emissions,44.291,7.582,21.546,Big Muddy,above90
+1997,Historical Emissions,26.563,9.291,20.364,Big Muddy,above90
+1998,Historical Emissions,21.691,3.945,11.091,Big Muddy,above90
+1999,Historical Emissions,26.801,9.454,13.909,Big Muddy,above90
+2000,Historical Emissions,30.054,5.91,22.727,Big Muddy,above90
+2001,Historical Emissions,27.237,11.783,22,Big Muddy,above90
+2002,Historical Emissions,33.291,4.964,25,Big Muddy,above90
+2003,Historical Emissions,40.563,17.11,25.455,Big Muddy,above90
+2004,Historical Emissions,28.182,12.291,17.182,Big Muddy,above90
+2005,Historical Emissions,30.419,8.218,19.546,Big Muddy,above90
+2006,Historical Emissions,38.018,8.51,13,Big Muddy,above90
+2007,Historical Emissions,26.4,13.254,17.272,Big Muddy,above90
+2008,Historical Emissions,41.49,5.581,11.453,Big Muddy,above90
+2009,Historical Emissions,28.382,7.509,24.274,Big Muddy,above90
+2010,Historical Emissions,37.691,10.292,15.364,Big Muddy,above90
+2011,Historical Emissions,32,6.746,17.727,Big Muddy,above90
+2012,Historical Emissions,31.09,14.2,22.273,Big Muddy,above90
+2013,Historical Emissions,58.255,9.128,32.092,Big Muddy,above90
+2014,Historical Emissions,51.563,7.182,24,Big Muddy,above90
+2015,"Moderating Emissions
+(SSP1-2.6)",49.854,14.273,27.818,Big Muddy,above90
+2015,"Middle of the Road
+(SSP2-4.5)",45.583,10.236,27.182,Big Muddy,above90
+2015,"High Emissions
+(SSP3-7.0)",39.092,11.563,26.909,Big Muddy,above90
+2015,"Accelerating Emissions
+(SSP5-8.5)",45.037,19.109,30.908,Big Muddy,above90
+2016,"Moderating Emissions
+(SSP1-2.6)",50.982,14.6,22.637,Big Muddy,above90
+2016,"Middle of the Road
+(SSP2-4.5)",29.581,8.091,18.728,Big Muddy,above90
+2016,"High Emissions
+(SSP3-7.0)",54.381,11.927,23.727,Big Muddy,above90
+2016,"Accelerating Emissions
+(SSP5-8.5)",34.873,9.054,19.455,Big Muddy,above90
+2017,"Moderating Emissions
+(SSP1-2.6)",43.999,18.164,22.727,Big Muddy,above90
+2017,"Middle of the Road
+(SSP2-4.5)",27.436,9.09,18.909,Big Muddy,above90
+2017,"High Emissions
+(SSP3-7.0)",33.837,5.309,25.454,Big Muddy,above90
+2017,"Accelerating Emissions
+(SSP5-8.5)",41.818,16.709,20.727,Big Muddy,above90
+2018,"Moderating Emissions
+(SSP1-2.6)",48.909,12.364,29.273,Big Muddy,above90
+2018,"Middle of the Road
+(SSP2-4.5)",34.709,7.346,29.454,Big Muddy,above90
+2018,"High Emissions
+(SSP3-7.0)",45.272,12.237,18.455,Big Muddy,above90
+2018,"Accelerating Emissions
+(SSP5-8.5)",48.219,8.091,21.363,Big Muddy,above90
+2019,"Moderating Emissions
+(SSP1-2.6)",56.073,22.8,30.455,Big Muddy,above90
+2019,"Middle of the Road
+(SSP2-4.5)",41.545,16.6,25.182,Big Muddy,above90
+2019,"High Emissions
+(SSP3-7.0)",35.6,10.273,24.273,Big Muddy,above90
+2019,"Accelerating Emissions
+(SSP5-8.5)",64.308,15.964,32.182,Big Muddy,above90
+2020,"Moderating Emissions
+(SSP1-2.6)",54,7.2,31.727,Big Muddy,above90
+2020,"Middle of the Road
+(SSP2-4.5)",34.655,8.818,21.182,Big Muddy,above90
+2020,"High Emissions
+(SSP3-7.0)",43.128,7.728,17.545,Big Muddy,above90
+2020,"Accelerating Emissions
+(SSP5-8.5)",44.145,14.764,29.91,Big Muddy,above90
+2021,"Moderating Emissions
+(SSP1-2.6)",53.381,22.873,37.364,Big Muddy,above90
+2021,"Middle of the Road
+(SSP2-4.5)",55.255,8.563,29.727,Big Muddy,above90
+2021,"High Emissions
+(SSP3-7.0)",54.309,11.473,26.545,Big Muddy,above90
+2021,"Accelerating Emissions
+(SSP5-8.5)",56.673,8.345,17.818,Big Muddy,above90
+2022,"Moderating Emissions
+(SSP1-2.6)",30.945,20.781,25.909,Big Muddy,above90
+2022,"Middle of the Road
+(SSP2-4.5)",50.636,5.254,25.546,Big Muddy,above90
+2022,"High Emissions
+(SSP3-7.0)",38.274,11.418,22.546,Big Muddy,above90
+2022,"Accelerating Emissions
+(SSP5-8.5)",58.691,12.745,14.727,Big Muddy,above90
+2023,"Moderating Emissions
+(SSP1-2.6)",37.11,8.764,17.546,Big Muddy,above90
+2023,"Middle of the Road
+(SSP2-4.5)",47.854,9.491,22.272,Big Muddy,above90
+2023,"High Emissions
+(SSP3-7.0)",49.546,21.254,32.364,Big Muddy,above90
+2023,"Accelerating Emissions
+(SSP5-8.5)",45.418,6.873,11.547,Big Muddy,above90
+2024,"Moderating Emissions
+(SSP1-2.6)",40.4,11.582,30.272,Big Muddy,above90
+2024,"Middle of the Road
+(SSP2-4.5)",44.636,12.036,24.637,Big Muddy,above90
+2024,"High Emissions
+(SSP3-7.0)",55.982,24.654,31.091,Big Muddy,above90
+2024,"Accelerating Emissions
+(SSP5-8.5)",42.018,10.909,17.818,Big Muddy,above90
+2025,"Moderating Emissions
+(SSP1-2.6)",44.655,16.11,32.455,Big Muddy,above90
+2025,"Middle of the Road
+(SSP2-4.5)",33.219,8.073,12.636,Big Muddy,above90
+2025,"High Emissions
+(SSP3-7.0)",45.582,19.127,31,Big Muddy,above90
+2025,"Accelerating Emissions
+(SSP5-8.5)",60.509,12.618,32.182,Big Muddy,above90
+2026,"Moderating Emissions
+(SSP1-2.6)",41.364,12.09,19.545,Big Muddy,above90
+2026,"Middle of the Road
+(SSP2-4.5)",54.345,17.799,31.091,Big Muddy,above90
+2026,"High Emissions
+(SSP3-7.0)",29.4,13.564,21.727,Big Muddy,above90
+2026,"Accelerating Emissions
+(SSP5-8.5)",63.2,11.745,15.364,Big Muddy,above90
+2027,"Moderating Emissions
+(SSP1-2.6)",62.308,14.854,25.636,Big Muddy,above90
+2027,"Middle of the Road
+(SSP2-4.5)",50.145,9.164,23.819,Big Muddy,above90
+2027,"High Emissions
+(SSP3-7.0)",40.528,9.418,25.273,Big Muddy,above90
+2027,"Accelerating Emissions
+(SSP5-8.5)",52.345,15.781,31.909,Big Muddy,above90
+2028,"Moderating Emissions
+(SSP1-2.6)",37.618,9.218,26.727,Big Muddy,above90
+2028,"Middle of the Road
+(SSP2-4.5)",37.527,10.564,30.727,Big Muddy,above90
+2028,"High Emissions
+(SSP3-7.0)",49.018,29.054,34.182,Big Muddy,above90
+2028,"Accelerating Emissions
+(SSP5-8.5)",43.873,5.437,29.727,Big Muddy,above90
+2029,"Moderating Emissions
+(SSP1-2.6)",64.6,14.128,27.182,Big Muddy,above90
+2029,"Middle of the Road
+(SSP2-4.5)",61.182,8.509,22.545,Big Muddy,above90
+2029,"High Emissions
+(SSP3-7.0)",44.546,8.582,19.727,Big Muddy,above90
+2029,"Accelerating Emissions
+(SSP5-8.5)",53.146,17.981,29.818,Big Muddy,above90
+2030,"Moderating Emissions
+(SSP1-2.6)",43.218,10.582,32.455,Big Muddy,above90
+2030,"Middle of the Road
+(SSP2-4.5)",53.564,13.982,32.363,Big Muddy,above90
+2030,"High Emissions
+(SSP3-7.0)",57.581,6.782,30.545,Big Muddy,above90
+2030,"Accelerating Emissions
+(SSP5-8.5)",55.437,17,26.181,Big Muddy,above90
+2031,"Moderating Emissions
+(SSP1-2.6)",45.436,24.182,36.454,Big Muddy,above90
+2031,"Middle of the Road
+(SSP2-4.5)",51.291,13.709,32.637,Big Muddy,above90
+2031,"High Emissions
+(SSP3-7.0)",54.309,14.908,34.182,Big Muddy,above90
+2031,"Accelerating Emissions
+(SSP5-8.5)",51.291,24.801,30.454,Big Muddy,above90
+2032,"Moderating Emissions
+(SSP1-2.6)",54.491,18.909,24.272,Big Muddy,above90
+2032,"Middle of the Road
+(SSP2-4.5)",34.727,19.636,22.182,Big Muddy,above90
+2032,"High Emissions
+(SSP3-7.0)",58.544,20.491,34,Big Muddy,above90
+2032,"Accelerating Emissions
+(SSP5-8.5)",52.219,13.291,32.546,Big Muddy,above90
+2033,"Moderating Emissions
+(SSP1-2.6)",41.927,23.4,31,Big Muddy,above90
+2033,"Middle of the Road
+(SSP2-4.5)",59.655,26.036,48.908,Big Muddy,above90
+2033,"High Emissions
+(SSP3-7.0)",61.073,10.854,25,Big Muddy,above90
+2033,"Accelerating Emissions
+(SSP5-8.5)",54.109,19.745,42.545,Big Muddy,above90
+2034,"Moderating Emissions
+(SSP1-2.6)",52.946,8.655,42.455,Big Muddy,above90
+2034,"Middle of the Road
+(SSP2-4.5)",52,10.473,32.546,Big Muddy,above90
+2034,"High Emissions
+(SSP3-7.0)",65.909,22.691,38.273,Big Muddy,above90
+2034,"Accelerating Emissions
+(SSP5-8.5)",55.453,12.11,34.819,Big Muddy,above90
+2035,"Moderating Emissions
+(SSP1-2.6)",53.472,20,38.636,Big Muddy,above90
+2035,"Middle of the Road
+(SSP2-4.5)",47.182,15.436,28.183,Big Muddy,above90
+2035,"High Emissions
+(SSP3-7.0)",53.854,13.728,27,Big Muddy,above90
+2035,"Accelerating Emissions
+(SSP5-8.5)",42.182,6.837,22,Big Muddy,above90
+2036,"Moderating Emissions
+(SSP1-2.6)",51.237,17.273,40,Big Muddy,above90
+2036,"Middle of the Road
+(SSP2-4.5)",53.036,24.218,33,Big Muddy,above90
+2036,"High Emissions
+(SSP3-7.0)",62.418,6.255,24.91,Big Muddy,above90
+2036,"Accelerating Emissions
+(SSP5-8.5)",34.4,5.091,24.636,Big Muddy,above90
+2037,"Moderating Emissions
+(SSP1-2.6)",51.255,11.364,41.637,Big Muddy,above90
+2037,"Middle of the Road
+(SSP2-4.5)",43.891,13.927,35,Big Muddy,above90
+2037,"High Emissions
+(SSP3-7.0)",45,3.691,11.546,Big Muddy,above90
+2037,"Accelerating Emissions
+(SSP5-8.5)",53.764,13.781,30.455,Big Muddy,above90
+2038,"Moderating Emissions
+(SSP1-2.6)",41.582,17.746,25.727,Big Muddy,above90
+2038,"Middle of the Road
+(SSP2-4.5)",37.6,12.254,28.545,Big Muddy,above90
+2038,"High Emissions
+(SSP3-7.0)",52.399,31.199,43.818,Big Muddy,above90
+2038,"Accelerating Emissions
+(SSP5-8.5)",53.127,10.673,29.273,Big Muddy,above90
+2039,"Moderating Emissions
+(SSP1-2.6)",60.182,11.418,26.817,Big Muddy,above90
+2039,"Middle of the Road
+(SSP2-4.5)",40.363,11.254,29.909,Big Muddy,above90
+2039,"High Emissions
+(SSP3-7.0)",53.8,27.745,41,Big Muddy,above90
+2039,"Accelerating Emissions
+(SSP5-8.5)",62.455,19.036,33.454,Big Muddy,above90
+2040,"Moderating Emissions
+(SSP1-2.6)",43.182,8.764,22.908,Big Muddy,above90
+2040,"Middle of the Road
+(SSP2-4.5)",60.891,19.618,25.91,Big Muddy,above90
+2040,"High Emissions
+(SSP3-7.0)",51.273,19.127,30.272,Big Muddy,above90
+2040,"Accelerating Emissions
+(SSP5-8.5)",66.582,25.891,49.092,Big Muddy,above90
+2041,"Moderating Emissions
+(SSP1-2.6)",48.545,7.145,25.637,Big Muddy,above90
+2041,"Middle of the Road
+(SSP2-4.5)",53.964,16.291,40.727,Big Muddy,above90
+2041,"High Emissions
+(SSP3-7.0)",61.981,15.673,45.909,Big Muddy,above90
+2041,"Accelerating Emissions
+(SSP5-8.5)",49.836,18.272,35.09,Big Muddy,above90
+2042,"Moderating Emissions
+(SSP1-2.6)",53.418,12.91,20.728,Big Muddy,above90
+2042,"Middle of the Road
+(SSP2-4.5)",51.073,23.109,32.182,Big Muddy,above90
+2042,"High Emissions
+(SSP3-7.0)",40.673,15.346,23.636,Big Muddy,above90
+2042,"Accelerating Emissions
+(SSP5-8.5)",64.491,23.618,33.091,Big Muddy,above90
+2043,"Moderating Emissions
+(SSP1-2.6)",46.49,15.345,32.637,Big Muddy,above90
+2043,"Middle of the Road
+(SSP2-4.5)",60.818,18.181,29.182,Big Muddy,above90
+2043,"High Emissions
+(SSP3-7.0)",43.636,13.164,27.637,Big Muddy,above90
+2043,"Accelerating Emissions
+(SSP5-8.5)",65.964,10.018,28.818,Big Muddy,above90
+2044,"Moderating Emissions
+(SSP1-2.6)",51.691,15.964,36.727,Big Muddy,above90
+2044,"Middle of the Road
+(SSP2-4.5)",86.381,24.018,27.181,Big Muddy,above90
+2044,"High Emissions
+(SSP3-7.0)",49.983,21.836,27,Big Muddy,above90
+2044,"Accelerating Emissions
+(SSP5-8.5)",51.891,27.673,45.545,Big Muddy,above90
+2045,"Moderating Emissions
+(SSP1-2.6)",44.581,11.182,31.092,Big Muddy,above90
+2045,"Middle of the Road
+(SSP2-4.5)",64.491,16.345,40.091,Big Muddy,above90
+2045,"High Emissions
+(SSP3-7.0)",44.309,32.928,37.727,Big Muddy,above90
+2045,"Accelerating Emissions
+(SSP5-8.5)",53.8,13.109,32.09,Big Muddy,above90
+2046,"Moderating Emissions
+(SSP1-2.6)",55.782,15.618,31.819,Big Muddy,above90
+2046,"Middle of the Road
+(SSP2-4.5)",39.49,14.582,20.818,Big Muddy,above90
+2046,"High Emissions
+(SSP3-7.0)",55.018,18.364,38.273,Big Muddy,above90
+2046,"Accelerating Emissions
+(SSP5-8.5)",52.874,18.31,37.727,Big Muddy,above90
+2047,"Moderating Emissions
+(SSP1-2.6)",59.708,14.037,26.456,Big Muddy,above90
+2047,"Middle of the Road
+(SSP2-4.5)",44.637,4.564,31.273,Big Muddy,above90
+2047,"High Emissions
+(SSP3-7.0)",44.999,22.054,25.092,Big Muddy,above90
+2047,"Accelerating Emissions
+(SSP5-8.5)",59.709,18.399,24.546,Big Muddy,above90
+2048,"Moderating Emissions
+(SSP1-2.6)",44.055,13.309,18,Big Muddy,above90
+2048,"Middle of the Road
+(SSP2-4.5)",51.4,21.964,33.455,Big Muddy,above90
+2048,"High Emissions
+(SSP3-7.0)",62.582,7.545,33.182,Big Muddy,above90
+2048,"Accelerating Emissions
+(SSP5-8.5)",79.345,27.364,53.999,Big Muddy,above90
+2049,"Moderating Emissions
+(SSP1-2.6)",46.746,15.6,30.636,Big Muddy,above90
+2049,"Middle of the Road
+(SSP2-4.5)",63.201,25.728,45.727,Big Muddy,above90
+2049,"High Emissions
+(SSP3-7.0)",38.728,21.964,35.364,Big Muddy,above90
+2049,"Accelerating Emissions
+(SSP5-8.5)",75.328,19.237,46.455,Big Muddy,above90
+2050,"Moderating Emissions
+(SSP1-2.6)",61.763,3.818,25.091,Big Muddy,above90
+2050,"Middle of the Road
+(SSP2-4.5)",65.582,24.219,49.182,Big Muddy,above90
+2050,"High Emissions
+(SSP3-7.0)",54.326,27.818,41.635,Big Muddy,above90
+2050,"Accelerating Emissions
+(SSP5-8.5)",72.291,21.873,42.727,Big Muddy,above90
+2051,"Moderating Emissions
+(SSP1-2.6)",52.436,12.456,38.454,Big Muddy,above90
+2051,"Middle of the Road
+(SSP2-4.5)",67.891,11.163,44.999,Big Muddy,above90
+2051,"High Emissions
+(SSP3-7.0)",58.928,41.4,49.364,Big Muddy,above90
+2051,"Accelerating Emissions
+(SSP5-8.5)",56.546,26.854,38.182,Big Muddy,above90
+2052,"Moderating Emissions
+(SSP1-2.6)",50.581,19.436,34.818,Big Muddy,above90
+2052,"Middle of the Road
+(SSP2-4.5)",58.6,10.654,41.273,Big Muddy,above90
+2052,"High Emissions
+(SSP3-7.0)",46.51,22.873,33.636,Big Muddy,above90
+2052,"Accelerating Emissions
+(SSP5-8.5)",56.055,33.891,42.818,Big Muddy,above90
+2053,"Moderating Emissions
+(SSP1-2.6)",44.037,15.436,29.455,Big Muddy,above90
+2053,"Middle of the Road
+(SSP2-4.5)",52.363,19.618,35.091,Big Muddy,above90
+2053,"High Emissions
+(SSP3-7.0)",58.145,29.744,47.273,Big Muddy,above90
+2053,"Accelerating Emissions
+(SSP5-8.5)",78.891,25.2,40,Big Muddy,above90
+2054,"Moderating Emissions
+(SSP1-2.6)",51.309,23.181,38.727,Big Muddy,above90
+2054,"Middle of the Road
+(SSP2-4.5)",68.781,6.018,41.182,Big Muddy,above90
+2054,"High Emissions
+(SSP3-7.0)",60.382,25.709,37.727,Big Muddy,above90
+2054,"Accelerating Emissions
+(SSP5-8.5)",61.109,26.109,40.364,Big Muddy,above90
+2055,"Moderating Emissions
+(SSP1-2.6)",61.618,21.273,42.363,Big Muddy,above90
+2055,"Middle of the Road
+(SSP2-4.5)",74.636,16.473,51.909,Big Muddy,above90
+2055,"High Emissions
+(SSP3-7.0)",62.182,24.291,39.091,Big Muddy,above90
+2055,"Accelerating Emissions
+(SSP5-8.5)",69.255,24.655,51.908,Big Muddy,above90
+2056,"Moderating Emissions
+(SSP1-2.6)",41.545,6.855,30.637,Big Muddy,above90
+2056,"Middle of the Road
+(SSP2-4.5)",54.818,24.346,32.546,Big Muddy,above90
+2056,"High Emissions
+(SSP3-7.0)",54.783,12.218,41.636,Big Muddy,above90
+2056,"Accelerating Emissions
+(SSP5-8.5)",68.328,30.545,43.454,Big Muddy,above90
+2057,"Moderating Emissions
+(SSP1-2.6)",41.419,8.618,26.727,Big Muddy,above90
+2057,"Middle of the Road
+(SSP2-4.5)",56.673,33.583,38.728,Big Muddy,above90
+2057,"High Emissions
+(SSP3-7.0)",51.891,16.472,24.818,Big Muddy,above90
+2057,"Accelerating Emissions
+(SSP5-8.5)",58.547,24,38.637,Big Muddy,above90
+2058,"Moderating Emissions
+(SSP1-2.6)",40.981,18.527,23.364,Big Muddy,above90
+2058,"Middle of the Road
+(SSP2-4.5)",55.055,31.418,50.182,Big Muddy,above90
+2058,"High Emissions
+(SSP3-7.0)",48.654,16.054,39.91,Big Muddy,above90
+2058,"Accelerating Emissions
+(SSP5-8.5)",62.346,14.073,47.455,Big Muddy,above90
+2059,"Moderating Emissions
+(SSP1-2.6)",57.437,24.855,36.454,Big Muddy,above90
+2059,"Middle of the Road
+(SSP2-4.5)",67.473,27.473,44.091,Big Muddy,above90
+2059,"High Emissions
+(SSP3-7.0)",62.636,23.601,39.454,Big Muddy,above90
+2059,"Accelerating Emissions
+(SSP5-8.5)",73.982,38.363,48.637,Big Muddy,above90
+2060,"Moderating Emissions
+(SSP1-2.6)",57.309,18.564,33.273,Big Muddy,above90
+2060,"Middle of the Road
+(SSP2-4.5)",66.799,20.181,36.273,Big Muddy,above90
+2060,"High Emissions
+(SSP3-7.0)",44.655,26.254,37.818,Big Muddy,above90
+2060,"Accelerating Emissions
+(SSP5-8.5)",68.291,23.691,46.091,Big Muddy,above90
+2061,"Moderating Emissions
+(SSP1-2.6)",44.873,23.036,29.273,Big Muddy,above90
+2061,"Middle of the Road
+(SSP2-4.5)",65.999,31.545,40,Big Muddy,above90
+2061,"High Emissions
+(SSP3-7.0)",62.273,17.618,51.726,Big Muddy,above90
+2061,"Accelerating Emissions
+(SSP5-8.5)",70.999,34.963,58.454,Big Muddy,above90
+2062,"Moderating Emissions
+(SSP1-2.6)",60.181,19.819,45.545,Big Muddy,above90
+2062,"Middle of the Road
+(SSP2-4.5)",51.891,18.345,36,Big Muddy,above90
+2062,"High Emissions
+(SSP3-7.0)",51.69,23.545,35.455,Big Muddy,above90
+2062,"Accelerating Emissions
+(SSP5-8.5)",73.073,30.182,51.182,Big Muddy,above90
+2063,"Moderating Emissions
+(SSP1-2.6)",49.145,13.546,33.454,Big Muddy,above90
+2063,"Middle of the Road
+(SSP2-4.5)",56.927,16.927,31.364,Big Muddy,above90
+2063,"High Emissions
+(SSP3-7.0)",58.691,28.345,48.363,Big Muddy,above90
+2063,"Accelerating Emissions
+(SSP5-8.5)",83.382,36.219,63.091,Big Muddy,above90
+2064,"Moderating Emissions
+(SSP1-2.6)",65.945,7.564,23.727,Big Muddy,above90
+2064,"Middle of the Road
+(SSP2-4.5)",53.528,12.672,31.182,Big Muddy,above90
+2064,"High Emissions
+(SSP3-7.0)",58.091,30.054,41.636,Big Muddy,above90
+2064,"Accelerating Emissions
+(SSP5-8.5)",68.454,36.054,60.272,Big Muddy,above90
+2065,"Moderating Emissions
+(SSP1-2.6)",49.237,13.072,23.091,Big Muddy,above90
+2065,"Middle of the Road
+(SSP2-4.5)",54.745,12.419,32.636,Big Muddy,above90
+2065,"High Emissions
+(SSP3-7.0)",55.109,30.8,51.091,Big Muddy,above90
+2065,"Accelerating Emissions
+(SSP5-8.5)",65.981,37.491,56.727,Big Muddy,above90
+2066,"Moderating Emissions
+(SSP1-2.6)",50.399,12.309,39.09,Big Muddy,above90
+2066,"Middle of the Road
+(SSP2-4.5)",62.238,13.909,40.909,Big Muddy,above90
+2066,"High Emissions
+(SSP3-7.0)",62.364,29.983,45.545,Big Muddy,above90
+2066,"Accelerating Emissions
+(SSP5-8.5)",77.273,25.273,62.364,Big Muddy,above90
+2067,"Moderating Emissions
+(SSP1-2.6)",65.055,20.219,36.546,Big Muddy,above90
+2067,"Middle of the Road
+(SSP2-4.5)",59.183,19.146,32.818,Big Muddy,above90
+2067,"High Emissions
+(SSP3-7.0)",69.91,37.091,49.182,Big Muddy,above90
+2067,"Accelerating Emissions
+(SSP5-8.5)",91.017,26.691,47.181,Big Muddy,above90
+2068,"Moderating Emissions
+(SSP1-2.6)",54.382,19.692,29.181,Big Muddy,above90
+2068,"Middle of the Road
+(SSP2-4.5)",44.872,11.382,25.545,Big Muddy,above90
+2068,"High Emissions
+(SSP3-7.0)",68.055,33.455,46.091,Big Muddy,above90
+2068,"Accelerating Emissions
+(SSP5-8.5)",90.472,22.8,60.091,Big Muddy,above90
+2069,"Moderating Emissions
+(SSP1-2.6)",61.617,28.709,36.546,Big Muddy,above90
+2069,"Middle of the Road
+(SSP2-4.5)",62.618,28.763,41.545,Big Muddy,above90
+2069,"High Emissions
+(SSP3-7.0)",96.673,45.454,56.908,Big Muddy,above90
+2069,"Accelerating Emissions
+(SSP5-8.5)",102.6,43.037,56.819,Big Muddy,above90
+2070,"Moderating Emissions
+(SSP1-2.6)",51.528,23.672,37.454,Big Muddy,above90
+2070,"Middle of the Road
+(SSP2-4.5)",52.382,17.091,31.545,Big Muddy,above90
+2070,"High Emissions
+(SSP3-7.0)",73.873,37.345,54.636,Big Muddy,above90
+2070,"Accelerating Emissions
+(SSP5-8.5)",92.983,43.4,60.453,Big Muddy,above90
+2071,"Moderating Emissions
+(SSP1-2.6)",63.601,9.564,47.546,Big Muddy,above90
+2071,"Middle of the Road
+(SSP2-4.5)",64.454,30.327,44.001,Big Muddy,above90
+2071,"High Emissions
+(SSP3-7.0)",75.909,26.036,54.364,Big Muddy,above90
+2071,"Accelerating Emissions
+(SSP5-8.5)",75.746,39.819,62.818,Big Muddy,above90
+2072,"Moderating Emissions
+(SSP1-2.6)",53.073,22.837,35.91,Big Muddy,above90
+2072,"Middle of the Road
+(SSP2-4.5)",52.126,23.655,36.818,Big Muddy,above90
+2072,"High Emissions
+(SSP3-7.0)",70.146,38.599,50.363,Big Muddy,above90
+2072,"Accelerating Emissions
+(SSP5-8.5)",76.91,41.837,59.636,Big Muddy,above90
+2073,"Moderating Emissions
+(SSP1-2.6)",60.272,15.782,37.364,Big Muddy,above90
+2073,"Middle of the Road
+(SSP2-4.5)",66.401,10.673,35.091,Big Muddy,above90
+2073,"High Emissions
+(SSP3-7.0)",70.164,22.982,51.545,Big Muddy,above90
+2073,"Accelerating Emissions
+(SSP5-8.5)",80.563,22.273,53,Big Muddy,above90
+2074,"Moderating Emissions
+(SSP1-2.6)",49.819,18.781,29.545,Big Muddy,above90
+2074,"Middle of the Road
+(SSP2-4.5)",64.037,13.837,43.455,Big Muddy,above90
+2074,"High Emissions
+(SSP3-7.0)",66.418,35.382,51.273,Big Muddy,above90
+2074,"Accelerating Emissions
+(SSP5-8.5)",106.509,36.419,69.909,Big Muddy,above90
+2075,"Moderating Emissions
+(SSP1-2.6)",58.164,15.328,28.909,Big Muddy,above90
+2075,"Middle of the Road
+(SSP2-4.5)",70.109,20.018,44.546,Big Muddy,above90
+2075,"High Emissions
+(SSP3-7.0)",70.672,41.654,57.273,Big Muddy,above90
+2075,"Accelerating Emissions
+(SSP5-8.5)",88.326,37.455,48.455,Big Muddy,above90
+2076,"Moderating Emissions
+(SSP1-2.6)",52.801,24.691,39.817,Big Muddy,above90
+2076,"Middle of the Road
+(SSP2-4.5)",56.455,16.109,35.818,Big Muddy,above90
+2076,"High Emissions
+(SSP3-7.0)",82.6,38.055,48.636,Big Muddy,above90
+2076,"Accelerating Emissions
+(SSP5-8.5)",99.745,32.909,67.546,Big Muddy,above90
+2077,"Moderating Emissions
+(SSP1-2.6)",53.963,16.818,41.09,Big Muddy,above90
+2077,"Middle of the Road
+(SSP2-4.5)",65.91,24.363,38.728,Big Muddy,above90
+2077,"High Emissions
+(SSP3-7.0)",69.91,41.291,49.455,Big Muddy,above90
+2077,"Accelerating Emissions
+(SSP5-8.5)",97.309,37.31,71.545,Big Muddy,above90
+2078,"Moderating Emissions
+(SSP1-2.6)",55.109,15.491,41.09,Big Muddy,above90
+2078,"Middle of the Road
+(SSP2-4.5)",53.018,22.928,31.727,Big Muddy,above90
+2078,"High Emissions
+(SSP3-7.0)",81.437,35.618,51.091,Big Muddy,above90
+2078,"Accelerating Emissions
+(SSP5-8.5)",63.364,17.8,51.727,Big Muddy,above90
+2079,"Moderating Emissions
+(SSP1-2.6)",58.508,26.818,41.454,Big Muddy,above90
+2079,"Middle of the Road
+(SSP2-4.5)",54.255,30.782,41.545,Big Muddy,above90
+2079,"High Emissions
+(SSP3-7.0)",88.782,37.527,59.908,Big Muddy,above90
+2079,"Accelerating Emissions
+(SSP5-8.5)",90.8,46.983,77.091,Big Muddy,above90
+2080,"Moderating Emissions
+(SSP1-2.6)",57.473,17.473,28.637,Big Muddy,above90
+2080,"Middle of the Road
+(SSP2-4.5)",61,21.219,36.818,Big Muddy,above90
+2080,"High Emissions
+(SSP3-7.0)",74.2,24.636,52.546,Big Muddy,above90
+2080,"Accelerating Emissions
+(SSP5-8.5)",91.672,51.236,71.82,Big Muddy,above90
+2081,"Moderating Emissions
+(SSP1-2.6)",57.164,27.636,34.363,Big Muddy,above90
+2081,"Middle of the Road
+(SSP2-4.5)",54.927,31.491,41.455,Big Muddy,above90
+2081,"High Emissions
+(SSP3-7.0)",84.909,24.962,52.001,Big Muddy,above90
+2081,"Accelerating Emissions
+(SSP5-8.5)",89.564,51.436,69.364,Big Muddy,above90
+2082,"Moderating Emissions
+(SSP1-2.6)",66.491,35.654,40.091,Big Muddy,above90
+2082,"Middle of the Road
+(SSP2-4.5)",69.491,25.127,35.091,Big Muddy,above90
+2082,"High Emissions
+(SSP3-7.0)",81.109,36.928,54.819,Big Muddy,above90
+2082,"Accelerating Emissions
+(SSP5-8.5)",95.364,58.073,70.182,Big Muddy,above90
+2083,"Moderating Emissions
+(SSP1-2.6)",55.291,36.109,52.182,Big Muddy,above90
+2083,"Middle of the Road
+(SSP2-4.5)",68.782,19.491,42.818,Big Muddy,above90
+2083,"High Emissions
+(SSP3-7.0)",81.673,32.963,55.364,Big Muddy,above90
+2083,"Accelerating Emissions
+(SSP5-8.5)",89.163,49.254,66.182,Big Muddy,above90
+2084,"Moderating Emissions
+(SSP1-2.6)",56.218,13.527,33.273,Big Muddy,above90
+2084,"Middle of the Road
+(SSP2-4.5)",59.219,11.618,42.091,Big Muddy,above90
+2084,"High Emissions
+(SSP3-7.0)",99.29,52.092,71.909,Big Muddy,above90
+2084,"Accelerating Emissions
+(SSP5-8.5)",100.418,49.655,62.727,Big Muddy,above90
+2085,"Moderating Emissions
+(SSP1-2.6)",65.728,11.109,26.181,Big Muddy,above90
+2085,"Middle of the Road
+(SSP2-4.5)",58.309,29.981,43.908,Big Muddy,above90
+2085,"High Emissions
+(SSP3-7.0)",84.982,42.218,59.364,Big Muddy,above90
+2085,"Accelerating Emissions
+(SSP5-8.5)",87.618,44.109,70.272,Big Muddy,above90
+2086,"Moderating Emissions
+(SSP1-2.6)",56.855,32.673,40.092,Big Muddy,above90
+2086,"Middle of the Road
+(SSP2-4.5)",61.472,28.146,41.272,Big Muddy,above90
+2086,"High Emissions
+(SSP3-7.0)",93.236,49.381,57.636,Big Muddy,above90
+2086,"Accelerating Emissions
+(SSP5-8.5)",84.964,57.6,75,Big Muddy,above90
+2087,"Moderating Emissions
+(SSP1-2.6)",40.927,14.527,30.546,Big Muddy,above90
+2087,"Middle of the Road
+(SSP2-4.5)",62.4,27.146,51.364,Big Muddy,above90
+2087,"High Emissions
+(SSP3-7.0)",100.256,23.4,65.273,Big Muddy,above90
+2087,"Accelerating Emissions
+(SSP5-8.5)",75.364,32.255,62.272,Big Muddy,above90
+2088,"Moderating Emissions
+(SSP1-2.6)",46.073,20.527,34.727,Big Muddy,above90
+2088,"Middle of the Road
+(SSP2-4.5)",76.091,33.581,49.362,Big Muddy,above90
+2088,"High Emissions
+(SSP3-7.0)",89.272,39.364,52.728,Big Muddy,above90
+2088,"Accelerating Emissions
+(SSP5-8.5)",104.545,55.054,66.454,Big Muddy,above90
+2089,"Moderating Emissions
+(SSP1-2.6)",60.708,3.764,38.545,Big Muddy,above90
+2089,"Middle of the Road
+(SSP2-4.5)",56.927,34.309,42.273,Big Muddy,above90
+2089,"High Emissions
+(SSP3-7.0)",98.346,39.927,70.455,Big Muddy,above90
+2089,"Accelerating Emissions
+(SSP5-8.5)",106.364,60.145,82.818,Big Muddy,above90
+2090,"Moderating Emissions
+(SSP1-2.6)",50.655,19.601,38.546,Big Muddy,above90
+2090,"Middle of the Road
+(SSP2-4.5)",59.073,11.273,45.091,Big Muddy,above90
+2090,"High Emissions
+(SSP3-7.0)",97.055,53.945,76.728,Big Muddy,above90
+2090,"Accelerating Emissions
+(SSP5-8.5)",93.127,48.164,81.182,Big Muddy,above90
+2091,"Moderating Emissions
+(SSP1-2.6)",54.218,16.073,38.727,Big Muddy,above90
+2091,"Middle of the Road
+(SSP2-4.5)",67.745,18.055,49.182,Big Muddy,above90
+2091,"High Emissions
+(SSP3-7.0)",83.128,49.8,67.818,Big Muddy,above90
+2091,"Accelerating Emissions
+(SSP5-8.5)",116.436,51.601,72.818,Big Muddy,above90
+2092,"Moderating Emissions
+(SSP1-2.6)",67.692,17.673,33.091,Big Muddy,above90
+2092,"Middle of the Road
+(SSP2-4.5)",77.201,28.454,45.909,Big Muddy,above90
+2092,"High Emissions
+(SSP3-7.0)",79.745,44.982,58.91,Big Muddy,above90
+2092,"Accelerating Emissions
+(SSP5-8.5)",114.036,54.381,85.181,Big Muddy,above90
+2093,"Moderating Emissions
+(SSP1-2.6)",65.182,12.236,31.546,Big Muddy,above90
+2093,"Middle of the Road
+(SSP2-4.5)",63.418,34.545,55.636,Big Muddy,above90
+2093,"High Emissions
+(SSP3-7.0)",77.781,53.4,66.09,Big Muddy,above90
+2093,"Accelerating Emissions
+(SSP5-8.5)",105.744,61.381,94.546,Big Muddy,above90
+2094,"Moderating Emissions
+(SSP1-2.6)",41.218,8.327,29.272,Big Muddy,above90
+2094,"Middle of the Road
+(SSP2-4.5)",82.272,13.692,56.454,Big Muddy,above90
+2094,"High Emissions
+(SSP3-7.0)",79.963,45.855,63.091,Big Muddy,above90
+2094,"Accelerating Emissions
+(SSP5-8.5)",116.273,54.273,80.273,Big Muddy,above90
+2095,"Moderating Emissions
+(SSP1-2.6)",60.127,25.091,52.546,Big Muddy,above90
+2095,"Middle of the Road
+(SSP2-4.5)",72.437,43.164,51.09,Big Muddy,above90
+2095,"High Emissions
+(SSP3-7.0)",90.509,49.546,82,Big Muddy,above90
+2095,"Accelerating Emissions
+(SSP5-8.5)",103.364,55.564,75.909,Big Muddy,above90
+2096,"Moderating Emissions
+(SSP1-2.6)",58.545,11.818,35.728,Big Muddy,above90
+2096,"Middle of the Road
+(SSP2-4.5)",76.072,25.182,47.545,Big Muddy,above90
+2096,"High Emissions
+(SSP3-7.0)",102.946,56.582,73.181,Big Muddy,above90
+2096,"Accelerating Emissions
+(SSP5-8.5)",112.218,58.709,79.727,Big Muddy,above90
+2097,"Moderating Emissions
+(SSP1-2.6)",66.799,27.128,39.273,Big Muddy,above90
+2097,"Middle of the Road
+(SSP2-4.5)",82.219,27.927,49.909,Big Muddy,above90
+2097,"High Emissions
+(SSP3-7.0)",101.491,47.618,77.818,Big Muddy,above90
+2097,"Accelerating Emissions
+(SSP5-8.5)",103.818,51.164,68.909,Big Muddy,above90
+2098,"Moderating Emissions
+(SSP1-2.6)",72.11,23.891,35.454,Big Muddy,above90
+2098,"Middle of the Road
+(SSP2-4.5)",70.163,34.49,48.909,Big Muddy,above90
+2098,"High Emissions
+(SSP3-7.0)",98.273,52.745,67.454,Big Muddy,above90
+2098,"Accelerating Emissions
+(SSP5-8.5)",99.673,66.891,87.637,Big Muddy,above90
+2099,"Moderating Emissions
+(SSP1-2.6)",59.946,4.618,36.818,Big Muddy,above90
+2099,"Middle of the Road
+(SSP2-4.5)",62.364,31.508,41.818,Big Muddy,above90
+2099,"High Emissions
+(SSP3-7.0)",94.309,48.945,71.273,Big Muddy,above90
+2099,"Accelerating Emissions
+(SSP5-8.5)",106.946,55.473,77.636,Big Muddy,above90
+2100,"Moderating Emissions
+(SSP1-2.6)",58.964,7.873,25.091,Big Muddy,above90
+2100,"Middle of the Road
+(SSP2-4.5)",74.218,14.727,44.545,Big Muddy,above90
+2100,"High Emissions
+(SSP3-7.0)",93.436,52.219,70.727,Big Muddy,above90
+2100,"Accelerating Emissions
+(SSP5-8.5)",106.127,53.4,85.181,Big Muddy,above90

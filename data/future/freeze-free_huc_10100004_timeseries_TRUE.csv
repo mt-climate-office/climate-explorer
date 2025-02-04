@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,203.084,173.053,183.038,Lower Yellowstone,freeze-free
+1951,Historical Emissions,193.008,171.077,189.347,Lower Yellowstone,freeze-free
+1952,Historical Emissions,189.515,175.6,182.654,Lower Yellowstone,freeze-free
+1953,Historical Emissions,188.87,175.977,181.731,Lower Yellowstone,freeze-free
+1954,Historical Emissions,201.777,168.785,185.921,Lower Yellowstone,freeze-free
+1955,Historical Emissions,192.623,176.946,187.806,Lower Yellowstone,freeze-free
+1956,Historical Emissions,201.216,188.353,191.307,Lower Yellowstone,freeze-free
+1957,Historical Emissions,205.87,175.346,189.385,Lower Yellowstone,freeze-free
+1958,Historical Emissions,194.062,179.439,188.308,Lower Yellowstone,freeze-free
+1959,Historical Emissions,192.847,171.778,183.885,Lower Yellowstone,freeze-free
+1960,Historical Emissions,206.492,176.131,190.845,Lower Yellowstone,freeze-free
+1961,Historical Emissions,199.285,173.87,190.192,Lower Yellowstone,freeze-free
+1962,Historical Emissions,198.548,175.862,181.115,Lower Yellowstone,freeze-free
+1963,Historical Emissions,201.116,177.554,186.654,Lower Yellowstone,freeze-free
+1964,Historical Emissions,191.5,176.8,186.192,Lower Yellowstone,freeze-free
+1965,Historical Emissions,193.5,171.091,182.385,Lower Yellowstone,freeze-free
+1966,Historical Emissions,195.993,174.969,182.386,Lower Yellowstone,freeze-free
+1967,Historical Emissions,191.714,170.016,180.152,Lower Yellowstone,freeze-free
+1968,Historical Emissions,186.222,173.554,179.884,Lower Yellowstone,freeze-free
+1969,Historical Emissions,188.539,168.901,181.615,Lower Yellowstone,freeze-free
+1970,Historical Emissions,197.3,173.555,184.615,Lower Yellowstone,freeze-free
+1971,Historical Emissions,200.892,178.63,191.424,Lower Yellowstone,freeze-free
+1972,Historical Emissions,190.039,177.554,183.732,Lower Yellowstone,freeze-free
+1973,Historical Emissions,193.992,182.254,186.539,Lower Yellowstone,freeze-free
+1974,Historical Emissions,194.954,169.569,187.846,Lower Yellowstone,freeze-free
+1975,Historical Emissions,202.608,169.807,186.231,Lower Yellowstone,freeze-free
+1976,Historical Emissions,195.155,177.63,184.038,Lower Yellowstone,freeze-free
+1977,Historical Emissions,200.831,176.807,183.153,Lower Yellowstone,freeze-free
+1978,Historical Emissions,198.046,182.339,187.345,Lower Yellowstone,freeze-free
+1979,Historical Emissions,201.64,179.462,185.385,Lower Yellowstone,freeze-free
+1980,Historical Emissions,199.609,168.492,192.923,Lower Yellowstone,freeze-free
+1981,Historical Emissions,197.369,178.537,185.037,Lower Yellowstone,freeze-free
+1982,Historical Emissions,194.755,177.869,185.771,Lower Yellowstone,freeze-free
+1983,Historical Emissions,187.44,170.515,175.193,Lower Yellowstone,freeze-free
+1984,Historical Emissions,199.069,180.484,185.462,Lower Yellowstone,freeze-free
+1985,Historical Emissions,205.547,184.199,186.769,Lower Yellowstone,freeze-free
+1986,Historical Emissions,192.239,171.854,178.462,Lower Yellowstone,freeze-free
+1987,Historical Emissions,196.131,169.854,184.692,Lower Yellowstone,freeze-free
+1988,Historical Emissions,195.57,178.609,183.885,Lower Yellowstone,freeze-free
+1989,Historical Emissions,198.67,179.547,192.155,Lower Yellowstone,freeze-free
+1990,Historical Emissions,197.476,170.7,192.307,Lower Yellowstone,freeze-free
+1991,Historical Emissions,196.691,180.115,188.614,Lower Yellowstone,freeze-free
+1992,Historical Emissions,190.445,173.669,182.654,Lower Yellowstone,freeze-free
+1993,Historical Emissions,200.886,170.454,191,Lower Yellowstone,freeze-free
+1994,Historical Emissions,199.468,179.531,189.384,Lower Yellowstone,freeze-free
+1995,Historical Emissions,208.545,179.908,191.231,Lower Yellowstone,freeze-free
+1996,Historical Emissions,201.909,183.584,189.884,Lower Yellowstone,freeze-free
+1997,Historical Emissions,206.84,177.146,187.309,Lower Yellowstone,freeze-free
+1998,Historical Emissions,204.323,185.192,192.923,Lower Yellowstone,freeze-free
+1999,Historical Emissions,197.4,186.631,189.462,Lower Yellowstone,freeze-free
+2000,Historical Emissions,201.531,177.3,189.923,Lower Yellowstone,freeze-free
+2001,Historical Emissions,196.161,181.8,185.808,Lower Yellowstone,freeze-free
+2002,Historical Emissions,207.383,185.308,194.156,Lower Yellowstone,freeze-free
+2003,Historical Emissions,201.023,180.323,195.692,Lower Yellowstone,freeze-free
+2004,Historical Emissions,204.602,191.969,198.616,Lower Yellowstone,freeze-free
+2005,Historical Emissions,207.261,190.117,198.155,Lower Yellowstone,freeze-free
+2006,Historical Emissions,204.431,183.592,197.077,Lower Yellowstone,freeze-free
+2007,Historical Emissions,213.524,184.37,191.463,Lower Yellowstone,freeze-free
+2008,Historical Emissions,202.177,182.385,191.576,Lower Yellowstone,freeze-free
+2009,Historical Emissions,207.039,185.375,195.731,Lower Yellowstone,freeze-free
+2010,Historical Emissions,202.845,186.392,188.654,Lower Yellowstone,freeze-free
+2011,Historical Emissions,199.816,187.577,195.116,Lower Yellowstone,freeze-free
+2012,Historical Emissions,202.069,186.023,194.499,Lower Yellowstone,freeze-free
+2013,Historical Emissions,213.13,186.885,191.807,Lower Yellowstone,freeze-free
+2014,Historical Emissions,209.385,189.623,198.193,Lower Yellowstone,freeze-free
+2015,"Moderating Emissions
+(SSP1-2.6)",216.109,181.007,197.115,Lower Yellowstone,freeze-free
+2015,"Middle of the Road
+(SSP2-4.5)",199.638,185.431,188.807,Lower Yellowstone,freeze-free
+2015,"High Emissions
+(SSP3-7.0)",209.6,187.984,189.769,Lower Yellowstone,freeze-free
+2015,"Accelerating Emissions
+(SSP5-8.5)",206.446,180.053,194.116,Lower Yellowstone,freeze-free
+2016,"Moderating Emissions
+(SSP1-2.6)",217.808,185.33,202.5,Lower Yellowstone,freeze-free
+2016,"Middle of the Road
+(SSP2-4.5)",210.955,187.854,194.962,Lower Yellowstone,freeze-free
+2016,"High Emissions
+(SSP3-7.0)",209.753,187.139,196.692,Lower Yellowstone,freeze-free
+2016,"Accelerating Emissions
+(SSP5-8.5)",214.032,186.316,193.769,Lower Yellowstone,freeze-free
+2017,"Moderating Emissions
+(SSP1-2.6)",207.9,181.362,189.655,Lower Yellowstone,freeze-free
+2017,"Middle of the Road
+(SSP2-4.5)",217.846,187.847,195.039,Lower Yellowstone,freeze-free
+2017,"High Emissions
+(SSP3-7.0)",204.838,187.823,195.847,Lower Yellowstone,freeze-free
+2017,"Accelerating Emissions
+(SSP5-8.5)",220.116,184.546,194.461,Lower Yellowstone,freeze-free
+2018,"Moderating Emissions
+(SSP1-2.6)",205.309,186.239,198.039,Lower Yellowstone,freeze-free
+2018,"Middle of the Road
+(SSP2-4.5)",208.323,194.855,196.886,Lower Yellowstone,freeze-free
+2018,"High Emissions
+(SSP3-7.0)",219.092,184.445,196.692,Lower Yellowstone,freeze-free
+2018,"Accelerating Emissions
+(SSP5-8.5)",214.684,180.469,190.848,Lower Yellowstone,freeze-free
+2019,"Moderating Emissions
+(SSP1-2.6)",216.208,178.907,196.615,Lower Yellowstone,freeze-free
+2019,"Middle of the Road
+(SSP2-4.5)",210.938,185.684,191.885,Lower Yellowstone,freeze-free
+2019,"High Emissions
+(SSP3-7.0)",207.984,196.016,198.576,Lower Yellowstone,freeze-free
+2019,"Accelerating Emissions
+(SSP5-8.5)",214.6,193.092,197.192,Lower Yellowstone,freeze-free
+2020,"Moderating Emissions
+(SSP1-2.6)",209.43,182.854,197.808,Lower Yellowstone,freeze-free
+2020,"Middle of the Road
+(SSP2-4.5)",203.984,184.885,192.345,Lower Yellowstone,freeze-free
+2020,"High Emissions
+(SSP3-7.0)",208.369,187.368,193.424,Lower Yellowstone,freeze-free
+2020,"Accelerating Emissions
+(SSP5-8.5)",221.331,181.007,197.538,Lower Yellowstone,freeze-free
+2021,"Moderating Emissions
+(SSP1-2.6)",220.553,187.061,194.578,Lower Yellowstone,freeze-free
+2021,"Middle of the Road
+(SSP2-4.5)",208.746,187.293,199.578,Lower Yellowstone,freeze-free
+2021,"High Emissions
+(SSP3-7.0)",217.5,189.238,195.846,Lower Yellowstone,freeze-free
+2021,"Accelerating Emissions
+(SSP5-8.5)",216.077,185.878,199.578,Lower Yellowstone,freeze-free
+2022,"Moderating Emissions
+(SSP1-2.6)",219.737,191.43,201.038,Lower Yellowstone,freeze-free
+2022,"Middle of the Road
+(SSP2-4.5)",203.338,193.622,198.268,Lower Yellowstone,freeze-free
+2022,"High Emissions
+(SSP3-7.0)",211.008,190.161,192.961,Lower Yellowstone,freeze-free
+2022,"Accelerating Emissions
+(SSP5-8.5)",218.777,192.347,198.807,Lower Yellowstone,freeze-free
+2023,"Moderating Emissions
+(SSP1-2.6)",211.578,187.824,196.655,Lower Yellowstone,freeze-free
+2023,"Middle of the Road
+(SSP2-4.5)",216.486,191.154,201.692,Lower Yellowstone,freeze-free
+2023,"High Emissions
+(SSP3-7.0)",215.468,195.946,198.963,Lower Yellowstone,freeze-free
+2023,"Accelerating Emissions
+(SSP5-8.5)",207.777,182.631,193.577,Lower Yellowstone,freeze-free
+2024,"Moderating Emissions
+(SSP1-2.6)",217.732,190.308,199.576,Lower Yellowstone,freeze-free
+2024,"Middle of the Road
+(SSP2-4.5)",209.169,192.831,196.616,Lower Yellowstone,freeze-free
+2024,"High Emissions
+(SSP3-7.0)",212.538,190.154,198.846,Lower Yellowstone,freeze-free
+2024,"Accelerating Emissions
+(SSP5-8.5)",213.422,191.231,201.807,Lower Yellowstone,freeze-free
+2025,"Moderating Emissions
+(SSP1-2.6)",213.315,188.746,202.155,Lower Yellowstone,freeze-free
+2025,"Middle of the Road
+(SSP2-4.5)",212.408,193.362,199.883,Lower Yellowstone,freeze-free
+2025,"High Emissions
+(SSP3-7.0)",208.747,193.063,198.462,Lower Yellowstone,freeze-free
+2025,"Accelerating Emissions
+(SSP5-8.5)",217.893,183.399,200.499,Lower Yellowstone,freeze-free
+2026,"Moderating Emissions
+(SSP1-2.6)",213.523,192.969,199.846,Lower Yellowstone,freeze-free
+2026,"Middle of the Road
+(SSP2-4.5)",219.908,193.131,200.924,Lower Yellowstone,freeze-free
+2026,"High Emissions
+(SSP3-7.0)",217.224,185.47,199.116,Lower Yellowstone,freeze-free
+2026,"Accelerating Emissions
+(SSP5-8.5)",217.815,192.346,201.23,Lower Yellowstone,freeze-free
+2027,"Moderating Emissions
+(SSP1-2.6)",213.107,184.269,196.424,Lower Yellowstone,freeze-free
+2027,"Middle of the Road
+(SSP2-4.5)",213.569,186.792,194.577,Lower Yellowstone,freeze-free
+2027,"High Emissions
+(SSP3-7.0)",214.201,192.624,201.5,Lower Yellowstone,freeze-free
+2027,"Accelerating Emissions
+(SSP5-8.5)",210.878,194.815,198.308,Lower Yellowstone,freeze-free
+2028,"Moderating Emissions
+(SSP1-2.6)",217.477,180.884,206.693,Lower Yellowstone,freeze-free
+2028,"Middle of the Road
+(SSP2-4.5)",216.093,184.953,192.423,Lower Yellowstone,freeze-free
+2028,"High Emissions
+(SSP3-7.0)",213.262,193.884,203.462,Lower Yellowstone,freeze-free
+2028,"Accelerating Emissions
+(SSP5-8.5)",219.692,188.207,202.807,Lower Yellowstone,freeze-free
+2029,"Moderating Emissions
+(SSP1-2.6)",221.193,197.122,201.654,Lower Yellowstone,freeze-free
+2029,"Middle of the Road
+(SSP2-4.5)",220.607,194.115,203.154,Lower Yellowstone,freeze-free
+2029,"High Emissions
+(SSP3-7.0)",222.615,192.415,197.616,Lower Yellowstone,freeze-free
+2029,"Accelerating Emissions
+(SSP5-8.5)",219.346,187.478,206.345,Lower Yellowstone,freeze-free
+2030,"Moderating Emissions
+(SSP1-2.6)",217.471,187.469,196.386,Lower Yellowstone,freeze-free
+2030,"Middle of the Road
+(SSP2-4.5)",210.131,188.832,199.654,Lower Yellowstone,freeze-free
+2030,"High Emissions
+(SSP3-7.0)",215.116,191.462,200.462,Lower Yellowstone,freeze-free
+2030,"Accelerating Emissions
+(SSP5-8.5)",218.593,185.738,198.462,Lower Yellowstone,freeze-free
+2031,"Moderating Emissions
+(SSP1-2.6)",213.938,192.608,200.615,Lower Yellowstone,freeze-free
+2031,"Middle of the Road
+(SSP2-4.5)",220.969,191.154,204.463,Lower Yellowstone,freeze-free
+2031,"High Emissions
+(SSP3-7.0)",223.915,188.316,201.461,Lower Yellowstone,freeze-free
+2031,"Accelerating Emissions
+(SSP5-8.5)",221.738,196.968,204.384,Lower Yellowstone,freeze-free
+2032,"Moderating Emissions
+(SSP1-2.6)",211.752,196.53,201.154,Lower Yellowstone,freeze-free
+2032,"Middle of the Road
+(SSP2-4.5)",220.454,184.985,204.385,Lower Yellowstone,freeze-free
+2032,"High Emissions
+(SSP3-7.0)",207.854,190.868,197.539,Lower Yellowstone,freeze-free
+2032,"Accelerating Emissions
+(SSP5-8.5)",224.8,195.893,205.886,Lower Yellowstone,freeze-free
+2033,"Moderating Emissions
+(SSP1-2.6)",219.614,190.723,199.923,Lower Yellowstone,freeze-free
+2033,"Middle of the Road
+(SSP2-4.5)",218.532,193.525,205.807,Lower Yellowstone,freeze-free
+2033,"High Emissions
+(SSP3-7.0)",207.884,191.515,203.038,Lower Yellowstone,freeze-free
+2033,"Accelerating Emissions
+(SSP5-8.5)",221.362,190.623,204.347,Lower Yellowstone,freeze-free
+2034,"Moderating Emissions
+(SSP1-2.6)",211.138,185.9,197.269,Lower Yellowstone,freeze-free
+2034,"Middle of the Road
+(SSP2-4.5)",206.239,189.938,196.616,Lower Yellowstone,freeze-free
+2034,"High Emissions
+(SSP3-7.0)",213.2,196.062,201.538,Lower Yellowstone,freeze-free
+2034,"Accelerating Emissions
+(SSP5-8.5)",211.046,196.916,201.309,Lower Yellowstone,freeze-free
+2035,"Moderating Emissions
+(SSP1-2.6)",220.807,193.723,201.961,Lower Yellowstone,freeze-free
+2035,"Middle of the Road
+(SSP2-4.5)",223.984,187.815,205.462,Lower Yellowstone,freeze-free
+2035,"High Emissions
+(SSP3-7.0)",212.862,188.839,194.885,Lower Yellowstone,freeze-free
+2035,"Accelerating Emissions
+(SSP5-8.5)",232.116,191.262,204.5,Lower Yellowstone,freeze-free
+2036,"Moderating Emissions
+(SSP1-2.6)",215.337,195.609,203.809,Lower Yellowstone,freeze-free
+2036,"Middle of the Road
+(SSP2-4.5)",210.123,184.239,195.883,Lower Yellowstone,freeze-free
+2036,"High Emissions
+(SSP3-7.0)",215.092,194.469,197.27,Lower Yellowstone,freeze-free
+2036,"Accelerating Emissions
+(SSP5-8.5)",221.216,197.694,210.845,Lower Yellowstone,freeze-free
+2037,"Moderating Emissions
+(SSP1-2.6)",215.746,201.224,208.538,Lower Yellowstone,freeze-free
+2037,"Middle of the Road
+(SSP2-4.5)",211.023,191.608,198.308,Lower Yellowstone,freeze-free
+2037,"High Emissions
+(SSP3-7.0)",215.732,189.746,199.808,Lower Yellowstone,freeze-free
+2037,"Accelerating Emissions
+(SSP5-8.5)",218.639,193.738,206,Lower Yellowstone,freeze-free
+2038,"Moderating Emissions
+(SSP1-2.6)",228.739,193.208,209.923,Lower Yellowstone,freeze-free
+2038,"Middle of the Road
+(SSP2-4.5)",216.678,198.923,203.346,Lower Yellowstone,freeze-free
+2038,"High Emissions
+(SSP3-7.0)",218.407,197.277,201,Lower Yellowstone,freeze-free
+2038,"Accelerating Emissions
+(SSP5-8.5)",221.808,193.361,208.307,Lower Yellowstone,freeze-free
+2039,"Moderating Emissions
+(SSP1-2.6)",221.878,191.393,197.001,Lower Yellowstone,freeze-free
+2039,"Middle of the Road
+(SSP2-4.5)",215.693,190.916,206.73,Lower Yellowstone,freeze-free
+2039,"High Emissions
+(SSP3-7.0)",227.615,200.531,207.73,Lower Yellowstone,freeze-free
+2039,"Accelerating Emissions
+(SSP5-8.5)",216.098,187.131,200.116,Lower Yellowstone,freeze-free
+2040,"Moderating Emissions
+(SSP1-2.6)",221.777,195.892,203.154,Lower Yellowstone,freeze-free
+2040,"Middle of the Road
+(SSP2-4.5)",209.869,196.147,199.461,Lower Yellowstone,freeze-free
+2040,"High Emissions
+(SSP3-7.0)",222.291,192.238,200.115,Lower Yellowstone,freeze-free
+2040,"Accelerating Emissions
+(SSP5-8.5)",231.161,198.992,206.5,Lower Yellowstone,freeze-free
+2041,"Moderating Emissions
+(SSP1-2.6)",216.33,189.622,203.268,Lower Yellowstone,freeze-free
+2041,"Middle of the Road
+(SSP2-4.5)",215.208,192.491,204.692,Lower Yellowstone,freeze-free
+2041,"High Emissions
+(SSP3-7.0)",222.14,192.608,211,Lower Yellowstone,freeze-free
+2041,"Accelerating Emissions
+(SSP5-8.5)",224.169,194.354,205.192,Lower Yellowstone,freeze-free
+2042,"Moderating Emissions
+(SSP1-2.6)",223.194,194.639,202.885,Lower Yellowstone,freeze-free
+2042,"Middle of the Road
+(SSP2-4.5)",209.077,192.631,203.5,Lower Yellowstone,freeze-free
+2042,"High Emissions
+(SSP3-7.0)",212.946,193.085,201.73,Lower Yellowstone,freeze-free
+2042,"Accelerating Emissions
+(SSP5-8.5)",222.831,200.947,210.77,Lower Yellowstone,freeze-free
+2043,"Moderating Emissions
+(SSP1-2.6)",219.016,200.485,208.425,Lower Yellowstone,freeze-free
+2043,"Middle of the Road
+(SSP2-4.5)",220.638,194.431,207.808,Lower Yellowstone,freeze-free
+2043,"High Emissions
+(SSP3-7.0)",215.855,201.878,205.999,Lower Yellowstone,freeze-free
+2043,"Accelerating Emissions
+(SSP5-8.5)",223.86,200.084,210.423,Lower Yellowstone,freeze-free
+2044,"Moderating Emissions
+(SSP1-2.6)",223.623,196.246,202.346,Lower Yellowstone,freeze-free
+2044,"Middle of the Road
+(SSP2-4.5)",230.746,202.24,208.076,Lower Yellowstone,freeze-free
+2044,"High Emissions
+(SSP3-7.0)",217.239,199.139,209.5,Lower Yellowstone,freeze-free
+2044,"Accelerating Emissions
+(SSP5-8.5)",228.416,193.484,208.232,Lower Yellowstone,freeze-free
+2045,"Moderating Emissions
+(SSP1-2.6)",219.014,193.432,201.923,Lower Yellowstone,freeze-free
+2045,"Middle of the Road
+(SSP2-4.5)",221.869,190.63,205.423,Lower Yellowstone,freeze-free
+2045,"High Emissions
+(SSP3-7.0)",222.507,187.085,203.461,Lower Yellowstone,freeze-free
+2045,"Accelerating Emissions
+(SSP5-8.5)",225.046,193.368,207.463,Lower Yellowstone,freeze-free
+2046,"Moderating Emissions
+(SSP1-2.6)",226.323,193.655,200.346,Lower Yellowstone,freeze-free
+2046,"Middle of the Road
+(SSP2-4.5)",223.237,200.662,206.769,Lower Yellowstone,freeze-free
+2046,"High Emissions
+(SSP3-7.0)",226.947,196.324,207.923,Lower Yellowstone,freeze-free
+2046,"Accelerating Emissions
+(SSP5-8.5)",218.638,193.884,202.078,Lower Yellowstone,freeze-free
+2047,"Moderating Emissions
+(SSP1-2.6)",228.138,189.1,200.961,Lower Yellowstone,freeze-free
+2047,"Middle of the Road
+(SSP2-4.5)",215.285,196.392,200.5,Lower Yellowstone,freeze-free
+2047,"High Emissions
+(SSP3-7.0)",217.793,195.331,201.808,Lower Yellowstone,freeze-free
+2047,"Accelerating Emissions
+(SSP5-8.5)",217.254,202.253,209.576,Lower Yellowstone,freeze-free
+2048,"Moderating Emissions
+(SSP1-2.6)",219.839,198.469,205.039,Lower Yellowstone,freeze-free
+2048,"Middle of the Road
+(SSP2-4.5)",222.015,187.654,211.268,Lower Yellowstone,freeze-free
+2048,"High Emissions
+(SSP3-7.0)",225.223,201.578,207.654,Lower Yellowstone,freeze-free
+2048,"Accelerating Emissions
+(SSP5-8.5)",233.93,201.639,213.846,Lower Yellowstone,freeze-free
+2049,"Moderating Emissions
+(SSP1-2.6)",224.4,189.731,195.769,Lower Yellowstone,freeze-free
+2049,"Middle of the Road
+(SSP2-4.5)",224.416,207.1,215.115,Lower Yellowstone,freeze-free
+2049,"High Emissions
+(SSP3-7.0)",232.962,190.837,206.807,Lower Yellowstone,freeze-free
+2049,"Accelerating Emissions
+(SSP5-8.5)",227.384,200.676,208.538,Lower Yellowstone,freeze-free
+2050,"Moderating Emissions
+(SSP1-2.6)",222.469,188.646,201.769,Lower Yellowstone,freeze-free
+2050,"Middle of the Road
+(SSP2-4.5)",228.861,197.739,206,Lower Yellowstone,freeze-free
+2050,"High Emissions
+(SSP3-7.0)",223.37,201.869,208.692,Lower Yellowstone,freeze-free
+2050,"Accelerating Emissions
+(SSP5-8.5)",219.708,199.138,210.463,Lower Yellowstone,freeze-free
+2051,"Moderating Emissions
+(SSP1-2.6)",222.5,197,208.73,Lower Yellowstone,freeze-free
+2051,"Middle of the Road
+(SSP2-4.5)",221.561,200.053,206.54,Lower Yellowstone,freeze-free
+2051,"High Emissions
+(SSP3-7.0)",221.399,199.107,205.461,Lower Yellowstone,freeze-free
+2051,"Accelerating Emissions
+(SSP5-8.5)",220.577,197.669,202.577,Lower Yellowstone,freeze-free
+2052,"Moderating Emissions
+(SSP1-2.6)",212.194,201.755,204.152,Lower Yellowstone,freeze-free
+2052,"Middle of the Road
+(SSP2-4.5)",227.954,200.846,211.269,Lower Yellowstone,freeze-free
+2052,"High Emissions
+(SSP3-7.0)",229.378,201.376,209.039,Lower Yellowstone,freeze-free
+2052,"Accelerating Emissions
+(SSP5-8.5)",224.585,201.87,209.884,Lower Yellowstone,freeze-free
+2053,"Moderating Emissions
+(SSP1-2.6)",217.385,191.6,204.231,Lower Yellowstone,freeze-free
+2053,"Middle of the Road
+(SSP2-4.5)",215.685,194.1,203.192,Lower Yellowstone,freeze-free
+2053,"High Emissions
+(SSP3-7.0)",231.416,199.969,211.308,Lower Yellowstone,freeze-free
+2053,"Accelerating Emissions
+(SSP5-8.5)",233.069,206.186,210.769,Lower Yellowstone,freeze-free
+2054,"Moderating Emissions
+(SSP1-2.6)",215.506,189.954,201.039,Lower Yellowstone,freeze-free
+2054,"Middle of the Road
+(SSP2-4.5)",217.947,205.177,209.115,Lower Yellowstone,freeze-free
+2054,"High Emissions
+(SSP3-7.0)",219.178,199.869,208.962,Lower Yellowstone,freeze-free
+2054,"Accelerating Emissions
+(SSP5-8.5)",221.131,201.915,210.77,Lower Yellowstone,freeze-free
+2055,"Moderating Emissions
+(SSP1-2.6)",222.892,197.877,205.076,Lower Yellowstone,freeze-free
+2055,"Middle of the Road
+(SSP2-4.5)",220.217,192.047,199.922,Lower Yellowstone,freeze-free
+2055,"High Emissions
+(SSP3-7.0)",224.015,204.892,214.154,Lower Yellowstone,freeze-free
+2055,"Accelerating Emissions
+(SSP5-8.5)",226.169,204.754,210.386,Lower Yellowstone,freeze-free
+2056,"Moderating Emissions
+(SSP1-2.6)",224.453,199.378,208.269,Lower Yellowstone,freeze-free
+2056,"Middle of the Road
+(SSP2-4.5)",221.615,199.053,208.116,Lower Yellowstone,freeze-free
+2056,"High Emissions
+(SSP3-7.0)",232.802,202.355,213.23,Lower Yellowstone,freeze-free
+2056,"Accelerating Emissions
+(SSP5-8.5)",235.778,200.047,214.115,Lower Yellowstone,freeze-free
+2057,"Moderating Emissions
+(SSP1-2.6)",223.377,197.377,202.192,Lower Yellowstone,freeze-free
+2057,"Middle of the Road
+(SSP2-4.5)",227.079,201.386,205.693,Lower Yellowstone,freeze-free
+2057,"High Emissions
+(SSP3-7.0)",229.332,199.877,210.539,Lower Yellowstone,freeze-free
+2057,"Accelerating Emissions
+(SSP5-8.5)",226.822,203.231,212.038,Lower Yellowstone,freeze-free
+2058,"Moderating Emissions
+(SSP1-2.6)",220.193,195.669,202.422,Lower Yellowstone,freeze-free
+2058,"Middle of the Road
+(SSP2-4.5)",231.023,202.162,210.039,Lower Yellowstone,freeze-free
+2058,"High Emissions
+(SSP3-7.0)",221.839,202.039,212.154,Lower Yellowstone,freeze-free
+2058,"Accelerating Emissions
+(SSP5-8.5)",224.461,200.476,207.845,Lower Yellowstone,freeze-free
+2059,"Moderating Emissions
+(SSP1-2.6)",216.745,196.685,206.846,Lower Yellowstone,freeze-free
+2059,"Middle of the Road
+(SSP2-4.5)",237.777,205.815,210.425,Lower Yellowstone,freeze-free
+2059,"High Emissions
+(SSP3-7.0)",229.492,202.931,210.23,Lower Yellowstone,freeze-free
+2059,"Accelerating Emissions
+(SSP5-8.5)",241.346,208.901,218.692,Lower Yellowstone,freeze-free
+2060,"Moderating Emissions
+(SSP1-2.6)",240.776,188.808,202.808,Lower Yellowstone,freeze-free
+2060,"Middle of the Road
+(SSP2-4.5)",219.808,192.307,204.346,Lower Yellowstone,freeze-free
+2060,"High Emissions
+(SSP3-7.0)",223.384,203.992,213.923,Lower Yellowstone,freeze-free
+2060,"Accelerating Emissions
+(SSP5-8.5)",228.461,210.677,216.308,Lower Yellowstone,freeze-free
+2061,"Moderating Emissions
+(SSP1-2.6)",225.137,193.446,205.654,Lower Yellowstone,freeze-free
+2061,"Middle of the Road
+(SSP2-4.5)",225.9,200.685,211.616,Lower Yellowstone,freeze-free
+2061,"High Emissions
+(SSP3-7.0)",232.815,204.006,210.191,Lower Yellowstone,freeze-free
+2061,"Accelerating Emissions
+(SSP5-8.5)",238.246,211.846,220.731,Lower Yellowstone,freeze-free
+2062,"Moderating Emissions
+(SSP1-2.6)",216.577,206.046,213.077,Lower Yellowstone,freeze-free
+2062,"Middle of the Road
+(SSP2-4.5)",221.494,196.654,203.961,Lower Yellowstone,freeze-free
+2062,"High Emissions
+(SSP3-7.0)",231.131,200.037,215.461,Lower Yellowstone,freeze-free
+2062,"Accelerating Emissions
+(SSP5-8.5)",250.114,208.977,215.807,Lower Yellowstone,freeze-free
+2063,"Moderating Emissions
+(SSP1-2.6)",220.422,196.146,210.423,Lower Yellowstone,freeze-free
+2063,"Middle of the Road
+(SSP2-4.5)",224.969,202.415,212.962,Lower Yellowstone,freeze-free
+2063,"High Emissions
+(SSP3-7.0)",242.738,199.615,216.269,Lower Yellowstone,freeze-free
+2063,"Accelerating Emissions
+(SSP5-8.5)",240.716,208.292,215.578,Lower Yellowstone,freeze-free
+2064,"Moderating Emissions
+(SSP1-2.6)",227.715,206.354,209.963,Lower Yellowstone,freeze-free
+2064,"Middle of the Road
+(SSP2-4.5)",219.745,195.891,207.308,Lower Yellowstone,freeze-free
+2064,"High Emissions
+(SSP3-7.0)",226.447,199.722,206.077,Lower Yellowstone,freeze-free
+2064,"Accelerating Emissions
+(SSP5-8.5)",230.953,207.869,217.269,Lower Yellowstone,freeze-free
+2065,"Moderating Emissions
+(SSP1-2.6)",216.947,188.593,207.768,Lower Yellowstone,freeze-free
+2065,"Middle of the Road
+(SSP2-4.5)",216.269,189.699,204.809,Lower Yellowstone,freeze-free
+2065,"High Emissions
+(SSP3-7.0)",224.6,204.324,217.96,Lower Yellowstone,freeze-free
+2065,"Accelerating Emissions
+(SSP5-8.5)",248.299,207.662,219.578,Lower Yellowstone,freeze-free
+2066,"Moderating Emissions
+(SSP1-2.6)",221.899,194.877,206.423,Lower Yellowstone,freeze-free
+2066,"Middle of the Road
+(SSP2-4.5)",239.862,200.292,217.769,Lower Yellowstone,freeze-free
+2066,"High Emissions
+(SSP3-7.0)",231.869,206.462,214.23,Lower Yellowstone,freeze-free
+2066,"Accelerating Emissions
+(SSP5-8.5)",237.038,208.869,225.231,Lower Yellowstone,freeze-free
+2067,"Moderating Emissions
+(SSP1-2.6)",227.554,203.33,206.424,Lower Yellowstone,freeze-free
+2067,"Middle of the Road
+(SSP2-4.5)",233.846,202.316,205.538,Lower Yellowstone,freeze-free
+2067,"High Emissions
+(SSP3-7.0)",246.301,210.108,218.461,Lower Yellowstone,freeze-free
+2067,"Accelerating Emissions
+(SSP5-8.5)",244.293,205.193,220.268,Lower Yellowstone,freeze-free
+2068,"Moderating Emissions
+(SSP1-2.6)",214.154,203.47,207.577,Lower Yellowstone,freeze-free
+2068,"Middle of the Road
+(SSP2-4.5)",232.708,202.63,212.693,Lower Yellowstone,freeze-free
+2068,"High Emissions
+(SSP3-7.0)",246.563,202.108,210.73,Lower Yellowstone,freeze-free
+2068,"Accelerating Emissions
+(SSP5-8.5)",242.007,203.331,224.116,Lower Yellowstone,freeze-free
+2069,"Moderating Emissions
+(SSP1-2.6)",223.56,194.985,206.654,Lower Yellowstone,freeze-free
+2069,"Middle of the Road
+(SSP2-4.5)",222.007,194.932,204.463,Lower Yellowstone,freeze-free
+2069,"High Emissions
+(SSP3-7.0)",231.993,209.107,221.423,Lower Yellowstone,freeze-free
+2069,"Accelerating Emissions
+(SSP5-8.5)",244.716,210.531,220.539,Lower Yellowstone,freeze-free
+2070,"Moderating Emissions
+(SSP1-2.6)",224.707,193.846,203.731,Lower Yellowstone,freeze-free
+2070,"Middle of the Road
+(SSP2-4.5)",224.654,200.892,207.615,Lower Yellowstone,freeze-free
+2070,"High Emissions
+(SSP3-7.0)",233.8,203.862,220.846,Lower Yellowstone,freeze-free
+2070,"Accelerating Emissions
+(SSP5-8.5)",247.177,208.485,223.424,Lower Yellowstone,freeze-free
+2071,"Moderating Emissions
+(SSP1-2.6)",222.393,198.946,202.885,Lower Yellowstone,freeze-free
+2071,"Middle of the Road
+(SSP2-4.5)",224.861,200.991,209.423,Lower Yellowstone,freeze-free
+2071,"High Emissions
+(SSP3-7.0)",233.584,210.122,223.345,Lower Yellowstone,freeze-free
+2071,"Accelerating Emissions
+(SSP5-8.5)",237.077,206.769,216.538,Lower Yellowstone,freeze-free
+2072,"Moderating Emissions
+(SSP1-2.6)",225.27,196.446,205.308,Lower Yellowstone,freeze-free
+2072,"Middle of the Road
+(SSP2-4.5)",232.292,200.922,211.038,Lower Yellowstone,freeze-free
+2072,"High Emissions
+(SSP3-7.0)",231.83,209.645,219.078,Lower Yellowstone,freeze-free
+2072,"Accelerating Emissions
+(SSP5-8.5)",237.446,214.053,225.539,Lower Yellowstone,freeze-free
+2073,"Moderating Emissions
+(SSP1-2.6)",217.67,186.246,205.346,Lower Yellowstone,freeze-free
+2073,"Middle of the Road
+(SSP2-4.5)",233.577,200.161,214.269,Lower Yellowstone,freeze-free
+2073,"High Emissions
+(SSP3-7.0)",243.247,205.869,216.846,Lower Yellowstone,freeze-free
+2073,"Accelerating Emissions
+(SSP5-8.5)",241.77,214.27,220.231,Lower Yellowstone,freeze-free
+2074,"Moderating Emissions
+(SSP1-2.6)",234.715,199.784,204.346,Lower Yellowstone,freeze-free
+2074,"Middle of the Road
+(SSP2-4.5)",227.261,196.193,214.538,Lower Yellowstone,freeze-free
+2074,"High Emissions
+(SSP3-7.0)",237.739,206.8,215.732,Lower Yellowstone,freeze-free
+2074,"Accelerating Emissions
+(SSP5-8.5)",235.008,211.67,217.193,Lower Yellowstone,freeze-free
+2075,"Moderating Emissions
+(SSP1-2.6)",214.484,193.524,203.962,Lower Yellowstone,freeze-free
+2075,"Middle of the Road
+(SSP2-4.5)",218.384,195.323,206.153,Lower Yellowstone,freeze-free
+2075,"High Emissions
+(SSP3-7.0)",238.538,200.931,218.5,Lower Yellowstone,freeze-free
+2075,"Accelerating Emissions
+(SSP5-8.5)",246.053,215.491,230.423,Lower Yellowstone,freeze-free
+2076,"Moderating Emissions
+(SSP1-2.6)",218.838,189.615,199.768,Lower Yellowstone,freeze-free
+2076,"Middle of the Road
+(SSP2-4.5)",232.709,199.731,209.807,Lower Yellowstone,freeze-free
+2076,"High Emissions
+(SSP3-7.0)",244.553,211.508,220.577,Lower Yellowstone,freeze-free
+2076,"Accelerating Emissions
+(SSP5-8.5)",243.946,214.553,224,Lower Yellowstone,freeze-free
+2077,"Moderating Emissions
+(SSP1-2.6)",219.308,201.053,209.27,Lower Yellowstone,freeze-free
+2077,"Middle of the Road
+(SSP2-4.5)",228.753,209.223,214.653,Lower Yellowstone,freeze-free
+2077,"High Emissions
+(SSP3-7.0)",238.423,210.639,221,Lower Yellowstone,freeze-free
+2077,"Accelerating Emissions
+(SSP5-8.5)",248.1,213.761,224.729,Lower Yellowstone,freeze-free
+2078,"Moderating Emissions
+(SSP1-2.6)",216.124,200.431,209,Lower Yellowstone,freeze-free
+2078,"Middle of the Road
+(SSP2-4.5)",228.007,201.354,210.962,Lower Yellowstone,freeze-free
+2078,"High Emissions
+(SSP3-7.0)",231.108,208.369,215.423,Lower Yellowstone,freeze-free
+2078,"Accelerating Emissions
+(SSP5-8.5)",239.839,213.699,222.578,Lower Yellowstone,freeze-free
+2079,"Moderating Emissions
+(SSP1-2.6)",218.701,196.039,207.384,Lower Yellowstone,freeze-free
+2079,"Middle of the Road
+(SSP2-4.5)",235.684,204.792,208.154,Lower Yellowstone,freeze-free
+2079,"High Emissions
+(SSP3-7.0)",241.931,195.985,223.808,Lower Yellowstone,freeze-free
+2079,"Accelerating Emissions
+(SSP5-8.5)",246.831,213.969,226.809,Lower Yellowstone,freeze-free
+2080,"Moderating Emissions
+(SSP1-2.6)",217.27,189.676,197.963,Lower Yellowstone,freeze-free
+2080,"Middle of the Road
+(SSP2-4.5)",228.523,198.532,214.576,Lower Yellowstone,freeze-free
+2080,"High Emissions
+(SSP3-7.0)",239.792,209.331,221.616,Lower Yellowstone,freeze-free
+2080,"Accelerating Emissions
+(SSP5-8.5)",252.731,219.577,232.114,Lower Yellowstone,freeze-free
+2081,"Moderating Emissions
+(SSP1-2.6)",214.915,193.769,199.153,Lower Yellowstone,freeze-free
+2081,"Middle of the Road
+(SSP2-4.5)",226.577,203.608,211.039,Lower Yellowstone,freeze-free
+2081,"High Emissions
+(SSP3-7.0)",248.977,204.808,225.116,Lower Yellowstone,freeze-free
+2081,"Accelerating Emissions
+(SSP5-8.5)",257.653,216.077,226.808,Lower Yellowstone,freeze-free
+2082,"Moderating Emissions
+(SSP1-2.6)",222.069,195.624,203.731,Lower Yellowstone,freeze-free
+2082,"Middle of the Road
+(SSP2-4.5)",222.985,204.992,211.732,Lower Yellowstone,freeze-free
+2082,"High Emissions
+(SSP3-7.0)",235.331,206.115,220.155,Lower Yellowstone,freeze-free
+2082,"Accelerating Emissions
+(SSP5-8.5)",260.362,217.647,238.538,Lower Yellowstone,freeze-free
+2083,"Moderating Emissions
+(SSP1-2.6)",221.308,198.492,206.385,Lower Yellowstone,freeze-free
+2083,"Middle of the Road
+(SSP2-4.5)",238.285,198.739,211.345,Lower Yellowstone,freeze-free
+2083,"High Emissions
+(SSP3-7.0)",244.954,208.778,212.268,Lower Yellowstone,freeze-free
+2083,"Accelerating Emissions
+(SSP5-8.5)",252.676,218.906,236.962,Lower Yellowstone,freeze-free
+2084,"Moderating Emissions
+(SSP1-2.6)",222.453,197.7,204.616,Lower Yellowstone,freeze-free
+2084,"Middle of the Road
+(SSP2-4.5)",234.109,204.754,218.269,Lower Yellowstone,freeze-free
+2084,"High Emissions
+(SSP3-7.0)",256.877,208.324,214.423,Lower Yellowstone,freeze-free
+2084,"Accelerating Emissions
+(SSP5-8.5)",254.532,220.293,227.347,Lower Yellowstone,freeze-free
+2085,"Moderating Emissions
+(SSP1-2.6)",215.423,185.331,197.115,Lower Yellowstone,freeze-free
+2085,"Middle of the Road
+(SSP2-4.5)",231.076,206.577,218.153,Lower Yellowstone,freeze-free
+2085,"High Emissions
+(SSP3-7.0)",244.192,210.57,217.845,Lower Yellowstone,freeze-free
+2085,"Accelerating Emissions
+(SSP5-8.5)",271.215,221.223,228.883,Lower Yellowstone,freeze-free
+2086,"Moderating Emissions
+(SSP1-2.6)",214.8,201.777,208.499,Lower Yellowstone,freeze-free
+2086,"Middle of the Road
+(SSP2-4.5)",228.684,208.838,210.039,Lower Yellowstone,freeze-free
+2086,"High Emissions
+(SSP3-7.0)",240.17,207.769,213.923,Lower Yellowstone,freeze-free
+2086,"Accelerating Emissions
+(SSP5-8.5)",265.116,215.061,227.193,Lower Yellowstone,freeze-free
+2087,"Moderating Emissions
+(SSP1-2.6)",219.223,194.485,206.192,Lower Yellowstone,freeze-free
+2087,"Middle of the Road
+(SSP2-4.5)",231.947,212.769,216.731,Lower Yellowstone,freeze-free
+2087,"High Emissions
+(SSP3-7.0)",243.584,210.722,226.307,Lower Yellowstone,freeze-free
+2087,"Accelerating Emissions
+(SSP5-8.5)",277.623,227.553,235.039,Lower Yellowstone,freeze-free
+2088,"Moderating Emissions
+(SSP1-2.6)",228.099,199.278,204.423,Lower Yellowstone,freeze-free
+2088,"Middle of the Road
+(SSP2-4.5)",225.701,208.392,214.653,Lower Yellowstone,freeze-free
+2088,"High Emissions
+(SSP3-7.0)",248.415,215.622,228.193,Lower Yellowstone,freeze-free
+2088,"Accelerating Emissions
+(SSP5-8.5)",275.4,215.516,233.307,Lower Yellowstone,freeze-free
+2089,"Moderating Emissions
+(SSP1-2.6)",217.908,187.893,201.883,Lower Yellowstone,freeze-free
+2089,"Middle of the Road
+(SSP2-4.5)",234.346,207.192,214.307,Lower Yellowstone,freeze-free
+2089,"High Emissions
+(SSP3-7.0)",246.139,220.446,232.77,Lower Yellowstone,freeze-free
+2089,"Accelerating Emissions
+(SSP5-8.5)",278.555,227.592,237.269,Lower Yellowstone,freeze-free
+2090,"Moderating Emissions
+(SSP1-2.6)",227.438,192.392,205.116,Lower Yellowstone,freeze-free
+2090,"Middle of the Road
+(SSP2-4.5)",228.069,207.475,216.961,Lower Yellowstone,freeze-free
+2090,"High Emissions
+(SSP3-7.0)",250.015,210.554,226.462,Lower Yellowstone,freeze-free
+2090,"Accelerating Emissions
+(SSP5-8.5)",262.932,230.446,238.923,Lower Yellowstone,freeze-free
+2091,"Moderating Emissions
+(SSP1-2.6)",216.369,194.516,202.499,Lower Yellowstone,freeze-free
+2091,"Middle of the Road
+(SSP2-4.5)",236.87,210.361,217.847,Lower Yellowstone,freeze-free
+2091,"High Emissions
+(SSP3-7.0)",249.862,211.255,222.423,Lower Yellowstone,freeze-free
+2091,"Accelerating Emissions
+(SSP5-8.5)",270.216,226.623,232.846,Lower Yellowstone,freeze-free
+2092,"Moderating Emissions
+(SSP1-2.6)",225.747,194.931,206.423,Lower Yellowstone,freeze-free
+2092,"Middle of the Road
+(SSP2-4.5)",227.739,198.983,211.731,Lower Yellowstone,freeze-free
+2092,"High Emissions
+(SSP3-7.0)",262.13,209.123,228.807,Lower Yellowstone,freeze-free
+2092,"Accelerating Emissions
+(SSP5-8.5)",268.885,223.668,231.846,Lower Yellowstone,freeze-free
+2093,"Moderating Emissions
+(SSP1-2.6)",217.855,195.538,204.231,Lower Yellowstone,freeze-free
+2093,"Middle of the Road
+(SSP2-4.5)",232.092,207.545,210.769,Lower Yellowstone,freeze-free
+2093,"High Emissions
+(SSP3-7.0)",265.854,215.546,229.192,Lower Yellowstone,freeze-free
+2093,"Accelerating Emissions
+(SSP5-8.5)",277.431,217.399,234.271,Lower Yellowstone,freeze-free
+2094,"Moderating Emissions
+(SSP1-2.6)",221.639,195.832,206.961,Lower Yellowstone,freeze-free
+2094,"Middle of the Road
+(SSP2-4.5)",228.847,202.462,211.23,Lower Yellowstone,freeze-free
+2094,"High Emissions
+(SSP3-7.0)",255.678,215.615,226.309,Lower Yellowstone,freeze-free
+2094,"Accelerating Emissions
+(SSP5-8.5)",276.984,228.262,233.039,Lower Yellowstone,freeze-free
+2095,"Moderating Emissions
+(SSP1-2.6)",215.316,195.116,206,Lower Yellowstone,freeze-free
+2095,"Middle of the Road
+(SSP2-4.5)",232.308,206.053,218.653,Lower Yellowstone,freeze-free
+2095,"High Emissions
+(SSP3-7.0)",260.768,213.046,236.27,Lower Yellowstone,freeze-free
+2095,"Accelerating Emissions
+(SSP5-8.5)",265.177,224.684,227.616,Lower Yellowstone,freeze-free
+2096,"Moderating Emissions
+(SSP1-2.6)",218.539,193.3,206.845,Lower Yellowstone,freeze-free
+2096,"Middle of the Road
+(SSP2-4.5)",235.339,209.392,222.192,Lower Yellowstone,freeze-free
+2096,"High Emissions
+(SSP3-7.0)",254.086,213.63,235.231,Lower Yellowstone,freeze-free
+2096,"Accelerating Emissions
+(SSP5-8.5)",254.716,227.623,233.116,Lower Yellowstone,freeze-free
+2097,"Moderating Emissions
+(SSP1-2.6)",218.716,190.931,196.653,Lower Yellowstone,freeze-free
+2097,"Middle of the Road
+(SSP2-4.5)",237.862,209.631,218.115,Lower Yellowstone,freeze-free
+2097,"High Emissions
+(SSP3-7.0)",247.401,213.692,226.153,Lower Yellowstone,freeze-free
+2097,"Accelerating Emissions
+(SSP5-8.5)",284.346,228.031,239.077,Lower Yellowstone,freeze-free
+2098,"Moderating Emissions
+(SSP1-2.6)",220.147,191.169,200.116,Lower Yellowstone,freeze-free
+2098,"Middle of the Road
+(SSP2-4.5)",237.215,203.161,216.577,Lower Yellowstone,freeze-free
+2098,"High Emissions
+(SSP3-7.0)",255.5,223.023,230.922,Lower Yellowstone,freeze-free
+2098,"Accelerating Emissions
+(SSP5-8.5)",259.646,218.593,238.038,Lower Yellowstone,freeze-free
+2099,"Moderating Emissions
+(SSP1-2.6)",227.109,197.053,205.538,Lower Yellowstone,freeze-free
+2099,"Middle of the Road
+(SSP2-4.5)",227.231,200.316,217.308,Lower Yellowstone,freeze-free
+2099,"High Emissions
+(SSP3-7.0)",258.685,216.077,233.307,Lower Yellowstone,freeze-free
+2099,"Accelerating Emissions
+(SSP5-8.5)",270.984,223.646,248.885,Lower Yellowstone,freeze-free
+2100,"Moderating Emissions
+(SSP1-2.6)",218.746,194.084,207.308,Lower Yellowstone,freeze-free
+2100,"Middle of the Road
+(SSP2-4.5)",237.055,207.169,219.692,Lower Yellowstone,freeze-free
+2100,"High Emissions
+(SSP3-7.0)",254.107,217.754,241.23,Lower Yellowstone,freeze-free
+2100,"Accelerating Emissions
+(SSP5-8.5)",278.139,225.531,239.769,Lower Yellowstone,freeze-free

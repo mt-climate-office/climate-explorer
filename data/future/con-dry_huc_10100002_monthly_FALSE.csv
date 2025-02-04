@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),31,15.6,21,Big Porcupine,con-dry
+Historical Emissions,Jan,End-of-Century (2070-2099),31,15.6,21,Big Porcupine,con-dry
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),33.28,13.88,20.6,Big Porcupine,con-dry
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),33.04,14.6,22.2,Big Porcupine,con-dry
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),36.82,16.46,24,Big Porcupine,con-dry
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),32.82,15.38,21.8,Big Porcupine,con-dry
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),37.2,16.38,26.1,Big Porcupine,con-dry
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),33.44,15.18,21.9,Big Porcupine,con-dry
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),45.54,14.5,24.1,Big Porcupine,con-dry
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),35.64,15.8,22,Big Porcupine,con-dry

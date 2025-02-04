@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,25.91,15.102,19.61,Missoula,con-dry
+1951,Historical Emissions,25.334,15.39,17.932,Missoula,con-dry
+1952,Historical Emissions,25.059,15.607,19.881,Missoula,con-dry
+1953,Historical Emissions,26.656,14.568,22.373,Missoula,con-dry
+1954,Historical Emissions,25.804,12.971,17.415,Missoula,con-dry
+1955,Historical Emissions,27.062,16.734,19.297,Missoula,con-dry
+1956,Historical Emissions,32.283,16.964,18.72,Missoula,con-dry
+1957,Historical Emissions,26.122,12.393,18.119,Missoula,con-dry
+1958,Historical Emissions,20.729,12.305,18.958,Missoula,con-dry
+1959,Historical Emissions,17.19,12.229,14.678,Missoula,con-dry
+1960,Historical Emissions,20.734,13.054,16.864,Missoula,con-dry
+1961,Historical Emissions,24.964,13.861,19.025,Missoula,con-dry
+1962,Historical Emissions,35.322,12.581,16.178,Missoula,con-dry
+1963,Historical Emissions,21.036,15.313,17.669,Missoula,con-dry
+1964,Historical Emissions,24.758,15.856,18.22,Missoula,con-dry
+1965,Historical Emissions,30.793,16.317,21.627,Missoula,con-dry
+1966,Historical Emissions,25.993,12.221,18.89,Missoula,con-dry
+1967,Historical Emissions,26.122,13.907,20.441,Missoula,con-dry
+1968,Historical Emissions,20.939,15.376,17.873,Missoula,con-dry
+1969,Historical Emissions,22.316,15.758,17.203,Missoula,con-dry
+1970,Historical Emissions,21.144,13.941,18.881,Missoula,con-dry
+1971,Historical Emissions,27.093,12.668,17.398,Missoula,con-dry
+1972,Historical Emissions,23.682,15.252,19.881,Missoula,con-dry
+1973,Historical Emissions,25.539,13.303,19.076,Missoula,con-dry
+1974,Historical Emissions,29.336,12.991,17.788,Missoula,con-dry
+1975,Historical Emissions,23.539,14.598,19.186,Missoula,con-dry
+1976,Historical Emissions,32.932,16.508,19.983,Missoula,con-dry
+1977,Historical Emissions,22.822,13.432,16.127,Missoula,con-dry
+1978,Historical Emissions,21.3,12.871,17.839,Missoula,con-dry
+1979,Historical Emissions,28.512,18.216,20.695,Missoula,con-dry
+1980,Historical Emissions,23.761,13.022,19.602,Missoula,con-dry
+1981,Historical Emissions,21.443,13.77,20.22,Missoula,con-dry
+1982,Historical Emissions,20.766,12.609,16.169,Missoula,con-dry
+1983,Historical Emissions,32.383,16.261,19.644,Missoula,con-dry
+1984,Historical Emissions,20.633,14.073,17.025,Missoula,con-dry
+1985,Historical Emissions,22.487,15.909,17.246,Missoula,con-dry
+1986,Historical Emissions,24.325,14.41,18.627,Missoula,con-dry
+1987,Historical Emissions,24.381,14.073,20.763,Missoula,con-dry
+1988,Historical Emissions,23.722,14.686,18.89,Missoula,con-dry
+1989,Historical Emissions,25.35,13.61,16.364,Missoula,con-dry
+1990,Historical Emissions,27.263,12.151,19.466,Missoula,con-dry
+1991,Historical Emissions,29.302,14.727,21.89,Missoula,con-dry
+1992,Historical Emissions,38.609,16.707,22.907,Missoula,con-dry
+1993,Historical Emissions,21.978,13.929,18.407,Missoula,con-dry
+1994,Historical Emissions,22.315,14.141,18.856,Missoula,con-dry
+1995,Historical Emissions,20.649,15.993,16.898,Missoula,con-dry
+1996,Historical Emissions,39.66,14.725,24.771,Missoula,con-dry
+1997,Historical Emissions,23.583,14.964,18.619,Missoula,con-dry
+1998,Historical Emissions,26.822,13.393,18.415,Missoula,con-dry
+1999,Historical Emissions,23.617,13.947,18.864,Missoula,con-dry
+2000,Historical Emissions,25.39,15.249,20.068,Missoula,con-dry
+2001,Historical Emissions,21.863,13.705,16.712,Missoula,con-dry
+2002,Historical Emissions,27.181,13.573,15.661,Missoula,con-dry
+2003,Historical Emissions,24.108,12.841,18.831,Missoula,con-dry
+2004,Historical Emissions,29.277,17.456,19.992,Missoula,con-dry
+2005,Historical Emissions,34.588,14.927,19.729,Missoula,con-dry
+2006,Historical Emissions,22.359,16.956,19.788,Missoula,con-dry
+2007,Historical Emissions,22.969,15.175,17.085,Missoula,con-dry
+2008,Historical Emissions,23.573,14.182,20.661,Missoula,con-dry
+2009,Historical Emissions,21.729,13.335,19.017,Missoula,con-dry
+2010,Historical Emissions,23.236,14.729,19.178,Missoula,con-dry
+2011,Historical Emissions,22.291,14.661,18.915,Missoula,con-dry
+2012,Historical Emissions,20.846,16.01,17.695,Missoula,con-dry
+2013,Historical Emissions,25.788,14.733,22.364,Missoula,con-dry
+2014,Historical Emissions,35.573,16.041,18.229,Missoula,con-dry
+2015,"Moderating Emissions
+(SSP1-2.6)",28.56,15.932,20.627,Missoula,con-dry
+2015,"Middle of the Road
+(SSP2-4.5)",39.47,16.653,22.78,Missoula,con-dry
+2015,"High Emissions
+(SSP3-7.0)",25.465,15.749,20.195,Missoula,con-dry
+2015,"Accelerating Emissions
+(SSP5-8.5)",28.573,13.766,18.263,Missoula,con-dry
+2016,"Moderating Emissions
+(SSP1-2.6)",28.395,13.948,22.415,Missoula,con-dry
+2016,"Middle of the Road
+(SSP2-4.5)",24.853,17.022,19.89,Missoula,con-dry
+2016,"High Emissions
+(SSP3-7.0)",29.342,14.6,22.712,Missoula,con-dry
+2016,"Accelerating Emissions
+(SSP5-8.5)",32.668,15.939,20.703,Missoula,con-dry
+2017,"Moderating Emissions
+(SSP1-2.6)",30.289,13.63,17.966,Missoula,con-dry
+2017,"Middle of the Road
+(SSP2-4.5)",27.153,16.898,18.585,Missoula,con-dry
+2017,"High Emissions
+(SSP3-7.0)",25.534,15.8,22.39,Missoula,con-dry
+2017,"Accelerating Emissions
+(SSP5-8.5)",21.859,16.427,19.958,Missoula,con-dry
+2018,"Moderating Emissions
+(SSP1-2.6)",30.453,15.614,20.576,Missoula,con-dry
+2018,"Middle of the Road
+(SSP2-4.5)",24.988,15.649,17.322,Missoula,con-dry
+2018,"High Emissions
+(SSP3-7.0)",24.383,13.199,18.161,Missoula,con-dry
+2018,"Accelerating Emissions
+(SSP5-8.5)",28.246,13.156,23.449,Missoula,con-dry
+2019,"Moderating Emissions
+(SSP1-2.6)",32.893,17.419,26.847,Missoula,con-dry
+2019,"Middle of the Road
+(SSP2-4.5)",25.72,13.085,18.246,Missoula,con-dry
+2019,"High Emissions
+(SSP3-7.0)",26.697,13.22,22.695,Missoula,con-dry
+2019,"Accelerating Emissions
+(SSP5-8.5)",26.487,13.158,22.441,Missoula,con-dry
+2020,"Moderating Emissions
+(SSP1-2.6)",28.256,15.624,20.144,Missoula,con-dry
+2020,"Middle of the Road
+(SSP2-4.5)",20.087,14.743,17.042,Missoula,con-dry
+2020,"High Emissions
+(SSP3-7.0)",25.58,16.213,17.932,Missoula,con-dry
+2020,"Accelerating Emissions
+(SSP5-8.5)",22.734,14.471,18.542,Missoula,con-dry
+2021,"Moderating Emissions
+(SSP1-2.6)",33.953,16.215,22.466,Missoula,con-dry
+2021,"Middle of the Road
+(SSP2-4.5)",29.019,18.559,25.034,Missoula,con-dry
+2021,"High Emissions
+(SSP3-7.0)",34.176,13.752,21.186,Missoula,con-dry
+2021,"Accelerating Emissions
+(SSP5-8.5)",23.412,15.185,19.153,Missoula,con-dry
+2022,"Moderating Emissions
+(SSP1-2.6)",23.585,14.798,18.763,Missoula,con-dry
+2022,"Middle of the Road
+(SSP2-4.5)",22.519,13.454,18.161,Missoula,con-dry
+2022,"High Emissions
+(SSP3-7.0)",22.556,13.832,17.127,Missoula,con-dry
+2022,"Accelerating Emissions
+(SSP5-8.5)",22.09,13.753,16.542,Missoula,con-dry
+2023,"Moderating Emissions
+(SSP1-2.6)",23.303,13.47,19.347,Missoula,con-dry
+2023,"Middle of the Road
+(SSP2-4.5)",28.783,16.871,21.898,Missoula,con-dry
+2023,"High Emissions
+(SSP3-7.0)",27.53,14.402,19.915,Missoula,con-dry
+2023,"Accelerating Emissions
+(SSP5-8.5)",22.049,12.445,14.763,Missoula,con-dry
+2024,"Moderating Emissions
+(SSP1-2.6)",25.408,13.52,19.356,Missoula,con-dry
+2024,"Middle of the Road
+(SSP2-4.5)",33.929,14.405,21.093,Missoula,con-dry
+2024,"High Emissions
+(SSP3-7.0)",30,15.436,19.364,Missoula,con-dry
+2024,"Accelerating Emissions
+(SSP5-8.5)",27.884,13.882,20.178,Missoula,con-dry
+2025,"Moderating Emissions
+(SSP1-2.6)",30.554,15.942,19,Missoula,con-dry
+2025,"Middle of the Road
+(SSP2-4.5)",21.446,15.081,16.331,Missoula,con-dry
+2025,"High Emissions
+(SSP3-7.0)",26.273,16.973,23.551,Missoula,con-dry
+2025,"Accelerating Emissions
+(SSP5-8.5)",28.213,14.641,23.898,Missoula,con-dry
+2026,"Moderating Emissions
+(SSP1-2.6)",25.918,14.488,19.915,Missoula,con-dry
+2026,"Middle of the Road
+(SSP2-4.5)",27.52,12.809,17.347,Missoula,con-dry
+2026,"High Emissions
+(SSP3-7.0)",25.195,15.08,19.169,Missoula,con-dry
+2026,"Accelerating Emissions
+(SSP5-8.5)",23.849,16.253,19.466,Missoula,con-dry
+2027,"Moderating Emissions
+(SSP1-2.6)",31.332,14.922,19.712,Missoula,con-dry
+2027,"Middle of the Road
+(SSP2-4.5)",33.046,11.742,19.339,Missoula,con-dry
+2027,"High Emissions
+(SSP3-7.0)",27.132,15.932,22.212,Missoula,con-dry
+2027,"Accelerating Emissions
+(SSP5-8.5)",33.539,12.987,20.186,Missoula,con-dry
+2028,"Moderating Emissions
+(SSP1-2.6)",24.524,14.012,18.898,Missoula,con-dry
+2028,"Middle of the Road
+(SSP2-4.5)",33.014,13.303,18.305,Missoula,con-dry
+2028,"High Emissions
+(SSP3-7.0)",25.588,16.28,21.076,Missoula,con-dry
+2028,"Accelerating Emissions
+(SSP5-8.5)",25.851,13.05,17.653,Missoula,con-dry
+2029,"Moderating Emissions
+(SSP1-2.6)",30.724,15.842,26.746,Missoula,con-dry
+2029,"Middle of the Road
+(SSP2-4.5)",30.945,14.922,21.763,Missoula,con-dry
+2029,"High Emissions
+(SSP3-7.0)",33.593,14.1,22.695,Missoula,con-dry
+2029,"Accelerating Emissions
+(SSP5-8.5)",21.937,14.517,19.415,Missoula,con-dry
+2030,"Moderating Emissions
+(SSP1-2.6)",34.715,16.199,19.831,Missoula,con-dry
+2030,"Middle of the Road
+(SSP2-4.5)",28.581,17.961,20.627,Missoula,con-dry
+2030,"High Emissions
+(SSP3-7.0)",26.244,13.998,19.432,Missoula,con-dry
+2030,"Accelerating Emissions
+(SSP5-8.5)",26.945,17.449,19.39,Missoula,con-dry
+2031,"Moderating Emissions
+(SSP1-2.6)",30.261,16.568,22.246,Missoula,con-dry
+2031,"Middle of the Road
+(SSP2-4.5)",25.256,14.427,16.39,Missoula,con-dry
+2031,"High Emissions
+(SSP3-7.0)",35.237,15.329,22.034,Missoula,con-dry
+2031,"Accelerating Emissions
+(SSP5-8.5)",23.993,17.571,20.449,Missoula,con-dry
+2032,"Moderating Emissions
+(SSP1-2.6)",35.202,16.569,18.585,Missoula,con-dry
+2032,"Middle of the Road
+(SSP2-4.5)",25.617,15.332,17.941,Missoula,con-dry
+2032,"High Emissions
+(SSP3-7.0)",31.167,12.688,17.424,Missoula,con-dry
+2032,"Accelerating Emissions
+(SSP5-8.5)",28.264,16.503,23.059,Missoula,con-dry
+2033,"Moderating Emissions
+(SSP1-2.6)",27.639,16.351,20.593,Missoula,con-dry
+2033,"Middle of the Road
+(SSP2-4.5)",43.877,14.002,20.661,Missoula,con-dry
+2033,"High Emissions
+(SSP3-7.0)",24.588,14.473,18.364,Missoula,con-dry
+2033,"Accelerating Emissions
+(SSP5-8.5)",28.02,16.131,19.856,Missoula,con-dry
+2034,"Moderating Emissions
+(SSP1-2.6)",28.816,17.095,19.144,Missoula,con-dry
+2034,"Middle of the Road
+(SSP2-4.5)",20.458,15.724,19.144,Missoula,con-dry
+2034,"High Emissions
+(SSP3-7.0)",37.344,14.63,29.466,Missoula,con-dry
+2034,"Accelerating Emissions
+(SSP5-8.5)",20.145,13.314,16.28,Missoula,con-dry
+2035,"Moderating Emissions
+(SSP1-2.6)",33.7,13.854,21.958,Missoula,con-dry
+2035,"Middle of the Road
+(SSP2-4.5)",26.861,16.587,18.678,Missoula,con-dry
+2035,"High Emissions
+(SSP3-7.0)",27.475,14.849,20.356,Missoula,con-dry
+2035,"Accelerating Emissions
+(SSP5-8.5)",22.71,14.398,16.636,Missoula,con-dry
+2036,"Moderating Emissions
+(SSP1-2.6)",30.505,12.463,17.288,Missoula,con-dry
+2036,"Middle of the Road
+(SSP2-4.5)",30.568,18.11,23.669,Missoula,con-dry
+2036,"High Emissions
+(SSP3-7.0)",25.57,12.171,21.559,Missoula,con-dry
+2036,"Accelerating Emissions
+(SSP5-8.5)",25.109,14.312,22.237,Missoula,con-dry
+2037,"Moderating Emissions
+(SSP1-2.6)",22.778,14.131,17.695,Missoula,con-dry
+2037,"Middle of the Road
+(SSP2-4.5)",26.144,15.251,19.28,Missoula,con-dry
+2037,"High Emissions
+(SSP3-7.0)",23.069,14.737,17.051,Missoula,con-dry
+2037,"Accelerating Emissions
+(SSP5-8.5)",30.685,13.849,24.051,Missoula,con-dry
+2038,"Moderating Emissions
+(SSP1-2.6)",34.736,15.702,16.636,Missoula,con-dry
+2038,"Middle of the Road
+(SSP2-4.5)",33.176,16.361,23.856,Missoula,con-dry
+2038,"High Emissions
+(SSP3-7.0)",27.043,16.98,23.331,Missoula,con-dry
+2038,"Accelerating Emissions
+(SSP5-8.5)",32.009,13.632,22.136,Missoula,con-dry
+2039,"Moderating Emissions
+(SSP1-2.6)",28.232,18.004,22.449,Missoula,con-dry
+2039,"Middle of the Road
+(SSP2-4.5)",27.481,17.156,19.992,Missoula,con-dry
+2039,"High Emissions
+(SSP3-7.0)",26.822,16.046,21.898,Missoula,con-dry
+2039,"Accelerating Emissions
+(SSP5-8.5)",27.864,11.951,18.085,Missoula,con-dry
+2040,"Moderating Emissions
+(SSP1-2.6)",19.456,14.427,15.992,Missoula,con-dry
+2040,"Middle of the Road
+(SSP2-4.5)",30.398,14.768,20.305,Missoula,con-dry
+2040,"High Emissions
+(SSP3-7.0)",20.368,15.961,17.22,Missoula,con-dry
+2040,"Accelerating Emissions
+(SSP5-8.5)",52.651,15.73,17.898,Missoula,con-dry
+2041,"Moderating Emissions
+(SSP1-2.6)",28.208,15.358,18.407,Missoula,con-dry
+2041,"Middle of the Road
+(SSP2-4.5)",30.527,16.083,19.864,Missoula,con-dry
+2041,"High Emissions
+(SSP3-7.0)",28.013,14.142,20.788,Missoula,con-dry
+2041,"Accelerating Emissions
+(SSP5-8.5)",19.186,13.358,16.89,Missoula,con-dry
+2042,"Moderating Emissions
+(SSP1-2.6)",27.598,14.19,25.831,Missoula,con-dry
+2042,"Middle of the Road
+(SSP2-4.5)",29.585,16.061,18.483,Missoula,con-dry
+2042,"High Emissions
+(SSP3-7.0)",27.412,15.414,21.136,Missoula,con-dry
+2042,"Accelerating Emissions
+(SSP5-8.5)",27.685,14.781,20.898,Missoula,con-dry
+2043,"Moderating Emissions
+(SSP1-2.6)",32.774,17.453,19.347,Missoula,con-dry
+2043,"Middle of the Road
+(SSP2-4.5)",38.186,14.726,21.28,Missoula,con-dry
+2043,"High Emissions
+(SSP3-7.0)",24.127,12.876,20.737,Missoula,con-dry
+2043,"Accelerating Emissions
+(SSP5-8.5)",28.669,17.899,24.127,Missoula,con-dry
+2044,"Moderating Emissions
+(SSP1-2.6)",25.15,16.279,21.144,Missoula,con-dry
+2044,"Middle of the Road
+(SSP2-4.5)",26.502,18.652,21.178,Missoula,con-dry
+2044,"High Emissions
+(SSP3-7.0)",26.275,14.917,19.525,Missoula,con-dry
+2044,"Accelerating Emissions
+(SSP5-8.5)",28.959,16.007,26.297,Missoula,con-dry
+2045,"Moderating Emissions
+(SSP1-2.6)",27.232,14.941,17.381,Missoula,con-dry
+2045,"Middle of the Road
+(SSP2-4.5)",27.029,16.232,20.11,Missoula,con-dry
+2045,"High Emissions
+(SSP3-7.0)",25.358,14.717,19.144,Missoula,con-dry
+2045,"Accelerating Emissions
+(SSP5-8.5)",28.336,13.843,18.975,Missoula,con-dry
+2046,"Moderating Emissions
+(SSP1-2.6)",21.395,15.946,19.415,Missoula,con-dry
+2046,"Middle of the Road
+(SSP2-4.5)",21.416,15.144,17.229,Missoula,con-dry
+2046,"High Emissions
+(SSP3-7.0)",25.032,16.414,20.763,Missoula,con-dry
+2046,"Accelerating Emissions
+(SSP5-8.5)",28.709,14.585,21.161,Missoula,con-dry
+2047,"Moderating Emissions
+(SSP1-2.6)",22.808,16.046,20.059,Missoula,con-dry
+2047,"Middle of the Road
+(SSP2-4.5)",31.673,16.385,18.381,Missoula,con-dry
+2047,"High Emissions
+(SSP3-7.0)",27.283,16.615,23.11,Missoula,con-dry
+2047,"Accelerating Emissions
+(SSP5-8.5)",26.588,18.29,21.11,Missoula,con-dry
+2048,"Moderating Emissions
+(SSP1-2.6)",24.427,15.832,20.432,Missoula,con-dry
+2048,"Middle of the Road
+(SSP2-4.5)",25.779,15.302,17.966,Missoula,con-dry
+2048,"High Emissions
+(SSP3-7.0)",20.3,14.471,18.068,Missoula,con-dry
+2048,"Accelerating Emissions
+(SSP5-8.5)",35.375,15.439,22.085,Missoula,con-dry
+2049,"Moderating Emissions
+(SSP1-2.6)",31.855,14.721,16.678,Missoula,con-dry
+2049,"Middle of the Road
+(SSP2-4.5)",26.776,14.226,20.864,Missoula,con-dry
+2049,"High Emissions
+(SSP3-7.0)",24.309,15.927,19.008,Missoula,con-dry
+2049,"Accelerating Emissions
+(SSP5-8.5)",30.372,17.286,18.441,Missoula,con-dry
+2050,"Moderating Emissions
+(SSP1-2.6)",28.453,12.757,18.797,Missoula,con-dry
+2050,"Middle of the Road
+(SSP2-4.5)",31.964,14.422,22.008,Missoula,con-dry
+2050,"High Emissions
+(SSP3-7.0)",29.651,17.89,25.771,Missoula,con-dry
+2050,"Accelerating Emissions
+(SSP5-8.5)",29.727,19.08,24.432,Missoula,con-dry
+2051,"Moderating Emissions
+(SSP1-2.6)",24.695,13.08,17,Missoula,con-dry
+2051,"Middle of the Road
+(SSP2-4.5)",37.571,13.188,21.466,Missoula,con-dry
+2051,"High Emissions
+(SSP3-7.0)",27.314,16.013,22.356,Missoula,con-dry
+2051,"Accelerating Emissions
+(SSP5-8.5)",30.312,17.325,23.475,Missoula,con-dry
+2052,"Moderating Emissions
+(SSP1-2.6)",22.573,14.464,18.068,Missoula,con-dry
+2052,"Middle of the Road
+(SSP2-4.5)",31.659,13.961,21.424,Missoula,con-dry
+2052,"High Emissions
+(SSP3-7.0)",23.063,14.743,17.22,Missoula,con-dry
+2052,"Accelerating Emissions
+(SSP5-8.5)",23.619,15.419,20.059,Missoula,con-dry
+2053,"Moderating Emissions
+(SSP1-2.6)",24.975,15.868,20.975,Missoula,con-dry
+2053,"Middle of the Road
+(SSP2-4.5)",32.654,13.19,19.017,Missoula,con-dry
+2053,"High Emissions
+(SSP3-7.0)",39.048,17.356,21.254,Missoula,con-dry
+2053,"Accelerating Emissions
+(SSP5-8.5)",25.602,11.929,16.347,Missoula,con-dry
+2054,"Moderating Emissions
+(SSP1-2.6)",30.432,13.173,21.102,Missoula,con-dry
+2054,"Middle of the Road
+(SSP2-4.5)",21.917,16.181,19.331,Missoula,con-dry
+2054,"High Emissions
+(SSP3-7.0)",24.083,16.92,20.339,Missoula,con-dry
+2054,"Accelerating Emissions
+(SSP5-8.5)",24.483,14.833,19.492,Missoula,con-dry
+2055,"Moderating Emissions
+(SSP1-2.6)",33.692,12.905,21.034,Missoula,con-dry
+2055,"Middle of the Road
+(SSP2-4.5)",30.802,14.73,21.178,Missoula,con-dry
+2055,"High Emissions
+(SSP3-7.0)",27.505,13.302,20.856,Missoula,con-dry
+2055,"Accelerating Emissions
+(SSP5-8.5)",24.564,15.9,19.127,Missoula,con-dry
+2056,"Moderating Emissions
+(SSP1-2.6)",29.856,15.207,20.042,Missoula,con-dry
+2056,"Middle of the Road
+(SSP2-4.5)",27.158,16.876,22.093,Missoula,con-dry
+2056,"High Emissions
+(SSP3-7.0)",22.529,14.702,18.144,Missoula,con-dry
+2056,"Accelerating Emissions
+(SSP5-8.5)",27.378,15.743,21.932,Missoula,con-dry
+2057,"Moderating Emissions
+(SSP1-2.6)",27.258,14.822,18.288,Missoula,con-dry
+2057,"Middle of the Road
+(SSP2-4.5)",25.978,16.668,19.525,Missoula,con-dry
+2057,"High Emissions
+(SSP3-7.0)",26.063,16.326,19.127,Missoula,con-dry
+2057,"Accelerating Emissions
+(SSP5-8.5)",29.161,15.34,18.703,Missoula,con-dry
+2058,"Moderating Emissions
+(SSP1-2.6)",30.571,17.751,22.339,Missoula,con-dry
+2058,"Middle of the Road
+(SSP2-4.5)",31.98,15.869,23.186,Missoula,con-dry
+2058,"High Emissions
+(SSP3-7.0)",23.824,14.958,18.822,Missoula,con-dry
+2058,"Accelerating Emissions
+(SSP5-8.5)",27.973,16.612,18.788,Missoula,con-dry
+2059,"Moderating Emissions
+(SSP1-2.6)",34.505,14.962,18.644,Missoula,con-dry
+2059,"Middle of the Road
+(SSP2-4.5)",23.863,13.856,19.534,Missoula,con-dry
+2059,"High Emissions
+(SSP3-7.0)",40.961,14.714,17.898,Missoula,con-dry
+2059,"Accelerating Emissions
+(SSP5-8.5)",32.151,16.163,18.941,Missoula,con-dry
+2060,"Moderating Emissions
+(SSP1-2.6)",24.359,13.329,17.636,Missoula,con-dry
+2060,"Middle of the Road
+(SSP2-4.5)",33.481,15.293,20.712,Missoula,con-dry
+2060,"High Emissions
+(SSP3-7.0)",24.119,14.339,17.127,Missoula,con-dry
+2060,"Accelerating Emissions
+(SSP5-8.5)",25.073,12.024,16.11,Missoula,con-dry
+2061,"Moderating Emissions
+(SSP1-2.6)",31.961,17.357,20.653,Missoula,con-dry
+2061,"Middle of the Road
+(SSP2-4.5)",27.554,14.307,18.695,Missoula,con-dry
+2061,"High Emissions
+(SSP3-7.0)",26.03,16.113,17.831,Missoula,con-dry
+2061,"Accelerating Emissions
+(SSP5-8.5)",36.2,17.763,22.424,Missoula,con-dry
+2062,"Moderating Emissions
+(SSP1-2.6)",33.405,13.735,19.644,Missoula,con-dry
+2062,"Middle of the Road
+(SSP2-4.5)",23.854,12.795,17.11,Missoula,con-dry
+2062,"High Emissions
+(SSP3-7.0)",27.905,18.03,25.017,Missoula,con-dry
+2062,"Accelerating Emissions
+(SSP5-8.5)",28.963,18.741,21.305,Missoula,con-dry
+2063,"Moderating Emissions
+(SSP1-2.6)",28.447,17.91,21.059,Missoula,con-dry
+2063,"Middle of the Road
+(SSP2-4.5)",26.108,12.502,18.763,Missoula,con-dry
+2063,"High Emissions
+(SSP3-7.0)",26.136,13.14,21.5,Missoula,con-dry
+2063,"Accelerating Emissions
+(SSP5-8.5)",27.8,15.496,19.246,Missoula,con-dry
+2064,"Moderating Emissions
+(SSP1-2.6)",32.591,14.727,19.373,Missoula,con-dry
+2064,"Middle of the Road
+(SSP2-4.5)",24.407,15.736,21.068,Missoula,con-dry
+2064,"High Emissions
+(SSP3-7.0)",32.811,15.58,20.246,Missoula,con-dry
+2064,"Accelerating Emissions
+(SSP5-8.5)",36.822,16.663,22.068,Missoula,con-dry
+2065,"Moderating Emissions
+(SSP1-2.6)",29.956,13.571,18.28,Missoula,con-dry
+2065,"Middle of the Road
+(SSP2-4.5)",33.216,15.698,20.678,Missoula,con-dry
+2065,"High Emissions
+(SSP3-7.0)",32.676,13.997,21.61,Missoula,con-dry
+2065,"Accelerating Emissions
+(SSP5-8.5)",34.127,18.389,25.212,Missoula,con-dry
+2066,"Moderating Emissions
+(SSP1-2.6)",33.857,18.717,22,Missoula,con-dry
+2066,"Middle of the Road
+(SSP2-4.5)",32.132,15.705,20.39,Missoula,con-dry
+2066,"High Emissions
+(SSP3-7.0)",35.692,17.114,21.559,Missoula,con-dry
+2066,"Accelerating Emissions
+(SSP5-8.5)",34.039,16.152,17.754,Missoula,con-dry
+2067,"Moderating Emissions
+(SSP1-2.6)",22.332,13.441,17.653,Missoula,con-dry
+2067,"Middle of the Road
+(SSP2-4.5)",23.49,13.88,16.602,Missoula,con-dry
+2067,"High Emissions
+(SSP3-7.0)",31.292,17.147,22.263,Missoula,con-dry
+2067,"Accelerating Emissions
+(SSP5-8.5)",23.459,13.203,19.381,Missoula,con-dry
+2068,"Moderating Emissions
+(SSP1-2.6)",37.63,17.424,24.568,Missoula,con-dry
+2068,"Middle of the Road
+(SSP2-4.5)",26.022,16.51,19.619,Missoula,con-dry
+2068,"High Emissions
+(SSP3-7.0)",22.485,13.686,18.881,Missoula,con-dry
+2068,"Accelerating Emissions
+(SSP5-8.5)",22.183,14.924,16.525,Missoula,con-dry
+2069,"Moderating Emissions
+(SSP1-2.6)",31.345,14.985,19.754,Missoula,con-dry
+2069,"Middle of the Road
+(SSP2-4.5)",29.629,14.18,16.915,Missoula,con-dry
+2069,"High Emissions
+(SSP3-7.0)",25.827,18.186,22.424,Missoula,con-dry
+2069,"Accelerating Emissions
+(SSP5-8.5)",29.861,15.88,23.28,Missoula,con-dry
+2070,"Moderating Emissions
+(SSP1-2.6)",28.821,17.468,20.424,Missoula,con-dry
+2070,"Middle of the Road
+(SSP2-4.5)",24.214,14.225,19.449,Missoula,con-dry
+2070,"High Emissions
+(SSP3-7.0)",26.425,13.613,17.136,Missoula,con-dry
+2070,"Accelerating Emissions
+(SSP5-8.5)",25.922,15.127,18.525,Missoula,con-dry
+2071,"Moderating Emissions
+(SSP1-2.6)",33.43,15.966,21.153,Missoula,con-dry
+2071,"Middle of the Road
+(SSP2-4.5)",24.943,16.748,21.237,Missoula,con-dry
+2071,"High Emissions
+(SSP3-7.0)",29.166,15.685,21.119,Missoula,con-dry
+2071,"Accelerating Emissions
+(SSP5-8.5)",33.987,17.088,23.347,Missoula,con-dry
+2072,"Moderating Emissions
+(SSP1-2.6)",32.966,17.822,22.746,Missoula,con-dry
+2072,"Middle of the Road
+(SSP2-4.5)",33.176,16.752,27.686,Missoula,con-dry
+2072,"High Emissions
+(SSP3-7.0)",32.796,14.959,17.686,Missoula,con-dry
+2072,"Accelerating Emissions
+(SSP5-8.5)",26.59,16.552,20.898,Missoula,con-dry
+2073,"Moderating Emissions
+(SSP1-2.6)",24.519,14.437,21.381,Missoula,con-dry
+2073,"Middle of the Road
+(SSP2-4.5)",22.522,12.856,16.593,Missoula,con-dry
+2073,"High Emissions
+(SSP3-7.0)",29.453,13.859,22.458,Missoula,con-dry
+2073,"Accelerating Emissions
+(SSP5-8.5)",25.386,14.646,17.068,Missoula,con-dry
+2074,"Moderating Emissions
+(SSP1-2.6)",24.595,13.483,18.61,Missoula,con-dry
+2074,"Middle of the Road
+(SSP2-4.5)",29.286,15.614,18.669,Missoula,con-dry
+2074,"High Emissions
+(SSP3-7.0)",34.88,14.014,21.525,Missoula,con-dry
+2074,"Accelerating Emissions
+(SSP5-8.5)",34.037,17.966,23.593,Missoula,con-dry
+2075,"Moderating Emissions
+(SSP1-2.6)",33.173,16.01,20.161,Missoula,con-dry
+2075,"Middle of the Road
+(SSP2-4.5)",25.639,15.878,20.254,Missoula,con-dry
+2075,"High Emissions
+(SSP3-7.0)",29.612,14.794,19.653,Missoula,con-dry
+2075,"Accelerating Emissions
+(SSP5-8.5)",33.114,15.349,20.288,Missoula,con-dry
+2076,"Moderating Emissions
+(SSP1-2.6)",23.193,14.466,18.305,Missoula,con-dry
+2076,"Middle of the Road
+(SSP2-4.5)",23.386,14.692,17.627,Missoula,con-dry
+2076,"High Emissions
+(SSP3-7.0)",26.673,17.229,21.034,Missoula,con-dry
+2076,"Accelerating Emissions
+(SSP5-8.5)",39.024,14.302,19.619,Missoula,con-dry
+2077,"Moderating Emissions
+(SSP1-2.6)",25.037,14.551,18.458,Missoula,con-dry
+2077,"Middle of the Road
+(SSP2-4.5)",22.062,16.651,18.492,Missoula,con-dry
+2077,"High Emissions
+(SSP3-7.0)",30.512,16.324,19.11,Missoula,con-dry
+2077,"Accelerating Emissions
+(SSP5-8.5)",26.909,16.734,20.534,Missoula,con-dry
+2078,"Moderating Emissions
+(SSP1-2.6)",24.917,15.634,18.881,Missoula,con-dry
+2078,"Middle of the Road
+(SSP2-4.5)",24.788,15.412,19.11,Missoula,con-dry
+2078,"High Emissions
+(SSP3-7.0)",24.049,16.576,20.449,Missoula,con-dry
+2078,"Accelerating Emissions
+(SSP5-8.5)",28.958,15.277,20.22,Missoula,con-dry
+2079,"Moderating Emissions
+(SSP1-2.6)",24.819,13.783,23.28,Missoula,con-dry
+2079,"Middle of the Road
+(SSP2-4.5)",26.209,18.26,20.686,Missoula,con-dry
+2079,"High Emissions
+(SSP3-7.0)",35.695,14.178,18.644,Missoula,con-dry
+2079,"Accelerating Emissions
+(SSP5-8.5)",29.743,14.907,18.737,Missoula,con-dry
+2080,"Moderating Emissions
+(SSP1-2.6)",24.837,12.795,18.22,Missoula,con-dry
+2080,"Middle of the Road
+(SSP2-4.5)",25.76,12.653,18.61,Missoula,con-dry
+2080,"High Emissions
+(SSP3-7.0)",35.329,15.961,22.373,Missoula,con-dry
+2080,"Accelerating Emissions
+(SSP5-8.5)",28.493,15.254,23.025,Missoula,con-dry
+2081,"Moderating Emissions
+(SSP1-2.6)",28.62,14.288,22.161,Missoula,con-dry
+2081,"Middle of the Road
+(SSP2-4.5)",22.236,15.481,17.847,Missoula,con-dry
+2081,"High Emissions
+(SSP3-7.0)",34.861,13.046,18.008,Missoula,con-dry
+2081,"Accelerating Emissions
+(SSP5-8.5)",33.887,17.705,21.949,Missoula,con-dry
+2082,"Moderating Emissions
+(SSP1-2.6)",33.229,14.927,20.017,Missoula,con-dry
+2082,"Middle of the Road
+(SSP2-4.5)",30.266,14.373,19.873,Missoula,con-dry
+2082,"High Emissions
+(SSP3-7.0)",24.957,16.668,20.347,Missoula,con-dry
+2082,"Accelerating Emissions
+(SSP5-8.5)",30.005,18.132,24.169,Missoula,con-dry
+2083,"Moderating Emissions
+(SSP1-2.6)",35.007,17.083,19.237,Missoula,con-dry
+2083,"Middle of the Road
+(SSP2-4.5)",35.509,16.878,21.212,Missoula,con-dry
+2083,"High Emissions
+(SSP3-7.0)",29.885,12.62,21.195,Missoula,con-dry
+2083,"Accelerating Emissions
+(SSP5-8.5)",29.4,16.898,22.966,Missoula,con-dry
+2084,"Moderating Emissions
+(SSP1-2.6)",34.163,15.827,20.407,Missoula,con-dry
+2084,"Middle of the Road
+(SSP2-4.5)",34.882,15.688,22.051,Missoula,con-dry
+2084,"High Emissions
+(SSP3-7.0)",28.729,17.727,20.576,Missoula,con-dry
+2084,"Accelerating Emissions
+(SSP5-8.5)",41.683,15.659,21.72,Missoula,con-dry
+2085,"Moderating Emissions
+(SSP1-2.6)",25.766,12.848,19.186,Missoula,con-dry
+2085,"Middle of the Road
+(SSP2-4.5)",27.656,15.6,21.61,Missoula,con-dry
+2085,"High Emissions
+(SSP3-7.0)",24.42,17.176,19.466,Missoula,con-dry
+2085,"Accelerating Emissions
+(SSP5-8.5)",31.624,19.583,25.398,Missoula,con-dry
+2086,"Moderating Emissions
+(SSP1-2.6)",30.984,17.248,22.966,Missoula,con-dry
+2086,"Middle of the Road
+(SSP2-4.5)",32.834,14.954,18.432,Missoula,con-dry
+2086,"High Emissions
+(SSP3-7.0)",29.212,16.56,22.034,Missoula,con-dry
+2086,"Accelerating Emissions
+(SSP5-8.5)",28.751,17.005,20.805,Missoula,con-dry
+2087,"Moderating Emissions
+(SSP1-2.6)",29.27,12.392,15.229,Missoula,con-dry
+2087,"Middle of the Road
+(SSP2-4.5)",25.673,13.815,17.475,Missoula,con-dry
+2087,"High Emissions
+(SSP3-7.0)",30.66,18.236,22.847,Missoula,con-dry
+2087,"Accelerating Emissions
+(SSP5-8.5)",39.22,17.114,21.873,Missoula,con-dry
+2088,"Moderating Emissions
+(SSP1-2.6)",29.959,15.38,22.466,Missoula,con-dry
+2088,"Middle of the Road
+(SSP2-4.5)",29.064,18.504,21.017,Missoula,con-dry
+2088,"High Emissions
+(SSP3-7.0)",35.596,14.29,22.169,Missoula,con-dry
+2088,"Accelerating Emissions
+(SSP5-8.5)",36.09,19.349,23.339,Missoula,con-dry
+2089,"Moderating Emissions
+(SSP1-2.6)",37.856,13.636,17.203,Missoula,con-dry
+2089,"Middle of the Road
+(SSP2-4.5)",27.916,13.378,18.254,Missoula,con-dry
+2089,"High Emissions
+(SSP3-7.0)",35.571,13.201,23.534,Missoula,con-dry
+2089,"Accelerating Emissions
+(SSP5-8.5)",47.874,16.185,20.898,Missoula,con-dry
+2090,"Moderating Emissions
+(SSP1-2.6)",21.576,15.573,18.576,Missoula,con-dry
+2090,"Middle of the Road
+(SSP2-4.5)",29.599,12.809,19.466,Missoula,con-dry
+2090,"High Emissions
+(SSP3-7.0)",36.636,19.398,22.119,Missoula,con-dry
+2090,"Accelerating Emissions
+(SSP5-8.5)",29.668,18.235,26.212,Missoula,con-dry
+2091,"Moderating Emissions
+(SSP1-2.6)",28.787,15.17,17.729,Missoula,con-dry
+2091,"Middle of the Road
+(SSP2-4.5)",44.592,16.525,20.754,Missoula,con-dry
+2091,"High Emissions
+(SSP3-7.0)",32.866,18.292,25.068,Missoula,con-dry
+2091,"Accelerating Emissions
+(SSP5-8.5)",32.715,13.818,17.78,Missoula,con-dry
+2092,"Moderating Emissions
+(SSP1-2.6)",25.638,13.577,17.585,Missoula,con-dry
+2092,"Middle of the Road
+(SSP2-4.5)",36.724,13.664,20.686,Missoula,con-dry
+2092,"High Emissions
+(SSP3-7.0)",28.232,17.039,20.034,Missoula,con-dry
+2092,"Accelerating Emissions
+(SSP5-8.5)",37.719,16.427,19.873,Missoula,con-dry
+2093,"Moderating Emissions
+(SSP1-2.6)",26.705,16.043,19.271,Missoula,con-dry
+2093,"Middle of the Road
+(SSP2-4.5)",28.891,15.671,23.636,Missoula,con-dry
+2093,"High Emissions
+(SSP3-7.0)",27.853,16.742,20.407,Missoula,con-dry
+2093,"Accelerating Emissions
+(SSP5-8.5)",37.183,14.766,19.78,Missoula,con-dry
+2094,"Moderating Emissions
+(SSP1-2.6)",29.154,14.01,18.822,Missoula,con-dry
+2094,"Middle of the Road
+(SSP2-4.5)",39.78,18.774,23.119,Missoula,con-dry
+2094,"High Emissions
+(SSP3-7.0)",29.927,14.324,23.653,Missoula,con-dry
+2094,"Accelerating Emissions
+(SSP5-8.5)",32.036,16.168,19.11,Missoula,con-dry
+2095,"Moderating Emissions
+(SSP1-2.6)",33.678,17.093,20.703,Missoula,con-dry
+2095,"Middle of the Road
+(SSP2-4.5)",26.112,13.436,18.017,Missoula,con-dry
+2095,"High Emissions
+(SSP3-7.0)",42.122,17.361,24.271,Missoula,con-dry
+2095,"Accelerating Emissions
+(SSP5-8.5)",29.653,17.195,18.983,Missoula,con-dry
+2096,"Moderating Emissions
+(SSP1-2.6)",30.52,16.929,19.678,Missoula,con-dry
+2096,"Middle of the Road
+(SSP2-4.5)",27.641,17.764,24.907,Missoula,con-dry
+2096,"High Emissions
+(SSP3-7.0)",25.774,16.827,22.653,Missoula,con-dry
+2096,"Accelerating Emissions
+(SSP5-8.5)",37.53,16.2,18.932,Missoula,con-dry
+2097,"Moderating Emissions
+(SSP1-2.6)",34.339,19.659,23.975,Missoula,con-dry
+2097,"Middle of the Road
+(SSP2-4.5)",27.222,14.422,22.144,Missoula,con-dry
+2097,"High Emissions
+(SSP3-7.0)",30.566,16.292,24.195,Missoula,con-dry
+2097,"Accelerating Emissions
+(SSP5-8.5)",33.945,17.298,25.288,Missoula,con-dry
+2098,"Moderating Emissions
+(SSP1-2.6)",28.832,14.21,18.839,Missoula,con-dry
+2098,"Middle of the Road
+(SSP2-4.5)",27.352,15.108,20.381,Missoula,con-dry
+2098,"High Emissions
+(SSP3-7.0)",22.94,13.816,20.119,Missoula,con-dry
+2098,"Accelerating Emissions
+(SSP5-8.5)",41.846,16.337,29.441,Missoula,con-dry
+2099,"Moderating Emissions
+(SSP1-2.6)",32.881,17.266,17.627,Missoula,con-dry
+2099,"Middle of the Road
+(SSP2-4.5)",33.91,18.073,24.881,Missoula,con-dry
+2099,"High Emissions
+(SSP3-7.0)",31.676,16.006,19.186,Missoula,con-dry
+2099,"Accelerating Emissions
+(SSP5-8.5)",31.309,18.841,22.246,Missoula,con-dry
+2100,"Moderating Emissions
+(SSP1-2.6)",29.134,12.524,15.983,Missoula,con-dry
+2100,"Middle of the Road
+(SSP2-4.5)",27.714,13.624,19.28,Missoula,con-dry
+2100,"High Emissions
+(SSP3-7.0)",26.966,18.162,19.305,Missoula,con-dry
+2100,"Accelerating Emissions
+(SSP5-8.5)",30.951,13.736,21.636,Missoula,con-dry

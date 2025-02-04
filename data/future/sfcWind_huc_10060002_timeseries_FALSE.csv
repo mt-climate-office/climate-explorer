@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,9.125,8.349,8.695,Redwater,sfcWind
+1951,Historical Emissions,8.906,8.509,8.664,Redwater,sfcWind
+1952,Historical Emissions,9.161,8.219,8.841,Redwater,sfcWind
+1953,Historical Emissions,9.196,8.475,8.662,Redwater,sfcWind
+1954,Historical Emissions,9.162,8.316,8.828,Redwater,sfcWind
+1955,Historical Emissions,9.145,8.358,8.695,Redwater,sfcWind
+1956,Historical Emissions,9.357,8.419,8.938,Redwater,sfcWind
+1957,Historical Emissions,9.192,8.52,9.026,Redwater,sfcWind
+1958,Historical Emissions,8.91,8.389,8.564,Redwater,sfcWind
+1959,Historical Emissions,9.201,8.326,8.855,Redwater,sfcWind
+1960,Historical Emissions,9.299,8.741,9.124,Redwater,sfcWind
+1961,Historical Emissions,9.299,8.441,8.724,Redwater,sfcWind
+1962,Historical Emissions,9.057,8.495,8.821,Redwater,sfcWind
+1963,Historical Emissions,9.087,8.474,8.665,Redwater,sfcWind
+1964,Historical Emissions,9.106,8.652,8.845,Redwater,sfcWind
+1965,Historical Emissions,9.03,8.514,8.692,Redwater,sfcWind
+1966,Historical Emissions,9.402,8.588,8.752,Redwater,sfcWind
+1967,Historical Emissions,9.282,8.378,8.795,Redwater,sfcWind
+1968,Historical Emissions,9.47,8.329,8.732,Redwater,sfcWind
+1969,Historical Emissions,9.029,8.333,8.508,Redwater,sfcWind
+1970,Historical Emissions,9.195,8.607,8.699,Redwater,sfcWind
+1971,Historical Emissions,9.187,8.359,8.738,Redwater,sfcWind
+1972,Historical Emissions,8.982,8.479,8.768,Redwater,sfcWind
+1973,Historical Emissions,9.197,8.476,8.706,Redwater,sfcWind
+1974,Historical Emissions,9.184,8.2,8.899,Redwater,sfcWind
+1975,Historical Emissions,9.028,8.39,8.658,Redwater,sfcWind
+1976,Historical Emissions,9.171,8.436,8.722,Redwater,sfcWind
+1977,Historical Emissions,9.007,8.268,8.598,Redwater,sfcWind
+1978,Historical Emissions,8.849,8.324,8.639,Redwater,sfcWind
+1979,Historical Emissions,8.887,8.5,8.622,Redwater,sfcWind
+1980,Historical Emissions,9.169,8.46,8.747,Redwater,sfcWind
+1981,Historical Emissions,8.984,8.51,8.714,Redwater,sfcWind
+1982,Historical Emissions,9.12,8.225,8.729,Redwater,sfcWind
+1983,Historical Emissions,8.973,8.326,8.595,Redwater,sfcWind
+1984,Historical Emissions,9.257,8.193,8.583,Redwater,sfcWind
+1985,Historical Emissions,9.098,8.438,8.702,Redwater,sfcWind
+1986,Historical Emissions,9.025,8.214,8.924,Redwater,sfcWind
+1987,Historical Emissions,9.137,8.236,8.603,Redwater,sfcWind
+1988,Historical Emissions,8.894,8.457,8.801,Redwater,sfcWind
+1989,Historical Emissions,8.972,8.396,8.706,Redwater,sfcWind
+1990,Historical Emissions,9.123,8.373,8.858,Redwater,sfcWind
+1991,Historical Emissions,8.926,8.413,8.773,Redwater,sfcWind
+1992,Historical Emissions,9.123,8.508,8.841,Redwater,sfcWind
+1993,Historical Emissions,9.032,8.415,8.651,Redwater,sfcWind
+1994,Historical Emissions,9.207,8.162,8.737,Redwater,sfcWind
+1995,Historical Emissions,9.372,8.476,8.806,Redwater,sfcWind
+1996,Historical Emissions,9.238,8.487,8.957,Redwater,sfcWind
+1997,Historical Emissions,9.199,8.312,8.484,Redwater,sfcWind
+1998,Historical Emissions,9.139,8.327,8.818,Redwater,sfcWind
+1999,Historical Emissions,8.93,8.415,8.653,Redwater,sfcWind
+2000,Historical Emissions,8.938,8.462,8.72,Redwater,sfcWind
+2001,Historical Emissions,8.978,8.186,8.611,Redwater,sfcWind
+2002,Historical Emissions,9.267,8.232,8.704,Redwater,sfcWind
+2003,Historical Emissions,8.847,8.381,8.755,Redwater,sfcWind
+2004,Historical Emissions,9.101,8.582,8.896,Redwater,sfcWind
+2005,Historical Emissions,9.272,8.301,8.714,Redwater,sfcWind
+2006,Historical Emissions,9.121,8.313,8.876,Redwater,sfcWind
+2007,Historical Emissions,9.03,8.203,8.619,Redwater,sfcWind
+2008,Historical Emissions,8.88,8.25,8.566,Redwater,sfcWind
+2009,Historical Emissions,8.919,8.45,8.754,Redwater,sfcWind
+2010,Historical Emissions,9.046,8.258,8.689,Redwater,sfcWind
+2011,Historical Emissions,9.029,8.411,8.617,Redwater,sfcWind
+2012,Historical Emissions,9.134,8.317,8.706,Redwater,sfcWind
+2013,Historical Emissions,9.052,8.381,8.561,Redwater,sfcWind
+2014,Historical Emissions,9.155,8.575,8.71,Redwater,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",9.243,8.107,8.462,Redwater,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",9.225,7.82,8.743,Redwater,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",9.216,7.996,8.562,Redwater,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",8.968,8.241,8.672,Redwater,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",8.884,7.868,8.6,Redwater,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",9.096,7.983,8.68,Redwater,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",9.229,8.263,8.65,Redwater,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",9.318,8.09,8.467,Redwater,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",9.066,7.79,8.751,Redwater,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",8.82,8.175,8.658,Redwater,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",8.902,7.792,8.344,Redwater,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",8.938,8.171,8.699,Redwater,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",9.122,8.139,8.564,Redwater,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",8.913,7.571,8.581,Redwater,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",8.736,7.616,8.397,Redwater,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",8.815,8.052,8.524,Redwater,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",8.701,7.695,8.427,Redwater,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",9.065,8.182,8.611,Redwater,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",8.924,7.589,8.402,Redwater,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",8.78,7.904,8.599,Redwater,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",8.815,7.96,8.619,Redwater,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",9.131,8.091,8.799,Redwater,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",8.873,8.215,8.669,Redwater,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",8.916,7.95,8.418,Redwater,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",8.975,8.154,8.421,Redwater,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",8.903,8.236,8.668,Redwater,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",9.055,8.133,8.728,Redwater,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",8.793,7.986,8.617,Redwater,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",8.973,8.283,8.62,Redwater,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",8.766,8.189,8.543,Redwater,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",8.828,7.936,8.503,Redwater,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",8.999,8.034,8.579,Redwater,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",8.943,8.088,8.578,Redwater,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",8.899,8.152,8.622,Redwater,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",8.781,8.13,8.488,Redwater,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",9.052,8.172,8.619,Redwater,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",9.096,8.191,8.498,Redwater,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",8.727,7.731,8.54,Redwater,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",8.995,8.082,8.713,Redwater,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",9.08,8.18,8.79,Redwater,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",8.982,8.239,8.72,Redwater,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",9.154,7.824,8.554,Redwater,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",8.945,7.985,8.509,Redwater,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",9.029,8.273,8.78,Redwater,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",9.217,8.089,8.719,Redwater,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",8.87,8.31,8.635,Redwater,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",8.545,7.768,8.28,Redwater,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",8.887,8.127,8.33,Redwater,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",9.11,7.911,8.685,Redwater,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",8.889,8.208,8.64,Redwater,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",8.909,7.991,8.235,Redwater,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",9.012,7.869,8.542,Redwater,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",8.9,7.872,8.652,Redwater,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",8.814,7.867,8.412,Redwater,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",8.934,7.984,8.511,Redwater,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",8.672,8.149,8.59,Redwater,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",8.666,8.068,8.364,Redwater,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",8.819,7.846,8.684,Redwater,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",8.79,8.057,8.663,Redwater,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",8.823,7.831,8.366,Redwater,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",8.67,8.058,8.361,Redwater,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",9.108,8.254,8.803,Redwater,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",9.04,8.101,8.591,Redwater,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",8.828,8.093,8.396,Redwater,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",9.082,8.33,8.636,Redwater,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",8.903,8.181,8.75,Redwater,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",8.931,8.097,8.505,Redwater,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",8.894,8.013,8.658,Redwater,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",8.864,7.71,8.701,Redwater,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",9.035,8.124,8.546,Redwater,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",8.906,8.336,8.7,Redwater,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",9.01,8.005,8.637,Redwater,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",9.125,7.872,8.749,Redwater,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",8.832,8.036,8.691,Redwater,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",8.854,7.767,8.195,Redwater,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",8.686,7.959,8.426,Redwater,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",8.918,8.073,8.565,Redwater,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",8.763,7.923,8.498,Redwater,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",8.821,7.933,8.549,Redwater,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",9.336,8.141,8.6,Redwater,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",9.03,8.152,8.759,Redwater,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",8.838,8.177,8.473,Redwater,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",8.966,8.266,8.506,Redwater,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",9.175,7.847,8.684,Redwater,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",8.743,7.922,8.494,Redwater,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",9.021,8.181,8.778,Redwater,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",8.701,7.999,8.38,Redwater,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",8.809,7.791,8.582,Redwater,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",8.882,7.86,8.397,Redwater,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",8.904,7.999,8.553,Redwater,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",8.863,8.076,8.211,Redwater,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",9.25,8.194,8.646,Redwater,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",9.023,8.219,8.515,Redwater,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",8.914,8.075,8.594,Redwater,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",8.883,8.294,8.637,Redwater,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",8.748,8.183,8.32,Redwater,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",8.862,8.108,8.591,Redwater,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",8.916,8.283,8.521,Redwater,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",9.071,7.725,8.577,Redwater,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",8.734,8.21,8.638,Redwater,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",9.079,7.693,8.553,Redwater,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",9.005,8.223,8.613,Redwater,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",9.068,8.021,8.293,Redwater,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",8.986,7.665,8.531,Redwater,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",8.795,8.169,8.437,Redwater,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",8.699,8.014,8.37,Redwater,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",8.611,7.826,8.522,Redwater,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",9.004,7.907,8.54,Redwater,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",9.032,8.236,8.569,Redwater,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",8.739,8.098,8.459,Redwater,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",9.19,7.756,8.824,Redwater,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",8.836,8.223,8.605,Redwater,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",8.825,7.767,8.607,Redwater,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",8.964,8.151,8.638,Redwater,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",8.974,7.705,8.8,Redwater,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",8.942,8.111,8.553,Redwater,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",8.854,7.839,8.55,Redwater,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",8.985,8.151,8.604,Redwater,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",9.045,8.161,8.664,Redwater,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",8.742,7.65,8.423,Redwater,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",8.572,7.767,8.29,Redwater,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",9.051,7.929,8.607,Redwater,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",8.883,7.934,8.587,Redwater,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",8.604,7.72,8.407,Redwater,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",8.957,7.629,8.483,Redwater,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",9.006,7.901,8.605,Redwater,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",8.792,7.982,8.273,Redwater,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",8.991,7.255,8.764,Redwater,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",8.991,7.279,8.561,Redwater,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",8.794,7.846,8.484,Redwater,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",8.671,7.792,8.521,Redwater,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",9.23,7.451,8.751,Redwater,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",8.97,8.012,8.586,Redwater,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",8.775,7.568,8.296,Redwater,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",9.066,7.952,8.74,Redwater,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",9.104,8.133,8.523,Redwater,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",9.183,7.699,8.702,Redwater,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",9.124,8.062,8.75,Redwater,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",8.933,8.056,8.444,Redwater,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",9.023,8.098,8.411,Redwater,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",8.663,7.67,8.513,Redwater,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",9.174,8.07,8.487,Redwater,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",8.888,8.092,8.689,Redwater,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",8.838,7.704,8.263,Redwater,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",8.754,8.011,8.515,Redwater,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",9.488,8.099,8.473,Redwater,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",8.783,7.785,8.348,Redwater,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",9.278,8.01,8.768,Redwater,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",9.023,7.798,8.305,Redwater,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",8.878,8.056,8.545,Redwater,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",8.875,7.764,8.462,Redwater,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",8.859,7.543,8.534,Redwater,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",9.072,7.785,8.76,Redwater,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",8.855,7.867,8.694,Redwater,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",8.855,7.359,8.419,Redwater,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",8.879,8.086,8.627,Redwater,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",8.886,7.53,8.615,Redwater,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",8.839,7.513,8.662,Redwater,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",8.65,7.787,8.415,Redwater,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",8.889,7.674,8.386,Redwater,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",8.907,8.045,8.534,Redwater,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",9.086,7.832,8.495,Redwater,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",8.97,8.216,8.465,Redwater,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",8.9,7.946,8.329,Redwater,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",8.915,8.082,8.638,Redwater,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",8.888,8.031,8.454,Redwater,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",8.842,8.054,8.545,Redwater,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",8.634,7.714,8.155,Redwater,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",8.823,7.757,8.607,Redwater,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",9.069,7.964,8.604,Redwater,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",8.793,7.439,8.387,Redwater,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",8.719,7.863,8.419,Redwater,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",9.072,8.091,8.709,Redwater,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",9.006,8.029,8.403,Redwater,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",8.916,7.622,8.38,Redwater,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",8.817,7.684,8.471,Redwater,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",9.065,7.857,8.751,Redwater,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",9.037,7.899,8.468,Redwater,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",8.93,8.112,8.488,Redwater,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",8.707,7.609,8.608,Redwater,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",8.985,7.787,8.476,Redwater,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",9.043,7.591,8.465,Redwater,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",8.816,7.901,8.54,Redwater,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",9.198,7.832,8.571,Redwater,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",8.926,8.068,8.564,Redwater,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",9.196,8.112,8.766,Redwater,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",8.751,7.55,8.335,Redwater,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",8.996,7.964,8.59,Redwater,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",9.175,8.158,8.653,Redwater,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",8.915,7.935,8.551,Redwater,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",8.689,7.778,8.386,Redwater,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",9.11,7.6,8.564,Redwater,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",8.896,7.761,8.574,Redwater,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",8.922,7.798,8.558,Redwater,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",9.068,7.972,8.567,Redwater,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",8.812,7.915,8.477,Redwater,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",9.012,8.107,8.585,Redwater,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",8.686,7.967,8.45,Redwater,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",8.734,7.551,8.434,Redwater,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",8.836,8.049,8.35,Redwater,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",8.862,7.845,8.55,Redwater,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",8.732,7.95,8.253,Redwater,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",9.017,8.137,8.713,Redwater,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",9.008,7.726,8.382,Redwater,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",8.98,7.52,8.462,Redwater,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",8.983,7.903,8.398,Redwater,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",9.161,7.885,8.312,Redwater,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",8.756,8.153,8.473,Redwater,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",8.788,7.783,8.505,Redwater,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",8.903,8.138,8.613,Redwater,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",9.084,7.683,8.458,Redwater,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",8.868,7.393,8.25,Redwater,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",8.836,8.317,8.504,Redwater,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",8.986,7.933,8.694,Redwater,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",8.947,7.822,8.584,Redwater,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",8.922,7.604,8.511,Redwater,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",8.917,7.962,8.381,Redwater,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",8.871,8.086,8.468,Redwater,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",9.047,7.503,8.401,Redwater,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",8.859,7.68,8.408,Redwater,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",8.678,7.853,8.373,Redwater,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",8.97,7.863,8.367,Redwater,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",9.138,7.727,8.416,Redwater,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",8.939,7.729,8.488,Redwater,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",9.186,7.916,8.621,Redwater,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",8.943,8.193,8.652,Redwater,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",9.361,7.633,8.539,Redwater,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",9.012,8.054,8.643,Redwater,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",8.838,8.014,8.492,Redwater,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",9.034,7.958,8.686,Redwater,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",8.933,7.743,8.593,Redwater,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",8.955,7.786,8.539,Redwater,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",8.834,7.716,8.671,Redwater,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",8.754,7.833,8.531,Redwater,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",8.913,8.024,8.404,Redwater,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",8.575,7.766,8.346,Redwater,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",8.699,7.417,8.607,Redwater,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",8.93,7.878,8.766,Redwater,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",8.658,7.766,8.203,Redwater,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",9.025,7.531,8.382,Redwater,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",8.963,7.619,8.58,Redwater,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",9.01,8.238,8.629,Redwater,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",9.198,7.72,8.568,Redwater,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",8.773,7.43,8.318,Redwater,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",9.34,7.896,8.526,Redwater,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",8.849,7.975,8.606,Redwater,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",8.901,7.984,8.465,Redwater,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",9.223,7.954,8.559,Redwater,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",8.979,7.951,8.435,Redwater,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",8.885,7.8,8.491,Redwater,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",9.082,7.659,8.486,Redwater,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",9.174,8.026,8.553,Redwater,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",9.18,7.769,8.614,Redwater,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",9.159,8.104,8.711,Redwater,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",9.073,7.708,8.474,Redwater,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",9.034,7.75,8.528,Redwater,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",9.081,7.768,8.743,Redwater,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",8.684,7.948,8.505,Redwater,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",9.034,7.5,8.45,Redwater,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",8.779,7.769,8.435,Redwater,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",8.768,7.79,8.494,Redwater,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",8.853,7.705,8.417,Redwater,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",8.665,7.598,8.316,Redwater,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",8.893,7.985,8.283,Redwater,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",8.965,7.731,8.612,Redwater,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",9.075,8.149,8.543,Redwater,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",8.85,7.885,8.263,Redwater,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",8.825,7.323,8.512,Redwater,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",9.105,7.573,8.502,Redwater,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",8.619,7.811,8.428,Redwater,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",8.787,7.898,8.454,Redwater,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",8.829,7.435,8.398,Redwater,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",9.271,7.777,8.706,Redwater,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",8.822,7.977,8.414,Redwater,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",8.805,7.466,8.163,Redwater,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",8.807,7.73,8.428,Redwater,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",9.318,8.11,8.472,Redwater,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",9.122,8.235,8.727,Redwater,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",8.885,7.777,8.525,Redwater,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",8.983,8.047,8.561,Redwater,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",9.317,7.752,8.569,Redwater,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",8.696,7.771,8.311,Redwater,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",9.008,7.907,8.382,Redwater,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",8.861,7.534,8.518,Redwater,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",8.818,8.028,8.288,Redwater,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",8.935,8.144,8.658,Redwater,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",8.76,7.857,8.53,Redwater,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",9.095,7.445,8.392,Redwater,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",8.976,7.565,8.553,Redwater,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",9.117,7.72,8.581,Redwater,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",9.057,7.695,8.42,Redwater,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",8.845,7.603,8.461,Redwater,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",8.824,7.521,8.735,Redwater,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",8.982,8.061,8.757,Redwater,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",9.084,7.646,8.619,Redwater,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",8.979,7.834,8.337,Redwater,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",8.763,7.919,8.296,Redwater,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",8.835,7.933,8.512,Redwater,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",9.198,7.853,8.641,Redwater,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",8.829,7.529,8.473,Redwater,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",8.747,7.705,8.429,Redwater,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",8.963,7.93,8.484,Redwater,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",8.954,8.085,8.747,Redwater,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",9.03,7.649,8.213,Redwater,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",8.805,7.456,8.712,Redwater,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",9.271,7.841,8.543,Redwater,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",8.902,7.954,8.389,Redwater,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",8.665,7.736,8.412,Redwater,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",8.964,8.125,8.417,Redwater,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",8.808,7.5,8.608,Redwater,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",8.896,7.707,8.56,Redwater,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",8.967,8.101,8.408,Redwater,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",9.049,7.743,8.592,Redwater,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",8.776,7.806,8.419,Redwater,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",8.819,7.607,8.137,Redwater,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",9.171,7.73,8.4,Redwater,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",9.339,7.849,8.501,Redwater,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",9.02,8.019,8.432,Redwater,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",8.806,7.564,8.409,Redwater,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",9.134,7.837,8.193,Redwater,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",9.042,7.822,8.748,Redwater,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",9.33,7.69,8.382,Redwater,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",9.03,8.107,8.486,Redwater,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",8.989,7.916,8.369,Redwater,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",9.285,7.612,8.605,Redwater,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",9.239,7.727,8.895,Redwater,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",9.087,7.98,8.495,Redwater,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",9.047,8.072,8.614,Redwater,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",8.94,7.735,8.668,Redwater,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",9.022,8.07,8.559,Redwater,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",9.04,7.896,8.414,Redwater,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",9.229,7.892,8.302,Redwater,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",9.104,8.256,8.614,Redwater,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",9.11,8.04,8.845,Redwater,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",8.988,7.832,8.598,Redwater,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",9.045,7.483,8.357,Redwater,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",8.821,7.626,8.574,Redwater,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",8.997,7.943,8.551,Redwater,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",8.625,7.982,8.271,Redwater,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",8.815,7.492,8.139,Redwater,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",9.126,7.951,8.535,Redwater,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",9.007,7.952,8.471,Redwater,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",9.094,8.111,8.339,Redwater,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",9.336,7.753,8.343,Redwater,sfcWind

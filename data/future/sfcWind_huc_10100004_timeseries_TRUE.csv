@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,8.972,8.207,8.583,Lower Yellowstone,sfcWind
+1951,Historical Emissions,8.768,8.394,8.582,Lower Yellowstone,sfcWind
+1952,Historical Emissions,8.999,8.153,8.722,Lower Yellowstone,sfcWind
+1953,Historical Emissions,9.031,8.367,8.564,Lower Yellowstone,sfcWind
+1954,Historical Emissions,9.01,8.262,8.721,Lower Yellowstone,sfcWind
+1955,Historical Emissions,9.011,8.236,8.686,Lower Yellowstone,sfcWind
+1956,Historical Emissions,9.231,8.325,8.81,Lower Yellowstone,sfcWind
+1957,Historical Emissions,8.989,8.424,8.822,Lower Yellowstone,sfcWind
+1958,Historical Emissions,8.793,8.29,8.424,Lower Yellowstone,sfcWind
+1959,Historical Emissions,9.066,8.21,8.68,Lower Yellowstone,sfcWind
+1960,Historical Emissions,9.175,8.558,9.015,Lower Yellowstone,sfcWind
+1961,Historical Emissions,9.165,8.369,8.682,Lower Yellowstone,sfcWind
+1962,Historical Emissions,8.909,8.387,8.684,Lower Yellowstone,sfcWind
+1963,Historical Emissions,8.973,8.313,8.569,Lower Yellowstone,sfcWind
+1964,Historical Emissions,8.959,8.478,8.783,Lower Yellowstone,sfcWind
+1965,Historical Emissions,8.934,8.362,8.561,Lower Yellowstone,sfcWind
+1966,Historical Emissions,9.176,8.4,8.638,Lower Yellowstone,sfcWind
+1967,Historical Emissions,9.192,8.197,8.657,Lower Yellowstone,sfcWind
+1968,Historical Emissions,9.333,8.222,8.609,Lower Yellowstone,sfcWind
+1969,Historical Emissions,8.867,8.212,8.405,Lower Yellowstone,sfcWind
+1970,Historical Emissions,9.062,8.46,8.555,Lower Yellowstone,sfcWind
+1971,Historical Emissions,9.049,8.226,8.636,Lower Yellowstone,sfcWind
+1972,Historical Emissions,8.922,8.331,8.614,Lower Yellowstone,sfcWind
+1973,Historical Emissions,9.053,8.385,8.546,Lower Yellowstone,sfcWind
+1974,Historical Emissions,9.01,8.142,8.75,Lower Yellowstone,sfcWind
+1975,Historical Emissions,8.903,8.286,8.519,Lower Yellowstone,sfcWind
+1976,Historical Emissions,9.072,8.3,8.619,Lower Yellowstone,sfcWind
+1977,Historical Emissions,8.847,8.18,8.509,Lower Yellowstone,sfcWind
+1978,Historical Emissions,8.691,8.192,8.535,Lower Yellowstone,sfcWind
+1979,Historical Emissions,8.763,8.376,8.502,Lower Yellowstone,sfcWind
+1980,Historical Emissions,8.97,8.359,8.635,Lower Yellowstone,sfcWind
+1981,Historical Emissions,8.842,8.425,8.571,Lower Yellowstone,sfcWind
+1982,Historical Emissions,8.987,8.223,8.646,Lower Yellowstone,sfcWind
+1983,Historical Emissions,8.824,8.273,8.468,Lower Yellowstone,sfcWind
+1984,Historical Emissions,9.12,8.076,8.44,Lower Yellowstone,sfcWind
+1985,Historical Emissions,8.969,8.29,8.569,Lower Yellowstone,sfcWind
+1986,Historical Emissions,8.907,8.128,8.814,Lower Yellowstone,sfcWind
+1987,Historical Emissions,9.011,8.13,8.519,Lower Yellowstone,sfcWind
+1988,Historical Emissions,8.769,8.334,8.671,Lower Yellowstone,sfcWind
+1989,Historical Emissions,8.814,8.298,8.543,Lower Yellowstone,sfcWind
+1990,Historical Emissions,8.967,8.207,8.751,Lower Yellowstone,sfcWind
+1991,Historical Emissions,8.804,8.35,8.628,Lower Yellowstone,sfcWind
+1992,Historical Emissions,8.993,8.414,8.65,Lower Yellowstone,sfcWind
+1993,Historical Emissions,8.886,8.306,8.53,Lower Yellowstone,sfcWind
+1994,Historical Emissions,9.019,8.061,8.534,Lower Yellowstone,sfcWind
+1995,Historical Emissions,9.203,8.357,8.689,Lower Yellowstone,sfcWind
+1996,Historical Emissions,9.087,8.337,8.769,Lower Yellowstone,sfcWind
+1997,Historical Emissions,9.032,8.192,8.343,Lower Yellowstone,sfcWind
+1998,Historical Emissions,8.984,8.204,8.748,Lower Yellowstone,sfcWind
+1999,Historical Emissions,8.745,8.313,8.511,Lower Yellowstone,sfcWind
+2000,Historical Emissions,8.811,8.363,8.564,Lower Yellowstone,sfcWind
+2001,Historical Emissions,8.834,8.025,8.474,Lower Yellowstone,sfcWind
+2002,Historical Emissions,9.084,8.078,8.574,Lower Yellowstone,sfcWind
+2003,Historical Emissions,8.72,8.269,8.646,Lower Yellowstone,sfcWind
+2004,Historical Emissions,8.918,8.411,8.662,Lower Yellowstone,sfcWind
+2005,Historical Emissions,9.091,8.199,8.576,Lower Yellowstone,sfcWind
+2006,Historical Emissions,8.959,8.193,8.7,Lower Yellowstone,sfcWind
+2007,Historical Emissions,8.865,8.132,8.495,Lower Yellowstone,sfcWind
+2008,Historical Emissions,8.722,8.152,8.394,Lower Yellowstone,sfcWind
+2009,Historical Emissions,8.785,8.352,8.605,Lower Yellowstone,sfcWind
+2010,Historical Emissions,8.909,8.149,8.597,Lower Yellowstone,sfcWind
+2011,Historical Emissions,8.874,8.285,8.475,Lower Yellowstone,sfcWind
+2012,Historical Emissions,8.967,8.031,8.561,Lower Yellowstone,sfcWind
+2013,Historical Emissions,8.966,8.115,8.452,Lower Yellowstone,sfcWind
+2014,Historical Emissions,8.975,8.413,8.584,Lower Yellowstone,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",8.923,8.031,8.251,Lower Yellowstone,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",9.051,7.637,8.602,Lower Yellowstone,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",9.105,7.9,8.322,Lower Yellowstone,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",8.797,8.116,8.515,Lower Yellowstone,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",8.71,7.629,8.49,Lower Yellowstone,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",8.925,7.744,8.586,Lower Yellowstone,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",9.091,8.137,8.462,Lower Yellowstone,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",9.098,7.917,8.218,Lower Yellowstone,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",8.962,7.717,8.63,Lower Yellowstone,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",8.654,8.036,8.502,Lower Yellowstone,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",8.804,7.682,8.26,Lower Yellowstone,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",8.781,8.033,8.496,Lower Yellowstone,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",8.97,7.93,8.458,Lower Yellowstone,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",8.805,7.412,8.455,Lower Yellowstone,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",8.648,7.523,8.246,Lower Yellowstone,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",8.748,7.929,8.441,Lower Yellowstone,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",8.489,7.572,8.323,Lower Yellowstone,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",8.958,7.96,8.413,Lower Yellowstone,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",8.771,7.464,8.197,Lower Yellowstone,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",8.665,7.759,8.54,Lower Yellowstone,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",8.705,7.838,8.46,Lower Yellowstone,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",8.875,7.952,8.629,Lower Yellowstone,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",8.693,8.129,8.515,Lower Yellowstone,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",8.787,7.822,8.215,Lower Yellowstone,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",8.709,8.103,8.294,Lower Yellowstone,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",8.784,7.976,8.467,Lower Yellowstone,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",8.916,8.028,8.603,Lower Yellowstone,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",8.655,7.778,8.512,Lower Yellowstone,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",8.799,8.182,8.506,Lower Yellowstone,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",8.662,8.006,8.331,Lower Yellowstone,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",8.673,7.739,8.392,Lower Yellowstone,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",8.843,7.799,8.522,Lower Yellowstone,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",8.862,7.962,8.468,Lower Yellowstone,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",8.788,7.953,8.486,Lower Yellowstone,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",8.65,7.964,8.317,Lower Yellowstone,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",8.938,8.012,8.407,Lower Yellowstone,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",8.953,7.973,8.347,Lower Yellowstone,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",8.579,7.666,8.439,Lower Yellowstone,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",8.875,7.806,8.569,Lower Yellowstone,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",8.818,8.051,8.691,Lower Yellowstone,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",8.929,8.002,8.656,Lower Yellowstone,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",8.994,7.616,8.386,Lower Yellowstone,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",8.835,7.949,8.4,Lower Yellowstone,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",8.887,8.025,8.626,Lower Yellowstone,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",9.096,7.936,8.589,Lower Yellowstone,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",8.738,8.191,8.501,Lower Yellowstone,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",8.473,7.622,8.111,Lower Yellowstone,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",8.775,7.942,8.249,Lower Yellowstone,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",8.908,7.714,8.629,Lower Yellowstone,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",8.793,8.029,8.412,Lower Yellowstone,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",8.898,7.867,7.969,Lower Yellowstone,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",8.881,7.742,8.423,Lower Yellowstone,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",8.822,7.7,8.603,Lower Yellowstone,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",8.697,7.742,8.281,Lower Yellowstone,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",8.844,7.808,8.369,Lower Yellowstone,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",8.554,8.064,8.478,Lower Yellowstone,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",8.508,7.939,8.271,Lower Yellowstone,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",8.741,7.758,8.598,Lower Yellowstone,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",8.634,7.913,8.529,Lower Yellowstone,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",8.691,7.67,8.248,Lower Yellowstone,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",8.626,7.923,8.296,Lower Yellowstone,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",8.877,8.052,8.627,Lower Yellowstone,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",8.886,7.891,8.515,Lower Yellowstone,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",8.723,7.87,8.255,Lower Yellowstone,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",8.947,8.24,8.528,Lower Yellowstone,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",8.809,7.921,8.593,Lower Yellowstone,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",8.761,7.963,8.424,Lower Yellowstone,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",8.702,7.947,8.504,Lower Yellowstone,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",8.758,7.505,8.599,Lower Yellowstone,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",8.844,8.001,8.342,Lower Yellowstone,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",8.822,8.109,8.532,Lower Yellowstone,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",8.863,7.884,8.441,Lower Yellowstone,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",8.994,7.674,8.643,Lower Yellowstone,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",8.665,7.798,8.472,Lower Yellowstone,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",8.737,7.612,8.13,Lower Yellowstone,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",8.547,7.915,8.261,Lower Yellowstone,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",8.748,7.935,8.406,Lower Yellowstone,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",8.619,7.797,8.284,Lower Yellowstone,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",8.713,7.764,8.401,Lower Yellowstone,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",9.214,8.02,8.524,Lower Yellowstone,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",8.903,8.005,8.621,Lower Yellowstone,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",8.783,8.045,8.35,Lower Yellowstone,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",8.825,8.146,8.373,Lower Yellowstone,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",9.027,7.731,8.55,Lower Yellowstone,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",8.593,7.684,8.367,Lower Yellowstone,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",8.903,7.949,8.624,Lower Yellowstone,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",8.592,7.879,8.299,Lower Yellowstone,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",8.697,7.646,8.469,Lower Yellowstone,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",8.747,7.655,8.296,Lower Yellowstone,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",8.825,7.861,8.36,Lower Yellowstone,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",8.713,7.957,8.222,Lower Yellowstone,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",9.033,8.019,8.535,Lower Yellowstone,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",8.847,8.053,8.426,Lower Yellowstone,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",8.762,7.925,8.473,Lower Yellowstone,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",8.789,8.092,8.573,Lower Yellowstone,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",8.634,7.945,8.201,Lower Yellowstone,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",8.733,7.971,8.43,Lower Yellowstone,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",8.78,8.164,8.404,Lower Yellowstone,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",9.065,7.579,8.41,Lower Yellowstone,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",8.625,8.029,8.512,Lower Yellowstone,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",8.874,7.496,8.416,Lower Yellowstone,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",8.83,8.022,8.472,Lower Yellowstone,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",8.907,7.822,8.14,Lower Yellowstone,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",8.875,7.474,8.424,Lower Yellowstone,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",8.692,7.927,8.314,Lower Yellowstone,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",8.631,7.86,8.238,Lower Yellowstone,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",8.508,7.698,8.438,Lower Yellowstone,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",8.803,7.792,8.426,Lower Yellowstone,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",8.887,8.091,8.34,Lower Yellowstone,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",8.669,7.949,8.332,Lower Yellowstone,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",9.111,7.583,8.689,Lower Yellowstone,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",8.704,8.118,8.418,Lower Yellowstone,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",8.718,7.516,8.44,Lower Yellowstone,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",8.814,8.014,8.498,Lower Yellowstone,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",8.952,7.59,8.678,Lower Yellowstone,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",8.761,7.872,8.487,Lower Yellowstone,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",8.69,7.696,8.407,Lower Yellowstone,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",8.806,7.974,8.448,Lower Yellowstone,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",8.959,7.939,8.599,Lower Yellowstone,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",8.612,7.439,8.305,Lower Yellowstone,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",8.458,7.604,8.158,Lower Yellowstone,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",8.908,7.84,8.455,Lower Yellowstone,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",8.78,7.763,8.484,Lower Yellowstone,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",8.475,7.494,8.277,Lower Yellowstone,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",8.859,7.468,8.412,Lower Yellowstone,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",8.852,7.771,8.456,Lower Yellowstone,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",8.801,7.847,8.189,Lower Yellowstone,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",8.827,7.147,8.639,Lower Yellowstone,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",8.832,7.145,8.416,Lower Yellowstone,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",8.654,7.744,8.379,Lower Yellowstone,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",8.628,7.629,8.385,Lower Yellowstone,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",9.109,7.248,8.592,Lower Yellowstone,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",8.831,7.801,8.5,Lower Yellowstone,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",8.66,7.492,8.181,Lower Yellowstone,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",8.9,7.821,8.76,Lower Yellowstone,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",8.988,7.999,8.367,Lower Yellowstone,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",9.03,7.555,8.61,Lower Yellowstone,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",8.899,7.997,8.605,Lower Yellowstone,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",9.04,7.883,8.294,Lower Yellowstone,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",8.855,7.946,8.311,Lower Yellowstone,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",8.625,7.507,8.356,Lower Yellowstone,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",9.049,7.859,8.39,Lower Yellowstone,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",8.846,7.903,8.596,Lower Yellowstone,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",8.708,7.506,8.168,Lower Yellowstone,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",8.63,7.842,8.373,Lower Yellowstone,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",9.314,7.956,8.364,Lower Yellowstone,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",8.753,7.578,8.199,Lower Yellowstone,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",9.068,7.796,8.692,Lower Yellowstone,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",8.836,7.688,8.211,Lower Yellowstone,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",8.745,7.852,8.474,Lower Yellowstone,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",8.793,7.575,8.363,Lower Yellowstone,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",8.699,7.404,8.421,Lower Yellowstone,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",8.92,7.666,8.646,Lower Yellowstone,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",8.721,7.82,8.547,Lower Yellowstone,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",8.743,7.171,8.244,Lower Yellowstone,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",8.747,7.904,8.476,Lower Yellowstone,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",8.811,7.378,8.472,Lower Yellowstone,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",8.706,7.367,8.565,Lower Yellowstone,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",8.513,7.592,8.268,Lower Yellowstone,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",8.801,7.466,8.274,Lower Yellowstone,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",8.747,7.931,8.374,Lower Yellowstone,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",8.952,7.778,8.405,Lower Yellowstone,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",8.939,8.04,8.329,Lower Yellowstone,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",8.766,7.785,8.163,Lower Yellowstone,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",8.781,7.815,8.518,Lower Yellowstone,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",8.773,8.003,8.233,Lower Yellowstone,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",8.787,7.847,8.479,Lower Yellowstone,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",8.573,7.502,8.118,Lower Yellowstone,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",8.677,7.604,8.521,Lower Yellowstone,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",8.913,7.873,8.3,Lower Yellowstone,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",8.674,7.258,8.569,Lower Yellowstone,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",8.597,7.672,8.332,Lower Yellowstone,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",8.944,7.851,8.595,Lower Yellowstone,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",8.883,7.876,8.355,Lower Yellowstone,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",8.812,7.515,8.257,Lower Yellowstone,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",8.76,7.546,8.352,Lower Yellowstone,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",8.893,7.721,8.683,Lower Yellowstone,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",8.923,7.692,8.331,Lower Yellowstone,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",9.065,7.911,8.414,Lower Yellowstone,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",8.594,7.391,8.366,Lower Yellowstone,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",8.851,7.562,8.358,Lower Yellowstone,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",8.909,7.395,8.354,Lower Yellowstone,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",8.691,7.623,8.435,Lower Yellowstone,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",9.073,7.649,8.416,Lower Yellowstone,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",8.78,7.946,8.501,Lower Yellowstone,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",9.051,7.849,8.661,Lower Yellowstone,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",8.955,7.429,8.245,Lower Yellowstone,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",8.864,7.72,8.457,Lower Yellowstone,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",9.021,8.085,8.556,Lower Yellowstone,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",8.784,7.74,8.459,Lower Yellowstone,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",8.753,7.65,8.266,Lower Yellowstone,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",8.967,7.443,8.369,Lower Yellowstone,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",8.736,7.65,8.48,Lower Yellowstone,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",8.759,7.632,8.414,Lower Yellowstone,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",9.041,7.869,8.433,Lower Yellowstone,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",8.662,7.753,8.262,Lower Yellowstone,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",8.892,7.993,8.394,Lower Yellowstone,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",8.56,7.775,8.348,Lower Yellowstone,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",8.711,7.377,8.349,Lower Yellowstone,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",8.721,7.853,8.238,Lower Yellowstone,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",8.739,7.642,8.375,Lower Yellowstone,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",8.671,7.847,8.018,Lower Yellowstone,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",9.108,7.954,8.517,Lower Yellowstone,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",8.875,7.553,8.381,Lower Yellowstone,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",8.825,7.327,8.421,Lower Yellowstone,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",8.878,7.72,8.294,Lower Yellowstone,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",9.028,7.775,8.228,Lower Yellowstone,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",8.676,7.92,8.326,Lower Yellowstone,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",8.702,7.675,8.327,Lower Yellowstone,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",8.781,7.885,8.559,Lower Yellowstone,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",9.029,7.502,8.348,Lower Yellowstone,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",8.806,7.179,8.298,Lower Yellowstone,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",8.765,8.106,8.375,Lower Yellowstone,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",8.831,7.72,8.554,Lower Yellowstone,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",8.938,7.571,8.504,Lower Yellowstone,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",8.796,7.447,8.529,Lower Yellowstone,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",8.812,7.776,8.264,Lower Yellowstone,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",8.757,8.048,8.375,Lower Yellowstone,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",9.128,7.39,8.282,Lower Yellowstone,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",8.709,7.618,8.308,Lower Yellowstone,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",8.521,7.725,8.241,Lower Yellowstone,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",8.842,7.65,8.239,Lower Yellowstone,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",9.018,7.581,8.341,Lower Yellowstone,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",8.852,7.527,8.345,Lower Yellowstone,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",9.038,7.804,8.476,Lower Yellowstone,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",8.773,7.998,8.499,Lower Yellowstone,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",9.315,7.421,8.467,Lower Yellowstone,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",8.952,7.902,8.579,Lower Yellowstone,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",8.715,7.867,8.388,Lower Yellowstone,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",8.915,7.885,8.402,Lower Yellowstone,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",8.851,7.635,8.56,Lower Yellowstone,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",8.901,7.607,8.426,Lower Yellowstone,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",8.754,7.541,8.539,Lower Yellowstone,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",8.659,7.701,8.467,Lower Yellowstone,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",8.871,7.822,8.308,Lower Yellowstone,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",8.5,7.515,8.216,Lower Yellowstone,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",8.63,7.204,8.511,Lower Yellowstone,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",8.867,7.689,8.616,Lower Yellowstone,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",8.594,7.617,8.126,Lower Yellowstone,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",9.008,7.308,8.312,Lower Yellowstone,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",8.888,7.478,8.505,Lower Yellowstone,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",8.91,8.01,8.537,Lower Yellowstone,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",9.221,7.515,8.408,Lower Yellowstone,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",8.615,7.277,8.311,Lower Yellowstone,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",9.237,7.64,8.362,Lower Yellowstone,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",8.738,7.832,8.452,Lower Yellowstone,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",8.872,7.798,8.326,Lower Yellowstone,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",9.155,7.874,8.294,Lower Yellowstone,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",8.833,7.856,8.326,Lower Yellowstone,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",8.766,7.621,8.381,Lower Yellowstone,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",9.054,7.524,8.396,Lower Yellowstone,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",9.083,7.785,8.331,Lower Yellowstone,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",9.051,7.594,8.471,Lower Yellowstone,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",9.029,7.854,8.567,Lower Yellowstone,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",8.978,7.586,8.379,Lower Yellowstone,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",8.92,7.575,8.41,Lower Yellowstone,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",9.037,7.577,8.627,Lower Yellowstone,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",8.553,7.861,8.371,Lower Yellowstone,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",8.946,7.359,8.398,Lower Yellowstone,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",8.681,7.62,8.326,Lower Yellowstone,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",8.657,7.571,8.376,Lower Yellowstone,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",8.733,7.58,8.314,Lower Yellowstone,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",8.673,7.492,8.206,Lower Yellowstone,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",8.834,7.882,8.242,Lower Yellowstone,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",8.833,7.508,8.453,Lower Yellowstone,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",8.965,7.979,8.338,Lower Yellowstone,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",8.659,7.68,8.343,Lower Yellowstone,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",8.732,7.104,8.383,Lower Yellowstone,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",8.924,7.373,8.499,Lower Yellowstone,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",8.482,7.729,8.208,Lower Yellowstone,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",8.796,7.769,8.362,Lower Yellowstone,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",8.713,7.21,8.309,Lower Yellowstone,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",9.199,7.621,8.549,Lower Yellowstone,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",8.703,7.906,8.272,Lower Yellowstone,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",8.796,7.288,8.081,Lower Yellowstone,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",8.855,7.475,8.322,Lower Yellowstone,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",9.189,7.942,8.321,Lower Yellowstone,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",8.988,8.101,8.556,Lower Yellowstone,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",8.793,7.681,8.397,Lower Yellowstone,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",8.89,7.766,8.435,Lower Yellowstone,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",9.174,7.528,8.491,Lower Yellowstone,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",8.582,7.527,8.168,Lower Yellowstone,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",8.9,7.743,8.285,Lower Yellowstone,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",8.802,7.3,8.405,Lower Yellowstone,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",8.703,7.934,8.232,Lower Yellowstone,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",8.836,7.932,8.479,Lower Yellowstone,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",8.74,7.714,8.494,Lower Yellowstone,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",9.162,7.273,8.307,Lower Yellowstone,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",8.833,7.399,8.43,Lower Yellowstone,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",8.894,7.613,8.488,Lower Yellowstone,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",9.039,7.552,8.271,Lower Yellowstone,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",8.834,7.404,8.358,Lower Yellowstone,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",8.778,7.303,8.59,Lower Yellowstone,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",8.779,7.959,8.632,Lower Yellowstone,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",9.034,7.477,8.481,Lower Yellowstone,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",8.87,7.707,8.184,Lower Yellowstone,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",8.63,7.811,8.175,Lower Yellowstone,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",8.704,7.751,8.457,Lower Yellowstone,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",9.159,7.749,8.536,Lower Yellowstone,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",8.724,7.327,8.322,Lower Yellowstone,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",8.692,7.515,8.271,Lower Yellowstone,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",8.821,7.703,8.342,Lower Yellowstone,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",8.917,7.858,8.614,Lower Yellowstone,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",8.889,7.466,8.097,Lower Yellowstone,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",8.696,7.335,8.545,Lower Yellowstone,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",9.146,7.601,8.446,Lower Yellowstone,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",8.829,7.862,8.306,Lower Yellowstone,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",8.577,7.629,8.252,Lower Yellowstone,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",8.829,7.988,8.439,Lower Yellowstone,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",8.724,7.326,8.467,Lower Yellowstone,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",8.829,7.486,8.435,Lower Yellowstone,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",8.743,7.884,8.269,Lower Yellowstone,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",8.95,7.561,8.417,Lower Yellowstone,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",8.657,7.77,8.307,Lower Yellowstone,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",8.809,7.453,8.037,Lower Yellowstone,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",9.142,7.488,8.244,Lower Yellowstone,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",9.302,7.584,8.401,Lower Yellowstone,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",8.855,7.754,8.268,Lower Yellowstone,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",8.982,7.372,8.18,Lower Yellowstone,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",9.073,7.589,8.091,Lower Yellowstone,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",8.963,7.679,8.594,Lower Yellowstone,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",9.177,7.632,8.29,Lower Yellowstone,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",9.042,7.952,8.273,Lower Yellowstone,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",8.979,7.63,8.251,Lower Yellowstone,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",9.278,7.499,8.527,Lower Yellowstone,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",9.105,7.513,8.706,Lower Yellowstone,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",9.012,7.692,8.431,Lower Yellowstone,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",8.986,7.834,8.528,Lower Yellowstone,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",8.779,7.49,8.536,Lower Yellowstone,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",8.777,7.927,8.348,Lower Yellowstone,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",8.969,7.677,8.301,Lower Yellowstone,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",9.215,7.638,8.235,Lower Yellowstone,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",8.998,8.129,8.421,Lower Yellowstone,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",8.783,7.885,8.74,Lower Yellowstone,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",8.949,7.688,8.49,Lower Yellowstone,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",8.941,7.399,8.284,Lower Yellowstone,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",8.844,7.514,8.479,Lower Yellowstone,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",8.817,7.715,8.438,Lower Yellowstone,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",8.58,7.757,8.14,Lower Yellowstone,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",8.724,7.27,8.243,Lower Yellowstone,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",9.017,7.801,8.519,Lower Yellowstone,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",8.937,7.836,8.325,Lower Yellowstone,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",9.14,7.847,8.208,Lower Yellowstone,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",9.43,7.469,8.28,Lower Yellowstone,sfcWind

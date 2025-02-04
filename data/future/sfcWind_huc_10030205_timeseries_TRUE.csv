@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,8.646,8.084,8.266,Teton,sfcWind
+1951,Historical Emissions,8.652,8.052,8.44,Teton,sfcWind
+1952,Historical Emissions,8.612,7.903,8.489,Teton,sfcWind
+1953,Historical Emissions,8.997,8.029,8.169,Teton,sfcWind
+1954,Historical Emissions,8.926,7.971,8.55,Teton,sfcWind
+1955,Historical Emissions,8.623,7.876,8.399,Teton,sfcWind
+1956,Historical Emissions,9.206,7.95,8.588,Teton,sfcWind
+1957,Historical Emissions,9.191,8.156,8.454,Teton,sfcWind
+1958,Historical Emissions,8.721,8.057,8.134,Teton,sfcWind
+1959,Historical Emissions,8.91,7.913,8.562,Teton,sfcWind
+1960,Historical Emissions,8.898,8.399,8.765,Teton,sfcWind
+1961,Historical Emissions,9.12,8.101,8.488,Teton,sfcWind
+1962,Historical Emissions,8.774,8.152,8.416,Teton,sfcWind
+1963,Historical Emissions,8.761,8.061,8.374,Teton,sfcWind
+1964,Historical Emissions,9.089,8.226,8.358,Teton,sfcWind
+1965,Historical Emissions,8.898,8.241,8.512,Teton,sfcWind
+1966,Historical Emissions,8.871,8.404,8.59,Teton,sfcWind
+1967,Historical Emissions,8.877,7.957,8.483,Teton,sfcWind
+1968,Historical Emissions,8.893,7.943,8.446,Teton,sfcWind
+1969,Historical Emissions,8.897,8.005,8.332,Teton,sfcWind
+1970,Historical Emissions,8.923,8.094,8.367,Teton,sfcWind
+1971,Historical Emissions,8.929,8.187,8.648,Teton,sfcWind
+1972,Historical Emissions,8.624,8.331,8.534,Teton,sfcWind
+1973,Historical Emissions,8.762,7.863,8.486,Teton,sfcWind
+1974,Historical Emissions,8.935,7.618,8.737,Teton,sfcWind
+1975,Historical Emissions,8.847,8,8.41,Teton,sfcWind
+1976,Historical Emissions,8.643,8.23,8.534,Teton,sfcWind
+1977,Historical Emissions,8.694,7.822,8.229,Teton,sfcWind
+1978,Historical Emissions,8.541,7.997,8.28,Teton,sfcWind
+1979,Historical Emissions,8.66,8.076,8.369,Teton,sfcWind
+1980,Historical Emissions,9.006,7.992,8.492,Teton,sfcWind
+1981,Historical Emissions,8.686,8.216,8.347,Teton,sfcWind
+1982,Historical Emissions,8.753,7.75,8.342,Teton,sfcWind
+1983,Historical Emissions,9.123,7.912,8.049,Teton,sfcWind
+1984,Historical Emissions,8.794,7.888,8.308,Teton,sfcWind
+1985,Historical Emissions,8.744,8.063,8.436,Teton,sfcWind
+1986,Historical Emissions,8.787,7.798,8.261,Teton,sfcWind
+1987,Historical Emissions,8.734,7.892,8.195,Teton,sfcWind
+1988,Historical Emissions,8.755,8.249,8.658,Teton,sfcWind
+1989,Historical Emissions,8.83,8.006,8.371,Teton,sfcWind
+1990,Historical Emissions,8.909,7.673,8.472,Teton,sfcWind
+1991,Historical Emissions,8.716,7.775,8.428,Teton,sfcWind
+1992,Historical Emissions,8.951,8.409,8.607,Teton,sfcWind
+1993,Historical Emissions,8.664,7.829,8.292,Teton,sfcWind
+1994,Historical Emissions,9.018,7.861,8.14,Teton,sfcWind
+1995,Historical Emissions,9.027,8.096,8.659,Teton,sfcWind
+1996,Historical Emissions,8.882,7.912,8.611,Teton,sfcWind
+1997,Historical Emissions,8.731,7.815,8.449,Teton,sfcWind
+1998,Historical Emissions,8.72,7.885,8.174,Teton,sfcWind
+1999,Historical Emissions,8.435,7.994,8.277,Teton,sfcWind
+2000,Historical Emissions,8.482,8.106,8.366,Teton,sfcWind
+2001,Historical Emissions,8.685,7.977,8.23,Teton,sfcWind
+2002,Historical Emissions,8.852,7.912,8.349,Teton,sfcWind
+2003,Historical Emissions,8.409,7.954,8.154,Teton,sfcWind
+2004,Historical Emissions,9.035,8.052,8.449,Teton,sfcWind
+2005,Historical Emissions,8.803,7.842,8.249,Teton,sfcWind
+2006,Historical Emissions,8.799,7.795,8.39,Teton,sfcWind
+2007,Historical Emissions,8.741,7.828,8.447,Teton,sfcWind
+2008,Historical Emissions,8.558,7.74,8.18,Teton,sfcWind
+2009,Historical Emissions,8.834,7.861,8.305,Teton,sfcWind
+2010,Historical Emissions,8.669,7.943,8.278,Teton,sfcWind
+2011,Historical Emissions,8.791,7.996,8.24,Teton,sfcWind
+2012,Historical Emissions,8.698,7.853,8.306,Teton,sfcWind
+2013,Historical Emissions,8.661,7.758,8.265,Teton,sfcWind
+2014,Historical Emissions,8.682,8.023,8.355,Teton,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",8.959,7.456,8.166,Teton,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",8.769,7.222,8.158,Teton,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",8.871,7.636,8.18,Teton,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",8.655,7.834,8.281,Teton,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",8.517,7.485,8.031,Teton,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",8.549,7.699,8.273,Teton,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",8.764,7.634,8.153,Teton,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",9.193,7.693,8.052,Teton,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",8.722,7.356,8.063,Teton,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",8.563,7.546,8.191,Teton,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",8.444,7.315,7.688,Teton,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",8.65,7.511,8.201,Teton,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",8.897,7.696,8.34,Teton,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",8.47,7.361,8.09,Teton,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",8.455,7.244,7.852,Teton,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",8.472,7.599,7.895,Teton,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",8.317,7.477,7.82,Teton,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",8.913,7.519,8.214,Teton,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",8.765,7.375,8.025,Teton,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",8.621,7.555,8.207,Teton,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",8.515,7.588,7.995,Teton,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",8.722,7.663,8.326,Teton,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",8.601,7.786,8.293,Teton,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",8.529,7.426,7.996,Teton,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",8.374,7.745,8.102,Teton,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",8.533,7.568,8.271,Teton,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",8.924,7.582,7.927,Teton,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",8.41,7.876,8.134,Teton,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",8.861,7.669,8.248,Teton,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",8.429,7.603,7.87,Teton,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",8.516,7.594,7.855,Teton,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",8.619,7.54,7.919,Teton,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",8.643,7.853,8.319,Teton,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",8.521,7.838,8.209,Teton,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",8.751,7.785,8.123,Teton,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",8.97,7.726,8.098,Teton,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",8.567,7.636,8.043,Teton,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",8.53,7.463,8.008,Teton,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",8.755,7.656,8.009,Teton,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",8.688,7.655,8.267,Teton,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",8.578,7.52,8.258,Teton,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",8.604,7.242,8.139,Teton,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",8.751,7.469,8.137,Teton,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",8.569,7.963,8.231,Teton,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",8.663,7.758,8.149,Teton,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",8.591,7.88,8.18,Teton,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",8.085,7.26,7.968,Teton,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",8.663,7.809,8.201,Teton,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",8.937,7.542,8.127,Teton,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",8.571,7.323,8.111,Teton,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",8.401,7.63,7.941,Teton,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",8.797,7.657,8.209,Teton,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",8.578,7.427,8.205,Teton,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",8.243,7.315,7.961,Teton,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",8.527,7.49,8.261,Teton,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",8.368,7.827,8.206,Teton,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",8.627,7.543,8.029,Teton,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",8.603,7.129,8.271,Teton,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",8.631,7.693,8.365,Teton,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",8.296,7.32,7.807,Teton,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",8.352,7.433,8.002,Teton,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",9.214,7.645,8.458,Teton,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",8.675,7.857,8.196,Teton,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",8.445,7.613,8.077,Teton,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",8.582,7.918,8.125,Teton,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",8.867,7.697,8.364,Teton,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",8.782,7.816,8.143,Teton,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",8.706,7.57,7.944,Teton,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",8.313,7.437,8.237,Teton,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",8.814,7.917,8.127,Teton,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",8.502,7.929,8.391,Teton,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",8.632,7.687,8.497,Teton,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",9.058,7.853,8.317,Teton,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",8.612,7.698,8.3,Teton,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",8.473,7.266,7.807,Teton,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",8.377,7.456,8.128,Teton,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",8.783,7.686,8.322,Teton,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",8.392,7.52,8.043,Teton,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",8.615,7.563,8.018,Teton,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",8.901,7.797,8.537,Teton,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",8.825,7.86,8.239,Teton,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",8.601,7.671,8,Teton,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",8.563,7.616,8.191,Teton,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",8.86,7.542,8.509,Teton,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",8.233,7.339,8.132,Teton,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",8.765,7.915,8.272,Teton,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",8.368,7.563,7.999,Teton,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",8.563,7.4,8.184,Teton,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",8.595,7.496,7.881,Teton,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",8.575,7.525,8.161,Teton,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",8.434,7.648,7.89,Teton,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",9.127,7.742,8.323,Teton,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",8.771,7.886,8.186,Teton,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",8.687,7.604,8.098,Teton,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",8.511,7.923,8.236,Teton,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",8.501,7.941,8.24,Teton,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",8.433,7.761,8.066,Teton,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",8.49,7.792,8.18,Teton,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",8.728,7.512,8.394,Teton,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",8.507,7.534,8.152,Teton,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",8.786,7.396,8.34,Teton,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",8.654,7.671,8.153,Teton,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",8.842,7.532,7.923,Teton,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",8.493,7.508,8.121,Teton,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",8.69,7.843,8.224,Teton,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",8.554,7.643,7.985,Teton,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",8.203,7.498,7.887,Teton,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",8.564,7.531,7.995,Teton,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",8.678,7.715,8.191,Teton,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",8.449,7.68,8.079,Teton,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",8.491,7.553,7.972,Teton,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",8.683,7.678,8.03,Teton,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",8.631,7.422,8.112,Teton,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",8.864,7.362,8.433,Teton,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",8.894,7.601,8.595,Teton,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",8.485,7.866,8.276,Teton,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",8.657,7.181,8.221,Teton,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",8.641,7.713,8.247,Teton,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",8.703,7.96,8.341,Teton,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",8.248,7.641,8.004,Teton,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",8.187,7.707,7.912,Teton,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",8.536,7.524,8.257,Teton,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",8.75,7.41,8.035,Teton,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",8.262,7.42,7.923,Teton,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",8.449,7.542,8.168,Teton,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",8.405,7.263,8.253,Teton,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",8.194,7.716,8.02,Teton,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",8.617,6.779,8.348,Teton,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",8.459,7.05,8.185,Teton,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",8.331,7.292,8.241,Teton,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",8.532,7.578,8.069,Teton,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",9.112,7.335,8.375,Teton,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",8.542,7.696,8.19,Teton,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",8.029,7.125,7.883,Teton,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",8.715,7.799,8.12,Teton,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",8.781,7.694,8.087,Teton,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",8.629,7.279,8.179,Teton,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",8.711,7.926,8.215,Teton,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",8.432,7.651,8.127,Teton,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",8.531,7.475,7.82,Teton,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",8.56,7.443,7.91,Teton,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",8.639,7.446,8.334,Teton,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",8.494,7.861,8.188,Teton,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",8.461,7.477,8.114,Teton,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",8.348,7.87,8.158,Teton,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",9.086,7.543,8.32,Teton,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",8.315,7.569,7.971,Teton,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",8.805,7.585,8.37,Teton,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",8.595,7.586,7.792,Teton,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",8.36,7.406,8.119,Teton,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",8.142,7.333,7.876,Teton,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",8.534,7.077,8.03,Teton,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",8.822,7.562,8.331,Teton,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",8.786,7.729,8.048,Teton,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",8.486,7.247,8.073,Teton,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",8.408,7.781,8.119,Teton,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",8.558,7.119,8.05,Teton,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",8.721,6.925,8.21,Teton,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",8.544,7.667,7.996,Teton,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",8.678,7.587,8.054,Teton,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",8.548,7.811,8.143,Teton,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",8.308,7.788,7.973,Teton,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",8.346,7.683,8.013,Teton,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",8.489,7.382,7.884,Teton,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",8.468,7.837,8.295,Teton,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",8.488,7.689,8.122,Teton,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",8.108,7.513,7.827,Teton,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",8.117,7.436,7.79,Teton,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",8.478,7.493,8.157,Teton,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",8.55,7.638,8.245,Teton,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",8.187,7.195,7.872,Teton,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",8.377,7.41,7.831,Teton,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",8.617,7.715,8.138,Teton,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",8.559,7.265,7.806,Teton,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",8.418,7.203,8.012,Teton,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",8.474,7.394,7.933,Teton,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",8.55,7.671,8.412,Teton,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",8.551,7.363,8.179,Teton,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",8.427,7.731,8.157,Teton,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",8.238,7.438,7.862,Teton,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",8.53,7.627,8.016,Teton,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",8.707,7.321,8.016,Teton,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",8.325,7.702,7.87,Teton,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",8.621,7.35,7.785,Teton,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",8.598,7.934,8.159,Teton,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",8.862,7.559,8.109,Teton,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",8.385,7.301,7.943,Teton,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",8.664,7.544,7.963,Teton,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",8.655,7.673,8.082,Teton,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",8.877,7.254,8.1,Teton,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",8.247,7.552,7.961,Teton,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",8.631,7.38,8.096,Teton,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",8.535,7.653,8.357,Teton,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",8.569,7.199,8.134,Teton,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",8.596,7.367,8.222,Teton,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",8.567,7.528,8.022,Teton,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",8.564,7.543,8.252,Teton,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",8.278,7.227,8.047,Teton,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",8.285,7.311,7.632,Teton,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",8.421,7.72,8.073,Teton,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",9.038,7.397,8.211,Teton,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",8.622,7.48,7.735,Teton,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",8.604,7.789,8.117,Teton,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",8.817,7.444,7.869,Teton,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",8.444,7.439,8.028,Teton,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",8.367,7.442,8.2,Teton,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",8.999,7.242,7.83,Teton,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",8.435,7.815,8.15,Teton,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",8.348,7.487,7.93,Teton,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",8.68,7.808,8.277,Teton,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",8.398,7.422,7.944,Teton,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",8.364,7.001,7.818,Teton,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",8.503,7.898,8.225,Teton,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",8.67,7.319,8.323,Teton,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",8.481,7.819,8.101,Teton,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",8.473,7.298,8.256,Teton,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",8.636,7.479,8.013,Teton,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",8.428,7.675,8.024,Teton,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",8.476,7.275,8.049,Teton,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",8.517,7.288,7.882,Teton,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",8.508,7.446,8.087,Teton,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",8.58,7.168,7.978,Teton,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",8.526,7.517,7.955,Teton,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",8.134,7.393,7.968,Teton,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",8.736,7.53,7.944,Teton,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",8.646,7.753,8.142,Teton,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",8.751,7.31,8.035,Teton,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",8.727,7.408,7.903,Teton,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",8.592,7.511,8.313,Teton,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",8.443,7.355,7.876,Teton,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",8.476,7.638,8.072,Teton,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",8.38,7.334,7.928,Teton,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",8.547,7.453,8.126,Teton,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",8.863,7.163,8.134,Teton,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",8.631,7.445,7.887,Teton,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",8.147,7.534,7.845,Teton,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",8.381,7.108,7.995,Teton,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",8.569,7.336,8.186,Teton,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",7.993,7.129,7.788,Teton,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",8.538,7.121,7.881,Teton,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",8.447,7.326,7.958,Teton,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",8.733,7.596,8.089,Teton,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",8.895,7.533,8.209,Teton,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",8.398,7.044,7.798,Teton,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",9.015,7.576,8.213,Teton,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",8.675,7.275,8.118,Teton,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",8.448,7.705,8.089,Teton,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",8.826,7.311,8.095,Teton,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",8.417,7.505,8.12,Teton,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",8.277,7.053,8.005,Teton,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",8.571,7.116,7.747,Teton,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",8.491,7.703,8.262,Teton,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",8.605,7.687,8.154,Teton,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",8.7,7.508,8.485,Teton,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",8.46,7.076,7.73,Teton,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",8.679,7.429,7.978,Teton,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",8.82,7.361,8.204,Teton,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",8.373,7.368,8.054,Teton,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",8.52,7.073,7.764,Teton,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",8.384,7.533,8.012,Teton,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",8.501,7.642,8.139,Teton,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",8.594,7.04,8.378,Teton,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",7.953,7.234,7.741,Teton,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",8.327,7.06,7.806,Teton,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",8.412,7.434,8.154,Teton,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",8.673,7.383,7.993,Teton,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",8.639,7.613,7.818,Teton,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",8.524,7.083,7.981,Teton,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",8.523,7.557,8.134,Teton,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",8.463,7.399,7.871,Teton,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",8.451,7.511,7.744,Teton,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",8.429,7.272,8.194,Teton,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",8.558,7.466,8.405,Teton,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",8.698,7.451,8.123,Teton,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",8.082,7.33,7.719,Teton,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",8.418,7.437,8.035,Teton,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",8.835,7.313,8.218,Teton,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",8.591,7.866,8.158,Teton,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",8.266,7.424,7.957,Teton,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",8.499,7.219,8.133,Teton,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",8.869,7.351,7.887,Teton,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",8.429,7.185,7.969,Teton,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",8.741,7.359,7.901,Teton,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",8.464,7.642,8.02,Teton,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",8.243,7.425,7.79,Teton,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",8.467,7.375,8.139,Teton,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",8.038,7.358,7.759,Teton,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",8.667,6.962,7.999,Teton,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",8.732,7.482,8.17,Teton,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",8.477,7.423,8.257,Teton,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",8.507,7.344,8.144,Teton,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",8.244,7.6,8.065,Teton,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",8.737,7.315,8.177,Teton,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",8.489,7.664,8.075,Teton,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",8.232,7.043,7.887,Teton,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",8.392,7.557,7.8,Teton,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",8.412,7.686,7.995,Teton,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",8.5,7.208,7.759,Teton,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",8.601,7.381,7.998,Teton,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",8.429,7.365,7.98,Teton,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",8.515,7.447,8.133,Teton,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",8.537,6.916,8.239,Teton,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",8.679,7.628,8.221,Teton,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",8.301,7.226,7.716,Teton,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",8.536,7.21,8.211,Teton,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",8.639,7.476,8.08,Teton,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",8.768,7.23,7.811,Teton,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",8.312,7.416,8.084,Teton,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",8.515,7.695,8.153,Teton,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",8.447,7.081,7.855,Teton,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",8.522,7.496,7.822,Teton,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",8.618,7.576,8.349,Teton,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",8.698,7.772,8.356,Teton,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",8.247,7.514,7.738,Teton,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",8.382,7.042,7.584,Teton,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",8.392,7.365,7.944,Teton,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",8.69,7.693,8.024,Teton,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",8.638,7.719,8.15,Teton,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",8.395,7.068,7.945,Teton,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",8.396,7.524,7.831,Teton,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",8.7,7.418,8.219,Teton,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",8.528,7.074,7.686,Teton,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",8.656,7.562,7.793,Teton,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",8.416,7.601,7.995,Teton,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",8.638,7.231,8.185,Teton,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",8.88,7.15,8.241,Teton,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",8.285,7.408,7.9,Teton,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",8.269,7.435,8.153,Teton,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",8.824,7.446,8.383,Teton,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",8.301,7.393,8.105,Teton,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",8.285,7.401,7.905,Teton,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",8.806,7.654,7.981,Teton,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",8.511,7.623,8.17,Teton,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",8.538,7.769,8.296,Teton,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",8.434,7.308,7.943,Teton,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",8.395,7.057,7.684,Teton,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",8.302,7.552,8.006,Teton,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",8.676,7.293,8.149,Teton,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",8.21,7.664,7.989,Teton,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",8.198,6.937,7.762,Teton,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",8.76,7.318,8.236,Teton,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",8.347,7.449,7.763,Teton,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",8.152,7.675,8.019,Teton,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",8.768,7.529,7.912,Teton,sfcWind

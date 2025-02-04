@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,27.6,15.65,21,Northern Cheyenne,con-dry
+1951,Historical Emissions,32,17.7,24.5,Northern Cheyenne,con-dry
+1952,Historical Emissions,32.2,15.95,18.25,Northern Cheyenne,con-dry
+1953,Historical Emissions,22.6,15.2,19.25,Northern Cheyenne,con-dry
+1954,Historical Emissions,28.25,10.4,22.5,Northern Cheyenne,con-dry
+1955,Historical Emissions,31.7,14.5,22,Northern Cheyenne,con-dry
+1956,Historical Emissions,34.5,14.95,27,Northern Cheyenne,con-dry
+1957,Historical Emissions,32.05,12.85,22.5,Northern Cheyenne,con-dry
+1958,Historical Emissions,24.2,16.15,21.75,Northern Cheyenne,con-dry
+1959,Historical Emissions,19.1,12.95,14.75,Northern Cheyenne,con-dry
+1960,Historical Emissions,27.5,12.8,15.5,Northern Cheyenne,con-dry
+1961,Historical Emissions,26.05,15.25,20.5,Northern Cheyenne,con-dry
+1962,Historical Emissions,29.35,13,20,Northern Cheyenne,con-dry
+1963,Historical Emissions,23.8,16,20.5,Northern Cheyenne,con-dry
+1964,Historical Emissions,29.8,18.3,20,Northern Cheyenne,con-dry
+1965,Historical Emissions,29.8,17.6,22,Northern Cheyenne,con-dry
+1966,Historical Emissions,39.1,14.2,22,Northern Cheyenne,con-dry
+1967,Historical Emissions,31.85,14,18.25,Northern Cheyenne,con-dry
+1968,Historical Emissions,23.75,16.6,20,Northern Cheyenne,con-dry
+1969,Historical Emissions,27.5,14,19,Northern Cheyenne,con-dry
+1970,Historical Emissions,32.2,15.6,20,Northern Cheyenne,con-dry
+1971,Historical Emissions,31.6,17.6,25.5,Northern Cheyenne,con-dry
+1972,Historical Emissions,32.55,17.3,24.5,Northern Cheyenne,con-dry
+1973,Historical Emissions,42.35,12.4,17.75,Northern Cheyenne,con-dry
+1974,Historical Emissions,29.6,12.35,16.25,Northern Cheyenne,con-dry
+1975,Historical Emissions,27.4,17.2,21.25,Northern Cheyenne,con-dry
+1976,Historical Emissions,22.7,14.2,15,Northern Cheyenne,con-dry
+1977,Historical Emissions,23.35,14.9,19,Northern Cheyenne,con-dry
+1978,Historical Emissions,29,14.75,22.75,Northern Cheyenne,con-dry
+1979,Historical Emissions,28.55,16.2,21,Northern Cheyenne,con-dry
+1980,Historical Emissions,22.3,16.55,19.5,Northern Cheyenne,con-dry
+1981,Historical Emissions,30.15,15.4,20.25,Northern Cheyenne,con-dry
+1982,Historical Emissions,26.35,12.3,19.75,Northern Cheyenne,con-dry
+1983,Historical Emissions,36,13.65,18.75,Northern Cheyenne,con-dry
+1984,Historical Emissions,29.2,14.75,21,Northern Cheyenne,con-dry
+1985,Historical Emissions,29.4,13.6,20,Northern Cheyenne,con-dry
+1986,Historical Emissions,22.2,13.7,17,Northern Cheyenne,con-dry
+1987,Historical Emissions,23.4,13.25,16,Northern Cheyenne,con-dry
+1988,Historical Emissions,27.75,13.45,21,Northern Cheyenne,con-dry
+1989,Historical Emissions,26.5,14.7,20,Northern Cheyenne,con-dry
+1990,Historical Emissions,30,14.9,20.5,Northern Cheyenne,con-dry
+1991,Historical Emissions,26.3,16.75,21,Northern Cheyenne,con-dry
+1992,Historical Emissions,33.6,15.4,22,Northern Cheyenne,con-dry
+1993,Historical Emissions,25.75,13.8,18,Northern Cheyenne,con-dry
+1994,Historical Emissions,21.9,16.15,19,Northern Cheyenne,con-dry
+1995,Historical Emissions,31.5,17.95,21.75,Northern Cheyenne,con-dry
+1996,Historical Emissions,38.2,16,23.25,Northern Cheyenne,con-dry
+1997,Historical Emissions,30.3,14.8,21,Northern Cheyenne,con-dry
+1998,Historical Emissions,28.25,14.8,21,Northern Cheyenne,con-dry
+1999,Historical Emissions,24,16.2,18.75,Northern Cheyenne,con-dry
+2000,Historical Emissions,31.4,16,23.25,Northern Cheyenne,con-dry
+2001,Historical Emissions,25.2,14.65,19.25,Northern Cheyenne,con-dry
+2002,Historical Emissions,22,13.6,20,Northern Cheyenne,con-dry
+2003,Historical Emissions,23.65,15.25,17.5,Northern Cheyenne,con-dry
+2004,Historical Emissions,44.75,13.5,18.75,Northern Cheyenne,con-dry
+2005,Historical Emissions,39.4,16.4,23.25,Northern Cheyenne,con-dry
+2006,Historical Emissions,23,14.2,18,Northern Cheyenne,con-dry
+2007,Historical Emissions,23,15.6,19,Northern Cheyenne,con-dry
+2008,Historical Emissions,24.2,18,22,Northern Cheyenne,con-dry
+2009,Historical Emissions,24,13.1,17,Northern Cheyenne,con-dry
+2010,Historical Emissions,27.65,12.65,21,Northern Cheyenne,con-dry
+2011,Historical Emissions,32.9,16.2,19.5,Northern Cheyenne,con-dry
+2012,Historical Emissions,24.25,15.1,19.75,Northern Cheyenne,con-dry
+2013,Historical Emissions,22.2,13.4,18.25,Northern Cheyenne,con-dry
+2014,Historical Emissions,35.1,13.85,19,Northern Cheyenne,con-dry
+2015,"Moderating Emissions
+(SSP1-2.6)",38,15.6,22,Northern Cheyenne,con-dry
+2015,"Middle of the Road
+(SSP2-4.5)",33.6,15.95,26.75,Northern Cheyenne,con-dry
+2015,"High Emissions
+(SSP3-7.0)",25.75,15.2,17.5,Northern Cheyenne,con-dry
+2015,"Accelerating Emissions
+(SSP5-8.5)",30.3,14.15,19,Northern Cheyenne,con-dry
+2016,"Moderating Emissions
+(SSP1-2.6)",31.65,15.35,16,Northern Cheyenne,con-dry
+2016,"Middle of the Road
+(SSP2-4.5)",29,12.45,16,Northern Cheyenne,con-dry
+2016,"High Emissions
+(SSP3-7.0)",33.8,15.35,22.75,Northern Cheyenne,con-dry
+2016,"Accelerating Emissions
+(SSP5-8.5)",27.4,15.8,18,Northern Cheyenne,con-dry
+2017,"Moderating Emissions
+(SSP1-2.6)",44.6,14.85,18,Northern Cheyenne,con-dry
+2017,"Middle of the Road
+(SSP2-4.5)",33.15,16.6,20,Northern Cheyenne,con-dry
+2017,"High Emissions
+(SSP3-7.0)",32.2,11.7,22.75,Northern Cheyenne,con-dry
+2017,"Accelerating Emissions
+(SSP5-8.5)",27.05,12.55,18.5,Northern Cheyenne,con-dry
+2018,"Moderating Emissions
+(SSP1-2.6)",29.8,12.2,21,Northern Cheyenne,con-dry
+2018,"Middle of the Road
+(SSP2-4.5)",23.45,16,19,Northern Cheyenne,con-dry
+2018,"High Emissions
+(SSP3-7.0)",21.55,15.7,19.75,Northern Cheyenne,con-dry
+2018,"Accelerating Emissions
+(SSP5-8.5)",29.7,15.3,19,Northern Cheyenne,con-dry
+2019,"Moderating Emissions
+(SSP1-2.6)",36.4,17,21.75,Northern Cheyenne,con-dry
+2019,"Middle of the Road
+(SSP2-4.5)",27.4,16.4,20.75,Northern Cheyenne,con-dry
+2019,"High Emissions
+(SSP3-7.0)",31.05,17.8,20,Northern Cheyenne,con-dry
+2019,"Accelerating Emissions
+(SSP5-8.5)",31.4,12.2,22,Northern Cheyenne,con-dry
+2020,"Moderating Emissions
+(SSP1-2.6)",27.55,16.3,20,Northern Cheyenne,con-dry
+2020,"Middle of the Road
+(SSP2-4.5)",21.95,11.6,16.75,Northern Cheyenne,con-dry
+2020,"High Emissions
+(SSP3-7.0)",23.55,14.65,18.75,Northern Cheyenne,con-dry
+2020,"Accelerating Emissions
+(SSP5-8.5)",24.7,15.8,17.75,Northern Cheyenne,con-dry
+2021,"Moderating Emissions
+(SSP1-2.6)",37.3,17.35,23.25,Northern Cheyenne,con-dry
+2021,"Middle of the Road
+(SSP2-4.5)",38.8,17.85,21.5,Northern Cheyenne,con-dry
+2021,"High Emissions
+(SSP3-7.0)",42.6,17.2,23,Northern Cheyenne,con-dry
+2021,"Accelerating Emissions
+(SSP5-8.5)",40.6,16.7,24,Northern Cheyenne,con-dry
+2022,"Moderating Emissions
+(SSP1-2.6)",26.9,14.6,21,Northern Cheyenne,con-dry
+2022,"Middle of the Road
+(SSP2-4.5)",30.6,13,21,Northern Cheyenne,con-dry
+2022,"High Emissions
+(SSP3-7.0)",29.25,13.05,15,Northern Cheyenne,con-dry
+2022,"Accelerating Emissions
+(SSP5-8.5)",38.7,14,22.5,Northern Cheyenne,con-dry
+2023,"Moderating Emissions
+(SSP1-2.6)",31.65,15.9,20.25,Northern Cheyenne,con-dry
+2023,"Middle of the Road
+(SSP2-4.5)",36.35,16.4,26,Northern Cheyenne,con-dry
+2023,"High Emissions
+(SSP3-7.0)",25.6,14,20,Northern Cheyenne,con-dry
+2023,"Accelerating Emissions
+(SSP5-8.5)",25.6,14.45,16.75,Northern Cheyenne,con-dry
+2024,"Moderating Emissions
+(SSP1-2.6)",25,18.2,21.25,Northern Cheyenne,con-dry
+2024,"Middle of the Road
+(SSP2-4.5)",28.2,15.4,25.25,Northern Cheyenne,con-dry
+2024,"High Emissions
+(SSP3-7.0)",30.6,15.7,23,Northern Cheyenne,con-dry
+2024,"Accelerating Emissions
+(SSP5-8.5)",28.4,14.25,19,Northern Cheyenne,con-dry
+2025,"Moderating Emissions
+(SSP1-2.6)",41.45,14.35,18.75,Northern Cheyenne,con-dry
+2025,"Middle of the Road
+(SSP2-4.5)",26.2,14.7,18.25,Northern Cheyenne,con-dry
+2025,"High Emissions
+(SSP3-7.0)",38.5,17,22,Northern Cheyenne,con-dry
+2025,"Accelerating Emissions
+(SSP5-8.5)",36.05,15.05,19.75,Northern Cheyenne,con-dry
+2026,"Moderating Emissions
+(SSP1-2.6)",23.6,16.2,18.75,Northern Cheyenne,con-dry
+2026,"Middle of the Road
+(SSP2-4.5)",36.4,13.25,17,Northern Cheyenne,con-dry
+2026,"High Emissions
+(SSP3-7.0)",32.55,13.95,16,Northern Cheyenne,con-dry
+2026,"Accelerating Emissions
+(SSP5-8.5)",22.8,17.4,21,Northern Cheyenne,con-dry
+2027,"Moderating Emissions
+(SSP1-2.6)",29.2,14.9,25.5,Northern Cheyenne,con-dry
+2027,"Middle of the Road
+(SSP2-4.5)",33.5,13.8,19.25,Northern Cheyenne,con-dry
+2027,"High Emissions
+(SSP3-7.0)",20.8,13.95,17.25,Northern Cheyenne,con-dry
+2027,"Accelerating Emissions
+(SSP5-8.5)",25.2,14.8,21,Northern Cheyenne,con-dry
+2028,"Moderating Emissions
+(SSP1-2.6)",25.6,15.4,19,Northern Cheyenne,con-dry
+2028,"Middle of the Road
+(SSP2-4.5)",25.75,12.25,17,Northern Cheyenne,con-dry
+2028,"High Emissions
+(SSP3-7.0)",31.05,14.8,22.5,Northern Cheyenne,con-dry
+2028,"Accelerating Emissions
+(SSP5-8.5)",25.8,15.4,19,Northern Cheyenne,con-dry
+2029,"Moderating Emissions
+(SSP1-2.6)",29.4,15.1,22.75,Northern Cheyenne,con-dry
+2029,"Middle of the Road
+(SSP2-4.5)",30.5,15.8,23,Northern Cheyenne,con-dry
+2029,"High Emissions
+(SSP3-7.0)",34.8,13.45,30,Northern Cheyenne,con-dry
+2029,"Accelerating Emissions
+(SSP5-8.5)",34.2,15.35,17.5,Northern Cheyenne,con-dry
+2030,"Moderating Emissions
+(SSP1-2.6)",32.85,14.2,26,Northern Cheyenne,con-dry
+2030,"Middle of the Road
+(SSP2-4.5)",44.2,14.9,21.5,Northern Cheyenne,con-dry
+2030,"High Emissions
+(SSP3-7.0)",33.6,13.35,19,Northern Cheyenne,con-dry
+2030,"Accelerating Emissions
+(SSP5-8.5)",31.2,19.8,25.5,Northern Cheyenne,con-dry
+2031,"Moderating Emissions
+(SSP1-2.6)",44.75,13.75,19,Northern Cheyenne,con-dry
+2031,"Middle of the Road
+(SSP2-4.5)",24.8,15.2,20.25,Northern Cheyenne,con-dry
+2031,"High Emissions
+(SSP3-7.0)",36.55,17.65,25.5,Northern Cheyenne,con-dry
+2031,"Accelerating Emissions
+(SSP5-8.5)",34.5,12.25,20.75,Northern Cheyenne,con-dry
+2032,"Moderating Emissions
+(SSP1-2.6)",24.75,14.05,21,Northern Cheyenne,con-dry
+2032,"Middle of the Road
+(SSP2-4.5)",26.4,13,19.25,Northern Cheyenne,con-dry
+2032,"High Emissions
+(SSP3-7.0)",39.65,13.65,17.5,Northern Cheyenne,con-dry
+2032,"Accelerating Emissions
+(SSP5-8.5)",31.15,15,17.25,Northern Cheyenne,con-dry
+2033,"Moderating Emissions
+(SSP1-2.6)",30,14.8,20,Northern Cheyenne,con-dry
+2033,"Middle of the Road
+(SSP2-4.5)",35.25,16.95,29,Northern Cheyenne,con-dry
+2033,"High Emissions
+(SSP3-7.0)",28.15,14.9,18.75,Northern Cheyenne,con-dry
+2033,"Accelerating Emissions
+(SSP5-8.5)",30.2,17.3,22,Northern Cheyenne,con-dry
+2034,"Moderating Emissions
+(SSP1-2.6)",24.65,13.2,19,Northern Cheyenne,con-dry
+2034,"Middle of the Road
+(SSP2-4.5)",29.65,17.2,22,Northern Cheyenne,con-dry
+2034,"High Emissions
+(SSP3-7.0)",38.7,15.55,20,Northern Cheyenne,con-dry
+2034,"Accelerating Emissions
+(SSP5-8.5)",26,12.4,21,Northern Cheyenne,con-dry
+2035,"Moderating Emissions
+(SSP1-2.6)",30.1,16.2,23.5,Northern Cheyenne,con-dry
+2035,"Middle of the Road
+(SSP2-4.5)",32.4,15.6,23.75,Northern Cheyenne,con-dry
+2035,"High Emissions
+(SSP3-7.0)",21.7,14,17,Northern Cheyenne,con-dry
+2035,"Accelerating Emissions
+(SSP5-8.5)",23.85,15.65,18,Northern Cheyenne,con-dry
+2036,"Moderating Emissions
+(SSP1-2.6)",25.6,12.75,20.75,Northern Cheyenne,con-dry
+2036,"Middle of the Road
+(SSP2-4.5)",30.35,16.4,26,Northern Cheyenne,con-dry
+2036,"High Emissions
+(SSP3-7.0)",38.25,17.05,20,Northern Cheyenne,con-dry
+2036,"Accelerating Emissions
+(SSP5-8.5)",21.8,13,17.75,Northern Cheyenne,con-dry
+2037,"Moderating Emissions
+(SSP1-2.6)",34.7,14.1,23,Northern Cheyenne,con-dry
+2037,"Middle of the Road
+(SSP2-4.5)",27,14.7,19.75,Northern Cheyenne,con-dry
+2037,"High Emissions
+(SSP3-7.0)",27.1,12.75,17.5,Northern Cheyenne,con-dry
+2037,"Accelerating Emissions
+(SSP5-8.5)",26.6,14.6,21.5,Northern Cheyenne,con-dry
+2038,"Moderating Emissions
+(SSP1-2.6)",27,14.45,18.25,Northern Cheyenne,con-dry
+2038,"Middle of the Road
+(SSP2-4.5)",29.6,14.4,20.75,Northern Cheyenne,con-dry
+2038,"High Emissions
+(SSP3-7.0)",31.5,14.8,20.25,Northern Cheyenne,con-dry
+2038,"Accelerating Emissions
+(SSP5-8.5)",37,15.55,21.75,Northern Cheyenne,con-dry
+2039,"Moderating Emissions
+(SSP1-2.6)",25.4,16.05,21.5,Northern Cheyenne,con-dry
+2039,"Middle of the Road
+(SSP2-4.5)",46.85,15.4,19,Northern Cheyenne,con-dry
+2039,"High Emissions
+(SSP3-7.0)",30,15.45,22.25,Northern Cheyenne,con-dry
+2039,"Accelerating Emissions
+(SSP5-8.5)",21.8,13.2,19.75,Northern Cheyenne,con-dry
+2040,"Moderating Emissions
+(SSP1-2.6)",23.85,14.95,18,Northern Cheyenne,con-dry
+2040,"Middle of the Road
+(SSP2-4.5)",35.5,15.35,25.75,Northern Cheyenne,con-dry
+2040,"High Emissions
+(SSP3-7.0)",24.25,14.75,17.75,Northern Cheyenne,con-dry
+2040,"Accelerating Emissions
+(SSP5-8.5)",50.6,15.6,20,Northern Cheyenne,con-dry
+2041,"Moderating Emissions
+(SSP1-2.6)",31.8,15.5,28,Northern Cheyenne,con-dry
+2041,"Middle of the Road
+(SSP2-4.5)",27.2,11.95,20.25,Northern Cheyenne,con-dry
+2041,"High Emissions
+(SSP3-7.0)",37.55,14.7,18.5,Northern Cheyenne,con-dry
+2041,"Accelerating Emissions
+(SSP5-8.5)",28.75,16.45,18.25,Northern Cheyenne,con-dry
+2042,"Moderating Emissions
+(SSP1-2.6)",29.85,14.35,22.5,Northern Cheyenne,con-dry
+2042,"Middle of the Road
+(SSP2-4.5)",37.05,15.8,23,Northern Cheyenne,con-dry
+2042,"High Emissions
+(SSP3-7.0)",40.6,14.6,24,Northern Cheyenne,con-dry
+2042,"Accelerating Emissions
+(SSP5-8.5)",27.2,21.2,24,Northern Cheyenne,con-dry
+2043,"Moderating Emissions
+(SSP1-2.6)",27.4,16.85,22,Northern Cheyenne,con-dry
+2043,"Middle of the Road
+(SSP2-4.5)",38.9,14.2,16,Northern Cheyenne,con-dry
+2043,"High Emissions
+(SSP3-7.0)",20.8,12.65,19,Northern Cheyenne,con-dry
+2043,"Accelerating Emissions
+(SSP5-8.5)",32,17.2,20,Northern Cheyenne,con-dry
+2044,"Moderating Emissions
+(SSP1-2.6)",28.1,14.8,22.5,Northern Cheyenne,con-dry
+2044,"Middle of the Road
+(SSP2-4.5)",25.2,17,19.25,Northern Cheyenne,con-dry
+2044,"High Emissions
+(SSP3-7.0)",27.65,14.2,22,Northern Cheyenne,con-dry
+2044,"Accelerating Emissions
+(SSP5-8.5)",27.8,15.7,22.75,Northern Cheyenne,con-dry
+2045,"Moderating Emissions
+(SSP1-2.6)",28.35,12.7,17.25,Northern Cheyenne,con-dry
+2045,"Middle of the Road
+(SSP2-4.5)",30.8,20.5,23.25,Northern Cheyenne,con-dry
+2045,"High Emissions
+(SSP3-7.0)",28.55,16.4,18.5,Northern Cheyenne,con-dry
+2045,"Accelerating Emissions
+(SSP5-8.5)",28.4,14.3,19.25,Northern Cheyenne,con-dry
+2046,"Moderating Emissions
+(SSP1-2.6)",28,15.3,21,Northern Cheyenne,con-dry
+2046,"Middle of the Road
+(SSP2-4.5)",27,14,18.5,Northern Cheyenne,con-dry
+2046,"High Emissions
+(SSP3-7.0)",29.2,12.2,19.5,Northern Cheyenne,con-dry
+2046,"Accelerating Emissions
+(SSP5-8.5)",29,14.8,19,Northern Cheyenne,con-dry
+2047,"Moderating Emissions
+(SSP1-2.6)",38.45,13.35,19.25,Northern Cheyenne,con-dry
+2047,"Middle of the Road
+(SSP2-4.5)",27.6,15.8,20.5,Northern Cheyenne,con-dry
+2047,"High Emissions
+(SSP3-7.0)",25.7,13.75,18,Northern Cheyenne,con-dry
+2047,"Accelerating Emissions
+(SSP5-8.5)",37.35,15.65,20,Northern Cheyenne,con-dry
+2048,"Moderating Emissions
+(SSP1-2.6)",26.35,13.6,18,Northern Cheyenne,con-dry
+2048,"Middle of the Road
+(SSP2-4.5)",28.15,14.75,21,Northern Cheyenne,con-dry
+2048,"High Emissions
+(SSP3-7.0)",31.1,17.35,22.75,Northern Cheyenne,con-dry
+2048,"Accelerating Emissions
+(SSP5-8.5)",31.5,15,20,Northern Cheyenne,con-dry
+2049,"Moderating Emissions
+(SSP1-2.6)",25.45,15.6,19,Northern Cheyenne,con-dry
+2049,"Middle of the Road
+(SSP2-4.5)",34.15,16,22.5,Northern Cheyenne,con-dry
+2049,"High Emissions
+(SSP3-7.0)",25.4,17,18.75,Northern Cheyenne,con-dry
+2049,"Accelerating Emissions
+(SSP5-8.5)",36.65,16.4,21,Northern Cheyenne,con-dry
+2050,"Moderating Emissions
+(SSP1-2.6)",30.1,14.9,25.5,Northern Cheyenne,con-dry
+2050,"Middle of the Road
+(SSP2-4.5)",39.2,13,22,Northern Cheyenne,con-dry
+2050,"High Emissions
+(SSP3-7.0)",29.8,14.4,19,Northern Cheyenne,con-dry
+2050,"Accelerating Emissions
+(SSP5-8.5)",31,14.7,22,Northern Cheyenne,con-dry
+2051,"Moderating Emissions
+(SSP1-2.6)",48.05,13,25,Northern Cheyenne,con-dry
+2051,"Middle of the Road
+(SSP2-4.5)",30.85,16.5,19,Northern Cheyenne,con-dry
+2051,"High Emissions
+(SSP3-7.0)",39.1,21,27.25,Northern Cheyenne,con-dry
+2051,"Accelerating Emissions
+(SSP5-8.5)",34.1,17.6,20,Northern Cheyenne,con-dry
+2052,"Moderating Emissions
+(SSP1-2.6)",25.2,16.6,19.75,Northern Cheyenne,con-dry
+2052,"Middle of the Road
+(SSP2-4.5)",33,16.8,19.75,Northern Cheyenne,con-dry
+2052,"High Emissions
+(SSP3-7.0)",30,16,19,Northern Cheyenne,con-dry
+2052,"Accelerating Emissions
+(SSP5-8.5)",41.95,15.2,20.25,Northern Cheyenne,con-dry
+2053,"Moderating Emissions
+(SSP1-2.6)",31,15.1,19.25,Northern Cheyenne,con-dry
+2053,"Middle of the Road
+(SSP2-4.5)",34.2,13.2,22.75,Northern Cheyenne,con-dry
+2053,"High Emissions
+(SSP3-7.0)",38.55,15.7,26.5,Northern Cheyenne,con-dry
+2053,"Accelerating Emissions
+(SSP5-8.5)",26.15,16.65,20,Northern Cheyenne,con-dry
+2054,"Moderating Emissions
+(SSP1-2.6)",34.8,11.6,28,Northern Cheyenne,con-dry
+2054,"Middle of the Road
+(SSP2-4.5)",27.6,15.7,18,Northern Cheyenne,con-dry
+2054,"High Emissions
+(SSP3-7.0)",29,15.4,18,Northern Cheyenne,con-dry
+2054,"Accelerating Emissions
+(SSP5-8.5)",30.5,16,21,Northern Cheyenne,con-dry
+2055,"Moderating Emissions
+(SSP1-2.6)",30.8,15.6,19,Northern Cheyenne,con-dry
+2055,"Middle of the Road
+(SSP2-4.5)",26.25,16.65,19,Northern Cheyenne,con-dry
+2055,"High Emissions
+(SSP3-7.0)",31.7,17.15,23,Northern Cheyenne,con-dry
+2055,"Accelerating Emissions
+(SSP5-8.5)",31.15,13.85,20.25,Northern Cheyenne,con-dry
+2056,"Moderating Emissions
+(SSP1-2.6)",32.8,18.8,21.5,Northern Cheyenne,con-dry
+2056,"Middle of the Road
+(SSP2-4.5)",29.8,14.05,18,Northern Cheyenne,con-dry
+2056,"High Emissions
+(SSP3-7.0)",39.9,13.6,25,Northern Cheyenne,con-dry
+2056,"Accelerating Emissions
+(SSP5-8.5)",28.15,16.6,21,Northern Cheyenne,con-dry
+2057,"Moderating Emissions
+(SSP1-2.6)",27.2,13.05,23.5,Northern Cheyenne,con-dry
+2057,"Middle of the Road
+(SSP2-4.5)",30.2,13.9,18,Northern Cheyenne,con-dry
+2057,"High Emissions
+(SSP3-7.0)",30.4,13.75,22,Northern Cheyenne,con-dry
+2057,"Accelerating Emissions
+(SSP5-8.5)",29,14.6,24,Northern Cheyenne,con-dry
+2058,"Moderating Emissions
+(SSP1-2.6)",33,15,20,Northern Cheyenne,con-dry
+2058,"Middle of the Road
+(SSP2-4.5)",26.8,17.8,22,Northern Cheyenne,con-dry
+2058,"High Emissions
+(SSP3-7.0)",23.75,12.6,18.5,Northern Cheyenne,con-dry
+2058,"Accelerating Emissions
+(SSP5-8.5)",23.95,12.75,18.75,Northern Cheyenne,con-dry
+2059,"Moderating Emissions
+(SSP1-2.6)",33.15,15,28,Northern Cheyenne,con-dry
+2059,"Middle of the Road
+(SSP2-4.5)",25.2,14.75,21,Northern Cheyenne,con-dry
+2059,"High Emissions
+(SSP3-7.0)",29.65,15.4,19.5,Northern Cheyenne,con-dry
+2059,"Accelerating Emissions
+(SSP5-8.5)",30.5,14.8,21.5,Northern Cheyenne,con-dry
+2060,"Moderating Emissions
+(SSP1-2.6)",29.25,17.35,20,Northern Cheyenne,con-dry
+2060,"Middle of the Road
+(SSP2-4.5)",32.05,17.65,21.75,Northern Cheyenne,con-dry
+2060,"High Emissions
+(SSP3-7.0)",35.85,13.6,21.25,Northern Cheyenne,con-dry
+2060,"Accelerating Emissions
+(SSP5-8.5)",24.9,14.8,19.75,Northern Cheyenne,con-dry
+2061,"Moderating Emissions
+(SSP1-2.6)",30.45,15.9,24.75,Northern Cheyenne,con-dry
+2061,"Middle of the Road
+(SSP2-4.5)",31.6,16.6,24.25,Northern Cheyenne,con-dry
+2061,"High Emissions
+(SSP3-7.0)",30.45,15.35,20.5,Northern Cheyenne,con-dry
+2061,"Accelerating Emissions
+(SSP5-8.5)",36.2,17.6,23,Northern Cheyenne,con-dry
+2062,"Moderating Emissions
+(SSP1-2.6)",30.65,18.2,23.75,Northern Cheyenne,con-dry
+2062,"Middle of the Road
+(SSP2-4.5)",26.1,16.2,18.75,Northern Cheyenne,con-dry
+2062,"High Emissions
+(SSP3-7.0)",34.9,19.5,22.5,Northern Cheyenne,con-dry
+2062,"Accelerating Emissions
+(SSP5-8.5)",36.8,13.85,23,Northern Cheyenne,con-dry
+2063,"Moderating Emissions
+(SSP1-2.6)",24.75,16.85,20,Northern Cheyenne,con-dry
+2063,"Middle of the Road
+(SSP2-4.5)",29.4,12.2,17,Northern Cheyenne,con-dry
+2063,"High Emissions
+(SSP3-7.0)",29.65,13.2,16.25,Northern Cheyenne,con-dry
+2063,"Accelerating Emissions
+(SSP5-8.5)",39.6,13.2,21.75,Northern Cheyenne,con-dry
+2064,"Moderating Emissions
+(SSP1-2.6)",40.1,14,19.5,Northern Cheyenne,con-dry
+2064,"Middle of the Road
+(SSP2-4.5)",46,15.65,23,Northern Cheyenne,con-dry
+2064,"High Emissions
+(SSP3-7.0)",34.6,17.6,29.25,Northern Cheyenne,con-dry
+2064,"Accelerating Emissions
+(SSP5-8.5)",37.45,17.7,22.75,Northern Cheyenne,con-dry
+2065,"Moderating Emissions
+(SSP1-2.6)",26.8,14.45,20.75,Northern Cheyenne,con-dry
+2065,"Middle of the Road
+(SSP2-4.5)",33.55,14.2,19.25,Northern Cheyenne,con-dry
+2065,"High Emissions
+(SSP3-7.0)",37.25,15.2,22.5,Northern Cheyenne,con-dry
+2065,"Accelerating Emissions
+(SSP5-8.5)",28.85,13.2,21,Northern Cheyenne,con-dry
+2066,"Moderating Emissions
+(SSP1-2.6)",33.25,15.6,23.5,Northern Cheyenne,con-dry
+2066,"Middle of the Road
+(SSP2-4.5)",28.35,14.55,22.25,Northern Cheyenne,con-dry
+2066,"High Emissions
+(SSP3-7.0)",28.2,15.2,23.75,Northern Cheyenne,con-dry
+2066,"Accelerating Emissions
+(SSP5-8.5)",26.6,15.8,22.25,Northern Cheyenne,con-dry
+2067,"Moderating Emissions
+(SSP1-2.6)",35.3,15.7,20.5,Northern Cheyenne,con-dry
+2067,"Middle of the Road
+(SSP2-4.5)",27.05,11.95,21,Northern Cheyenne,con-dry
+2067,"High Emissions
+(SSP3-7.0)",35.2,16.2,19,Northern Cheyenne,con-dry
+2067,"Accelerating Emissions
+(SSP5-8.5)",39.2,18.2,21.5,Northern Cheyenne,con-dry
+2068,"Moderating Emissions
+(SSP1-2.6)",26.45,14.6,18,Northern Cheyenne,con-dry
+2068,"Middle of the Road
+(SSP2-4.5)",21.8,13,14.75,Northern Cheyenne,con-dry
+2068,"High Emissions
+(SSP3-7.0)",26.55,14.2,16.75,Northern Cheyenne,con-dry
+2068,"Accelerating Emissions
+(SSP5-8.5)",39.85,15.6,17.5,Northern Cheyenne,con-dry
+2069,"Moderating Emissions
+(SSP1-2.6)",32.6,11.15,17,Northern Cheyenne,con-dry
+2069,"Middle of the Road
+(SSP2-4.5)",31.45,13.05,20.5,Northern Cheyenne,con-dry
+2069,"High Emissions
+(SSP3-7.0)",39.6,17.7,25,Northern Cheyenne,con-dry
+2069,"Accelerating Emissions
+(SSP5-8.5)",45.85,15.25,22,Northern Cheyenne,con-dry
+2070,"Moderating Emissions
+(SSP1-2.6)",24.1,14.2,17.75,Northern Cheyenne,con-dry
+2070,"Middle of the Road
+(SSP2-4.5)",30.65,16,20,Northern Cheyenne,con-dry
+2070,"High Emissions
+(SSP3-7.0)",29.4,18.2,23.75,Northern Cheyenne,con-dry
+2070,"Accelerating Emissions
+(SSP5-8.5)",30.6,16.15,22.25,Northern Cheyenne,con-dry
+2071,"Moderating Emissions
+(SSP1-2.6)",46,15.6,19.75,Northern Cheyenne,con-dry
+2071,"Middle of the Road
+(SSP2-4.5)",33.2,15.75,19.75,Northern Cheyenne,con-dry
+2071,"High Emissions
+(SSP3-7.0)",31.3,17.75,21.75,Northern Cheyenne,con-dry
+2071,"Accelerating Emissions
+(SSP5-8.5)",37.3,18.65,27,Northern Cheyenne,con-dry
+2072,"Moderating Emissions
+(SSP1-2.6)",35.6,14,25,Northern Cheyenne,con-dry
+2072,"Middle of the Road
+(SSP2-4.5)",42.4,13.4,18.25,Northern Cheyenne,con-dry
+2072,"High Emissions
+(SSP3-7.0)",33.6,16.2,22.5,Northern Cheyenne,con-dry
+2072,"Accelerating Emissions
+(SSP5-8.5)",31.8,15.8,20,Northern Cheyenne,con-dry
+2073,"Moderating Emissions
+(SSP1-2.6)",32.6,12,20,Northern Cheyenne,con-dry
+2073,"Middle of the Road
+(SSP2-4.5)",34.5,13.5,19,Northern Cheyenne,con-dry
+2073,"High Emissions
+(SSP3-7.0)",35.45,16.4,20,Northern Cheyenne,con-dry
+2073,"Accelerating Emissions
+(SSP5-8.5)",32.3,13.6,16.25,Northern Cheyenne,con-dry
+2074,"Moderating Emissions
+(SSP1-2.6)",24.75,14.2,17.25,Northern Cheyenne,con-dry
+2074,"Middle of the Road
+(SSP2-4.5)",30.9,15.8,18.75,Northern Cheyenne,con-dry
+2074,"High Emissions
+(SSP3-7.0)",31.5,13.8,18,Northern Cheyenne,con-dry
+2074,"Accelerating Emissions
+(SSP5-8.5)",39.8,16,25,Northern Cheyenne,con-dry
+2075,"Moderating Emissions
+(SSP1-2.6)",29.75,13.4,20,Northern Cheyenne,con-dry
+2075,"Middle of the Road
+(SSP2-4.5)",29.4,15.9,23,Northern Cheyenne,con-dry
+2075,"High Emissions
+(SSP3-7.0)",30.2,13.45,20,Northern Cheyenne,con-dry
+2075,"Accelerating Emissions
+(SSP5-8.5)",29.8,13.6,18,Northern Cheyenne,con-dry
+2076,"Moderating Emissions
+(SSP1-2.6)",26.8,15,18,Northern Cheyenne,con-dry
+2076,"Middle of the Road
+(SSP2-4.5)",29.6,13.8,19.75,Northern Cheyenne,con-dry
+2076,"High Emissions
+(SSP3-7.0)",32.85,15.7,24,Northern Cheyenne,con-dry
+2076,"Accelerating Emissions
+(SSP5-8.5)",30.2,16.45,21,Northern Cheyenne,con-dry
+2077,"Moderating Emissions
+(SSP1-2.6)",31.6,15.6,19,Northern Cheyenne,con-dry
+2077,"Middle of the Road
+(SSP2-4.5)",30.8,15.55,20.75,Northern Cheyenne,con-dry
+2077,"High Emissions
+(SSP3-7.0)",30.9,15.6,19,Northern Cheyenne,con-dry
+2077,"Accelerating Emissions
+(SSP5-8.5)",26,16.6,21.5,Northern Cheyenne,con-dry
+2078,"Moderating Emissions
+(SSP1-2.6)",28.4,14.6,17,Northern Cheyenne,con-dry
+2078,"Middle of the Road
+(SSP2-4.5)",32.2,13.45,22,Northern Cheyenne,con-dry
+2078,"High Emissions
+(SSP3-7.0)",31.8,15.15,20.75,Northern Cheyenne,con-dry
+2078,"Accelerating Emissions
+(SSP5-8.5)",34.6,14.1,22,Northern Cheyenne,con-dry
+2079,"Moderating Emissions
+(SSP1-2.6)",39.8,14.15,24,Northern Cheyenne,con-dry
+2079,"Middle of the Road
+(SSP2-4.5)",28.8,14.4,19.5,Northern Cheyenne,con-dry
+2079,"High Emissions
+(SSP3-7.0)",26.05,15,20,Northern Cheyenne,con-dry
+2079,"Accelerating Emissions
+(SSP5-8.5)",31.2,15.85,22,Northern Cheyenne,con-dry
+2080,"Moderating Emissions
+(SSP1-2.6)",29.3,13.85,18.25,Northern Cheyenne,con-dry
+2080,"Middle of the Road
+(SSP2-4.5)",34.95,14.8,18,Northern Cheyenne,con-dry
+2080,"High Emissions
+(SSP3-7.0)",31.2,15.2,23.75,Northern Cheyenne,con-dry
+2080,"Accelerating Emissions
+(SSP5-8.5)",34,13.8,23.75,Northern Cheyenne,con-dry
+2081,"Moderating Emissions
+(SSP1-2.6)",34.8,15.4,23.5,Northern Cheyenne,con-dry
+2081,"Middle of the Road
+(SSP2-4.5)",24.2,14.9,20.5,Northern Cheyenne,con-dry
+2081,"High Emissions
+(SSP3-7.0)",26,15,18.25,Northern Cheyenne,con-dry
+2081,"Accelerating Emissions
+(SSP5-8.5)",30.75,17.45,20,Northern Cheyenne,con-dry
+2082,"Moderating Emissions
+(SSP1-2.6)",39.2,15.6,21,Northern Cheyenne,con-dry
+2082,"Middle of the Road
+(SSP2-4.5)",30.4,14.2,24,Northern Cheyenne,con-dry
+2082,"High Emissions
+(SSP3-7.0)",28.95,16.5,27.5,Northern Cheyenne,con-dry
+2082,"Accelerating Emissions
+(SSP5-8.5)",28.4,15.6,25,Northern Cheyenne,con-dry
+2083,"Moderating Emissions
+(SSP1-2.6)",42.55,18.35,25.25,Northern Cheyenne,con-dry
+2083,"Middle of the Road
+(SSP2-4.5)",44.7,15.2,26.25,Northern Cheyenne,con-dry
+2083,"High Emissions
+(SSP3-7.0)",39.15,15.8,22.25,Northern Cheyenne,con-dry
+2083,"Accelerating Emissions
+(SSP5-8.5)",31.8,16.3,26.25,Northern Cheyenne,con-dry
+2084,"Moderating Emissions
+(SSP1-2.6)",35.7,18.45,24.25,Northern Cheyenne,con-dry
+2084,"Middle of the Road
+(SSP2-4.5)",35.2,14,26,Northern Cheyenne,con-dry
+2084,"High Emissions
+(SSP3-7.0)",41,18.8,25.5,Northern Cheyenne,con-dry
+2084,"Accelerating Emissions
+(SSP5-8.5)",41.15,18.8,22.75,Northern Cheyenne,con-dry
+2085,"Moderating Emissions
+(SSP1-2.6)",33.95,16.6,23.75,Northern Cheyenne,con-dry
+2085,"Middle of the Road
+(SSP2-4.5)",25.35,14.6,18,Northern Cheyenne,con-dry
+2085,"High Emissions
+(SSP3-7.0)",32.8,17.7,24,Northern Cheyenne,con-dry
+2085,"Accelerating Emissions
+(SSP5-8.5)",39.15,17.2,25.75,Northern Cheyenne,con-dry
+2086,"Moderating Emissions
+(SSP1-2.6)",27.55,15.3,19.5,Northern Cheyenne,con-dry
+2086,"Middle of the Road
+(SSP2-4.5)",29.95,11,18,Northern Cheyenne,con-dry
+2086,"High Emissions
+(SSP3-7.0)",34.3,17.4,21.75,Northern Cheyenne,con-dry
+2086,"Accelerating Emissions
+(SSP5-8.5)",35,15.6,20.5,Northern Cheyenne,con-dry
+2087,"Moderating Emissions
+(SSP1-2.6)",31.75,12.8,19,Northern Cheyenne,con-dry
+2087,"Middle of the Road
+(SSP2-4.5)",26.5,16.25,22.25,Northern Cheyenne,con-dry
+2087,"High Emissions
+(SSP3-7.0)",31.6,16.4,21,Northern Cheyenne,con-dry
+2087,"Accelerating Emissions
+(SSP5-8.5)",30.2,20.1,25,Northern Cheyenne,con-dry
+2088,"Moderating Emissions
+(SSP1-2.6)",32.8,13.8,26.25,Northern Cheyenne,con-dry
+2088,"Middle of the Road
+(SSP2-4.5)",28.9,17.65,21.75,Northern Cheyenne,con-dry
+2088,"High Emissions
+(SSP3-7.0)",33.85,16.05,18.5,Northern Cheyenne,con-dry
+2088,"Accelerating Emissions
+(SSP5-8.5)",40.3,15.9,22.75,Northern Cheyenne,con-dry
+2089,"Moderating Emissions
+(SSP1-2.6)",29.8,11.4,16,Northern Cheyenne,con-dry
+2089,"Middle of the Road
+(SSP2-4.5)",24.8,16.2,20,Northern Cheyenne,con-dry
+2089,"High Emissions
+(SSP3-7.0)",44.5,15.75,24.25,Northern Cheyenne,con-dry
+2089,"Accelerating Emissions
+(SSP5-8.5)",43,16.5,21,Northern Cheyenne,con-dry
+2090,"Moderating Emissions
+(SSP1-2.6)",27.1,16.3,20,Northern Cheyenne,con-dry
+2090,"Middle of the Road
+(SSP2-4.5)",27.5,19.15,23.25,Northern Cheyenne,con-dry
+2090,"High Emissions
+(SSP3-7.0)",50.9,18.9,24,Northern Cheyenne,con-dry
+2090,"Accelerating Emissions
+(SSP5-8.5)",36.95,18.2,25,Northern Cheyenne,con-dry
+2091,"Moderating Emissions
+(SSP1-2.6)",35.3,15.4,22.75,Northern Cheyenne,con-dry
+2091,"Middle of the Road
+(SSP2-4.5)",51.3,17,24.5,Northern Cheyenne,con-dry
+2091,"High Emissions
+(SSP3-7.0)",40.6,18.8,22.5,Northern Cheyenne,con-dry
+2091,"Accelerating Emissions
+(SSP5-8.5)",43.5,18.2,23,Northern Cheyenne,con-dry
+2092,"Moderating Emissions
+(SSP1-2.6)",33.2,10.9,25,Northern Cheyenne,con-dry
+2092,"Middle of the Road
+(SSP2-4.5)",41,14.2,20.75,Northern Cheyenne,con-dry
+2092,"High Emissions
+(SSP3-7.0)",30.7,13.45,23.5,Northern Cheyenne,con-dry
+2092,"Accelerating Emissions
+(SSP5-8.5)",36.95,14.5,21.25,Northern Cheyenne,con-dry
+2093,"Moderating Emissions
+(SSP1-2.6)",27.45,14.5,18,Northern Cheyenne,con-dry
+2093,"Middle of the Road
+(SSP2-4.5)",27.05,18.75,23.25,Northern Cheyenne,con-dry
+2093,"High Emissions
+(SSP3-7.0)",38.45,15,26.25,Northern Cheyenne,con-dry
+2093,"Accelerating Emissions
+(SSP5-8.5)",36.6,15.6,28,Northern Cheyenne,con-dry
+2094,"Moderating Emissions
+(SSP1-2.6)",27.25,13.8,21,Northern Cheyenne,con-dry
+2094,"Middle of the Road
+(SSP2-4.5)",31.15,16.85,22.25,Northern Cheyenne,con-dry
+2094,"High Emissions
+(SSP3-7.0)",27.8,14.95,24.75,Northern Cheyenne,con-dry
+2094,"Accelerating Emissions
+(SSP5-8.5)",32.8,17.35,23,Northern Cheyenne,con-dry
+2095,"Moderating Emissions
+(SSP1-2.6)",30.4,12.9,23.75,Northern Cheyenne,con-dry
+2095,"Middle of the Road
+(SSP2-4.5)",33.8,14.2,25,Northern Cheyenne,con-dry
+2095,"High Emissions
+(SSP3-7.0)",38.6,14,22,Northern Cheyenne,con-dry
+2095,"Accelerating Emissions
+(SSP5-8.5)",42.4,14.8,27,Northern Cheyenne,con-dry
+2096,"Moderating Emissions
+(SSP1-2.6)",31.5,14.8,18.75,Northern Cheyenne,con-dry
+2096,"Middle of the Road
+(SSP2-4.5)",36.4,18,29,Northern Cheyenne,con-dry
+2096,"High Emissions
+(SSP3-7.0)",31.3,15.7,24.25,Northern Cheyenne,con-dry
+2096,"Accelerating Emissions
+(SSP5-8.5)",42.55,13.7,24.75,Northern Cheyenne,con-dry
+2097,"Moderating Emissions
+(SSP1-2.6)",33.55,15.2,25.25,Northern Cheyenne,con-dry
+2097,"Middle of the Road
+(SSP2-4.5)",33.8,13.2,22,Northern Cheyenne,con-dry
+2097,"High Emissions
+(SSP3-7.0)",39.25,15.45,25.25,Northern Cheyenne,con-dry
+2097,"Accelerating Emissions
+(SSP5-8.5)",43.35,16.6,26.75,Northern Cheyenne,con-dry
+2098,"Moderating Emissions
+(SSP1-2.6)",29.15,17.55,22.25,Northern Cheyenne,con-dry
+2098,"Middle of the Road
+(SSP2-4.5)",27.55,16.05,21,Northern Cheyenne,con-dry
+2098,"High Emissions
+(SSP3-7.0)",21.4,12.6,19,Northern Cheyenne,con-dry
+2098,"Accelerating Emissions
+(SSP5-8.5)",48.1,16.05,20.25,Northern Cheyenne,con-dry
+2099,"Moderating Emissions
+(SSP1-2.6)",32.25,14.6,20,Northern Cheyenne,con-dry
+2099,"Middle of the Road
+(SSP2-4.5)",39.6,17,20,Northern Cheyenne,con-dry
+2099,"High Emissions
+(SSP3-7.0)",38.55,17.6,19,Northern Cheyenne,con-dry
+2099,"Accelerating Emissions
+(SSP5-8.5)",46.25,15.2,21,Northern Cheyenne,con-dry
+2100,"Moderating Emissions
+(SSP1-2.6)",27.2,13,19,Northern Cheyenne,con-dry
+2100,"Middle of the Road
+(SSP2-4.5)",31.6,15.65,19.25,Northern Cheyenne,con-dry
+2100,"High Emissions
+(SSP3-7.0)",43.95,15.4,26.5,Northern Cheyenne,con-dry
+2100,"Accelerating Emissions
+(SSP5-8.5)",44.4,17.9,23.5,Northern Cheyenne,con-dry

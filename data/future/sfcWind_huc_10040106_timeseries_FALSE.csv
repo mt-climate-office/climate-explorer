@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,9.686,8.891,9.208,Little Dry,sfcWind
+1951,Historical Emissions,9.439,9.004,9.229,Little Dry,sfcWind
+1952,Historical Emissions,9.834,8.689,9.349,Little Dry,sfcWind
+1953,Historical Emissions,9.805,9.031,9.284,Little Dry,sfcWind
+1954,Historical Emissions,9.838,8.884,9.415,Little Dry,sfcWind
+1955,Historical Emissions,9.684,8.856,9.1,Little Dry,sfcWind
+1956,Historical Emissions,9.924,8.844,9.414,Little Dry,sfcWind
+1957,Historical Emissions,9.914,9.01,9.585,Little Dry,sfcWind
+1958,Historical Emissions,9.405,8.948,9.141,Little Dry,sfcWind
+1959,Historical Emissions,9.736,8.788,9.494,Little Dry,sfcWind
+1960,Historical Emissions,9.789,9.368,9.638,Little Dry,sfcWind
+1961,Historical Emissions,9.822,8.927,9.393,Little Dry,sfcWind
+1962,Historical Emissions,9.594,8.967,9.262,Little Dry,sfcWind
+1963,Historical Emissions,9.627,8.931,9.209,Little Dry,sfcWind
+1964,Historical Emissions,9.747,9.15,9.273,Little Dry,sfcWind
+1965,Historical Emissions,9.625,9.041,9.223,Little Dry,sfcWind
+1966,Historical Emissions,10.052,9.171,9.283,Little Dry,sfcWind
+1967,Historical Emissions,9.835,8.831,9.377,Little Dry,sfcWind
+1968,Historical Emissions,9.921,8.82,9.325,Little Dry,sfcWind
+1969,Historical Emissions,9.641,8.84,9.004,Little Dry,sfcWind
+1970,Historical Emissions,9.748,9.116,9.219,Little Dry,sfcWind
+1971,Historical Emissions,9.743,8.841,9.231,Little Dry,sfcWind
+1972,Historical Emissions,9.487,8.932,9.294,Little Dry,sfcWind
+1973,Historical Emissions,9.722,8.958,9.083,Little Dry,sfcWind
+1974,Historical Emissions,9.892,8.619,9.419,Little Dry,sfcWind
+1975,Historical Emissions,9.647,8.897,9.154,Little Dry,sfcWind
+1976,Historical Emissions,9.604,8.938,9.286,Little Dry,sfcWind
+1977,Historical Emissions,9.524,8.751,9.024,Little Dry,sfcWind
+1978,Historical Emissions,9.472,8.836,9.134,Little Dry,sfcWind
+1979,Historical Emissions,9.37,8.93,9.096,Little Dry,sfcWind
+1980,Historical Emissions,9.69,8.965,9.174,Little Dry,sfcWind
+1981,Historical Emissions,9.478,9.044,9.252,Little Dry,sfcWind
+1982,Historical Emissions,9.642,8.666,9.236,Little Dry,sfcWind
+1983,Historical Emissions,9.703,8.744,8.992,Little Dry,sfcWind
+1984,Historical Emissions,9.692,8.634,9.111,Little Dry,sfcWind
+1985,Historical Emissions,9.608,8.897,9.232,Little Dry,sfcWind
+1986,Historical Emissions,9.575,8.644,9.409,Little Dry,sfcWind
+1987,Historical Emissions,9.591,8.661,9.053,Little Dry,sfcWind
+1988,Historical Emissions,9.418,8.953,9.312,Little Dry,sfcWind
+1989,Historical Emissions,9.548,8.859,9.107,Little Dry,sfcWind
+1990,Historical Emissions,9.614,8.712,9.338,Little Dry,sfcWind
+1991,Historical Emissions,9.488,8.778,9.292,Little Dry,sfcWind
+1992,Historical Emissions,9.734,8.942,9.377,Little Dry,sfcWind
+1993,Historical Emissions,9.612,8.86,9.092,Little Dry,sfcWind
+1994,Historical Emissions,9.63,8.652,9.175,Little Dry,sfcWind
+1995,Historical Emissions,10.003,8.918,9.333,Little Dry,sfcWind
+1996,Historical Emissions,9.837,9.061,9.565,Little Dry,sfcWind
+1997,Historical Emissions,9.774,8.736,9.017,Little Dry,sfcWind
+1998,Historical Emissions,9.697,8.838,9.276,Little Dry,sfcWind
+1999,Historical Emissions,9.476,8.886,9.179,Little Dry,sfcWind
+2000,Historical Emissions,9.365,8.938,9.196,Little Dry,sfcWind
+2001,Historical Emissions,9.45,8.732,9.146,Little Dry,sfcWind
+2002,Historical Emissions,9.775,8.719,9.085,Little Dry,sfcWind
+2003,Historical Emissions,9.407,8.84,9.135,Little Dry,sfcWind
+2004,Historical Emissions,9.619,9.066,9.415,Little Dry,sfcWind
+2005,Historical Emissions,9.85,8.652,9.22,Little Dry,sfcWind
+2006,Historical Emissions,9.566,8.768,9.33,Little Dry,sfcWind
+2007,Historical Emissions,9.581,8.691,9.154,Little Dry,sfcWind
+2008,Historical Emissions,9.437,8.718,9.093,Little Dry,sfcWind
+2009,Historical Emissions,9.426,8.751,9.251,Little Dry,sfcWind
+2010,Historical Emissions,9.547,8.715,9.242,Little Dry,sfcWind
+2011,Historical Emissions,9.571,8.915,9.139,Little Dry,sfcWind
+2012,Historical Emissions,9.577,8.879,9.194,Little Dry,sfcWind
+2013,Historical Emissions,9.547,8.804,9.032,Little Dry,sfcWind
+2014,Historical Emissions,9.714,9.024,9.179,Little Dry,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",9.751,8.428,9.117,Little Dry,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",9.72,8.331,9.344,Little Dry,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",9.764,8.483,8.962,Little Dry,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",9.52,8.782,9.232,Little Dry,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",9.442,8.412,9.114,Little Dry,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",9.602,8.5,9.124,Little Dry,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",9.774,8.729,9.186,Little Dry,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",9.965,8.627,8.946,Little Dry,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",9.57,8.026,9.199,Little Dry,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",9.552,8.635,9.108,Little Dry,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",9.478,8.197,8.791,Little Dry,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",9.492,8.651,9.213,Little Dry,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",9.607,8.515,9.052,Little Dry,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",9.39,7.949,9.059,Little Dry,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",9.292,8.101,8.965,Little Dry,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",9.361,8.616,8.96,Little Dry,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",9.162,8.115,8.846,Little Dry,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",9.622,8.659,9.409,Little Dry,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",9.519,8.04,8.835,Little Dry,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",9.289,8.471,9.176,Little Dry,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",9.347,8.292,9.154,Little Dry,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",9.65,8.531,9.344,Little Dry,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",9.449,8.62,9.17,Little Dry,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",9.416,8.393,8.96,Little Dry,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",9.453,8.625,8.939,Little Dry,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",9.421,8.826,9.209,Little Dry,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",9.672,8.587,9.167,Little Dry,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",9.288,8.466,9.064,Little Dry,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",9.534,8.709,9.18,Little Dry,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",9.336,8.592,9.137,Little Dry,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",9.23,8.502,8.894,Little Dry,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",9.487,8.566,9.061,Little Dry,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",9.388,8.604,9.112,Little Dry,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",9.486,8.693,9.128,Little Dry,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",9.337,8.633,8.976,Little Dry,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",9.568,8.692,9.188,Little Dry,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",9.67,8.685,8.982,Little Dry,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",9.272,8.237,9.015,Little Dry,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",9.502,8.697,9.114,Little Dry,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",9.572,8.667,9.152,Little Dry,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",9.444,8.694,9.168,Little Dry,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",9.691,8.447,8.95,Little Dry,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",9.432,8.421,8.982,Little Dry,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",9.513,8.703,9.257,Little Dry,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",9.696,8.462,9.201,Little Dry,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",9.43,8.778,9.121,Little Dry,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",9.01,8.338,8.699,Little Dry,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",9.396,8.602,8.838,Little Dry,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",9.573,8.475,9.112,Little Dry,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",9.362,8.624,9.23,Little Dry,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",9.439,8.459,8.681,Little Dry,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",9.537,8.337,9.061,Little Dry,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",9.39,8.481,9.071,Little Dry,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",9.406,8.284,8.83,Little Dry,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",9.455,8.327,9.058,Little Dry,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",9.201,8.624,9.025,Little Dry,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",9.252,8.477,8.879,Little Dry,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",9.306,8.211,9.186,Little Dry,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",9.32,8.505,9.112,Little Dry,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",9.213,8.31,8.848,Little Dry,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",9.21,8.457,9.022,Little Dry,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",9.757,8.664,9.217,Little Dry,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",9.473,8.671,9.052,Little Dry,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",9.298,8.557,8.897,Little Dry,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",9.633,8.662,9.16,Little Dry,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",9.38,8.746,9.198,Little Dry,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",9.443,8.527,9.216,Little Dry,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",9.542,8.42,9.049,Little Dry,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",9.328,8.317,9.176,Little Dry,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",9.562,8.545,9.047,Little Dry,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",9.402,8.871,9.18,Little Dry,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",9.551,8.488,9.218,Little Dry,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",9.56,8.513,9.285,Little Dry,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",9.423,8.506,9.114,Little Dry,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",9.419,8.282,8.62,Little Dry,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",9.156,8.416,8.978,Little Dry,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",9.5,8.485,9.107,Little Dry,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",9.211,8.148,9.005,Little Dry,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",9.317,8.345,8.993,Little Dry,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",9.799,8.585,9.136,Little Dry,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",9.568,8.631,9.206,Little Dry,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",9.451,8.553,9.094,Little Dry,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",9.389,8.6,9.15,Little Dry,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",9.673,8.362,9.206,Little Dry,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",9.212,8.495,8.944,Little Dry,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",9.525,9.028,9.307,Little Dry,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",9.155,8.36,8.918,Little Dry,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",9.229,8.479,8.918,Little Dry,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",9.406,8.389,8.836,Little Dry,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",9.682,8.532,9.119,Little Dry,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",9.315,8.482,8.728,Little Dry,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",9.825,8.653,9.181,Little Dry,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",9.579,8.678,9.353,Little Dry,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",9.418,8.491,9.124,Little Dry,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",9.486,8.724,9.155,Little Dry,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",9.219,8.637,8.983,Little Dry,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",9.351,8.594,9.127,Little Dry,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",9.46,8.781,9.319,Little Dry,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",9.478,8.427,8.953,Little Dry,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",9.282,8.673,9.062,Little Dry,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",9.518,8.229,9.023,Little Dry,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",9.61,8.638,9.162,Little Dry,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",9.474,8.621,8.891,Little Dry,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",9.402,8.34,8.853,Little Dry,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",9.232,8.67,9.086,Little Dry,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",9.359,8.486,8.918,Little Dry,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",9.047,8.474,8.857,Little Dry,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",9.524,8.35,9.057,Little Dry,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",9.537,8.722,9.087,Little Dry,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",9.282,8.596,9,Little Dry,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",9.57,8.441,9.396,Little Dry,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",9.424,8.64,9.085,Little Dry,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",9.359,8.532,9.167,Little Dry,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",9.502,8.543,9.224,Little Dry,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",9.456,8.376,9.317,Little Dry,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",9.457,8.675,8.996,Little Dry,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",9.341,8.249,9.143,Little Dry,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",9.616,8.613,9.263,Little Dry,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",9.526,8.841,9.142,Little Dry,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",9.303,8.323,8.954,Little Dry,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",9.01,8.442,8.718,Little Dry,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",9.566,8.436,9.228,Little Dry,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",9.515,8.329,9.004,Little Dry,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",9.095,8.296,8.882,Little Dry,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",9.421,8.331,9.036,Little Dry,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",9.474,8.644,9.237,Little Dry,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",9.241,8.507,9.08,Little Dry,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",9.614,7.638,9.176,Little Dry,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",9.512,7.878,8.995,Little Dry,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",9.392,8.248,9.027,Little Dry,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",9.215,8.351,8.962,Little Dry,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",9.754,8.141,9.318,Little Dry,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",9.333,8.486,9.065,Little Dry,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",9.309,7.999,8.914,Little Dry,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",9.52,8.628,9.156,Little Dry,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",9.529,8.49,9.066,Little Dry,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",9.677,8.519,9.189,Little Dry,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",9.984,8.624,9.151,Little Dry,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",9.289,8.662,8.988,Little Dry,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",9.552,8.658,8.754,Little Dry,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",9.163,8.334,8.898,Little Dry,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",9.682,8.597,9.061,Little Dry,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",9.308,8.653,9.063,Little Dry,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",9.405,8.217,8.812,Little Dry,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",9.229,8.549,9.062,Little Dry,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",10.116,8.552,9.128,Little Dry,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",9.24,8.467,8.756,Little Dry,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",9.753,8.62,9.244,Little Dry,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",9.458,8.199,8.877,Little Dry,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",9.423,8.497,9.14,Little Dry,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",9.329,8.484,8.892,Little Dry,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",9.381,8.032,8.956,Little Dry,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",9.537,8.231,9.184,Little Dry,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",9.48,8.338,9.202,Little Dry,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",9.383,7.995,8.81,Little Dry,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",9.355,8.845,9.104,Little Dry,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",9.463,8.218,9.131,Little Dry,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",9.359,8.264,9.089,Little Dry,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",9.064,8.456,8.948,Little Dry,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",9.369,8.392,8.962,Little Dry,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",9.368,8.44,9.079,Little Dry,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",9.606,8.426,9.147,Little Dry,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",9.427,8.658,9.054,Little Dry,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",9.404,8.364,8.858,Little Dry,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",9.438,8.829,9.136,Little Dry,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",9.643,8.487,9.155,Little Dry,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",9.328,8.606,8.907,Little Dry,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",9.301,8.372,8.518,Little Dry,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",9.258,8.421,9.09,Little Dry,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",9.77,8.44,9.23,Little Dry,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",9.216,8.152,8.858,Little Dry,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",9.319,8.374,8.85,Little Dry,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",9.583,8.44,9.308,Little Dry,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",9.717,8.37,8.875,Little Dry,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",9.336,8.058,8.796,Little Dry,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",9.257,8.476,8.874,Little Dry,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",9.574,8.642,9.242,Little Dry,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",9.578,8.389,9.047,Little Dry,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",9.448,8.579,9.114,Little Dry,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",9.233,8.141,9.086,Little Dry,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",9.465,8.475,9.014,Little Dry,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",9.551,8.177,9.013,Little Dry,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",9.306,8.575,9.039,Little Dry,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",9.712,8.179,8.951,Little Dry,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",9.481,8.391,9.323,Little Dry,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",9.697,8.568,9.285,Little Dry,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",9.289,8.206,8.764,Little Dry,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",9.449,8.456,9.022,Little Dry,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",9.641,8.556,9.296,Little Dry,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",9.412,8.721,9.112,Little Dry,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",9.169,8.489,8.902,Little Dry,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",9.603,8.392,8.991,Little Dry,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",9.368,8.613,9.049,Little Dry,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",9.435,8.567,9.101,Little Dry,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",9.569,8.391,9.202,Little Dry,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",9.359,8.3,9.003,Little Dry,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",9.57,8.538,9.107,Little Dry,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",9.238,8.657,8.975,Little Dry,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",9.267,8.31,8.729,Little Dry,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",9.297,8.585,8.88,Little Dry,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",9.424,8.452,9.116,Little Dry,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",9.237,8.339,9.012,Little Dry,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",9.487,8.524,9.27,Little Dry,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",9.365,8.059,8.779,Little Dry,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",9.451,8.346,8.936,Little Dry,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",9.49,8.358,8.988,Little Dry,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",9.753,8.369,8.752,Little Dry,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",9.269,8.565,9.093,Little Dry,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",9.302,8.308,8.902,Little Dry,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",9.445,8.647,9.25,Little Dry,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",9.639,8.508,8.864,Little Dry,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",9.228,8.042,8.843,Little Dry,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",9.427,8.832,9.156,Little Dry,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",9.39,8.737,9.233,Little Dry,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",9.462,8.534,9.085,Little Dry,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",9.402,8.268,9.08,Little Dry,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",9.485,8.489,8.965,Little Dry,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",9.541,8.466,9.05,Little Dry,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",9.54,8.096,8.904,Little Dry,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",9.398,8.19,8.906,Little Dry,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",9.226,8.278,8.916,Little Dry,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",9.579,8.582,9.038,Little Dry,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",9.686,8.516,8.871,Little Dry,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",9.41,8.345,8.937,Little Dry,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",9.731,8.471,9.074,Little Dry,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",9.641,8.645,9.175,Little Dry,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",9.865,8.336,9.014,Little Dry,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",9.635,8.536,9.103,Little Dry,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",9.456,8.351,9.193,Little Dry,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",9.734,8.347,9.168,Little Dry,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",9.43,8.643,9.032,Little Dry,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",9.505,8.426,8.941,Little Dry,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",9.501,8.491,9.121,Little Dry,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",9.335,8.378,8.973,Little Dry,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",9.412,8.548,9.182,Little Dry,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",9.237,8.491,8.788,Little Dry,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",9.25,8.319,9.066,Little Dry,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",9.616,8.446,9.238,Little Dry,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",9.016,8.431,8.683,Little Dry,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",9.676,7.982,8.827,Little Dry,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",9.437,8.503,9.049,Little Dry,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",9.586,8.773,9.461,Little Dry,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",9.671,8.269,9.071,Little Dry,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",9.204,8.123,8.723,Little Dry,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",9.956,8.61,9.036,Little Dry,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",9.461,8.432,9.118,Little Dry,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",9.471,8.479,9.131,Little Dry,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",9.827,8.371,9.069,Little Dry,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",9.439,8.352,9.097,Little Dry,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",9.365,8.602,8.902,Little Dry,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",9.622,8.334,8.916,Little Dry,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",9.722,8.708,9.089,Little Dry,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",9.767,8.487,9.054,Little Dry,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",9.608,8.707,9.315,Little Dry,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",9.591,8.271,8.935,Little Dry,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",9.487,8.381,8.966,Little Dry,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",9.686,8.395,9.225,Little Dry,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",9.438,8.306,8.929,Little Dry,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",9.587,8.023,8.892,Little Dry,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",9.258,8.623,8.846,Little Dry,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",9.289,8.599,8.993,Little Dry,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",9.404,8.53,8.942,Little Dry,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",9.125,8.209,8.639,Little Dry,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",9.44,8.334,9.211,Little Dry,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",9.526,8.568,9.083,Little Dry,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",9.731,8.645,9.352,Little Dry,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",9.392,8.442,8.948,Little Dry,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",9.566,8.036,8.879,Little Dry,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",9.589,8.31,9.084,Little Dry,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",9.305,8.111,9.018,Little Dry,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",9.18,8.432,8.798,Little Dry,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",9.284,8.228,8.899,Little Dry,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",9.98,8.437,9.255,Little Dry,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",9.828,8.481,8.89,Little Dry,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",9.27,8.209,8.589,Little Dry,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",9.21,8.497,8.859,Little Dry,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",9.794,8.477,9.121,Little Dry,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",9.857,8.715,9.473,Little Dry,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",9.341,8.203,9.005,Little Dry,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",9.482,8.394,9.049,Little Dry,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",9.935,8.478,9.003,Little Dry,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",9.147,8.576,8.968,Little Dry,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",9.434,8.341,8.8,Little Dry,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",9.352,8.375,8.848,Little Dry,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",9.418,8.43,8.833,Little Dry,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",9.558,8.727,9.28,Little Dry,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",9.201,8.271,9.024,Little Dry,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",9.616,8.013,8.93,Little Dry,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",9.477,8.305,8.982,Little Dry,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",10.268,8.24,9.039,Little Dry,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",9.524,8.133,8.943,Little Dry,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",9.291,8.429,8.96,Little Dry,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",9.392,8.285,9.131,Little Dry,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",9.625,8.499,9.225,Little Dry,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",9.458,8.085,9.065,Little Dry,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",9.401,8.341,8.85,Little Dry,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",9.427,8.36,8.971,Little Dry,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",9.406,8.35,9.059,Little Dry,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",9.619,8.359,9.079,Little Dry,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",9.556,8.29,8.893,Little Dry,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",9.278,8.487,8.884,Little Dry,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",9.414,8.503,9.144,Little Dry,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",9.383,8.552,9.095,Little Dry,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",9.556,8.34,8.627,Little Dry,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",9.422,8.25,9.149,Little Dry,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",9.803,8.706,9.057,Little Dry,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",9.413,8.305,8.891,Little Dry,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",9.282,8.096,8.889,Little Dry,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",9.482,8.589,9.368,Little Dry,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",9.373,8.367,9.002,Little Dry,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",9.526,8.442,8.919,Little Dry,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",9.823,8.5,8.906,Little Dry,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",9.5,8.578,9.164,Little Dry,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",9.471,8.272,8.908,Little Dry,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",9.274,8.173,8.513,Little Dry,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",9.598,8.407,8.914,Little Dry,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",9.884,8.492,8.975,Little Dry,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",9.711,8.451,9.118,Little Dry,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",9.272,8.179,8.92,Little Dry,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",9.589,8.469,8.789,Little Dry,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",9.644,8.581,9.131,Little Dry,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",9.805,7.969,9.129,Little Dry,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",9.504,8.542,8.913,Little Dry,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",9.441,8.494,8.736,Little Dry,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",9.966,8.334,9.065,Little Dry,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",9.857,8.536,9.379,Little Dry,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",9.485,8.513,9.007,Little Dry,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",9.534,8.506,9.069,Little Dry,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",9.523,8.37,9.156,Little Dry,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",9.756,8.523,8.994,Little Dry,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",9.459,8.491,8.93,Little Dry,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",9.731,8.444,8.747,Little Dry,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",9.638,8.718,9.223,Little Dry,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",10.126,8.475,9.281,Little Dry,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",9.442,8.199,9.028,Little Dry,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",9.612,7.859,8.803,Little Dry,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",9.257,8.341,8.982,Little Dry,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",9.628,8.589,9.118,Little Dry,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",8.96,8.46,8.674,Little Dry,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",9.289,8.139,8.718,Little Dry,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",9.638,8.514,9.042,Little Dry,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",9.83,8.413,8.94,Little Dry,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",9.547,8.594,8.922,Little Dry,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",9.954,8.458,8.711,Little Dry,sfcWind

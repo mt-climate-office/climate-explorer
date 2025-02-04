@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,1.013,0.87,0.905,St. Marys,penman
+1951,Historical Emissions,0.974,0.855,0.937,St. Marys,penman
+1952,Historical Emissions,0.954,0.847,0.903,St. Marys,penman
+1953,Historical Emissions,0.951,0.874,0.894,St. Marys,penman
+1954,Historical Emissions,0.971,0.83,0.879,St. Marys,penman
+1955,Historical Emissions,0.982,0.855,0.904,St. Marys,penman
+1956,Historical Emissions,0.998,0.862,0.896,St. Marys,penman
+1957,Historical Emissions,1.001,0.839,0.881,St. Marys,penman
+1958,Historical Emissions,0.944,0.818,0.887,St. Marys,penman
+1959,Historical Emissions,0.929,0.82,0.88,St. Marys,penman
+1960,Historical Emissions,0.936,0.853,0.879,St. Marys,penman
+1961,Historical Emissions,0.957,0.846,0.9,St. Marys,penman
+1962,Historical Emissions,0.936,0.805,0.901,St. Marys,penman
+1963,Historical Emissions,0.908,0.824,0.877,St. Marys,penman
+1964,Historical Emissions,0.963,0.843,0.92,St. Marys,penman
+1965,Historical Emissions,0.956,0.841,0.896,St. Marys,penman
+1966,Historical Emissions,0.972,0.831,0.887,St. Marys,penman
+1967,Historical Emissions,0.953,0.857,0.887,St. Marys,penman
+1968,Historical Emissions,0.915,0.817,0.87,St. Marys,penman
+1969,Historical Emissions,0.941,0.834,0.902,St. Marys,penman
+1970,Historical Emissions,0.922,0.845,0.869,St. Marys,penman
+1971,Historical Emissions,1.025,0.837,0.924,St. Marys,penman
+1972,Historical Emissions,0.931,0.839,0.906,St. Marys,penman
+1973,Historical Emissions,0.977,0.841,0.888,St. Marys,penman
+1974,Historical Emissions,0.96,0.823,0.9,St. Marys,penman
+1975,Historical Emissions,0.946,0.866,0.898,St. Marys,penman
+1976,Historical Emissions,0.942,0.864,0.905,St. Marys,penman
+1977,Historical Emissions,0.985,0.845,0.874,St. Marys,penman
+1978,Historical Emissions,0.947,0.861,0.901,St. Marys,penman
+1979,Historical Emissions,0.955,0.824,0.931,St. Marys,penman
+1980,Historical Emissions,0.97,0.83,0.93,St. Marys,penman
+1981,Historical Emissions,0.959,0.845,0.926,St. Marys,penman
+1982,Historical Emissions,0.943,0.873,0.906,St. Marys,penman
+1983,Historical Emissions,0.931,0.825,0.894,St. Marys,penman
+1984,Historical Emissions,0.952,0.832,0.888,St. Marys,penman
+1985,Historical Emissions,0.948,0.859,0.91,St. Marys,penman
+1986,Historical Emissions,0.922,0.828,0.897,St. Marys,penman
+1987,Historical Emissions,0.997,0.83,0.882,St. Marys,penman
+1988,Historical Emissions,0.972,0.859,0.873,St. Marys,penman
+1989,Historical Emissions,0.99,0.875,0.926,St. Marys,penman
+1990,Historical Emissions,1.033,0.866,0.941,St. Marys,penman
+1991,Historical Emissions,1.014,0.792,0.918,St. Marys,penman
+1992,Historical Emissions,0.984,0.847,0.866,St. Marys,penman
+1993,Historical Emissions,0.943,0.881,0.897,St. Marys,penman
+1994,Historical Emissions,1.019,0.85,0.884,St. Marys,penman
+1995,Historical Emissions,0.988,0.89,0.918,St. Marys,penman
+1996,Historical Emissions,1.066,0.934,0.956,St. Marys,penman
+1997,Historical Emissions,0.979,0.858,0.928,St. Marys,penman
+1998,Historical Emissions,0.96,0.885,0.937,St. Marys,penman
+1999,Historical Emissions,0.951,0.856,0.923,St. Marys,penman
+2000,Historical Emissions,1.019,0.859,0.927,St. Marys,penman
+2001,Historical Emissions,0.967,0.897,0.951,St. Marys,penman
+2002,Historical Emissions,1.03,0.866,0.93,St. Marys,penman
+2003,Historical Emissions,1.043,0.896,0.966,St. Marys,penman
+2004,Historical Emissions,1.042,0.922,0.972,St. Marys,penman
+2005,Historical Emissions,1.027,0.906,1.016,St. Marys,penman
+2006,Historical Emissions,1.001,0.896,0.952,St. Marys,penman
+2007,Historical Emissions,0.994,0.912,0.957,St. Marys,penman
+2008,Historical Emissions,1.031,0.916,0.946,St. Marys,penman
+2009,Historical Emissions,0.996,0.886,0.942,St. Marys,penman
+2010,Historical Emissions,1.009,0.898,0.952,St. Marys,penman
+2011,Historical Emissions,0.978,0.892,0.947,St. Marys,penman
+2012,Historical Emissions,1.046,0.947,0.98,St. Marys,penman
+2013,Historical Emissions,1.034,0.945,0.995,St. Marys,penman
+2014,Historical Emissions,1.031,0.914,0.944,St. Marys,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",1.05,0.93,0.992,St. Marys,penman
+2015,"Middle of the Road
+(SSP2-4.5)",1.035,0.877,0.978,St. Marys,penman
+2015,"High Emissions
+(SSP3-7.0)",1.009,0.916,0.965,St. Marys,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",1.051,0.924,0.962,St. Marys,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",1.025,0.942,0.986,St. Marys,penman
+2016,"Middle of the Road
+(SSP2-4.5)",1.02,0.914,0.957,St. Marys,penman
+2016,"High Emissions
+(SSP3-7.0)",1.078,0.924,1.001,St. Marys,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",1.018,0.903,0.939,St. Marys,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",1.03,0.914,0.937,St. Marys,penman
+2017,"Middle of the Road
+(SSP2-4.5)",1.025,0.914,0.995,St. Marys,penman
+2017,"High Emissions
+(SSP3-7.0)",1.01,0.911,0.969,St. Marys,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",1.046,0.921,0.999,St. Marys,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",1.032,0.911,0.956,St. Marys,penman
+2018,"Middle of the Road
+(SSP2-4.5)",1.011,0.902,0.962,St. Marys,penman
+2018,"High Emissions
+(SSP3-7.0)",0.994,0.861,0.945,St. Marys,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",1.042,0.877,0.951,St. Marys,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",1.041,0.968,1.002,St. Marys,penman
+2019,"Middle of the Road
+(SSP2-4.5)",1.035,0.891,0.973,St. Marys,penman
+2019,"High Emissions
+(SSP3-7.0)",1.034,0.899,0.976,St. Marys,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",1.107,0.917,0.967,St. Marys,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",1.063,0.898,0.97,St. Marys,penman
+2020,"Middle of the Road
+(SSP2-4.5)",1.04,0.892,0.979,St. Marys,penman
+2020,"High Emissions
+(SSP3-7.0)",1.011,0.901,0.97,St. Marys,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",1.034,0.936,0.971,St. Marys,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",1.1,0.924,0.99,St. Marys,penman
+2021,"Middle of the Road
+(SSP2-4.5)",1.12,0.888,0.985,St. Marys,penman
+2021,"High Emissions
+(SSP3-7.0)",1.05,0.903,0.967,St. Marys,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",1.059,0.927,0.956,St. Marys,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",1.013,0.905,0.992,St. Marys,penman
+2022,"Middle of the Road
+(SSP2-4.5)",1.052,0.912,1.023,St. Marys,penman
+2022,"High Emissions
+(SSP3-7.0)",1.024,0.894,0.941,St. Marys,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",1.043,0.945,0.991,St. Marys,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",1.05,0.928,0.945,St. Marys,penman
+2023,"Middle of the Road
+(SSP2-4.5)",1.051,0.915,0.984,St. Marys,penman
+2023,"High Emissions
+(SSP3-7.0)",1.068,0.944,0.963,St. Marys,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",0.968,0.874,0.938,St. Marys,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",1.064,0.909,0.957,St. Marys,penman
+2024,"Middle of the Road
+(SSP2-4.5)",1.11,0.962,0.98,St. Marys,penman
+2024,"High Emissions
+(SSP3-7.0)",1.072,0.941,1.021,St. Marys,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",1.069,0.895,0.981,St. Marys,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",1.034,0.943,1.005,St. Marys,penman
+2025,"Middle of the Road
+(SSP2-4.5)",1.001,0.894,0.935,St. Marys,penman
+2025,"High Emissions
+(SSP3-7.0)",1.115,0.963,0.981,St. Marys,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",1.084,0.905,1.028,St. Marys,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",1.004,0.916,0.978,St. Marys,penman
+2026,"Middle of the Road
+(SSP2-4.5)",1.092,0.933,1.004,St. Marys,penman
+2026,"High Emissions
+(SSP3-7.0)",1.006,0.901,0.965,St. Marys,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",1.099,0.937,0.977,St. Marys,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",1.1,0.924,0.947,St. Marys,penman
+2027,"Middle of the Road
+(SSP2-4.5)",1.085,0.894,0.989,St. Marys,penman
+2027,"High Emissions
+(SSP3-7.0)",1.07,0.945,1.024,St. Marys,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",1.084,0.953,1.023,St. Marys,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",1.067,0.906,1.005,St. Marys,penman
+2028,"Middle of the Road
+(SSP2-4.5)",0.998,0.941,0.945,St. Marys,penman
+2028,"High Emissions
+(SSP3-7.0)",1.056,0.963,0.986,St. Marys,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",1.098,0.924,0.988,St. Marys,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",1.074,0.942,1.045,St. Marys,penman
+2029,"Middle of the Road
+(SSP2-4.5)",1.07,0.919,0.937,St. Marys,penman
+2029,"High Emissions
+(SSP3-7.0)",1.128,0.911,0.987,St. Marys,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",1.053,0.94,0.999,St. Marys,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",1.04,0.962,0.985,St. Marys,penman
+2030,"Middle of the Road
+(SSP2-4.5)",1.098,0.979,1.02,St. Marys,penman
+2030,"High Emissions
+(SSP3-7.0)",1.104,0.941,0.973,St. Marys,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",1.113,0.923,0.979,St. Marys,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",1.043,0.96,1.01,St. Marys,penman
+2031,"Middle of the Road
+(SSP2-4.5)",1.065,0.949,1.001,St. Marys,penman
+2031,"High Emissions
+(SSP3-7.0)",1.145,0.919,1.027,St. Marys,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",1.099,0.944,1.014,St. Marys,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",1.046,0.951,1.016,St. Marys,penman
+2032,"Middle of the Road
+(SSP2-4.5)",1.072,0.947,0.988,St. Marys,penman
+2032,"High Emissions
+(SSP3-7.0)",1.125,0.928,1.01,St. Marys,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",1.094,0.893,0.981,St. Marys,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",1.081,0.945,1.02,St. Marys,penman
+2033,"Middle of the Road
+(SSP2-4.5)",1.123,0.922,0.985,St. Marys,penman
+2033,"High Emissions
+(SSP3-7.0)",1.095,0.919,0.972,St. Marys,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",1.089,0.971,1.01,St. Marys,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",1.115,0.92,1.019,St. Marys,penman
+2034,"Middle of the Road
+(SSP2-4.5)",1.072,0.965,0.991,St. Marys,penman
+2034,"High Emissions
+(SSP3-7.0)",1.157,0.942,1.034,St. Marys,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",1.143,0.882,0.994,St. Marys,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",1.127,0.96,1.054,St. Marys,penman
+2035,"Middle of the Road
+(SSP2-4.5)",1.116,0.929,0.962,St. Marys,penman
+2035,"High Emissions
+(SSP3-7.0)",1.068,0.921,1.007,St. Marys,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",1.053,0.928,0.979,St. Marys,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",1.077,0.978,1.029,St. Marys,penman
+2036,"Middle of the Road
+(SSP2-4.5)",1.116,0.925,0.976,St. Marys,penman
+2036,"High Emissions
+(SSP3-7.0)",1.07,0.931,1.001,St. Marys,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",1.078,0.893,0.997,St. Marys,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",1.087,0.955,1.051,St. Marys,penman
+2037,"Middle of the Road
+(SSP2-4.5)",1.054,0.94,0.983,St. Marys,penman
+2037,"High Emissions
+(SSP3-7.0)",1.069,0.863,0.947,St. Marys,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",1.102,0.902,1.015,St. Marys,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",1.067,0.971,0.993,St. Marys,penman
+2038,"Middle of the Road
+(SSP2-4.5)",1.071,0.948,0.987,St. Marys,penman
+2038,"High Emissions
+(SSP3-7.0)",1.09,0.949,1.019,St. Marys,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",1.106,0.904,0.978,St. Marys,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",1.094,0.925,0.971,St. Marys,penman
+2039,"Middle of the Road
+(SSP2-4.5)",1.103,0.959,0.974,St. Marys,penman
+2039,"High Emissions
+(SSP3-7.0)",1.091,0.979,1.046,St. Marys,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",1.073,0.951,0.991,St. Marys,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",1.06,0.91,0.991,St. Marys,penman
+2040,"Middle of the Road
+(SSP2-4.5)",1.076,0.941,1.023,St. Marys,penman
+2040,"High Emissions
+(SSP3-7.0)",1.085,0.955,1.023,St. Marys,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",1.12,0.962,1.046,St. Marys,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",1.083,0.899,0.969,St. Marys,penman
+2041,"Middle of the Road
+(SSP2-4.5)",1.097,0.971,1.021,St. Marys,penman
+2041,"High Emissions
+(SSP3-7.0)",1.071,0.955,0.984,St. Marys,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",1.043,0.937,1.003,St. Marys,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",1.148,0.917,0.987,St. Marys,penman
+2042,"Middle of the Road
+(SSP2-4.5)",1.049,0.938,1.011,St. Marys,penman
+2042,"High Emissions
+(SSP3-7.0)",1.026,0.961,0.987,St. Marys,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",1.085,0.906,1.058,St. Marys,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",1.05,0.939,0.998,St. Marys,penman
+2043,"Middle of the Road
+(SSP2-4.5)",1.101,0.923,0.976,St. Marys,penman
+2043,"High Emissions
+(SSP3-7.0)",1.043,0.912,0.99,St. Marys,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",1.111,0.956,1.04,St. Marys,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",1.069,0.958,1.033,St. Marys,penman
+2044,"Middle of the Road
+(SSP2-4.5)",1.179,0.969,1.014,St. Marys,penman
+2044,"High Emissions
+(SSP3-7.0)",1.083,0.962,1.029,St. Marys,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",1.115,0.996,1.053,St. Marys,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",1.027,0.959,1.003,St. Marys,penman
+2045,"Middle of the Road
+(SSP2-4.5)",1.154,0.949,1.038,St. Marys,penman
+2045,"High Emissions
+(SSP3-7.0)",1.102,0.929,1.022,St. Marys,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",1.102,0.962,0.997,St. Marys,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",1.08,0.983,1.011,St. Marys,penman
+2046,"Middle of the Road
+(SSP2-4.5)",1.037,0.928,0.998,St. Marys,penman
+2046,"High Emissions
+(SSP3-7.0)",1.046,0.963,1.001,St. Marys,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",1.067,0.938,0.984,St. Marys,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",1.107,0.965,1.031,St. Marys,penman
+2047,"Middle of the Road
+(SSP2-4.5)",1.101,0.879,0.988,St. Marys,penman
+2047,"High Emissions
+(SSP3-7.0)",1.069,0.971,1.013,St. Marys,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",1.176,0.964,1.022,St. Marys,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",1.046,0.961,0.987,St. Marys,penman
+2048,"Middle of the Road
+(SSP2-4.5)",1.097,0.981,1.004,St. Marys,penman
+2048,"High Emissions
+(SSP3-7.0)",1.152,0.932,1.021,St. Marys,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",1.181,0.937,1.115,St. Marys,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",1.089,0.95,0.987,St. Marys,penman
+2049,"Middle of the Road
+(SSP2-4.5)",1.087,0.935,1.044,St. Marys,penman
+2049,"High Emissions
+(SSP3-7.0)",1.054,0.955,1.017,St. Marys,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",1.104,0.952,1.053,St. Marys,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",1.097,0.924,0.992,St. Marys,penman
+2050,"Middle of the Road
+(SSP2-4.5)",1.152,0.929,1.077,St. Marys,penman
+2050,"High Emissions
+(SSP3-7.0)",1.095,0.977,1.021,St. Marys,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",1.188,0.986,1.021,St. Marys,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",1.107,0.937,1,St. Marys,penman
+2051,"Middle of the Road
+(SSP2-4.5)",1.128,0.963,1.044,St. Marys,penman
+2051,"High Emissions
+(SSP3-7.0)",1.079,0.996,1.03,St. Marys,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",1.109,1.008,1.063,St. Marys,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",1.085,0.96,0.999,St. Marys,penman
+2052,"Middle of the Road
+(SSP2-4.5)",1.125,0.975,1.024,St. Marys,penman
+2052,"High Emissions
+(SSP3-7.0)",1.042,0.966,0.999,St. Marys,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",1.097,0.999,1.042,St. Marys,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",1.085,0.952,0.988,St. Marys,penman
+2053,"Middle of the Road
+(SSP2-4.5)",1.106,0.95,1.01,St. Marys,penman
+2053,"High Emissions
+(SSP3-7.0)",1.154,1.016,1.089,St. Marys,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",1.192,0.989,1.041,St. Marys,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",1.091,1.007,1.028,St. Marys,penman
+2054,"Middle of the Road
+(SSP2-4.5)",1.096,0.931,1.034,St. Marys,penman
+2054,"High Emissions
+(SSP3-7.0)",1.112,0.958,1.007,St. Marys,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",1.14,0.998,1.049,St. Marys,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",1.073,0.999,1.061,St. Marys,penman
+2055,"Middle of the Road
+(SSP2-4.5)",1.105,0.964,1.033,St. Marys,penman
+2055,"High Emissions
+(SSP3-7.0)",1.106,0.996,1.021,St. Marys,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",1.153,1,1.064,St. Marys,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",1.105,0.967,1.023,St. Marys,penman
+2056,"Middle of the Road
+(SSP2-4.5)",1.084,0.984,1.033,St. Marys,penman
+2056,"High Emissions
+(SSP3-7.0)",1.1,0.928,1.013,St. Marys,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",1.113,1.018,1.057,St. Marys,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",1.031,0.881,0.987,St. Marys,penman
+2057,"Middle of the Road
+(SSP2-4.5)",1.089,1.032,1.063,St. Marys,penman
+2057,"High Emissions
+(SSP3-7.0)",1.094,0.937,1.027,St. Marys,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",1.146,0.967,1.035,St. Marys,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",1.082,0.927,1.008,St. Marys,penman
+2058,"Middle of the Road
+(SSP2-4.5)",1.171,0.995,1.066,St. Marys,penman
+2058,"High Emissions
+(SSP3-7.0)",1.107,0.951,1.024,St. Marys,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",1.111,0.96,1.021,St. Marys,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",1.138,0.969,0.993,St. Marys,penman
+2059,"Middle of the Road
+(SSP2-4.5)",1.225,0.967,1.014,St. Marys,penman
+2059,"High Emissions
+(SSP3-7.0)",1.178,0.992,1.059,St. Marys,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",1.148,1.015,1.104,St. Marys,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",1.105,0.966,0.995,St. Marys,penman
+2060,"Middle of the Road
+(SSP2-4.5)",1.175,0.949,1.021,St. Marys,penman
+2060,"High Emissions
+(SSP3-7.0)",1.094,0.941,1.04,St. Marys,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",1.13,0.985,1.051,St. Marys,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",1.132,0.939,1.013,St. Marys,penman
+2061,"Middle of the Road
+(SSP2-4.5)",1.086,0.991,1.026,St. Marys,penman
+2061,"High Emissions
+(SSP3-7.0)",1.143,0.982,1.095,St. Marys,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",1.232,1.014,1.103,St. Marys,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",1.119,0.937,1.021,St. Marys,penman
+2062,"Middle of the Road
+(SSP2-4.5)",1.085,0.975,1.028,St. Marys,penman
+2062,"High Emissions
+(SSP3-7.0)",1.126,0.969,1.056,St. Marys,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",1.157,1.018,1.077,St. Marys,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",1.092,0.957,1.027,St. Marys,penman
+2063,"Middle of the Road
+(SSP2-4.5)",1.103,0.932,1,St. Marys,penman
+2063,"High Emissions
+(SSP3-7.0)",1.134,1.018,1.039,St. Marys,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",1.181,1.038,1.109,St. Marys,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",1.16,0.928,1.023,St. Marys,penman
+2064,"Middle of the Road
+(SSP2-4.5)",1.053,0.93,1.021,St. Marys,penman
+2064,"High Emissions
+(SSP3-7.0)",1.169,1.006,1.021,St. Marys,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",1.144,1.048,1.082,St. Marys,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",1.135,0.904,1.002,St. Marys,penman
+2065,"Middle of the Road
+(SSP2-4.5)",1.089,0.955,1.024,St. Marys,penman
+2065,"High Emissions
+(SSP3-7.0)",1.111,0.985,1.088,St. Marys,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",1.204,1.008,1.096,St. Marys,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",1.14,0.964,1.049,St. Marys,penman
+2066,"Middle of the Road
+(SSP2-4.5)",1.159,0.968,1.067,St. Marys,penman
+2066,"High Emissions
+(SSP3-7.0)",1.152,0.984,1.035,St. Marys,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",1.194,1.016,1.092,St. Marys,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",1.086,0.988,1.026,St. Marys,penman
+2067,"Middle of the Road
+(SSP2-4.5)",1.082,0.946,1.008,St. Marys,penman
+2067,"High Emissions
+(SSP3-7.0)",1.263,1.01,1.087,St. Marys,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",1.248,0.991,1.029,St. Marys,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",1.088,0.957,1.035,St. Marys,penman
+2068,"Middle of the Road
+(SSP2-4.5)",1.07,0.982,1.031,St. Marys,penman
+2068,"High Emissions
+(SSP3-7.0)",1.158,0.98,1.048,St. Marys,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",1.169,0.992,1.09,St. Marys,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",1.133,0.972,1.056,St. Marys,penman
+2069,"Middle of the Road
+(SSP2-4.5)",1.102,0.987,1.062,St. Marys,penman
+2069,"High Emissions
+(SSP3-7.0)",1.252,1.021,1.089,St. Marys,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",1.291,1.011,1.155,St. Marys,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",1.118,0.982,1.011,St. Marys,penman
+2070,"Middle of the Road
+(SSP2-4.5)",1.094,0.955,1.026,St. Marys,penman
+2070,"High Emissions
+(SSP3-7.0)",1.177,1.022,1.093,St. Marys,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",1.224,1.014,1.05,St. Marys,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",1.204,0.96,1.046,St. Marys,penman
+2071,"Middle of the Road
+(SSP2-4.5)",1.096,1.011,1.076,St. Marys,penman
+2071,"High Emissions
+(SSP3-7.0)",1.17,0.998,1.071,St. Marys,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",1.239,1.027,1.126,St. Marys,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",1.099,0.983,1.044,St. Marys,penman
+2072,"Middle of the Road
+(SSP2-4.5)",1.107,0.96,1.042,St. Marys,penman
+2072,"High Emissions
+(SSP3-7.0)",1.191,0.971,1.093,St. Marys,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",1.182,1.054,1.133,St. Marys,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",1.091,0.952,0.993,St. Marys,penman
+2073,"Middle of the Road
+(SSP2-4.5)",1.198,0.915,0.989,St. Marys,penman
+2073,"High Emissions
+(SSP3-7.0)",1.147,1.021,1.093,St. Marys,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",1.199,0.978,1.075,St. Marys,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",1.114,0.89,1.056,St. Marys,penman
+2074,"Middle of the Road
+(SSP2-4.5)",1.123,0.964,1.041,St. Marys,penman
+2074,"High Emissions
+(SSP3-7.0)",1.165,1.038,1.07,St. Marys,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",1.322,1.03,1.089,St. Marys,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",1.134,0.916,1.019,St. Marys,penman
+2075,"Middle of the Road
+(SSP2-4.5)",1.212,0.981,1.041,St. Marys,penman
+2075,"High Emissions
+(SSP3-7.0)",1.193,0.997,1.062,St. Marys,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",1.293,0.995,1.087,St. Marys,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",1.088,0.935,1.004,St. Marys,penman
+2076,"Middle of the Road
+(SSP2-4.5)",1.067,0.984,1,St. Marys,penman
+2076,"High Emissions
+(SSP3-7.0)",1.225,1.03,1.087,St. Marys,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",1.261,1.013,1.138,St. Marys,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",1.148,0.959,1.031,St. Marys,penman
+2077,"Middle of the Road
+(SSP2-4.5)",1.128,0.975,1.043,St. Marys,penman
+2077,"High Emissions
+(SSP3-7.0)",1.177,1.01,1.066,St. Marys,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",1.252,1.044,1.113,St. Marys,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",1.083,0.935,1.012,St. Marys,penman
+2078,"Middle of the Road
+(SSP2-4.5)",1.129,0.963,1.017,St. Marys,penman
+2078,"High Emissions
+(SSP3-7.0)",1.214,1.007,1.09,St. Marys,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",1.21,1.01,1.079,St. Marys,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",1.125,0.937,1.056,St. Marys,penman
+2079,"Middle of the Road
+(SSP2-4.5)",1.116,1.012,1.064,St. Marys,penman
+2079,"High Emissions
+(SSP3-7.0)",1.214,1.041,1.07,St. Marys,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",1.27,1.041,1.125,St. Marys,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",1.074,0.955,0.997,St. Marys,penman
+2080,"Middle of the Road
+(SSP2-4.5)",1.209,0.948,1.032,St. Marys,penman
+2080,"High Emissions
+(SSP3-7.0)",1.196,1.036,1.074,St. Marys,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",1.237,1.042,1.107,St. Marys,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",1.111,0.959,1.013,St. Marys,penman
+2081,"Middle of the Road
+(SSP2-4.5)",1.113,1.011,1.051,St. Marys,penman
+2081,"High Emissions
+(SSP3-7.0)",1.255,1.019,1.104,St. Marys,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",1.291,1.101,1.212,St. Marys,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",1.114,0.988,1.047,St. Marys,penman
+2082,"Middle of the Road
+(SSP2-4.5)",1.16,0.977,1.043,St. Marys,penman
+2082,"High Emissions
+(SSP3-7.0)",1.192,1.018,1.091,St. Marys,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",1.321,1.068,1.16,St. Marys,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",1.141,0.974,1.058,St. Marys,penman
+2083,"Middle of the Road
+(SSP2-4.5)",1.175,0.998,1.062,St. Marys,penman
+2083,"High Emissions
+(SSP3-7.0)",1.231,1,1.111,St. Marys,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",1.268,1.092,1.162,St. Marys,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",1.109,0.946,1.001,St. Marys,penman
+2084,"Middle of the Road
+(SSP2-4.5)",1.146,1.012,1.083,St. Marys,penman
+2084,"High Emissions
+(SSP3-7.0)",1.264,1.079,1.126,St. Marys,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",1.259,1.031,1.155,St. Marys,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",1.124,0.897,0.966,St. Marys,penman
+2085,"Middle of the Road
+(SSP2-4.5)",1.143,0.958,1.063,St. Marys,penman
+2085,"High Emissions
+(SSP3-7.0)",1.232,1.031,1.077,St. Marys,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",1.26,1.069,1.184,St. Marys,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",1.109,0.99,1.011,St. Marys,penman
+2086,"Middle of the Road
+(SSP2-4.5)",1.127,0.996,1.058,St. Marys,penman
+2086,"High Emissions
+(SSP3-7.0)",1.269,1.018,1.092,St. Marys,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",1.235,1.079,1.193,St. Marys,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",1.064,0.912,1.003,St. Marys,penman
+2087,"Middle of the Road
+(SSP2-4.5)",1.164,1.016,1.071,St. Marys,penman
+2087,"High Emissions
+(SSP3-7.0)",1.305,0.995,1.097,St. Marys,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",1.235,1.047,1.169,St. Marys,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",1.095,0.961,0.995,St. Marys,penman
+2088,"Middle of the Road
+(SSP2-4.5)",1.186,1.01,1.153,St. Marys,penman
+2088,"High Emissions
+(SSP3-7.0)",1.223,1.037,1.137,St. Marys,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",1.369,1.086,1.185,St. Marys,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",1.086,0.947,1.025,St. Marys,penman
+2089,"Middle of the Road
+(SSP2-4.5)",1.172,0.978,1.06,St. Marys,penman
+2089,"High Emissions
+(SSP3-7.0)",1.253,1.044,1.177,St. Marys,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",1.35,1.071,1.243,St. Marys,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",1.056,0.958,0.992,St. Marys,penman
+2090,"Middle of the Road
+(SSP2-4.5)",1.143,1.016,1.077,St. Marys,penman
+2090,"High Emissions
+(SSP3-7.0)",1.338,1.105,1.157,St. Marys,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",1.311,1.091,1.191,St. Marys,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",1.08,0.968,1.015,St. Marys,penman
+2091,"Middle of the Road
+(SSP2-4.5)",1.166,0.983,1.094,St. Marys,penman
+2091,"High Emissions
+(SSP3-7.0)",1.235,1.064,1.169,St. Marys,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",1.292,1.051,1.165,St. Marys,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",1.096,0.948,1.015,St. Marys,penman
+2092,"Middle of the Road
+(SSP2-4.5)",1.205,1.005,1.121,St. Marys,penman
+2092,"High Emissions
+(SSP3-7.0)",1.175,1.036,1.097,St. Marys,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",1.359,1.092,1.21,St. Marys,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",1.113,0.933,1.005,St. Marys,penman
+2093,"Middle of the Road
+(SSP2-4.5)",1.104,0.996,1.05,St. Marys,penman
+2093,"High Emissions
+(SSP3-7.0)",1.263,1.045,1.141,St. Marys,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",1.3,1.095,1.225,St. Marys,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",1.122,0.932,0.98,St. Marys,penman
+2094,"Middle of the Road
+(SSP2-4.5)",1.229,0.924,1.122,St. Marys,penman
+2094,"High Emissions
+(SSP3-7.0)",1.214,1.08,1.161,St. Marys,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",1.366,1.115,1.179,St. Marys,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",1.148,0.969,1.015,St. Marys,penman
+2095,"Middle of the Road
+(SSP2-4.5)",1.138,1.048,1.112,St. Marys,penman
+2095,"High Emissions
+(SSP3-7.0)",1.266,1.066,1.177,St. Marys,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",1.284,1.098,1.202,St. Marys,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",1.118,0.942,1.018,St. Marys,penman
+2096,"Middle of the Road
+(SSP2-4.5)",1.16,1.03,1.068,St. Marys,penman
+2096,"High Emissions
+(SSP3-7.0)",1.322,1.063,1.114,St. Marys,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",1.373,1.085,1.122,St. Marys,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",1.196,0.98,1.035,St. Marys,penman
+2097,"Middle of the Road
+(SSP2-4.5)",1.254,1.027,1.075,St. Marys,penman
+2097,"High Emissions
+(SSP3-7.0)",1.371,1.057,1.163,St. Marys,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",1.291,1.109,1.161,St. Marys,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",1.085,0.956,0.999,St. Marys,penman
+2098,"Middle of the Road
+(SSP2-4.5)",1.162,1.023,1.105,St. Marys,penman
+2098,"High Emissions
+(SSP3-7.0)",1.31,1.052,1.151,St. Marys,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",1.262,1.112,1.23,St. Marys,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",1.089,0.951,1.005,St. Marys,penman
+2099,"Middle of the Road
+(SSP2-4.5)",1.13,1.019,1.075,St. Marys,penman
+2099,"High Emissions
+(SSP3-7.0)",1.318,1.038,1.14,St. Marys,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",1.425,1.111,1.211,St. Marys,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",1.096,0.905,0.945,St. Marys,penman
+2100,"Middle of the Road
+(SSP2-4.5)",1.154,1,1.057,St. Marys,penman
+2100,"High Emissions
+(SSP3-7.0)",1.233,1.094,1.15,St. Marys,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",1.351,1.124,1.172,St. Marys,penman

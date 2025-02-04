@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1,0,0,Rock,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1,0,0,Rock,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.32,0,0.8,Rock,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1,0,0.4,Rock,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1,0,0,Rock,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1,0,0,Rock,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1,0,0.5,Rock,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1,0,0.2,Rock,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1,0,0,Rock,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1,0,0.3,Rock,con-wet

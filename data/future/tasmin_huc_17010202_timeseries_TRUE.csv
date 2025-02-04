@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,29.226,28.189,28.66,Flint-Rock,tasmin
+1951,Historical Emissions,29.792,27.312,28.664,Flint-Rock,tasmin
+1952,Historical Emissions,29.039,25.325,27.889,Flint-Rock,tasmin
+1953,Historical Emissions,28.789,26.589,27.989,Flint-Rock,tasmin
+1954,Historical Emissions,30.646,26.438,27.894,Flint-Rock,tasmin
+1955,Historical Emissions,29.397,27.069,28.573,Flint-Rock,tasmin
+1956,Historical Emissions,29.86,26.981,28.27,Flint-Rock,tasmin
+1957,Historical Emissions,30.42,27.205,28.995,Flint-Rock,tasmin
+1958,Historical Emissions,29.669,27.507,29.037,Flint-Rock,tasmin
+1959,Historical Emissions,28.592,26.599,27.253,Flint-Rock,tasmin
+1960,Historical Emissions,29.432,26.179,27.469,Flint-Rock,tasmin
+1961,Historical Emissions,29.405,27.358,28.647,Flint-Rock,tasmin
+1962,Historical Emissions,28.874,25.858,26.998,Flint-Rock,tasmin
+1963,Historical Emissions,28.64,27.075,27.811,Flint-Rock,tasmin
+1964,Historical Emissions,28.902,26.363,28.219,Flint-Rock,tasmin
+1965,Historical Emissions,28.822,27.11,28.109,Flint-Rock,tasmin
+1966,Historical Emissions,29.74,27.38,28.791,Flint-Rock,tasmin
+1967,Historical Emissions,28.792,25.675,28.12,Flint-Rock,tasmin
+1968,Historical Emissions,29.255,25.392,27.98,Flint-Rock,tasmin
+1969,Historical Emissions,29.17,26.551,27.754,Flint-Rock,tasmin
+1970,Historical Emissions,30.132,28.204,29.08,Flint-Rock,tasmin
+1971,Historical Emissions,30.457,26.925,29.426,Flint-Rock,tasmin
+1972,Historical Emissions,28.907,27.041,28.225,Flint-Rock,tasmin
+1973,Historical Emissions,29.886,26.69,28.463,Flint-Rock,tasmin
+1974,Historical Emissions,30.377,26.39,28.448,Flint-Rock,tasmin
+1975,Historical Emissions,29.548,26.402,29.131,Flint-Rock,tasmin
+1976,Historical Emissions,29.55,26.047,28.74,Flint-Rock,tasmin
+1977,Historical Emissions,30.456,28.412,29.479,Flint-Rock,tasmin
+1978,Historical Emissions,31.366,26.693,28.263,Flint-Rock,tasmin
+1979,Historical Emissions,30.548,28.294,29.15,Flint-Rock,tasmin
+1980,Historical Emissions,29.032,27.703,28.775,Flint-Rock,tasmin
+1981,Historical Emissions,30.256,27.901,29.157,Flint-Rock,tasmin
+1982,Historical Emissions,30.406,27.53,29.235,Flint-Rock,tasmin
+1983,Historical Emissions,30.867,27.201,28.019,Flint-Rock,tasmin
+1984,Historical Emissions,30.218,28.271,28.751,Flint-Rock,tasmin
+1985,Historical Emissions,30.426,28.021,28.643,Flint-Rock,tasmin
+1986,Historical Emissions,29.734,26.755,28.458,Flint-Rock,tasmin
+1987,Historical Emissions,30.524,27.037,28.166,Flint-Rock,tasmin
+1988,Historical Emissions,29.394,28.093,28.645,Flint-Rock,tasmin
+1989,Historical Emissions,29.477,27.763,28.781,Flint-Rock,tasmin
+1990,Historical Emissions,31.487,27.923,29.873,Flint-Rock,tasmin
+1991,Historical Emissions,29.803,27.812,28.455,Flint-Rock,tasmin
+1992,Historical Emissions,29.016,27.238,27.502,Flint-Rock,tasmin
+1993,Historical Emissions,30.618,26.626,28.96,Flint-Rock,tasmin
+1994,Historical Emissions,30.454,27.962,29.048,Flint-Rock,tasmin
+1995,Historical Emissions,29.323,27.411,27.867,Flint-Rock,tasmin
+1996,Historical Emissions,30.86,27.812,29.717,Flint-Rock,tasmin
+1997,Historical Emissions,30.246,27.667,28.943,Flint-Rock,tasmin
+1998,Historical Emissions,31.722,26.475,29.63,Flint-Rock,tasmin
+1999,Historical Emissions,31.438,27.349,29.207,Flint-Rock,tasmin
+2000,Historical Emissions,30.153,27.62,29.278,Flint-Rock,tasmin
+2001,Historical Emissions,31.43,28.406,29.275,Flint-Rock,tasmin
+2002,Historical Emissions,31.842,28.604,30.535,Flint-Rock,tasmin
+2003,Historical Emissions,31.906,29.037,30.047,Flint-Rock,tasmin
+2004,Historical Emissions,31.575,28.904,30.625,Flint-Rock,tasmin
+2005,Historical Emissions,32.904,28.665,30.945,Flint-Rock,tasmin
+2006,Historical Emissions,30.725,27.951,29.088,Flint-Rock,tasmin
+2007,Historical Emissions,31.341,27.844,30.612,Flint-Rock,tasmin
+2008,Historical Emissions,31.726,28.435,30.195,Flint-Rock,tasmin
+2009,Historical Emissions,30.479,29.582,30.114,Flint-Rock,tasmin
+2010,Historical Emissions,31.419,29.287,30.191,Flint-Rock,tasmin
+2011,Historical Emissions,32.743,29.689,30.293,Flint-Rock,tasmin
+2012,Historical Emissions,31.112,28.179,29.976,Flint-Rock,tasmin
+2013,Historical Emissions,32.64,28.585,30.129,Flint-Rock,tasmin
+2014,Historical Emissions,32.1,29.492,30.954,Flint-Rock,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",32.939,29.334,31.511,Flint-Rock,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",31.589,28.823,30.219,Flint-Rock,tasmin
+2015,"High Emissions
+(SSP3-7.0)",32.659,28.031,29.821,Flint-Rock,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",31.763,28.882,30.784,Flint-Rock,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",32.694,29.379,31.376,Flint-Rock,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",31.412,28.808,30.047,Flint-Rock,tasmin
+2016,"High Emissions
+(SSP3-7.0)",33.538,28.578,31.221,Flint-Rock,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",31.032,29.006,30.07,Flint-Rock,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",31.924,28.988,30.033,Flint-Rock,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",33.231,29.559,30.85,Flint-Rock,tasmin
+2017,"High Emissions
+(SSP3-7.0)",32.702,30.045,30.412,Flint-Rock,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",31.689,29.93,31.079,Flint-Rock,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",31.286,29.118,30.035,Flint-Rock,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",32.547,29.227,31.207,Flint-Rock,tasmin
+2018,"High Emissions
+(SSP3-7.0)",32.815,29.33,30.889,Flint-Rock,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",32.684,30.063,31.365,Flint-Rock,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",33.533,30.115,32.559,Flint-Rock,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",33.451,28.459,29.839,Flint-Rock,tasmin
+2019,"High Emissions
+(SSP3-7.0)",32.401,28.647,30.264,Flint-Rock,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",32.52,30.471,30.92,Flint-Rock,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",32.721,29.923,31.485,Flint-Rock,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",31.903,29.053,30.537,Flint-Rock,tasmin
+2020,"High Emissions
+(SSP3-7.0)",31.992,29.702,31.22,Flint-Rock,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",32.239,29.802,30.873,Flint-Rock,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",32.91,29.28,31.271,Flint-Rock,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",32.585,29.41,30.356,Flint-Rock,tasmin
+2021,"High Emissions
+(SSP3-7.0)",32.476,29.266,30.934,Flint-Rock,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",32.807,29.46,31.256,Flint-Rock,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",32.358,29.724,30.86,Flint-Rock,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",33.253,30.361,30.911,Flint-Rock,tasmin
+2022,"High Emissions
+(SSP3-7.0)",33.22,30.342,30.827,Flint-Rock,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",32.043,30.425,31.609,Flint-Rock,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",32.333,30.943,31.413,Flint-Rock,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",32.661,30.183,31.182,Flint-Rock,tasmin
+2023,"High Emissions
+(SSP3-7.0)",33.277,29.676,31.313,Flint-Rock,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",32.674,29.296,30.249,Flint-Rock,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",32.516,29.349,31.862,Flint-Rock,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",32.21,29.749,31.006,Flint-Rock,tasmin
+2024,"High Emissions
+(SSP3-7.0)",33.684,29.243,31.39,Flint-Rock,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",33.931,29.656,31.779,Flint-Rock,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",32.728,30.295,31.893,Flint-Rock,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",34.111,30.083,31.226,Flint-Rock,tasmin
+2025,"High Emissions
+(SSP3-7.0)",33.453,30.696,32.075,Flint-Rock,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",34.214,30.931,31.451,Flint-Rock,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",32.981,30.579,31.331,Flint-Rock,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",32.585,29.372,32.135,Flint-Rock,tasmin
+2026,"High Emissions
+(SSP3-7.0)",33.756,29.61,32.471,Flint-Rock,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",33.404,30.773,32.023,Flint-Rock,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",33.1,29.685,31.56,Flint-Rock,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",33.767,29.282,31.819,Flint-Rock,tasmin
+2027,"High Emissions
+(SSP3-7.0)",33.659,30.458,32.123,Flint-Rock,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",32.462,30.328,31.223,Flint-Rock,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",33.165,30.762,32.078,Flint-Rock,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",33.529,29.352,31.339,Flint-Rock,tasmin
+2028,"High Emissions
+(SSP3-7.0)",32.404,31.055,31.515,Flint-Rock,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",33.683,31.026,31.939,Flint-Rock,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",34.255,31.035,32.831,Flint-Rock,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",33.268,30.476,31.34,Flint-Rock,tasmin
+2029,"High Emissions
+(SSP3-7.0)",33.47,29.257,31.524,Flint-Rock,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",33.234,30.195,31.864,Flint-Rock,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",34.732,30.281,31.405,Flint-Rock,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",33.193,30.573,31.47,Flint-Rock,tasmin
+2030,"High Emissions
+(SSP3-7.0)",32.856,30.128,31.859,Flint-Rock,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",34.388,30.797,31.662,Flint-Rock,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",31.999,30.691,31.611,Flint-Rock,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",34.626,30.751,32.61,Flint-Rock,tasmin
+2031,"High Emissions
+(SSP3-7.0)",34.017,30.225,31.888,Flint-Rock,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",33.576,31.295,32.614,Flint-Rock,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",32.997,30.692,32.149,Flint-Rock,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",32.665,29.539,32.325,Flint-Rock,tasmin
+2032,"High Emissions
+(SSP3-7.0)",32.766,29.996,31.367,Flint-Rock,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",33.129,30.477,31.084,Flint-Rock,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",32.866,30.923,31.469,Flint-Rock,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",33.397,30.738,32.898,Flint-Rock,tasmin
+2033,"High Emissions
+(SSP3-7.0)",33.558,30.396,32.334,Flint-Rock,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",33.24,31.357,32.188,Flint-Rock,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",33.215,29.831,31.368,Flint-Rock,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",34.021,30.784,32.017,Flint-Rock,tasmin
+2034,"High Emissions
+(SSP3-7.0)",33.594,31.241,32.133,Flint-Rock,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",33.647,30.275,31.961,Flint-Rock,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",33.267,29.734,31.881,Flint-Rock,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",33.297,30.11,31.993,Flint-Rock,tasmin
+2035,"High Emissions
+(SSP3-7.0)",33.154,30.956,31.824,Flint-Rock,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",33.748,30.134,32.618,Flint-Rock,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",34.07,31.751,32.538,Flint-Rock,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",32.808,30.509,31.855,Flint-Rock,tasmin
+2036,"High Emissions
+(SSP3-7.0)",34.142,30.174,31.34,Flint-Rock,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",34.773,30.655,33.219,Flint-Rock,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",34.179,32.232,33.07,Flint-Rock,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",34.266,29.287,32.256,Flint-Rock,tasmin
+2037,"High Emissions
+(SSP3-7.0)",33.444,30.072,31.875,Flint-Rock,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",33.758,31.272,32.581,Flint-Rock,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",34.154,31.296,32.504,Flint-Rock,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",32.909,29.999,32.259,Flint-Rock,tasmin
+2038,"High Emissions
+(SSP3-7.0)",33.96,31.001,33.052,Flint-Rock,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",34.26,31.563,32.94,Flint-Rock,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",34.244,30.923,32.19,Flint-Rock,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",33.2,31.119,32.553,Flint-Rock,tasmin
+2039,"High Emissions
+(SSP3-7.0)",34.696,32,32.723,Flint-Rock,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",35.201,30.485,33.081,Flint-Rock,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",33.135,30.664,32.081,Flint-Rock,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",33.296,31.077,32.056,Flint-Rock,tasmin
+2040,"High Emissions
+(SSP3-7.0)",34.295,31.642,33.096,Flint-Rock,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",36.01,32.239,34.005,Flint-Rock,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",34.201,30.438,31.328,Flint-Rock,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",33.571,31.295,32.547,Flint-Rock,tasmin
+2041,"High Emissions
+(SSP3-7.0)",34.032,30.978,32.273,Flint-Rock,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",34.422,31.853,33.576,Flint-Rock,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",34.514,31.923,32.8,Flint-Rock,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",33.773,29.778,32.238,Flint-Rock,tasmin
+2042,"High Emissions
+(SSP3-7.0)",34.055,31.271,32.84,Flint-Rock,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",34.349,32.106,33.887,Flint-Rock,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",34.233,31.167,32.762,Flint-Rock,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",34.301,30.836,32.121,Flint-Rock,tasmin
+2043,"High Emissions
+(SSP3-7.0)",33.251,31.563,32.839,Flint-Rock,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",34.106,32.236,33.359,Flint-Rock,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",34.539,31.7,32.516,Flint-Rock,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",34.98,31.174,33.038,Flint-Rock,tasmin
+2044,"High Emissions
+(SSP3-7.0)",34.637,31.395,33.03,Flint-Rock,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",36.39,32.053,33.122,Flint-Rock,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",33.847,31.805,33.035,Flint-Rock,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",35.825,30.81,32.777,Flint-Rock,tasmin
+2045,"High Emissions
+(SSP3-7.0)",35.247,31.643,32.954,Flint-Rock,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",34.575,31.695,33.353,Flint-Rock,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",34.869,29.202,31.835,Flint-Rock,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",34.718,31.056,32.534,Flint-Rock,tasmin
+2046,"High Emissions
+(SSP3-7.0)",34.257,33.134,33.473,Flint-Rock,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",35.317,30.663,33.505,Flint-Rock,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",34.443,31.56,32.707,Flint-Rock,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",34.42,29.199,33.278,Flint-Rock,tasmin
+2047,"High Emissions
+(SSP3-7.0)",34.238,31.355,32.332,Flint-Rock,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",36.007,31.588,33.631,Flint-Rock,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",34.403,30.67,32.475,Flint-Rock,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",35.968,30.643,33.943,Flint-Rock,tasmin
+2048,"High Emissions
+(SSP3-7.0)",34.863,31.451,34.038,Flint-Rock,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",35.726,33.119,34.266,Flint-Rock,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",34.315,30.25,31.57,Flint-Rock,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",35.005,31.982,32.805,Flint-Rock,tasmin
+2049,"High Emissions
+(SSP3-7.0)",34.915,32.079,34.196,Flint-Rock,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",35.39,32.316,33.382,Flint-Rock,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",33.937,29.758,33.251,Flint-Rock,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",35.073,31.178,33.897,Flint-Rock,tasmin
+2050,"High Emissions
+(SSP3-7.0)",35.548,32.092,33.985,Flint-Rock,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",35.687,32.531,34.207,Flint-Rock,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",34.437,30.835,33.207,Flint-Rock,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",34.406,32.187,33.4,Flint-Rock,tasmin
+2051,"High Emissions
+(SSP3-7.0)",35.502,32.345,34.253,Flint-Rock,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",35.308,32.114,33.501,Flint-Rock,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",34.018,31.923,33.717,Flint-Rock,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",34.043,32,32.885,Flint-Rock,tasmin
+2052,"High Emissions
+(SSP3-7.0)",35.094,32.121,34.053,Flint-Rock,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",35.338,32.956,33.517,Flint-Rock,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",33.961,30.489,32.415,Flint-Rock,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",34.12,31.905,33.15,Flint-Rock,tasmin
+2053,"High Emissions
+(SSP3-7.0)",36.083,32.439,34.701,Flint-Rock,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",35.954,31.984,33.55,Flint-Rock,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",33.908,32.041,32.63,Flint-Rock,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",34.721,32.11,32.801,Flint-Rock,tasmin
+2054,"High Emissions
+(SSP3-7.0)",34.842,32.369,33.448,Flint-Rock,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",36.467,32.877,34.086,Flint-Rock,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",34.708,31.697,32.596,Flint-Rock,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",34.224,31.215,33.056,Flint-Rock,tasmin
+2055,"High Emissions
+(SSP3-7.0)",35.415,32.545,33.651,Flint-Rock,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",35.893,33.761,34.808,Flint-Rock,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",33.904,31.654,32.916,Flint-Rock,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",35.62,31.679,33.089,Flint-Rock,tasmin
+2056,"High Emissions
+(SSP3-7.0)",36.204,32.242,34.121,Flint-Rock,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",37.008,33.755,35.889,Flint-Rock,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",34,30.433,32.278,Flint-Rock,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",34.332,31.938,33.276,Flint-Rock,tasmin
+2057,"High Emissions
+(SSP3-7.0)",35.43,31.766,34.027,Flint-Rock,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",37.592,33.041,35.208,Flint-Rock,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",34.521,29.611,32.656,Flint-Rock,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",36.063,31.919,33.578,Flint-Rock,tasmin
+2058,"High Emissions
+(SSP3-7.0)",34.652,32.571,34.413,Flint-Rock,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",36.057,32.517,34.883,Flint-Rock,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",34.599,31.002,32.171,Flint-Rock,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",35.803,33.023,34.173,Flint-Rock,tasmin
+2059,"High Emissions
+(SSP3-7.0)",36.175,31.714,34.379,Flint-Rock,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",37.454,34.089,35.901,Flint-Rock,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",34.119,30.659,33.015,Flint-Rock,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",35.949,32.358,33.691,Flint-Rock,tasmin
+2060,"High Emissions
+(SSP3-7.0)",35.88,33.577,34.331,Flint-Rock,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",37.824,33.791,35.061,Flint-Rock,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",33.984,31.547,32.63,Flint-Rock,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",35.816,31.633,32.676,Flint-Rock,tasmin
+2061,"High Emissions
+(SSP3-7.0)",35.726,32.947,34.538,Flint-Rock,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",36.941,34.394,35.196,Flint-Rock,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",33.485,31.474,33.046,Flint-Rock,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",36.613,30.661,32.902,Flint-Rock,tasmin
+2062,"High Emissions
+(SSP3-7.0)",35.865,32.101,34.973,Flint-Rock,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",37.589,34.234,35.229,Flint-Rock,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",33.498,30.063,31.788,Flint-Rock,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",35.096,32.184,33.995,Flint-Rock,tasmin
+2063,"High Emissions
+(SSP3-7.0)",35.244,32.874,34.801,Flint-Rock,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",37.1,33.945,36.108,Flint-Rock,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",35.803,31.61,33.459,Flint-Rock,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",33.885,31.797,33.279,Flint-Rock,tasmin
+2064,"High Emissions
+(SSP3-7.0)",35.14,33.283,34.62,Flint-Rock,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",36.052,34.056,35.505,Flint-Rock,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",35.683,30.775,32.201,Flint-Rock,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",36.103,30.889,33.557,Flint-Rock,tasmin
+2065,"High Emissions
+(SSP3-7.0)",36.043,32.1,34.378,Flint-Rock,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",37.838,34.181,36.57,Flint-Rock,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",35.664,31.653,33.509,Flint-Rock,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",35.635,33.277,34.277,Flint-Rock,tasmin
+2066,"High Emissions
+(SSP3-7.0)",36.626,31.399,34.604,Flint-Rock,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",37.468,34.456,35.497,Flint-Rock,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",34.966,32.361,33.753,Flint-Rock,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",35.145,32.584,33.3,Flint-Rock,tasmin
+2067,"High Emissions
+(SSP3-7.0)",36.833,33.007,35.067,Flint-Rock,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",37.676,33.831,35.519,Flint-Rock,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",35.201,31.597,32.45,Flint-Rock,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",35.332,32.737,33.279,Flint-Rock,tasmin
+2068,"High Emissions
+(SSP3-7.0)",36.277,33.337,34.58,Flint-Rock,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",38.806,35.054,35.499,Flint-Rock,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",34.563,31.45,33.635,Flint-Rock,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",35.272,32.63,33.867,Flint-Rock,tasmin
+2069,"High Emissions
+(SSP3-7.0)",37.7,33.496,34.733,Flint-Rock,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",40.541,34.92,35.736,Flint-Rock,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",33.618,32.191,33.168,Flint-Rock,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",35.778,31.355,34.361,Flint-Rock,tasmin
+2070,"High Emissions
+(SSP3-7.0)",37.297,33.938,35.719,Flint-Rock,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",39.268,35.021,36.794,Flint-Rock,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",34.423,30.488,33.101,Flint-Rock,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",34.846,32.728,34.025,Flint-Rock,tasmin
+2071,"High Emissions
+(SSP3-7.0)",37.138,34.031,36.009,Flint-Rock,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",38.621,34.475,35.634,Flint-Rock,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",34.775,31.495,33.012,Flint-Rock,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",36.211,32.577,33.377,Flint-Rock,tasmin
+2072,"High Emissions
+(SSP3-7.0)",37.071,34.015,35.455,Flint-Rock,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",38.197,34.695,35.945,Flint-Rock,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",34.726,30.599,32.547,Flint-Rock,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",36.062,32.888,34.04,Flint-Rock,tasmin
+2073,"High Emissions
+(SSP3-7.0)",37.995,34.545,35.218,Flint-Rock,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",38.532,34.6,36.988,Flint-Rock,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",35.716,30.778,33.305,Flint-Rock,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",36.316,32.2,34.845,Flint-Rock,tasmin
+2074,"High Emissions
+(SSP3-7.0)",36.854,33.181,34.966,Flint-Rock,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",39.309,34.401,36.767,Flint-Rock,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",33.54,30.17,32.193,Flint-Rock,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",36.439,31.636,32.902,Flint-Rock,tasmin
+2075,"High Emissions
+(SSP3-7.0)",36.979,33.732,34.83,Flint-Rock,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",38.448,34.626,37.164,Flint-Rock,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",33.819,29.827,32.329,Flint-Rock,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",34.63,32.884,34.157,Flint-Rock,tasmin
+2076,"High Emissions
+(SSP3-7.0)",37.349,34.947,35.996,Flint-Rock,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",38.944,34.788,36.061,Flint-Rock,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",35.269,30.826,33.496,Flint-Rock,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",37.019,32.463,34.815,Flint-Rock,tasmin
+2077,"High Emissions
+(SSP3-7.0)",39.025,34.524,35.472,Flint-Rock,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",38.477,34.656,37.144,Flint-Rock,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",34.611,31.538,33.267,Flint-Rock,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",35.677,33.77,34.886,Flint-Rock,tasmin
+2078,"High Emissions
+(SSP3-7.0)",37.552,34.444,35.638,Flint-Rock,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",38.027,35.671,36.507,Flint-Rock,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",34.486,30.915,33.063,Flint-Rock,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",36.425,33.465,34.263,Flint-Rock,tasmin
+2079,"High Emissions
+(SSP3-7.0)",38.084,34.908,36.15,Flint-Rock,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",38.617,35.24,37.351,Flint-Rock,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",32.678,30.774,32.278,Flint-Rock,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",37.151,32.946,33.961,Flint-Rock,tasmin
+2080,"High Emissions
+(SSP3-7.0)",38.21,35.429,36.213,Flint-Rock,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",40.026,36.678,38.243,Flint-Rock,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",34.854,30.787,32.31,Flint-Rock,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",36.211,33.341,34.633,Flint-Rock,tasmin
+2081,"High Emissions
+(SSP3-7.0)",38.858,34.33,36.743,Flint-Rock,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",41.863,36.606,38.672,Flint-Rock,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",34.536,31.891,32.898,Flint-Rock,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",36.421,33.624,34.816,Flint-Rock,tasmin
+2082,"High Emissions
+(SSP3-7.0)",39.775,34.335,34.802,Flint-Rock,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",40.363,35.66,38.351,Flint-Rock,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",35.125,31.078,32.531,Flint-Rock,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",35.735,32.599,34.316,Flint-Rock,tasmin
+2083,"High Emissions
+(SSP3-7.0)",38.354,33.243,37.069,Flint-Rock,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",40.181,36.367,38.404,Flint-Rock,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",34.735,30.904,32.507,Flint-Rock,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",36.612,32.142,35.006,Flint-Rock,tasmin
+2084,"High Emissions
+(SSP3-7.0)",39.195,35.285,37.359,Flint-Rock,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",40.224,36.885,38.205,Flint-Rock,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",34.396,30.238,33.391,Flint-Rock,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",35.774,32.943,34.371,Flint-Rock,tasmin
+2085,"High Emissions
+(SSP3-7.0)",37.918,35.207,36.065,Flint-Rock,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",40.9,37.309,39.454,Flint-Rock,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",35.59,31.591,34.529,Flint-Rock,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",36.512,33.783,35.834,Flint-Rock,tasmin
+2086,"High Emissions
+(SSP3-7.0)",38.358,34.447,37.489,Flint-Rock,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",42.155,37.383,39.628,Flint-Rock,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",33.087,30.613,32.049,Flint-Rock,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",36.578,34.24,35.909,Flint-Rock,tasmin
+2087,"High Emissions
+(SSP3-7.0)",38.422,35.954,36.807,Flint-Rock,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",40.668,36.838,39.107,Flint-Rock,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",35.256,30.813,33.608,Flint-Rock,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",36.339,33.254,34.48,Flint-Rock,tasmin
+2088,"High Emissions
+(SSP3-7.0)",39.618,35.351,37.13,Flint-Rock,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",39.96,37.642,38.59,Flint-Rock,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",34.27,31.78,32.594,Flint-Rock,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",36.804,33.522,35.158,Flint-Rock,tasmin
+2089,"High Emissions
+(SSP3-7.0)",38.12,35.58,36.791,Flint-Rock,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",42.19,38.297,39.122,Flint-Rock,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",34.936,32.071,33.871,Flint-Rock,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",36.183,32.856,34.844,Flint-Rock,tasmin
+2090,"High Emissions
+(SSP3-7.0)",38.877,35.331,36.87,Flint-Rock,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",41.963,38.541,39.734,Flint-Rock,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",34.584,31.127,33.142,Flint-Rock,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",36.255,32.012,34.762,Flint-Rock,tasmin
+2091,"High Emissions
+(SSP3-7.0)",40.664,35.518,36.998,Flint-Rock,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",40.439,37.104,39.126,Flint-Rock,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",34.535,31.052,33.849,Flint-Rock,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",38.439,33.967,34.957,Flint-Rock,tasmin
+2092,"High Emissions
+(SSP3-7.0)",39.552,34.88,37.768,Flint-Rock,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",40.72,36.908,38.792,Flint-Rock,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",34.514,31.465,32.626,Flint-Rock,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",36.791,32.688,34.736,Flint-Rock,tasmin
+2093,"High Emissions
+(SSP3-7.0)",39.642,35.808,37.646,Flint-Rock,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",43.349,37.837,38.551,Flint-Rock,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",35.464,29.678,33.173,Flint-Rock,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",36.937,33.573,34.284,Flint-Rock,tasmin
+2094,"High Emissions
+(SSP3-7.0)",39.875,35.77,37.467,Flint-Rock,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",42.276,38.259,40.965,Flint-Rock,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",34.863,32.123,33.105,Flint-Rock,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",38.248,33.391,36.192,Flint-Rock,tasmin
+2095,"High Emissions
+(SSP3-7.0)",40.315,35.824,39.007,Flint-Rock,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",40.863,37.77,38.478,Flint-Rock,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",33.679,30.706,32.307,Flint-Rock,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",37.225,34.42,35.342,Flint-Rock,tasmin
+2096,"High Emissions
+(SSP3-7.0)",39.67,36.552,38.353,Flint-Rock,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",41.651,37.169,39.973,Flint-Rock,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",33.704,30.173,32.013,Flint-Rock,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",37.782,34.293,34.962,Flint-Rock,tasmin
+2097,"High Emissions
+(SSP3-7.0)",40.782,35.547,38.214,Flint-Rock,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",44.391,36.905,40.436,Flint-Rock,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",34.212,30.733,32.15,Flint-Rock,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",35.635,33.729,34.783,Flint-Rock,tasmin
+2098,"High Emissions
+(SSP3-7.0)",40.278,36.931,37.482,Flint-Rock,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",42.338,37.656,39.956,Flint-Rock,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",35.136,31.344,32.972,Flint-Rock,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",36.969,33.203,34.614,Flint-Rock,tasmin
+2099,"High Emissions
+(SSP3-7.0)",42.021,36.2,37.425,Flint-Rock,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",43.555,36.438,41.024,Flint-Rock,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",34.047,30.094,32.492,Flint-Rock,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",38.522,33.431,35.375,Flint-Rock,tasmin
+2100,"High Emissions
+(SSP3-7.0)",40.962,36.382,38.264,Flint-Rock,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",43.228,37.99,39.979,Flint-Rock,tasmin

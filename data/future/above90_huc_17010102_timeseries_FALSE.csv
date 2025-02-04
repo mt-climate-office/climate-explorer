@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,10.04,0.88,3.4,Fisher,above90
+1951,Historical Emissions,17.44,0,5.8,Fisher,above90
+1952,Historical Emissions,12.44,0,6,Fisher,above90
+1953,Historical Emissions,8.2,1.28,4.2,Fisher,above90
+1954,Historical Emissions,10.44,0.96,3.2,Fisher,above90
+1955,Historical Emissions,9.88,1.36,4,Fisher,above90
+1956,Historical Emissions,25.24,0.16,2,Fisher,above90
+1957,Historical Emissions,9.32,1.32,3.8,Fisher,above90
+1958,Historical Emissions,10.88,0.32,7.4,Fisher,above90
+1959,Historical Emissions,5.48,0,2.2,Fisher,above90
+1960,Historical Emissions,8.8,0,1.8,Fisher,above90
+1961,Historical Emissions,8.12,0,5,Fisher,above90
+1962,Historical Emissions,13.6,0.6,3.6,Fisher,above90
+1963,Historical Emissions,8.04,0,1.4,Fisher,above90
+1964,Historical Emissions,10.28,0.76,2,Fisher,above90
+1965,Historical Emissions,6.68,0,2.6,Fisher,above90
+1966,Historical Emissions,11.96,0.64,1.4,Fisher,above90
+1967,Historical Emissions,6.52,0.32,2.8,Fisher,above90
+1968,Historical Emissions,7.12,0,2,Fisher,above90
+1969,Historical Emissions,6.2,1.2,2,Fisher,above90
+1970,Historical Emissions,4.08,0,1.8,Fisher,above90
+1971,Historical Emissions,12.2,0.8,3.4,Fisher,above90
+1972,Historical Emissions,8,0.16,2.2,Fisher,above90
+1973,Historical Emissions,12.88,1.76,4.4,Fisher,above90
+1974,Historical Emissions,6.28,0,1.8,Fisher,above90
+1975,Historical Emissions,11.16,0.96,4,Fisher,above90
+1976,Historical Emissions,10.04,0,0.6,Fisher,above90
+1977,Historical Emissions,5.68,0,0.4,Fisher,above90
+1978,Historical Emissions,6.72,0,4.4,Fisher,above90
+1979,Historical Emissions,7.76,0.64,2.8,Fisher,above90
+1980,Historical Emissions,4.16,0.48,2.8,Fisher,above90
+1981,Historical Emissions,5.6,0.68,3.2,Fisher,above90
+1982,Historical Emissions,6.96,0.32,3.2,Fisher,above90
+1983,Historical Emissions,3.72,0.16,2,Fisher,above90
+1984,Historical Emissions,5,0,0.8,Fisher,above90
+1985,Historical Emissions,8.72,0.32,2.2,Fisher,above90
+1986,Historical Emissions,9.04,0.16,2.6,Fisher,above90
+1987,Historical Emissions,20,0,4.8,Fisher,above90
+1988,Historical Emissions,9.76,0,3.8,Fisher,above90
+1989,Historical Emissions,9.96,0.32,5.4,Fisher,above90
+1990,Historical Emissions,17.76,0.52,5.6,Fisher,above90
+1991,Historical Emissions,8.2,0,2.8,Fisher,above90
+1992,Historical Emissions,11.28,0,0.6,Fisher,above90
+1993,Historical Emissions,3.52,0.4,1.4,Fisher,above90
+1994,Historical Emissions,9.08,1.2,4.2,Fisher,above90
+1995,Historical Emissions,10.88,0.32,3.2,Fisher,above90
+1996,Historical Emissions,17.36,3.36,8.8,Fisher,above90
+1997,Historical Emissions,9.6,1.56,4,Fisher,above90
+1998,Historical Emissions,11.84,2.12,5.2,Fisher,above90
+1999,Historical Emissions,9.08,0,3.6,Fisher,above90
+2000,Historical Emissions,14.36,0.32,6.6,Fisher,above90
+2001,Historical Emissions,9.88,3.04,6,Fisher,above90
+2002,Historical Emissions,12.68,4.04,6.8,Fisher,above90
+2003,Historical Emissions,16.68,3.68,12.8,Fisher,above90
+2004,Historical Emissions,18.4,5.24,7.6,Fisher,above90
+2005,Historical Emissions,16.4,2.84,9.6,Fisher,above90
+2006,Historical Emissions,10.72,4.12,7.2,Fisher,above90
+2007,Historical Emissions,8.92,2.4,6,Fisher,above90
+2008,Historical Emissions,14.64,0.96,8.8,Fisher,above90
+2009,Historical Emissions,11.4,1.92,5.4,Fisher,above90
+2010,Historical Emissions,7.88,0.48,4.6,Fisher,above90
+2011,Historical Emissions,13.12,1.36,7.6,Fisher,above90
+2012,Historical Emissions,16.84,5.64,9.8,Fisher,above90
+2013,Historical Emissions,25.72,5.88,11,Fisher,above90
+2014,Historical Emissions,16,1.96,5,Fisher,above90
+2015,"Moderating Emissions
+(SSP1-2.6)",17.32,3.12,9.4,Fisher,above90
+2015,"Middle of the Road
+(SSP2-4.5)",20.72,3.44,9.8,Fisher,above90
+2015,"High Emissions
+(SSP3-7.0)",20.2,3.44,11.4,Fisher,above90
+2015,"Accelerating Emissions
+(SSP5-8.5)",18.32,5.96,13.4,Fisher,above90
+2016,"Moderating Emissions
+(SSP1-2.6)",19.72,4.52,11.6,Fisher,above90
+2016,"Middle of the Road
+(SSP2-4.5)",16.92,3.2,7.6,Fisher,above90
+2016,"High Emissions
+(SSP3-7.0)",28.4,4.8,14.4,Fisher,above90
+2016,"Accelerating Emissions
+(SSP5-8.5)",11.84,4.36,9,Fisher,above90
+2017,"Moderating Emissions
+(SSP1-2.6)",26.64,3.36,8.2,Fisher,above90
+2017,"Middle of the Road
+(SSP2-4.5)",14.72,3.12,7.4,Fisher,above90
+2017,"High Emissions
+(SSP3-7.0)",15.36,2.44,6,Fisher,above90
+2017,"Accelerating Emissions
+(SSP5-8.5)",17.84,5.48,8.8,Fisher,above90
+2018,"Moderating Emissions
+(SSP1-2.6)",18.12,1.12,5.8,Fisher,above90
+2018,"Middle of the Road
+(SSP2-4.5)",18.04,2.4,9,Fisher,above90
+2018,"High Emissions
+(SSP3-7.0)",18.44,4.28,6.2,Fisher,above90
+2018,"Accelerating Emissions
+(SSP5-8.5)",19.32,3.08,8.6,Fisher,above90
+2019,"Moderating Emissions
+(SSP1-2.6)",16.2,4.92,12.8,Fisher,above90
+2019,"Middle of the Road
+(SSP2-4.5)",19.64,4.12,9.8,Fisher,above90
+2019,"High Emissions
+(SSP3-7.0)",15.04,3.28,8.6,Fisher,above90
+2019,"Accelerating Emissions
+(SSP5-8.5)",17.08,3.88,7.4,Fisher,above90
+2020,"Moderating Emissions
+(SSP1-2.6)",23.36,0.64,14.2,Fisher,above90
+2020,"Middle of the Road
+(SSP2-4.5)",15.64,3.36,9.6,Fisher,above90
+2020,"High Emissions
+(SSP3-7.0)",15.76,2.16,8.2,Fisher,above90
+2020,"Accelerating Emissions
+(SSP5-8.5)",27.6,2.28,8.6,Fisher,above90
+2021,"Moderating Emissions
+(SSP1-2.6)",30.84,2.6,7,Fisher,above90
+2021,"Middle of the Road
+(SSP2-4.5)",24.4,3.96,9.8,Fisher,above90
+2021,"High Emissions
+(SSP3-7.0)",21.36,7.52,12.2,Fisher,above90
+2021,"Accelerating Emissions
+(SSP5-8.5)",15.72,2.88,7.4,Fisher,above90
+2022,"Moderating Emissions
+(SSP1-2.6)",16.84,3.96,9.4,Fisher,above90
+2022,"Middle of the Road
+(SSP2-4.5)",22,1.6,8.8,Fisher,above90
+2022,"High Emissions
+(SSP3-7.0)",21.24,2.32,5.2,Fisher,above90
+2022,"Accelerating Emissions
+(SSP5-8.5)",23.32,5.12,8.4,Fisher,above90
+2023,"Moderating Emissions
+(SSP1-2.6)",15.88,2.6,7.2,Fisher,above90
+2023,"Middle of the Road
+(SSP2-4.5)",20.12,4.08,8.4,Fisher,above90
+2023,"High Emissions
+(SSP3-7.0)",20.72,6.88,11.8,Fisher,above90
+2023,"Accelerating Emissions
+(SSP5-8.5)",18,2.64,8.6,Fisher,above90
+2024,"Moderating Emissions
+(SSP1-2.6)",24.88,1.92,10,Fisher,above90
+2024,"Middle of the Road
+(SSP2-4.5)",30.6,6.56,8.4,Fisher,above90
+2024,"High Emissions
+(SSP3-7.0)",23.44,7.12,14.6,Fisher,above90
+2024,"Accelerating Emissions
+(SSP5-8.5)",21.44,0.84,7.6,Fisher,above90
+2025,"Moderating Emissions
+(SSP1-2.6)",20.24,6.56,12,Fisher,above90
+2025,"Middle of the Road
+(SSP2-4.5)",11.08,0.6,6.6,Fisher,above90
+2025,"High Emissions
+(SSP3-7.0)",24.76,4.92,8,Fisher,above90
+2025,"Accelerating Emissions
+(SSP5-8.5)",24.88,4.72,14.8,Fisher,above90
+2026,"Moderating Emissions
+(SSP1-2.6)",17.48,7.6,11.2,Fisher,above90
+2026,"Middle of the Road
+(SSP2-4.5)",31.4,3.44,16.2,Fisher,above90
+2026,"High Emissions
+(SSP3-7.0)",16.24,1.72,9.2,Fisher,above90
+2026,"Accelerating Emissions
+(SSP5-8.5)",26.44,4.32,10.6,Fisher,above90
+2027,"Moderating Emissions
+(SSP1-2.6)",22.92,1.64,10.8,Fisher,above90
+2027,"Middle of the Road
+(SSP2-4.5)",26.92,4.32,7.6,Fisher,above90
+2027,"High Emissions
+(SSP3-7.0)",31.24,5.32,19.4,Fisher,above90
+2027,"Accelerating Emissions
+(SSP5-8.5)",36.4,11.64,14.2,Fisher,above90
+2028,"Moderating Emissions
+(SSP1-2.6)",20.88,3.24,9,Fisher,above90
+2028,"Middle of the Road
+(SSP2-4.5)",24.8,3.64,10,Fisher,above90
+2028,"High Emissions
+(SSP3-7.0)",23.72,7.16,11.2,Fisher,above90
+2028,"Accelerating Emissions
+(SSP5-8.5)",28.44,2.24,14.6,Fisher,above90
+2029,"Moderating Emissions
+(SSP1-2.6)",24.84,4.04,11.2,Fisher,above90
+2029,"Middle of the Road
+(SSP2-4.5)",22.52,3,8.4,Fisher,above90
+2029,"High Emissions
+(SSP3-7.0)",26.36,3.56,9.6,Fisher,above90
+2029,"Accelerating Emissions
+(SSP5-8.5)",23.44,4.84,14.2,Fisher,above90
+2030,"Moderating Emissions
+(SSP1-2.6)",24.08,2.4,8.2,Fisher,above90
+2030,"Middle of the Road
+(SSP2-4.5)",26,5.36,15.6,Fisher,above90
+2030,"High Emissions
+(SSP3-7.0)",24.52,3.64,13.2,Fisher,above90
+2030,"Accelerating Emissions
+(SSP5-8.5)",40.2,4.44,10.6,Fisher,above90
+2031,"Moderating Emissions
+(SSP1-2.6)",23.24,8.24,12.2,Fisher,above90
+2031,"Middle of the Road
+(SSP2-4.5)",26.84,7.36,12.2,Fisher,above90
+2031,"High Emissions
+(SSP3-7.0)",34.68,2.88,18.8,Fisher,above90
+2031,"Accelerating Emissions
+(SSP5-8.5)",23.16,5.04,11,Fisher,above90
+2032,"Moderating Emissions
+(SSP1-2.6)",28.76,4.12,20.4,Fisher,above90
+2032,"Middle of the Road
+(SSP2-4.5)",20.16,9.44,14,Fisher,above90
+2032,"High Emissions
+(SSP3-7.0)",34.48,5.2,12.8,Fisher,above90
+2032,"Accelerating Emissions
+(SSP5-8.5)",28.68,1.2,19.2,Fisher,above90
+2033,"Moderating Emissions
+(SSP1-2.6)",22.56,9.56,15.6,Fisher,above90
+2033,"Middle of the Road
+(SSP2-4.5)",38.04,9.6,21,Fisher,above90
+2033,"High Emissions
+(SSP3-7.0)",30,2.4,5.4,Fisher,above90
+2033,"Accelerating Emissions
+(SSP5-8.5)",29.64,5.6,16.8,Fisher,above90
+2034,"Moderating Emissions
+(SSP1-2.6)",28.88,6.2,11.6,Fisher,above90
+2034,"Middle of the Road
+(SSP2-4.5)",25.36,3.76,10.2,Fisher,above90
+2034,"High Emissions
+(SSP3-7.0)",38.32,7.4,23.2,Fisher,above90
+2034,"Accelerating Emissions
+(SSP5-8.5)",30.8,2.92,13.8,Fisher,above90
+2035,"Moderating Emissions
+(SSP1-2.6)",33.08,7.32,13.8,Fisher,above90
+2035,"Middle of the Road
+(SSP2-4.5)",20.8,4.44,6.8,Fisher,above90
+2035,"High Emissions
+(SSP3-7.0)",25.12,2.56,12.8,Fisher,above90
+2035,"Accelerating Emissions
+(SSP5-8.5)",19.08,5.68,13.8,Fisher,above90
+2036,"Moderating Emissions
+(SSP1-2.6)",32,5.2,22.8,Fisher,above90
+2036,"Middle of the Road
+(SSP2-4.5)",37.64,9.4,13.8,Fisher,above90
+2036,"High Emissions
+(SSP3-7.0)",26.68,6.88,14.4,Fisher,above90
+2036,"Accelerating Emissions
+(SSP5-8.5)",13.24,2.44,8,Fisher,above90
+2037,"Moderating Emissions
+(SSP1-2.6)",30.84,5.8,19.4,Fisher,above90
+2037,"Middle of the Road
+(SSP2-4.5)",22.64,4.92,15,Fisher,above90
+2037,"High Emissions
+(SSP3-7.0)",17,0.96,4.6,Fisher,above90
+2037,"Accelerating Emissions
+(SSP5-8.5)",35.2,2.08,15.4,Fisher,above90
+2038,"Moderating Emissions
+(SSP1-2.6)",23.72,5.4,13.2,Fisher,above90
+2038,"Middle of the Road
+(SSP2-4.5)",20.92,5.48,14,Fisher,above90
+2038,"High Emissions
+(SSP3-7.0)",31.2,8.04,11.8,Fisher,above90
+2038,"Accelerating Emissions
+(SSP5-8.5)",30.2,1.52,8.6,Fisher,above90
+2039,"Moderating Emissions
+(SSP1-2.6)",39,6.84,14,Fisher,above90
+2039,"Middle of the Road
+(SSP2-4.5)",27.92,10,13.6,Fisher,above90
+2039,"High Emissions
+(SSP3-7.0)",29.52,10,22.4,Fisher,above90
+2039,"Accelerating Emissions
+(SSP5-8.5)",33.48,2.76,15.8,Fisher,above90
+2040,"Moderating Emissions
+(SSP1-2.6)",16.6,1.28,13.4,Fisher,above90
+2040,"Middle of the Road
+(SSP2-4.5)",24.2,5.84,14.8,Fisher,above90
+2040,"High Emissions
+(SSP3-7.0)",24.48,6.72,19,Fisher,above90
+2040,"Accelerating Emissions
+(SSP5-8.5)",32.12,7.16,22.2,Fisher,above90
+2041,"Moderating Emissions
+(SSP1-2.6)",23.44,4.88,9.2,Fisher,above90
+2041,"Middle of the Road
+(SSP2-4.5)",33.56,8.56,19.6,Fisher,above90
+2041,"High Emissions
+(SSP3-7.0)",28.96,4.96,20,Fisher,above90
+2041,"Accelerating Emissions
+(SSP5-8.5)",24,4.36,10.8,Fisher,above90
+2042,"Moderating Emissions
+(SSP1-2.6)",29.84,5.12,7.2,Fisher,above90
+2042,"Middle of the Road
+(SSP2-4.5)",30.96,7.96,18.6,Fisher,above90
+2042,"High Emissions
+(SSP3-7.0)",21.4,1.76,15.2,Fisher,above90
+2042,"Accelerating Emissions
+(SSP5-8.5)",39.56,4.84,16.8,Fisher,above90
+2043,"Moderating Emissions
+(SSP1-2.6)",23.36,11.04,17.4,Fisher,above90
+2043,"Middle of the Road
+(SSP2-4.5)",28.16,6.96,20.6,Fisher,above90
+2043,"High Emissions
+(SSP3-7.0)",22.52,1.96,14.8,Fisher,above90
+2043,"Accelerating Emissions
+(SSP5-8.5)",38.2,6.88,17.2,Fisher,above90
+2044,"Moderating Emissions
+(SSP1-2.6)",29.72,8.08,19.6,Fisher,above90
+2044,"Middle of the Road
+(SSP2-4.5)",40.48,7.48,17,Fisher,above90
+2044,"High Emissions
+(SSP3-7.0)",31.68,10.48,20.2,Fisher,above90
+2044,"Accelerating Emissions
+(SSP5-8.5)",34.52,13,21.6,Fisher,above90
+2045,"Moderating Emissions
+(SSP1-2.6)",20.4,8.88,14.4,Fisher,above90
+2045,"Middle of the Road
+(SSP2-4.5)",53.92,9.8,19.8,Fisher,above90
+2045,"High Emissions
+(SSP3-7.0)",30.84,8.08,23.6,Fisher,above90
+2045,"Accelerating Emissions
+(SSP5-8.5)",28.32,4,16.8,Fisher,above90
+2046,"Moderating Emissions
+(SSP1-2.6)",21.76,5.48,12,Fisher,above90
+2046,"Middle of the Road
+(SSP2-4.5)",37.6,7.8,16.4,Fisher,above90
+2046,"High Emissions
+(SSP3-7.0)",23.28,4.36,15.4,Fisher,above90
+2046,"Accelerating Emissions
+(SSP5-8.5)",20.72,5.64,14.4,Fisher,above90
+2047,"Moderating Emissions
+(SSP1-2.6)",38.92,6.64,23.8,Fisher,above90
+2047,"Middle of the Road
+(SSP2-4.5)",21.36,1.44,16.8,Fisher,above90
+2047,"High Emissions
+(SSP3-7.0)",22.36,9.68,16.2,Fisher,above90
+2047,"Accelerating Emissions
+(SSP5-8.5)",39,9.04,22.8,Fisher,above90
+2048,"Moderating Emissions
+(SSP1-2.6)",25.64,4.48,10.6,Fisher,above90
+2048,"Middle of the Road
+(SSP2-4.5)",40.4,8.64,21.4,Fisher,above90
+2048,"High Emissions
+(SSP3-7.0)",43.64,4.56,14,Fisher,above90
+2048,"Accelerating Emissions
+(SSP5-8.5)",42.64,9.72,26.6,Fisher,above90
+2049,"Moderating Emissions
+(SSP1-2.6)",31.72,6.24,16,Fisher,above90
+2049,"Middle of the Road
+(SSP2-4.5)",22.04,5.96,18,Fisher,above90
+2049,"High Emissions
+(SSP3-7.0)",26.6,8.52,17.2,Fisher,above90
+2049,"Accelerating Emissions
+(SSP5-8.5)",34.12,6.08,28.2,Fisher,above90
+2050,"Moderating Emissions
+(SSP1-2.6)",22.2,4.8,16,Fisher,above90
+2050,"Middle of the Road
+(SSP2-4.5)",44.2,4.16,27.8,Fisher,above90
+2050,"High Emissions
+(SSP3-7.0)",32.84,4.64,23.8,Fisher,above90
+2050,"Accelerating Emissions
+(SSP5-8.5)",45.84,12.96,21.6,Fisher,above90
+2051,"Moderating Emissions
+(SSP1-2.6)",31.04,3.32,15.2,Fisher,above90
+2051,"Middle of the Road
+(SSP2-4.5)",40.04,3.32,20.8,Fisher,above90
+2051,"High Emissions
+(SSP3-7.0)",28.12,17.32,26.4,Fisher,above90
+2051,"Accelerating Emissions
+(SSP5-8.5)",38.04,10.56,24.8,Fisher,above90
+2052,"Moderating Emissions
+(SSP1-2.6)",20.56,6.64,16.4,Fisher,above90
+2052,"Middle of the Road
+(SSP2-4.5)",27.8,9.76,10.6,Fisher,above90
+2052,"High Emissions
+(SSP3-7.0)",25.4,7.04,16.4,Fisher,above90
+2052,"Accelerating Emissions
+(SSP5-8.5)",33.4,10.84,17.8,Fisher,above90
+2053,"Moderating Emissions
+(SSP1-2.6)",26.56,6,9.2,Fisher,above90
+2053,"Middle of the Road
+(SSP2-4.5)",24.4,7.68,13,Fisher,above90
+2053,"High Emissions
+(SSP3-7.0)",30.24,16.2,23.6,Fisher,above90
+2053,"Accelerating Emissions
+(SSP5-8.5)",44.56,11.56,18.8,Fisher,above90
+2054,"Moderating Emissions
+(SSP1-2.6)",21,11.28,14.2,Fisher,above90
+2054,"Middle of the Road
+(SSP2-4.5)",33.28,8.36,16.2,Fisher,above90
+2054,"High Emissions
+(SSP3-7.0)",37,12.76,18.4,Fisher,above90
+2054,"Accelerating Emissions
+(SSP5-8.5)",43.88,11.92,22.8,Fisher,above90
+2055,"Moderating Emissions
+(SSP1-2.6)",36.32,15.76,19.6,Fisher,above90
+2055,"Middle of the Road
+(SSP2-4.5)",29.68,7.76,18.8,Fisher,above90
+2055,"High Emissions
+(SSP3-7.0)",41.64,9.44,16.6,Fisher,above90
+2055,"Accelerating Emissions
+(SSP5-8.5)",55.88,10.92,30.4,Fisher,above90
+2056,"Moderating Emissions
+(SSP1-2.6)",27.04,6.16,10.2,Fisher,above90
+2056,"Middle of the Road
+(SSP2-4.5)",38.24,8.76,16.2,Fisher,above90
+2056,"High Emissions
+(SSP3-7.0)",28.92,10.76,16.2,Fisher,above90
+2056,"Accelerating Emissions
+(SSP5-8.5)",47.96,20.64,30.4,Fisher,above90
+2057,"Moderating Emissions
+(SSP1-2.6)",17.8,6.2,8,Fisher,above90
+2057,"Middle of the Road
+(SSP2-4.5)",29.48,11.88,16.2,Fisher,above90
+2057,"High Emissions
+(SSP3-7.0)",40.48,7.4,15.4,Fisher,above90
+2057,"Accelerating Emissions
+(SSP5-8.5)",47.12,11.36,28.2,Fisher,above90
+2058,"Moderating Emissions
+(SSP1-2.6)",26.28,3.12,10.6,Fisher,above90
+2058,"Middle of the Road
+(SSP2-4.5)",50.84,6.96,28,Fisher,above90
+2058,"High Emissions
+(SSP3-7.0)",35.72,7.4,18.6,Fisher,above90
+2058,"Accelerating Emissions
+(SSP5-8.5)",51.56,10.6,18.2,Fisher,above90
+2059,"Moderating Emissions
+(SSP1-2.6)",34.84,9.6,14.2,Fisher,above90
+2059,"Middle of the Road
+(SSP2-4.5)",43.08,6.68,18.8,Fisher,above90
+2059,"High Emissions
+(SSP3-7.0)",48.64,6.32,24.4,Fisher,above90
+2059,"Accelerating Emissions
+(SSP5-8.5)",44.08,9.64,30.2,Fisher,above90
+2060,"Moderating Emissions
+(SSP1-2.6)",32.52,7.24,13.4,Fisher,above90
+2060,"Middle of the Road
+(SSP2-4.5)",42.36,4.76,14,Fisher,above90
+2060,"High Emissions
+(SSP3-7.0)",37.08,10,21.2,Fisher,above90
+2060,"Accelerating Emissions
+(SSP5-8.5)",37.16,10.24,23,Fisher,above90
+2061,"Moderating Emissions
+(SSP1-2.6)",29.16,4.12,11,Fisher,above90
+2061,"Middle of the Road
+(SSP2-4.5)",42.56,8.72,12.6,Fisher,above90
+2061,"High Emissions
+(SSP3-7.0)",31.56,15.2,24.6,Fisher,above90
+2061,"Accelerating Emissions
+(SSP5-8.5)",55.48,22.48,28.2,Fisher,above90
+2062,"Moderating Emissions
+(SSP1-2.6)",35.8,9.52,18,Fisher,above90
+2062,"Middle of the Road
+(SSP2-4.5)",25.72,6.6,17,Fisher,above90
+2062,"High Emissions
+(SSP3-7.0)",28.56,10.76,21.4,Fisher,above90
+2062,"Accelerating Emissions
+(SSP5-8.5)",39.8,17.72,24.8,Fisher,above90
+2063,"Moderating Emissions
+(SSP1-2.6)",28.08,8.8,12.8,Fisher,above90
+2063,"Middle of the Road
+(SSP2-4.5)",40.6,2.76,10.2,Fisher,above90
+2063,"High Emissions
+(SSP3-7.0)",40.8,12.12,22.6,Fisher,above90
+2063,"Accelerating Emissions
+(SSP5-8.5)",55.88,27,36.8,Fisher,above90
+2064,"Moderating Emissions
+(SSP1-2.6)",40.64,3.68,12.6,Fisher,above90
+2064,"Middle of the Road
+(SSP2-4.5)",25.84,8.08,17.4,Fisher,above90
+2064,"High Emissions
+(SSP3-7.0)",39.08,17.24,30.4,Fisher,above90
+2064,"Accelerating Emissions
+(SSP5-8.5)",40.12,17.68,23.8,Fisher,above90
+2065,"Moderating Emissions
+(SSP1-2.6)",23.76,5.76,14,Fisher,above90
+2065,"Middle of the Road
+(SSP2-4.5)",30.32,10.44,19.4,Fisher,above90
+2065,"High Emissions
+(SSP3-7.0)",34.88,12.2,23.2,Fisher,above90
+2065,"Accelerating Emissions
+(SSP5-8.5)",44.08,22.08,34.4,Fisher,above90
+2066,"Moderating Emissions
+(SSP1-2.6)",34.92,10.24,18.8,Fisher,above90
+2066,"Middle of the Road
+(SSP2-4.5)",35.56,7.44,16.8,Fisher,above90
+2066,"High Emissions
+(SSP3-7.0)",40.64,12.76,20.8,Fisher,above90
+2066,"Accelerating Emissions
+(SSP5-8.5)",57.48,16.92,27.8,Fisher,above90
+2067,"Moderating Emissions
+(SSP1-2.6)",30.12,10.68,14.2,Fisher,above90
+2067,"Middle of the Road
+(SSP2-4.5)",35.04,8.16,18.4,Fisher,above90
+2067,"High Emissions
+(SSP3-7.0)",42.88,11.64,25.8,Fisher,above90
+2067,"Accelerating Emissions
+(SSP5-8.5)",46.76,6.16,30.2,Fisher,above90
+2068,"Moderating Emissions
+(SSP1-2.6)",31.48,13.08,23.6,Fisher,above90
+2068,"Middle of the Road
+(SSP2-4.5)",37.24,8.76,10.6,Fisher,above90
+2068,"High Emissions
+(SSP3-7.0)",40.2,19.68,25.8,Fisher,above90
+2068,"Accelerating Emissions
+(SSP5-8.5)",47.44,9.2,29.6,Fisher,above90
+2069,"Moderating Emissions
+(SSP1-2.6)",42.92,12.32,20.2,Fisher,above90
+2069,"Middle of the Road
+(SSP2-4.5)",35.04,14.16,19.2,Fisher,above90
+2069,"High Emissions
+(SSP3-7.0)",54.92,15,25.4,Fisher,above90
+2069,"Accelerating Emissions
+(SSP5-8.5)",66,13.36,34,Fisher,above90
+2070,"Moderating Emissions
+(SSP1-2.6)",33.28,8.12,20,Fisher,above90
+2070,"Middle of the Road
+(SSP2-4.5)",31,7.36,15.6,Fisher,above90
+2070,"High Emissions
+(SSP3-7.0)",46,15.12,20.4,Fisher,above90
+2070,"Accelerating Emissions
+(SSP5-8.5)",60,20.76,30,Fisher,above90
+2071,"Moderating Emissions
+(SSP1-2.6)",44.6,5.32,23.6,Fisher,above90
+2071,"Middle of the Road
+(SSP2-4.5)",35.52,7.96,22.6,Fisher,above90
+2071,"High Emissions
+(SSP3-7.0)",50.12,12.4,30.2,Fisher,above90
+2071,"Accelerating Emissions
+(SSP5-8.5)",62.92,15.04,39.2,Fisher,above90
+2072,"Moderating Emissions
+(SSP1-2.6)",37.48,7.8,22,Fisher,above90
+2072,"Middle of the Road
+(SSP2-4.5)",36.44,5.6,16.2,Fisher,above90
+2072,"High Emissions
+(SSP3-7.0)",42.72,11.96,28,Fisher,above90
+2072,"Accelerating Emissions
+(SSP5-8.5)",59.28,19.6,38,Fisher,above90
+2073,"Moderating Emissions
+(SSP1-2.6)",33.36,7.44,13.4,Fisher,above90
+2073,"Middle of the Road
+(SSP2-4.5)",50.6,8.4,19.6,Fisher,above90
+2073,"High Emissions
+(SSP3-7.0)",48.72,16.92,36,Fisher,above90
+2073,"Accelerating Emissions
+(SSP5-8.5)",52.6,10.68,29.8,Fisher,above90
+2074,"Moderating Emissions
+(SSP1-2.6)",29.12,2.36,24,Fisher,above90
+2074,"Middle of the Road
+(SSP2-4.5)",30.6,6.92,20.2,Fisher,above90
+2074,"High Emissions
+(SSP3-7.0)",51.48,17.92,31.8,Fisher,above90
+2074,"Accelerating Emissions
+(SSP5-8.5)",76.28,22.68,43.4,Fisher,above90
+2075,"Moderating Emissions
+(SSP1-2.6)",40.88,9,18.6,Fisher,above90
+2075,"Middle of the Road
+(SSP2-4.5)",46.6,12.16,23.4,Fisher,above90
+2075,"High Emissions
+(SSP3-7.0)",55.96,18.08,37.2,Fisher,above90
+2075,"Accelerating Emissions
+(SSP5-8.5)",62.52,14.08,38.8,Fisher,above90
+2076,"Moderating Emissions
+(SSP1-2.6)",33.24,3.16,19.6,Fisher,above90
+2076,"Middle of the Road
+(SSP2-4.5)",36.96,9.44,13.6,Fisher,above90
+2076,"High Emissions
+(SSP3-7.0)",56.8,21.08,33.8,Fisher,above90
+2076,"Accelerating Emissions
+(SSP5-8.5)",66.88,20.16,34.4,Fisher,above90
+2077,"Moderating Emissions
+(SSP1-2.6)",33.8,5.8,16.6,Fisher,above90
+2077,"Middle of the Road
+(SSP2-4.5)",37.8,4.2,25.6,Fisher,above90
+2077,"High Emissions
+(SSP3-7.0)",58.24,18.8,29.2,Fisher,above90
+2077,"Accelerating Emissions
+(SSP5-8.5)",57.92,19.8,36,Fisher,above90
+2078,"Moderating Emissions
+(SSP1-2.6)",30.2,7.96,14.2,Fisher,above90
+2078,"Middle of the Road
+(SSP2-4.5)",38.56,4.04,25,Fisher,above90
+2078,"High Emissions
+(SSP3-7.0)",73.04,14.68,22.4,Fisher,above90
+2078,"Accelerating Emissions
+(SSP5-8.5)",60.96,16.48,39,Fisher,above90
+2079,"Moderating Emissions
+(SSP1-2.6)",30.84,9.2,14.2,Fisher,above90
+2079,"Middle of the Road
+(SSP2-4.5)",40.36,12.04,24.8,Fisher,above90
+2079,"High Emissions
+(SSP3-7.0)",64.36,23.6,30.6,Fisher,above90
+2079,"Accelerating Emissions
+(SSP5-8.5)",77.6,31.48,38.6,Fisher,above90
+2080,"Moderating Emissions
+(SSP1-2.6)",28.4,5.72,14.4,Fisher,above90
+2080,"Middle of the Road
+(SSP2-4.5)",38.84,6.88,15.4,Fisher,above90
+2080,"High Emissions
+(SSP3-7.0)",62.16,19.48,37.6,Fisher,above90
+2080,"Accelerating Emissions
+(SSP5-8.5)",75.36,31.76,43.6,Fisher,above90
+2081,"Moderating Emissions
+(SSP1-2.6)",33.08,12.28,16.8,Fisher,above90
+2081,"Middle of the Road
+(SSP2-4.5)",37.56,14.56,22.2,Fisher,above90
+2081,"High Emissions
+(SSP3-7.0)",62.08,19.24,31.8,Fisher,above90
+2081,"Accelerating Emissions
+(SSP5-8.5)",70.6,32.76,63,Fisher,above90
+2082,"Moderating Emissions
+(SSP1-2.6)",27.04,8.24,16.8,Fisher,above90
+2082,"Middle of the Road
+(SSP2-4.5)",39.76,16.12,20.2,Fisher,above90
+2082,"High Emissions
+(SSP3-7.0)",64.52,10,28.4,Fisher,above90
+2082,"Accelerating Emissions
+(SSP5-8.5)",78.68,33.52,44.8,Fisher,above90
+2083,"Moderating Emissions
+(SSP1-2.6)",38.04,8.84,19.6,Fisher,above90
+2083,"Middle of the Road
+(SSP2-4.5)",40.04,6.56,26.8,Fisher,above90
+2083,"High Emissions
+(SSP3-7.0)",55.2,14.68,34.8,Fisher,above90
+2083,"Accelerating Emissions
+(SSP5-8.5)",69.52,20.08,45.8,Fisher,above90
+2084,"Moderating Emissions
+(SSP1-2.6)",34.6,7.8,14,Fisher,above90
+2084,"Middle of the Road
+(SSP2-4.5)",39.12,12.32,20.2,Fisher,above90
+2084,"High Emissions
+(SSP3-7.0)",67.24,29.96,33.8,Fisher,above90
+2084,"Accelerating Emissions
+(SSP5-8.5)",74.96,20.12,38.8,Fisher,above90
+2085,"Moderating Emissions
+(SSP1-2.6)",30.96,5.64,15,Fisher,above90
+2085,"Middle of the Road
+(SSP2-4.5)",43,9.76,29.6,Fisher,above90
+2085,"High Emissions
+(SSP3-7.0)",66,14.08,32.4,Fisher,above90
+2085,"Accelerating Emissions
+(SSP5-8.5)",73.52,23.2,55.2,Fisher,above90
+2086,"Moderating Emissions
+(SSP1-2.6)",33.08,9.68,15.4,Fisher,above90
+2086,"Middle of the Road
+(SSP2-4.5)",33.4,9.6,16.4,Fisher,above90
+2086,"High Emissions
+(SSP3-7.0)",70.12,26.12,38.4,Fisher,above90
+2086,"Accelerating Emissions
+(SSP5-8.5)",76.08,38.44,50.8,Fisher,above90
+2087,"Moderating Emissions
+(SSP1-2.6)",21.2,6.44,12,Fisher,above90
+2087,"Middle of the Road
+(SSP2-4.5)",39.8,19.48,23.2,Fisher,above90
+2087,"High Emissions
+(SSP3-7.0)",73.64,18.8,33.4,Fisher,above90
+2087,"Accelerating Emissions
+(SSP5-8.5)",77.68,25.36,37.2,Fisher,above90
+2088,"Moderating Emissions
+(SSP1-2.6)",31.4,9.6,13.8,Fisher,above90
+2088,"Middle of the Road
+(SSP2-4.5)",58.64,19.12,30.2,Fisher,above90
+2088,"High Emissions
+(SSP3-7.0)",69.88,25.72,39.4,Fisher,above90
+2088,"Accelerating Emissions
+(SSP5-8.5)",91.52,22.8,51,Fisher,above90
+2089,"Moderating Emissions
+(SSP1-2.6)",32.2,11.28,19.8,Fisher,above90
+2089,"Middle of the Road
+(SSP2-4.5)",39.92,11.6,21.8,Fisher,above90
+2089,"High Emissions
+(SSP3-7.0)",74.6,24.8,55,Fisher,above90
+2089,"Accelerating Emissions
+(SSP5-8.5)",80.8,32,61.8,Fisher,above90
+2090,"Moderating Emissions
+(SSP1-2.6)",21.44,9.04,13.8,Fisher,above90
+2090,"Middle of the Road
+(SSP2-4.5)",40.76,10.64,29.8,Fisher,above90
+2090,"High Emissions
+(SSP3-7.0)",76.84,33.12,45.6,Fisher,above90
+2090,"Accelerating Emissions
+(SSP5-8.5)",86.16,22.24,56.4,Fisher,above90
+2091,"Moderating Emissions
+(SSP1-2.6)",31.72,5.16,11,Fisher,above90
+2091,"Middle of the Road
+(SSP2-4.5)",48.68,8.84,22.4,Fisher,above90
+2091,"High Emissions
+(SSP3-7.0)",67.2,28.48,36.2,Fisher,above90
+2091,"Accelerating Emissions
+(SSP5-8.5)",71.44,22.04,45.6,Fisher,above90
+2092,"Moderating Emissions
+(SSP1-2.6)",39.12,7.48,16.4,Fisher,above90
+2092,"Middle of the Road
+(SSP2-4.5)",57.24,19.96,31.8,Fisher,above90
+2092,"High Emissions
+(SSP3-7.0)",51,30.2,38.2,Fisher,above90
+2092,"Accelerating Emissions
+(SSP5-8.5)",89.8,39.04,47.4,Fisher,above90
+2093,"Moderating Emissions
+(SSP1-2.6)",22.16,5.68,15.8,Fisher,above90
+2093,"Middle of the Road
+(SSP2-4.5)",48.48,9.96,27.8,Fisher,above90
+2093,"High Emissions
+(SSP3-7.0)",60.12,31.32,45.4,Fisher,above90
+2093,"Accelerating Emissions
+(SSP5-8.5)",87.52,28.64,61.2,Fisher,above90
+2094,"Moderating Emissions
+(SSP1-2.6)",38.72,5.4,11.6,Fisher,above90
+2094,"Middle of the Road
+(SSP2-4.5)",53.04,8.96,21.8,Fisher,above90
+2094,"High Emissions
+(SSP3-7.0)",63.56,22.36,43.2,Fisher,above90
+2094,"Accelerating Emissions
+(SSP5-8.5)",81.76,34.96,55,Fisher,above90
+2095,"Moderating Emissions
+(SSP1-2.6)",40.96,6.28,23.2,Fisher,above90
+2095,"Middle of the Road
+(SSP2-4.5)",48.96,17.4,30,Fisher,above90
+2095,"High Emissions
+(SSP3-7.0)",72.72,24.12,54.4,Fisher,above90
+2095,"Accelerating Emissions
+(SSP5-8.5)",80.76,34.28,50.4,Fisher,above90
+2096,"Moderating Emissions
+(SSP1-2.6)",33.2,7.2,14.2,Fisher,above90
+2096,"Middle of the Road
+(SSP2-4.5)",43.36,13.24,29.2,Fisher,above90
+2096,"High Emissions
+(SSP3-7.0)",72.72,22.96,43.8,Fisher,above90
+2096,"Accelerating Emissions
+(SSP5-8.5)",93.68,27.96,47.8,Fisher,above90
+2097,"Moderating Emissions
+(SSP1-2.6)",33.52,6.36,23.2,Fisher,above90
+2097,"Middle of the Road
+(SSP2-4.5)",66.68,19.76,24.2,Fisher,above90
+2097,"High Emissions
+(SSP3-7.0)",88,25.72,41,Fisher,above90
+2097,"Accelerating Emissions
+(SSP5-8.5)",80.8,31.28,52.6,Fisher,above90
+2098,"Moderating Emissions
+(SSP1-2.6)",33.48,9.08,18.2,Fisher,above90
+2098,"Middle of the Road
+(SSP2-4.5)",44.24,17.04,26.8,Fisher,above90
+2098,"High Emissions
+(SSP3-7.0)",67.84,31.4,49.2,Fisher,above90
+2098,"Accelerating Emissions
+(SSP5-8.5)",68.76,40.48,61.8,Fisher,above90
+2099,"Moderating Emissions
+(SSP1-2.6)",34.52,5.04,18,Fisher,above90
+2099,"Middle of the Road
+(SSP2-4.5)",46,13.28,17.8,Fisher,above90
+2099,"High Emissions
+(SSP3-7.0)",69.84,28.72,50.4,Fisher,above90
+2099,"Accelerating Emissions
+(SSP5-8.5)",81.32,40.04,58.2,Fisher,above90
+2100,"Moderating Emissions
+(SSP1-2.6)",29.36,0.32,11.4,Fisher,above90
+2100,"Middle of the Road
+(SSP2-4.5)",43.76,8.2,22,Fisher,above90
+2100,"High Emissions
+(SSP3-7.0)",66.16,35.44,50.2,Fisher,above90
+2100,"Accelerating Emissions
+(SSP5-8.5)",85.68,43.2,54.6,Fisher,above90

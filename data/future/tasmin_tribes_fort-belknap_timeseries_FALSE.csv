@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,31.446,28.528,29.847,Fort Belknap,tasmin
+1951,Historical Emissions,31.165,28.721,29.998,Fort Belknap,tasmin
+1952,Historical Emissions,31.628,27.972,29.962,Fort Belknap,tasmin
+1953,Historical Emissions,30.585,27.33,29.92,Fort Belknap,tasmin
+1954,Historical Emissions,32.915,25.879,29.028,Fort Belknap,tasmin
+1955,Historical Emissions,32.053,29.168,30.128,Fort Belknap,tasmin
+1956,Historical Emissions,31.736,28.867,30.282,Fort Belknap,tasmin
+1957,Historical Emissions,32.533,28.914,30.978,Fort Belknap,tasmin
+1958,Historical Emissions,31.483,27.729,30.075,Fort Belknap,tasmin
+1959,Historical Emissions,30.334,26.966,29.047,Fort Belknap,tasmin
+1960,Historical Emissions,31.701,26.165,29.364,Fort Belknap,tasmin
+1961,Historical Emissions,32.092,27.819,30.652,Fort Belknap,tasmin
+1962,Historical Emissions,30.474,27.232,28.805,Fort Belknap,tasmin
+1963,Historical Emissions,30.452,28.365,29.522,Fort Belknap,tasmin
+1964,Historical Emissions,31.565,28.185,30.393,Fort Belknap,tasmin
+1965,Historical Emissions,30.636,28.043,29.936,Fort Belknap,tasmin
+1966,Historical Emissions,32.929,28.229,29.748,Fort Belknap,tasmin
+1967,Historical Emissions,30.34,27.83,29.755,Fort Belknap,tasmin
+1968,Historical Emissions,30.423,26.256,29.239,Fort Belknap,tasmin
+1969,Historical Emissions,31.413,27.481,29.816,Fort Belknap,tasmin
+1970,Historical Emissions,31.433,29.263,29.67,Fort Belknap,tasmin
+1971,Historical Emissions,33.468,29.893,31.215,Fort Belknap,tasmin
+1972,Historical Emissions,31.313,27.824,29.661,Fort Belknap,tasmin
+1973,Historical Emissions,30.667,28.885,29.966,Fort Belknap,tasmin
+1974,Historical Emissions,32.337,27.644,30.113,Fort Belknap,tasmin
+1975,Historical Emissions,31.619,26.308,30.481,Fort Belknap,tasmin
+1976,Historical Emissions,30.68,27.599,29.799,Fort Belknap,tasmin
+1977,Historical Emissions,32.88,29.844,31.235,Fort Belknap,tasmin
+1978,Historical Emissions,31.734,27.733,29.482,Fort Belknap,tasmin
+1979,Historical Emissions,33.298,28.205,30.988,Fort Belknap,tasmin
+1980,Historical Emissions,30.991,27.612,30.367,Fort Belknap,tasmin
+1981,Historical Emissions,32.126,29.457,30.882,Fort Belknap,tasmin
+1982,Historical Emissions,31.754,28.681,30.436,Fort Belknap,tasmin
+1983,Historical Emissions,32.437,28.482,29.868,Fort Belknap,tasmin
+1984,Historical Emissions,31.689,28.918,29.533,Fort Belknap,tasmin
+1985,Historical Emissions,32.368,29.116,31.502,Fort Belknap,tasmin
+1986,Historical Emissions,31.26,28.314,30.03,Fort Belknap,tasmin
+1987,Historical Emissions,32.23,26.048,29.198,Fort Belknap,tasmin
+1988,Historical Emissions,32.211,28.371,29.296,Fort Belknap,tasmin
+1989,Historical Emissions,31.635,28.81,30.951,Fort Belknap,tasmin
+1990,Historical Emissions,33.09,30.387,31.59,Fort Belknap,tasmin
+1991,Historical Emissions,32.659,28.264,29.799,Fort Belknap,tasmin
+1992,Historical Emissions,32.127,28.51,29.631,Fort Belknap,tasmin
+1993,Historical Emissions,33.006,28.598,30.528,Fort Belknap,tasmin
+1994,Historical Emissions,32.407,29.523,30.988,Fort Belknap,tasmin
+1995,Historical Emissions,32.436,28.682,29.885,Fort Belknap,tasmin
+1996,Historical Emissions,32.716,28.17,31.024,Fort Belknap,tasmin
+1997,Historical Emissions,33.697,29.584,31.251,Fort Belknap,tasmin
+1998,Historical Emissions,33.509,28.617,30.668,Fort Belknap,tasmin
+1999,Historical Emissions,33.1,29.486,32.436,Fort Belknap,tasmin
+2000,Historical Emissions,32.37,29.884,31.186,Fort Belknap,tasmin
+2001,Historical Emissions,33.097,29.311,31.592,Fort Belknap,tasmin
+2002,Historical Emissions,33.901,29.834,31.643,Fort Belknap,tasmin
+2003,Historical Emissions,33.59,30.905,31.222,Fort Belknap,tasmin
+2004,Historical Emissions,33.409,30.734,32.235,Fort Belknap,tasmin
+2005,Historical Emissions,35.248,30.034,32.022,Fort Belknap,tasmin
+2006,Historical Emissions,33.645,29.414,31.015,Fort Belknap,tasmin
+2007,Historical Emissions,33.51,31.213,32.475,Fort Belknap,tasmin
+2008,Historical Emissions,33.89,30.226,31.814,Fort Belknap,tasmin
+2009,Historical Emissions,33.056,30.817,31.775,Fort Belknap,tasmin
+2010,Historical Emissions,33.29,30.347,31.824,Fort Belknap,tasmin
+2011,Historical Emissions,34.626,31.584,32.558,Fort Belknap,tasmin
+2012,Historical Emissions,33.419,30.375,32.037,Fort Belknap,tasmin
+2013,Historical Emissions,34.474,29.421,32,Fort Belknap,tasmin
+2014,Historical Emissions,34.563,31.604,32.811,Fort Belknap,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",35.058,30.621,32.61,Fort Belknap,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",34.275,30.469,31.329,Fort Belknap,tasmin
+2015,"High Emissions
+(SSP3-7.0)",33.935,30.575,32.71,Fort Belknap,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",33.659,30.89,32.207,Fort Belknap,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",35.613,31.39,33.582,Fort Belknap,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",35.021,30.684,32.861,Fort Belknap,tasmin
+2016,"High Emissions
+(SSP3-7.0)",36.44,29.571,32.647,Fort Belknap,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",33.485,31.238,32.786,Fort Belknap,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",34.641,30.104,31.853,Fort Belknap,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",35.686,30.452,32.693,Fort Belknap,tasmin
+2017,"High Emissions
+(SSP3-7.0)",35.554,31.898,32.85,Fort Belknap,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",34.618,30.477,32.712,Fort Belknap,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",33.819,31.077,32.569,Fort Belknap,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",34.408,31.781,32.488,Fort Belknap,tasmin
+2018,"High Emissions
+(SSP3-7.0)",35.739,30.489,32.244,Fort Belknap,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",35.528,30.334,32.447,Fort Belknap,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",35.471,31.402,33.754,Fort Belknap,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",34.044,29.95,31.696,Fort Belknap,tasmin
+2019,"High Emissions
+(SSP3-7.0)",35.031,30.568,32.475,Fort Belknap,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",35.683,31.751,33.646,Fort Belknap,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",35.384,30.809,34.173,Fort Belknap,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",34.51,30.975,31.707,Fort Belknap,tasmin
+2020,"High Emissions
+(SSP3-7.0)",34.627,31.049,33.031,Fort Belknap,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",34.711,31.654,33.026,Fort Belknap,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",35.646,31.201,33.029,Fort Belknap,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",34.195,31.772,33.369,Fort Belknap,tasmin
+2021,"High Emissions
+(SSP3-7.0)",34.954,32.043,33.429,Fort Belknap,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",34.528,30.504,33.379,Fort Belknap,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",34.694,31.626,32.563,Fort Belknap,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",34.775,31.824,33.032,Fort Belknap,tasmin
+2022,"High Emissions
+(SSP3-7.0)",34.868,31.955,32.989,Fort Belknap,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",36.709,31.733,33.433,Fort Belknap,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",34,31.971,32.727,Fort Belknap,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",34.933,32.173,33.404,Fort Belknap,tasmin
+2023,"High Emissions
+(SSP3-7.0)",36.021,31.649,33.951,Fort Belknap,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",33.524,30.152,31.189,Fort Belknap,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",35.594,31.297,32.832,Fort Belknap,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",34.222,31.287,32.275,Fort Belknap,tasmin
+2024,"High Emissions
+(SSP3-7.0)",36.821,31.122,32.429,Fort Belknap,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",36.69,31.436,34.109,Fort Belknap,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",35.283,32.11,34.175,Fort Belknap,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",35.1,31.221,33.059,Fort Belknap,tasmin
+2025,"High Emissions
+(SSP3-7.0)",35.217,31.629,33.411,Fort Belknap,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",36.736,32.246,34.49,Fort Belknap,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",34.904,31.459,32.138,Fort Belknap,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",34.945,31.166,33.615,Fort Belknap,tasmin
+2026,"High Emissions
+(SSP3-7.0)",36.73,30.021,33.431,Fort Belknap,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",35.09,31.478,33.867,Fort Belknap,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",36.684,31.429,32.987,Fort Belknap,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",35.502,32.473,34.39,Fort Belknap,tasmin
+2027,"High Emissions
+(SSP3-7.0)",35.665,31.982,33.929,Fort Belknap,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",34.989,32.871,33.435,Fort Belknap,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",35.649,32.219,33.717,Fort Belknap,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",36.572,30.181,33.767,Fort Belknap,tasmin
+2028,"High Emissions
+(SSP3-7.0)",35.807,32.169,33.278,Fort Belknap,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",36.284,32.195,33.936,Fort Belknap,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",37.268,32.864,34.787,Fort Belknap,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",36.873,31.515,34.34,Fort Belknap,tasmin
+2029,"High Emissions
+(SSP3-7.0)",35.719,30.479,33.725,Fort Belknap,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",34.85,33.064,33.965,Fort Belknap,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",37.214,31.731,33.515,Fort Belknap,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",36.391,32.073,33.693,Fort Belknap,tasmin
+2030,"High Emissions
+(SSP3-7.0)",35.259,30.722,34.009,Fort Belknap,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",36.626,31.405,34.391,Fort Belknap,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",35.413,31.235,34.519,Fort Belknap,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",35.563,32.152,34.294,Fort Belknap,tasmin
+2031,"High Emissions
+(SSP3-7.0)",36.783,31.679,34.537,Fort Belknap,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",37.437,34.329,35.344,Fort Belknap,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",35.917,32.423,33.112,Fort Belknap,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",34.813,32.106,33.216,Fort Belknap,tasmin
+2032,"High Emissions
+(SSP3-7.0)",36.329,32.259,33.556,Fort Belknap,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",37.226,31.998,33.691,Fort Belknap,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",36.38,31.774,34.333,Fort Belknap,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",36.785,32.332,34.641,Fort Belknap,tasmin
+2033,"High Emissions
+(SSP3-7.0)",36.113,32.365,33.549,Fort Belknap,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",35.467,32.848,33.821,Fort Belknap,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",35.167,31.381,32.755,Fort Belknap,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",36,33.013,33.57,Fort Belknap,tasmin
+2034,"High Emissions
+(SSP3-7.0)",35.469,33.216,34.503,Fort Belknap,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",36.452,29.763,33.893,Fort Belknap,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",35.131,31.302,33.98,Fort Belknap,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",36.851,31.309,34.493,Fort Belknap,tasmin
+2035,"High Emissions
+(SSP3-7.0)",35.522,31.016,33.908,Fort Belknap,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",37.064,31.61,34.23,Fort Belknap,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",35.475,33.562,34.798,Fort Belknap,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",35.456,32.114,33.852,Fort Belknap,tasmin
+2036,"High Emissions
+(SSP3-7.0)",35.558,31.758,33.629,Fort Belknap,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",36.915,33.425,35.06,Fort Belknap,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",36.338,33.195,35.253,Fort Belknap,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",36.65,31.321,34.435,Fort Belknap,tasmin
+2037,"High Emissions
+(SSP3-7.0)",35.226,31.596,34.57,Fort Belknap,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",36.654,33.557,34.499,Fort Belknap,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",37.519,33.22,35.315,Fort Belknap,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",35.359,32.453,34.068,Fort Belknap,tasmin
+2038,"High Emissions
+(SSP3-7.0)",37.111,32.747,33.997,Fort Belknap,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",38.08,33.101,36.891,Fort Belknap,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",37.181,33.089,34.76,Fort Belknap,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",36.169,32.581,34.035,Fort Belknap,tasmin
+2039,"High Emissions
+(SSP3-7.0)",37.575,33.425,35.061,Fort Belknap,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",38.525,31.73,35.651,Fort Belknap,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",37.189,32.422,33.457,Fort Belknap,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",35.514,33.047,34.751,Fort Belknap,tasmin
+2040,"High Emissions
+(SSP3-7.0)",37.641,32.561,35.099,Fort Belknap,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",38.478,33.696,35.196,Fort Belknap,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",36.651,31.157,34.018,Fort Belknap,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",35.395,33.131,34.1,Fort Belknap,tasmin
+2041,"High Emissions
+(SSP3-7.0)",36.934,32.493,33.501,Fort Belknap,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",35.67,32.927,34.665,Fort Belknap,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",37.007,33.493,34.631,Fort Belknap,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",35.395,31.03,31.928,Fort Belknap,tasmin
+2042,"High Emissions
+(SSP3-7.0)",35.864,33.43,34.633,Fort Belknap,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",38.154,33.987,34.683,Fort Belknap,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",35.737,33.366,34.182,Fort Belknap,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",36.703,31.845,34.585,Fort Belknap,tasmin
+2043,"High Emissions
+(SSP3-7.0)",35.524,32.533,34.192,Fort Belknap,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",36.427,34.407,35.628,Fort Belknap,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",36.611,32.277,33.78,Fort Belknap,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",37.81,33.179,35.312,Fort Belknap,tasmin
+2044,"High Emissions
+(SSP3-7.0)",36.559,33.168,34.247,Fort Belknap,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",38.218,33.289,35.609,Fort Belknap,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",37.248,33.258,34.358,Fort Belknap,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",37.616,32.156,36.005,Fort Belknap,tasmin
+2045,"High Emissions
+(SSP3-7.0)",36.624,32.11,33.911,Fort Belknap,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",35.996,32.389,35.33,Fort Belknap,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",38.701,30.919,35.603,Fort Belknap,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",36.562,32.665,34.858,Fort Belknap,tasmin
+2046,"High Emissions
+(SSP3-7.0)",38.441,33.59,36.076,Fort Belknap,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",37.352,32.938,34.017,Fort Belknap,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",36.066,33.017,34.897,Fort Belknap,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",36.837,29.997,34.787,Fort Belknap,tasmin
+2047,"High Emissions
+(SSP3-7.0)",35.624,32.241,34.808,Fort Belknap,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",38.517,33.479,35.262,Fort Belknap,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",35.783,32.677,34.497,Fort Belknap,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",37.885,33.096,35.212,Fort Belknap,tasmin
+2048,"High Emissions
+(SSP3-7.0)",38.001,32.764,35.976,Fort Belknap,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",38.479,34.759,36.741,Fort Belknap,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",36.311,30.923,33.604,Fort Belknap,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",37.547,34.302,35.734,Fort Belknap,tasmin
+2049,"High Emissions
+(SSP3-7.0)",38.717,34.141,35.666,Fort Belknap,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",36.685,34.713,36.143,Fort Belknap,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",35.604,32.364,34.09,Fort Belknap,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",38.383,32.731,34.95,Fort Belknap,tasmin
+2050,"High Emissions
+(SSP3-7.0)",38.503,34.611,35.676,Fort Belknap,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",37.865,35.128,36.635,Fort Belknap,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",37.32,32.979,35.765,Fort Belknap,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",38.082,33.8,35.012,Fort Belknap,tasmin
+2051,"High Emissions
+(SSP3-7.0)",37.224,34.157,35.403,Fort Belknap,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",37.489,34.408,35.698,Fort Belknap,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",36.426,33.556,34.803,Fort Belknap,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",38.087,33.435,34.832,Fort Belknap,tasmin
+2052,"High Emissions
+(SSP3-7.0)",39.104,33.352,35.232,Fort Belknap,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",37.375,35.05,36.963,Fort Belknap,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",36.986,32.494,33.801,Fort Belknap,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",36.665,32.647,35.115,Fort Belknap,tasmin
+2053,"High Emissions
+(SSP3-7.0)",39.169,34.435,37.188,Fort Belknap,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",39.348,34.411,36.172,Fort Belknap,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",36.736,33.416,34.489,Fort Belknap,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",35.761,32.662,33.923,Fort Belknap,tasmin
+2054,"High Emissions
+(SSP3-7.0)",37.285,34.318,35.183,Fort Belknap,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",39.174,35.48,36.18,Fort Belknap,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",36.818,33.71,35.097,Fort Belknap,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",36.097,33.425,34.551,Fort Belknap,tasmin
+2055,"High Emissions
+(SSP3-7.0)",37.735,34.425,36.136,Fort Belknap,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",39.916,35.967,37.013,Fort Belknap,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",38.192,32.971,35.627,Fort Belknap,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",38.381,32.938,34.615,Fort Belknap,tasmin
+2056,"High Emissions
+(SSP3-7.0)",39.283,33.997,36.089,Fort Belknap,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",39.491,34.38,36.981,Fort Belknap,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",37.237,32.202,34.468,Fort Belknap,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",38.882,33.709,35.699,Fort Belknap,tasmin
+2057,"High Emissions
+(SSP3-7.0)",38.333,34.726,35.118,Fort Belknap,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",38.304,32.937,36.867,Fort Belknap,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",36.761,32.817,34.781,Fort Belknap,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",39.039,33.554,35.801,Fort Belknap,tasmin
+2058,"High Emissions
+(SSP3-7.0)",37.23,34.668,35.915,Fort Belknap,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",38.531,34.348,36.144,Fort Belknap,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",36.75,32.307,34.359,Fort Belknap,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",39.919,34.211,36.465,Fort Belknap,tasmin
+2059,"High Emissions
+(SSP3-7.0)",39.355,34.834,36.679,Fort Belknap,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",39.508,35.716,38.114,Fort Belknap,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",38.175,31.677,33.676,Fort Belknap,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",37.707,32.872,35.038,Fort Belknap,tasmin
+2060,"High Emissions
+(SSP3-7.0)",38.104,35.207,36.45,Fort Belknap,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",39.137,35.645,37.794,Fort Belknap,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",37.34,33.429,34.533,Fort Belknap,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",37.85,33.686,35.636,Fort Belknap,tasmin
+2061,"High Emissions
+(SSP3-7.0)",39.108,35.103,36.851,Fort Belknap,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",40.45,35.445,38.556,Fort Belknap,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",35.803,33.672,34.502,Fort Belknap,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",38.65,33.219,34.868,Fort Belknap,tasmin
+2062,"High Emissions
+(SSP3-7.0)",38.048,34.942,36.827,Fort Belknap,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",40.361,35.694,36.581,Fort Belknap,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",35.88,32.801,35.08,Fort Belknap,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",37.687,34.363,35.335,Fort Belknap,tasmin
+2063,"High Emissions
+(SSP3-7.0)",38.931,34.454,35.994,Fort Belknap,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",39.238,35.153,37.679,Fort Belknap,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",38.531,34.006,35.899,Fort Belknap,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",36.149,33.154,34.82,Fort Belknap,tasmin
+2064,"High Emissions
+(SSP3-7.0)",36.766,35.582,36.225,Fort Belknap,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",40.062,35.976,36.712,Fort Belknap,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",36.461,32.075,35.223,Fort Belknap,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",38.372,33.25,35.575,Fort Belknap,tasmin
+2065,"High Emissions
+(SSP3-7.0)",38.388,35.347,36.654,Fort Belknap,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",41.76,35.011,38.727,Fort Belknap,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",38.118,31.581,35.109,Fort Belknap,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",39.169,35.331,37.361,Fort Belknap,tasmin
+2066,"High Emissions
+(SSP3-7.0)",40.029,34.532,36.544,Fort Belknap,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",39.673,35.883,38.33,Fort Belknap,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",37.53,33.85,35.709,Fort Belknap,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",38.763,33.873,35.182,Fort Belknap,tasmin
+2067,"High Emissions
+(SSP3-7.0)",39.576,35.841,38.034,Fort Belknap,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",42.286,35.526,37.183,Fort Belknap,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",36.704,33.887,34.85,Fort Belknap,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",37.153,33.859,35.131,Fort Belknap,tasmin
+2068,"High Emissions
+(SSP3-7.0)",39.667,34.292,35.831,Fort Belknap,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",40.697,37.234,37.626,Fort Belknap,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",37.124,33.772,35.558,Fort Belknap,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",36.416,33.487,35.19,Fort Belknap,tasmin
+2069,"High Emissions
+(SSP3-7.0)",39.771,36.756,38.086,Fort Belknap,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",42.314,36.615,38.286,Fort Belknap,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",36.566,33.054,33.992,Fort Belknap,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",37.998,33.141,35.431,Fort Belknap,tasmin
+2070,"High Emissions
+(SSP3-7.0)",39.846,36.065,38.082,Fort Belknap,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",42.261,37.068,38.546,Fort Belknap,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",39.022,31.506,34.727,Fort Belknap,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",39.386,34.463,36.006,Fort Belknap,tasmin
+2071,"High Emissions
+(SSP3-7.0)",40.489,36.935,38.071,Fort Belknap,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",41.158,35.775,38.171,Fort Belknap,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",38.619,33.11,34.755,Fort Belknap,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",39.852,33.814,35.712,Fort Belknap,tasmin
+2072,"High Emissions
+(SSP3-7.0)",39.663,36.57,37.621,Fort Belknap,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",40.796,37.169,37.871,Fort Belknap,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",37.082,32.465,33.612,Fort Belknap,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",39.611,33.92,36.445,Fort Belknap,tasmin
+2073,"High Emissions
+(SSP3-7.0)",40.687,35.192,38.008,Fort Belknap,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",41.369,36.111,39.017,Fort Belknap,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",39.588,31.835,35.028,Fort Belknap,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",37.338,35.08,36.69,Fort Belknap,tasmin
+2074,"High Emissions
+(SSP3-7.0)",39.945,35.306,37.199,Fort Belknap,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",40.765,36.347,38.54,Fort Belknap,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",37.806,32.855,34.404,Fort Belknap,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",39.352,33.572,35.172,Fort Belknap,tasmin
+2075,"High Emissions
+(SSP3-7.0)",39.885,35.851,37.047,Fort Belknap,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",41.513,35.945,39.972,Fort Belknap,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",37.09,31.773,33.644,Fort Belknap,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",38.413,35.122,35.822,Fort Belknap,tasmin
+2076,"High Emissions
+(SSP3-7.0)",39.72,36.455,37.72,Fort Belknap,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",41.646,36.702,38.162,Fort Belknap,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",37.19,33.152,35.171,Fort Belknap,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",40.046,35.409,36.289,Fort Belknap,tasmin
+2077,"High Emissions
+(SSP3-7.0)",41.186,36.222,38.206,Fort Belknap,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",42.515,37.029,39.3,Fort Belknap,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",36.893,34.029,35.568,Fort Belknap,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",37.494,34.789,35.516,Fort Belknap,tasmin
+2078,"High Emissions
+(SSP3-7.0)",40.574,36.319,38.023,Fort Belknap,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",40.246,37.21,37.931,Fort Belknap,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",36.043,33.465,35.348,Fort Belknap,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",38.839,35.121,36.095,Fort Belknap,tasmin
+2079,"High Emissions
+(SSP3-7.0)",40.827,35.713,38.586,Fort Belknap,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",41.868,36.973,40.051,Fort Belknap,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",36.7,32.972,34.244,Fort Belknap,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",37.981,34.368,35.952,Fort Belknap,tasmin
+2080,"High Emissions
+(SSP3-7.0)",39.304,36.569,38.33,Fort Belknap,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",43.482,37.971,40.915,Fort Belknap,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",38.086,31.223,34.79,Fort Belknap,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",38.462,34.847,36.404,Fort Belknap,tasmin
+2081,"High Emissions
+(SSP3-7.0)",41.678,36.407,37.332,Fort Belknap,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",43.455,39.042,40.753,Fort Belknap,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",38.087,32.748,35.782,Fort Belknap,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",39.923,35.113,37.249,Fort Belknap,tasmin
+2082,"High Emissions
+(SSP3-7.0)",41.535,36.314,37.309,Fort Belknap,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",43.6,38.28,40.702,Fort Belknap,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",36.762,32.497,35.043,Fort Belknap,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",40.047,34.32,36.192,Fort Belknap,tasmin
+2083,"High Emissions
+(SSP3-7.0)",41.254,35.766,38.835,Fort Belknap,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",43.695,38.713,41.012,Fort Belknap,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",38.043,32.653,34.331,Fort Belknap,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",39.345,35.572,37.826,Fort Belknap,tasmin
+2084,"High Emissions
+(SSP3-7.0)",43.039,36.789,39.98,Fort Belknap,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",42.733,38.676,40.244,Fort Belknap,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",36.254,31.324,33.857,Fort Belknap,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",38.85,33.579,37.248,Fort Belknap,tasmin
+2085,"High Emissions
+(SSP3-7.0)",41.222,36.347,38.24,Fort Belknap,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",43.415,39.038,39.883,Fort Belknap,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",38.357,34.325,35.706,Fort Belknap,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",38.138,35.358,37.149,Fort Belknap,tasmin
+2086,"High Emissions
+(SSP3-7.0)",43.381,36.91,39.346,Fort Belknap,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",44.132,38.148,41.399,Fort Belknap,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",36.253,32.998,33.96,Fort Belknap,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",40.781,34.225,37.341,Fort Belknap,tasmin
+2087,"High Emissions
+(SSP3-7.0)",42.586,36.96,39.689,Fort Belknap,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",43.949,39.008,39.878,Fort Belknap,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",36.909,32.836,34.718,Fort Belknap,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",38.74,34.673,36.757,Fort Belknap,tasmin
+2088,"High Emissions
+(SSP3-7.0)",43.145,37.157,39.527,Fort Belknap,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",43.721,39.518,40.595,Fort Belknap,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",35.901,33.059,34.664,Fort Belknap,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",39.06,35.497,36.721,Fort Belknap,tasmin
+2089,"High Emissions
+(SSP3-7.0)",41.931,37.278,38.917,Fort Belknap,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",44.72,39.473,42.869,Fort Belknap,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",38.567,33.109,35.633,Fort Belknap,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",39.091,34.99,37.882,Fort Belknap,tasmin
+2090,"High Emissions
+(SSP3-7.0)",41.521,36.963,38.362,Fort Belknap,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",45.06,39.898,41.82,Fort Belknap,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",37.909,33.474,35.108,Fort Belknap,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",39.03,35.195,37.935,Fort Belknap,tasmin
+2091,"High Emissions
+(SSP3-7.0)",42.975,36.45,38.554,Fort Belknap,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",45.833,38.602,40.542,Fort Belknap,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",39.557,32.036,36.473,Fort Belknap,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",39.16,34.961,36.242,Fort Belknap,tasmin
+2092,"High Emissions
+(SSP3-7.0)",41.963,36.827,39.301,Fort Belknap,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",44.972,39.782,41.184,Fort Belknap,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",37.495,32.149,34.622,Fort Belknap,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",39.949,34.404,36.841,Fort Belknap,tasmin
+2093,"High Emissions
+(SSP3-7.0)",42.688,37.56,39.671,Fort Belknap,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",45.689,39.254,41.713,Fort Belknap,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",37.573,31.676,35.196,Fort Belknap,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",39.794,33.659,35.884,Fort Belknap,tasmin
+2094,"High Emissions
+(SSP3-7.0)",43.514,37.534,40.05,Fort Belknap,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",46.442,39.495,42.471,Fort Belknap,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",36.357,33.72,35.757,Fort Belknap,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",40.926,35.446,38.039,Fort Belknap,tasmin
+2095,"High Emissions
+(SSP3-7.0)",44.158,36.505,39.546,Fort Belknap,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",45.479,38.977,39.981,Fort Belknap,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",36.744,33.261,34.764,Fort Belknap,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",40.033,36.558,38.11,Fort Belknap,tasmin
+2096,"High Emissions
+(SSP3-7.0)",42.244,38.657,40.614,Fort Belknap,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",45.359,38.859,42.623,Fort Belknap,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",38.082,32.394,34.226,Fort Belknap,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",39.556,36.61,37.546,Fort Belknap,tasmin
+2097,"High Emissions
+(SSP3-7.0)",43.298,37.676,40.191,Fort Belknap,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",48.338,38.863,42.481,Fort Belknap,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",36.001,32.102,34.654,Fort Belknap,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",39.344,34.768,36.707,Fort Belknap,tasmin
+2098,"High Emissions
+(SSP3-7.0)",44.067,38.487,39.83,Fort Belknap,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",45.445,39.839,42.839,Fort Belknap,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",39.069,32.305,34.885,Fort Belknap,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",39.75,35.135,36.656,Fort Belknap,tasmin
+2099,"High Emissions
+(SSP3-7.0)",45.007,37.078,40.072,Fort Belknap,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",46.1,39.994,43.146,Fort Belknap,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",37.325,32.242,33.926,Fort Belknap,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",40.347,35.673,38.092,Fort Belknap,tasmin
+2100,"High Emissions
+(SSP3-7.0)",43.475,37.715,40.011,Fort Belknap,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",46.113,39.273,41.994,Fort Belknap,tasmin

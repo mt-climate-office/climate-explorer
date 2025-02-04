@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,6.343,5.642,5.939,Big Hole,sfcWind
+1951,Historical Emissions,6.167,5.692,5.941,Big Hole,sfcWind
+1952,Historical Emissions,6.117,5.616,5.981,Big Hole,sfcWind
+1953,Historical Emissions,6.229,5.687,6.028,Big Hole,sfcWind
+1954,Historical Emissions,6.344,5.534,5.957,Big Hole,sfcWind
+1955,Historical Emissions,6.042,5.572,5.782,Big Hole,sfcWind
+1956,Historical Emissions,6.486,5.789,5.961,Big Hole,sfcWind
+1957,Historical Emissions,6.469,5.817,6.041,Big Hole,sfcWind
+1958,Historical Emissions,6.366,5.642,5.931,Big Hole,sfcWind
+1959,Historical Emissions,6.069,5.75,5.995,Big Hole,sfcWind
+1960,Historical Emissions,6.394,5.764,6.133,Big Hole,sfcWind
+1961,Historical Emissions,6.185,5.695,6.073,Big Hole,sfcWind
+1962,Historical Emissions,6.075,5.717,5.944,Big Hole,sfcWind
+1963,Historical Emissions,6.112,5.621,5.909,Big Hole,sfcWind
+1964,Historical Emissions,6.237,5.801,5.928,Big Hole,sfcWind
+1965,Historical Emissions,6.333,5.712,5.93,Big Hole,sfcWind
+1966,Historical Emissions,6.332,5.806,5.94,Big Hole,sfcWind
+1967,Historical Emissions,6.18,5.619,5.925,Big Hole,sfcWind
+1968,Historical Emissions,6.107,5.564,5.787,Big Hole,sfcWind
+1969,Historical Emissions,6.187,5.622,5.971,Big Hole,sfcWind
+1970,Historical Emissions,6.141,5.715,5.963,Big Hole,sfcWind
+1971,Historical Emissions,6.098,5.737,5.995,Big Hole,sfcWind
+1972,Historical Emissions,6.115,5.865,5.981,Big Hole,sfcWind
+1973,Historical Emissions,6.119,5.685,5.86,Big Hole,sfcWind
+1974,Historical Emissions,6.214,5.572,5.921,Big Hole,sfcWind
+1975,Historical Emissions,6.164,5.661,5.948,Big Hole,sfcWind
+1976,Historical Emissions,6.088,5.765,5.916,Big Hole,sfcWind
+1977,Historical Emissions,6.065,5.644,5.77,Big Hole,sfcWind
+1978,Historical Emissions,5.982,5.688,5.859,Big Hole,sfcWind
+1979,Historical Emissions,6.081,5.744,5.953,Big Hole,sfcWind
+1980,Historical Emissions,6.378,5.576,6.1,Big Hole,sfcWind
+1981,Historical Emissions,6.21,5.707,5.864,Big Hole,sfcWind
+1982,Historical Emissions,6.201,5.58,5.888,Big Hole,sfcWind
+1983,Historical Emissions,6.447,5.691,5.841,Big Hole,sfcWind
+1984,Historical Emissions,6.121,5.717,5.886,Big Hole,sfcWind
+1985,Historical Emissions,6.028,5.731,5.842,Big Hole,sfcWind
+1986,Historical Emissions,6.053,5.573,6.007,Big Hole,sfcWind
+1987,Historical Emissions,6.14,5.586,5.893,Big Hole,sfcWind
+1988,Historical Emissions,6.152,5.784,5.996,Big Hole,sfcWind
+1989,Historical Emissions,5.959,5.661,5.825,Big Hole,sfcWind
+1990,Historical Emissions,6.074,5.261,5.922,Big Hole,sfcWind
+1991,Historical Emissions,6.158,5.602,5.846,Big Hole,sfcWind
+1992,Historical Emissions,6.181,5.754,5.983,Big Hole,sfcWind
+1993,Historical Emissions,5.981,5.56,5.745,Big Hole,sfcWind
+1994,Historical Emissions,6.03,5.593,5.748,Big Hole,sfcWind
+1995,Historical Emissions,6.25,5.655,5.973,Big Hole,sfcWind
+1996,Historical Emissions,6.225,5.472,5.994,Big Hole,sfcWind
+1997,Historical Emissions,6.032,5.636,5.818,Big Hole,sfcWind
+1998,Historical Emissions,5.938,5.481,5.764,Big Hole,sfcWind
+1999,Historical Emissions,5.962,5.645,5.766,Big Hole,sfcWind
+2000,Historical Emissions,5.854,5.71,5.76,Big Hole,sfcWind
+2001,Historical Emissions,6.223,5.502,5.784,Big Hole,sfcWind
+2002,Historical Emissions,6.373,5.536,5.876,Big Hole,sfcWind
+2003,Historical Emissions,5.944,5.592,5.698,Big Hole,sfcWind
+2004,Historical Emissions,6.166,5.686,5.905,Big Hole,sfcWind
+2005,Historical Emissions,6.139,5.444,5.803,Big Hole,sfcWind
+2006,Historical Emissions,6.224,5.544,5.928,Big Hole,sfcWind
+2007,Historical Emissions,6.17,5.539,5.855,Big Hole,sfcWind
+2008,Historical Emissions,5.95,5.333,5.701,Big Hole,sfcWind
+2009,Historical Emissions,6.132,5.697,5.798,Big Hole,sfcWind
+2010,Historical Emissions,6.138,5.583,5.907,Big Hole,sfcWind
+2011,Historical Emissions,5.969,5.648,5.854,Big Hole,sfcWind
+2012,Historical Emissions,5.831,5.583,5.781,Big Hole,sfcWind
+2013,Historical Emissions,6.06,5.462,5.771,Big Hole,sfcWind
+2014,Historical Emissions,6.024,5.569,5.799,Big Hole,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",6.24,5.345,5.707,Big Hole,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",5.977,5.287,5.828,Big Hole,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",6.093,5.321,5.666,Big Hole,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",6.055,5.433,5.792,Big Hole,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",6.319,5.234,5.749,Big Hole,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",5.912,5.56,5.841,Big Hole,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",6.151,5.273,5.819,Big Hole,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",6.409,5.251,5.642,Big Hole,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",6.11,5.278,5.963,Big Hole,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",5.943,5.339,5.68,Big Hole,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",5.872,5.33,5.593,Big Hole,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",5.988,5.437,5.639,Big Hole,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",6.309,5.435,5.895,Big Hole,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",5.948,5.052,5.789,Big Hole,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",5.852,5.296,5.672,Big Hole,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",5.791,5.36,5.601,Big Hole,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",5.899,5.195,5.553,Big Hole,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",6.35,5.399,5.852,Big Hole,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",5.927,5.216,5.596,Big Hole,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",6.023,5.349,5.637,Big Hole,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",5.799,5.232,5.559,Big Hole,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",6.164,5.467,5.975,Big Hole,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",6.044,5.558,5.815,Big Hole,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",5.935,5.292,5.639,Big Hole,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",5.971,5.387,5.645,Big Hole,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",5.862,5.278,5.767,Big Hole,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",6.023,5.32,5.661,Big Hole,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",5.87,5.365,5.701,Big Hole,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",6.187,5.336,5.802,Big Hole,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",5.748,5.358,5.653,Big Hole,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",5.907,5.112,5.582,Big Hole,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",6.122,5.326,5.6,Big Hole,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",6.15,5.381,5.826,Big Hole,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",6.017,5.35,5.696,Big Hole,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",6.127,5.337,5.811,Big Hole,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",6.22,5.433,5.692,Big Hole,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",6.098,5.379,5.733,Big Hole,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",5.837,5.336,5.752,Big Hole,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",6.128,5.458,5.77,Big Hole,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",6.107,5.324,5.731,Big Hole,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",5.931,5.139,5.64,Big Hole,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",6.31,5.238,5.756,Big Hole,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",6.121,5.195,5.637,Big Hole,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",5.962,5.378,5.767,Big Hole,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",6.045,5.424,5.701,Big Hole,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",5.955,5.43,5.694,Big Hole,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",5.803,5.074,5.677,Big Hole,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",6.069,5.393,5.752,Big Hole,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",6.228,5.407,5.766,Big Hole,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",6.044,5.13,5.859,Big Hole,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",5.903,5.32,5.639,Big Hole,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",6.052,5.405,5.79,Big Hole,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",5.952,5.108,5.773,Big Hole,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",5.787,5.23,5.637,Big Hole,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",6.028,5.29,5.747,Big Hole,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",5.87,5.263,5.551,Big Hole,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",5.9,5.33,5.611,Big Hole,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",5.869,5.116,5.839,Big Hole,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",6.022,5.276,5.797,Big Hole,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",5.869,5.281,5.518,Big Hole,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",5.907,5.194,5.749,Big Hole,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",6.357,5.323,5.817,Big Hole,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",6.068,5.477,5.849,Big Hole,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",5.906,5.289,5.56,Big Hole,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",5.999,5.291,5.777,Big Hole,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",6.078,5.336,5.789,Big Hole,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",5.846,5.413,5.638,Big Hole,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",5.952,5.238,5.649,Big Hole,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",5.872,5.328,5.649,Big Hole,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",6.185,5.205,5.681,Big Hole,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",5.904,5.425,5.813,Big Hole,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",6.159,5.305,5.996,Big Hole,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",6.145,5.612,5.763,Big Hole,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",5.934,5.446,5.859,Big Hole,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",5.884,5.198,5.598,Big Hole,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",5.993,5.251,5.879,Big Hole,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",5.991,5.435,5.729,Big Hole,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",5.921,5.314,5.522,Big Hole,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",5.958,5.234,5.734,Big Hole,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",6.254,5.494,5.826,Big Hole,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",6.069,5.382,5.709,Big Hole,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",6.188,5.328,5.795,Big Hole,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",5.953,5.297,5.763,Big Hole,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",6.195,5.477,5.803,Big Hole,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",5.713,5.239,5.573,Big Hole,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",6.094,5.354,5.657,Big Hole,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",5.894,5.134,5.722,Big Hole,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",5.977,5.103,5.561,Big Hole,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",6.004,5.055,5.676,Big Hole,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",5.954,5.265,5.733,Big Hole,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",5.843,5.365,5.55,Big Hole,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",6.351,5.433,5.717,Big Hole,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",6.15,5.498,5.715,Big Hole,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",5.962,5.215,5.707,Big Hole,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",5.894,5.484,5.724,Big Hole,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",5.9,5.383,5.654,Big Hole,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",5.929,5.407,5.644,Big Hole,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",5.842,5.294,5.761,Big Hole,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",6.124,5.257,5.824,Big Hole,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",5.925,5.191,5.584,Big Hole,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",6.182,5.331,5.823,Big Hole,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",5.952,5.179,5.81,Big Hole,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",6.154,5.188,5.689,Big Hole,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",5.908,5.224,5.505,Big Hole,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",5.9,5.273,5.769,Big Hole,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",5.867,5.355,5.715,Big Hole,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",5.81,5.175,5.606,Big Hole,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",6.041,5.335,5.712,Big Hole,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",5.89,5.377,5.663,Big Hole,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",5.921,5.404,5.722,Big Hole,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",5.923,5.425,5.697,Big Hole,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",6.136,5.227,5.614,Big Hole,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",5.986,5.297,5.707,Big Hole,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",6.207,5.129,5.907,Big Hole,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",6.215,5.364,5.988,Big Hole,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",5.848,5.315,5.749,Big Hole,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",6.128,5.248,5.653,Big Hole,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",6.042,5.295,5.594,Big Hole,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",5.969,5.49,5.675,Big Hole,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",5.865,5.283,5.695,Big Hole,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",5.774,5.288,5.553,Big Hole,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",5.981,5.313,5.82,Big Hole,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",6.163,5.186,5.715,Big Hole,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",5.877,5.34,5.526,Big Hole,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",5.905,5.317,5.628,Big Hole,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",5.895,5.017,5.781,Big Hole,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",5.802,5.36,5.655,Big Hole,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",6.033,4.97,5.838,Big Hole,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",6.022,5.209,5.803,Big Hole,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",5.814,5.215,5.779,Big Hole,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",6.03,5.224,5.558,Big Hole,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",6.266,5.266,5.777,Big Hole,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",6.035,5.323,5.7,Big Hole,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",5.626,5.092,5.425,Big Hole,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",5.921,5.213,5.598,Big Hole,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",6.19,5.336,5.583,Big Hole,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",5.987,5.354,5.661,Big Hole,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",5.967,5.406,5.695,Big Hole,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",5.937,5.278,5.565,Big Hole,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",5.831,5.184,5.545,Big Hole,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",5.9,5.384,5.67,Big Hole,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",6.128,5.279,5.742,Big Hole,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",5.928,5.395,5.776,Big Hole,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",5.993,5.175,5.755,Big Hole,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",5.903,5.39,5.771,Big Hole,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",6.324,5.399,5.825,Big Hole,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",5.85,5.231,5.585,Big Hole,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",6.273,5.472,5.737,Big Hole,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",5.988,5.371,5.734,Big Hole,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",5.942,5.241,5.652,Big Hole,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",5.813,5.169,5.552,Big Hole,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",5.978,5.013,5.588,Big Hole,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",6.013,5.25,5.722,Big Hole,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",6.192,5.225,5.641,Big Hole,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",6.031,5.229,5.64,Big Hole,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",5.926,5.337,5.796,Big Hole,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",6.002,5.069,5.646,Big Hole,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",6.211,5.235,5.774,Big Hole,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",5.988,5.245,5.637,Big Hole,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",5.864,5.434,5.765,Big Hole,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",6.038,5.455,5.822,Big Hole,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",5.766,5.325,5.509,Big Hole,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",5.912,5.37,5.673,Big Hole,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",5.931,5.008,5.656,Big Hole,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",6.094,5.496,5.696,Big Hole,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",5.794,5.255,5.606,Big Hole,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",5.664,5.12,5.479,Big Hole,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",5.63,5.219,5.452,Big Hole,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",5.914,5.365,5.603,Big Hole,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",5.998,5.259,5.853,Big Hole,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",5.823,5.155,5.566,Big Hole,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",5.687,5.237,5.562,Big Hole,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",5.876,5.29,5.681,Big Hole,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",5.886,5.324,5.628,Big Hole,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",6.015,5.086,5.562,Big Hole,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",5.898,5.252,5.605,Big Hole,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",5.99,5.3,5.849,Big Hole,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",5.854,5.057,5.65,Big Hole,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",5.844,5.115,5.763,Big Hole,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",5.85,5.217,5.608,Big Hole,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",5.844,5.366,5.799,Big Hole,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",6.007,4.996,5.71,Big Hole,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",5.765,5.24,5.491,Big Hole,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",6.033,5.143,5.562,Big Hole,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",6.018,5.33,5.626,Big Hole,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",5.856,5.088,5.726,Big Hole,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",5.805,5.271,5.608,Big Hole,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",6.024,5.186,5.535,Big Hole,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",5.992,5.394,5.586,Big Hole,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",6.067,5.094,5.751,Big Hole,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",5.828,5.256,5.576,Big Hole,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",5.93,5.188,5.659,Big Hole,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",6.011,5.332,5.673,Big Hole,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",5.922,5.205,5.733,Big Hole,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",5.935,5.096,5.559,Big Hole,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",5.987,5.189,5.51,Big Hole,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",5.969,5.206,5.648,Big Hole,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",5.804,5.387,5.714,Big Hole,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",5.82,5.09,5.437,Big Hole,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",5.905,5.235,5.642,Big Hole,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",6.269,5.193,5.705,Big Hole,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",5.781,5.212,5.55,Big Hole,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",5.875,5.338,5.614,Big Hole,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",5.941,5.226,5.637,Big Hole,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",5.761,5.225,5.611,Big Hole,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",5.837,5.392,5.664,Big Hole,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",6.184,5.004,5.572,Big Hole,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",5.952,5.231,5.746,Big Hole,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",5.723,5.438,5.55,Big Hole,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",6.107,5.438,5.628,Big Hole,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",5.956,5.139,5.554,Big Hole,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",5.854,4.96,5.571,Big Hole,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",6.148,5.329,5.871,Big Hole,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",5.905,5.288,5.72,Big Hole,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",6.083,5.364,5.775,Big Hole,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",5.883,5.169,5.743,Big Hole,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",5.916,5.329,5.725,Big Hole,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",5.827,5.409,5.749,Big Hole,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",5.983,4.993,5.277,Big Hole,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",5.812,4.988,5.491,Big Hole,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",5.874,5.409,5.648,Big Hole,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",5.774,4.983,5.643,Big Hole,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",6.007,5.356,5.543,Big Hole,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",5.686,5.302,5.5,Big Hole,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",5.984,5.333,5.704,Big Hole,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",5.891,5.35,5.735,Big Hole,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",6.066,5.105,5.628,Big Hole,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",5.995,5.154,5.477,Big Hole,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",5.995,5.207,5.707,Big Hole,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",5.91,5.185,5.513,Big Hole,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",5.896,5.191,5.631,Big Hole,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",5.733,5.154,5.558,Big Hole,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",5.97,5.344,5.708,Big Hole,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",5.967,5.179,5.667,Big Hole,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",5.814,5.187,5.453,Big Hole,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",5.679,5.218,5.456,Big Hole,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",5.916,5.265,5.753,Big Hole,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",5.95,5.335,5.559,Big Hole,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",5.761,4.964,5.444,Big Hole,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",5.928,5.084,5.434,Big Hole,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",5.809,5.364,5.596,Big Hole,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",6.184,5.389,5.856,Big Hole,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",5.87,5.371,5.681,Big Hole,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",5.836,5.06,5.573,Big Hole,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",6.191,5.378,5.734,Big Hole,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",5.923,5.236,5.642,Big Hole,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",5.908,5.387,5.679,Big Hole,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",6.125,5.127,5.764,Big Hole,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",5.806,5.333,5.699,Big Hole,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",5.795,5.245,5.619,Big Hole,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",5.895,4.982,5.449,Big Hole,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",5.973,5.296,5.73,Big Hole,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",6.041,5.488,5.634,Big Hole,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",6.024,5.48,5.807,Big Hole,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",5.884,5.076,5.533,Big Hole,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",6.139,4.991,5.616,Big Hole,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",6.109,5.476,5.843,Big Hole,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",5.861,5.305,5.657,Big Hole,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",5.783,5.036,5.671,Big Hole,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",5.829,5.225,5.549,Big Hole,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",5.884,5.369,5.668,Big Hole,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",5.997,5.087,5.826,Big Hole,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",5.657,5.276,5.405,Big Hole,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",5.778,5.043,5.404,Big Hole,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",5.827,5.359,5.655,Big Hole,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",5.919,5.295,5.762,Big Hole,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",5.866,5.199,5.589,Big Hole,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",5.803,5.232,5.493,Big Hole,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",5.981,5.356,5.619,Big Hole,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",5.782,5.244,5.514,Big Hole,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",5.871,5.118,5.572,Big Hole,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",5.826,5.207,5.59,Big Hole,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",5.946,5.34,5.679,Big Hole,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",5.995,4.94,5.789,Big Hole,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",5.69,5.207,5.49,Big Hole,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",5.707,5.077,5.611,Big Hole,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",6.072,5.279,5.832,Big Hole,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",6.036,5.289,5.795,Big Hole,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",5.737,5.225,5.558,Big Hole,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",5.793,5.056,5.662,Big Hole,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",6.092,5.357,5.594,Big Hole,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",6.069,5.18,5.633,Big Hole,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",5.91,4.998,5.502,Big Hole,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",5.883,5.088,5.525,Big Hole,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",5.669,5.239,5.489,Big Hole,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",5.788,5.291,5.612,Big Hole,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",5.661,4.944,5.368,Big Hole,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",5.893,4.84,5.492,Big Hole,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",6.174,5.247,5.589,Big Hole,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",5.747,5.252,5.589,Big Hole,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",5.952,5.145,5.709,Big Hole,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",5.765,5.211,5.538,Big Hole,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",6.043,5.254,5.588,Big Hole,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",5.895,5.117,5.587,Big Hole,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",5.679,5.15,5.496,Big Hole,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",5.564,5.213,5.492,Big Hole,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",5.923,5.478,5.741,Big Hole,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",5.987,5.107,5.597,Big Hole,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",5.942,4.991,5.423,Big Hole,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",5.853,5.224,5.577,Big Hole,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",5.786,5.334,5.638,Big Hole,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",5.947,4.983,5.643,Big Hole,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",6.333,5.169,5.409,Big Hole,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",5.63,4.86,5.471,Big Hole,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",5.853,5.333,5.75,Big Hole,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",5.94,5.336,5.774,Big Hole,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",5.823,5.173,5.3,Big Hole,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",5.793,5.123,5.479,Big Hole,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",5.913,5.352,5.647,Big Hole,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",5.799,5.145,5.543,Big Hole,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",5.906,5.192,5.516,Big Hole,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",5.936,5.183,5.589,Big Hole,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",6.082,5.404,5.905,Big Hole,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",5.767,5.356,5.614,Big Hole,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",5.96,4.876,5.226,Big Hole,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",5.764,4.944,5.582,Big Hole,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",6.052,5.398,5.711,Big Hole,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",6.061,5.428,5.697,Big Hole,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",5.758,4.908,5.384,Big Hole,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",5.865,4.968,5.331,Big Hole,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",5.95,5.275,5.661,Big Hole,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",6.012,5.253,5.508,Big Hole,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",5.827,5.107,5.463,Big Hole,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",5.748,5.077,5.526,Big Hole,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",5.968,5.257,5.725,Big Hole,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",5.971,5.102,5.794,Big Hole,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",5.819,5.092,5.53,Big Hole,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",5.791,5.143,5.679,Big Hole,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",6.057,5.164,5.787,Big Hole,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",5.801,5.298,5.656,Big Hole,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",5.722,4.924,5.457,Big Hole,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",5.798,5.298,5.651,Big Hole,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",5.811,5.39,5.576,Big Hole,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",6.027,5.292,5.87,Big Hole,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",5.745,5.316,5.469,Big Hole,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",5.897,4.801,5.264,Big Hole,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",5.782,5.206,5.537,Big Hole,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",5.938,5.11,5.656,Big Hole,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",5.834,5.121,5.458,Big Hole,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",5.822,4.825,5.411,Big Hole,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",6.1,5.288,5.779,Big Hole,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",5.866,5.163,5.597,Big Hole,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",5.568,5.175,5.462,Big Hole,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",5.862,5.119,5.361,Big Hole,sfcWind

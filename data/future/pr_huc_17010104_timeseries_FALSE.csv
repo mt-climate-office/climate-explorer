@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,40.898,25.592,35.871,Lower Kootenai,pr
+1951,Historical Emissions,36.192,28.788,30.964,Lower Kootenai,pr
+1952,Historical Emissions,37.926,27.658,32.131,Lower Kootenai,pr
+1953,Historical Emissions,37.311,29.665,34.033,Lower Kootenai,pr
+1954,Historical Emissions,46.041,29.674,35.25,Lower Kootenai,pr
+1955,Historical Emissions,35.035,28.35,32.594,Lower Kootenai,pr
+1956,Historical Emissions,41.432,31.671,34.952,Lower Kootenai,pr
+1957,Historical Emissions,40.649,33.848,37.803,Lower Kootenai,pr
+1958,Historical Emissions,41.848,30.746,37.119,Lower Kootenai,pr
+1959,Historical Emissions,35.058,29.209,31.755,Lower Kootenai,pr
+1960,Historical Emissions,40.384,30.964,35.326,Lower Kootenai,pr
+1961,Historical Emissions,36.612,30.514,35.048,Lower Kootenai,pr
+1962,Historical Emissions,40.58,26.505,36.182,Lower Kootenai,pr
+1963,Historical Emissions,39.618,26.141,31.948,Lower Kootenai,pr
+1964,Historical Emissions,38.012,29.762,32.598,Lower Kootenai,pr
+1965,Historical Emissions,37.918,31.285,34.132,Lower Kootenai,pr
+1966,Historical Emissions,41.845,31.372,35.963,Lower Kootenai,pr
+1967,Historical Emissions,36.021,27.11,32.53,Lower Kootenai,pr
+1968,Historical Emissions,39.397,31.509,34.705,Lower Kootenai,pr
+1969,Historical Emissions,37.081,29.28,32.938,Lower Kootenai,pr
+1970,Historical Emissions,40.808,34.849,37.827,Lower Kootenai,pr
+1971,Historical Emissions,36.222,26.86,33.84,Lower Kootenai,pr
+1972,Historical Emissions,37.407,28.726,35.621,Lower Kootenai,pr
+1973,Historical Emissions,39.592,31.256,32.852,Lower Kootenai,pr
+1974,Historical Emissions,41.593,28.494,33.53,Lower Kootenai,pr
+1975,Historical Emissions,38.748,28.954,35.032,Lower Kootenai,pr
+1976,Historical Emissions,40.66,31.33,32.953,Lower Kootenai,pr
+1977,Historical Emissions,40.078,25.521,35.677,Lower Kootenai,pr
+1978,Historical Emissions,40.904,27.854,36.31,Lower Kootenai,pr
+1979,Historical Emissions,42.34,32.645,35.478,Lower Kootenai,pr
+1980,Historical Emissions,38.525,30.11,34.076,Lower Kootenai,pr
+1981,Historical Emissions,42.19,27.665,34.507,Lower Kootenai,pr
+1982,Historical Emissions,40.442,33.243,36.531,Lower Kootenai,pr
+1983,Historical Emissions,41.108,28.471,32.583,Lower Kootenai,pr
+1984,Historical Emissions,43.42,28.621,34.165,Lower Kootenai,pr
+1985,Historical Emissions,41.652,31.364,34.669,Lower Kootenai,pr
+1986,Historical Emissions,37.508,29.303,34.601,Lower Kootenai,pr
+1987,Historical Emissions,39.492,29.442,32.782,Lower Kootenai,pr
+1988,Historical Emissions,38.018,31.682,34.959,Lower Kootenai,pr
+1989,Historical Emissions,38.711,26.671,30.791,Lower Kootenai,pr
+1990,Historical Emissions,38.514,25.755,35.081,Lower Kootenai,pr
+1991,Historical Emissions,41.317,27.24,31.605,Lower Kootenai,pr
+1992,Historical Emissions,33.324,27.616,29.893,Lower Kootenai,pr
+1993,Historical Emissions,37.362,28.616,34.307,Lower Kootenai,pr
+1994,Historical Emissions,37.88,29.278,33.611,Lower Kootenai,pr
+1995,Historical Emissions,37.442,28.884,35.133,Lower Kootenai,pr
+1996,Historical Emissions,40.633,27.107,31.617,Lower Kootenai,pr
+1997,Historical Emissions,38.47,26.658,34.112,Lower Kootenai,pr
+1998,Historical Emissions,38.62,27.722,31.216,Lower Kootenai,pr
+1999,Historical Emissions,39.725,30.666,35.56,Lower Kootenai,pr
+2000,Historical Emissions,37.068,23.17,31.759,Lower Kootenai,pr
+2001,Historical Emissions,37.433,28.041,32.397,Lower Kootenai,pr
+2002,Historical Emissions,45.278,27.651,37.681,Lower Kootenai,pr
+2003,Historical Emissions,37.524,29.547,31.234,Lower Kootenai,pr
+2004,Historical Emissions,39.964,30.931,34.654,Lower Kootenai,pr
+2005,Historical Emissions,37.523,28.422,33.198,Lower Kootenai,pr
+2006,Historical Emissions,39.447,30.835,34.285,Lower Kootenai,pr
+2007,Historical Emissions,40.828,27.619,30.105,Lower Kootenai,pr
+2008,Historical Emissions,38.988,26.793,31.437,Lower Kootenai,pr
+2009,Historical Emissions,38.705,30.357,37.474,Lower Kootenai,pr
+2010,Historical Emissions,39.034,30.128,34.726,Lower Kootenai,pr
+2011,Historical Emissions,39.419,31.053,33.668,Lower Kootenai,pr
+2012,Historical Emissions,35.171,25.135,32.736,Lower Kootenai,pr
+2013,Historical Emissions,36.012,29.333,33.538,Lower Kootenai,pr
+2014,Historical Emissions,38.42,29.766,31.935,Lower Kootenai,pr
+2015,"Moderating Emissions
+(SSP1-2.6)",41.089,29.198,37.52,Lower Kootenai,pr
+2015,"Middle of the Road
+(SSP2-4.5)",37.088,27.974,33.969,Lower Kootenai,pr
+2015,"High Emissions
+(SSP3-7.0)",38.028,29.906,35.209,Lower Kootenai,pr
+2015,"Accelerating Emissions
+(SSP5-8.5)",39.633,34.33,35.298,Lower Kootenai,pr
+2016,"Moderating Emissions
+(SSP1-2.6)",42.698,27.585,36.473,Lower Kootenai,pr
+2016,"Middle of the Road
+(SSP2-4.5)",36.508,29.429,32.258,Lower Kootenai,pr
+2016,"High Emissions
+(SSP3-7.0)",38.897,32.157,35.432,Lower Kootenai,pr
+2016,"Accelerating Emissions
+(SSP5-8.5)",39.321,28.86,35.278,Lower Kootenai,pr
+2017,"Moderating Emissions
+(SSP1-2.6)",39.567,29.445,37.237,Lower Kootenai,pr
+2017,"Middle of the Road
+(SSP2-4.5)",36.818,29.624,33.178,Lower Kootenai,pr
+2017,"High Emissions
+(SSP3-7.0)",37.911,28.125,31.716,Lower Kootenai,pr
+2017,"Accelerating Emissions
+(SSP5-8.5)",38.268,27.487,35.243,Lower Kootenai,pr
+2018,"Moderating Emissions
+(SSP1-2.6)",41.717,28.029,32.804,Lower Kootenai,pr
+2018,"Middle of the Road
+(SSP2-4.5)",38.955,28.001,36.7,Lower Kootenai,pr
+2018,"High Emissions
+(SSP3-7.0)",37.441,25.798,33.209,Lower Kootenai,pr
+2018,"Accelerating Emissions
+(SSP5-8.5)",40.464,30.584,33.173,Lower Kootenai,pr
+2019,"Moderating Emissions
+(SSP1-2.6)",35.57,25.444,31.921,Lower Kootenai,pr
+2019,"Middle of the Road
+(SSP2-4.5)",42.885,35.516,37.957,Lower Kootenai,pr
+2019,"High Emissions
+(SSP3-7.0)",40.777,23.405,32.72,Lower Kootenai,pr
+2019,"Accelerating Emissions
+(SSP5-8.5)",40.919,30.92,36.162,Lower Kootenai,pr
+2020,"Moderating Emissions
+(SSP1-2.6)",37.13,27.584,32.8,Lower Kootenai,pr
+2020,"Middle of the Road
+(SSP2-4.5)",41.754,28.326,38.51,Lower Kootenai,pr
+2020,"High Emissions
+(SSP3-7.0)",41.324,31.525,35.341,Lower Kootenai,pr
+2020,"Accelerating Emissions
+(SSP5-8.5)",38.38,28.3,35.489,Lower Kootenai,pr
+2021,"Moderating Emissions
+(SSP1-2.6)",35.559,25.954,31.496,Lower Kootenai,pr
+2021,"Middle of the Road
+(SSP2-4.5)",36.749,26.379,34.272,Lower Kootenai,pr
+2021,"High Emissions
+(SSP3-7.0)",39.557,27.536,35.005,Lower Kootenai,pr
+2021,"Accelerating Emissions
+(SSP5-8.5)",41.572,31.322,35.258,Lower Kootenai,pr
+2022,"Moderating Emissions
+(SSP1-2.6)",40.618,31.458,36.477,Lower Kootenai,pr
+2022,"Middle of the Road
+(SSP2-4.5)",37.978,29.172,35.355,Lower Kootenai,pr
+2022,"High Emissions
+(SSP3-7.0)",38.941,31.059,34.334,Lower Kootenai,pr
+2022,"Accelerating Emissions
+(SSP5-8.5)",39.408,31.421,36.824,Lower Kootenai,pr
+2023,"Moderating Emissions
+(SSP1-2.6)",43.726,32.206,37.688,Lower Kootenai,pr
+2023,"Middle of the Road
+(SSP2-4.5)",40.131,28.866,36.7,Lower Kootenai,pr
+2023,"High Emissions
+(SSP3-7.0)",41.106,28.985,36.806,Lower Kootenai,pr
+2023,"Accelerating Emissions
+(SSP5-8.5)",45.554,34.222,39.949,Lower Kootenai,pr
+2024,"Moderating Emissions
+(SSP1-2.6)",39.233,30.662,37.53,Lower Kootenai,pr
+2024,"Middle of the Road
+(SSP2-4.5)",34.4,24.537,33.321,Lower Kootenai,pr
+2024,"High Emissions
+(SSP3-7.0)",37.747,30.704,34.524,Lower Kootenai,pr
+2024,"Accelerating Emissions
+(SSP5-8.5)",43.767,32.15,36.506,Lower Kootenai,pr
+2025,"Moderating Emissions
+(SSP1-2.6)",38.833,28.176,34.635,Lower Kootenai,pr
+2025,"Middle of the Road
+(SSP2-4.5)",42.759,29.996,35.705,Lower Kootenai,pr
+2025,"High Emissions
+(SSP3-7.0)",37.48,29.707,34.808,Lower Kootenai,pr
+2025,"Accelerating Emissions
+(SSP5-8.5)",39.321,31.169,34.309,Lower Kootenai,pr
+2026,"Moderating Emissions
+(SSP1-2.6)",38.676,30.533,34.351,Lower Kootenai,pr
+2026,"Middle of the Road
+(SSP2-4.5)",39.362,27.789,33.586,Lower Kootenai,pr
+2026,"High Emissions
+(SSP3-7.0)",39.105,30.864,35.393,Lower Kootenai,pr
+2026,"Accelerating Emissions
+(SSP5-8.5)",41.255,30.546,34.969,Lower Kootenai,pr
+2027,"Moderating Emissions
+(SSP1-2.6)",43.499,30.447,36.123,Lower Kootenai,pr
+2027,"Middle of the Road
+(SSP2-4.5)",37.895,26.772,32.319,Lower Kootenai,pr
+2027,"High Emissions
+(SSP3-7.0)",37.296,29.93,34.341,Lower Kootenai,pr
+2027,"Accelerating Emissions
+(SSP5-8.5)",36.933,28.477,35.067,Lower Kootenai,pr
+2028,"Moderating Emissions
+(SSP1-2.6)",42.17,29.613,32.614,Lower Kootenai,pr
+2028,"Middle of the Road
+(SSP2-4.5)",40.726,31.409,36.182,Lower Kootenai,pr
+2028,"High Emissions
+(SSP3-7.0)",40.769,28.072,32.174,Lower Kootenai,pr
+2028,"Accelerating Emissions
+(SSP5-8.5)",36.396,30.943,33.137,Lower Kootenai,pr
+2029,"Moderating Emissions
+(SSP1-2.6)",40.382,31.715,36.914,Lower Kootenai,pr
+2029,"Middle of the Road
+(SSP2-4.5)",39.872,27.358,35.683,Lower Kootenai,pr
+2029,"High Emissions
+(SSP3-7.0)",38.173,26.182,34.166,Lower Kootenai,pr
+2029,"Accelerating Emissions
+(SSP5-8.5)",38.074,28.325,36.192,Lower Kootenai,pr
+2030,"Moderating Emissions
+(SSP1-2.6)",41.897,28.728,35.318,Lower Kootenai,pr
+2030,"Middle of the Road
+(SSP2-4.5)",37.722,29.674,35.403,Lower Kootenai,pr
+2030,"High Emissions
+(SSP3-7.0)",41.413,29.36,36.347,Lower Kootenai,pr
+2030,"Accelerating Emissions
+(SSP5-8.5)",44.046,27.986,32.639,Lower Kootenai,pr
+2031,"Moderating Emissions
+(SSP1-2.6)",41.366,30.51,35.108,Lower Kootenai,pr
+2031,"Middle of the Road
+(SSP2-4.5)",44.528,26.605,37.825,Lower Kootenai,pr
+2031,"High Emissions
+(SSP3-7.0)",39.509,29.515,31.886,Lower Kootenai,pr
+2031,"Accelerating Emissions
+(SSP5-8.5)",38.148,30.28,33.142,Lower Kootenai,pr
+2032,"Moderating Emissions
+(SSP1-2.6)",37.441,26.309,33.563,Lower Kootenai,pr
+2032,"Middle of the Road
+(SSP2-4.5)",40.213,29.519,31.738,Lower Kootenai,pr
+2032,"High Emissions
+(SSP3-7.0)",36.585,29.433,31.425,Lower Kootenai,pr
+2032,"Accelerating Emissions
+(SSP5-8.5)",39.323,30.806,35.165,Lower Kootenai,pr
+2033,"Moderating Emissions
+(SSP1-2.6)",40.476,33.626,35.953,Lower Kootenai,pr
+2033,"Middle of the Road
+(SSP2-4.5)",41.569,32.061,34.357,Lower Kootenai,pr
+2033,"High Emissions
+(SSP3-7.0)",40.725,25.921,34.573,Lower Kootenai,pr
+2033,"Accelerating Emissions
+(SSP5-8.5)",37.749,31.856,33.176,Lower Kootenai,pr
+2034,"Moderating Emissions
+(SSP1-2.6)",39.575,30.626,34.33,Lower Kootenai,pr
+2034,"Middle of the Road
+(SSP2-4.5)",40.547,28.386,34.629,Lower Kootenai,pr
+2034,"High Emissions
+(SSP3-7.0)",35.97,26.865,32.693,Lower Kootenai,pr
+2034,"Accelerating Emissions
+(SSP5-8.5)",44.633,34.199,37.8,Lower Kootenai,pr
+2035,"Moderating Emissions
+(SSP1-2.6)",40.215,27.469,31.225,Lower Kootenai,pr
+2035,"Middle of the Road
+(SSP2-4.5)",44.742,31.399,36.236,Lower Kootenai,pr
+2035,"High Emissions
+(SSP3-7.0)",41.937,28.044,33.222,Lower Kootenai,pr
+2035,"Accelerating Emissions
+(SSP5-8.5)",43.436,36.562,38.819,Lower Kootenai,pr
+2036,"Moderating Emissions
+(SSP1-2.6)",37.921,30.016,31.808,Lower Kootenai,pr
+2036,"Middle of the Road
+(SSP2-4.5)",41.331,25.529,34.217,Lower Kootenai,pr
+2036,"High Emissions
+(SSP3-7.0)",41.783,25.412,31.948,Lower Kootenai,pr
+2036,"Accelerating Emissions
+(SSP5-8.5)",41.723,31.201,35.246,Lower Kootenai,pr
+2037,"Moderating Emissions
+(SSP1-2.6)",40.931,30.265,36.377,Lower Kootenai,pr
+2037,"Middle of the Road
+(SSP2-4.5)",40.902,31.38,36.774,Lower Kootenai,pr
+2037,"High Emissions
+(SSP3-7.0)",41.574,30.277,38.936,Lower Kootenai,pr
+2037,"Accelerating Emissions
+(SSP5-8.5)",43.333,33.218,38.945,Lower Kootenai,pr
+2038,"Moderating Emissions
+(SSP1-2.6)",43.088,31.711,34.895,Lower Kootenai,pr
+2038,"Middle of the Road
+(SSP2-4.5)",40.464,30.291,32.306,Lower Kootenai,pr
+2038,"High Emissions
+(SSP3-7.0)",38.082,32.327,35.347,Lower Kootenai,pr
+2038,"Accelerating Emissions
+(SSP5-8.5)",43.216,30.199,36.878,Lower Kootenai,pr
+2039,"Moderating Emissions
+(SSP1-2.6)",43.903,28.108,35.173,Lower Kootenai,pr
+2039,"Middle of the Road
+(SSP2-4.5)",38.87,29.98,34.764,Lower Kootenai,pr
+2039,"High Emissions
+(SSP3-7.0)",42.663,29.797,36.681,Lower Kootenai,pr
+2039,"Accelerating Emissions
+(SSP5-8.5)",41.142,29.631,35.392,Lower Kootenai,pr
+2040,"Moderating Emissions
+(SSP1-2.6)",44.077,28.89,38.528,Lower Kootenai,pr
+2040,"Middle of the Road
+(SSP2-4.5)",39.732,27.418,36.896,Lower Kootenai,pr
+2040,"High Emissions
+(SSP3-7.0)",38.642,32.217,34.139,Lower Kootenai,pr
+2040,"Accelerating Emissions
+(SSP5-8.5)",41.965,27.863,35.79,Lower Kootenai,pr
+2041,"Moderating Emissions
+(SSP1-2.6)",41.15,30.58,38.328,Lower Kootenai,pr
+2041,"Middle of the Road
+(SSP2-4.5)",38.283,30.87,33.902,Lower Kootenai,pr
+2041,"High Emissions
+(SSP3-7.0)",39.386,28.384,32.646,Lower Kootenai,pr
+2041,"Accelerating Emissions
+(SSP5-8.5)",43.967,30.906,39.416,Lower Kootenai,pr
+2042,"Moderating Emissions
+(SSP1-2.6)",41.774,34.606,36.81,Lower Kootenai,pr
+2042,"Middle of the Road
+(SSP2-4.5)",39.962,29.564,37.111,Lower Kootenai,pr
+2042,"High Emissions
+(SSP3-7.0)",39.799,32.196,35.789,Lower Kootenai,pr
+2042,"Accelerating Emissions
+(SSP5-8.5)",42.905,32.662,37.338,Lower Kootenai,pr
+2043,"Moderating Emissions
+(SSP1-2.6)",40.001,31.844,33.628,Lower Kootenai,pr
+2043,"Middle of the Road
+(SSP2-4.5)",42.038,27.654,32.096,Lower Kootenai,pr
+2043,"High Emissions
+(SSP3-7.0)",40.03,30.72,36.538,Lower Kootenai,pr
+2043,"Accelerating Emissions
+(SSP5-8.5)",42.267,30.507,32.067,Lower Kootenai,pr
+2044,"Moderating Emissions
+(SSP1-2.6)",41.124,33.089,34.547,Lower Kootenai,pr
+2044,"Middle of the Road
+(SSP2-4.5)",38.835,27.412,35.762,Lower Kootenai,pr
+2044,"High Emissions
+(SSP3-7.0)",41.924,28.826,32.143,Lower Kootenai,pr
+2044,"Accelerating Emissions
+(SSP5-8.5)",39.921,29.612,36.756,Lower Kootenai,pr
+2045,"Moderating Emissions
+(SSP1-2.6)",39.368,26.675,32.488,Lower Kootenai,pr
+2045,"Middle of the Road
+(SSP2-4.5)",40.963,33.981,36.417,Lower Kootenai,pr
+2045,"High Emissions
+(SSP3-7.0)",38.47,29.155,35.218,Lower Kootenai,pr
+2045,"Accelerating Emissions
+(SSP5-8.5)",37.834,27.808,33.771,Lower Kootenai,pr
+2046,"Moderating Emissions
+(SSP1-2.6)",37.386,28.712,33.625,Lower Kootenai,pr
+2046,"Middle of the Road
+(SSP2-4.5)",42.523,29.579,35.495,Lower Kootenai,pr
+2046,"High Emissions
+(SSP3-7.0)",38.819,32.957,38.228,Lower Kootenai,pr
+2046,"Accelerating Emissions
+(SSP5-8.5)",42.088,31.135,38.116,Lower Kootenai,pr
+2047,"Moderating Emissions
+(SSP1-2.6)",39.721,29.778,36.379,Lower Kootenai,pr
+2047,"Middle of the Road
+(SSP2-4.5)",39.877,31.942,36.46,Lower Kootenai,pr
+2047,"High Emissions
+(SSP3-7.0)",37.048,29.03,31.26,Lower Kootenai,pr
+2047,"Accelerating Emissions
+(SSP5-8.5)",43.306,32.141,34.263,Lower Kootenai,pr
+2048,"Moderating Emissions
+(SSP1-2.6)",41.694,32.893,37.254,Lower Kootenai,pr
+2048,"Middle of the Road
+(SSP2-4.5)",37.257,30.03,31.555,Lower Kootenai,pr
+2048,"High Emissions
+(SSP3-7.0)",41.454,34.148,37.769,Lower Kootenai,pr
+2048,"Accelerating Emissions
+(SSP5-8.5)",42.678,28.479,35.796,Lower Kootenai,pr
+2049,"Moderating Emissions
+(SSP1-2.6)",38.25,28.921,34.97,Lower Kootenai,pr
+2049,"Middle of the Road
+(SSP2-4.5)",42.844,32.659,35.736,Lower Kootenai,pr
+2049,"High Emissions
+(SSP3-7.0)",40.25,30.612,36.856,Lower Kootenai,pr
+2049,"Accelerating Emissions
+(SSP5-8.5)",40.372,30.248,34.692,Lower Kootenai,pr
+2050,"Moderating Emissions
+(SSP1-2.6)",41.285,31.007,37.515,Lower Kootenai,pr
+2050,"Middle of the Road
+(SSP2-4.5)",43.423,29.288,37.873,Lower Kootenai,pr
+2050,"High Emissions
+(SSP3-7.0)",42.101,32.412,35.866,Lower Kootenai,pr
+2050,"Accelerating Emissions
+(SSP5-8.5)",43.571,29.603,39.462,Lower Kootenai,pr
+2051,"Moderating Emissions
+(SSP1-2.6)",41.351,32.438,36.401,Lower Kootenai,pr
+2051,"Middle of the Road
+(SSP2-4.5)",45.329,33.168,38.812,Lower Kootenai,pr
+2051,"High Emissions
+(SSP3-7.0)",43.287,30.697,33.922,Lower Kootenai,pr
+2051,"Accelerating Emissions
+(SSP5-8.5)",40.961,31.381,33.345,Lower Kootenai,pr
+2052,"Moderating Emissions
+(SSP1-2.6)",40.951,34.844,38.853,Lower Kootenai,pr
+2052,"Middle of the Road
+(SSP2-4.5)",38.037,33.158,35.546,Lower Kootenai,pr
+2052,"High Emissions
+(SSP3-7.0)",41.063,29.882,37.082,Lower Kootenai,pr
+2052,"Accelerating Emissions
+(SSP5-8.5)",41.223,25.742,35.153,Lower Kootenai,pr
+2053,"Moderating Emissions
+(SSP1-2.6)",41.722,28.834,35.874,Lower Kootenai,pr
+2053,"Middle of the Road
+(SSP2-4.5)",40.661,28.646,36.38,Lower Kootenai,pr
+2053,"High Emissions
+(SSP3-7.0)",37.987,30.02,33.581,Lower Kootenai,pr
+2053,"Accelerating Emissions
+(SSP5-8.5)",43.733,36.009,38.157,Lower Kootenai,pr
+2054,"Moderating Emissions
+(SSP1-2.6)",36.264,30.784,32.626,Lower Kootenai,pr
+2054,"Middle of the Road
+(SSP2-4.5)",39.928,31.771,37.348,Lower Kootenai,pr
+2054,"High Emissions
+(SSP3-7.0)",41.599,30.293,37.351,Lower Kootenai,pr
+2054,"Accelerating Emissions
+(SSP5-8.5)",38.651,30.618,37.436,Lower Kootenai,pr
+2055,"Moderating Emissions
+(SSP1-2.6)",41.488,31.708,35.106,Lower Kootenai,pr
+2055,"Middle of the Road
+(SSP2-4.5)",35.148,26.336,32.719,Lower Kootenai,pr
+2055,"High Emissions
+(SSP3-7.0)",42.854,29.891,33.206,Lower Kootenai,pr
+2055,"Accelerating Emissions
+(SSP5-8.5)",40.563,30.133,34.953,Lower Kootenai,pr
+2056,"Moderating Emissions
+(SSP1-2.6)",43.682,32.449,36.314,Lower Kootenai,pr
+2056,"Middle of the Road
+(SSP2-4.5)",43.069,29.778,35.763,Lower Kootenai,pr
+2056,"High Emissions
+(SSP3-7.0)",39.538,28.652,32.217,Lower Kootenai,pr
+2056,"Accelerating Emissions
+(SSP5-8.5)",37.829,32.319,35.605,Lower Kootenai,pr
+2057,"Moderating Emissions
+(SSP1-2.6)",43.657,31.915,35.224,Lower Kootenai,pr
+2057,"Middle of the Road
+(SSP2-4.5)",41.011,29.396,31.894,Lower Kootenai,pr
+2057,"High Emissions
+(SSP3-7.0)",39.986,28.937,35.612,Lower Kootenai,pr
+2057,"Accelerating Emissions
+(SSP5-8.5)",38.838,31.022,36.101,Lower Kootenai,pr
+2058,"Moderating Emissions
+(SSP1-2.6)",39.003,25.235,35.29,Lower Kootenai,pr
+2058,"Middle of the Road
+(SSP2-4.5)",41.361,30.802,36.286,Lower Kootenai,pr
+2058,"High Emissions
+(SSP3-7.0)",41.607,30.999,37.753,Lower Kootenai,pr
+2058,"Accelerating Emissions
+(SSP5-8.5)",40.324,34.153,37.159,Lower Kootenai,pr
+2059,"Moderating Emissions
+(SSP1-2.6)",41.04,29.309,31.688,Lower Kootenai,pr
+2059,"Middle of the Road
+(SSP2-4.5)",37.994,30.703,33.857,Lower Kootenai,pr
+2059,"High Emissions
+(SSP3-7.0)",36.705,25.993,34.825,Lower Kootenai,pr
+2059,"Accelerating Emissions
+(SSP5-8.5)",40.906,29.005,37.337,Lower Kootenai,pr
+2060,"Moderating Emissions
+(SSP1-2.6)",38.874,28.389,31.159,Lower Kootenai,pr
+2060,"Middle of the Road
+(SSP2-4.5)",35.597,30.765,33.232,Lower Kootenai,pr
+2060,"High Emissions
+(SSP3-7.0)",43.972,30.963,36.417,Lower Kootenai,pr
+2060,"Accelerating Emissions
+(SSP5-8.5)",46.766,32.811,36.817,Lower Kootenai,pr
+2061,"Moderating Emissions
+(SSP1-2.6)",43.447,27.336,34.534,Lower Kootenai,pr
+2061,"Middle of the Road
+(SSP2-4.5)",40.381,30.227,35.214,Lower Kootenai,pr
+2061,"High Emissions
+(SSP3-7.0)",40.023,27.418,36.262,Lower Kootenai,pr
+2061,"Accelerating Emissions
+(SSP5-8.5)",42.099,31.276,34.751,Lower Kootenai,pr
+2062,"Moderating Emissions
+(SSP1-2.6)",44.826,30.858,34.471,Lower Kootenai,pr
+2062,"Middle of the Road
+(SSP2-4.5)",41.882,28.926,33.132,Lower Kootenai,pr
+2062,"High Emissions
+(SSP3-7.0)",43.444,30.1,33.413,Lower Kootenai,pr
+2062,"Accelerating Emissions
+(SSP5-8.5)",41.879,29.3,34.678,Lower Kootenai,pr
+2063,"Moderating Emissions
+(SSP1-2.6)",35.652,29.771,33.899,Lower Kootenai,pr
+2063,"Middle of the Road
+(SSP2-4.5)",45.978,32.448,40.166,Lower Kootenai,pr
+2063,"High Emissions
+(SSP3-7.0)",38.172,27.204,30.887,Lower Kootenai,pr
+2063,"Accelerating Emissions
+(SSP5-8.5)",46.005,27.692,32.249,Lower Kootenai,pr
+2064,"Moderating Emissions
+(SSP1-2.6)",41.764,32.01,34.195,Lower Kootenai,pr
+2064,"Middle of the Road
+(SSP2-4.5)",41.573,29.786,35.513,Lower Kootenai,pr
+2064,"High Emissions
+(SSP3-7.0)",41.414,28.089,31.918,Lower Kootenai,pr
+2064,"Accelerating Emissions
+(SSP5-8.5)",41.908,30.75,37.763,Lower Kootenai,pr
+2065,"Moderating Emissions
+(SSP1-2.6)",44.105,31.663,37.613,Lower Kootenai,pr
+2065,"Middle of the Road
+(SSP2-4.5)",37.535,31.308,35.385,Lower Kootenai,pr
+2065,"High Emissions
+(SSP3-7.0)",39.575,31.906,34.527,Lower Kootenai,pr
+2065,"Accelerating Emissions
+(SSP5-8.5)",42.097,29.938,39.548,Lower Kootenai,pr
+2066,"Moderating Emissions
+(SSP1-2.6)",38.206,28.742,34.221,Lower Kootenai,pr
+2066,"Middle of the Road
+(SSP2-4.5)",44.432,29.268,33.701,Lower Kootenai,pr
+2066,"High Emissions
+(SSP3-7.0)",42.677,32.206,40.075,Lower Kootenai,pr
+2066,"Accelerating Emissions
+(SSP5-8.5)",47.291,28.248,34.638,Lower Kootenai,pr
+2067,"Moderating Emissions
+(SSP1-2.6)",44.057,32.459,34.847,Lower Kootenai,pr
+2067,"Middle of the Road
+(SSP2-4.5)",46.242,36.356,38.498,Lower Kootenai,pr
+2067,"High Emissions
+(SSP3-7.0)",42.181,24.236,34.123,Lower Kootenai,pr
+2067,"Accelerating Emissions
+(SSP5-8.5)",39.14,34.5,35.568,Lower Kootenai,pr
+2068,"Moderating Emissions
+(SSP1-2.6)",43.154,33.073,40.056,Lower Kootenai,pr
+2068,"Middle of the Road
+(SSP2-4.5)",40.842,30.315,37.819,Lower Kootenai,pr
+2068,"High Emissions
+(SSP3-7.0)",44.414,33.045,41.422,Lower Kootenai,pr
+2068,"Accelerating Emissions
+(SSP5-8.5)",47.451,32.38,39.649,Lower Kootenai,pr
+2069,"Moderating Emissions
+(SSP1-2.6)",42.719,27.325,35.544,Lower Kootenai,pr
+2069,"Middle of the Road
+(SSP2-4.5)",46.788,30.356,36.565,Lower Kootenai,pr
+2069,"High Emissions
+(SSP3-7.0)",41.252,26.392,33.708,Lower Kootenai,pr
+2069,"Accelerating Emissions
+(SSP5-8.5)",40.796,24.808,32.806,Lower Kootenai,pr
+2070,"Moderating Emissions
+(SSP1-2.6)",37.529,31.047,32.043,Lower Kootenai,pr
+2070,"Middle of the Road
+(SSP2-4.5)",40.243,33.501,38.699,Lower Kootenai,pr
+2070,"High Emissions
+(SSP3-7.0)",41.837,32.84,37.372,Lower Kootenai,pr
+2070,"Accelerating Emissions
+(SSP5-8.5)",40.077,31.847,36.856,Lower Kootenai,pr
+2071,"Moderating Emissions
+(SSP1-2.6)",39.436,32.453,36.26,Lower Kootenai,pr
+2071,"Middle of the Road
+(SSP2-4.5)",39.124,30.834,36.655,Lower Kootenai,pr
+2071,"High Emissions
+(SSP3-7.0)",46.843,32.214,40.033,Lower Kootenai,pr
+2071,"Accelerating Emissions
+(SSP5-8.5)",38.694,29.222,34.992,Lower Kootenai,pr
+2072,"Moderating Emissions
+(SSP1-2.6)",37.158,30.067,34.895,Lower Kootenai,pr
+2072,"Middle of the Road
+(SSP2-4.5)",42.703,28.201,28.903,Lower Kootenai,pr
+2072,"High Emissions
+(SSP3-7.0)",42.31,30.305,33.876,Lower Kootenai,pr
+2072,"Accelerating Emissions
+(SSP5-8.5)",40.759,25.59,35.601,Lower Kootenai,pr
+2073,"Moderating Emissions
+(SSP1-2.6)",42.848,31.164,35.5,Lower Kootenai,pr
+2073,"Middle of the Road
+(SSP2-4.5)",39.555,28.645,36.368,Lower Kootenai,pr
+2073,"High Emissions
+(SSP3-7.0)",40.724,28.055,34.014,Lower Kootenai,pr
+2073,"Accelerating Emissions
+(SSP5-8.5)",44.92,25.351,32.736,Lower Kootenai,pr
+2074,"Moderating Emissions
+(SSP1-2.6)",41.558,31.719,36.569,Lower Kootenai,pr
+2074,"Middle of the Road
+(SSP2-4.5)",40.85,31.892,35.25,Lower Kootenai,pr
+2074,"High Emissions
+(SSP3-7.0)",41.781,27.803,35.256,Lower Kootenai,pr
+2074,"Accelerating Emissions
+(SSP5-8.5)",36.535,30.015,32.107,Lower Kootenai,pr
+2075,"Moderating Emissions
+(SSP1-2.6)",40.114,28.259,35.181,Lower Kootenai,pr
+2075,"Middle of the Road
+(SSP2-4.5)",46.984,30.147,38.47,Lower Kootenai,pr
+2075,"High Emissions
+(SSP3-7.0)",41.368,29.79,36.825,Lower Kootenai,pr
+2075,"Accelerating Emissions
+(SSP5-8.5)",43.625,27.841,35.305,Lower Kootenai,pr
+2076,"Moderating Emissions
+(SSP1-2.6)",43.487,27.98,39.372,Lower Kootenai,pr
+2076,"Middle of the Road
+(SSP2-4.5)",39.83,32.102,37.365,Lower Kootenai,pr
+2076,"High Emissions
+(SSP3-7.0)",40.529,33.741,37.989,Lower Kootenai,pr
+2076,"Accelerating Emissions
+(SSP5-8.5)",45.729,30.792,36.021,Lower Kootenai,pr
+2077,"Moderating Emissions
+(SSP1-2.6)",41.341,30.883,34.024,Lower Kootenai,pr
+2077,"Middle of the Road
+(SSP2-4.5)",42.608,32.809,38.024,Lower Kootenai,pr
+2077,"High Emissions
+(SSP3-7.0)",40.709,29.807,36.017,Lower Kootenai,pr
+2077,"Accelerating Emissions
+(SSP5-8.5)",44.831,31.715,35.091,Lower Kootenai,pr
+2078,"Moderating Emissions
+(SSP1-2.6)",38.318,28.952,36.809,Lower Kootenai,pr
+2078,"Middle of the Road
+(SSP2-4.5)",48.962,27.652,38.218,Lower Kootenai,pr
+2078,"High Emissions
+(SSP3-7.0)",38.971,28.246,34.056,Lower Kootenai,pr
+2078,"Accelerating Emissions
+(SSP5-8.5)",45.195,34.013,38.799,Lower Kootenai,pr
+2079,"Moderating Emissions
+(SSP1-2.6)",45.024,28.847,36.765,Lower Kootenai,pr
+2079,"Middle of the Road
+(SSP2-4.5)",41.112,31.299,34.287,Lower Kootenai,pr
+2079,"High Emissions
+(SSP3-7.0)",37.44,30.894,33.096,Lower Kootenai,pr
+2079,"Accelerating Emissions
+(SSP5-8.5)",42.968,30.464,32.444,Lower Kootenai,pr
+2080,"Moderating Emissions
+(SSP1-2.6)",39.279,30.525,36.496,Lower Kootenai,pr
+2080,"Middle of the Road
+(SSP2-4.5)",44.607,33.788,39.871,Lower Kootenai,pr
+2080,"High Emissions
+(SSP3-7.0)",36.891,30.216,34.064,Lower Kootenai,pr
+2080,"Accelerating Emissions
+(SSP5-8.5)",43.056,28.51,36.433,Lower Kootenai,pr
+2081,"Moderating Emissions
+(SSP1-2.6)",36.98,27.907,34.535,Lower Kootenai,pr
+2081,"Middle of the Road
+(SSP2-4.5)",40.815,31.347,36.217,Lower Kootenai,pr
+2081,"High Emissions
+(SSP3-7.0)",40.576,31.017,33.378,Lower Kootenai,pr
+2081,"Accelerating Emissions
+(SSP5-8.5)",48.435,30.87,34.848,Lower Kootenai,pr
+2082,"Moderating Emissions
+(SSP1-2.6)",39.95,31.743,36.149,Lower Kootenai,pr
+2082,"Middle of the Road
+(SSP2-4.5)",40.523,31.425,35.564,Lower Kootenai,pr
+2082,"High Emissions
+(SSP3-7.0)",41.156,28.399,35.52,Lower Kootenai,pr
+2082,"Accelerating Emissions
+(SSP5-8.5)",43.997,35.31,38.957,Lower Kootenai,pr
+2083,"Moderating Emissions
+(SSP1-2.6)",38.181,28.937,35.493,Lower Kootenai,pr
+2083,"Middle of the Road
+(SSP2-4.5)",39.6,27.209,34.075,Lower Kootenai,pr
+2083,"High Emissions
+(SSP3-7.0)",43.787,31.944,37.757,Lower Kootenai,pr
+2083,"Accelerating Emissions
+(SSP5-8.5)",41.967,30.369,36.349,Lower Kootenai,pr
+2084,"Moderating Emissions
+(SSP1-2.6)",45.434,32.136,36.637,Lower Kootenai,pr
+2084,"Middle of the Road
+(SSP2-4.5)",44.602,27.089,40.874,Lower Kootenai,pr
+2084,"High Emissions
+(SSP3-7.0)",37.14,30.305,33.723,Lower Kootenai,pr
+2084,"Accelerating Emissions
+(SSP5-8.5)",46.514,31.643,34.795,Lower Kootenai,pr
+2085,"Moderating Emissions
+(SSP1-2.6)",40.548,30.184,36.497,Lower Kootenai,pr
+2085,"Middle of the Road
+(SSP2-4.5)",44.491,31.426,36.099,Lower Kootenai,pr
+2085,"High Emissions
+(SSP3-7.0)",42.22,32.594,37.756,Lower Kootenai,pr
+2085,"Accelerating Emissions
+(SSP5-8.5)",46.795,31.37,37.359,Lower Kootenai,pr
+2086,"Moderating Emissions
+(SSP1-2.6)",41.764,29.046,34.169,Lower Kootenai,pr
+2086,"Middle of the Road
+(SSP2-4.5)",42.203,29.111,38.37,Lower Kootenai,pr
+2086,"High Emissions
+(SSP3-7.0)",40.91,27.558,35.415,Lower Kootenai,pr
+2086,"Accelerating Emissions
+(SSP5-8.5)",41.781,34.777,39.436,Lower Kootenai,pr
+2087,"Moderating Emissions
+(SSP1-2.6)",40.505,33.309,34.646,Lower Kootenai,pr
+2087,"Middle of the Road
+(SSP2-4.5)",41.767,33.689,38.219,Lower Kootenai,pr
+2087,"High Emissions
+(SSP3-7.0)",41.614,34.559,38.482,Lower Kootenai,pr
+2087,"Accelerating Emissions
+(SSP5-8.5)",46.586,30.821,38.525,Lower Kootenai,pr
+2088,"Moderating Emissions
+(SSP1-2.6)",43.665,31.949,36.124,Lower Kootenai,pr
+2088,"Middle of the Road
+(SSP2-4.5)",41.373,28.924,36.65,Lower Kootenai,pr
+2088,"High Emissions
+(SSP3-7.0)",40.978,30.404,38.051,Lower Kootenai,pr
+2088,"Accelerating Emissions
+(SSP5-8.5)",42.354,22.569,38.047,Lower Kootenai,pr
+2089,"Moderating Emissions
+(SSP1-2.6)",42.188,29.89,39.293,Lower Kootenai,pr
+2089,"Middle of the Road
+(SSP2-4.5)",37.908,27.745,31.87,Lower Kootenai,pr
+2089,"High Emissions
+(SSP3-7.0)",42.835,25.659,35.354,Lower Kootenai,pr
+2089,"Accelerating Emissions
+(SSP5-8.5)",47.039,36.274,40.163,Lower Kootenai,pr
+2090,"Moderating Emissions
+(SSP1-2.6)",41.332,32.23,34.442,Lower Kootenai,pr
+2090,"Middle of the Road
+(SSP2-4.5)",43.214,29.359,34.652,Lower Kootenai,pr
+2090,"High Emissions
+(SSP3-7.0)",43.987,26.536,35.563,Lower Kootenai,pr
+2090,"Accelerating Emissions
+(SSP5-8.5)",42.702,32.523,36.234,Lower Kootenai,pr
+2091,"Moderating Emissions
+(SSP1-2.6)",42.863,31.112,35.808,Lower Kootenai,pr
+2091,"Middle of the Road
+(SSP2-4.5)",41.227,32.592,40.102,Lower Kootenai,pr
+2091,"High Emissions
+(SSP3-7.0)",41.998,25.265,34.114,Lower Kootenai,pr
+2091,"Accelerating Emissions
+(SSP5-8.5)",47.504,29.188,40.32,Lower Kootenai,pr
+2092,"Moderating Emissions
+(SSP1-2.6)",39.605,30.643,35.489,Lower Kootenai,pr
+2092,"Middle of the Road
+(SSP2-4.5)",41.863,26.522,35.3,Lower Kootenai,pr
+2092,"High Emissions
+(SSP3-7.0)",44.591,35.089,39.185,Lower Kootenai,pr
+2092,"Accelerating Emissions
+(SSP5-8.5)",46.736,27.974,37.865,Lower Kootenai,pr
+2093,"Moderating Emissions
+(SSP1-2.6)",42.665,30.392,35.875,Lower Kootenai,pr
+2093,"Middle of the Road
+(SSP2-4.5)",43.529,29.022,39.447,Lower Kootenai,pr
+2093,"High Emissions
+(SSP3-7.0)",39.842,29.107,38.145,Lower Kootenai,pr
+2093,"Accelerating Emissions
+(SSP5-8.5)",48.353,31.211,39.612,Lower Kootenai,pr
+2094,"Moderating Emissions
+(SSP1-2.6)",43.844,33.448,36.206,Lower Kootenai,pr
+2094,"Middle of the Road
+(SSP2-4.5)",43.98,32.075,37.293,Lower Kootenai,pr
+2094,"High Emissions
+(SSP3-7.0)",41.499,32.651,39.209,Lower Kootenai,pr
+2094,"Accelerating Emissions
+(SSP5-8.5)",41.19,31.327,36.998,Lower Kootenai,pr
+2095,"Moderating Emissions
+(SSP1-2.6)",45.493,28.912,35.052,Lower Kootenai,pr
+2095,"Middle of the Road
+(SSP2-4.5)",43.573,31.295,38.327,Lower Kootenai,pr
+2095,"High Emissions
+(SSP3-7.0)",42.014,32.113,40.734,Lower Kootenai,pr
+2095,"Accelerating Emissions
+(SSP5-8.5)",38.655,30.799,35.391,Lower Kootenai,pr
+2096,"Moderating Emissions
+(SSP1-2.6)",36.144,28.665,32.264,Lower Kootenai,pr
+2096,"Middle of the Road
+(SSP2-4.5)",42.289,30.644,37.19,Lower Kootenai,pr
+2096,"High Emissions
+(SSP3-7.0)",39.195,32.163,34.31,Lower Kootenai,pr
+2096,"Accelerating Emissions
+(SSP5-8.5)",44.186,32.744,39.474,Lower Kootenai,pr
+2097,"Moderating Emissions
+(SSP1-2.6)",35.88,29.963,33.323,Lower Kootenai,pr
+2097,"Middle of the Road
+(SSP2-4.5)",41.743,31.85,35.848,Lower Kootenai,pr
+2097,"High Emissions
+(SSP3-7.0)",43.181,26.435,29.534,Lower Kootenai,pr
+2097,"Accelerating Emissions
+(SSP5-8.5)",57.365,30.739,45.888,Lower Kootenai,pr
+2098,"Moderating Emissions
+(SSP1-2.6)",38.232,30.159,32.412,Lower Kootenai,pr
+2098,"Middle of the Road
+(SSP2-4.5)",41.633,30.128,37.452,Lower Kootenai,pr
+2098,"High Emissions
+(SSP3-7.0)",41.57,30.519,33.406,Lower Kootenai,pr
+2098,"Accelerating Emissions
+(SSP5-8.5)",41.714,26.366,36.846,Lower Kootenai,pr
+2099,"Moderating Emissions
+(SSP1-2.6)",40.05,29.221,36.192,Lower Kootenai,pr
+2099,"Middle of the Road
+(SSP2-4.5)",41.926,35.53,39.482,Lower Kootenai,pr
+2099,"High Emissions
+(SSP3-7.0)",45.118,30.5,40.843,Lower Kootenai,pr
+2099,"Accelerating Emissions
+(SSP5-8.5)",47.815,29.796,38.02,Lower Kootenai,pr
+2100,"Moderating Emissions
+(SSP1-2.6)",43.831,32.124,40.479,Lower Kootenai,pr
+2100,"Middle of the Road
+(SSP2-4.5)",44.928,31.551,37.248,Lower Kootenai,pr
+2100,"High Emissions
+(SSP3-7.0)",43.009,30.19,38.515,Lower Kootenai,pr
+2100,"Accelerating Emissions
+(SSP5-8.5)",43.669,31.164,34.65,Lower Kootenai,pr

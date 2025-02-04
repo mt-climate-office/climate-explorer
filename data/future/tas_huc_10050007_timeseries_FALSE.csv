@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,43.188,40.632,41.514,Lodge,tas
+1951,Historical Emissions,42.8,40.186,41.632,Lodge,tas
+1952,Historical Emissions,43.09,39.267,40.968,Lodge,tas
+1953,Historical Emissions,42.197,38.627,41.087,Lodge,tas
+1954,Historical Emissions,44.069,37.713,40.378,Lodge,tas
+1955,Historical Emissions,44.022,39.822,40.754,Lodge,tas
+1956,Historical Emissions,43.692,40.182,41.591,Lodge,tas
+1957,Historical Emissions,44.744,40.122,42.275,Lodge,tas
+1958,Historical Emissions,42.481,39.199,41.049,Lodge,tas
+1959,Historical Emissions,41.357,37.673,40.012,Lodge,tas
+1960,Historical Emissions,43.03,37.29,40.235,Lodge,tas
+1961,Historical Emissions,43.399,39.246,41.777,Lodge,tas
+1962,Historical Emissions,41.337,38.299,39.648,Lodge,tas
+1963,Historical Emissions,41.002,39.899,40,Lodge,tas
+1964,Historical Emissions,42.703,38.957,41.801,Lodge,tas
+1965,Historical Emissions,41.599,39.832,40.864,Lodge,tas
+1966,Historical Emissions,44.695,39.083,40.456,Lodge,tas
+1967,Historical Emissions,41.599,39.064,41.234,Lodge,tas
+1968,Historical Emissions,41.415,37.111,40.304,Lodge,tas
+1969,Historical Emissions,42.309,38.738,41.456,Lodge,tas
+1970,Historical Emissions,42.507,40.034,41.191,Lodge,tas
+1971,Historical Emissions,44.661,40.895,42.404,Lodge,tas
+1972,Historical Emissions,42.101,39.662,40.853,Lodge,tas
+1973,Historical Emissions,42.418,38.818,40.805,Lodge,tas
+1974,Historical Emissions,43.082,39.082,41.924,Lodge,tas
+1975,Historical Emissions,42.657,38.263,41.884,Lodge,tas
+1976,Historical Emissions,42.01,38.831,40.766,Lodge,tas
+1977,Historical Emissions,43.661,40.804,41.986,Lodge,tas
+1978,Historical Emissions,43.545,38.601,40.59,Lodge,tas
+1979,Historical Emissions,43.811,39.367,42.182,Lodge,tas
+1980,Historical Emissions,41.936,39.584,40.671,Lodge,tas
+1981,Historical Emissions,43.417,40.721,41.186,Lodge,tas
+1982,Historical Emissions,42.739,39.996,41.018,Lodge,tas
+1983,Historical Emissions,42.963,39.268,40.608,Lodge,tas
+1984,Historical Emissions,43.081,39.969,40.969,Lodge,tas
+1985,Historical Emissions,43.225,39.964,41.846,Lodge,tas
+1986,Historical Emissions,41.704,38.943,39.835,Lodge,tas
+1987,Historical Emissions,42.767,37.012,40.05,Lodge,tas
+1988,Historical Emissions,42.605,39.152,40.658,Lodge,tas
+1989,Historical Emissions,43.179,40.224,41.56,Lodge,tas
+1990,Historical Emissions,45.274,40.592,42.093,Lodge,tas
+1991,Historical Emissions,43.758,39.278,40.544,Lodge,tas
+1992,Historical Emissions,43.752,39.39,40.637,Lodge,tas
+1993,Historical Emissions,43.398,39.522,41.139,Lodge,tas
+1994,Historical Emissions,43.943,40.36,41.396,Lodge,tas
+1995,Historical Emissions,44.018,39.932,40.656,Lodge,tas
+1996,Historical Emissions,44.246,40.965,42.542,Lodge,tas
+1997,Historical Emissions,44.63,40.048,41.876,Lodge,tas
+1998,Historical Emissions,43.671,39.489,41.576,Lodge,tas
+1999,Historical Emissions,43.883,40.519,42.695,Lodge,tas
+2000,Historical Emissions,43.465,40.877,41.397,Lodge,tas
+2001,Historical Emissions,43.953,40.443,42.2,Lodge,tas
+2002,Historical Emissions,45.72,40.639,41.677,Lodge,tas
+2003,Historical Emissions,44.57,41.623,42.687,Lodge,tas
+2004,Historical Emissions,44.435,42.053,43.185,Lodge,tas
+2005,Historical Emissions,46.429,41.491,43.328,Lodge,tas
+2006,Historical Emissions,44.186,40.07,42.283,Lodge,tas
+2007,Historical Emissions,44.264,42.255,43.219,Lodge,tas
+2008,Historical Emissions,44.6,41.481,42.822,Lodge,tas
+2009,Historical Emissions,43.805,41.161,42.566,Lodge,tas
+2010,Historical Emissions,44.471,40.806,43.128,Lodge,tas
+2011,Historical Emissions,45.142,42.359,43.019,Lodge,tas
+2012,Historical Emissions,44.424,41.994,43.786,Lodge,tas
+2013,Historical Emissions,45.511,41.789,42.93,Lodge,tas
+2014,Historical Emissions,45.947,42.407,43.523,Lodge,tas
+2015,"Moderating Emissions
+(SSP1-2.6)",46.324,41.975,44.013,Lodge,tas
+2015,"Middle of the Road
+(SSP2-4.5)",45.888,41.325,42.454,Lodge,tas
+2015,"High Emissions
+(SSP3-7.0)",44.859,41.795,43.152,Lodge,tas
+2015,"Accelerating Emissions
+(SSP5-8.5)",44.731,42.08,43.363,Lodge,tas
+2016,"Moderating Emissions
+(SSP1-2.6)",46.012,42.291,44.611,Lodge,tas
+2016,"Middle of the Road
+(SSP2-4.5)",44.752,41.583,43.478,Lodge,tas
+2016,"High Emissions
+(SSP3-7.0)",47.085,41.618,43.551,Lodge,tas
+2016,"Accelerating Emissions
+(SSP5-8.5)",44.977,42.14,44.32,Lodge,tas
+2017,"Moderating Emissions
+(SSP1-2.6)",44.905,41.757,43,Lodge,tas
+2017,"Middle of the Road
+(SSP2-4.5)",46.327,41.113,43.017,Lodge,tas
+2017,"High Emissions
+(SSP3-7.0)",45.763,42.202,43.292,Lodge,tas
+2017,"Accelerating Emissions
+(SSP5-8.5)",45.439,42.47,44.01,Lodge,tas
+2018,"Moderating Emissions
+(SSP1-2.6)",44.842,41.689,43.432,Lodge,tas
+2018,"Middle of the Road
+(SSP2-4.5)",45.741,42.361,43.349,Lodge,tas
+2018,"High Emissions
+(SSP3-7.0)",46.304,40.808,43.55,Lodge,tas
+2018,"Accelerating Emissions
+(SSP5-8.5)",45.686,41.343,43.338,Lodge,tas
+2019,"Moderating Emissions
+(SSP1-2.6)",46.707,43.192,45.349,Lodge,tas
+2019,"Middle of the Road
+(SSP2-4.5)",44.717,40.849,42.765,Lodge,tas
+2019,"High Emissions
+(SSP3-7.0)",46.771,41.166,43.045,Lodge,tas
+2019,"Accelerating Emissions
+(SSP5-8.5)",47.039,43.143,44.82,Lodge,tas
+2020,"Moderating Emissions
+(SSP1-2.6)",47.631,41.899,43.953,Lodge,tas
+2020,"Middle of the Road
+(SSP2-4.5)",45.182,41.951,43.52,Lodge,tas
+2020,"High Emissions
+(SSP3-7.0)",45.148,41.768,44.155,Lodge,tas
+2020,"Accelerating Emissions
+(SSP5-8.5)",45.828,42.585,44.17,Lodge,tas
+2021,"Moderating Emissions
+(SSP1-2.6)",46.935,42.675,43.921,Lodge,tas
+2021,"Middle of the Road
+(SSP2-4.5)",45.786,42.621,44.526,Lodge,tas
+2021,"High Emissions
+(SSP3-7.0)",45.838,43.109,44.682,Lodge,tas
+2021,"Accelerating Emissions
+(SSP5-8.5)",45.418,42.477,44.337,Lodge,tas
+2022,"Moderating Emissions
+(SSP1-2.6)",46.148,42.18,43.863,Lodge,tas
+2022,"Middle of the Road
+(SSP2-4.5)",45.911,42.244,44.052,Lodge,tas
+2022,"High Emissions
+(SSP3-7.0)",45.743,42.827,43.32,Lodge,tas
+2022,"Accelerating Emissions
+(SSP5-8.5)",47.002,42.243,44.616,Lodge,tas
+2023,"Moderating Emissions
+(SSP1-2.6)",44.88,42.978,44.151,Lodge,tas
+2023,"Middle of the Road
+(SSP2-4.5)",46.074,42.86,44.098,Lodge,tas
+2023,"High Emissions
+(SSP3-7.0)",46.516,42.328,44.561,Lodge,tas
+2023,"Accelerating Emissions
+(SSP5-8.5)",44.628,40.926,42.37,Lodge,tas
+2024,"Moderating Emissions
+(SSP1-2.6)",46.386,42.58,43.945,Lodge,tas
+2024,"Middle of the Road
+(SSP2-4.5)",45.511,42.773,43.719,Lodge,tas
+2024,"High Emissions
+(SSP3-7.0)",47.605,42.506,43.642,Lodge,tas
+2024,"Accelerating Emissions
+(SSP5-8.5)",46.854,41.986,44.328,Lodge,tas
+2025,"Moderating Emissions
+(SSP1-2.6)",46.56,43.918,45.503,Lodge,tas
+2025,"Middle of the Road
+(SSP2-4.5)",46.297,41.629,43.446,Lodge,tas
+2025,"High Emissions
+(SSP3-7.0)",46.767,43.099,45.183,Lodge,tas
+2025,"Accelerating Emissions
+(SSP5-8.5)",47.438,43.716,45.615,Lodge,tas
+2026,"Moderating Emissions
+(SSP1-2.6)",46.526,42.28,43.511,Lodge,tas
+2026,"Middle of the Road
+(SSP2-4.5)",46.396,41.968,44.712,Lodge,tas
+2026,"High Emissions
+(SSP3-7.0)",47.086,40.752,44.448,Lodge,tas
+2026,"Accelerating Emissions
+(SSP5-8.5)",46.575,42.671,44.694,Lodge,tas
+2027,"Moderating Emissions
+(SSP1-2.6)",46.2,41.746,44.533,Lodge,tas
+2027,"Middle of the Road
+(SSP2-4.5)",46.885,42.769,45.111,Lodge,tas
+2027,"High Emissions
+(SSP3-7.0)",46.433,42.649,44.742,Lodge,tas
+2027,"Accelerating Emissions
+(SSP5-8.5)",46.619,42.946,44.878,Lodge,tas
+2028,"Moderating Emissions
+(SSP1-2.6)",46.15,43.008,44.859,Lodge,tas
+2028,"Middle of the Road
+(SSP2-4.5)",46.427,40.627,44.178,Lodge,tas
+2028,"High Emissions
+(SSP3-7.0)",46.213,43.719,44.522,Lodge,tas
+2028,"Accelerating Emissions
+(SSP5-8.5)",47.245,43.269,44.24,Lodge,tas
+2029,"Moderating Emissions
+(SSP1-2.6)",48.046,43.952,45.662,Lodge,tas
+2029,"Middle of the Road
+(SSP2-4.5)",47.08,42.38,44.705,Lodge,tas
+2029,"High Emissions
+(SSP3-7.0)",46.577,42.053,44.098,Lodge,tas
+2029,"Accelerating Emissions
+(SSP5-8.5)",45.669,44.166,44.685,Lodge,tas
+2030,"Moderating Emissions
+(SSP1-2.6)",47.959,42.793,43.32,Lodge,tas
+2030,"Middle of the Road
+(SSP2-4.5)",48.412,43.599,45.077,Lodge,tas
+2030,"High Emissions
+(SSP3-7.0)",47.451,42.559,44.265,Lodge,tas
+2030,"Accelerating Emissions
+(SSP5-8.5)",47.224,41.999,45.7,Lodge,tas
+2031,"Moderating Emissions
+(SSP1-2.6)",46.565,42.134,45.048,Lodge,tas
+2031,"Middle of the Road
+(SSP2-4.5)",46.767,43.17,44.468,Lodge,tas
+2031,"High Emissions
+(SSP3-7.0)",47.598,42.424,45.962,Lodge,tas
+2031,"Accelerating Emissions
+(SSP5-8.5)",48.506,44.612,46.444,Lodge,tas
+2032,"Moderating Emissions
+(SSP1-2.6)",45.963,43.06,44.006,Lodge,tas
+2032,"Middle of the Road
+(SSP2-4.5)",45.369,42.844,44.481,Lodge,tas
+2032,"High Emissions
+(SSP3-7.0)",47.215,43.127,44.545,Lodge,tas
+2032,"Accelerating Emissions
+(SSP5-8.5)",47.971,42.817,43.378,Lodge,tas
+2033,"Moderating Emissions
+(SSP1-2.6)",47.045,42.839,45.338,Lodge,tas
+2033,"Middle of the Road
+(SSP2-4.5)",47.664,44.032,45.099,Lodge,tas
+2033,"High Emissions
+(SSP3-7.0)",46.603,43.206,44.387,Lodge,tas
+2033,"Accelerating Emissions
+(SSP5-8.5)",46.392,43.849,45.569,Lodge,tas
+2034,"Moderating Emissions
+(SSP1-2.6)",46.353,42.487,44.33,Lodge,tas
+2034,"Middle of the Road
+(SSP2-4.5)",46.832,43.768,44.91,Lodge,tas
+2034,"High Emissions
+(SSP3-7.0)",47.146,44.257,45.534,Lodge,tas
+2034,"Accelerating Emissions
+(SSP5-8.5)",47.112,41.392,44.803,Lodge,tas
+2035,"Moderating Emissions
+(SSP1-2.6)",46.92,42.333,45.697,Lodge,tas
+2035,"Middle of the Road
+(SSP2-4.5)",47.904,42.056,45.757,Lodge,tas
+2035,"High Emissions
+(SSP3-7.0)",46.185,42.05,44.048,Lodge,tas
+2035,"Accelerating Emissions
+(SSP5-8.5)",47.801,42.548,45.405,Lodge,tas
+2036,"Moderating Emissions
+(SSP1-2.6)",46.969,43.906,46.065,Lodge,tas
+2036,"Middle of the Road
+(SSP2-4.5)",46.158,42.834,45.083,Lodge,tas
+2036,"High Emissions
+(SSP3-7.0)",46.299,42.879,44.807,Lodge,tas
+2036,"Accelerating Emissions
+(SSP5-8.5)",47.665,42.942,46.393,Lodge,tas
+2037,"Moderating Emissions
+(SSP1-2.6)",47.45,44.252,46.071,Lodge,tas
+2037,"Middle of the Road
+(SSP2-4.5)",46.989,42.264,45.656,Lodge,tas
+2037,"High Emissions
+(SSP3-7.0)",46.666,42.461,44.602,Lodge,tas
+2037,"Accelerating Emissions
+(SSP5-8.5)",48.003,44.087,45.705,Lodge,tas
+2038,"Moderating Emissions
+(SSP1-2.6)",48.035,44.291,45.873,Lodge,tas
+2038,"Middle of the Road
+(SSP2-4.5)",45.895,43.226,44.901,Lodge,tas
+2038,"High Emissions
+(SSP3-7.0)",48.563,43.596,44.937,Lodge,tas
+2038,"Accelerating Emissions
+(SSP5-8.5)",49.056,43.527,47.502,Lodge,tas
+2039,"Moderating Emissions
+(SSP1-2.6)",47.588,43.437,45.828,Lodge,tas
+2039,"Middle of the Road
+(SSP2-4.5)",47.372,43.284,45.144,Lodge,tas
+2039,"High Emissions
+(SSP3-7.0)",47.809,44.902,45.866,Lodge,tas
+2039,"Accelerating Emissions
+(SSP5-8.5)",48.575,43.056,46.424,Lodge,tas
+2040,"Moderating Emissions
+(SSP1-2.6)",47.809,43.768,44.795,Lodge,tas
+2040,"Middle of the Road
+(SSP2-4.5)",46.528,43.83,45.405,Lodge,tas
+2040,"High Emissions
+(SSP3-7.0)",48.376,43.876,45.668,Lodge,tas
+2040,"Accelerating Emissions
+(SSP5-8.5)",49.848,44.621,45.982,Lodge,tas
+2041,"Moderating Emissions
+(SSP1-2.6)",46.812,41.638,45.278,Lodge,tas
+2041,"Middle of the Road
+(SSP2-4.5)",46.243,44.666,45.15,Lodge,tas
+2041,"High Emissions
+(SSP3-7.0)",47.135,43.778,44.903,Lodge,tas
+2041,"Accelerating Emissions
+(SSP5-8.5)",46.227,44.101,45.642,Lodge,tas
+2042,"Moderating Emissions
+(SSP1-2.6)",48.805,44.004,45.241,Lodge,tas
+2042,"Middle of the Road
+(SSP2-4.5)",46.3,42.522,44.037,Lodge,tas
+2042,"High Emissions
+(SSP3-7.0)",46.643,44.334,44.886,Lodge,tas
+2042,"Accelerating Emissions
+(SSP5-8.5)",48.68,44.601,45.99,Lodge,tas
+2043,"Moderating Emissions
+(SSP1-2.6)",46.279,43.89,45.883,Lodge,tas
+2043,"Middle of the Road
+(SSP2-4.5)",47.634,43.333,45.868,Lodge,tas
+2043,"High Emissions
+(SSP3-7.0)",46.567,43.036,45.5,Lodge,tas
+2043,"Accelerating Emissions
+(SSP5-8.5)",47.519,45.465,46.334,Lodge,tas
+2044,"Moderating Emissions
+(SSP1-2.6)",47.538,43.94,45.602,Lodge,tas
+2044,"Middle of the Road
+(SSP2-4.5)",48.927,44.577,47.536,Lodge,tas
+2044,"High Emissions
+(SSP3-7.0)",46.817,44.47,45.683,Lodge,tas
+2044,"Accelerating Emissions
+(SSP5-8.5)",49.879,43.922,45.886,Lodge,tas
+2045,"Moderating Emissions
+(SSP1-2.6)",47.662,44.432,45.585,Lodge,tas
+2045,"Middle of the Road
+(SSP2-4.5)",48.438,43.256,47.293,Lodge,tas
+2045,"High Emissions
+(SSP3-7.0)",47.387,43.356,45.167,Lodge,tas
+2045,"Accelerating Emissions
+(SSP5-8.5)",47.073,43.784,46.224,Lodge,tas
+2046,"Moderating Emissions
+(SSP1-2.6)",50.061,42.068,46.7,Lodge,tas
+2046,"Middle of the Road
+(SSP2-4.5)",47.537,43.196,45.229,Lodge,tas
+2046,"High Emissions
+(SSP3-7.0)",48.469,45.17,46.115,Lodge,tas
+2046,"Accelerating Emissions
+(SSP5-8.5)",48.091,43.918,44.99,Lodge,tas
+2047,"Moderating Emissions
+(SSP1-2.6)",47.138,43.969,46.319,Lodge,tas
+2047,"Middle of the Road
+(SSP2-4.5)",48.161,40.672,45.435,Lodge,tas
+2047,"High Emissions
+(SSP3-7.0)",46.537,43.584,45.229,Lodge,tas
+2047,"Accelerating Emissions
+(SSP5-8.5)",49.274,43.997,47.055,Lodge,tas
+2048,"Moderating Emissions
+(SSP1-2.6)",46.77,43.88,44.988,Lodge,tas
+2048,"Middle of the Road
+(SSP2-4.5)",48.68,43.711,46.536,Lodge,tas
+2048,"High Emissions
+(SSP3-7.0)",48.541,43.964,46.008,Lodge,tas
+2048,"Accelerating Emissions
+(SSP5-8.5)",50.988,45.342,48.176,Lodge,tas
+2049,"Moderating Emissions
+(SSP1-2.6)",47.272,42.18,44.841,Lodge,tas
+2049,"Middle of the Road
+(SSP2-4.5)",48.541,45.912,46.545,Lodge,tas
+2049,"High Emissions
+(SSP3-7.0)",49.013,44.58,47.191,Lodge,tas
+2049,"Accelerating Emissions
+(SSP5-8.5)",47.985,45.545,47.097,Lodge,tas
+2050,"Moderating Emissions
+(SSP1-2.6)",47.025,42.909,45.752,Lodge,tas
+2050,"Middle of the Road
+(SSP2-4.5)",49.311,44.964,46.329,Lodge,tas
+2050,"High Emissions
+(SSP3-7.0)",49.164,44.773,46.596,Lodge,tas
+2050,"Accelerating Emissions
+(SSP5-8.5)",49.031,45.435,47.865,Lodge,tas
+2051,"Moderating Emissions
+(SSP1-2.6)",48.151,43.582,45.872,Lodge,tas
+2051,"Middle of the Road
+(SSP2-4.5)",49.618,44.419,45.972,Lodge,tas
+2051,"High Emissions
+(SSP3-7.0)",47.911,45.285,46.303,Lodge,tas
+2051,"Accelerating Emissions
+(SSP5-8.5)",48.768,45.29,47.344,Lodge,tas
+2052,"Moderating Emissions
+(SSP1-2.6)",47.503,44.448,45.458,Lodge,tas
+2052,"Middle of the Road
+(SSP2-4.5)",48.687,44.811,46.028,Lodge,tas
+2052,"High Emissions
+(SSP3-7.0)",50.173,43.889,45.884,Lodge,tas
+2052,"Accelerating Emissions
+(SSP5-8.5)",48.849,46.181,47.74,Lodge,tas
+2053,"Moderating Emissions
+(SSP1-2.6)",46.922,43.687,44.751,Lodge,tas
+2053,"Middle of the Road
+(SSP2-4.5)",47.629,44.303,46.422,Lodge,tas
+2053,"High Emissions
+(SSP3-7.0)",50.2,45.431,48.57,Lodge,tas
+2053,"Accelerating Emissions
+(SSP5-8.5)",50.342,46.12,46.677,Lodge,tas
+2054,"Moderating Emissions
+(SSP1-2.6)",47.922,45.055,45.735,Lodge,tas
+2054,"Middle of the Road
+(SSP2-4.5)",47.443,43.786,44.73,Lodge,tas
+2054,"High Emissions
+(SSP3-7.0)",48.38,44.75,45.949,Lodge,tas
+2054,"Accelerating Emissions
+(SSP5-8.5)",50.197,46.14,47.663,Lodge,tas
+2055,"Moderating Emissions
+(SSP1-2.6)",47.502,45.737,46.324,Lodge,tas
+2055,"Middle of the Road
+(SSP2-4.5)",48.598,44.183,46.708,Lodge,tas
+2055,"High Emissions
+(SSP3-7.0)",48.606,45.473,46.856,Lodge,tas
+2055,"Accelerating Emissions
+(SSP5-8.5)",50.471,46.479,48.862,Lodge,tas
+2056,"Moderating Emissions
+(SSP1-2.6)",48.352,44.529,46.202,Lodge,tas
+2056,"Middle of the Road
+(SSP2-4.5)",49.085,44.926,45.941,Lodge,tas
+2056,"High Emissions
+(SSP3-7.0)",49.744,44.519,46.401,Lodge,tas
+2056,"Accelerating Emissions
+(SSP5-8.5)",50.275,45.429,48.225,Lodge,tas
+2057,"Moderating Emissions
+(SSP1-2.6)",47.441,42.866,46.035,Lodge,tas
+2057,"Middle of the Road
+(SSP2-4.5)",48.891,44.74,47.48,Lodge,tas
+2057,"High Emissions
+(SSP3-7.0)",48.547,45.12,45.544,Lodge,tas
+2057,"Accelerating Emissions
+(SSP5-8.5)",48.745,43.762,47.45,Lodge,tas
+2058,"Moderating Emissions
+(SSP1-2.6)",48.242,44.214,46.261,Lodge,tas
+2058,"Middle of the Road
+(SSP2-4.5)",49.977,44.632,46.796,Lodge,tas
+2058,"High Emissions
+(SSP3-7.0)",48.437,45.664,46.812,Lodge,tas
+2058,"Accelerating Emissions
+(SSP5-8.5)",49.512,44.508,46.544,Lodge,tas
+2059,"Moderating Emissions
+(SSP1-2.6)",48.486,43.651,45.709,Lodge,tas
+2059,"Middle of the Road
+(SSP2-4.5)",50.95,45.078,48.26,Lodge,tas
+2059,"High Emissions
+(SSP3-7.0)",50.78,46.02,47.961,Lodge,tas
+2059,"Accelerating Emissions
+(SSP5-8.5)",50.455,46.952,48.85,Lodge,tas
+2060,"Moderating Emissions
+(SSP1-2.6)",49.961,43.504,44.953,Lodge,tas
+2060,"Middle of the Road
+(SSP2-4.5)",49.927,44.391,46.291,Lodge,tas
+2060,"High Emissions
+(SSP3-7.0)",48.708,45.488,47.121,Lodge,tas
+2060,"Accelerating Emissions
+(SSP5-8.5)",49.248,47.06,48.686,Lodge,tas
+2061,"Moderating Emissions
+(SSP1-2.6)",48.674,44.486,45.631,Lodge,tas
+2061,"Middle of the Road
+(SSP2-4.5)",48.777,44.606,47.418,Lodge,tas
+2061,"High Emissions
+(SSP3-7.0)",49.123,46.11,47.456,Lodge,tas
+2061,"Accelerating Emissions
+(SSP5-8.5)",51.821,47.23,49.423,Lodge,tas
+2062,"Moderating Emissions
+(SSP1-2.6)",47.297,44.482,45.459,Lodge,tas
+2062,"Middle of the Road
+(SSP2-4.5)",49.083,44.321,45.904,Lodge,tas
+2062,"High Emissions
+(SSP3-7.0)",48.646,45.871,47.778,Lodge,tas
+2062,"Accelerating Emissions
+(SSP5-8.5)",50.83,47.189,48.034,Lodge,tas
+2063,"Moderating Emissions
+(SSP1-2.6)",46.808,44.307,46.532,Lodge,tas
+2063,"Middle of the Road
+(SSP2-4.5)",48.782,44.786,46.185,Lodge,tas
+2063,"High Emissions
+(SSP3-7.0)",49.622,45.401,47.334,Lodge,tas
+2063,"Accelerating Emissions
+(SSP5-8.5)",50.696,45.672,48.216,Lodge,tas
+2064,"Moderating Emissions
+(SSP1-2.6)",48.256,45.218,46.792,Lodge,tas
+2064,"Middle of the Road
+(SSP2-4.5)",47.137,44.895,45.56,Lodge,tas
+2064,"High Emissions
+(SSP3-7.0)",48.323,45.529,46.936,Lodge,tas
+2064,"Accelerating Emissions
+(SSP5-8.5)",50.193,47.144,47.969,Lodge,tas
+2065,"Moderating Emissions
+(SSP1-2.6)",47.469,43.06,45.482,Lodge,tas
+2065,"Middle of the Road
+(SSP2-4.5)",49.658,43.868,45.298,Lodge,tas
+2065,"High Emissions
+(SSP3-7.0)",49.783,45.88,47.379,Lodge,tas
+2065,"Accelerating Emissions
+(SSP5-8.5)",52.596,47.234,49.151,Lodge,tas
+2066,"Moderating Emissions
+(SSP1-2.6)",48.697,43.234,47.024,Lodge,tas
+2066,"Middle of the Road
+(SSP2-4.5)",50.031,45.815,47.663,Lodge,tas
+2066,"High Emissions
+(SSP3-7.0)",50.6,45.645,47.197,Lodge,tas
+2066,"Accelerating Emissions
+(SSP5-8.5)",51.675,45.896,49.59,Lodge,tas
+2067,"Moderating Emissions
+(SSP1-2.6)",48.17,45.619,46.688,Lodge,tas
+2067,"Middle of the Road
+(SSP2-4.5)",49.612,45.215,46.37,Lodge,tas
+2067,"High Emissions
+(SSP3-7.0)",50.312,47.423,49.111,Lodge,tas
+2067,"Accelerating Emissions
+(SSP5-8.5)",52.762,46.798,47.879,Lodge,tas
+2068,"Moderating Emissions
+(SSP1-2.6)",47.823,43.809,45.542,Lodge,tas
+2068,"Middle of the Road
+(SSP2-4.5)",48.319,44.421,46.678,Lodge,tas
+2068,"High Emissions
+(SSP3-7.0)",49.709,45.895,46.267,Lodge,tas
+2068,"Accelerating Emissions
+(SSP5-8.5)",50.973,48.05,49.217,Lodge,tas
+2069,"Moderating Emissions
+(SSP1-2.6)",48.518,44.058,46.889,Lodge,tas
+2069,"Middle of the Road
+(SSP2-4.5)",47.169,44.88,46.002,Lodge,tas
+2069,"High Emissions
+(SSP3-7.0)",52.12,47.602,49.133,Lodge,tas
+2069,"Accelerating Emissions
+(SSP5-8.5)",53.521,47.983,49.64,Lodge,tas
+2070,"Moderating Emissions
+(SSP1-2.6)",47.388,44.422,45.45,Lodge,tas
+2070,"Middle of the Road
+(SSP2-4.5)",48.964,43.975,46.422,Lodge,tas
+2070,"High Emissions
+(SSP3-7.0)",50.997,46.678,48.982,Lodge,tas
+2070,"Accelerating Emissions
+(SSP5-8.5)",54.918,48.288,49.457,Lodge,tas
+2071,"Moderating Emissions
+(SSP1-2.6)",50.99,42.843,45.666,Lodge,tas
+2071,"Middle of the Road
+(SSP2-4.5)",49.908,44.983,47.115,Lodge,tas
+2071,"High Emissions
+(SSP3-7.0)",50.939,47.747,48.525,Lodge,tas
+2071,"Accelerating Emissions
+(SSP5-8.5)",53.075,47.158,48.898,Lodge,tas
+2072,"Moderating Emissions
+(SSP1-2.6)",48.865,44.629,45.427,Lodge,tas
+2072,"Middle of the Road
+(SSP2-4.5)",49.674,44.007,46.579,Lodge,tas
+2072,"High Emissions
+(SSP3-7.0)",50.572,47.352,48.644,Lodge,tas
+2072,"Accelerating Emissions
+(SSP5-8.5)",51.805,48.161,49.54,Lodge,tas
+2073,"Moderating Emissions
+(SSP1-2.6)",47.602,43.72,45.116,Lodge,tas
+2073,"Middle of the Road
+(SSP2-4.5)",49.288,44.06,47.559,Lodge,tas
+2073,"High Emissions
+(SSP3-7.0)",51.097,46.738,49.428,Lodge,tas
+2073,"Accelerating Emissions
+(SSP5-8.5)",51.914,47.162,49.625,Lodge,tas
+2074,"Moderating Emissions
+(SSP1-2.6)",50.128,42.819,46.263,Lodge,tas
+2074,"Middle of the Road
+(SSP2-4.5)",48.45,45.907,47.23,Lodge,tas
+2074,"High Emissions
+(SSP3-7.0)",50.757,46.437,47.796,Lodge,tas
+2074,"Accelerating Emissions
+(SSP5-8.5)",52.688,47.719,48.715,Lodge,tas
+2075,"Moderating Emissions
+(SSP1-2.6)",49.718,42.954,45.409,Lodge,tas
+2075,"Middle of the Road
+(SSP2-4.5)",49.712,45.045,45.864,Lodge,tas
+2075,"High Emissions
+(SSP3-7.0)",51.406,46.229,47.496,Lodge,tas
+2075,"Accelerating Emissions
+(SSP5-8.5)",52.446,47.549,50.243,Lodge,tas
+2076,"Moderating Emissions
+(SSP1-2.6)",48.486,42.367,45.419,Lodge,tas
+2076,"Middle of the Road
+(SSP2-4.5)",48.452,45.572,46.859,Lodge,tas
+2076,"High Emissions
+(SSP3-7.0)",50.962,47.247,48.537,Lodge,tas
+2076,"Accelerating Emissions
+(SSP5-8.5)",53.204,48.109,49.413,Lodge,tas
+2077,"Moderating Emissions
+(SSP1-2.6)",48.351,44.272,46.831,Lodge,tas
+2077,"Middle of the Road
+(SSP2-4.5)",50.536,46.387,47.481,Lodge,tas
+2077,"High Emissions
+(SSP3-7.0)",51.656,46.223,49.562,Lodge,tas
+2077,"Accelerating Emissions
+(SSP5-8.5)",53.066,47.987,50.286,Lodge,tas
+2078,"Moderating Emissions
+(SSP1-2.6)",48.379,44.634,46.638,Lodge,tas
+2078,"Middle of the Road
+(SSP2-4.5)",48.617,45.925,46.596,Lodge,tas
+2078,"High Emissions
+(SSP3-7.0)",51.274,47.155,48.738,Lodge,tas
+2078,"Accelerating Emissions
+(SSP5-8.5)",50.383,47.608,48.689,Lodge,tas
+2079,"Moderating Emissions
+(SSP1-2.6)",48.367,44.659,46.491,Lodge,tas
+2079,"Middle of the Road
+(SSP2-4.5)",49.693,45.697,47.318,Lodge,tas
+2079,"High Emissions
+(SSP3-7.0)",51.426,46.517,50.175,Lodge,tas
+2079,"Accelerating Emissions
+(SSP5-8.5)",53.274,48.236,50.781,Lodge,tas
+2080,"Moderating Emissions
+(SSP1-2.6)",48.762,43.983,45.344,Lodge,tas
+2080,"Middle of the Road
+(SSP2-4.5)",48.86,45.12,46.893,Lodge,tas
+2080,"High Emissions
+(SSP3-7.0)",51.24,47.534,48.584,Lodge,tas
+2080,"Accelerating Emissions
+(SSP5-8.5)",53.558,48.786,51.174,Lodge,tas
+2081,"Moderating Emissions
+(SSP1-2.6)",49.726,42.853,45.675,Lodge,tas
+2081,"Middle of the Road
+(SSP2-4.5)",49.919,46.45,47.008,Lodge,tas
+2081,"High Emissions
+(SSP3-7.0)",52.938,46.603,48.188,Lodge,tas
+2081,"Accelerating Emissions
+(SSP5-8.5)",54.813,50.089,51.701,Lodge,tas
+2082,"Moderating Emissions
+(SSP1-2.6)",49.44,43.817,47.707,Lodge,tas
+2082,"Middle of the Road
+(SSP2-4.5)",50.979,46.459,47.311,Lodge,tas
+2082,"High Emissions
+(SSP3-7.0)",52.531,46.899,48.315,Lodge,tas
+2082,"Accelerating Emissions
+(SSP5-8.5)",54.76,48.689,52.086,Lodge,tas
+2083,"Moderating Emissions
+(SSP1-2.6)",48.433,43.627,46.511,Lodge,tas
+2083,"Middle of the Road
+(SSP2-4.5)",50.864,44.789,47.093,Lodge,tas
+2083,"High Emissions
+(SSP3-7.0)",52.083,46.352,50.545,Lodge,tas
+2083,"Accelerating Emissions
+(SSP5-8.5)",54.12,49.628,53.01,Lodge,tas
+2084,"Moderating Emissions
+(SSP1-2.6)",49.167,43.378,45.593,Lodge,tas
+2084,"Middle of the Road
+(SSP2-4.5)",50.81,46.449,48.529,Lodge,tas
+2084,"High Emissions
+(SSP3-7.0)",54.005,48.245,50.421,Lodge,tas
+2084,"Accelerating Emissions
+(SSP5-8.5)",54.106,49.859,51.938,Lodge,tas
+2085,"Moderating Emissions
+(SSP1-2.6)",47.174,42.403,44.913,Lodge,tas
+2085,"Middle of the Road
+(SSP2-4.5)",48.947,44.089,48.402,Lodge,tas
+2085,"High Emissions
+(SSP3-7.0)",51.807,47.759,49.017,Lodge,tas
+2085,"Accelerating Emissions
+(SSP5-8.5)",54.008,49.699,51.818,Lodge,tas
+2086,"Moderating Emissions
+(SSP1-2.6)",48.836,45.424,47.118,Lodge,tas
+2086,"Middle of the Road
+(SSP2-4.5)",49.524,46.498,47.78,Lodge,tas
+2086,"High Emissions
+(SSP3-7.0)",53.186,47.45,50.495,Lodge,tas
+2086,"Accelerating Emissions
+(SSP5-8.5)",54.979,48.769,52.418,Lodge,tas
+2087,"Moderating Emissions
+(SSP1-2.6)",46.488,44.333,45.471,Lodge,tas
+2087,"Middle of the Road
+(SSP2-4.5)",51.713,45.966,48.018,Lodge,tas
+2087,"High Emissions
+(SSP3-7.0)",53.52,47.625,50.214,Lodge,tas
+2087,"Accelerating Emissions
+(SSP5-8.5)",54.526,49.725,51.726,Lodge,tas
+2088,"Moderating Emissions
+(SSP1-2.6)",49.651,43.183,44.527,Lodge,tas
+2088,"Middle of the Road
+(SSP2-4.5)",49.814,46.618,47.929,Lodge,tas
+2088,"High Emissions
+(SSP3-7.0)",54.122,48.284,49.883,Lodge,tas
+2088,"Accelerating Emissions
+(SSP5-8.5)",54.681,50.797,52.183,Lodge,tas
+2089,"Moderating Emissions
+(SSP1-2.6)",46.393,44.32,45.648,Lodge,tas
+2089,"Middle of the Road
+(SSP2-4.5)",50.003,46.651,47.717,Lodge,tas
+2089,"High Emissions
+(SSP3-7.0)",52.47,47.571,50.888,Lodge,tas
+2089,"Accelerating Emissions
+(SSP5-8.5)",55.317,50.19,54.095,Lodge,tas
+2090,"Moderating Emissions
+(SSP1-2.6)",48.355,44.465,46.729,Lodge,tas
+2090,"Middle of the Road
+(SSP2-4.5)",49.385,46.425,48.626,Lodge,tas
+2090,"High Emissions
+(SSP3-7.0)",52.55,49.08,50.597,Lodge,tas
+2090,"Accelerating Emissions
+(SSP5-8.5)",56.573,50.745,52.719,Lodge,tas
+2091,"Moderating Emissions
+(SSP1-2.6)",48.215,44.114,46.55,Lodge,tas
+2091,"Middle of the Road
+(SSP2-4.5)",49.486,46.453,48.084,Lodge,tas
+2091,"High Emissions
+(SSP3-7.0)",53.612,48.389,50.509,Lodge,tas
+2091,"Accelerating Emissions
+(SSP5-8.5)",55.98,49.25,51.085,Lodge,tas
+2092,"Moderating Emissions
+(SSP1-2.6)",50.068,42.962,47.221,Lodge,tas
+2092,"Middle of the Road
+(SSP2-4.5)",51.075,45.747,47.52,Lodge,tas
+2092,"High Emissions
+(SSP3-7.0)",52.21,47.391,50.375,Lodge,tas
+2092,"Accelerating Emissions
+(SSP5-8.5)",56.21,50.673,52.052,Lodge,tas
+2093,"Moderating Emissions
+(SSP1-2.6)",48.067,42.672,45.977,Lodge,tas
+2093,"Middle of the Road
+(SSP2-4.5)",50.495,45.589,47.599,Lodge,tas
+2093,"High Emissions
+(SSP3-7.0)",53.157,48.761,49.92,Lodge,tas
+2093,"Accelerating Emissions
+(SSP5-8.5)",56.775,50.043,52.286,Lodge,tas
+2094,"Moderating Emissions
+(SSP1-2.6)",48.648,43.102,45.345,Lodge,tas
+2094,"Middle of the Road
+(SSP2-4.5)",51.526,43.78,47.668,Lodge,tas
+2094,"High Emissions
+(SSP3-7.0)",54.083,48.726,51.361,Lodge,tas
+2094,"Accelerating Emissions
+(SSP5-8.5)",56.961,50.687,54.561,Lodge,tas
+2095,"Moderating Emissions
+(SSP1-2.6)",48.629,43.87,47.145,Lodge,tas
+2095,"Middle of the Road
+(SSP2-4.5)",51.698,46.286,49.067,Lodge,tas
+2095,"High Emissions
+(SSP3-7.0)",54.804,48.071,51.282,Lodge,tas
+2095,"Accelerating Emissions
+(SSP5-8.5)",56.16,50.094,52.027,Lodge,tas
+2096,"Moderating Emissions
+(SSP1-2.6)",47.922,44.116,46.131,Lodge,tas
+2096,"Middle of the Road
+(SSP2-4.5)",50.229,47.271,48.639,Lodge,tas
+2096,"High Emissions
+(SSP3-7.0)",53.038,49.339,51.196,Lodge,tas
+2096,"Accelerating Emissions
+(SSP5-8.5)",55.085,50.264,52.95,Lodge,tas
+2097,"Moderating Emissions
+(SSP1-2.6)",49.906,43.735,45.905,Lodge,tas
+2097,"Middle of the Road
+(SSP2-4.5)",51.083,47.535,48.283,Lodge,tas
+2097,"High Emissions
+(SSP3-7.0)",55.958,48.16,51.436,Lodge,tas
+2097,"Accelerating Emissions
+(SSP5-8.5)",60.612,49.976,52.821,Lodge,tas
+2098,"Moderating Emissions
+(SSP1-2.6)",47.2,43.271,45.373,Lodge,tas
+2098,"Middle of the Road
+(SSP2-4.5)",50.007,45.526,48.202,Lodge,tas
+2098,"High Emissions
+(SSP3-7.0)",54.128,49.563,50.572,Lodge,tas
+2098,"Accelerating Emissions
+(SSP5-8.5)",55.806,51.009,54.183,Lodge,tas
+2099,"Moderating Emissions
+(SSP1-2.6)",50.779,42.803,46.164,Lodge,tas
+2099,"Middle of the Road
+(SSP2-4.5)",50.066,45.921,47.557,Lodge,tas
+2099,"High Emissions
+(SSP3-7.0)",56.148,48.606,50.422,Lodge,tas
+2099,"Accelerating Emissions
+(SSP5-8.5)",57.826,51.276,54.228,Lodge,tas
+2100,"Moderating Emissions
+(SSP1-2.6)",47.925,43.041,44.436,Lodge,tas
+2100,"Middle of the Road
+(SSP2-4.5)",52.161,45.253,49.048,Lodge,tas
+2100,"High Emissions
+(SSP3-7.0)",53.839,48.964,51.726,Lodge,tas
+2100,"Accelerating Emissions
+(SSP5-8.5)",57.319,50.519,52.937,Lodge,tas

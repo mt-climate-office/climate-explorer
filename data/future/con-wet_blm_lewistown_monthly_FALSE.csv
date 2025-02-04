@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),0.884,0,0.342,Lewistown,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),0.884,0,0.342,Lewistown,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.189,0.195,0.437,Lewistown,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.014,0.011,0.49,Lewistown,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),0.982,0.16,0.469,Lewistown,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),0.949,0.041,0.426,Lewistown,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.132,0.307,0.721,Lewistown,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),0.927,0.053,0.458,Lewistown,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),0.701,0.022,0.336,Lewistown,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1,0.021,0.437,Lewistown,con-wet

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2117.856,1504.011,1696.025,Two Medicine,gdd
+1951,Historical Emissions,1972.255,1548.769,1777.153,Two Medicine,gdd
+1952,Historical Emissions,1764.625,1433.882,1619.85,Two Medicine,gdd
+1953,Historical Emissions,1797.793,1509.969,1649.102,Two Medicine,gdd
+1954,Historical Emissions,1942.722,1246.585,1468.218,Two Medicine,gdd
+1955,Historical Emissions,1946.766,1521.747,1650.748,Two Medicine,gdd
+1956,Historical Emissions,2015.171,1420.481,1696.072,Two Medicine,gdd
+1957,Historical Emissions,1930.89,1372,1633.487,Two Medicine,gdd
+1958,Historical Emissions,1795.882,1355.191,1612.468,Two Medicine,gdd
+1959,Historical Emissions,1689.783,1342.593,1549.919,Two Medicine,gdd
+1960,Historical Emissions,1744.238,1470.614,1626.044,Two Medicine,gdd
+1961,Historical Emissions,1839.963,1436.872,1558.567,Two Medicine,gdd
+1962,Historical Emissions,1707.929,1398.939,1618.48,Two Medicine,gdd
+1963,Historical Emissions,1686.182,1353.926,1533.167,Two Medicine,gdd
+1964,Historical Emissions,1813.377,1486.27,1668.197,Two Medicine,gdd
+1965,Historical Emissions,1785.395,1475.646,1587.223,Two Medicine,gdd
+1966,Historical Emissions,1838.78,1351.884,1499.966,Two Medicine,gdd
+1967,Historical Emissions,1739.732,1438.746,1608.048,Two Medicine,gdd
+1968,Historical Emissions,1695.218,1359.146,1450.63,Two Medicine,gdd
+1969,Historical Emissions,1739.631,1342.566,1559.494,Two Medicine,gdd
+1970,Historical Emissions,1666.041,1426.879,1512.459,Two Medicine,gdd
+1971,Historical Emissions,2123.357,1405.729,1666.431,Two Medicine,gdd
+1972,Historical Emissions,1757.904,1359.75,1631.442,Two Medicine,gdd
+1973,Historical Emissions,1831.3,1380.577,1513.572,Two Medicine,gdd
+1974,Historical Emissions,1831.475,1217.872,1653.368,Two Medicine,gdd
+1975,Historical Emissions,1769.614,1498.841,1634.833,Two Medicine,gdd
+1976,Historical Emissions,1746.317,1467.714,1609.539,Two Medicine,gdd
+1977,Historical Emissions,2069.204,1389.192,1621.478,Two Medicine,gdd
+1978,Historical Emissions,1703.404,1506.245,1555.546,Two Medicine,gdd
+1979,Historical Emissions,1771.72,1326.629,1585.534,Two Medicine,gdd
+1980,Historical Emissions,1850.336,1406.436,1646.329,Two Medicine,gdd
+1981,Historical Emissions,1831.305,1413.891,1705.707,Two Medicine,gdd
+1982,Historical Emissions,1863.495,1526.638,1651.354,Two Medicine,gdd
+1983,Historical Emissions,1696.13,1468.157,1556.835,Two Medicine,gdd
+1984,Historical Emissions,1739.24,1371.332,1576.543,Two Medicine,gdd
+1985,Historical Emissions,1872.801,1527.296,1646.047,Two Medicine,gdd
+1986,Historical Emissions,1684.686,1373.335,1559.389,Two Medicine,gdd
+1987,Historical Emissions,1998.916,1355.235,1525.258,Two Medicine,gdd
+1988,Historical Emissions,1830.353,1458.197,1636.515,Two Medicine,gdd
+1989,Historical Emissions,1958.314,1528.285,1701.427,Two Medicine,gdd
+1990,Historical Emissions,2105.014,1556.892,1682.763,Two Medicine,gdd
+1991,Historical Emissions,1949.027,1316.521,1760.001,Two Medicine,gdd
+1992,Historical Emissions,1776.58,1294.721,1552.386,Two Medicine,gdd
+1993,Historical Emissions,1715.092,1493.363,1568.432,Two Medicine,gdd
+1994,Historical Emissions,2064.052,1429.544,1589.242,Two Medicine,gdd
+1995,Historical Emissions,1908.28,1503.698,1773.182,Two Medicine,gdd
+1996,Historical Emissions,2215.942,1742.936,1911.574,Two Medicine,gdd
+1997,Historical Emissions,1896.79,1544.785,1787.703,Two Medicine,gdd
+1998,Historical Emissions,1919.81,1586.176,1823.681,Two Medicine,gdd
+1999,Historical Emissions,1873.406,1461.414,1708.576,Two Medicine,gdd
+2000,Historical Emissions,2050.879,1477.569,1701.082,Two Medicine,gdd
+2001,Historical Emissions,1982.035,1568.727,1729.507,Two Medicine,gdd
+2002,Historical Emissions,2118.427,1597.026,1804.314,Two Medicine,gdd
+2003,Historical Emissions,2091.524,1652.54,1863.636,Two Medicine,gdd
+2004,Historical Emissions,2112.067,1736.724,1902.727,Two Medicine,gdd
+2005,Historical Emissions,2188.051,1674.297,1882.852,Two Medicine,gdd
+2006,Historical Emissions,1919.646,1686.223,1841.986,Two Medicine,gdd
+2007,Historical Emissions,1972.992,1766.66,1861.606,Two Medicine,gdd
+2008,Historical Emissions,2145.773,1735.63,1885.293,Two Medicine,gdd
+2009,Historical Emissions,1941.22,1645.796,1780.975,Two Medicine,gdd
+2010,Historical Emissions,1934.613,1696.589,1806.933,Two Medicine,gdd
+2011,Historical Emissions,1991.47,1765.877,1894.387,Two Medicine,gdd
+2012,Historical Emissions,2078.011,1865.141,1977.133,Two Medicine,gdd
+2013,Historical Emissions,2290.409,1849.443,2090.209,Two Medicine,gdd
+2014,Historical Emissions,2153.901,1748.584,1823.302,Two Medicine,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",2316.389,1861.286,2004.04,Two Medicine,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",2182.35,1675.363,1963.054,Two Medicine,gdd
+2015,"High Emissions
+(SSP3-7.0)",2181.185,1631.719,2022.957,Two Medicine,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",2094.23,1812.687,1901.367,Two Medicine,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",2087.329,1743.268,2044.299,Two Medicine,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",2072.503,1665.372,1938.484,Two Medicine,gdd
+2016,"High Emissions
+(SSP3-7.0)",2335.321,1796.149,2051.39,Two Medicine,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",2168.786,1724.434,1886.321,Two Medicine,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",2106.618,1739.49,2004.885,Two Medicine,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",2239.956,1690.859,2005.413,Two Medicine,gdd
+2017,"High Emissions
+(SSP3-7.0)",2068.232,1806.094,1903.482,Two Medicine,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",2266.025,1843.141,2056.768,Two Medicine,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",2140.977,1771.034,1948.688,Two Medicine,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",2158.735,1739.944,1939.437,Two Medicine,gdd
+2018,"High Emissions
+(SSP3-7.0)",2081.168,1611.921,1885.66,Two Medicine,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",2188.417,1687.995,1944.01,Two Medicine,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",2394.619,2012.457,2117.684,Two Medicine,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",2265.096,1696.204,1970.707,Two Medicine,gdd
+2019,"High Emissions
+(SSP3-7.0)",2371.281,1663.454,2010.485,Two Medicine,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",2393.963,1820.972,1963.061,Two Medicine,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",2389.175,1725.623,2064.752,Two Medicine,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",2097.569,1673.464,2028.318,Two Medicine,gdd
+2020,"High Emissions
+(SSP3-7.0)",2138.61,1726.424,1956.438,Two Medicine,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",2180.14,1779.128,2040.208,Two Medicine,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",2331.582,1860.07,2064.872,Two Medicine,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",2379.22,1727.698,1989.23,Two Medicine,gdd
+2021,"High Emissions
+(SSP3-7.0)",2223.349,1773.418,2091.152,Two Medicine,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",2172.81,1888.825,1924.234,Two Medicine,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",2186.786,1840.613,1944.034,Two Medicine,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",2191.469,1849.928,2071.486,Two Medicine,gdd
+2022,"High Emissions
+(SSP3-7.0)",2108.565,1717.833,1927.48,Two Medicine,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",2297.564,1900.539,2091.99,Two Medicine,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",2114.456,1829.465,1957.427,Two Medicine,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",2423.668,1846.572,2036.373,Two Medicine,gdd
+2023,"High Emissions
+(SSP3-7.0)",2325.284,1791.706,1903.024,Two Medicine,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",2090.09,1598.426,1797.532,Two Medicine,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",2258.604,1776.554,1961.575,Two Medicine,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",2423.715,1822.012,2069.287,Two Medicine,gdd
+2024,"High Emissions
+(SSP3-7.0)",2361.633,1854.552,2110.608,Two Medicine,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",2350.271,1672.942,1970.337,Two Medicine,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",2205.475,1991.999,2116.513,Two Medicine,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",2175.714,1636.997,1839.363,Two Medicine,gdd
+2025,"High Emissions
+(SSP3-7.0)",2367.029,1896.349,2092.339,Two Medicine,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",2443.129,1795.194,2247.378,Two Medicine,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",2196.491,1714.275,2054.819,Two Medicine,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",2431.136,1778.527,2092.794,Two Medicine,gdd
+2026,"High Emissions
+(SSP3-7.0)",2154.274,1748.032,1979.59,Two Medicine,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",2437.248,1859.681,1951.6,Two Medicine,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",2385.973,1736.537,1995.461,Two Medicine,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",2235.901,1671.737,2073.902,Two Medicine,gdd
+2027,"High Emissions
+(SSP3-7.0)",2376.417,1789.399,2143.99,Two Medicine,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",2339.104,1922.241,2202.504,Two Medicine,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",2333.324,1749.164,1906.675,Two Medicine,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",2227.874,1836.199,1929.196,Two Medicine,gdd
+2028,"High Emissions
+(SSP3-7.0)",2186.573,1799.066,2112.965,Two Medicine,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",2313.314,1836.405,2124.649,Two Medicine,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",2472.789,1922.679,2269.599,Two Medicine,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",2296.367,1759.057,2022.295,Two Medicine,gdd
+2029,"High Emissions
+(SSP3-7.0)",2443.009,1749.103,2021.126,Two Medicine,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",2369.729,1831.895,2221.18,Two Medicine,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",2247.489,1906.132,2015.386,Two Medicine,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",2545.244,1949.01,2171.49,Two Medicine,gdd
+2030,"High Emissions
+(SSP3-7.0)",2410.673,1845.653,2022.668,Two Medicine,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",2542.896,1805.901,2064.234,Two Medicine,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",2299.955,2042.721,2146.92,Two Medicine,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",2339.659,1885.723,2079.498,Two Medicine,gdd
+2031,"High Emissions
+(SSP3-7.0)",2406.09,1821.914,2097.306,Two Medicine,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",2405.379,1940.003,2136.994,Two Medicine,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",2326.574,1830.837,2169.43,Two Medicine,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",2418.986,1904.708,2056.579,Two Medicine,gdd
+2032,"High Emissions
+(SSP3-7.0)",2495.317,1779.812,2200.154,Two Medicine,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",2350.945,1731.359,1927.639,Two Medicine,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",2335.615,1828.497,2153.786,Two Medicine,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",2525.332,1884.198,2012.047,Two Medicine,gdd
+2033,"High Emissions
+(SSP3-7.0)",2364.545,1789.499,2095.905,Two Medicine,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",2376.673,1988.192,2264.747,Two Medicine,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",2433.088,1832.798,2277.501,Two Medicine,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",2397.28,1767.467,2152.359,Two Medicine,gdd
+2034,"High Emissions
+(SSP3-7.0)",2498.993,1744.156,2351.952,Two Medicine,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",2362.292,1718.545,2103.855,Two Medicine,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",2545.451,1942.308,2226.463,Two Medicine,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",2491.14,1850.592,1996.22,Two Medicine,gdd
+2035,"High Emissions
+(SSP3-7.0)",2392.31,1692.864,2036.528,Two Medicine,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",2274.942,1879.205,2103.583,Two Medicine,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",2407.02,2018.289,2256.582,Two Medicine,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",2367.859,1926.557,2057.574,Two Medicine,gdd
+2036,"High Emissions
+(SSP3-7.0)",2390.629,1848.3,2130.45,Two Medicine,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",2330.069,1673.989,2196.984,Two Medicine,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",2442.285,1915.269,2201.78,Two Medicine,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",2394.931,1912.477,2041.979,Two Medicine,gdd
+2037,"High Emissions
+(SSP3-7.0)",2332.415,1564.341,2009.118,Two Medicine,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",2429.633,1808.254,2078.432,Two Medicine,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",2299.99,1919.61,2082.222,Two Medicine,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",2275.483,1887.784,2077.2,Two Medicine,gdd
+2038,"High Emissions
+(SSP3-7.0)",2361.726,1972.819,2216.842,Two Medicine,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",2535.41,1878.62,2141.521,Two Medicine,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",2449.65,1830.434,2093.568,Two Medicine,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",2274.107,1870.354,2160.852,Two Medicine,gdd
+2039,"High Emissions
+(SSP3-7.0)",2509.339,2084.463,2226.574,Two Medicine,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",2610.099,1856.558,2059.065,Two Medicine,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",2350.43,1768.619,2074.495,Two Medicine,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",2439.17,1799.907,2334.141,Two Medicine,gdd
+2040,"High Emissions
+(SSP3-7.0)",2365.63,1955.442,2231.856,Two Medicine,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",2802.202,1889.215,2422.343,Two Medicine,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",2388.801,1693.219,2027.414,Two Medicine,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",2294.071,2083.806,2207.818,Two Medicine,gdd
+2041,"High Emissions
+(SSP3-7.0)",2470.804,1942.054,2139.198,Two Medicine,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",2414.906,1956.29,2161.3,Two Medicine,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",2578.981,1798.171,2059.382,Two Medicine,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",2412.138,1899.949,2139.209,Two Medicine,gdd
+2042,"High Emissions
+(SSP3-7.0)",2293.747,1973.89,2146.555,Two Medicine,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",2575.66,1947.543,2390.197,Two Medicine,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",2373.447,2039.456,2099.021,Two Medicine,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",2374.954,1800.872,2166.789,Two Medicine,gdd
+2043,"High Emissions
+(SSP3-7.0)",2222.332,1853.945,2115.309,Two Medicine,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",2498.062,2098.196,2248.097,Two Medicine,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",2419.588,2054.453,2241.228,Two Medicine,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",2613.525,1987.097,2125.983,Two Medicine,gdd
+2044,"High Emissions
+(SSP3-7.0)",2480.264,1994.665,2230.572,Two Medicine,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",2572.668,2161.649,2316.911,Two Medicine,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",2331.533,2013.353,2111.037,Two Medicine,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",2615.808,1882.702,2257.567,Two Medicine,gdd
+2045,"High Emissions
+(SSP3-7.0)",2515.283,1945.219,2312.374,Two Medicine,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",2566.567,1951.471,2290.258,Two Medicine,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",2546.032,2050.368,2171.213,Two Medicine,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",2442.27,1878.693,2090.075,Two Medicine,gdd
+2046,"High Emissions
+(SSP3-7.0)",2330.498,2015.772,2174.104,Two Medicine,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",2505.831,1973.406,2211.691,Two Medicine,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",2576.044,1866.912,2343.377,Two Medicine,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",2363.606,1843.5,2085.346,Two Medicine,gdd
+2047,"High Emissions
+(SSP3-7.0)",2390.284,2005.439,2177.075,Two Medicine,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",2640.983,1965.757,2541.082,Two Medicine,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",2351.576,1970.057,2097.306,Two Medicine,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",2589.861,1950.202,2390.146,Two Medicine,gdd
+2048,"High Emissions
+(SSP3-7.0)",2682.68,1765.155,2262.786,Two Medicine,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",2827.845,1919.788,2517.778,Two Medicine,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",2391.669,1930.941,2118.421,Two Medicine,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",2478.658,1901.608,2329.824,Two Medicine,gdd
+2049,"High Emissions
+(SSP3-7.0)",2323.185,2039.189,2182.091,Two Medicine,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",2677.42,2046.178,2439.289,Two Medicine,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",2398.827,1926.599,2161.091,Two Medicine,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",2695.865,1923.428,2424.445,Two Medicine,gdd
+2050,"High Emissions
+(SSP3-7.0)",2519.418,2022.042,2270.524,Two Medicine,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",2815.159,2152.986,2334.132,Two Medicine,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",2482.986,1861.371,2235.643,Two Medicine,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",2476.021,2107.826,2229.833,Two Medicine,gdd
+2051,"High Emissions
+(SSP3-7.0)",2502.501,2112.351,2367.617,Two Medicine,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",2569.522,2131.476,2279.697,Two Medicine,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",2307.332,2053.998,2136.471,Two Medicine,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",2473.998,2011.353,2279.66,Two Medicine,gdd
+2052,"High Emissions
+(SSP3-7.0)",2540.132,1997.253,2181.212,Two Medicine,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",2605.876,2101.127,2442.899,Two Medicine,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",2440.037,1962.364,2125.346,Two Medicine,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",2401.049,2024.765,2277.068,Two Medicine,gdd
+2053,"High Emissions
+(SSP3-7.0)",2736.682,2179.465,2490.186,Two Medicine,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",2883.379,2136.868,2384.597,Two Medicine,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",2524.027,2114.741,2280.782,Two Medicine,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",2508.971,1934.91,2093.063,Two Medicine,gdd
+2054,"High Emissions
+(SSP3-7.0)",2515.138,2002.652,2184.224,Two Medicine,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",2746.637,2210.612,2418.764,Two Medicine,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",2421.377,2155.78,2279.336,Two Medicine,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",2669.061,1943.831,2302.947,Two Medicine,gdd
+2055,"High Emissions
+(SSP3-7.0)",2558.581,2051.263,2319.008,Two Medicine,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",2804.478,2187.79,2440.484,Two Medicine,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",2496.104,1924.579,2237.922,Two Medicine,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",2549.699,2113.612,2471.468,Two Medicine,gdd
+2056,"High Emissions
+(SSP3-7.0)",2617.83,1819.256,2388.334,Two Medicine,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",2709.777,2361.136,2456.786,Two Medicine,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",2388.485,1657.508,2209.158,Two Medicine,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",2548.649,2175.623,2459.805,Two Medicine,gdd
+2057,"High Emissions
+(SSP3-7.0)",2708.561,2000.934,2256.8,Two Medicine,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",2786.737,2151.825,2411.735,Two Medicine,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",2410.421,1842.047,2289.752,Two Medicine,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",2741.835,2214.261,2304.578,Two Medicine,gdd
+2058,"High Emissions
+(SSP3-7.0)",2603.191,2101.287,2292.188,Two Medicine,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",2628.209,2022.659,2335.632,Two Medicine,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",2573.916,1995.11,2195.232,Two Medicine,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",2837.219,2073.6,2239.742,Two Medicine,gdd
+2059,"High Emissions
+(SSP3-7.0)",2997.412,2170.463,2439.061,Two Medicine,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",2920.715,2277.79,2530.384,Two Medicine,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",2378.786,2025.796,2184.931,Two Medicine,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",2913.564,2035.316,2368.679,Two Medicine,gdd
+2060,"High Emissions
+(SSP3-7.0)",2603.077,2074.65,2260.754,Two Medicine,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",2698.824,2148.282,2561.804,Two Medicine,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",2442.083,1892.764,2305.685,Two Medicine,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",2679.749,2044.832,2328.76,Two Medicine,gdd
+2061,"High Emissions
+(SSP3-7.0)",2667.212,2305.118,2421.496,Two Medicine,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",2983.648,2326.441,2594.178,Two Medicine,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",2453.885,2039.556,2198.037,Two Medicine,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",2535.498,2086.239,2295.895,Two Medicine,gdd
+2062,"High Emissions
+(SSP3-7.0)",2531.411,2265.277,2358.884,Two Medicine,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",2770.274,2372.891,2653.368,Two Medicine,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",2332.416,2018.221,2220.722,Two Medicine,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",2373.127,1952.64,2162.537,Two Medicine,gdd
+2063,"High Emissions
+(SSP3-7.0)",2715.013,2257.423,2426.346,Two Medicine,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",2927.869,2364.772,2705.24,Two Medicine,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",2560.122,1817.396,2217.567,Two Medicine,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",2517.877,2080.332,2218.74,Two Medicine,gdd
+2064,"High Emissions
+(SSP3-7.0)",2646.975,2245.241,2372.159,Two Medicine,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",2810.075,2320.046,2619.23,Two Medicine,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",2372.71,1805.983,2111.679,Two Medicine,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",2610.225,2028.678,2359.345,Two Medicine,gdd
+2065,"High Emissions
+(SSP3-7.0)",2649.348,2050.259,2446.941,Two Medicine,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",3041.221,2451.305,2625.421,Two Medicine,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",2698.336,2049.81,2334.742,Two Medicine,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",2651.306,2161.17,2459.801,Two Medicine,gdd
+2066,"High Emissions
+(SSP3-7.0)",2803.288,2186.494,2323.766,Two Medicine,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",2979.733,2241.063,2793.287,Two Medicine,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",2447.002,2072.73,2222.999,Two Medicine,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",2634.533,2000.559,2308.195,Two Medicine,gdd
+2067,"High Emissions
+(SSP3-7.0)",3013.045,2372.439,2541.197,Two Medicine,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",3113.709,2161.35,2509.541,Two Medicine,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",2608.195,1987.758,2224.765,Two Medicine,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",2599.846,2059.16,2268.6,Two Medicine,gdd
+2068,"High Emissions
+(SSP3-7.0)",2918.314,2105.326,2372.605,Two Medicine,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",3115.517,2444.539,2494.607,Two Medicine,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",2586.782,2137.316,2281.397,Two Medicine,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",2646.773,2095.438,2421.588,Two Medicine,gdd
+2069,"High Emissions
+(SSP3-7.0)",3268.265,2326.718,2480.589,Two Medicine,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",3369.358,2331.459,2895.629,Two Medicine,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",2456.167,2131.422,2210.743,Two Medicine,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",2649.577,2018.099,2306.953,Two Medicine,gdd
+2070,"High Emissions
+(SSP3-7.0)",2934.139,2381.858,2721.668,Two Medicine,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",3265.462,2453.966,2671.679,Two Medicine,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",2705.289,2013.332,2176.606,Two Medicine,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",2572.595,2282.225,2419.272,Two Medicine,gdd
+2071,"High Emissions
+(SSP3-7.0)",2822.128,2311.378,2605.153,Two Medicine,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",3294.923,2361.509,2759.445,Two Medicine,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",2523.691,2124.018,2246.594,Two Medicine,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",2573.714,2025.952,2351.37,Two Medicine,gdd
+2072,"High Emissions
+(SSP3-7.0)",2859.637,2050.308,2568.406,Two Medicine,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",3122.88,2522.765,2668.318,Two Medicine,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",2444.682,1962.086,2189.765,Two Medicine,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",2684.047,1900.312,2375.285,Two Medicine,gdd
+2073,"High Emissions
+(SSP3-7.0)",2789.973,2322.674,2675.678,Two Medicine,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",3194.344,2327.109,2662.683,Two Medicine,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",2632.962,1758.449,2271.509,Two Medicine,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",2772.031,2034.077,2286.26,Two Medicine,gdd
+2074,"High Emissions
+(SSP3-7.0)",2810.818,2290.304,2499.851,Two Medicine,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",3422.189,2481.145,2734.15,Two Medicine,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",2652.035,1651.386,2222.432,Two Medicine,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",2817.222,1956.125,2232.84,Two Medicine,gdd
+2075,"High Emissions
+(SSP3-7.0)",3024.053,2187.22,2431.967,Two Medicine,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",3219.96,2450.138,2727.64,Two Medicine,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",2544.648,1889.877,2151.701,Two Medicine,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",2526.528,2075.578,2123.004,Two Medicine,gdd
+2076,"High Emissions
+(SSP3-7.0)",3081.297,2437.052,2729.069,Two Medicine,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",3303.932,2431.418,2693.511,Two Medicine,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",2663.844,1948.737,2407.02,Two Medicine,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",2745.078,2086.034,2494.197,Two Medicine,gdd
+2077,"High Emissions
+(SSP3-7.0)",3011.541,2392.249,2682.42,Two Medicine,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",3104.45,2375.216,2816.75,Two Medicine,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",2541.032,1994.952,2271.429,Two Medicine,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",2707.657,2069.666,2272.434,Two Medicine,gdd
+2078,"High Emissions
+(SSP3-7.0)",3077.655,2263.356,2597.201,Two Medicine,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",2908.556,2415.282,2702.531,Two Medicine,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",2569.196,2004.865,2282.498,Two Medicine,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",2590.845,2258.653,2394.034,Two Medicine,gdd
+2079,"High Emissions
+(SSP3-7.0)",2925.738,2365.082,2606.747,Two Medicine,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",3327.17,2621.455,2913.989,Two Medicine,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",2411.64,1865.728,2060.184,Two Medicine,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",2733.979,2052.351,2342.713,Two Medicine,gdd
+2080,"High Emissions
+(SSP3-7.0)",3091.355,2456.361,2618.435,Two Medicine,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",3333.257,2624.804,2914.373,Two Medicine,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",2581.128,1960.405,2110.737,Two Medicine,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",2628.479,2211.342,2431.924,Two Medicine,gdd
+2081,"High Emissions
+(SSP3-7.0)",3276.969,2329.718,2617.575,Two Medicine,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",3396.479,2701.704,3050.379,Two Medicine,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",2636.372,2036.482,2429.806,Two Medicine,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",2885.852,2104.909,2359.184,Two Medicine,gdd
+2082,"High Emissions
+(SSP3-7.0)",3195.436,2393.795,2680.647,Two Medicine,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",3399.401,2662.74,2834.867,Two Medicine,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",2574.633,2067.003,2347.828,Two Medicine,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",2668.795,2071.223,2413.988,Two Medicine,gdd
+2083,"High Emissions
+(SSP3-7.0)",3158.314,2119.047,2747.061,Two Medicine,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",3305.066,2619.13,3118.355,Two Medicine,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",2588.008,1922.289,2127.916,Two Medicine,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",2923.167,2237.637,2512.323,Two Medicine,gdd
+2084,"High Emissions
+(SSP3-7.0)",3176.551,2570.986,2878.303,Two Medicine,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",3501.437,2578.659,2946.392,Two Medicine,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",2512.801,1784.415,2226.694,Two Medicine,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",2713.542,2159.108,2520.752,Two Medicine,gdd
+2085,"High Emissions
+(SSP3-7.0)",2988.384,2312.749,2554.711,Two Medicine,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",3311.16,2622.872,3079.536,Two Medicine,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",2567.658,2141.959,2396.829,Two Medicine,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",2658.667,2340.782,2555.788,Two Medicine,gdd
+2086,"High Emissions
+(SSP3-7.0)",3228.843,2392.896,2847.275,Two Medicine,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",3497.52,2752.621,3043.714,Two Medicine,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",2397.089,1895.147,1982.592,Two Medicine,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",2883.413,2291.456,2577.486,Two Medicine,gdd
+2087,"High Emissions
+(SSP3-7.0)",3266.176,2337.788,2699.329,Two Medicine,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",3530.294,2632.497,2835.596,Two Medicine,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",2599.237,2026.084,2197.486,Two Medicine,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",2869.678,2447.23,2619.664,Two Medicine,gdd
+2088,"High Emissions
+(SSP3-7.0)",3276.756,2581.996,2687.658,Two Medicine,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",3467.63,2848.173,3094.025,Two Medicine,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",2492.536,1949.951,2210.648,Two Medicine,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",2998.446,2164.575,2535.787,Two Medicine,gdd
+2089,"High Emissions
+(SSP3-7.0)",3237.892,2446.172,2886.393,Two Medicine,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",3625.233,2741.243,3268.729,Two Medicine,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",2450.636,2113.612,2202.264,Two Medicine,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",2732.323,2205.543,2473.21,Two Medicine,gdd
+2090,"High Emissions
+(SSP3-7.0)",3264.58,2756.477,2828.95,Two Medicine,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",3705.938,2675.158,3091.095,Two Medicine,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",2480.584,1963.789,2289.541,Two Medicine,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",2680.585,2214.254,2464.611,Two Medicine,gdd
+2091,"High Emissions
+(SSP3-7.0)",3172.042,2749.127,2915.908,Two Medicine,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",3563.308,2659.118,3206.712,Two Medicine,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",2477.688,1975.505,2333.905,Two Medicine,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",2910.052,2255.788,2667.606,Two Medicine,gdd
+2092,"High Emissions
+(SSP3-7.0)",2965.021,2509.162,2752.505,Two Medicine,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",3600.824,2898.211,3187.669,Two Medicine,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",2427.543,1980.881,2106.472,Two Medicine,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",2686.121,2179.245,2367.721,Two Medicine,gdd
+2093,"High Emissions
+(SSP3-7.0)",3440.135,2510.63,2782.745,Two Medicine,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",3675.811,2957.117,3171.57,Two Medicine,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",2495.278,1838.116,2041.639,Two Medicine,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",2953.938,2012.574,2517.843,Two Medicine,gdd
+2094,"High Emissions
+(SSP3-7.0)",3366.162,2647.45,2944.692,Two Medicine,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",3819.552,2780.07,3271.547,Two Medicine,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",2618.914,2007.517,2324.726,Two Medicine,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",2959.051,2544.031,2747.112,Two Medicine,gdd
+2095,"High Emissions
+(SSP3-7.0)",3399.688,2690.585,2980.343,Two Medicine,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",3657.077,2774.655,3246.588,Two Medicine,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",2424.616,1978.499,2261.956,Two Medicine,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",2813.901,2417.947,2575.193,Two Medicine,gdd
+2096,"High Emissions
+(SSP3-7.0)",3336.482,2654.493,2932.251,Two Medicine,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",3824.076,2837.333,3041.116,Two Medicine,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",2878.312,2046.177,2236.399,Two Medicine,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",3004.912,2306.743,2595.766,Two Medicine,gdd
+2097,"High Emissions
+(SSP3-7.0)",3737.186,2480.836,2927.881,Two Medicine,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",3970.237,2702.299,3216.27,Two Medicine,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",2499.346,1996.156,2172.634,Two Medicine,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",2693.752,2312.057,2498.481,Two Medicine,gdd
+2098,"High Emissions
+(SSP3-7.0)",3560.452,2647.469,2876.754,Two Medicine,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",3538.008,2972.581,3330.883,Two Medicine,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",2508.343,1963.622,2274.081,Two Medicine,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",2793.429,2072.926,2352.348,Two Medicine,gdd
+2099,"High Emissions
+(SSP3-7.0)",3582.552,2621.221,2940.54,Two Medicine,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",3804.546,2971.519,3344.202,Two Medicine,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",2529.553,1840.079,1880.01,Two Medicine,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",2850.773,2130.947,2631.892,Two Medicine,gdd
+2100,"High Emissions
+(SSP3-7.0)",3286.25,2656.795,2947.913,Two Medicine,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",3900.478,2839.729,3267.311,Two Medicine,gdd

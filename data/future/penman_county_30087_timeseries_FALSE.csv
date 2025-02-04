@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,43.346,39.669,41.023,Rosebud County,penman
+1951,Historical Emissions,43.56,37.792,42.579,Rosebud County,penman
+1952,Historical Emissions,45.184,38.807,41.693,Rosebud County,penman
+1953,Historical Emissions,44.778,36.87,41.333,Rosebud County,penman
+1954,Historical Emissions,42.748,36.983,40.676,Rosebud County,penman
+1955,Historical Emissions,45.347,37.809,38.224,Rosebud County,penman
+1956,Historical Emissions,48.53,38.544,42.611,Rosebud County,penman
+1957,Historical Emissions,47.1,36.213,40.255,Rosebud County,penman
+1958,Historical Emissions,42.004,37.351,39.547,Rosebud County,penman
+1959,Historical Emissions,42.082,36.244,38.847,Rosebud County,penman
+1960,Historical Emissions,43.633,37.866,40.266,Rosebud County,penman
+1961,Historical Emissions,41.99,38.169,39.806,Rosebud County,penman
+1962,Historical Emissions,43.474,35.711,40.221,Rosebud County,penman
+1963,Historical Emissions,41.699,36.985,38.461,Rosebud County,penman
+1964,Historical Emissions,42.713,36.43,39.767,Rosebud County,penman
+1965,Historical Emissions,43.332,36.043,41.611,Rosebud County,penman
+1966,Historical Emissions,46.061,36.71,38.43,Rosebud County,penman
+1967,Historical Emissions,44.338,36.89,40.307,Rosebud County,penman
+1968,Historical Emissions,40.296,34.03,39.029,Rosebud County,penman
+1969,Historical Emissions,42.621,37.721,40.175,Rosebud County,penman
+1970,Historical Emissions,43.356,37.563,40.293,Rosebud County,penman
+1971,Historical Emissions,43.993,38.705,40.464,Rosebud County,penman
+1972,Historical Emissions,42.337,38.138,40.488,Rosebud County,penman
+1973,Historical Emissions,43.757,36.197,38.792,Rosebud County,penman
+1974,Historical Emissions,43.207,37.633,38.981,Rosebud County,penman
+1975,Historical Emissions,42.236,37.033,40.494,Rosebud County,penman
+1976,Historical Emissions,42.473,38.371,39.214,Rosebud County,penman
+1977,Historical Emissions,45.102,37.395,39.054,Rosebud County,penman
+1978,Historical Emissions,42.192,35.268,39.934,Rosebud County,penman
+1979,Historical Emissions,42.375,37.796,40.797,Rosebud County,penman
+1980,Historical Emissions,43.469,35.694,40.812,Rosebud County,penman
+1981,Historical Emissions,42.687,38.046,41.8,Rosebud County,penman
+1982,Historical Emissions,43.216,37.291,40.969,Rosebud County,penman
+1983,Historical Emissions,40.825,37.229,39.376,Rosebud County,penman
+1984,Historical Emissions,43.115,38.484,40.59,Rosebud County,penman
+1985,Historical Emissions,45.055,38.162,41.021,Rosebud County,penman
+1986,Historical Emissions,40.005,34.638,39.197,Rosebud County,penman
+1987,Historical Emissions,40.917,35.888,38.75,Rosebud County,penman
+1988,Historical Emissions,41.486,36.127,38.813,Rosebud County,penman
+1989,Historical Emissions,43.433,37.048,41.194,Rosebud County,penman
+1990,Historical Emissions,45.566,37.492,43.045,Rosebud County,penman
+1991,Historical Emissions,42.701,37.677,40.321,Rosebud County,penman
+1992,Historical Emissions,42.678,38.093,39.699,Rosebud County,penman
+1993,Historical Emissions,42.774,37.929,38.97,Rosebud County,penman
+1994,Historical Emissions,45.337,37.56,41.839,Rosebud County,penman
+1995,Historical Emissions,46.845,39.058,42.657,Rosebud County,penman
+1996,Historical Emissions,48.455,40.353,43.222,Rosebud County,penman
+1997,Historical Emissions,43.784,38.114,41.295,Rosebud County,penman
+1998,Historical Emissions,44.167,38.169,40.557,Rosebud County,penman
+1999,Historical Emissions,42.902,37.745,41.401,Rosebud County,penman
+2000,Historical Emissions,43.761,37.648,42.751,Rosebud County,penman
+2001,Historical Emissions,43.463,38.809,41.984,Rosebud County,penman
+2002,Historical Emissions,45.284,40.057,42.136,Rosebud County,penman
+2003,Historical Emissions,45.688,39.875,42.491,Rosebud County,penman
+2004,Historical Emissions,47.996,40.199,41.549,Rosebud County,penman
+2005,Historical Emissions,45.02,41.497,44.5,Rosebud County,penman
+2006,Historical Emissions,45.067,38.373,41.244,Rosebud County,penman
+2007,Historical Emissions,43.983,40.311,42.043,Rosebud County,penman
+2008,Historical Emissions,46.067,38.275,41.013,Rosebud County,penman
+2009,Historical Emissions,44.721,38.383,40.816,Rosebud County,penman
+2010,Historical Emissions,45.634,39.36,42.92,Rosebud County,penman
+2011,Historical Emissions,44.87,40.657,43.066,Rosebud County,penman
+2012,Historical Emissions,44.516,41.89,43.671,Rosebud County,penman
+2013,Historical Emissions,46.772,39.369,45.322,Rosebud County,penman
+2014,Historical Emissions,47.078,41.738,44.591,Rosebud County,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",47.864,40.706,45.115,Rosebud County,penman
+2015,"Middle of the Road
+(SSP2-4.5)",49.367,39.147,44.65,Rosebud County,penman
+2015,"High Emissions
+(SSP3-7.0)",45.42,40.185,43.548,Rosebud County,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",48.699,39.914,43.677,Rosebud County,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",45.769,40.824,43.191,Rosebud County,penman
+2016,"Middle of the Road
+(SSP2-4.5)",45.489,39.19,43.43,Rosebud County,penman
+2016,"High Emissions
+(SSP3-7.0)",47.727,40.783,41.862,Rosebud County,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",46.129,39.143,41.435,Rosebud County,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",45.92,41.083,42.493,Rosebud County,penman
+2017,"Middle of the Road
+(SSP2-4.5)",48.321,39.508,42.247,Rosebud County,penman
+2017,"High Emissions
+(SSP3-7.0)",44.501,40.365,42.2,Rosebud County,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",47.836,40.996,43.296,Rosebud County,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",44.765,39.224,42.905,Rosebud County,penman
+2018,"Middle of the Road
+(SSP2-4.5)",46.629,40.102,42.527,Rosebud County,penman
+2018,"High Emissions
+(SSP3-7.0)",45.109,36.77,41.642,Rosebud County,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",46.585,37.843,42.666,Rosebud County,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",47.634,41.694,44.095,Rosebud County,penman
+2019,"Middle of the Road
+(SSP2-4.5)",48.287,41.024,43.288,Rosebud County,penman
+2019,"High Emissions
+(SSP3-7.0)",44.698,39.392,42.74,Rosebud County,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",52.732,40.543,44.86,Rosebud County,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",50.632,38.511,42.097,Rosebud County,penman
+2020,"Middle of the Road
+(SSP2-4.5)",48.139,40.949,44.464,Rosebud County,penman
+2020,"High Emissions
+(SSP3-7.0)",45.492,38.897,42.172,Rosebud County,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",45.427,39.325,41.517,Rosebud County,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",46.869,40.512,43.834,Rosebud County,penman
+2021,"Middle of the Road
+(SSP2-4.5)",49.327,39.321,46.126,Rosebud County,penman
+2021,"High Emissions
+(SSP3-7.0)",49.22,40.321,42.866,Rosebud County,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",48.2,39.814,42.885,Rosebud County,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",46.883,41.593,43.936,Rosebud County,penman
+2022,"Middle of the Road
+(SSP2-4.5)",46.862,37.059,45.622,Rosebud County,penman
+2022,"High Emissions
+(SSP3-7.0)",43.837,38.46,41.629,Rosebud County,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",50.316,39.086,44.719,Rosebud County,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",45.624,40.678,42.143,Rosebud County,penman
+2023,"Middle of the Road
+(SSP2-4.5)",48.45,40.125,42.717,Rosebud County,penman
+2023,"High Emissions
+(SSP3-7.0)",47.645,39.04,43.171,Rosebud County,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",44.157,38.406,40.844,Rosebud County,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",47.078,39.831,43.708,Rosebud County,penman
+2024,"Middle of the Road
+(SSP2-4.5)",47.302,40.07,43.641,Rosebud County,penman
+2024,"High Emissions
+(SSP3-7.0)",48.905,40.982,44.278,Rosebud County,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",45.287,40.578,41.769,Rosebud County,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",45.253,41.638,44.254,Rosebud County,penman
+2025,"Middle of the Road
+(SSP2-4.5)",45.992,38.628,42.634,Rosebud County,penman
+2025,"High Emissions
+(SSP3-7.0)",48.218,43.016,44.492,Rosebud County,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",46.05,40.906,44.815,Rosebud County,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",48.698,40.416,43.302,Rosebud County,penman
+2026,"Middle of the Road
+(SSP2-4.5)",47.978,41.961,45.029,Rosebud County,penman
+2026,"High Emissions
+(SSP3-7.0)",43.135,40.049,42.207,Rosebud County,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",48.239,39.274,41.608,Rosebud County,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",48.754,40.537,41.781,Rosebud County,penman
+2027,"Middle of the Road
+(SSP2-4.5)",50.839,40.238,42.63,Rosebud County,penman
+2027,"High Emissions
+(SSP3-7.0)",46.783,39.993,42.116,Rosebud County,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",47.369,41.639,44.168,Rosebud County,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",46.743,40.177,41.962,Rosebud County,penman
+2028,"Middle of the Road
+(SSP2-4.5)",44.227,40.635,41.604,Rosebud County,penman
+2028,"High Emissions
+(SSP3-7.0)",45.51,40.591,44.01,Rosebud County,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",48.494,39.502,41.773,Rosebud County,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",48.94,42.751,46.333,Rosebud County,penman
+2029,"Middle of the Road
+(SSP2-4.5)",47.235,39.534,42.267,Rosebud County,penman
+2029,"High Emissions
+(SSP3-7.0)",46.632,39.943,42.35,Rosebud County,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",47.081,43.091,44.253,Rosebud County,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",47.373,41.648,42.869,Rosebud County,penman
+2030,"Middle of the Road
+(SSP2-4.5)",50.282,41.871,45.152,Rosebud County,penman
+2030,"High Emissions
+(SSP3-7.0)",47.574,38.742,42.766,Rosebud County,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",50.009,41.102,44.71,Rosebud County,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",47.837,40.537,44.548,Rosebud County,penman
+2031,"Middle of the Road
+(SSP2-4.5)",47.048,41.602,43.47,Rosebud County,penman
+2031,"High Emissions
+(SSP3-7.0)",50.341,41.832,46.09,Rosebud County,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",49.743,42.131,46.211,Rosebud County,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",45.722,39.363,41.746,Rosebud County,penman
+2032,"Middle of the Road
+(SSP2-4.5)",48.061,39.683,42.38,Rosebud County,penman
+2032,"High Emissions
+(SSP3-7.0)",51.365,41.546,44.982,Rosebud County,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",50.376,39.331,44.702,Rosebud County,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",46.978,42.547,44.143,Rosebud County,penman
+2033,"Middle of the Road
+(SSP2-4.5)",50.655,38.661,45.681,Rosebud County,penman
+2033,"High Emissions
+(SSP3-7.0)",47.074,38.856,42.823,Rosebud County,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",49.569,41.105,45.927,Rosebud County,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",51.235,39.145,42.89,Rosebud County,penman
+2034,"Middle of the Road
+(SSP2-4.5)",46.84,40.753,42.917,Rosebud County,penman
+2034,"High Emissions
+(SSP3-7.0)",51.3,41.182,44.078,Rosebud County,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",47.748,39.591,44.259,Rosebud County,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",51.469,42.08,43.846,Rosebud County,penman
+2035,"Middle of the Road
+(SSP2-4.5)",49.576,42.445,45.34,Rosebud County,penman
+2035,"High Emissions
+(SSP3-7.0)",46.44,38.517,44.177,Rosebud County,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",48.385,41.147,44.842,Rosebud County,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",47.66,40.522,44.086,Rosebud County,penman
+2036,"Middle of the Road
+(SSP2-4.5)",48.091,40.931,44.322,Rosebud County,penman
+2036,"High Emissions
+(SSP3-7.0)",49.052,39.878,41.222,Rosebud County,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",45.717,37.975,44.341,Rosebud County,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",47.997,41.529,46.164,Rosebud County,penman
+2037,"Middle of the Road
+(SSP2-4.5)",46.998,40.64,42.214,Rosebud County,penman
+2037,"High Emissions
+(SSP3-7.0)",45.05,39.419,41.138,Rosebud County,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",49.153,41.872,43.062,Rosebud County,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",46.124,42.675,44.11,Rosebud County,penman
+2038,"Middle of the Road
+(SSP2-4.5)",45.748,41.286,43.835,Rosebud County,penman
+2038,"High Emissions
+(SSP3-7.0)",48.511,41.344,46.491,Rosebud County,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",48.342,39.962,44.061,Rosebud County,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",48.483,40.038,43.311,Rosebud County,penman
+2039,"Middle of the Road
+(SSP2-4.5)",46.488,40.385,43.234,Rosebud County,penman
+2039,"High Emissions
+(SSP3-7.0)",47.838,42.021,45.718,Rosebud County,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",48.092,39.23,42.308,Rosebud County,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",47.504,41.084,43.952,Rosebud County,penman
+2040,"Middle of the Road
+(SSP2-4.5)",49.441,42.469,45.912,Rosebud County,penman
+2040,"High Emissions
+(SSP3-7.0)",48.612,42.299,43.758,Rosebud County,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",51.471,41.921,47.31,Rosebud County,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",46.618,39.647,43.66,Rosebud County,penman
+2041,"Middle of the Road
+(SSP2-4.5)",48.926,41.717,43.661,Rosebud County,penman
+2041,"High Emissions
+(SSP3-7.0)",46.632,40.271,43.443,Rosebud County,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",48.078,40.644,44.061,Rosebud County,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",50.224,39.794,43.379,Rosebud County,penman
+2042,"Middle of the Road
+(SSP2-4.5)",47.942,40.57,44.354,Rosebud County,penman
+2042,"High Emissions
+(SSP3-7.0)",48.817,40.773,42.969,Rosebud County,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",51.113,42.691,45.455,Rosebud County,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",46.446,40.193,43.923,Rosebud County,penman
+2043,"Middle of the Road
+(SSP2-4.5)",49.274,39.241,44.227,Rosebud County,penman
+2043,"High Emissions
+(SSP3-7.0)",47.725,39.158,44.297,Rosebud County,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",49.437,39.634,43.665,Rosebud County,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",47.813,40.37,44.729,Rosebud County,penman
+2044,"Middle of the Road
+(SSP2-4.5)",52.014,43.081,43.928,Rosebud County,penman
+2044,"High Emissions
+(SSP3-7.0)",47.445,42.465,44.167,Rosebud County,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",47.735,40.786,45.73,Rosebud County,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",46.554,38.949,43.206,Rosebud County,penman
+2045,"Middle of the Road
+(SSP2-4.5)",52.687,41.258,47.62,Rosebud County,penman
+2045,"High Emissions
+(SSP3-7.0)",49.766,40.658,44.471,Rosebud County,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",45.229,41.622,43.376,Rosebud County,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",48.231,43.662,45.391,Rosebud County,penman
+2046,"Middle of the Road
+(SSP2-4.5)",46.648,41.501,43.47,Rosebud County,penman
+2046,"High Emissions
+(SSP3-7.0)",48.282,42.333,44.736,Rosebud County,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",51.876,38.582,44.495,Rosebud County,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",47.956,41.048,45.349,Rosebud County,penman
+2047,"Middle of the Road
+(SSP2-4.5)",48.567,40.217,42.01,Rosebud County,penman
+2047,"High Emissions
+(SSP3-7.0)",45.476,40.991,43.663,Rosebud County,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",52.499,42.755,44.656,Rosebud County,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",49.924,41.254,42.908,Rosebud County,penman
+2048,"Middle of the Road
+(SSP2-4.5)",48.112,39.231,44.115,Rosebud County,penman
+2048,"High Emissions
+(SSP3-7.0)",49.178,40.326,44.166,Rosebud County,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",55.404,40.972,49.614,Rosebud County,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",49.437,41.699,45.888,Rosebud County,penman
+2049,"Middle of the Road
+(SSP2-4.5)",49.269,42.34,45.402,Rosebud County,penman
+2049,"High Emissions
+(SSP3-7.0)",46.833,42.34,43.677,Rosebud County,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",49.22,40.516,44.213,Rosebud County,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",49.651,39.094,44.704,Rosebud County,penman
+2050,"Middle of the Road
+(SSP2-4.5)",50.178,43.119,47.418,Rosebud County,penman
+2050,"High Emissions
+(SSP3-7.0)",47.977,43.292,46.726,Rosebud County,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",49.253,41.455,45.703,Rosebud County,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",47.544,41.626,43.926,Rosebud County,penman
+2051,"Middle of the Road
+(SSP2-4.5)",51.313,41.714,44.686,Rosebud County,penman
+2051,"High Emissions
+(SSP3-7.0)",47.093,43.732,45.108,Rosebud County,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",50.737,43.499,46.266,Rosebud County,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",49.024,42.264,44.344,Rosebud County,penman
+2052,"Middle of the Road
+(SSP2-4.5)",47.887,41.837,45.147,Rosebud County,penman
+2052,"High Emissions
+(SSP3-7.0)",46.131,40.3,43.504,Rosebud County,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",50.255,43.34,46.677,Rosebud County,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",50.484,39.602,42.673,Rosebud County,penman
+2053,"Middle of the Road
+(SSP2-4.5)",51.126,39.738,45.422,Rosebud County,penman
+2053,"High Emissions
+(SSP3-7.0)",49.589,43.918,46.15,Rosebud County,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",51.716,39.845,48.438,Rosebud County,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",49.664,42.919,45.84,Rosebud County,penman
+2054,"Middle of the Road
+(SSP2-4.5)",50.08,37.189,45.3,Rosebud County,penman
+2054,"High Emissions
+(SSP3-7.0)",47.999,42.287,43.488,Rosebud County,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",50.191,42.651,47.53,Rosebud County,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",49.714,43.581,46.044,Rosebud County,penman
+2055,"Middle of the Road
+(SSP2-4.5)",51.42,40.981,45.371,Rosebud County,penman
+2055,"High Emissions
+(SSP3-7.0)",50.916,44.05,46.493,Rosebud County,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",50.974,41.803,46.092,Rosebud County,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",48.015,42.565,45,Rosebud County,penman
+2056,"Middle of the Road
+(SSP2-4.5)",46.925,42.449,44.749,Rosebud County,penman
+2056,"High Emissions
+(SSP3-7.0)",48.821,40.711,43.749,Rosebud County,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",48.659,43.413,46.053,Rosebud County,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",47.427,41.874,42.585,Rosebud County,penman
+2057,"Middle of the Road
+(SSP2-4.5)",49.29,44.3,46.849,Rosebud County,penman
+2057,"High Emissions
+(SSP3-7.0)",47.534,40.373,43.836,Rosebud County,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",49.726,41.397,44.129,Rosebud County,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",45.217,42.272,44.009,Rosebud County,penman
+2058,"Middle of the Road
+(SSP2-4.5)",52.327,42.952,46.232,Rosebud County,penman
+2058,"High Emissions
+(SSP3-7.0)",47.554,40.314,44.909,Rosebud County,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",49.054,42.126,44.646,Rosebud County,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",49.964,41.405,46.724,Rosebud County,penman
+2059,"Middle of the Road
+(SSP2-4.5)",56.159,42.79,43.925,Rosebud County,penman
+2059,"High Emissions
+(SSP3-7.0)",49.456,44.491,45.973,Rosebud County,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",51.284,46.148,47.846,Rosebud County,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",47.501,42.725,44.036,Rosebud County,penman
+2060,"Middle of the Road
+(SSP2-4.5)",54.1,40.389,44.604,Rosebud County,penman
+2060,"High Emissions
+(SSP3-7.0)",47.442,41.677,45.468,Rosebud County,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",51.441,41.929,44.449,Rosebud County,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",47.37,40.541,45.099,Rosebud County,penman
+2061,"Middle of the Road
+(SSP2-4.5)",50.418,41.446,46.868,Rosebud County,penman
+2061,"High Emissions
+(SSP3-7.0)",48.108,42.624,45.02,Rosebud County,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",51.763,44.228,49.162,Rosebud County,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",51.342,40.326,44.463,Rosebud County,penman
+2062,"Middle of the Road
+(SSP2-4.5)",48.113,42.29,45.441,Rosebud County,penman
+2062,"High Emissions
+(SSP3-7.0)",47.449,43.402,46.017,Rosebud County,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",53.401,41.097,46.479,Rosebud County,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",47.618,41.63,44.809,Rosebud County,penman
+2063,"Middle of the Road
+(SSP2-4.5)",48.161,40.261,44.19,Rosebud County,penman
+2063,"High Emissions
+(SSP3-7.0)",49.762,42.826,47.486,Rosebud County,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",52.755,42.811,47.79,Rosebud County,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",52.516,38.832,45.256,Rosebud County,penman
+2064,"Middle of the Road
+(SSP2-4.5)",48.526,40.555,45.302,Rosebud County,penman
+2064,"High Emissions
+(SSP3-7.0)",49.803,41.101,44.818,Rosebud County,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",51.318,45.066,47.714,Rosebud County,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",48.461,39.398,41.937,Rosebud County,penman
+2065,"Middle of the Road
+(SSP2-4.5)",47.681,41.805,44.43,Rosebud County,penman
+2065,"High Emissions
+(SSP3-7.0)",49.551,44.802,47.014,Rosebud County,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",52.598,45.613,48.381,Rosebud County,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",47.345,41.719,43.071,Rosebud County,penman
+2066,"Middle of the Road
+(SSP2-4.5)",49.145,42.116,46.796,Rosebud County,penman
+2066,"High Emissions
+(SSP3-7.0)",49.837,43.213,47.963,Rosebud County,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",52.949,42.883,50.804,Rosebud County,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",49.722,42.037,44.611,Rosebud County,penman
+2067,"Middle of the Road
+(SSP2-4.5)",48.087,41.594,46.584,Rosebud County,penman
+2067,"High Emissions
+(SSP3-7.0)",57.452,44.206,47.941,Rosebud County,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",54.236,43.352,48.575,Rosebud County,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",46.971,41.555,45.381,Rosebud County,penman
+2068,"Middle of the Road
+(SSP2-4.5)",49.237,40.248,44.188,Rosebud County,penman
+2068,"High Emissions
+(SSP3-7.0)",50.418,43.278,46.005,Rosebud County,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",54.445,41.833,46.781,Rosebud County,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",48.638,42.265,44.555,Rosebud County,penman
+2069,"Middle of the Road
+(SSP2-4.5)",53.596,41.29,45.221,Rosebud County,penman
+2069,"High Emissions
+(SSP3-7.0)",55.472,46.293,49.49,Rosebud County,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",59.859,42.358,49.77,Rosebud County,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",47.55,41.912,44.601,Rosebud County,penman
+2070,"Middle of the Road
+(SSP2-4.5)",47.818,42.249,43.993,Rosebud County,penman
+2070,"High Emissions
+(SSP3-7.0)",54.446,45.649,48.527,Rosebud County,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",54.027,45.045,47.34,Rosebud County,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",52.368,40.527,46.099,Rosebud County,penman
+2071,"Middle of the Road
+(SSP2-4.5)",48.916,43.371,46.581,Rosebud County,penman
+2071,"High Emissions
+(SSP3-7.0)",53.353,43.433,49.608,Rosebud County,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",53.352,45.962,50.223,Rosebud County,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",49.636,43.485,46.37,Rosebud County,penman
+2072,"Middle of the Road
+(SSP2-4.5)",47.648,41.703,45.834,Rosebud County,penman
+2072,"High Emissions
+(SSP3-7.0)",52.744,43.066,46.198,Rosebud County,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",51.033,43.725,48.62,Rosebud County,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",49.378,42.644,44.343,Rosebud County,penman
+2073,"Middle of the Road
+(SSP2-4.5)",51.315,38.13,43.459,Rosebud County,penman
+2073,"High Emissions
+(SSP3-7.0)",51.69,44.631,46.653,Rosebud County,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",52.849,43.294,47.674,Rosebud County,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",49.262,40.972,43.562,Rosebud County,penman
+2074,"Middle of the Road
+(SSP2-4.5)",50.339,42.708,46.482,Rosebud County,penman
+2074,"High Emissions
+(SSP3-7.0)",49.459,43.867,46.046,Rosebud County,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",58.704,45.085,47.512,Rosebud County,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",50.138,40.135,44.635,Rosebud County,penman
+2075,"Middle of the Road
+(SSP2-4.5)",52.533,41.667,44.869,Rosebud County,penman
+2075,"High Emissions
+(SSP3-7.0)",52.525,42.738,47.618,Rosebud County,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",54.408,44.65,49.505,Rosebud County,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",46.999,41.581,44.48,Rosebud County,penman
+2076,"Middle of the Road
+(SSP2-4.5)",47.075,41.22,43.246,Rosebud County,penman
+2076,"High Emissions
+(SSP3-7.0)",54.446,43.635,46.74,Rosebud County,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",56.497,44.198,52.578,Rosebud County,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",49.673,40.881,45.451,Rosebud County,penman
+2077,"Middle of the Road
+(SSP2-4.5)",49.034,42.972,46.099,Rosebud County,penman
+2077,"High Emissions
+(SSP3-7.0)",51.611,44.403,46.005,Rosebud County,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",55.148,47.925,53.118,Rosebud County,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",50.963,41.325,46.292,Rosebud County,penman
+2078,"Middle of the Road
+(SSP2-4.5)",49.721,43.07,45.598,Rosebud County,penman
+2078,"High Emissions
+(SSP3-7.0)",53.347,43.431,49.548,Rosebud County,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",51.534,42.366,47.32,Rosebud County,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",48.727,44.481,46.958,Rosebud County,penman
+2079,"Middle of the Road
+(SSP2-4.5)",48.983,41.867,45.295,Rosebud County,penman
+2079,"High Emissions
+(SSP3-7.0)",52.536,42.497,44.825,Rosebud County,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",54.951,46.08,50.237,Rosebud County,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",47.25,39.719,42.98,Rosebud County,penman
+2080,"Middle of the Road
+(SSP2-4.5)",50.944,41.955,46.471,Rosebud County,penman
+2080,"High Emissions
+(SSP3-7.0)",50.698,44.014,46.379,Rosebud County,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",55.745,45.577,50.192,Rosebud County,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",49.746,42.205,45.771,Rosebud County,penman
+2081,"Middle of the Road
+(SSP2-4.5)",47.84,44.509,46.307,Rosebud County,penman
+2081,"High Emissions
+(SSP3-7.0)",56.841,41.711,45.786,Rosebud County,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",54.23,46.206,49.705,Rosebud County,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",49.926,43.386,45.606,Rosebud County,penman
+2082,"Middle of the Road
+(SSP2-4.5)",49.851,42.42,44.006,Rosebud County,penman
+2082,"High Emissions
+(SSP3-7.0)",53.804,43.01,48.105,Rosebud County,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",56.107,47.506,50.121,Rosebud County,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",51.576,44.425,48.848,Rosebud County,penman
+2083,"Middle of the Road
+(SSP2-4.5)",50.428,43.824,47.288,Rosebud County,penman
+2083,"High Emissions
+(SSP3-7.0)",52.039,42.555,47.755,Rosebud County,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",56.705,45.786,49.775,Rosebud County,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",50.378,39.576,44.341,Rosebud County,penman
+2084,"Middle of the Road
+(SSP2-4.5)",52.419,42.195,49.76,Rosebud County,penman
+2084,"High Emissions
+(SSP3-7.0)",55.689,46.636,52.305,Rosebud County,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",56.224,44.377,50.445,Rosebud County,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",52.879,40.511,43.508,Rosebud County,penman
+2085,"Middle of the Road
+(SSP2-4.5)",47.993,39.847,45.751,Rosebud County,penman
+2085,"High Emissions
+(SSP3-7.0)",51.333,45.522,47.364,Rosebud County,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",52.384,45.103,51.485,Rosebud County,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",48.786,42.97,45.169,Rosebud County,penman
+2086,"Middle of the Road
+(SSP2-4.5)",49.831,42.95,46.3,Rosebud County,penman
+2086,"High Emissions
+(SSP3-7.0)",54.496,43.592,47.826,Rosebud County,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",56.377,44.466,48.496,Rosebud County,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",47.926,38.448,44.255,Rosebud County,penman
+2087,"Middle of the Road
+(SSP2-4.5)",50.895,42.879,48.172,Rosebud County,penman
+2087,"High Emissions
+(SSP3-7.0)",56.837,43.592,49.042,Rosebud County,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",54.552,43.722,49.47,Rosebud County,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",47.853,39.746,44.374,Rosebud County,penman
+2088,"Middle of the Road
+(SSP2-4.5)",53.307,42.669,48.352,Rosebud County,penman
+2088,"High Emissions
+(SSP3-7.0)",54.618,43.521,49.628,Rosebud County,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",58.676,46.891,48.703,Rosebud County,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",48.495,40.773,44.004,Rosebud County,penman
+2089,"Middle of the Road
+(SSP2-4.5)",51.64,40.148,46.537,Rosebud County,penman
+2089,"High Emissions
+(SSP3-7.0)",57.11,46.011,51.325,Rosebud County,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",59.527,48.657,50.632,Rosebud County,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",48.069,38.932,46.38,Rosebud County,penman
+2090,"Middle of the Road
+(SSP2-4.5)",49.183,42.37,44.8,Rosebud County,penman
+2090,"High Emissions
+(SSP3-7.0)",58.419,46.464,52.696,Rosebud County,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",56.291,47.885,51.523,Rosebud County,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",47.779,41.278,44.916,Rosebud County,penman
+2091,"Middle of the Road
+(SSP2-4.5)",51.318,42.348,49.105,Rosebud County,penman
+2091,"High Emissions
+(SSP3-7.0)",55.454,48.889,50.348,Rosebud County,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",57.233,45.743,50.786,Rosebud County,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",51.379,41.918,45.003,Rosebud County,penman
+2092,"Middle of the Road
+(SSP2-4.5)",53.716,40.994,49.105,Rosebud County,penman
+2092,"High Emissions
+(SSP3-7.0)",55.121,44.022,50.402,Rosebud County,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",59.996,47.591,50.832,Rosebud County,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",50.741,39.709,45.709,Rosebud County,penman
+2093,"Middle of the Road
+(SSP2-4.5)",50.248,43.9,46.744,Rosebud County,penman
+2093,"High Emissions
+(SSP3-7.0)",52.74,44.056,46.784,Rosebud County,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",57.571,49.678,52.941,Rosebud County,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",48.639,41.185,43.045,Rosebud County,penman
+2094,"Middle of the Road
+(SSP2-4.5)",54.688,41.562,47.272,Rosebud County,penman
+2094,"High Emissions
+(SSP3-7.0)",51.586,48.203,49.736,Rosebud County,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",61.97,47.298,51.29,Rosebud County,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",50.137,41.914,46.638,Rosebud County,penman
+2095,"Middle of the Road
+(SSP2-4.5)",50.791,45.311,49.446,Rosebud County,penman
+2095,"High Emissions
+(SSP3-7.0)",55.551,44.69,51.876,Rosebud County,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",58.871,46.912,50.913,Rosebud County,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",49.195,41.516,44.706,Rosebud County,penman
+2096,"Middle of the Road
+(SSP2-4.5)",53.333,43.788,50.459,Rosebud County,penman
+2096,"High Emissions
+(SSP3-7.0)",58.328,47.061,52.162,Rosebud County,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",61.278,46.552,51.725,Rosebud County,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",50.821,41.222,44.626,Rosebud County,penman
+2097,"Middle of the Road
+(SSP2-4.5)",53.825,44.023,46.784,Rosebud County,penman
+2097,"High Emissions
+(SSP3-7.0)",58.25,45.162,52.367,Rosebud County,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",58.215,47.463,49.336,Rosebud County,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",50.782,40.99,44.272,Rosebud County,penman
+2098,"Middle of the Road
+(SSP2-4.5)",52.64,44.476,46.517,Rosebud County,penman
+2098,"High Emissions
+(SSP3-7.0)",55.228,45.524,47.954,Rosebud County,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",56.382,49.503,52.12,Rosebud County,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",47.354,40.702,45.08,Rosebud County,penman
+2099,"Middle of the Road
+(SSP2-4.5)",50.128,42.728,47.775,Rosebud County,penman
+2099,"High Emissions
+(SSP3-7.0)",57.106,44.983,50.942,Rosebud County,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",61.86,47.937,52.707,Rosebud County,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",49.604,38.382,43.842,Rosebud County,penman
+2100,"Middle of the Road
+(SSP2-4.5)",52.437,41.685,46.293,Rosebud County,penman
+2100,"High Emissions
+(SSP3-7.0)",53.049,47.044,49.124,Rosebud County,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",59.119,48.546,51.65,Rosebud County,penman

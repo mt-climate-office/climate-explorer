@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,45.875,18.3,33,Lower Musselshell,above90
+1951,Historical Emissions,51.675,18.05,29.625,Lower Musselshell,above90
+1952,Historical Emissions,44.075,12.15,31.125,Lower Musselshell,above90
+1953,Historical Emissions,34.3,15.425,27.125,Lower Musselshell,above90
+1954,Historical Emissions,46.325,9.325,20.25,Lower Musselshell,above90
+1955,Historical Emissions,40,15.25,24.5,Lower Musselshell,above90
+1956,Historical Emissions,59.375,16.675,30.375,Lower Musselshell,above90
+1957,Historical Emissions,55.375,11,22.125,Lower Musselshell,above90
+1958,Historical Emissions,44.55,10.325,19.75,Lower Musselshell,above90
+1959,Historical Emissions,31.325,4.725,22.5,Lower Musselshell,above90
+1960,Historical Emissions,44.05,11.125,18,Lower Musselshell,above90
+1961,Historical Emissions,38.25,8.875,20.875,Lower Musselshell,above90
+1962,Historical Emissions,43.075,12.425,27.5,Lower Musselshell,above90
+1963,Historical Emissions,26,13.175,17.875,Lower Musselshell,above90
+1964,Historical Emissions,40.6,7.575,30.125,Lower Musselshell,above90
+1965,Historical Emissions,31.875,13.6,26.375,Lower Musselshell,above90
+1966,Historical Emissions,49.825,9.65,19,Lower Musselshell,above90
+1967,Historical Emissions,41.1,12.625,27.875,Lower Musselshell,above90
+1968,Historical Emissions,27.475,10.725,21,Lower Musselshell,above90
+1969,Historical Emissions,35.05,11.2,28.25,Lower Musselshell,above90
+1970,Historical Emissions,31.15,12.825,23.375,Lower Musselshell,above90
+1971,Historical Emissions,43.15,12.425,26.75,Lower Musselshell,above90
+1972,Historical Emissions,27.75,16.55,20.25,Lower Musselshell,above90
+1973,Historical Emissions,42,13.375,24.125,Lower Musselshell,above90
+1974,Historical Emissions,34.8,6.4,20.5,Lower Musselshell,above90
+1975,Historical Emissions,33.675,9.7,24.125,Lower Musselshell,above90
+1976,Historical Emissions,34.975,7.525,22,Lower Musselshell,above90
+1977,Historical Emissions,39.8,7.175,16,Lower Musselshell,above90
+1978,Historical Emissions,30.925,9.35,22.25,Lower Musselshell,above90
+1979,Historical Emissions,37.2,9.3,26.25,Lower Musselshell,above90
+1980,Historical Emissions,29.6,13.525,23.5,Lower Musselshell,above90
+1981,Historical Emissions,38.6,16.975,22.125,Lower Musselshell,above90
+1982,Historical Emissions,37.75,11.75,26.125,Lower Musselshell,above90
+1983,Historical Emissions,33,14.65,22.875,Lower Musselshell,above90
+1984,Historical Emissions,30.575,12.825,23.125,Lower Musselshell,above90
+1985,Historical Emissions,44.6,11.925,18.375,Lower Musselshell,above90
+1986,Historical Emissions,39.825,10.15,24,Lower Musselshell,above90
+1987,Historical Emissions,46.175,8.075,23.875,Lower Musselshell,above90
+1988,Historical Emissions,42.1,9.65,20.875,Lower Musselshell,above90
+1989,Historical Emissions,40.75,5.9,28.5,Lower Musselshell,above90
+1990,Historical Emissions,52.3,21.4,31.875,Lower Musselshell,above90
+1991,Historical Emissions,39.925,8.85,20,Lower Musselshell,above90
+1992,Historical Emissions,39.7,6.975,18.375,Lower Musselshell,above90
+1993,Historical Emissions,30.175,9.9,23.125,Lower Musselshell,above90
+1994,Historical Emissions,45.65,13.825,24.5,Lower Musselshell,above90
+1995,Historical Emissions,51.45,21.45,32,Lower Musselshell,above90
+1996,Historical Emissions,67.025,26.175,42.875,Lower Musselshell,above90
+1997,Historical Emissions,45.975,18.175,32.625,Lower Musselshell,above90
+1998,Historical Emissions,39.65,15.45,27.875,Lower Musselshell,above90
+1999,Historical Emissions,39.525,14.7,21.25,Lower Musselshell,above90
+2000,Historical Emissions,51.8,17.95,35.75,Lower Musselshell,above90
+2001,Historical Emissions,46.525,18.85,40,Lower Musselshell,above90
+2002,Historical Emissions,48.825,24.1,31.625,Lower Musselshell,above90
+2003,Historical Emissions,54.075,28.35,41.5,Lower Musselshell,above90
+2004,Historical Emissions,55.5,28.2,38.5,Lower Musselshell,above90
+2005,Historical Emissions,61.4,30.525,34,Lower Musselshell,above90
+2006,Historical Emissions,61.325,10.2,36.25,Lower Musselshell,above90
+2007,Historical Emissions,40.7,27.325,34.25,Lower Musselshell,above90
+2008,Historical Emissions,64.25,16.15,33,Lower Musselshell,above90
+2009,Historical Emissions,46.1,22.625,31.875,Lower Musselshell,above90
+2010,Historical Emissions,49.7,25.275,33.625,Lower Musselshell,above90
+2011,Historical Emissions,49.5,16.025,39.375,Lower Musselshell,above90
+2012,Historical Emissions,52.75,36.15,44,Lower Musselshell,above90
+2013,Historical Emissions,73.4,25.225,43.875,Lower Musselshell,above90
+2014,Historical Emissions,70.2,30.75,34.875,Lower Musselshell,above90
+2015,"Moderating Emissions
+(SSP1-2.6)",58.675,30.775,41,Lower Musselshell,above90
+2015,"Middle of the Road
+(SSP2-4.5)",68.375,29.725,49.875,Lower Musselshell,above90
+2015,"High Emissions
+(SSP3-7.0)",55.375,33.025,36.25,Lower Musselshell,above90
+2015,"Accelerating Emissions
+(SSP5-8.5)",63.425,35.425,49.875,Lower Musselshell,above90
+2016,"Moderating Emissions
+(SSP1-2.6)",64.175,35.575,42.625,Lower Musselshell,above90
+2016,"Middle of the Road
+(SSP2-4.5)",50.075,23.375,38.25,Lower Musselshell,above90
+2016,"High Emissions
+(SSP3-7.0)",71.65,30.725,50.25,Lower Musselshell,above90
+2016,"Accelerating Emissions
+(SSP5-8.5)",53.3,30.375,36.875,Lower Musselshell,above90
+2017,"Moderating Emissions
+(SSP1-2.6)",57.325,31.1,44.375,Lower Musselshell,above90
+2017,"Middle of the Road
+(SSP2-4.5)",53.1,22.575,39.25,Lower Musselshell,above90
+2017,"High Emissions
+(SSP3-7.0)",47.35,23.25,40.5,Lower Musselshell,above90
+2017,"Accelerating Emissions
+(SSP5-8.5)",57.45,34.6,42,Lower Musselshell,above90
+2018,"Moderating Emissions
+(SSP1-2.6)",57.25,33.475,43.875,Lower Musselshell,above90
+2018,"Middle of the Road
+(SSP2-4.5)",55.35,23.425,45.375,Lower Musselshell,above90
+2018,"High Emissions
+(SSP3-7.0)",60.15,23.25,38.125,Lower Musselshell,above90
+2018,"Accelerating Emissions
+(SSP5-8.5)",63.475,19.875,34.625,Lower Musselshell,above90
+2019,"Moderating Emissions
+(SSP1-2.6)",68.9,40.7,50,Lower Musselshell,above90
+2019,"Middle of the Road
+(SSP2-4.5)",59.675,35,48.5,Lower Musselshell,above90
+2019,"High Emissions
+(SSP3-7.0)",47.225,20.85,36.75,Lower Musselshell,above90
+2019,"Accelerating Emissions
+(SSP5-8.5)",81.725,30.975,40.875,Lower Musselshell,above90
+2020,"Moderating Emissions
+(SSP1-2.6)",71.075,29.8,48,Lower Musselshell,above90
+2020,"Middle of the Road
+(SSP2-4.5)",53.825,30.35,49.125,Lower Musselshell,above90
+2020,"High Emissions
+(SSP3-7.0)",63.7,20.4,40.125,Lower Musselshell,above90
+2020,"Accelerating Emissions
+(SSP5-8.5)",61.875,28.975,37.5,Lower Musselshell,above90
+2021,"Moderating Emissions
+(SSP1-2.6)",73.225,41.65,46.625,Lower Musselshell,above90
+2021,"Middle of the Road
+(SSP2-4.5)",75.675,16.55,62.25,Lower Musselshell,above90
+2021,"High Emissions
+(SSP3-7.0)",70.55,29.975,45.25,Lower Musselshell,above90
+2021,"Accelerating Emissions
+(SSP5-8.5)",64.425,20.975,35.875,Lower Musselshell,above90
+2022,"Moderating Emissions
+(SSP1-2.6)",55.45,23.025,42.125,Lower Musselshell,above90
+2022,"Middle of the Road
+(SSP2-4.5)",69.9,24.85,55.75,Lower Musselshell,above90
+2022,"High Emissions
+(SSP3-7.0)",50.65,25.85,34.75,Lower Musselshell,above90
+2022,"Accelerating Emissions
+(SSP5-8.5)",74.425,29.65,37.625,Lower Musselshell,above90
+2023,"Moderating Emissions
+(SSP1-2.6)",50.975,26.7,34.875,Lower Musselshell,above90
+2023,"Middle of the Road
+(SSP2-4.5)",69.5,31.6,44.75,Lower Musselshell,above90
+2023,"High Emissions
+(SSP3-7.0)",65.325,28.75,54.875,Lower Musselshell,above90
+2023,"Accelerating Emissions
+(SSP5-8.5)",57.25,18.475,23.5,Lower Musselshell,above90
+2024,"Moderating Emissions
+(SSP1-2.6)",68.45,34.825,49,Lower Musselshell,above90
+2024,"Middle of the Road
+(SSP2-4.5)",62.5,35.55,41.5,Lower Musselshell,above90
+2024,"High Emissions
+(SSP3-7.0)",68.125,40.4,52,Lower Musselshell,above90
+2024,"Accelerating Emissions
+(SSP5-8.5)",53.6,23.7,35.875,Lower Musselshell,above90
+2025,"Moderating Emissions
+(SSP1-2.6)",63.4,35.075,53.375,Lower Musselshell,above90
+2025,"Middle of the Road
+(SSP2-4.5)",60.975,11.725,28.125,Lower Musselshell,above90
+2025,"High Emissions
+(SSP3-7.0)",59.85,43.1,54.5,Lower Musselshell,above90
+2025,"Accelerating Emissions
+(SSP5-8.5)",69.7,30.45,42.375,Lower Musselshell,above90
+2026,"Moderating Emissions
+(SSP1-2.6)",62.85,28.65,46.375,Lower Musselshell,above90
+2026,"Middle of the Road
+(SSP2-4.5)",69.575,27.3,50.125,Lower Musselshell,above90
+2026,"High Emissions
+(SSP3-7.0)",49.525,28.525,41.75,Lower Musselshell,above90
+2026,"Accelerating Emissions
+(SSP5-8.5)",78.3,21.65,38.625,Lower Musselshell,above90
+2027,"Moderating Emissions
+(SSP1-2.6)",80.35,33.55,44,Lower Musselshell,above90
+2027,"Middle of the Road
+(SSP2-4.5)",74.6,28,34.25,Lower Musselshell,above90
+2027,"High Emissions
+(SSP3-7.0)",59.35,31,49.125,Lower Musselshell,above90
+2027,"Accelerating Emissions
+(SSP5-8.5)",70.675,42.075,47.25,Lower Musselshell,above90
+2028,"Moderating Emissions
+(SSP1-2.6)",55.1,27.175,37.375,Lower Musselshell,above90
+2028,"Middle of the Road
+(SSP2-4.5)",58.525,33.9,45.125,Lower Musselshell,above90
+2028,"High Emissions
+(SSP3-7.0)",64.15,45.7,53.125,Lower Musselshell,above90
+2028,"Accelerating Emissions
+(SSP5-8.5)",69.575,24.7,39.875,Lower Musselshell,above90
+2029,"Moderating Emissions
+(SSP1-2.6)",76.825,35.225,47.75,Lower Musselshell,above90
+2029,"Middle of the Road
+(SSP2-4.5)",68.9,15.575,29,Lower Musselshell,above90
+2029,"High Emissions
+(SSP3-7.0)",56.85,20.875,43.75,Lower Musselshell,above90
+2029,"Accelerating Emissions
+(SSP5-8.5)",73.1,37.325,52.5,Lower Musselshell,above90
+2030,"Moderating Emissions
+(SSP1-2.6)",58.625,25.925,46.75,Lower Musselshell,above90
+2030,"Middle of the Road
+(SSP2-4.5)",76.975,35.8,54.625,Lower Musselshell,above90
+2030,"High Emissions
+(SSP3-7.0)",74.75,28.025,46.75,Lower Musselshell,above90
+2030,"Accelerating Emissions
+(SSP5-8.5)",81.075,23.775,48.875,Lower Musselshell,above90
+2031,"Moderating Emissions
+(SSP1-2.6)",60.025,38.15,50.25,Lower Musselshell,above90
+2031,"Middle of the Road
+(SSP2-4.5)",64.6,34.525,50.25,Lower Musselshell,above90
+2031,"High Emissions
+(SSP3-7.0)",75.4,33.525,54.375,Lower Musselshell,above90
+2031,"Accelerating Emissions
+(SSP5-8.5)",76.1,42.925,54.625,Lower Musselshell,above90
+2032,"Moderating Emissions
+(SSP1-2.6)",58.45,27.55,48.75,Lower Musselshell,above90
+2032,"Middle of the Road
+(SSP2-4.5)",56.55,33.325,39.125,Lower Musselshell,above90
+2032,"High Emissions
+(SSP3-7.0)",85.425,28.175,50.625,Lower Musselshell,above90
+2032,"Accelerating Emissions
+(SSP5-8.5)",71.625,20.7,48.125,Lower Musselshell,above90
+2033,"Moderating Emissions
+(SSP1-2.6)",58.75,40.375,53.625,Lower Musselshell,above90
+2033,"Middle of the Road
+(SSP2-4.5)",74.125,29,60.625,Lower Musselshell,above90
+2033,"High Emissions
+(SSP3-7.0)",76.9,29.5,42.375,Lower Musselshell,above90
+2033,"Accelerating Emissions
+(SSP5-8.5)",71.625,36.2,59,Lower Musselshell,above90
+2034,"Moderating Emissions
+(SSP1-2.6)",79.15,31.275,48.5,Lower Musselshell,above90
+2034,"Middle of the Road
+(SSP2-4.5)",71.375,27.725,46.25,Lower Musselshell,above90
+2034,"High Emissions
+(SSP3-7.0)",85.675,37.8,63.625,Lower Musselshell,above90
+2034,"Accelerating Emissions
+(SSP5-8.5)",73.65,25.7,64,Lower Musselshell,above90
+2035,"Moderating Emissions
+(SSP1-2.6)",73.85,42.95,54.625,Lower Musselshell,above90
+2035,"Middle of the Road
+(SSP2-4.5)",74.1,36.125,45.875,Lower Musselshell,above90
+2035,"High Emissions
+(SSP3-7.0)",67.9,31.05,51.625,Lower Musselshell,above90
+2035,"Accelerating Emissions
+(SSP5-8.5)",64.25,24.875,50.25,Lower Musselshell,above90
+2036,"Moderating Emissions
+(SSP1-2.6)",66.45,35.85,51.125,Lower Musselshell,above90
+2036,"Middle of the Road
+(SSP2-4.5)",76.7,39.05,48.375,Lower Musselshell,above90
+2036,"High Emissions
+(SSP3-7.0)",74.625,21.225,37.875,Lower Musselshell,above90
+2036,"Accelerating Emissions
+(SSP5-8.5)",54.4,13.175,46.875,Lower Musselshell,above90
+2037,"Moderating Emissions
+(SSP1-2.6)",64.15,35.625,54.75,Lower Musselshell,above90
+2037,"Middle of the Road
+(SSP2-4.5)",62.85,40.325,49.625,Lower Musselshell,above90
+2037,"High Emissions
+(SSP3-7.0)",56.475,19.75,30.5,Lower Musselshell,above90
+2037,"Accelerating Emissions
+(SSP5-8.5)",75.225,30.775,48,Lower Musselshell,above90
+2038,"Moderating Emissions
+(SSP1-2.6)",61.65,37.15,40.75,Lower Musselshell,above90
+2038,"Middle of the Road
+(SSP2-4.5)",61.275,27.925,44.5,Lower Musselshell,above90
+2038,"High Emissions
+(SSP3-7.0)",71.25,44.5,62.25,Lower Musselshell,above90
+2038,"Accelerating Emissions
+(SSP5-8.5)",71.35,21.4,48.875,Lower Musselshell,above90
+2039,"Moderating Emissions
+(SSP1-2.6)",75.125,33.725,48.25,Lower Musselshell,above90
+2039,"Middle of the Road
+(SSP2-4.5)",70.15,34,47,Lower Musselshell,above90
+2039,"High Emissions
+(SSP3-7.0)",66.675,48.1,53.625,Lower Musselshell,above90
+2039,"Accelerating Emissions
+(SSP5-8.5)",79.725,26.7,41.25,Lower Musselshell,above90
+2040,"Moderating Emissions
+(SSP1-2.6)",62.7,27.575,54.75,Lower Musselshell,above90
+2040,"Middle of the Road
+(SSP2-4.5)",75.85,45.975,59.875,Lower Musselshell,above90
+2040,"High Emissions
+(SSP3-7.0)",72.6,40.125,60.25,Lower Musselshell,above90
+2040,"Accelerating Emissions
+(SSP5-8.5)",81.475,39.7,68.375,Lower Musselshell,above90
+2041,"Moderating Emissions
+(SSP1-2.6)",75.5,19.7,39.5,Lower Musselshell,above90
+2041,"Middle of the Road
+(SSP2-4.5)",64.875,31.05,57.875,Lower Musselshell,above90
+2041,"High Emissions
+(SSP3-7.0)",74.725,30.175,61,Lower Musselshell,above90
+2041,"Accelerating Emissions
+(SSP5-8.5)",66.025,36.325,59.25,Lower Musselshell,above90
+2042,"Moderating Emissions
+(SSP1-2.6)",70.2,34.25,47,Lower Musselshell,above90
+2042,"Middle of the Road
+(SSP2-4.5)",70.65,35.525,56.5,Lower Musselshell,above90
+2042,"High Emissions
+(SSP3-7.0)",60.775,33.15,53.625,Lower Musselshell,above90
+2042,"Accelerating Emissions
+(SSP5-8.5)",87.775,42.25,57.25,Lower Musselshell,above90
+2043,"Moderating Emissions
+(SSP1-2.6)",61.475,29.55,51.375,Lower Musselshell,above90
+2043,"Middle of the Road
+(SSP2-4.5)",75.375,34.725,53.5,Lower Musselshell,above90
+2043,"High Emissions
+(SSP3-7.0)",66.275,29.5,49.125,Lower Musselshell,above90
+2043,"Accelerating Emissions
+(SSP5-8.5)",82,22.8,44.625,Lower Musselshell,above90
+2044,"Moderating Emissions
+(SSP1-2.6)",73.05,33.7,55.625,Lower Musselshell,above90
+2044,"Middle of the Road
+(SSP2-4.5)",91.475,38.325,48.625,Lower Musselshell,above90
+2044,"High Emissions
+(SSP3-7.0)",69.575,44.325,47.875,Lower Musselshell,above90
+2044,"Accelerating Emissions
+(SSP5-8.5)",81.1,43.45,63.375,Lower Musselshell,above90
+2045,"Moderating Emissions
+(SSP1-2.6)",62.525,30.175,52.25,Lower Musselshell,above90
+2045,"Middle of the Road
+(SSP2-4.5)",86.55,39.725,55.875,Lower Musselshell,above90
+2045,"High Emissions
+(SSP3-7.0)",66.95,45.85,54.125,Lower Musselshell,above90
+2045,"Accelerating Emissions
+(SSP5-8.5)",61.65,42.3,54.375,Lower Musselshell,above90
+2046,"Moderating Emissions
+(SSP1-2.6)",84.3,35.9,53.375,Lower Musselshell,above90
+2046,"Middle of the Road
+(SSP2-4.5)",64.7,32.4,50.125,Lower Musselshell,above90
+2046,"High Emissions
+(SSP3-7.0)",68.725,41.275,49,Lower Musselshell,above90
+2046,"Accelerating Emissions
+(SSP5-8.5)",75.675,31.05,65.5,Lower Musselshell,above90
+2047,"Moderating Emissions
+(SSP1-2.6)",77.525,33.35,51.25,Lower Musselshell,above90
+2047,"Middle of the Road
+(SSP2-4.5)",68.625,29.5,43.5,Lower Musselshell,above90
+2047,"High Emissions
+(SSP3-7.0)",70.625,42.35,51.75,Lower Musselshell,above90
+2047,"Accelerating Emissions
+(SSP5-8.5)",77.575,36.525,65.5,Lower Musselshell,above90
+2048,"Moderating Emissions
+(SSP1-2.6)",60.7,29.175,41.875,Lower Musselshell,above90
+2048,"Middle of the Road
+(SSP2-4.5)",72.925,41.375,57.625,Lower Musselshell,above90
+2048,"High Emissions
+(SSP3-7.0)",82.625,22.425,53.875,Lower Musselshell,above90
+2048,"Accelerating Emissions
+(SSP5-8.5)",94.575,45.95,75.625,Lower Musselshell,above90
+2049,"Moderating Emissions
+(SSP1-2.6)",69.275,32,52.375,Lower Musselshell,above90
+2049,"Middle of the Road
+(SSP2-4.5)",76.95,45.425,54.125,Lower Musselshell,above90
+2049,"High Emissions
+(SSP3-7.0)",57.8,36.925,45.375,Lower Musselshell,above90
+2049,"Accelerating Emissions
+(SSP5-8.5)",77.575,29.65,56.75,Lower Musselshell,above90
+2050,"Moderating Emissions
+(SSP1-2.6)",66.825,20.4,51,Lower Musselshell,above90
+2050,"Middle of the Road
+(SSP2-4.5)",80.45,46.625,72.75,Lower Musselshell,above90
+2050,"High Emissions
+(SSP3-7.0)",72.925,38.2,60.625,Lower Musselshell,above90
+2050,"Accelerating Emissions
+(SSP5-8.5)",88.825,37.675,58.125,Lower Musselshell,above90
+2051,"Moderating Emissions
+(SSP1-2.6)",70.05,29.3,58,Lower Musselshell,above90
+2051,"Middle of the Road
+(SSP2-4.5)",82.5,30.15,66.375,Lower Musselshell,above90
+2051,"High Emissions
+(SSP3-7.0)",78.175,57.05,62.75,Lower Musselshell,above90
+2051,"Accelerating Emissions
+(SSP5-8.5)",74.45,48.375,59.125,Lower Musselshell,above90
+2052,"Moderating Emissions
+(SSP1-2.6)",72.025,40.95,65.125,Lower Musselshell,above90
+2052,"Middle of the Road
+(SSP2-4.5)",77.9,39.5,60.125,Lower Musselshell,above90
+2052,"High Emissions
+(SSP3-7.0)",66.8,40.2,54.125,Lower Musselshell,above90
+2052,"Accelerating Emissions
+(SSP5-8.5)",71.85,53.25,62.75,Lower Musselshell,above90
+2053,"Moderating Emissions
+(SSP1-2.6)",75.3,30.2,49.75,Lower Musselshell,above90
+2053,"Middle of the Road
+(SSP2-4.5)",71.875,35.375,53.25,Lower Musselshell,above90
+2053,"High Emissions
+(SSP3-7.0)",83.2,54.6,67.625,Lower Musselshell,above90
+2053,"Accelerating Emissions
+(SSP5-8.5)",97.575,46.625,67.625,Lower Musselshell,above90
+2054,"Moderating Emissions
+(SSP1-2.6)",75.825,34.175,64.375,Lower Musselshell,above90
+2054,"Middle of the Road
+(SSP2-4.5)",84.7,30.15,61,Lower Musselshell,above90
+2054,"High Emissions
+(SSP3-7.0)",84.625,41.425,50.375,Lower Musselshell,above90
+2054,"Accelerating Emissions
+(SSP5-8.5)",81.425,54.05,68.75,Lower Musselshell,above90
+2055,"Moderating Emissions
+(SSP1-2.6)",77.525,48.55,53.5,Lower Musselshell,above90
+2055,"Middle of the Road
+(SSP2-4.5)",93.525,33.95,65.875,Lower Musselshell,above90
+2055,"High Emissions
+(SSP3-7.0)",82.2,50.475,63.625,Lower Musselshell,above90
+2055,"Accelerating Emissions
+(SSP5-8.5)",88.925,41.75,72.375,Lower Musselshell,above90
+2056,"Moderating Emissions
+(SSP1-2.6)",63.425,30.3,48.375,Lower Musselshell,above90
+2056,"Middle of the Road
+(SSP2-4.5)",69.2,37.425,64.25,Lower Musselshell,above90
+2056,"High Emissions
+(SSP3-7.0)",82,31.4,64.5,Lower Musselshell,above90
+2056,"Accelerating Emissions
+(SSP5-8.5)",88.35,53.75,62.375,Lower Musselshell,above90
+2057,"Moderating Emissions
+(SSP1-2.6)",65.375,27.4,44.5,Lower Musselshell,above90
+2057,"Middle of the Road
+(SSP2-4.5)",78.5,53.8,61.125,Lower Musselshell,above90
+2057,"High Emissions
+(SSP3-7.0)",74.6,31.7,48.375,Lower Musselshell,above90
+2057,"Accelerating Emissions
+(SSP5-8.5)",82.025,45.525,55.5,Lower Musselshell,above90
+2058,"Moderating Emissions
+(SSP1-2.6)",60.7,38,41.75,Lower Musselshell,above90
+2058,"Middle of the Road
+(SSP2-4.5)",85.15,53.75,70,Lower Musselshell,above90
+2058,"High Emissions
+(SSP3-7.0)",75.075,36.675,50.375,Lower Musselshell,above90
+2058,"Accelerating Emissions
+(SSP5-8.5)",84,45.25,58.75,Lower Musselshell,above90
+2059,"Moderating Emissions
+(SSP1-2.6)",72.75,36.25,60.25,Lower Musselshell,above90
+2059,"Middle of the Road
+(SSP2-4.5)",98.925,42.025,66.75,Lower Musselshell,above90
+2059,"High Emissions
+(SSP3-7.0)",85.95,43.825,62.125,Lower Musselshell,above90
+2059,"Accelerating Emissions
+(SSP5-8.5)",90.825,64.2,74.125,Lower Musselshell,above90
+2060,"Moderating Emissions
+(SSP1-2.6)",78.475,42.625,45.125,Lower Musselshell,above90
+2060,"Middle of the Road
+(SSP2-4.5)",84.775,41.475,59.875,Lower Musselshell,above90
+2060,"High Emissions
+(SSP3-7.0)",77.825,43.4,56.125,Lower Musselshell,above90
+2060,"Accelerating Emissions
+(SSP5-8.5)",83.225,45.925,63.125,Lower Musselshell,above90
+2061,"Moderating Emissions
+(SSP1-2.6)",68.475,32.3,52.75,Lower Musselshell,above90
+2061,"Middle of the Road
+(SSP2-4.5)",85.85,43.6,55.5,Lower Musselshell,above90
+2061,"High Emissions
+(SSP3-7.0)",79.55,38.55,66.625,Lower Musselshell,above90
+2061,"Accelerating Emissions
+(SSP5-8.5)",85.925,62.175,75.125,Lower Musselshell,above90
+2062,"Moderating Emissions
+(SSP1-2.6)",79.65,37.05,53.5,Lower Musselshell,above90
+2062,"Middle of the Road
+(SSP2-4.5)",66.325,45.175,55.375,Lower Musselshell,above90
+2062,"High Emissions
+(SSP3-7.0)",72.1,53,59.75,Lower Musselshell,above90
+2062,"Accelerating Emissions
+(SSP5-8.5)",91.425,48.55,69.25,Lower Musselshell,above90
+2063,"Moderating Emissions
+(SSP1-2.6)",67.6,30.225,54.125,Lower Musselshell,above90
+2063,"Middle of the Road
+(SSP2-4.5)",80.25,34.25,52.125,Lower Musselshell,above90
+2063,"High Emissions
+(SSP3-7.0)",80.475,54.275,66.75,Lower Musselshell,above90
+2063,"Accelerating Emissions
+(SSP5-8.5)",104.1,54.225,75,Lower Musselshell,above90
+2064,"Moderating Emissions
+(SSP1-2.6)",88.9,18.95,39.25,Lower Musselshell,above90
+2064,"Middle of the Road
+(SSP2-4.5)",78.9,31,60.125,Lower Musselshell,above90
+2064,"High Emissions
+(SSP3-7.0)",82.75,51.425,62.125,Lower Musselshell,above90
+2064,"Accelerating Emissions
+(SSP5-8.5)",87.7,56.175,80.75,Lower Musselshell,above90
+2065,"Moderating Emissions
+(SSP1-2.6)",70.35,21.525,51.25,Lower Musselshell,above90
+2065,"Middle of the Road
+(SSP2-4.5)",69.975,39.225,58,Lower Musselshell,above90
+2065,"High Emissions
+(SSP3-7.0)",84.2,52.025,67.125,Lower Musselshell,above90
+2065,"Accelerating Emissions
+(SSP5-8.5)",90.6,62.55,70.875,Lower Musselshell,above90
+2066,"Moderating Emissions
+(SSP1-2.6)",68.25,25.475,59,Lower Musselshell,above90
+2066,"Middle of the Road
+(SSP2-4.5)",77.8,33.425,63.5,Lower Musselshell,above90
+2066,"High Emissions
+(SSP3-7.0)",80.85,46.475,62.625,Lower Musselshell,above90
+2066,"Accelerating Emissions
+(SSP5-8.5)",95.625,48.025,80.75,Lower Musselshell,above90
+2067,"Moderating Emissions
+(SSP1-2.6)",74.05,42.975,53.125,Lower Musselshell,above90
+2067,"Middle of the Road
+(SSP2-4.5)",70.175,46.775,58.375,Lower Musselshell,above90
+2067,"High Emissions
+(SSP3-7.0)",96.725,59.025,79.5,Lower Musselshell,above90
+2067,"Accelerating Emissions
+(SSP5-8.5)",96.05,50.925,65.875,Lower Musselshell,above90
+2068,"Moderating Emissions
+(SSP1-2.6)",77.15,44.075,58.75,Lower Musselshell,above90
+2068,"Middle of the Road
+(SSP2-4.5)",72.15,34.25,46.75,Lower Musselshell,above90
+2068,"High Emissions
+(SSP3-7.0)",93.45,52.725,70.25,Lower Musselshell,above90
+2068,"Accelerating Emissions
+(SSP5-8.5)",110.375,44.475,75,Lower Musselshell,above90
+2069,"Moderating Emissions
+(SSP1-2.6)",74.1,49.375,58.375,Lower Musselshell,above90
+2069,"Middle of the Road
+(SSP2-4.5)",83.825,57.275,60.75,Lower Musselshell,above90
+2069,"High Emissions
+(SSP3-7.0)",102.225,68.625,76.75,Lower Musselshell,above90
+2069,"Accelerating Emissions
+(SSP5-8.5)",120.375,58.35,90.375,Lower Musselshell,above90
+2070,"Moderating Emissions
+(SSP1-2.6)",75.3,36.925,61.875,Lower Musselshell,above90
+2070,"Middle of the Road
+(SSP2-4.5)",75.2,41.025,55.375,Lower Musselshell,above90
+2070,"High Emissions
+(SSP3-7.0)",93.975,55.7,70,Lower Musselshell,above90
+2070,"Accelerating Emissions
+(SSP5-8.5)",101.2,62.75,84.375,Lower Musselshell,above90
+2071,"Moderating Emissions
+(SSP1-2.6)",93.925,33.4,69.875,Lower Musselshell,above90
+2071,"Middle of the Road
+(SSP2-4.5)",78.5,51.875,65.625,Lower Musselshell,above90
+2071,"High Emissions
+(SSP3-7.0)",93,52.225,82.25,Lower Musselshell,above90
+2071,"Accelerating Emissions
+(SSP5-8.5)",99.25,64.925,81.875,Lower Musselshell,above90
+2072,"Moderating Emissions
+(SSP1-2.6)",80.925,38.45,72,Lower Musselshell,above90
+2072,"Middle of the Road
+(SSP2-4.5)",77.175,43.725,59.625,Lower Musselshell,above90
+2072,"High Emissions
+(SSP3-7.0)",89.775,52.45,68.25,Lower Musselshell,above90
+2072,"Accelerating Emissions
+(SSP5-8.5)",91.55,58.225,76.75,Lower Musselshell,above90
+2073,"Moderating Emissions
+(SSP1-2.6)",79.25,35.55,55.75,Lower Musselshell,above90
+2073,"Middle of the Road
+(SSP2-4.5)",81.4,16.35,52.75,Lower Musselshell,above90
+2073,"High Emissions
+(SSP3-7.0)",85.775,56.6,73.875,Lower Musselshell,above90
+2073,"Accelerating Emissions
+(SSP5-8.5)",99.7,50.575,75.875,Lower Musselshell,above90
+2074,"Moderating Emissions
+(SSP1-2.6)",75.425,30.775,50.75,Lower Musselshell,above90
+2074,"Middle of the Road
+(SSP2-4.5)",80.25,35.625,66.375,Lower Musselshell,above90
+2074,"High Emissions
+(SSP3-7.0)",87.575,64.05,69.375,Lower Musselshell,above90
+2074,"Accelerating Emissions
+(SSP5-8.5)",118.9,61.075,83.125,Lower Musselshell,above90
+2075,"Moderating Emissions
+(SSP1-2.6)",80.1,30.5,62.625,Lower Musselshell,above90
+2075,"Middle of the Road
+(SSP2-4.5)",90.075,46.1,57.375,Lower Musselshell,above90
+2075,"High Emissions
+(SSP3-7.0)",95.4,56.425,67.75,Lower Musselshell,above90
+2075,"Accelerating Emissions
+(SSP5-8.5)",103.675,61.3,73.875,Lower Musselshell,above90
+2076,"Moderating Emissions
+(SSP1-2.6)",68.275,40.675,63.125,Lower Musselshell,above90
+2076,"Middle of the Road
+(SSP2-4.5)",71.275,32.575,49.875,Lower Musselshell,above90
+2076,"High Emissions
+(SSP3-7.0)",94.775,56.15,76,Lower Musselshell,above90
+2076,"Accelerating Emissions
+(SSP5-8.5)",111.525,59.325,78.75,Lower Musselshell,above90
+2077,"Moderating Emissions
+(SSP1-2.6)",71.075,29.175,57.125,Lower Musselshell,above90
+2077,"Middle of the Road
+(SSP2-4.5)",83.8,44.05,60.25,Lower Musselshell,above90
+2077,"High Emissions
+(SSP3-7.0)",88.175,57.675,63.75,Lower Musselshell,above90
+2077,"Accelerating Emissions
+(SSP5-8.5)",109.8,65.675,93.125,Lower Musselshell,above90
+2078,"Moderating Emissions
+(SSP1-2.6)",80.075,36.175,60.5,Lower Musselshell,above90
+2078,"Middle of the Road
+(SSP2-4.5)",85.925,44,56.5,Lower Musselshell,above90
+2078,"High Emissions
+(SSP3-7.0)",102.05,61.65,76,Lower Musselshell,above90
+2078,"Accelerating Emissions
+(SSP5-8.5)",83.05,44.4,64.375,Lower Musselshell,above90
+2079,"Moderating Emissions
+(SSP1-2.6)",74.925,46.3,57.625,Lower Musselshell,above90
+2079,"Middle of the Road
+(SSP2-4.5)",69.85,45.975,64.5,Lower Musselshell,above90
+2079,"High Emissions
+(SSP3-7.0)",102.175,63.425,73,Lower Musselshell,above90
+2079,"Accelerating Emissions
+(SSP5-8.5)",106,71.475,92,Lower Musselshell,above90
+2080,"Moderating Emissions
+(SSP1-2.6)",71.125,34.05,52.875,Lower Musselshell,above90
+2080,"Middle of the Road
+(SSP2-4.5)",79.4,31.475,64.375,Lower Musselshell,above90
+2080,"High Emissions
+(SSP3-7.0)",99.4,42.325,68.875,Lower Musselshell,above90
+2080,"Accelerating Emissions
+(SSP5-8.5)",104.9,74.775,84.75,Lower Musselshell,above90
+2081,"Moderating Emissions
+(SSP1-2.6)",77.7,44.575,53.375,Lower Musselshell,above90
+2081,"Middle of the Road
+(SSP2-4.5)",75.05,49.125,65.25,Lower Musselshell,above90
+2081,"High Emissions
+(SSP3-7.0)",97.975,44.6,67.125,Lower Musselshell,above90
+2081,"Accelerating Emissions
+(SSP5-8.5)",106.825,75.675,89,Lower Musselshell,above90
+2082,"Moderating Emissions
+(SSP1-2.6)",83.6,47.575,54.375,Lower Musselshell,above90
+2082,"Middle of the Road
+(SSP2-4.5)",81.275,37.3,55.125,Lower Musselshell,above90
+2082,"High Emissions
+(SSP3-7.0)",95,43.05,67.375,Lower Musselshell,above90
+2082,"Accelerating Emissions
+(SSP5-8.5)",106.85,74.95,81.625,Lower Musselshell,above90
+2083,"Moderating Emissions
+(SSP1-2.6)",79.95,51.55,71.125,Lower Musselshell,above90
+2083,"Middle of the Road
+(SSP2-4.5)",86.6,40.4,73,Lower Musselshell,above90
+2083,"High Emissions
+(SSP3-7.0)",92,45.875,82.875,Lower Musselshell,above90
+2083,"Accelerating Emissions
+(SSP5-8.5)",106.825,59.2,83.125,Lower Musselshell,above90
+2084,"Moderating Emissions
+(SSP1-2.6)",77.825,39,51.875,Lower Musselshell,above90
+2084,"Middle of the Road
+(SSP2-4.5)",96.925,41.025,70.75,Lower Musselshell,above90
+2084,"High Emissions
+(SSP3-7.0)",112.525,73.725,89.125,Lower Musselshell,above90
+2084,"Accelerating Emissions
+(SSP5-8.5)",108.025,57.95,89.25,Lower Musselshell,above90
+2085,"Moderating Emissions
+(SSP1-2.6)",77.475,33.025,44.625,Lower Musselshell,above90
+2085,"Middle of the Road
+(SSP2-4.5)",73.325,47.725,64.125,Lower Musselshell,above90
+2085,"High Emissions
+(SSP3-7.0)",97.3,62.7,70.875,Lower Musselshell,above90
+2085,"Accelerating Emissions
+(SSP5-8.5)",99.825,57.9,89.625,Lower Musselshell,above90
+2086,"Moderating Emissions
+(SSP1-2.6)",77.675,50.2,57.5,Lower Musselshell,above90
+2086,"Middle of the Road
+(SSP2-4.5)",81.725,51.5,58.75,Lower Musselshell,above90
+2086,"High Emissions
+(SSP3-7.0)",102.075,69.35,79.5,Lower Musselshell,above90
+2086,"Accelerating Emissions
+(SSP5-8.5)",103.775,73.35,90.625,Lower Musselshell,above90
+2087,"Moderating Emissions
+(SSP1-2.6)",63.975,35.575,44.875,Lower Musselshell,above90
+2087,"Middle of the Road
+(SSP2-4.5)",78.95,47.825,69.25,Lower Musselshell,above90
+2087,"High Emissions
+(SSP3-7.0)",116.75,48.825,72,Lower Musselshell,above90
+2087,"Accelerating Emissions
+(SSP5-8.5)",101.175,52.45,77.625,Lower Musselshell,above90
+2088,"Moderating Emissions
+(SSP1-2.6)",64.4,37.35,50.875,Lower Musselshell,above90
+2088,"Middle of the Road
+(SSP2-4.5)",99.925,45.7,78.25,Lower Musselshell,above90
+2088,"High Emissions
+(SSP3-7.0)",96.475,62.6,76.625,Lower Musselshell,above90
+2088,"Accelerating Emissions
+(SSP5-8.5)",112.875,74.725,80.5,Lower Musselshell,above90
+2089,"Moderating Emissions
+(SSP1-2.6)",72.525,29.7,58.25,Lower Musselshell,above90
+2089,"Middle of the Road
+(SSP2-4.5)",89.725,43.025,60,Lower Musselshell,above90
+2089,"High Emissions
+(SSP3-7.0)",108.2,73.9,95.625,Lower Musselshell,above90
+2089,"Accelerating Emissions
+(SSP5-8.5)",110.675,81.55,90.375,Lower Musselshell,above90
+2090,"Moderating Emissions
+(SSP1-2.6)",72.2,23.425,53.875,Lower Musselshell,above90
+2090,"Middle of the Road
+(SSP2-4.5)",72.95,39.8,64.5,Lower Musselshell,above90
+2090,"High Emissions
+(SSP3-7.0)",111.325,75.575,96.125,Lower Musselshell,above90
+2090,"Accelerating Emissions
+(SSP5-8.5)",111.3,70.55,97,Lower Musselshell,above90
+2091,"Moderating Emissions
+(SSP1-2.6)",67.45,32.6,52.875,Lower Musselshell,above90
+2091,"Middle of the Road
+(SSP2-4.5)",88.675,34.575,68.5,Lower Musselshell,above90
+2091,"High Emissions
+(SSP3-7.0)",95.125,75.625,86.125,Lower Musselshell,above90
+2091,"Accelerating Emissions
+(SSP5-8.5)",119.775,62.975,86.75,Lower Musselshell,above90
+2092,"Moderating Emissions
+(SSP1-2.6)",85.125,40.375,67.25,Lower Musselshell,above90
+2092,"Middle of the Road
+(SSP2-4.5)",95.15,53.55,75.625,Lower Musselshell,above90
+2092,"High Emissions
+(SSP3-7.0)",96.4,67.1,78.875,Lower Musselshell,above90
+2092,"Accelerating Emissions
+(SSP5-8.5)",119.35,80.575,96.625,Lower Musselshell,above90
+2093,"Moderating Emissions
+(SSP1-2.6)",76.1,28,58,Lower Musselshell,above90
+2093,"Middle of the Road
+(SSP2-4.5)",83.95,46.85,73.75,Lower Musselshell,above90
+2093,"High Emissions
+(SSP3-7.0)",98.15,69.8,79.5,Lower Musselshell,above90
+2093,"Accelerating Emissions
+(SSP5-8.5)",115.975,83.45,98.875,Lower Musselshell,above90
+2094,"Moderating Emissions
+(SSP1-2.6)",75.975,28.025,44.75,Lower Musselshell,above90
+2094,"Middle of the Road
+(SSP2-4.5)",96.55,32.425,81.625,Lower Musselshell,above90
+2094,"High Emissions
+(SSP3-7.0)",102.025,73.65,84,Lower Musselshell,above90
+2094,"Accelerating Emissions
+(SSP5-8.5)",126.375,82.375,93.625,Lower Musselshell,above90
+2095,"Moderating Emissions
+(SSP1-2.6)",78.775,38.45,68.75,Lower Musselshell,above90
+2095,"Middle of the Road
+(SSP2-4.5)",86.95,64.65,70.125,Lower Musselshell,above90
+2095,"High Emissions
+(SSP3-7.0)",105.7,61.575,93.625,Lower Musselshell,above90
+2095,"Accelerating Emissions
+(SSP5-8.5)",114.25,73.65,86.75,Lower Musselshell,above90
+2096,"Moderating Emissions
+(SSP1-2.6)",82.9,36.275,59.25,Lower Musselshell,above90
+2096,"Middle of the Road
+(SSP2-4.5)",89.45,51.825,74.5,Lower Musselshell,above90
+2096,"High Emissions
+(SSP3-7.0)",112.25,72.575,94.75,Lower Musselshell,above90
+2096,"Accelerating Emissions
+(SSP5-8.5)",125.575,70.375,96.5,Lower Musselshell,above90
+2097,"Moderating Emissions
+(SSP1-2.6)",91.35,41.275,57.75,Lower Musselshell,above90
+2097,"Middle of the Road
+(SSP2-4.5)",102.7,55.325,66,Lower Musselshell,above90
+2097,"High Emissions
+(SSP3-7.0)",112.65,63,97.375,Lower Musselshell,above90
+2097,"Accelerating Emissions
+(SSP5-8.5)",111.8,70.675,82.625,Lower Musselshell,above90
+2098,"Moderating Emissions
+(SSP1-2.6)",86.125,38.7,55.5,Lower Musselshell,above90
+2098,"Middle of the Road
+(SSP2-4.5)",83.575,50.975,76.875,Lower Musselshell,above90
+2098,"High Emissions
+(SSP3-7.0)",110.6,75.325,83.25,Lower Musselshell,above90
+2098,"Accelerating Emissions
+(SSP5-8.5)",107.975,88.35,100.5,Lower Musselshell,above90
+2099,"Moderating Emissions
+(SSP1-2.6)",72.275,17.725,55.125,Lower Musselshell,above90
+2099,"Middle of the Road
+(SSP2-4.5)",82.925,48.6,70.625,Lower Musselshell,above90
+2099,"High Emissions
+(SSP3-7.0)",116.375,67.6,82.375,Lower Musselshell,above90
+2099,"Accelerating Emissions
+(SSP5-8.5)",120.85,70.675,101.75,Lower Musselshell,above90
+2100,"Moderating Emissions
+(SSP1-2.6)",71.425,17.425,46,Lower Musselshell,above90
+2100,"Middle of the Road
+(SSP2-4.5)",91.85,36.8,62.875,Lower Musselshell,above90
+2100,"High Emissions
+(SSP3-7.0)",100.075,67.95,86.375,Lower Musselshell,above90
+2100,"Accelerating Emissions
+(SSP5-8.5)",121.775,73,92.625,Lower Musselshell,above90

@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1.222,0,0.722,Carter County,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1.222,0,0.722,Carter County,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.072,0.25,0.917,Carter County,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.278,0,0.889,Carter County,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.494,0.078,0.944,Carter County,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.283,0,0.778,Carter County,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.017,0.078,0.972,Carter County,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.506,0.106,0.944,Carter County,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.083,0,0.917,Carter County,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.333,0,0.889,Carter County,con-wet

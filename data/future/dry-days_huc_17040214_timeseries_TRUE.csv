@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,260.266,224.399,241.665,Beaver-Camas,dry-days
+1951,Historical Emissions,250.266,221.733,230.666,Beaver-Camas,dry-days
+1952,Historical Emissions,258.8,226.733,242.333,Beaver-Camas,dry-days
+1953,Historical Emissions,262.866,223.267,236.334,Beaver-Camas,dry-days
+1954,Historical Emissions,255.333,214.266,230.667,Beaver-Camas,dry-days
+1955,Historical Emissions,277.733,219.466,245.666,Beaver-Camas,dry-days
+1956,Historical Emissions,261.801,214.266,244.999,Beaver-Camas,dry-days
+1957,Historical Emissions,264.334,205.6,231.667,Beaver-Camas,dry-days
+1958,Historical Emissions,256,209.799,229.666,Beaver-Camas,dry-days
+1959,Historical Emissions,269.133,212.199,232.999,Beaver-Camas,dry-days
+1960,Historical Emissions,255.601,221.267,235,Beaver-Camas,dry-days
+1961,Historical Emissions,262.401,228.133,237.667,Beaver-Camas,dry-days
+1962,Historical Emissions,265.999,217.134,237.668,Beaver-Camas,dry-days
+1963,Historical Emissions,251.199,213,235.666,Beaver-Camas,dry-days
+1964,Historical Emissions,250.133,215.468,230.666,Beaver-Camas,dry-days
+1965,Historical Emissions,250.534,230.201,235.666,Beaver-Camas,dry-days
+1966,Historical Emissions,248.067,203.867,233.333,Beaver-Camas,dry-days
+1967,Historical Emissions,256.067,198.2,241.334,Beaver-Camas,dry-days
+1968,Historical Emissions,246.667,207.267,231,Beaver-Camas,dry-days
+1969,Historical Emissions,265.401,204.6,242.333,Beaver-Camas,dry-days
+1970,Historical Emissions,252.066,219.668,238.667,Beaver-Camas,dry-days
+1971,Historical Emissions,261.134,219.999,241.667,Beaver-Camas,dry-days
+1972,Historical Emissions,256.068,231.599,244.666,Beaver-Camas,dry-days
+1973,Historical Emissions,263.533,211.733,226.999,Beaver-Camas,dry-days
+1974,Historical Emissions,250.4,202.068,235.665,Beaver-Camas,dry-days
+1975,Historical Emissions,253.866,217.267,242.333,Beaver-Camas,dry-days
+1976,Historical Emissions,250.333,207.066,241.667,Beaver-Camas,dry-days
+1977,Historical Emissions,257.801,216.132,227.335,Beaver-Camas,dry-days
+1978,Historical Emissions,254.867,216.733,225.667,Beaver-Camas,dry-days
+1979,Historical Emissions,243.667,216.467,242,Beaver-Camas,dry-days
+1980,Historical Emissions,261,203.934,237.333,Beaver-Camas,dry-days
+1981,Historical Emissions,256.267,209.467,243.668,Beaver-Camas,dry-days
+1982,Historical Emissions,247.266,209.066,225.999,Beaver-Camas,dry-days
+1983,Historical Emissions,250.067,221.067,242.999,Beaver-Camas,dry-days
+1984,Historical Emissions,258.8,215.533,245.001,Beaver-Camas,dry-days
+1985,Historical Emissions,248.999,211.867,239.666,Beaver-Camas,dry-days
+1986,Historical Emissions,245.733,205.734,226.665,Beaver-Camas,dry-days
+1987,Historical Emissions,253.533,208.666,229,Beaver-Camas,dry-days
+1988,Historical Emissions,248.734,206.333,236.667,Beaver-Camas,dry-days
+1989,Historical Emissions,253.468,215.133,239,Beaver-Camas,dry-days
+1990,Historical Emissions,254.132,205.2,234,Beaver-Camas,dry-days
+1991,Historical Emissions,260,202.135,239.332,Beaver-Camas,dry-days
+1992,Historical Emissions,255.2,225.266,238.333,Beaver-Camas,dry-days
+1993,Historical Emissions,258.467,199.333,232.334,Beaver-Camas,dry-days
+1994,Historical Emissions,251.799,207.867,233.666,Beaver-Camas,dry-days
+1995,Historical Emissions,258.599,222.6,237,Beaver-Camas,dry-days
+1996,Historical Emissions,280.2,221,236.666,Beaver-Camas,dry-days
+1997,Historical Emissions,247.599,202,228.333,Beaver-Camas,dry-days
+1998,Historical Emissions,253.399,213.934,244.335,Beaver-Camas,dry-days
+1999,Historical Emissions,255.468,214.267,225.001,Beaver-Camas,dry-days
+2000,Historical Emissions,254.733,216.467,239.335,Beaver-Camas,dry-days
+2001,Historical Emissions,257.399,202.266,239.667,Beaver-Camas,dry-days
+2002,Historical Emissions,257.134,201.601,236,Beaver-Camas,dry-days
+2003,Historical Emissions,273.267,210.734,245.001,Beaver-Camas,dry-days
+2004,Historical Emissions,267.667,213.933,240,Beaver-Camas,dry-days
+2005,Historical Emissions,264.667,195.265,249.335,Beaver-Camas,dry-days
+2006,Historical Emissions,248.4,218.6,240,Beaver-Camas,dry-days
+2007,Historical Emissions,248.2,220.733,243,Beaver-Camas,dry-days
+2008,Historical Emissions,251.666,220.933,233.666,Beaver-Camas,dry-days
+2009,Historical Emissions,247.666,221.067,231.666,Beaver-Camas,dry-days
+2010,Historical Emissions,257.133,205.6,248.668,Beaver-Camas,dry-days
+2011,Historical Emissions,251.333,214.4,232.664,Beaver-Camas,dry-days
+2012,Historical Emissions,260.133,217.667,238,Beaver-Camas,dry-days
+2013,Historical Emissions,257.334,228.866,233.332,Beaver-Camas,dry-days
+2014,Historical Emissions,256.333,220.002,240.667,Beaver-Camas,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",252.532,221.335,233.666,Beaver-Camas,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",252.201,215.533,247.333,Beaver-Camas,dry-days
+2015,"High Emissions
+(SSP3-7.0)",257.468,205.4,228.333,Beaver-Camas,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",243.332,208.866,221.334,Beaver-Camas,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",254,228.533,243.667,Beaver-Camas,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",253.799,212.602,238.665,Beaver-Camas,dry-days
+2016,"High Emissions
+(SSP3-7.0)",257.334,215.534,233.333,Beaver-Camas,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",256.067,217.2,248.332,Beaver-Camas,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",253.332,220.999,233.001,Beaver-Camas,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",262.533,216.801,230,Beaver-Camas,dry-days
+2017,"High Emissions
+(SSP3-7.0)",257.201,223.932,231.333,Beaver-Camas,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",252.265,226,246.001,Beaver-Camas,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",255.733,212.866,232.334,Beaver-Camas,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",241.667,219.931,231.667,Beaver-Camas,dry-days
+2018,"High Emissions
+(SSP3-7.0)",249.934,202.266,231.667,Beaver-Camas,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",243.2,204.666,237.667,Beaver-Camas,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",248.933,221.333,242,Beaver-Camas,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",245.267,208.8,223.666,Beaver-Camas,dry-days
+2019,"High Emissions
+(SSP3-7.0)",267.001,209.666,246.332,Beaver-Camas,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",259.666,204.132,227.999,Beaver-Camas,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",257.4,214.4,241.001,Beaver-Camas,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",268.534,214.332,234.334,Beaver-Camas,dry-days
+2020,"High Emissions
+(SSP3-7.0)",247.266,212.599,233.999,Beaver-Camas,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",256.734,213.201,230,Beaver-Camas,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",259.268,211.466,240.334,Beaver-Camas,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",261.933,216.801,238,Beaver-Camas,dry-days
+2021,"High Emissions
+(SSP3-7.0)",262,213.133,237.333,Beaver-Camas,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",259.334,208.067,236.333,Beaver-Camas,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",260.199,219.334,246.334,Beaver-Camas,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",243.333,219.866,225.001,Beaver-Camas,dry-days
+2022,"High Emissions
+(SSP3-7.0)",255.333,198.001,231,Beaver-Camas,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",256.467,210.466,229,Beaver-Camas,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",246.933,202.001,233.332,Beaver-Camas,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",265.866,210.6,235.666,Beaver-Camas,dry-days
+2023,"High Emissions
+(SSP3-7.0)",245.933,222.733,236,Beaver-Camas,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",239.266,211.398,231.667,Beaver-Camas,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",251.602,216.8,235.998,Beaver-Camas,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",255.268,214.398,244,Beaver-Camas,dry-days
+2024,"High Emissions
+(SSP3-7.0)",269.599,215.867,234.667,Beaver-Camas,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",261.799,210.533,237.334,Beaver-Camas,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",264.734,217.466,240.667,Beaver-Camas,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",254.267,214.933,235.333,Beaver-Camas,dry-days
+2025,"High Emissions
+(SSP3-7.0)",260.133,218.466,239.001,Beaver-Camas,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",256.4,209.666,230.667,Beaver-Camas,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",265,210.067,223.335,Beaver-Camas,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",256.334,198.401,238.333,Beaver-Camas,dry-days
+2026,"High Emissions
+(SSP3-7.0)",235.2,201.933,221.999,Beaver-Camas,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",256.068,208.2,239.999,Beaver-Camas,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",253.867,199.667,241.667,Beaver-Camas,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",262.866,208.8,243.666,Beaver-Camas,dry-days
+2027,"High Emissions
+(SSP3-7.0)",253.799,215.733,231.333,Beaver-Camas,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",260.268,223,228.001,Beaver-Camas,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",247.134,213.8,236.335,Beaver-Camas,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",242.067,207.999,216.999,Beaver-Camas,dry-days
+2028,"High Emissions
+(SSP3-7.0)",265.333,207.2,241,Beaver-Camas,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",245.601,211.466,229.333,Beaver-Camas,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",246.801,213.399,239.667,Beaver-Camas,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",255.867,205.799,236.998,Beaver-Camas,dry-days
+2029,"High Emissions
+(SSP3-7.0)",252.133,211.867,233.668,Beaver-Camas,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",245.333,207.867,233.999,Beaver-Camas,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",249.001,205.867,232.667,Beaver-Camas,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",260.866,204.334,237.335,Beaver-Camas,dry-days
+2030,"High Emissions
+(SSP3-7.0)",263.4,200.666,245.999,Beaver-Camas,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",254.934,208.6,244.334,Beaver-Camas,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",264,217.734,233,Beaver-Camas,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",245.6,215.4,233,Beaver-Camas,dry-days
+2031,"High Emissions
+(SSP3-7.0)",254.4,222.534,236,Beaver-Camas,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",266.402,212.599,234.001,Beaver-Camas,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",260.533,213.201,232.667,Beaver-Camas,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",252.867,208.933,230.667,Beaver-Camas,dry-days
+2032,"High Emissions
+(SSP3-7.0)",258.067,215.867,238.668,Beaver-Camas,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",260.333,217.333,232.333,Beaver-Camas,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",260.934,220.933,235.333,Beaver-Camas,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",250.8,212.067,229.999,Beaver-Camas,dry-days
+2033,"High Emissions
+(SSP3-7.0)",244.4,200.665,234.999,Beaver-Camas,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",260.665,214.934,234.334,Beaver-Camas,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",241.668,211.733,223.667,Beaver-Camas,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",252.534,217.268,231.668,Beaver-Camas,dry-days
+2034,"High Emissions
+(SSP3-7.0)",258.733,224.399,241.333,Beaver-Camas,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",257.8,204.534,225.001,Beaver-Camas,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",256.866,204.267,230.666,Beaver-Camas,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",262.6,213.266,228.334,Beaver-Camas,dry-days
+2035,"High Emissions
+(SSP3-7.0)",250.333,210,238.332,Beaver-Camas,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",258.134,220.8,240,Beaver-Camas,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",242.332,208.735,236,Beaver-Camas,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",256,200.067,249,Beaver-Camas,dry-days
+2036,"High Emissions
+(SSP3-7.0)",262.6,212.2,231,Beaver-Camas,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",246.667,211.667,235.001,Beaver-Camas,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",248.401,211.467,218.998,Beaver-Camas,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",241.933,212.6,225.333,Beaver-Camas,dry-days
+2037,"High Emissions
+(SSP3-7.0)",254.134,210.734,230.668,Beaver-Camas,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",257.666,206.2,242.333,Beaver-Camas,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",260,219.667,234.333,Beaver-Camas,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",250,216.133,240.665,Beaver-Camas,dry-days
+2038,"High Emissions
+(SSP3-7.0)",261.332,221.533,249.333,Beaver-Camas,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",258.599,210.866,237,Beaver-Camas,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",244.6,217.334,230.999,Beaver-Camas,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",257.6,205.734,230.334,Beaver-Camas,dry-days
+2039,"High Emissions
+(SSP3-7.0)",251.599,221.267,234.334,Beaver-Camas,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",267.068,201.199,225.331,Beaver-Camas,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",263.001,209.333,227.001,Beaver-Camas,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",256.334,218.667,250.665,Beaver-Camas,dry-days
+2040,"High Emissions
+(SSP3-7.0)",247.534,222.6,234.999,Beaver-Camas,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",262.735,199.199,224.999,Beaver-Camas,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",257.598,207.2,240.667,Beaver-Camas,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",244,206.934,234.001,Beaver-Camas,dry-days
+2041,"High Emissions
+(SSP3-7.0)",253.866,204.133,243.666,Beaver-Camas,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",244.333,210.534,230.333,Beaver-Camas,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",255.334,205.134,233.333,Beaver-Camas,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",244.466,215.533,231.667,Beaver-Camas,dry-days
+2042,"High Emissions
+(SSP3-7.0)",254.132,229.732,239.332,Beaver-Camas,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",261.599,213.6,234.667,Beaver-Camas,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",257.4,212.733,237.334,Beaver-Camas,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",278.534,211.599,234,Beaver-Camas,dry-days
+2043,"High Emissions
+(SSP3-7.0)",259.734,216.468,242.333,Beaver-Camas,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",252.734,216.801,234,Beaver-Camas,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",259.4,215.466,230,Beaver-Camas,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",256.001,219,242,Beaver-Camas,dry-days
+2044,"High Emissions
+(SSP3-7.0)",262.466,206.934,231,Beaver-Camas,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",264.599,226.999,246.334,Beaver-Camas,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",258.867,224.333,239.668,Beaver-Camas,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",252.334,211.868,231.001,Beaver-Camas,dry-days
+2045,"High Emissions
+(SSP3-7.0)",252.6,216.001,232.331,Beaver-Camas,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",249.466,203.132,239.334,Beaver-Camas,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",259.2,228.732,248.666,Beaver-Camas,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",256.132,216.599,233,Beaver-Camas,dry-days
+2046,"High Emissions
+(SSP3-7.0)",257.732,208.201,227.667,Beaver-Camas,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",234.667,208.4,231.665,Beaver-Camas,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",255.266,212.8,224.334,Beaver-Camas,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",242.867,205.533,235.998,Beaver-Camas,dry-days
+2047,"High Emissions
+(SSP3-7.0)",265.733,219.067,238.667,Beaver-Camas,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",259.334,212.268,241.335,Beaver-Camas,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",251.8,205.933,238.667,Beaver-Camas,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",252.801,206.066,230.002,Beaver-Camas,dry-days
+2048,"High Emissions
+(SSP3-7.0)",246.266,219.334,234,Beaver-Camas,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",263.733,224.867,239.999,Beaver-Camas,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",248.333,222.001,237.335,Beaver-Camas,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",258.068,206.4,244.668,Beaver-Camas,dry-days
+2049,"High Emissions
+(SSP3-7.0)",261.799,219.066,232.335,Beaver-Camas,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",261.532,214.333,221.334,Beaver-Camas,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",252.799,205.733,227.667,Beaver-Camas,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",260.801,202.933,241.332,Beaver-Camas,dry-days
+2050,"High Emissions
+(SSP3-7.0)",250.334,206.133,233.334,Beaver-Camas,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",252.267,212.733,216.667,Beaver-Camas,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",252.267,214.4,231.667,Beaver-Camas,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",240.801,205.134,227.334,Beaver-Camas,dry-days
+2051,"High Emissions
+(SSP3-7.0)",252.734,212.333,225.333,Beaver-Camas,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",259.467,218.401,243,Beaver-Camas,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",234.534,221.4,225.999,Beaver-Camas,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",245.601,218.333,227.669,Beaver-Camas,dry-days
+2052,"High Emissions
+(SSP3-7.0)",240.599,202.6,221.667,Beaver-Camas,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",254.799,198.333,235.667,Beaver-Camas,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",250.401,216.599,241.666,Beaver-Camas,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",259.466,215.934,233,Beaver-Camas,dry-days
+2053,"High Emissions
+(SSP3-7.0)",263.6,221.267,249.666,Beaver-Camas,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",250.466,208.934,228.333,Beaver-Camas,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",259.2,217.934,239.665,Beaver-Camas,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",238.733,218.599,230.667,Beaver-Camas,dry-days
+2054,"High Emissions
+(SSP3-7.0)",244.266,212.934,226.334,Beaver-Camas,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",260.934,216.734,231,Beaver-Camas,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",255.665,202.199,228.333,Beaver-Camas,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",260.534,212.733,242.667,Beaver-Camas,dry-days
+2055,"High Emissions
+(SSP3-7.0)",245.599,210.533,231.334,Beaver-Camas,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",251.134,218.999,244.999,Beaver-Camas,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",250.534,215.334,243.334,Beaver-Camas,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",256.265,218.001,240.667,Beaver-Camas,dry-days
+2056,"High Emissions
+(SSP3-7.0)",252.334,194.2,235.667,Beaver-Camas,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",248,206.267,232.667,Beaver-Camas,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",243.068,211.734,223.999,Beaver-Camas,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",259.599,216.667,237.333,Beaver-Camas,dry-days
+2057,"High Emissions
+(SSP3-7.0)",246.2,199.133,225.999,Beaver-Camas,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",243.334,208.2,231.999,Beaver-Camas,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",262.734,223.601,243.668,Beaver-Camas,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",253.867,212.6,235.002,Beaver-Camas,dry-days
+2058,"High Emissions
+(SSP3-7.0)",244.6,207,216.333,Beaver-Camas,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",242.8,206.401,232.332,Beaver-Camas,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",249.468,220.133,233.666,Beaver-Camas,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",247.266,222.4,231.334,Beaver-Camas,dry-days
+2059,"High Emissions
+(SSP3-7.0)",272.333,197.532,243.666,Beaver-Camas,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",258.267,203.334,229.333,Beaver-Camas,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",262.867,215.534,236.335,Beaver-Camas,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",262.799,209.266,241.666,Beaver-Camas,dry-days
+2060,"High Emissions
+(SSP3-7.0)",258.733,203.6,236.333,Beaver-Camas,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",237.268,197.601,224.332,Beaver-Camas,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",264.134,203.532,240,Beaver-Camas,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",265.134,217.668,239.332,Beaver-Camas,dry-days
+2061,"High Emissions
+(SSP3-7.0)",260.267,211.332,231.665,Beaver-Camas,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",255.066,213.068,241.667,Beaver-Camas,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",257.133,214.6,232.001,Beaver-Camas,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",258.399,219.733,235.667,Beaver-Camas,dry-days
+2062,"High Emissions
+(SSP3-7.0)",255.599,221.6,229,Beaver-Camas,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",259.199,212.334,236.666,Beaver-Camas,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",254.267,232.6,247.333,Beaver-Camas,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",250.267,202.933,228.999,Beaver-Camas,dry-days
+2063,"High Emissions
+(SSP3-7.0)",264.466,205.932,232.333,Beaver-Camas,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",260.933,204.466,236.332,Beaver-Camas,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",246.533,211.532,227.001,Beaver-Camas,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",243.333,214.068,229,Beaver-Camas,dry-days
+2064,"High Emissions
+(SSP3-7.0)",252.066,204.734,239.334,Beaver-Camas,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",271.333,208.399,233.667,Beaver-Camas,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",248.268,216.534,233.333,Beaver-Camas,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",255.2,210.333,234.333,Beaver-Camas,dry-days
+2065,"High Emissions
+(SSP3-7.0)",262.667,215.8,239.001,Beaver-Camas,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",258.066,209.533,231.667,Beaver-Camas,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",255.468,214.533,244.667,Beaver-Camas,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",256.799,212.2,225.666,Beaver-Camas,dry-days
+2066,"High Emissions
+(SSP3-7.0)",250.934,207.467,237.999,Beaver-Camas,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",256.999,213.599,234.334,Beaver-Camas,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",251.001,206.533,232.667,Beaver-Camas,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",244.934,216.733,232.668,Beaver-Camas,dry-days
+2067,"High Emissions
+(SSP3-7.0)",277.267,211.667,255,Beaver-Camas,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",260.2,211.2,235.998,Beaver-Camas,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",253.199,208.867,235.666,Beaver-Camas,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",250.067,218.8,234.334,Beaver-Camas,dry-days
+2068,"High Emissions
+(SSP3-7.0)",252.867,199.866,230.001,Beaver-Camas,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",246.201,213,226.999,Beaver-Camas,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",265.866,195.532,222.668,Beaver-Camas,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",252.667,198.932,222.668,Beaver-Camas,dry-days
+2069,"High Emissions
+(SSP3-7.0)",272.666,216.468,249.667,Beaver-Camas,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",252.132,217.999,235.332,Beaver-Camas,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",241.066,201.733,227.001,Beaver-Camas,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",249.067,206.334,227.667,Beaver-Camas,dry-days
+2070,"High Emissions
+(SSP3-7.0)",252.733,214.734,231.668,Beaver-Camas,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",256.266,214.2,232.334,Beaver-Camas,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",271.199,206.733,241.333,Beaver-Camas,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",249.6,207.467,239,Beaver-Camas,dry-days
+2071,"High Emissions
+(SSP3-7.0)",254.467,214.134,222,Beaver-Camas,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",253.666,202.8,232.333,Beaver-Camas,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",267.601,216.666,240,Beaver-Camas,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",263.6,212.934,234,Beaver-Camas,dry-days
+2072,"High Emissions
+(SSP3-7.0)",248.334,213.801,234.666,Beaver-Camas,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",270.134,199.399,239.999,Beaver-Camas,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",254.334,223.333,231.668,Beaver-Camas,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",247.199,212.067,231.333,Beaver-Camas,dry-days
+2073,"High Emissions
+(SSP3-7.0)",252.733,202.867,222.665,Beaver-Camas,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",250.999,212.6,233.666,Beaver-Camas,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",255.334,205.799,221.333,Beaver-Camas,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",242.466,214.933,230.001,Beaver-Camas,dry-days
+2074,"High Emissions
+(SSP3-7.0)",235.2,205.6,233.001,Beaver-Camas,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",256.934,211.067,235.333,Beaver-Camas,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",245.334,210.799,230.334,Beaver-Camas,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",256.335,215.2,240.334,Beaver-Camas,dry-days
+2075,"High Emissions
+(SSP3-7.0)",255.534,199.866,234.334,Beaver-Camas,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",239.801,219.534,230.001,Beaver-Camas,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",247.533,212.268,224.332,Beaver-Camas,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",249.466,215.067,233,Beaver-Camas,dry-days
+2076,"High Emissions
+(SSP3-7.0)",249.266,219.001,234.999,Beaver-Camas,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",264.068,223.133,243.666,Beaver-Camas,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",260.601,220,240.333,Beaver-Camas,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",243.4,218.935,236.333,Beaver-Camas,dry-days
+2077,"High Emissions
+(SSP3-7.0)",246.934,206.001,223,Beaver-Camas,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",258.734,215.2,235,Beaver-Camas,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",259.2,224.067,251.334,Beaver-Camas,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",250.799,214.266,236.667,Beaver-Camas,dry-days
+2078,"High Emissions
+(SSP3-7.0)",268.2,198.6,229.333,Beaver-Camas,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",256.267,206.532,231.333,Beaver-Camas,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",261.999,203.132,245.666,Beaver-Camas,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",255.201,215.2,235.997,Beaver-Camas,dry-days
+2079,"High Emissions
+(SSP3-7.0)",244.2,205.667,221.666,Beaver-Camas,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",242.467,213.001,235.334,Beaver-Camas,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",243.267,221.532,238.999,Beaver-Camas,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",251.933,202.999,221.665,Beaver-Camas,dry-days
+2080,"High Emissions
+(SSP3-7.0)",248.467,219.4,232.666,Beaver-Camas,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",263.266,211.066,254.666,Beaver-Camas,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",248.933,213.067,234.667,Beaver-Camas,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",248.6,222.601,228.333,Beaver-Camas,dry-days
+2081,"High Emissions
+(SSP3-7.0)",254.734,203.933,244.001,Beaver-Camas,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",247.934,210.001,235.667,Beaver-Camas,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",256.2,204.935,237.334,Beaver-Camas,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",253.934,209.6,218.333,Beaver-Camas,dry-days
+2082,"High Emissions
+(SSP3-7.0)",257.334,217.466,231.667,Beaver-Camas,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",251.4,215.466,233.665,Beaver-Camas,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",257.734,229.334,239.666,Beaver-Camas,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",263.866,214.333,242.668,Beaver-Camas,dry-days
+2083,"High Emissions
+(SSP3-7.0)",242.4,210.468,232,Beaver-Camas,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",251.668,206.533,232,Beaver-Camas,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",246.8,208.067,220.333,Beaver-Camas,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",259.2,230.868,245.666,Beaver-Camas,dry-days
+2084,"High Emissions
+(SSP3-7.0)",255.933,231.2,239.001,Beaver-Camas,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",252.6,214.267,229.999,Beaver-Camas,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",249.332,199.599,232.334,Beaver-Camas,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",240.866,213.6,222.332,Beaver-Camas,dry-days
+2085,"High Emissions
+(SSP3-7.0)",243.333,216.866,234.332,Beaver-Camas,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",248.133,208.466,223,Beaver-Camas,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",240.067,192.668,232.667,Beaver-Camas,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",239.6,195.333,231.666,Beaver-Camas,dry-days
+2086,"High Emissions
+(SSP3-7.0)",243.665,201.732,226.667,Beaver-Camas,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",251.867,208.6,234,Beaver-Camas,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",249.601,229,240.667,Beaver-Camas,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",262.933,207.866,218,Beaver-Camas,dry-days
+2087,"High Emissions
+(SSP3-7.0)",249.734,230.067,235,Beaver-Camas,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",257.201,212.934,226.668,Beaver-Camas,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",245.734,205.6,218.336,Beaver-Camas,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",261,207.134,230.667,Beaver-Camas,dry-days
+2088,"High Emissions
+(SSP3-7.0)",251.266,214.067,231.999,Beaver-Camas,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",270.399,219.933,238.667,Beaver-Camas,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",258.067,205.333,220.001,Beaver-Camas,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",244.599,210.6,231.667,Beaver-Camas,dry-days
+2089,"High Emissions
+(SSP3-7.0)",268.868,209.001,241.333,Beaver-Camas,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",249.2,204.133,215.332,Beaver-Camas,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",243.332,210.4,235.334,Beaver-Camas,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",239.801,214.533,224.666,Beaver-Camas,dry-days
+2090,"High Emissions
+(SSP3-7.0)",272.801,225.467,244.666,Beaver-Camas,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",240.933,209.467,227,Beaver-Camas,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",244.532,204.132,239.001,Beaver-Camas,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",242.8,223.868,231,Beaver-Camas,dry-days
+2091,"High Emissions
+(SSP3-7.0)",259.533,212.267,236.001,Beaver-Camas,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",248.133,205.334,230.001,Beaver-Camas,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",263.467,209.8,237.333,Beaver-Camas,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",245.6,212.067,228.334,Beaver-Camas,dry-days
+2092,"High Emissions
+(SSP3-7.0)",247.001,206.134,226.666,Beaver-Camas,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",262.6,218.266,233.333,Beaver-Camas,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",258.599,219,235.333,Beaver-Camas,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",253.4,215.867,238.666,Beaver-Camas,dry-days
+2093,"High Emissions
+(SSP3-7.0)",237.132,208.067,220.666,Beaver-Camas,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",252.333,205.266,232.335,Beaver-Camas,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",241.401,210.6,230.667,Beaver-Camas,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",249.465,215.934,237,Beaver-Camas,dry-days
+2094,"High Emissions
+(SSP3-7.0)",236.601,208.867,224.666,Beaver-Camas,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",255.799,209.2,225.001,Beaver-Camas,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",248.333,210.333,235,Beaver-Camas,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",247.934,207.934,230.333,Beaver-Camas,dry-days
+2095,"High Emissions
+(SSP3-7.0)",262.665,219.932,239.333,Beaver-Camas,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",260.067,215,234.998,Beaver-Camas,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",261.132,218.868,229,Beaver-Camas,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",264.6,213.601,239,Beaver-Camas,dry-days
+2096,"High Emissions
+(SSP3-7.0)",245.933,214.532,239.667,Beaver-Camas,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",247.533,209.6,239.334,Beaver-Camas,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",252.198,226.066,236.667,Beaver-Camas,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",268.999,208.599,233.001,Beaver-Camas,dry-days
+2097,"High Emissions
+(SSP3-7.0)",255.866,205.133,236.333,Beaver-Camas,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",255.068,208.135,227.334,Beaver-Camas,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",254.066,210.133,230.333,Beaver-Camas,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",243.2,205.8,229.333,Beaver-Camas,dry-days
+2098,"High Emissions
+(SSP3-7.0)",238.666,211.8,226.333,Beaver-Camas,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",260.866,213.2,244.333,Beaver-Camas,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",254.467,208.2,229.001,Beaver-Camas,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",251.134,210.6,241.667,Beaver-Camas,dry-days
+2099,"High Emissions
+(SSP3-7.0)",256.067,201.266,227,Beaver-Camas,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",264.666,214,229.999,Beaver-Camas,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",256.533,210.266,233,Beaver-Camas,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",255.8,208.6,226.334,Beaver-Camas,dry-days
+2100,"High Emissions
+(SSP3-7.0)",252.399,203.601,235.666,Beaver-Camas,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",248.534,215.6,237.002,Beaver-Camas,dry-days

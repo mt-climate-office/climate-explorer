@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,282.28,250.76,272,Cottonwood,dry-days
+1951,Historical Emissions,272.08,257.6,267,Cottonwood,dry-days
+1952,Historical Emissions,287.68,249.6,261.8,Cottonwood,dry-days
+1953,Historical Emissions,287.84,243.6,256.4,Cottonwood,dry-days
+1954,Historical Emissions,279.2,235.16,255.2,Cottonwood,dry-days
+1955,Historical Emissions,290.84,239.44,270.2,Cottonwood,dry-days
+1956,Historical Emissions,287.08,242.64,265.2,Cottonwood,dry-days
+1957,Historical Emissions,289.88,246.4,258.6,Cottonwood,dry-days
+1958,Historical Emissions,267.12,242.6,249.4,Cottonwood,dry-days
+1959,Historical Emissions,271.72,246.4,261.4,Cottonwood,dry-days
+1960,Historical Emissions,278.68,233.68,260.4,Cottonwood,dry-days
+1961,Historical Emissions,285.32,240.8,260.4,Cottonwood,dry-days
+1962,Historical Emissions,278.8,241.64,259.4,Cottonwood,dry-days
+1963,Historical Emissions,272.88,246.84,268.8,Cottonwood,dry-days
+1964,Historical Emissions,280.6,260.08,277.2,Cottonwood,dry-days
+1965,Historical Emissions,278.48,245.8,271,Cottonwood,dry-days
+1966,Historical Emissions,291.32,231.8,254.2,Cottonwood,dry-days
+1967,Historical Emissions,275.44,247.2,263,Cottonwood,dry-days
+1968,Historical Emissions,277.08,246.44,260.4,Cottonwood,dry-days
+1969,Historical Emissions,291.88,244.6,261.4,Cottonwood,dry-days
+1970,Historical Emissions,273.32,244.48,266.6,Cottonwood,dry-days
+1971,Historical Emissions,287.04,241.08,266,Cottonwood,dry-days
+1972,Historical Emissions,280.76,252.6,264.6,Cottonwood,dry-days
+1973,Historical Emissions,280.32,234.16,257.2,Cottonwood,dry-days
+1974,Historical Emissions,283.08,236.08,273,Cottonwood,dry-days
+1975,Historical Emissions,274.56,248.08,260.2,Cottonwood,dry-days
+1976,Historical Emissions,274.84,258.56,267.2,Cottonwood,dry-days
+1977,Historical Emissions,271.64,241.24,266.6,Cottonwood,dry-days
+1978,Historical Emissions,284.72,238.88,255.4,Cottonwood,dry-days
+1979,Historical Emissions,277.48,243.44,266.6,Cottonwood,dry-days
+1980,Historical Emissions,286.56,232.2,269.6,Cottonwood,dry-days
+1981,Historical Emissions,278.16,233.48,256.6,Cottonwood,dry-days
+1982,Historical Emissions,279.08,250.32,258.2,Cottonwood,dry-days
+1983,Historical Emissions,280.52,252.84,261,Cottonwood,dry-days
+1984,Historical Emissions,291.8,242,260,Cottonwood,dry-days
+1985,Historical Emissions,276.16,246.32,267.4,Cottonwood,dry-days
+1986,Historical Emissions,263,248.8,254.8,Cottonwood,dry-days
+1987,Historical Emissions,278.36,245.52,252.2,Cottonwood,dry-days
+1988,Historical Emissions,275.16,245.72,261.6,Cottonwood,dry-days
+1989,Historical Emissions,278.32,251.56,263.8,Cottonwood,dry-days
+1990,Historical Emissions,294.36,251,258.8,Cottonwood,dry-days
+1991,Historical Emissions,304.16,230.8,273.8,Cottonwood,dry-days
+1992,Historical Emissions,290,251.2,270.4,Cottonwood,dry-days
+1993,Historical Emissions,274.4,249.44,264.8,Cottonwood,dry-days
+1994,Historical Emissions,280.48,256.16,270,Cottonwood,dry-days
+1995,Historical Emissions,277.6,257.76,265.6,Cottonwood,dry-days
+1996,Historical Emissions,304.96,247.28,264,Cottonwood,dry-days
+1997,Historical Emissions,280.28,251.72,263.2,Cottonwood,dry-days
+1998,Historical Emissions,275.28,248.16,257.8,Cottonwood,dry-days
+1999,Historical Emissions,279.12,248.28,267,Cottonwood,dry-days
+2000,Historical Emissions,282.2,250.64,262,Cottonwood,dry-days
+2001,Historical Emissions,280.16,248.24,269.8,Cottonwood,dry-days
+2002,Historical Emissions,282.08,251.72,260.6,Cottonwood,dry-days
+2003,Historical Emissions,287.04,247.2,264.8,Cottonwood,dry-days
+2004,Historical Emissions,292.84,255.76,274.8,Cottonwood,dry-days
+2005,Historical Emissions,284.92,246.16,265,Cottonwood,dry-days
+2006,Historical Emissions,283.36,238.08,252.2,Cottonwood,dry-days
+2007,Historical Emissions,276.52,253.4,264,Cottonwood,dry-days
+2008,Historical Emissions,282.08,247.12,269.6,Cottonwood,dry-days
+2009,Historical Emissions,268.76,232.72,254.6,Cottonwood,dry-days
+2010,Historical Emissions,283.24,245.44,266.8,Cottonwood,dry-days
+2011,Historical Emissions,274.4,255.32,261.2,Cottonwood,dry-days
+2012,Historical Emissions,285.76,253.2,275.4,Cottonwood,dry-days
+2013,Historical Emissions,281.08,261.24,273,Cottonwood,dry-days
+2014,Historical Emissions,282.08,251.24,269.8,Cottonwood,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",278.6,249.12,269.8,Cottonwood,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",285.92,248.76,265.6,Cottonwood,dry-days
+2015,"High Emissions
+(SSP3-7.0)",284.32,247.92,263.4,Cottonwood,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",279.32,251.04,259.8,Cottonwood,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",290,245.24,265,Cottonwood,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",271.04,235.4,261.2,Cottonwood,dry-days
+2016,"High Emissions
+(SSP3-7.0)",297.8,246.64,262,Cottonwood,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",275.72,243.6,258.8,Cottonwood,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",272.92,246.8,258.4,Cottonwood,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",281.12,232.56,261.8,Cottonwood,dry-days
+2017,"High Emissions
+(SSP3-7.0)",273.12,245.12,260,Cottonwood,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",274.28,250.36,262.2,Cottonwood,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",271.68,245.16,263,Cottonwood,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",280.56,245.52,267.4,Cottonwood,dry-days
+2018,"High Emissions
+(SSP3-7.0)",273.72,243.64,252.6,Cottonwood,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",285.4,239.08,262.6,Cottonwood,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",284.48,260.48,274.4,Cottonwood,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",281.92,240.92,256.6,Cottonwood,dry-days
+2019,"High Emissions
+(SSP3-7.0)",278.4,244.6,270.4,Cottonwood,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",276.6,251.2,269.6,Cottonwood,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",286,239.08,259.4,Cottonwood,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",279.12,243.96,259.8,Cottonwood,dry-days
+2020,"High Emissions
+(SSP3-7.0)",273.08,239.32,258.4,Cottonwood,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",290.48,238.48,267.8,Cottonwood,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",281.44,241.56,263.8,Cottonwood,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",293.28,241.28,263.2,Cottonwood,dry-days
+2021,"High Emissions
+(SSP3-7.0)",284.8,232.32,274.4,Cottonwood,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",287.08,246.64,259.4,Cottonwood,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",272.52,234.28,259.4,Cottonwood,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",272,243.08,260.2,Cottonwood,dry-days
+2022,"High Emissions
+(SSP3-7.0)",263.88,242.76,260.4,Cottonwood,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",286.6,248,254.2,Cottonwood,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",276.92,242.2,261.4,Cottonwood,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",278.04,240.88,269,Cottonwood,dry-days
+2023,"High Emissions
+(SSP3-7.0)",293.76,249.76,259.6,Cottonwood,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",260.4,238.76,250.2,Cottonwood,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",276.36,244.04,269.2,Cottonwood,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",281.92,244.2,264,Cottonwood,dry-days
+2024,"High Emissions
+(SSP3-7.0)",289.44,253.96,271.2,Cottonwood,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",266.24,236.16,254.8,Cottonwood,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",273.4,251.92,268.6,Cottonwood,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",272.12,243.36,259.2,Cottonwood,dry-days
+2025,"High Emissions
+(SSP3-7.0)",302.96,253.84,269.2,Cottonwood,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",273.2,237.56,261.6,Cottonwood,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",269.64,235.04,263.4,Cottonwood,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",274.64,247.88,260.6,Cottonwood,dry-days
+2026,"High Emissions
+(SSP3-7.0)",272.6,228.76,259.2,Cottonwood,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",276.24,245.8,262.6,Cottonwood,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",280.52,224.92,244.2,Cottonwood,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",282.32,243.84,262.6,Cottonwood,dry-days
+2027,"High Emissions
+(SSP3-7.0)",278.24,234.76,260,Cottonwood,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",278.28,257.2,260.8,Cottonwood,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",277.72,246.04,266,Cottonwood,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",266.12,239.72,259.6,Cottonwood,dry-days
+2028,"High Emissions
+(SSP3-7.0)",279.04,249.36,271.8,Cottonwood,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",286.72,244.64,251.4,Cottonwood,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",281.88,244.92,264.4,Cottonwood,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",274.32,246.68,260.8,Cottonwood,dry-days
+2029,"High Emissions
+(SSP3-7.0)",285.84,250.44,260.2,Cottonwood,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",273.96,244.6,261.6,Cottonwood,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",278.72,235.44,258.6,Cottonwood,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",291.56,261.72,267.2,Cottonwood,dry-days
+2030,"High Emissions
+(SSP3-7.0)",282.12,242.68,260.4,Cottonwood,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",290.92,236.24,266.8,Cottonwood,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",296.16,253.88,267.4,Cottonwood,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",278.08,249.28,270.8,Cottonwood,dry-days
+2031,"High Emissions
+(SSP3-7.0)",295.8,242.2,271.2,Cottonwood,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",279.6,232.6,258.4,Cottonwood,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",276.88,247.52,251.8,Cottonwood,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",277.76,233.12,268.6,Cottonwood,dry-days
+2032,"High Emissions
+(SSP3-7.0)",287.6,256.24,267.4,Cottonwood,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",281.52,245.56,261.4,Cottonwood,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",290.08,239.32,258.4,Cottonwood,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",286.68,244.48,264.4,Cottonwood,dry-days
+2033,"High Emissions
+(SSP3-7.0)",285.08,241.04,269.8,Cottonwood,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",278.32,247,265.6,Cottonwood,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",282.64,256.88,269.4,Cottonwood,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",279.76,250.68,260,Cottonwood,dry-days
+2034,"High Emissions
+(SSP3-7.0)",287.76,256.56,270.4,Cottonwood,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",278.08,229.4,258,Cottonwood,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",303.96,238.16,265.2,Cottonwood,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",271.44,245.24,260.4,Cottonwood,dry-days
+2035,"High Emissions
+(SSP3-7.0)",269.64,240.2,252.4,Cottonwood,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",265.6,242.56,256.6,Cottonwood,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",283.88,243.96,267.4,Cottonwood,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",276.08,241.48,260.8,Cottonwood,dry-days
+2036,"High Emissions
+(SSP3-7.0)",278.56,248.04,256.4,Cottonwood,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",271.52,244.2,256.6,Cottonwood,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",283.12,238.92,265.4,Cottonwood,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",267.16,242.84,257.8,Cottonwood,dry-days
+2037,"High Emissions
+(SSP3-7.0)",268.6,241.32,252.8,Cottonwood,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",278.6,231.64,257.8,Cottonwood,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",276.4,234.52,265.8,Cottonwood,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",274.08,247.76,259.6,Cottonwood,dry-days
+2038,"High Emissions
+(SSP3-7.0)",283.4,241.84,267.4,Cottonwood,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",282.28,243.64,263.4,Cottonwood,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",281.48,246.72,259,Cottonwood,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",282.44,239.04,256.2,Cottonwood,dry-days
+2039,"High Emissions
+(SSP3-7.0)",291.28,238,267.4,Cottonwood,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",275.6,254.16,259.8,Cottonwood,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",287.28,244.6,254.8,Cottonwood,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",281.72,253.72,267.4,Cottonwood,dry-days
+2040,"High Emissions
+(SSP3-7.0)",279.24,235.56,266.8,Cottonwood,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",291.24,247.08,262.6,Cottonwood,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",270.2,236.08,260.6,Cottonwood,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",275.72,251.56,266.2,Cottonwood,dry-days
+2041,"High Emissions
+(SSP3-7.0)",279.16,257.96,264.8,Cottonwood,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",268.64,239.44,259.4,Cottonwood,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",282.08,240.2,264.8,Cottonwood,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",283.32,245.16,258.8,Cottonwood,dry-days
+2042,"High Emissions
+(SSP3-7.0)",265.24,243.4,259,Cottonwood,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",280.2,228.76,265.6,Cottonwood,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",286.88,243.84,259.6,Cottonwood,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",294.68,241.64,260.8,Cottonwood,dry-days
+2043,"High Emissions
+(SSP3-7.0)",275.56,246.48,258,Cottonwood,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",270.88,244.4,263,Cottonwood,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",276.64,248.56,263.6,Cottonwood,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",291.96,254.16,267.6,Cottonwood,dry-days
+2044,"High Emissions
+(SSP3-7.0)",280.64,234.6,258.6,Cottonwood,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",278.56,234.44,267.6,Cottonwood,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",279.64,251.12,262.6,Cottonwood,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",277.44,243.28,256.2,Cottonwood,dry-days
+2045,"High Emissions
+(SSP3-7.0)",288.48,242.92,258.8,Cottonwood,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",279.24,245.56,263.4,Cottonwood,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",275.04,254.16,264.2,Cottonwood,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",267.56,230.76,246.6,Cottonwood,dry-days
+2046,"High Emissions
+(SSP3-7.0)",266.28,251.36,257.8,Cottonwood,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",280.2,247.32,259.4,Cottonwood,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",272.72,255.44,262.8,Cottonwood,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",269.72,244.76,262,Cottonwood,dry-days
+2047,"High Emissions
+(SSP3-7.0)",278.32,231.4,266.6,Cottonwood,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",280.04,245.6,260.2,Cottonwood,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",272.64,239.84,258.6,Cottonwood,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",282.84,254.92,269.8,Cottonwood,dry-days
+2048,"High Emissions
+(SSP3-7.0)",276.72,250.6,260.6,Cottonwood,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",287.16,254.08,266,Cottonwood,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",274.52,251.84,261.6,Cottonwood,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",275.96,235.68,265.6,Cottonwood,dry-days
+2049,"High Emissions
+(SSP3-7.0)",271.68,248.72,263.2,Cottonwood,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",286.96,257.32,264.6,Cottonwood,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",267.52,231.72,255.4,Cottonwood,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",283.92,248.24,261.8,Cottonwood,dry-days
+2050,"High Emissions
+(SSP3-7.0)",267.64,244.8,261.4,Cottonwood,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",276.84,256.44,263,Cottonwood,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",282.08,238.4,265.4,Cottonwood,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",271.96,243.76,264.2,Cottonwood,dry-days
+2051,"High Emissions
+(SSP3-7.0)",278.8,241.2,267.8,Cottonwood,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",281,250.24,266.2,Cottonwood,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",286.68,252.36,269,Cottonwood,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",281.64,243.96,254.8,Cottonwood,dry-days
+2052,"High Emissions
+(SSP3-7.0)",271.2,246.32,258.2,Cottonwood,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",273.64,252.16,263.4,Cottonwood,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",279.12,242.68,268.4,Cottonwood,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",280.44,257,265.8,Cottonwood,dry-days
+2053,"High Emissions
+(SSP3-7.0)",286.16,253.24,262.2,Cottonwood,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",269.92,233.36,262.6,Cottonwood,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",282.08,241.44,277.8,Cottonwood,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",275.24,240.4,259,Cottonwood,dry-days
+2054,"High Emissions
+(SSP3-7.0)",273.96,252.04,258.8,Cottonwood,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",282.68,251.48,271.2,Cottonwood,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",282.2,236.72,270.6,Cottonwood,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",284.6,257.48,270.8,Cottonwood,dry-days
+2055,"High Emissions
+(SSP3-7.0)",274.4,252.92,270.8,Cottonwood,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",280.44,235.88,270.2,Cottonwood,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",267.6,248.52,256.6,Cottonwood,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",270.44,251.44,261.4,Cottonwood,dry-days
+2056,"High Emissions
+(SSP3-7.0)",290.32,245.68,257.8,Cottonwood,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",279.72,252.16,261.6,Cottonwood,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",274.52,233.64,263,Cottonwood,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",281.84,253.8,266.8,Cottonwood,dry-days
+2057,"High Emissions
+(SSP3-7.0)",275.16,239.2,255.4,Cottonwood,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",262.8,235.16,252,Cottonwood,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",274.6,244.04,266.4,Cottonwood,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",280.16,251.64,261.8,Cottonwood,dry-days
+2058,"High Emissions
+(SSP3-7.0)",278.68,242.84,253,Cottonwood,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",262.44,241.32,254.2,Cottonwood,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",283.44,246.76,261.2,Cottonwood,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",280.68,251.12,259.8,Cottonwood,dry-days
+2059,"High Emissions
+(SSP3-7.0)",285.44,243.76,261.2,Cottonwood,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",280.88,252.24,263.8,Cottonwood,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",276.2,241.72,272.8,Cottonwood,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",274.76,248.44,266.8,Cottonwood,dry-days
+2060,"High Emissions
+(SSP3-7.0)",272.72,236.68,249.6,Cottonwood,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",271.76,252.64,258.2,Cottonwood,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",281.56,239.52,271.2,Cottonwood,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",285.8,241.52,264.4,Cottonwood,dry-days
+2061,"High Emissions
+(SSP3-7.0)",279.84,248.6,259.8,Cottonwood,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",285.92,251.92,269.8,Cottonwood,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",272.68,247.76,262.4,Cottonwood,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",280.76,234.52,263.8,Cottonwood,dry-days
+2062,"High Emissions
+(SSP3-7.0)",275.08,243.48,253.2,Cottonwood,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",272.6,241.6,264.4,Cottonwood,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",279.44,247.68,270.8,Cottonwood,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",263.92,252.36,259.8,Cottonwood,dry-days
+2063,"High Emissions
+(SSP3-7.0)",293.08,240.2,265.8,Cottonwood,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",276.24,260.24,264.6,Cottonwood,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",268.68,243.56,263.4,Cottonwood,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",273.6,233.52,254.8,Cottonwood,dry-days
+2064,"High Emissions
+(SSP3-7.0)",273.88,239.24,267,Cottonwood,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",281.08,252.24,260.6,Cottonwood,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",272.48,241.92,259.8,Cottonwood,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",285.56,246.4,264.2,Cottonwood,dry-days
+2065,"High Emissions
+(SSP3-7.0)",272.24,251.76,261.4,Cottonwood,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",281.56,255.64,262.6,Cottonwood,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",286.2,255.4,269,Cottonwood,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",277.6,242.48,268,Cottonwood,dry-days
+2066,"High Emissions
+(SSP3-7.0)",274.6,246.72,254.6,Cottonwood,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",280.28,230.08,270.4,Cottonwood,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",282.24,250.8,257.6,Cottonwood,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",293.16,239.64,258,Cottonwood,dry-days
+2067,"High Emissions
+(SSP3-7.0)",291.8,248.04,258.2,Cottonwood,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",282.68,242.8,266.4,Cottonwood,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",274.72,242.92,264.2,Cottonwood,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",278.72,242.44,258.4,Cottonwood,dry-days
+2068,"High Emissions
+(SSP3-7.0)",269.24,246.2,257.6,Cottonwood,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",291,252.08,260.8,Cottonwood,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",282.36,233.4,260.2,Cottonwood,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",267.92,242.08,260.8,Cottonwood,dry-days
+2069,"High Emissions
+(SSP3-7.0)",288.36,254.6,275.8,Cottonwood,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",293.96,242.32,253,Cottonwood,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",275.56,245.08,263.6,Cottonwood,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",274.56,239.4,256.2,Cottonwood,dry-days
+2070,"High Emissions
+(SSP3-7.0)",277.56,246.72,260.4,Cottonwood,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",278.24,246.92,264.6,Cottonwood,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",292.16,243.68,268.6,Cottonwood,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",275.24,251.4,257.4,Cottonwood,dry-days
+2071,"High Emissions
+(SSP3-7.0)",281.04,242.88,268.8,Cottonwood,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",279.92,248.08,272.2,Cottonwood,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",279.2,245.72,262.8,Cottonwood,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",280.48,235.48,265.2,Cottonwood,dry-days
+2072,"High Emissions
+(SSP3-7.0)",276.96,256.04,264.6,Cottonwood,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",274.68,240.88,265.2,Cottonwood,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",273.08,249.56,266.8,Cottonwood,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",276,246.08,255.6,Cottonwood,dry-days
+2073,"High Emissions
+(SSP3-7.0)",278.52,242.12,260.4,Cottonwood,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",285.16,239.12,261.4,Cottonwood,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",274.36,233.08,255.6,Cottonwood,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",271.92,241.88,258.6,Cottonwood,dry-days
+2074,"High Emissions
+(SSP3-7.0)",271,248.96,264.8,Cottonwood,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",279.8,249.76,266.2,Cottonwood,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",279.28,243.32,261.4,Cottonwood,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",279.04,242.8,260.4,Cottonwood,dry-days
+2075,"High Emissions
+(SSP3-7.0)",271.92,237.84,254.6,Cottonwood,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",283.16,253.88,271.2,Cottonwood,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",270.84,249,264.4,Cottonwood,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",267.4,247.88,258,Cottonwood,dry-days
+2076,"High Emissions
+(SSP3-7.0)",274.76,249.04,264.4,Cottonwood,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",287.64,249.68,262.2,Cottonwood,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",280.64,252.44,268.2,Cottonwood,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",275.08,244.72,259,Cottonwood,dry-days
+2077,"High Emissions
+(SSP3-7.0)",270.96,237.64,257.4,Cottonwood,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",276.28,237.64,259.8,Cottonwood,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",276.92,245.4,263.2,Cottonwood,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",266.4,235.72,248.6,Cottonwood,dry-days
+2078,"High Emissions
+(SSP3-7.0)",276.88,261.48,268.2,Cottonwood,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",264,244.8,253,Cottonwood,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",285.36,237.2,256.6,Cottonwood,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",277.52,245.04,268.2,Cottonwood,dry-days
+2079,"High Emissions
+(SSP3-7.0)",279.6,245.44,262,Cottonwood,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",278.36,244.44,271.2,Cottonwood,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",272.52,244.68,256,Cottonwood,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",277.96,238.24,257.6,Cottonwood,dry-days
+2080,"High Emissions
+(SSP3-7.0)",264.56,241.52,256.6,Cottonwood,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",283.48,241.48,272.6,Cottonwood,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",280.2,237.24,268.6,Cottonwood,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",271.16,246,267,Cottonwood,dry-days
+2081,"High Emissions
+(SSP3-7.0)",272.72,242.44,265,Cottonwood,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",287.64,249.16,265,Cottonwood,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",277.68,246.68,269,Cottonwood,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",273.28,253.52,265.2,Cottonwood,dry-days
+2082,"High Emissions
+(SSP3-7.0)",279.28,251.12,271.2,Cottonwood,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",278.8,254,259,Cottonwood,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",291.16,251.16,260.6,Cottonwood,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",282.4,252.12,267.8,Cottonwood,dry-days
+2083,"High Emissions
+(SSP3-7.0)",279.84,246.4,264,Cottonwood,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",286.52,248.4,267.6,Cottonwood,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",278.28,237.52,256.6,Cottonwood,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",292.36,249.4,267.2,Cottonwood,dry-days
+2084,"High Emissions
+(SSP3-7.0)",285.16,251.72,277.2,Cottonwood,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",281.2,233.56,268,Cottonwood,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",270.76,250.24,262.8,Cottonwood,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",279.36,240.44,255.6,Cottonwood,dry-days
+2085,"High Emissions
+(SSP3-7.0)",275.04,245.68,262,Cottonwood,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",283.48,242.8,266.6,Cottonwood,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",278.08,235.24,269.4,Cottonwood,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",288.96,229.56,255.8,Cottonwood,dry-days
+2086,"High Emissions
+(SSP3-7.0)",282.12,246.8,266,Cottonwood,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",285.2,242.84,265.6,Cottonwood,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",269.6,233.2,261.8,Cottonwood,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",279.88,254.76,272,Cottonwood,dry-days
+2087,"High Emissions
+(SSP3-7.0)",287.2,246.48,260.2,Cottonwood,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",272.36,237.04,251.4,Cottonwood,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",280.2,249.56,256.2,Cottonwood,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",286.12,245.32,264,Cottonwood,dry-days
+2088,"High Emissions
+(SSP3-7.0)",269.56,245.48,257.6,Cottonwood,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",302.4,240.08,273.4,Cottonwood,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",265,241.32,250.4,Cottonwood,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",272.64,244.88,263.4,Cottonwood,dry-days
+2089,"High Emissions
+(SSP3-7.0)",277.76,249.16,268.4,Cottonwood,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",298.92,243.08,259.8,Cottonwood,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",278.72,241.36,251,Cottonwood,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",272.76,247.52,258.8,Cottonwood,dry-days
+2090,"High Emissions
+(SSP3-7.0)",285.08,246.68,269.4,Cottonwood,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",275.32,250.12,259,Cottonwood,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",274.52,248.72,256.4,Cottonwood,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",268.52,248.12,254.4,Cottonwood,dry-days
+2091,"High Emissions
+(SSP3-7.0)",288.36,249.2,265.6,Cottonwood,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",282.64,228.52,256.4,Cottonwood,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",274.96,244.28,263.4,Cottonwood,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",277.6,248.84,260.4,Cottonwood,dry-days
+2092,"High Emissions
+(SSP3-7.0)",276.28,237.16,254.8,Cottonwood,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",282.8,249.24,269.6,Cottonwood,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",274.48,247.84,262.2,Cottonwood,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",272.28,246.84,261.2,Cottonwood,dry-days
+2093,"High Emissions
+(SSP3-7.0)",272.76,240.48,252.4,Cottonwood,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",282.88,240.12,279.2,Cottonwood,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",283,250.44,264,Cottonwood,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",276.08,236.56,264.8,Cottonwood,dry-days
+2094,"High Emissions
+(SSP3-7.0)",283.88,240.88,268,Cottonwood,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",270.64,253.16,264,Cottonwood,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",291,243.76,274.2,Cottonwood,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",281.32,246.96,267.2,Cottonwood,dry-days
+2095,"High Emissions
+(SSP3-7.0)",285.48,246.52,260.8,Cottonwood,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",287.56,245.12,278.8,Cottonwood,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",279.12,247.76,271.4,Cottonwood,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",278.28,246.2,258.8,Cottonwood,dry-days
+2096,"High Emissions
+(SSP3-7.0)",273.44,252.6,262.2,Cottonwood,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",287.04,245.48,269.2,Cottonwood,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",289.2,265.72,274.8,Cottonwood,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",276.8,244.2,259.2,Cottonwood,dry-days
+2097,"High Emissions
+(SSP3-7.0)",284.56,242.64,275.2,Cottonwood,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",278.92,249.16,258.8,Cottonwood,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",277.92,244.08,254.2,Cottonwood,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",276.4,248.84,264.6,Cottonwood,dry-days
+2098,"High Emissions
+(SSP3-7.0)",272.96,236.2,251,Cottonwood,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",293.08,251.44,268.6,Cottonwood,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",270.76,252.16,262.8,Cottonwood,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",281.44,239.64,265.6,Cottonwood,dry-days
+2099,"High Emissions
+(SSP3-7.0)",281.04,246.16,272.6,Cottonwood,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",287.28,236.64,270.6,Cottonwood,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",263.44,239.92,251.8,Cottonwood,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",280.64,245.4,261.6,Cottonwood,dry-days
+2100,"High Emissions
+(SSP3-7.0)",272.92,248.2,255.4,Cottonwood,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",283.48,250.32,270.2,Cottonwood,dry-days

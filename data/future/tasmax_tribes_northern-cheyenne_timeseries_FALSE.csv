@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,61.437,58.187,59.504,Northern Cheyenne,tasmax
+1951,Historical Emissions,61.498,57.771,59.748,Northern Cheyenne,tasmax
+1952,Historical Emissions,61.398,56.627,59.105,Northern Cheyenne,tasmax
+1953,Historical Emissions,61.806,56.231,58.117,Northern Cheyenne,tasmax
+1954,Historical Emissions,60.306,57.156,58.475,Northern Cheyenne,tasmax
+1955,Historical Emissions,62.918,57.839,58.062,Northern Cheyenne,tasmax
+1956,Historical Emissions,62.369,58.384,59.929,Northern Cheyenne,tasmax
+1957,Historical Emissions,64.436,57.169,59.348,Northern Cheyenne,tasmax
+1958,Historical Emissions,61.824,58.488,59.131,Northern Cheyenne,tasmax
+1959,Historical Emissions,59.046,55.966,57.87,Northern Cheyenne,tasmax
+1960,Historical Emissions,60.669,56.48,58.221,Northern Cheyenne,tasmax
+1961,Historical Emissions,61.201,57.041,59.224,Northern Cheyenne,tasmax
+1962,Historical Emissions,59.973,55.779,58.25,Northern Cheyenne,tasmax
+1963,Historical Emissions,59.21,56.404,57.255,Northern Cheyenne,tasmax
+1964,Historical Emissions,59.796,56.676,58.877,Northern Cheyenne,tasmax
+1965,Historical Emissions,59.763,56.237,58.457,Northern Cheyenne,tasmax
+1966,Historical Emissions,61.644,56.604,58.15,Northern Cheyenne,tasmax
+1967,Historical Emissions,60.135,57.048,58.675,Northern Cheyenne,tasmax
+1968,Historical Emissions,59.222,55.242,56.957,Northern Cheyenne,tasmax
+1969,Historical Emissions,59.229,56.506,58.283,Northern Cheyenne,tasmax
+1970,Historical Emissions,60.065,57.069,59.753,Northern Cheyenne,tasmax
+1971,Historical Emissions,61.849,58.577,59.912,Northern Cheyenne,tasmax
+1972,Historical Emissions,60.244,57.167,57.878,Northern Cheyenne,tasmax
+1973,Historical Emissions,60.908,57.061,58.155,Northern Cheyenne,tasmax
+1974,Historical Emissions,60.827,56.413,59.155,Northern Cheyenne,tasmax
+1975,Historical Emissions,60.655,56.167,59.385,Northern Cheyenne,tasmax
+1976,Historical Emissions,59.59,57.241,58.801,Northern Cheyenne,tasmax
+1977,Historical Emissions,61.667,57.618,59.558,Northern Cheyenne,tasmax
+1978,Historical Emissions,61.399,56.851,58.329,Northern Cheyenne,tasmax
+1979,Historical Emissions,61.802,56.107,60.477,Northern Cheyenne,tasmax
+1980,Historical Emissions,60.771,56.718,58.168,Northern Cheyenne,tasmax
+1981,Historical Emissions,61.171,57.944,60.083,Northern Cheyenne,tasmax
+1982,Historical Emissions,60.916,57.714,59.208,Northern Cheyenne,tasmax
+1983,Historical Emissions,60.119,56.977,58.416,Northern Cheyenne,tasmax
+1984,Historical Emissions,60.993,57.378,58.97,Northern Cheyenne,tasmax
+1985,Historical Emissions,60.937,57.716,59.71,Northern Cheyenne,tasmax
+1986,Historical Emissions,58.192,56.595,56.95,Northern Cheyenne,tasmax
+1987,Historical Emissions,58.974,56.007,56.657,Northern Cheyenne,tasmax
+1988,Historical Emissions,60.332,57.015,58.675,Northern Cheyenne,tasmax
+1989,Historical Emissions,61.124,57.786,59.088,Northern Cheyenne,tasmax
+1990,Historical Emissions,62.685,57.55,60.159,Northern Cheyenne,tasmax
+1991,Historical Emissions,60.592,56.485,58.455,Northern Cheyenne,tasmax
+1992,Historical Emissions,59.315,56.861,58.284,Northern Cheyenne,tasmax
+1993,Historical Emissions,60.523,57.314,58.732,Northern Cheyenne,tasmax
+1994,Historical Emissions,61.821,57.684,58.701,Northern Cheyenne,tasmax
+1995,Historical Emissions,62.282,57.662,59.574,Northern Cheyenne,tasmax
+1996,Historical Emissions,63.145,58.97,60.741,Northern Cheyenne,tasmax
+1997,Historical Emissions,62.204,57.555,58.884,Northern Cheyenne,tasmax
+1998,Historical Emissions,61.683,56.986,60.426,Northern Cheyenne,tasmax
+1999,Historical Emissions,61.512,58.78,59.785,Northern Cheyenne,tasmax
+2000,Historical Emissions,60.923,57.745,59.213,Northern Cheyenne,tasmax
+2001,Historical Emissions,61.067,58.498,59.719,Northern Cheyenne,tasmax
+2002,Historical Emissions,62.963,59.248,61.195,Northern Cheyenne,tasmax
+2003,Historical Emissions,62.484,58.818,60.046,Northern Cheyenne,tasmax
+2004,Historical Emissions,61.984,60.154,61.191,Northern Cheyenne,tasmax
+2005,Historical Emissions,63.41,59.612,62.067,Northern Cheyenne,tasmax
+2006,Historical Emissions,62.842,58.305,59.662,Northern Cheyenne,tasmax
+2007,Historical Emissions,62.014,59.478,60.62,Northern Cheyenne,tasmax
+2008,Historical Emissions,61.777,58.631,60.599,Northern Cheyenne,tasmax
+2009,Historical Emissions,61.872,58.734,59.992,Northern Cheyenne,tasmax
+2010,Historical Emissions,62.428,59.567,61.109,Northern Cheyenne,tasmax
+2011,Historical Emissions,62.965,60.423,61.235,Northern Cheyenne,tasmax
+2012,Historical Emissions,62.08,60.09,61.078,Northern Cheyenne,tasmax
+2013,Historical Emissions,63.578,58.262,60.967,Northern Cheyenne,tasmax
+2014,Historical Emissions,63.477,61.015,61.533,Northern Cheyenne,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",64.509,60.852,61.707,Northern Cheyenne,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",64.363,59.124,61.731,Northern Cheyenne,tasmax
+2015,"High Emissions
+(SSP3-7.0)",62.838,59.838,62.014,Northern Cheyenne,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",62.974,59.668,61.585,Northern Cheyenne,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",63.608,61.851,62.534,Northern Cheyenne,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",63.645,59.505,61.582,Northern Cheyenne,tasmax
+2016,"High Emissions
+(SSP3-7.0)",64.481,59.151,62.105,Northern Cheyenne,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",63.335,59.868,61.223,Northern Cheyenne,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",63.49,60.388,61.38,Northern Cheyenne,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",63.631,60.003,61.387,Northern Cheyenne,tasmax
+2017,"High Emissions
+(SSP3-7.0)",62.945,60.525,60.685,Northern Cheyenne,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",63.167,60.446,62.206,Northern Cheyenne,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",62.624,60.188,61.817,Northern Cheyenne,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",64.14,60.076,62.408,Northern Cheyenne,tasmax
+2018,"High Emissions
+(SSP3-7.0)",63.426,58.389,60.434,Northern Cheyenne,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",62.669,60.134,61.18,Northern Cheyenne,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",64.776,61.309,62.91,Northern Cheyenne,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",63.926,59.318,61.074,Northern Cheyenne,tasmax
+2019,"High Emissions
+(SSP3-7.0)",63.437,58.663,61.032,Northern Cheyenne,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",66.007,60.049,61.952,Northern Cheyenne,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",65.432,59.788,60.791,Northern Cheyenne,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",63.367,59.866,61.928,Northern Cheyenne,tasmax
+2020,"High Emissions
+(SSP3-7.0)",62.884,59.684,61.207,Northern Cheyenne,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",62.778,59.712,61.945,Northern Cheyenne,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",63.268,60.051,61.925,Northern Cheyenne,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",64.542,59.307,62.837,Northern Cheyenne,tasmax
+2021,"High Emissions
+(SSP3-7.0)",63.536,60.822,61.602,Northern Cheyenne,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",63.924,61.277,62.292,Northern Cheyenne,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",64.09,60.878,62.391,Northern Cheyenne,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",64.583,59.999,61.436,Northern Cheyenne,tasmax
+2022,"High Emissions
+(SSP3-7.0)",62.816,59.265,61.226,Northern Cheyenne,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",64.691,59.549,62.744,Northern Cheyenne,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",63.168,61.032,61.965,Northern Cheyenne,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",64.311,60.583,61.344,Northern Cheyenne,tasmax
+2023,"High Emissions
+(SSP3-7.0)",65.639,59.695,61.792,Northern Cheyenne,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",62.523,58.851,61.413,Northern Cheyenne,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",64.085,60.293,62.43,Northern Cheyenne,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",63.077,59.847,61.523,Northern Cheyenne,tasmax
+2024,"High Emissions
+(SSP3-7.0)",64.494,60.399,62.237,Northern Cheyenne,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",64.058,60.724,62.888,Northern Cheyenne,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",64.321,61.332,62.98,Northern Cheyenne,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",64.178,59.923,61.892,Northern Cheyenne,tasmax
+2025,"High Emissions
+(SSP3-7.0)",64.277,62.105,63.017,Northern Cheyenne,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",64.877,61.089,62.411,Northern Cheyenne,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",64.973,60.773,61.949,Northern Cheyenne,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",65.063,60.353,63.051,Northern Cheyenne,tasmax
+2026,"High Emissions
+(SSP3-7.0)",63.539,60.011,61.779,Northern Cheyenne,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",64.634,60.225,61.621,Northern Cheyenne,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",64.799,60.33,61.49,Northern Cheyenne,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",65.504,60.753,62.032,Northern Cheyenne,tasmax
+2027,"High Emissions
+(SSP3-7.0)",64.461,60.207,61.098,Northern Cheyenne,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",64.277,60.677,62.183,Northern Cheyenne,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",64.082,59.675,62.445,Northern Cheyenne,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",63.14,60.043,61.155,Northern Cheyenne,tasmax
+2028,"High Emissions
+(SSP3-7.0)",63.134,61.304,62.779,Northern Cheyenne,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",64.523,60.508,61.577,Northern Cheyenne,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",66.329,62.25,64.482,Northern Cheyenne,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",64.688,60.087,62.293,Northern Cheyenne,tasmax
+2029,"High Emissions
+(SSP3-7.0)",64.1,59.679,60.983,Northern Cheyenne,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",64.748,60.987,63.273,Northern Cheyenne,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",65.006,60.744,62.531,Northern Cheyenne,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",65.266,61.884,63.216,Northern Cheyenne,tasmax
+2030,"High Emissions
+(SSP3-7.0)",64.852,59.492,61.626,Northern Cheyenne,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",65.644,60.684,62.634,Northern Cheyenne,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",64.6,60.106,63.055,Northern Cheyenne,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",65.242,60.34,62.928,Northern Cheyenne,tasmax
+2031,"High Emissions
+(SSP3-7.0)",65.401,60.424,64.177,Northern Cheyenne,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",65.877,62.861,63.778,Northern Cheyenne,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",64.506,60.177,61.949,Northern Cheyenne,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",63.723,59.526,61.359,Northern Cheyenne,tasmax
+2032,"High Emissions
+(SSP3-7.0)",65.697,60.428,62.384,Northern Cheyenne,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",65.498,59.574,62.936,Northern Cheyenne,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",65.325,61.189,63.016,Northern Cheyenne,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",65.676,60.865,63.322,Northern Cheyenne,tasmax
+2033,"High Emissions
+(SSP3-7.0)",64.416,59.383,62.268,Northern Cheyenne,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",65.303,61.352,63.597,Northern Cheyenne,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",65.072,59.542,62.01,Northern Cheyenne,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",64.416,61.039,62.85,Northern Cheyenne,tasmax
+2034,"High Emissions
+(SSP3-7.0)",65.734,61.04,63.182,Northern Cheyenne,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",65.89,60.314,63.225,Northern Cheyenne,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",65.058,61.73,62.248,Northern Cheyenne,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",65.47,62.014,64.207,Northern Cheyenne,tasmax
+2035,"High Emissions
+(SSP3-7.0)",63.538,60.213,61.905,Northern Cheyenne,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",66.446,61.128,64.804,Northern Cheyenne,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",64.355,61.783,63.241,Northern Cheyenne,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",64.453,60.251,63.143,Northern Cheyenne,tasmax
+2036,"High Emissions
+(SSP3-7.0)",64.488,60.003,62.779,Northern Cheyenne,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",65.812,57.944,63.927,Northern Cheyenne,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",65.242,61.575,63.941,Northern Cheyenne,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",65.696,58.952,62.416,Northern Cheyenne,tasmax
+2037,"High Emissions
+(SSP3-7.0)",63.851,60.369,61.407,Northern Cheyenne,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",66.017,61.542,62.681,Northern Cheyenne,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",65.559,61.501,62.747,Northern Cheyenne,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",64.637,60.703,62.797,Northern Cheyenne,tasmax
+2038,"High Emissions
+(SSP3-7.0)",65.222,61.93,63.455,Northern Cheyenne,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",67.447,59.961,63.976,Northern Cheyenne,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",64.967,59.92,63.67,Northern Cheyenne,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",63.718,60.675,62.736,Northern Cheyenne,tasmax
+2039,"High Emissions
+(SSP3-7.0)",64.553,62.983,64.146,Northern Cheyenne,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",66.441,60.701,62.237,Northern Cheyenne,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",65.103,60.645,64.227,Northern Cheyenne,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",65.214,61.734,63.54,Northern Cheyenne,tasmax
+2040,"High Emissions
+(SSP3-7.0)",64.391,62.594,63.938,Northern Cheyenne,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",67.773,62.726,64.414,Northern Cheyenne,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",65.135,60.688,62.44,Northern Cheyenne,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",64.414,61.913,63.249,Northern Cheyenne,tasmax
+2041,"High Emissions
+(SSP3-7.0)",64.18,61.035,62.4,Northern Cheyenne,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",64.252,61.858,63.47,Northern Cheyenne,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",66.689,61.504,63.659,Northern Cheyenne,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",64.421,60.054,62.894,Northern Cheyenne,tasmax
+2042,"High Emissions
+(SSP3-7.0)",64.471,61.356,63.103,Northern Cheyenne,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",66.938,62.225,64.389,Northern Cheyenne,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",64.401,61.004,63.18,Northern Cheyenne,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",66.311,61.159,63.07,Northern Cheyenne,tasmax
+2043,"High Emissions
+(SSP3-7.0)",65.254,59.366,63.366,Northern Cheyenne,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",65.108,62.039,63.739,Northern Cheyenne,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",65.188,61.897,62.602,Northern Cheyenne,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",67.057,62.167,64.047,Northern Cheyenne,tasmax
+2044,"High Emissions
+(SSP3-7.0)",65.051,62.658,63.143,Northern Cheyenne,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",67.277,61.397,63.747,Northern Cheyenne,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",64.682,59.92,63.355,Northern Cheyenne,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",65.707,61.426,64.659,Northern Cheyenne,tasmax
+2045,"High Emissions
+(SSP3-7.0)",65.45,61.148,64.057,Northern Cheyenne,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",64.973,61.825,62.693,Northern Cheyenne,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",66.323,60.966,63.886,Northern Cheyenne,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",65.826,60.745,63.506,Northern Cheyenne,tasmax
+2046,"High Emissions
+(SSP3-7.0)",65.733,62.739,64.543,Northern Cheyenne,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",66.368,61.268,62.973,Northern Cheyenne,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",66.089,62.073,64.431,Northern Cheyenne,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",65.889,59.428,62.841,Northern Cheyenne,tasmax
+2047,"High Emissions
+(SSP3-7.0)",63.845,62.34,63.019,Northern Cheyenne,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",68.335,61.521,64.498,Northern Cheyenne,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",65.346,62.65,63.489,Northern Cheyenne,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",66.275,60.653,63.837,Northern Cheyenne,tasmax
+2048,"High Emissions
+(SSP3-7.0)",66.673,60.871,64.727,Northern Cheyenne,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",70.619,62.362,66.011,Northern Cheyenne,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",65.363,61.272,62.624,Northern Cheyenne,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",66.114,62.563,64.756,Northern Cheyenne,tasmax
+2049,"High Emissions
+(SSP3-7.0)",66.046,61.899,64.279,Northern Cheyenne,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",65.927,62.221,64.091,Northern Cheyenne,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",66.103,60.497,63.357,Northern Cheyenne,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",66.891,63.286,64.663,Northern Cheyenne,tasmax
+2050,"High Emissions
+(SSP3-7.0)",66.709,62.809,63.551,Northern Cheyenne,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",66.529,62.079,64.487,Northern Cheyenne,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",65.39,60.596,63.77,Northern Cheyenne,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",66.345,62.478,63.911,Northern Cheyenne,tasmax
+2051,"High Emissions
+(SSP3-7.0)",65.962,63.657,64.678,Northern Cheyenne,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",66.917,63.254,65.691,Northern Cheyenne,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",64.912,62.299,63.217,Northern Cheyenne,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",65.99,62.206,63.273,Northern Cheyenne,tasmax
+2052,"High Emissions
+(SSP3-7.0)",66.2,60.564,63.727,Northern Cheyenne,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",66.435,63.501,65.49,Northern Cheyenne,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",66.063,60.915,63.353,Northern Cheyenne,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",65.55,60.948,64.42,Northern Cheyenne,tasmax
+2053,"High Emissions
+(SSP3-7.0)",67.548,63.068,65.844,Northern Cheyenne,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",67.628,61.462,66.578,Northern Cheyenne,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",65.922,62.723,65.046,Northern Cheyenne,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",65.127,61.297,63.482,Northern Cheyenne,tasmax
+2054,"High Emissions
+(SSP3-7.0)",66.626,61.622,63.684,Northern Cheyenne,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",67.672,62.578,65.492,Northern Cheyenne,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",65.388,62.96,64.126,Northern Cheyenne,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",66.617,60.909,64.205,Northern Cheyenne,tasmax
+2055,"High Emissions
+(SSP3-7.0)",67.166,63.025,64.887,Northern Cheyenne,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",67.716,63.688,65.833,Northern Cheyenne,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",65.895,63.278,64.306,Northern Cheyenne,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",66.715,62.257,64.506,Northern Cheyenne,tasmax
+2056,"High Emissions
+(SSP3-7.0)",67.08,62.381,63.611,Northern Cheyenne,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",66.823,63.325,65.561,Northern Cheyenne,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",66.624,61.416,63.942,Northern Cheyenne,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",66.34,63.614,65.032,Northern Cheyenne,tasmax
+2057,"High Emissions
+(SSP3-7.0)",65.995,62.006,63.198,Northern Cheyenne,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",67.545,61.601,64.422,Northern Cheyenne,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",65.179,61.089,63.557,Northern Cheyenne,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",67.72,62.394,65.732,Northern Cheyenne,tasmax
+2058,"High Emissions
+(SSP3-7.0)",65.499,61.628,64.625,Northern Cheyenne,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",66.913,62.613,65.233,Northern Cheyenne,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",66.84,62.345,64.466,Northern Cheyenne,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",68.625,61.661,65.42,Northern Cheyenne,tasmax
+2059,"High Emissions
+(SSP3-7.0)",68.73,63.256,65.313,Northern Cheyenne,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",68.328,64.827,66.355,Northern Cheyenne,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",66.056,61.557,64.081,Northern Cheyenne,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",68.03,61.844,63.455,Northern Cheyenne,tasmax
+2060,"High Emissions
+(SSP3-7.0)",65.945,63.143,64.606,Northern Cheyenne,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",67.474,63.577,65.21,Northern Cheyenne,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",64.992,61.859,63.203,Northern Cheyenne,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",66.823,62.087,63.801,Northern Cheyenne,tasmax
+2061,"High Emissions
+(SSP3-7.0)",66.453,63.346,64.962,Northern Cheyenne,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",69.509,64.398,67.368,Northern Cheyenne,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",65.877,61.163,63.522,Northern Cheyenne,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",66.533,62.275,63.58,Northern Cheyenne,tasmax
+2062,"High Emissions
+(SSP3-7.0)",66.278,63.316,64.935,Northern Cheyenne,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",67.152,64.676,66.202,Northern Cheyenne,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",65.209,61.644,62.826,Northern Cheyenne,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",65.33,62.553,63.718,Northern Cheyenne,tasmax
+2063,"High Emissions
+(SSP3-7.0)",67.886,63.196,65.091,Northern Cheyenne,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",69.254,64.026,66.284,Northern Cheyenne,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",66.65,61.873,64.426,Northern Cheyenne,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",65.339,62.254,63.664,Northern Cheyenne,tasmax
+2064,"High Emissions
+(SSP3-7.0)",66.181,62.766,64.007,Northern Cheyenne,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",68.428,64.542,65.636,Northern Cheyenne,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",67.473,60.101,62.526,Northern Cheyenne,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",66.52,61.849,63.406,Northern Cheyenne,tasmax
+2065,"High Emissions
+(SSP3-7.0)",68.427,63.155,65.101,Northern Cheyenne,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",69.86,64.33,67.674,Northern Cheyenne,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",66.12,61.868,63.47,Northern Cheyenne,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",67.991,62.11,65.635,Northern Cheyenne,tasmax
+2066,"High Emissions
+(SSP3-7.0)",67.166,64.249,65.346,Northern Cheyenne,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",69.865,64.366,66.729,Northern Cheyenne,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",66.311,62.295,64.698,Northern Cheyenne,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",66.125,63.627,64.859,Northern Cheyenne,tasmax
+2067,"High Emissions
+(SSP3-7.0)",69.18,65.104,66.228,Northern Cheyenne,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",69.56,65.179,67.018,Northern Cheyenne,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",65.696,62.167,63.806,Northern Cheyenne,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",66.141,61.869,65.077,Northern Cheyenne,tasmax
+2068,"High Emissions
+(SSP3-7.0)",67.772,63.133,65.599,Northern Cheyenne,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",68.048,65.176,67.028,Northern Cheyenne,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",67.756,62.129,63.468,Northern Cheyenne,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",66.091,61.592,64.076,Northern Cheyenne,tasmax
+2069,"High Emissions
+(SSP3-7.0)",69.831,65.529,66.929,Northern Cheyenne,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",71.231,64.468,67.736,Northern Cheyenne,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",65.326,62.024,64.945,Northern Cheyenne,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",65.853,61.67,63.765,Northern Cheyenne,tasmax
+2070,"High Emissions
+(SSP3-7.0)",68.563,65.735,67.061,Northern Cheyenne,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",70.629,65.053,66.719,Northern Cheyenne,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",69.95,61.308,63.357,Northern Cheyenne,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",66.96,62.986,64.259,Northern Cheyenne,tasmax
+2071,"High Emissions
+(SSP3-7.0)",68.733,64.931,67.092,Northern Cheyenne,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",69.987,65.211,68.286,Northern Cheyenne,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",67.327,62.831,64.066,Northern Cheyenne,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",65.873,61.794,64.38,Northern Cheyenne,tasmax
+2072,"High Emissions
+(SSP3-7.0)",69.174,63.924,65.608,Northern Cheyenne,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",69.1,65.181,67.97,Northern Cheyenne,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",66.65,61.152,64.048,Northern Cheyenne,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",66.718,60.931,63.794,Northern Cheyenne,tasmax
+2073,"High Emissions
+(SSP3-7.0)",67.749,64.327,66.566,Northern Cheyenne,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",69.9,63.043,67.728,Northern Cheyenne,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",66.34,61.364,63.597,Northern Cheyenne,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",67.436,63.178,65.364,Northern Cheyenne,tasmax
+2074,"High Emissions
+(SSP3-7.0)",68.282,63.757,65.193,Northern Cheyenne,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",71.448,65.336,67.223,Northern Cheyenne,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",66.269,60.156,64.061,Northern Cheyenne,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",68.493,62.346,63.785,Northern Cheyenne,tasmax
+2075,"High Emissions
+(SSP3-7.0)",69.835,63.073,64.542,Northern Cheyenne,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",70.913,65.729,66.973,Northern Cheyenne,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",65.743,60.464,62.375,Northern Cheyenne,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",65.457,63.284,63.998,Northern Cheyenne,tasmax
+2076,"High Emissions
+(SSP3-7.0)",70.681,64.875,66.509,Northern Cheyenne,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",71.821,64.589,68.317,Northern Cheyenne,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",66.265,62.819,64.44,Northern Cheyenne,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",67.21,62.942,65.138,Northern Cheyenne,tasmax
+2077,"High Emissions
+(SSP3-7.0)",69.332,63.954,66.686,Northern Cheyenne,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",71.758,65.937,69.365,Northern Cheyenne,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",66.187,63.01,63.518,Northern Cheyenne,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",67.882,63.668,65.802,Northern Cheyenne,tasmax
+2078,"High Emissions
+(SSP3-7.0)",70.395,63.913,66.93,Northern Cheyenne,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",68.736,64.969,66.572,Northern Cheyenne,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",65.631,62.972,63.857,Northern Cheyenne,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",67.684,62.863,64.426,Northern Cheyenne,tasmax
+2079,"High Emissions
+(SSP3-7.0)",67.568,63.025,66.783,Northern Cheyenne,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",70.874,64.821,68.601,Northern Cheyenne,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",64.394,61.302,63.27,Northern Cheyenne,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",67.384,62.911,65.436,Northern Cheyenne,tasmax
+2080,"High Emissions
+(SSP3-7.0)",69.787,63.712,66.085,Northern Cheyenne,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",71.49,66.564,68.967,Northern Cheyenne,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",66.741,61.012,63.362,Northern Cheyenne,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",67.666,63.824,64.899,Northern Cheyenne,tasmax
+2081,"High Emissions
+(SSP3-7.0)",71.16,62.628,65.066,Northern Cheyenne,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",71.293,66.51,68.667,Northern Cheyenne,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",66.385,62.994,64.519,Northern Cheyenne,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",67.744,63.173,65.244,Northern Cheyenne,tasmax
+2082,"High Emissions
+(SSP3-7.0)",69.847,62.9,65.645,Northern Cheyenne,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",72.396,66.513,70.687,Northern Cheyenne,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",66.862,63.694,64.753,Northern Cheyenne,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",67.369,62.944,65.313,Northern Cheyenne,tasmax
+2083,"High Emissions
+(SSP3-7.0)",69.836,64.015,66.978,Northern Cheyenne,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",72.733,66.024,70.863,Northern Cheyenne,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",67.14,60.797,63.227,Northern Cheyenne,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",69.781,64.141,66.816,Northern Cheyenne,tasmax
+2084,"High Emissions
+(SSP3-7.0)",71.776,65.548,69.637,Northern Cheyenne,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",71.925,67.356,69.403,Northern Cheyenne,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",66.508,60.925,62.583,Northern Cheyenne,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",67.381,62.933,64.799,Northern Cheyenne,tasmax
+2085,"High Emissions
+(SSP3-7.0)",68.994,65.191,66.395,Northern Cheyenne,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",72.866,65.018,70.515,Northern Cheyenne,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",65.667,62.519,64.324,Northern Cheyenne,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",67.7,63.491,65.08,Northern Cheyenne,tasmax
+2086,"High Emissions
+(SSP3-7.0)",69.983,64.846,67.395,Northern Cheyenne,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",72.352,65.906,69.975,Northern Cheyenne,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",65.108,61.349,62.731,Northern Cheyenne,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",67.815,63.929,66.578,Northern Cheyenne,tasmax
+2087,"High Emissions
+(SSP3-7.0)",71.944,64.829,68.156,Northern Cheyenne,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",72.083,66.034,68.991,Northern Cheyenne,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",66.293,61.516,63.058,Northern Cheyenne,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",67.815,63.51,66.341,Northern Cheyenne,tasmax
+2088,"High Emissions
+(SSP3-7.0)",71.692,64.389,67.582,Northern Cheyenne,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",71.712,67.586,69.956,Northern Cheyenne,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",64.767,61.147,63.176,Northern Cheyenne,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",67.891,63.029,65.282,Northern Cheyenne,tasmax
+2089,"High Emissions
+(SSP3-7.0)",71.094,64.088,68.119,Northern Cheyenne,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",72.465,68.145,70.709,Northern Cheyenne,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",64.808,62.159,63.953,Northern Cheyenne,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",66.895,63.653,65.353,Northern Cheyenne,tasmax
+2090,"High Emissions
+(SSP3-7.0)",73.313,66.886,69.136,Northern Cheyenne,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",72.716,68.479,70.243,Northern Cheyenne,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",66.069,61.64,64.055,Northern Cheyenne,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",68.394,63.398,66.171,Northern Cheyenne,tasmax
+2091,"High Emissions
+(SSP3-7.0)",70.615,68.618,69.517,Northern Cheyenne,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",74.704,66.298,68.468,Northern Cheyenne,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",66.494,60.754,65.064,Northern Cheyenne,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",69.1,62.005,66.812,Northern Cheyenne,tasmax
+2092,"High Emissions
+(SSP3-7.0)",70.329,65.453,68.853,Northern Cheyenne,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",74.279,66.493,71.039,Northern Cheyenne,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",67.03,59.957,63.472,Northern Cheyenne,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",69.061,62.031,65.941,Northern Cheyenne,tasmax
+2093,"High Emissions
+(SSP3-7.0)",71.059,65.713,66.317,Northern Cheyenne,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",74.111,68.699,70.338,Northern Cheyenne,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",66.772,60.566,63.11,Northern Cheyenne,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",69.582,62.696,65.105,Northern Cheyenne,tasmax
+2094,"High Emissions
+(SSP3-7.0)",71.315,66.106,68.019,Northern Cheyenne,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",76.235,68.169,71.545,Northern Cheyenne,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",66.761,61.745,64.739,Northern Cheyenne,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",69.122,63.891,66.442,Northern Cheyenne,tasmax
+2095,"High Emissions
+(SSP3-7.0)",72.954,66.325,68.4,Northern Cheyenne,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",73.134,67.393,69.907,Northern Cheyenne,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",65.2,61.148,63.977,Northern Cheyenne,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",68.936,64.772,66.484,Northern Cheyenne,tasmax
+2096,"High Emissions
+(SSP3-7.0)",71.045,66.368,70.171,Northern Cheyenne,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",73.172,67.766,70.992,Northern Cheyenne,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",66.987,61.103,62.542,Northern Cheyenne,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",69.53,64.146,66.003,Northern Cheyenne,tasmax
+2097,"High Emissions
+(SSP3-7.0)",74.071,65.79,69.793,Northern Cheyenne,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",76.734,68.087,69.665,Northern Cheyenne,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",65.752,61.346,62.597,Northern Cheyenne,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",67.288,63.441,65.839,Northern Cheyenne,tasmax
+2098,"High Emissions
+(SSP3-7.0)",71.78,65.437,67.845,Northern Cheyenne,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",72.942,69.088,71.539,Northern Cheyenne,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",66.964,60.187,64.415,Northern Cheyenne,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",68.149,63.688,65.507,Northern Cheyenne,tasmax
+2099,"High Emissions
+(SSP3-7.0)",72.588,65.304,67.646,Northern Cheyenne,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",74.311,67.392,72.517,Northern Cheyenne,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",66.537,60.467,62.454,Northern Cheyenne,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",69.889,64.048,65.602,Northern Cheyenne,tasmax
+2100,"High Emissions
+(SSP3-7.0)",71.607,65.971,69.798,Northern Cheyenne,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",74.516,67.526,70.296,Northern Cheyenne,tasmax

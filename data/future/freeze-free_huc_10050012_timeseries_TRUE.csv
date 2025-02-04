@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,200,177.175,182.125,Lower Milk,freeze-free
+1951,Historical Emissions,198,170.775,187.375,Lower Milk,freeze-free
+1952,Historical Emissions,184.725,179.65,182.125,Lower Milk,freeze-free
+1953,Historical Emissions,189.325,175.125,183.25,Lower Milk,freeze-free
+1954,Historical Emissions,202.95,170.6,182.25,Lower Milk,freeze-free
+1955,Historical Emissions,193.8,178.55,187.5,Lower Milk,freeze-free
+1956,Historical Emissions,203.3,183.5,192.75,Lower Milk,freeze-free
+1957,Historical Emissions,206.775,177.775,187.875,Lower Milk,freeze-free
+1958,Historical Emissions,197.225,180.1,184.875,Lower Milk,freeze-free
+1959,Historical Emissions,195.875,170.6,182.625,Lower Milk,freeze-free
+1960,Historical Emissions,198.7,172.425,189.875,Lower Milk,freeze-free
+1961,Historical Emissions,197.9,173.6,190.25,Lower Milk,freeze-free
+1962,Historical Emissions,198.225,172.825,182.75,Lower Milk,freeze-free
+1963,Historical Emissions,193.4,175.825,184.875,Lower Milk,freeze-free
+1964,Historical Emissions,193.6,172.025,186.375,Lower Milk,freeze-free
+1965,Historical Emissions,192.775,171.55,181.75,Lower Milk,freeze-free
+1966,Historical Emissions,198.125,172.075,178.5,Lower Milk,freeze-free
+1967,Historical Emissions,192.375,169.225,183.25,Lower Milk,freeze-free
+1968,Historical Emissions,186.175,173.85,178.375,Lower Milk,freeze-free
+1969,Historical Emissions,186.525,166.225,183,Lower Milk,freeze-free
+1970,Historical Emissions,196.85,172.075,188.5,Lower Milk,freeze-free
+1971,Historical Emissions,203.15,180.475,193.375,Lower Milk,freeze-free
+1972,Historical Emissions,187.4,175.475,181.875,Lower Milk,freeze-free
+1973,Historical Emissions,198.15,180.075,187.625,Lower Milk,freeze-free
+1974,Historical Emissions,197.025,172.275,186.125,Lower Milk,freeze-free
+1975,Historical Emissions,201.7,168.275,186.375,Lower Milk,freeze-free
+1976,Historical Emissions,194.125,176.85,183.875,Lower Milk,freeze-free
+1977,Historical Emissions,195,176.625,181.875,Lower Milk,freeze-free
+1978,Historical Emissions,203.3,181,184.75,Lower Milk,freeze-free
+1979,Historical Emissions,202.7,177.65,193.75,Lower Milk,freeze-free
+1980,Historical Emissions,198.025,174.8,188.375,Lower Milk,freeze-free
+1981,Historical Emissions,196.675,177.775,190,Lower Milk,freeze-free
+1982,Historical Emissions,194.45,177.075,187.5,Lower Milk,freeze-free
+1983,Historical Emissions,189.65,168.55,180.5,Lower Milk,freeze-free
+1984,Historical Emissions,191.9,175.8,188,Lower Milk,freeze-free
+1985,Historical Emissions,200.825,186,191.625,Lower Milk,freeze-free
+1986,Historical Emissions,190.55,172.9,176.375,Lower Milk,freeze-free
+1987,Historical Emissions,192.525,170.925,183,Lower Milk,freeze-free
+1988,Historical Emissions,194.525,176.975,182.5,Lower Milk,freeze-free
+1989,Historical Emissions,201.375,182.8,187.75,Lower Milk,freeze-free
+1990,Historical Emissions,194.575,172.625,192.625,Lower Milk,freeze-free
+1991,Historical Emissions,197.425,181.875,187.875,Lower Milk,freeze-free
+1992,Historical Emissions,188.725,174.425,179.5,Lower Milk,freeze-free
+1993,Historical Emissions,199.475,169,191.75,Lower Milk,freeze-free
+1994,Historical Emissions,198.75,177.775,185.5,Lower Milk,freeze-free
+1995,Historical Emissions,206.225,177.25,188.125,Lower Milk,freeze-free
+1996,Historical Emissions,198.175,182.375,193.5,Lower Milk,freeze-free
+1997,Historical Emissions,212,175.95,187.5,Lower Milk,freeze-free
+1998,Historical Emissions,202.525,183.675,193.375,Lower Milk,freeze-free
+1999,Historical Emissions,198.325,184.1,189.625,Lower Milk,freeze-free
+2000,Historical Emissions,200.95,178.35,191.625,Lower Milk,freeze-free
+2001,Historical Emissions,195.15,183.675,188.5,Lower Milk,freeze-free
+2002,Historical Emissions,211.375,179.925,196.5,Lower Milk,freeze-free
+2003,Historical Emissions,205.675,181.575,193.5,Lower Milk,freeze-free
+2004,Historical Emissions,206.5,191.525,199.125,Lower Milk,freeze-free
+2005,Historical Emissions,206.175,188,197.625,Lower Milk,freeze-free
+2006,Historical Emissions,205.325,184.275,193.625,Lower Milk,freeze-free
+2007,Historical Emissions,207.9,181.4,192.375,Lower Milk,freeze-free
+2008,Historical Emissions,204.875,178.625,192,Lower Milk,freeze-free
+2009,Historical Emissions,207.825,183.75,195.125,Lower Milk,freeze-free
+2010,Historical Emissions,204.7,186.3,192.75,Lower Milk,freeze-free
+2011,Historical Emissions,202.85,184.325,190.375,Lower Milk,freeze-free
+2012,Historical Emissions,201.825,184.325,192.75,Lower Milk,freeze-free
+2013,Historical Emissions,209.35,186.225,192.875,Lower Milk,freeze-free
+2014,Historical Emissions,211.825,189.625,197.125,Lower Milk,freeze-free
+2015,"Moderating Emissions
+(SSP1-2.6)",212.125,179.925,197.5,Lower Milk,freeze-free
+2015,"Middle of the Road
+(SSP2-4.5)",203.575,183.4,187,Lower Milk,freeze-free
+2015,"High Emissions
+(SSP3-7.0)",208.5,183.05,187.875,Lower Milk,freeze-free
+2015,"Accelerating Emissions
+(SSP5-8.5)",204.7,176.9,190.125,Lower Milk,freeze-free
+2016,"Moderating Emissions
+(SSP1-2.6)",218.8,183.65,202.875,Lower Milk,freeze-free
+2016,"Middle of the Road
+(SSP2-4.5)",208.1,179.525,195.25,Lower Milk,freeze-free
+2016,"High Emissions
+(SSP3-7.0)",210.4,185.525,196.5,Lower Milk,freeze-free
+2016,"Accelerating Emissions
+(SSP5-8.5)",211.95,186.2,191.75,Lower Milk,freeze-free
+2017,"Moderating Emissions
+(SSP1-2.6)",202.775,179.95,189.875,Lower Milk,freeze-free
+2017,"Middle of the Road
+(SSP2-4.5)",216.6,184.65,193.75,Lower Milk,freeze-free
+2017,"High Emissions
+(SSP3-7.0)",203.3,188.075,196,Lower Milk,freeze-free
+2017,"Accelerating Emissions
+(SSP5-8.5)",214.1,187.8,196.125,Lower Milk,freeze-free
+2018,"Moderating Emissions
+(SSP1-2.6)",201.975,183.35,197.125,Lower Milk,freeze-free
+2018,"Middle of the Road
+(SSP2-4.5)",210.525,190.275,197.375,Lower Milk,freeze-free
+2018,"High Emissions
+(SSP3-7.0)",214.325,184.8,193,Lower Milk,freeze-free
+2018,"Accelerating Emissions
+(SSP5-8.5)",211.775,178.825,190.5,Lower Milk,freeze-free
+2019,"Moderating Emissions
+(SSP1-2.6)",216.125,182.8,198,Lower Milk,freeze-free
+2019,"Middle of the Road
+(SSP2-4.5)",208.45,182.3,189.5,Lower Milk,freeze-free
+2019,"High Emissions
+(SSP3-7.0)",207.275,192.375,195,Lower Milk,freeze-free
+2019,"Accelerating Emissions
+(SSP5-8.5)",219.6,184.125,195.75,Lower Milk,freeze-free
+2020,"Moderating Emissions
+(SSP1-2.6)",210.5,185.225,199.625,Lower Milk,freeze-free
+2020,"Middle of the Road
+(SSP2-4.5)",204.925,181.875,192.125,Lower Milk,freeze-free
+2020,"High Emissions
+(SSP3-7.0)",204.45,183.475,193.125,Lower Milk,freeze-free
+2020,"Accelerating Emissions
+(SSP5-8.5)",221.875,184.325,195.75,Lower Milk,freeze-free
+2021,"Moderating Emissions
+(SSP1-2.6)",219,187.975,195.375,Lower Milk,freeze-free
+2021,"Middle of the Road
+(SSP2-4.5)",206.675,181.5,201.875,Lower Milk,freeze-free
+2021,"High Emissions
+(SSP3-7.0)",219.05,191.35,197.125,Lower Milk,freeze-free
+2021,"Accelerating Emissions
+(SSP5-8.5)",221.825,185.775,197,Lower Milk,freeze-free
+2022,"Moderating Emissions
+(SSP1-2.6)",220.4,187.375,195.5,Lower Milk,freeze-free
+2022,"Middle of the Road
+(SSP2-4.5)",205.775,190.225,196.375,Lower Milk,freeze-free
+2022,"High Emissions
+(SSP3-7.0)",211.475,188.475,194.875,Lower Milk,freeze-free
+2022,"Accelerating Emissions
+(SSP5-8.5)",221.575,191.85,199.75,Lower Milk,freeze-free
+2023,"Moderating Emissions
+(SSP1-2.6)",210.525,190.725,193.625,Lower Milk,freeze-free
+2023,"Middle of the Road
+(SSP2-4.5)",217.05,194.35,204.125,Lower Milk,freeze-free
+2023,"High Emissions
+(SSP3-7.0)",216.425,192.825,196.875,Lower Milk,freeze-free
+2023,"Accelerating Emissions
+(SSP5-8.5)",206.225,182.225,187.25,Lower Milk,freeze-free
+2024,"Moderating Emissions
+(SSP1-2.6)",218.625,187.375,197.25,Lower Milk,freeze-free
+2024,"Middle of the Road
+(SSP2-4.5)",205.9,187.275,195,Lower Milk,freeze-free
+2024,"High Emissions
+(SSP3-7.0)",208.75,189.075,195.875,Lower Milk,freeze-free
+2024,"Accelerating Emissions
+(SSP5-8.5)",212.375,190.475,200,Lower Milk,freeze-free
+2025,"Moderating Emissions
+(SSP1-2.6)",211.3,190.2,202.375,Lower Milk,freeze-free
+2025,"Middle of the Road
+(SSP2-4.5)",213.825,189,196.5,Lower Milk,freeze-free
+2025,"High Emissions
+(SSP3-7.0)",208.05,191.925,194.5,Lower Milk,freeze-free
+2025,"Accelerating Emissions
+(SSP5-8.5)",223.275,186.8,202.25,Lower Milk,freeze-free
+2026,"Moderating Emissions
+(SSP1-2.6)",211.975,189.925,199.875,Lower Milk,freeze-free
+2026,"Middle of the Road
+(SSP2-4.5)",214.775,196.225,199.25,Lower Milk,freeze-free
+2026,"High Emissions
+(SSP3-7.0)",215.725,184.4,201.875,Lower Milk,freeze-free
+2026,"Accelerating Emissions
+(SSP5-8.5)",213.3,193.475,200.25,Lower Milk,freeze-free
+2027,"Moderating Emissions
+(SSP1-2.6)",211.175,186.775,198.625,Lower Milk,freeze-free
+2027,"Middle of the Road
+(SSP2-4.5)",215.775,184.65,194.25,Lower Milk,freeze-free
+2027,"High Emissions
+(SSP3-7.0)",215.1,191.225,198.875,Lower Milk,freeze-free
+2027,"Accelerating Emissions
+(SSP5-8.5)",207.675,194.575,200.625,Lower Milk,freeze-free
+2028,"Moderating Emissions
+(SSP1-2.6)",216.425,183.975,207.25,Lower Milk,freeze-free
+2028,"Middle of the Road
+(SSP2-4.5)",212.775,183.2,196.25,Lower Milk,freeze-free
+2028,"High Emissions
+(SSP3-7.0)",208.775,191.65,203.5,Lower Milk,freeze-free
+2028,"Accelerating Emissions
+(SSP5-8.5)",219.95,193.025,201.875,Lower Milk,freeze-free
+2029,"Moderating Emissions
+(SSP1-2.6)",222.625,196.85,200.5,Lower Milk,freeze-free
+2029,"Middle of the Road
+(SSP2-4.5)",221.775,193.875,204,Lower Milk,freeze-free
+2029,"High Emissions
+(SSP3-7.0)",222.575,188.075,194.375,Lower Milk,freeze-free
+2029,"Accelerating Emissions
+(SSP5-8.5)",216.525,186.05,203.375,Lower Milk,freeze-free
+2030,"Moderating Emissions
+(SSP1-2.6)",215.725,187.175,198.75,Lower Milk,freeze-free
+2030,"Middle of the Road
+(SSP2-4.5)",210.325,186.575,194.625,Lower Milk,freeze-free
+2030,"High Emissions
+(SSP3-7.0)",217.35,192.6,204.625,Lower Milk,freeze-free
+2030,"Accelerating Emissions
+(SSP5-8.5)",218.625,187.075,196.75,Lower Milk,freeze-free
+2031,"Moderating Emissions
+(SSP1-2.6)",214.575,189.625,201.5,Lower Milk,freeze-free
+2031,"Middle of the Road
+(SSP2-4.5)",215.525,190.575,205,Lower Milk,freeze-free
+2031,"High Emissions
+(SSP3-7.0)",219.8,186.25,204.625,Lower Milk,freeze-free
+2031,"Accelerating Emissions
+(SSP5-8.5)",218.1,197.5,208.125,Lower Milk,freeze-free
+2032,"Moderating Emissions
+(SSP1-2.6)",211.25,194.15,203.75,Lower Milk,freeze-free
+2032,"Middle of the Road
+(SSP2-4.5)",222.275,181.6,196.125,Lower Milk,freeze-free
+2032,"High Emissions
+(SSP3-7.0)",206.6,190.125,197.375,Lower Milk,freeze-free
+2032,"Accelerating Emissions
+(SSP5-8.5)",222.275,192.65,206,Lower Milk,freeze-free
+2033,"Moderating Emissions
+(SSP1-2.6)",219.825,188.175,202.125,Lower Milk,freeze-free
+2033,"Middle of the Road
+(SSP2-4.5)",220.45,192.225,203.5,Lower Milk,freeze-free
+2033,"High Emissions
+(SSP3-7.0)",208.125,189.925,196.75,Lower Milk,freeze-free
+2033,"Accelerating Emissions
+(SSP5-8.5)",219.625,189.4,201.125,Lower Milk,freeze-free
+2034,"Moderating Emissions
+(SSP1-2.6)",210.2,188.375,194.25,Lower Milk,freeze-free
+2034,"Middle of the Road
+(SSP2-4.5)",202.75,187.075,194.125,Lower Milk,freeze-free
+2034,"High Emissions
+(SSP3-7.0)",210.625,192,200.625,Lower Milk,freeze-free
+2034,"Accelerating Emissions
+(SSP5-8.5)",213.475,191.225,199.75,Lower Milk,freeze-free
+2035,"Moderating Emissions
+(SSP1-2.6)",219.15,193.725,201.375,Lower Milk,freeze-free
+2035,"Middle of the Road
+(SSP2-4.5)",219.675,189.175,200.75,Lower Milk,freeze-free
+2035,"High Emissions
+(SSP3-7.0)",212.125,189.075,196.75,Lower Milk,freeze-free
+2035,"Accelerating Emissions
+(SSP5-8.5)",230.7,190.45,198.625,Lower Milk,freeze-free
+2036,"Moderating Emissions
+(SSP1-2.6)",212.075,192.725,200.625,Lower Milk,freeze-free
+2036,"Middle of the Road
+(SSP2-4.5)",210.825,186.5,197.75,Lower Milk,freeze-free
+2036,"High Emissions
+(SSP3-7.0)",215.075,190.525,198.25,Lower Milk,freeze-free
+2036,"Accelerating Emissions
+(SSP5-8.5)",221.05,195.425,211.625,Lower Milk,freeze-free
+2037,"Moderating Emissions
+(SSP1-2.6)",216.475,204.425,207.25,Lower Milk,freeze-free
+2037,"Middle of the Road
+(SSP2-4.5)",207.75,192.325,194.5,Lower Milk,freeze-free
+2037,"High Emissions
+(SSP3-7.0)",214,187.8,198.625,Lower Milk,freeze-free
+2037,"Accelerating Emissions
+(SSP5-8.5)",219.225,193,199.25,Lower Milk,freeze-free
+2038,"Moderating Emissions
+(SSP1-2.6)",221.475,192.625,206.5,Lower Milk,freeze-free
+2038,"Middle of the Road
+(SSP2-4.5)",217.625,196.75,200.75,Lower Milk,freeze-free
+2038,"High Emissions
+(SSP3-7.0)",209.675,196.35,200.375,Lower Milk,freeze-free
+2038,"Accelerating Emissions
+(SSP5-8.5)",222.55,194.25,207.375,Lower Milk,freeze-free
+2039,"Moderating Emissions
+(SSP1-2.6)",216.85,187.75,198.625,Lower Milk,freeze-free
+2039,"Middle of the Road
+(SSP2-4.5)",220.275,192.475,205.125,Lower Milk,freeze-free
+2039,"High Emissions
+(SSP3-7.0)",221.075,190.6,207.125,Lower Milk,freeze-free
+2039,"Accelerating Emissions
+(SSP5-8.5)",215.725,190.85,194.875,Lower Milk,freeze-free
+2040,"Moderating Emissions
+(SSP1-2.6)",220.65,194.475,203.375,Lower Milk,freeze-free
+2040,"Middle of the Road
+(SSP2-4.5)",209.3,194.875,205,Lower Milk,freeze-free
+2040,"High Emissions
+(SSP3-7.0)",222.25,192.1,206.875,Lower Milk,freeze-free
+2040,"Accelerating Emissions
+(SSP5-8.5)",231.6,198.075,202.75,Lower Milk,freeze-free
+2041,"Moderating Emissions
+(SSP1-2.6)",218.275,188.85,194.5,Lower Milk,freeze-free
+2041,"Middle of the Road
+(SSP2-4.5)",212.8,192.475,205.625,Lower Milk,freeze-free
+2041,"High Emissions
+(SSP3-7.0)",217.975,189.5,206.25,Lower Milk,freeze-free
+2041,"Accelerating Emissions
+(SSP5-8.5)",220.725,193.125,202,Lower Milk,freeze-free
+2042,"Moderating Emissions
+(SSP1-2.6)",220.05,193.525,201.375,Lower Milk,freeze-free
+2042,"Middle of the Road
+(SSP2-4.5)",206.9,189.425,203.375,Lower Milk,freeze-free
+2042,"High Emissions
+(SSP3-7.0)",215.45,189.025,199.25,Lower Milk,freeze-free
+2042,"Accelerating Emissions
+(SSP5-8.5)",224.225,203.175,211.25,Lower Milk,freeze-free
+2043,"Moderating Emissions
+(SSP1-2.6)",216.275,201.375,204.75,Lower Milk,freeze-free
+2043,"Middle of the Road
+(SSP2-4.5)",219.45,191.5,204.25,Lower Milk,freeze-free
+2043,"High Emissions
+(SSP3-7.0)",212.95,198.35,204.375,Lower Milk,freeze-free
+2043,"Accelerating Emissions
+(SSP5-8.5)",218.925,197.35,212.25,Lower Milk,freeze-free
+2044,"Moderating Emissions
+(SSP1-2.6)",221.625,193.575,205.625,Lower Milk,freeze-free
+2044,"Middle of the Road
+(SSP2-4.5)",228.525,199.4,207.375,Lower Milk,freeze-free
+2044,"High Emissions
+(SSP3-7.0)",220,193.225,212.125,Lower Milk,freeze-free
+2044,"Accelerating Emissions
+(SSP5-8.5)",229.05,197.775,208.75,Lower Milk,freeze-free
+2045,"Moderating Emissions
+(SSP1-2.6)",215.275,190.525,198.125,Lower Milk,freeze-free
+2045,"Middle of the Road
+(SSP2-4.5)",222.725,190.85,205.625,Lower Milk,freeze-free
+2045,"High Emissions
+(SSP3-7.0)",217.65,187.8,200.375,Lower Milk,freeze-free
+2045,"Accelerating Emissions
+(SSP5-8.5)",218.825,193.325,210.5,Lower Milk,freeze-free
+2046,"Moderating Emissions
+(SSP1-2.6)",222.325,193.425,199.25,Lower Milk,freeze-free
+2046,"Middle of the Road
+(SSP2-4.5)",221.45,196.425,204.5,Lower Milk,freeze-free
+2046,"High Emissions
+(SSP3-7.0)",226.55,190,212.25,Lower Milk,freeze-free
+2046,"Accelerating Emissions
+(SSP5-8.5)",214.1,194.125,199.125,Lower Milk,freeze-free
+2047,"Moderating Emissions
+(SSP1-2.6)",228.7,190.575,202.5,Lower Milk,freeze-free
+2047,"Middle of the Road
+(SSP2-4.5)",212.725,190.825,200.5,Lower Milk,freeze-free
+2047,"High Emissions
+(SSP3-7.0)",215.9,194.65,200,Lower Milk,freeze-free
+2047,"Accelerating Emissions
+(SSP5-8.5)",217.725,201.075,202.625,Lower Milk,freeze-free
+2048,"Moderating Emissions
+(SSP1-2.6)",214.7,193.2,204.625,Lower Milk,freeze-free
+2048,"Middle of the Road
+(SSP2-4.5)",217.575,186.2,208.875,Lower Milk,freeze-free
+2048,"High Emissions
+(SSP3-7.0)",226.925,197.5,207.75,Lower Milk,freeze-free
+2048,"Accelerating Emissions
+(SSP5-8.5)",233.125,200.575,211.75,Lower Milk,freeze-free
+2049,"Moderating Emissions
+(SSP1-2.6)",221.025,189.9,194.375,Lower Milk,freeze-free
+2049,"Middle of the Road
+(SSP2-4.5)",228.325,204.925,212.125,Lower Milk,freeze-free
+2049,"High Emissions
+(SSP3-7.0)",232.1,191.025,207.625,Lower Milk,freeze-free
+2049,"Accelerating Emissions
+(SSP5-8.5)",224,196.225,207.875,Lower Milk,freeze-free
+2050,"Moderating Emissions
+(SSP1-2.6)",217.775,186.725,198,Lower Milk,freeze-free
+2050,"Middle of the Road
+(SSP2-4.5)",225.5,194.7,202.25,Lower Milk,freeze-free
+2050,"High Emissions
+(SSP3-7.0)",227.55,195.4,206.75,Lower Milk,freeze-free
+2050,"Accelerating Emissions
+(SSP5-8.5)",221.575,200.275,211.125,Lower Milk,freeze-free
+2051,"Moderating Emissions
+(SSP1-2.6)",221.35,193.9,209.625,Lower Milk,freeze-free
+2051,"Middle of the Road
+(SSP2-4.5)",222.675,199.65,205.5,Lower Milk,freeze-free
+2051,"High Emissions
+(SSP3-7.0)",216.875,198.525,206.625,Lower Milk,freeze-free
+2051,"Accelerating Emissions
+(SSP5-8.5)",216.075,193.975,203,Lower Milk,freeze-free
+2052,"Moderating Emissions
+(SSP1-2.6)",215.65,196.8,204.875,Lower Milk,freeze-free
+2052,"Middle of the Road
+(SSP2-4.5)",226.55,201.325,210.125,Lower Milk,freeze-free
+2052,"High Emissions
+(SSP3-7.0)",230.775,199.125,210.25,Lower Milk,freeze-free
+2052,"Accelerating Emissions
+(SSP5-8.5)",224.75,201.7,208.125,Lower Milk,freeze-free
+2053,"Moderating Emissions
+(SSP1-2.6)",213.55,188.65,204.625,Lower Milk,freeze-free
+2053,"Middle of the Road
+(SSP2-4.5)",214.125,195.25,203,Lower Milk,freeze-free
+2053,"High Emissions
+(SSP3-7.0)",228.075,200,209.75,Lower Milk,freeze-free
+2053,"Accelerating Emissions
+(SSP5-8.5)",229.3,202.075,210.375,Lower Milk,freeze-free
+2054,"Moderating Emissions
+(SSP1-2.6)",215.9,187.175,193.125,Lower Milk,freeze-free
+2054,"Middle of the Road
+(SSP2-4.5)",215.275,202.875,208.375,Lower Milk,freeze-free
+2054,"High Emissions
+(SSP3-7.0)",222.025,195,209.125,Lower Milk,freeze-free
+2054,"Accelerating Emissions
+(SSP5-8.5)",219.675,201.2,209.75,Lower Milk,freeze-free
+2055,"Moderating Emissions
+(SSP1-2.6)",215.075,195.45,200.25,Lower Milk,freeze-free
+2055,"Middle of the Road
+(SSP2-4.5)",220.45,193.85,198.625,Lower Milk,freeze-free
+2055,"High Emissions
+(SSP3-7.0)",226.125,201.825,211.875,Lower Milk,freeze-free
+2055,"Accelerating Emissions
+(SSP5-8.5)",229.575,204.375,210.5,Lower Milk,freeze-free
+2056,"Moderating Emissions
+(SSP1-2.6)",224.625,196.325,208.125,Lower Milk,freeze-free
+2056,"Middle of the Road
+(SSP2-4.5)",223.15,195.05,205.5,Lower Milk,freeze-free
+2056,"High Emissions
+(SSP3-7.0)",232.875,198.125,209.625,Lower Milk,freeze-free
+2056,"Accelerating Emissions
+(SSP5-8.5)",228.975,195.625,215,Lower Milk,freeze-free
+2057,"Moderating Emissions
+(SSP1-2.6)",225.325,198.125,201.625,Lower Milk,freeze-free
+2057,"Middle of the Road
+(SSP2-4.5)",224.5,199.575,205.75,Lower Milk,freeze-free
+2057,"High Emissions
+(SSP3-7.0)",223.75,199.675,212.875,Lower Milk,freeze-free
+2057,"Accelerating Emissions
+(SSP5-8.5)",222.4,200.575,210.5,Lower Milk,freeze-free
+2058,"Moderating Emissions
+(SSP1-2.6)",221.525,190.975,199.375,Lower Milk,freeze-free
+2058,"Middle of the Road
+(SSP2-4.5)",228.325,199.75,208.75,Lower Milk,freeze-free
+2058,"High Emissions
+(SSP3-7.0)",224.2,203.4,214.125,Lower Milk,freeze-free
+2058,"Accelerating Emissions
+(SSP5-8.5)",229.125,200.525,207.875,Lower Milk,freeze-free
+2059,"Moderating Emissions
+(SSP1-2.6)",220.2,197.3,204.125,Lower Milk,freeze-free
+2059,"Middle of the Road
+(SSP2-4.5)",236.35,199.7,207,Lower Milk,freeze-free
+2059,"High Emissions
+(SSP3-7.0)",227.675,201.875,213,Lower Milk,freeze-free
+2059,"Accelerating Emissions
+(SSP5-8.5)",242.625,207.95,217.75,Lower Milk,freeze-free
+2060,"Moderating Emissions
+(SSP1-2.6)",236.025,186.35,201.5,Lower Milk,freeze-free
+2060,"Middle of the Road
+(SSP2-4.5)",216.3,194.875,201.5,Lower Milk,freeze-free
+2060,"High Emissions
+(SSP3-7.0)",223.5,203.75,212.625,Lower Milk,freeze-free
+2060,"Accelerating Emissions
+(SSP5-8.5)",229.575,211.25,216.375,Lower Milk,freeze-free
+2061,"Moderating Emissions
+(SSP1-2.6)",223.2,190.9,205.875,Lower Milk,freeze-free
+2061,"Middle of the Road
+(SSP2-4.5)",227.825,196.5,210.125,Lower Milk,freeze-free
+2061,"High Emissions
+(SSP3-7.0)",226.425,200,208.375,Lower Milk,freeze-free
+2061,"Accelerating Emissions
+(SSP5-8.5)",240.875,207.275,221.375,Lower Milk,freeze-free
+2062,"Moderating Emissions
+(SSP1-2.6)",216.125,202.975,209.625,Lower Milk,freeze-free
+2062,"Middle of the Road
+(SSP2-4.5)",220.225,195.7,206.5,Lower Milk,freeze-free
+2062,"High Emissions
+(SSP3-7.0)",228.3,199.275,210.125,Lower Milk,freeze-free
+2062,"Accelerating Emissions
+(SSP5-8.5)",255.05,204.25,212.25,Lower Milk,freeze-free
+2063,"Moderating Emissions
+(SSP1-2.6)",218.75,195.625,203.875,Lower Milk,freeze-free
+2063,"Middle of the Road
+(SSP2-4.5)",223.275,196.025,212,Lower Milk,freeze-free
+2063,"High Emissions
+(SSP3-7.0)",238.8,198.875,207.75,Lower Milk,freeze-free
+2063,"Accelerating Emissions
+(SSP5-8.5)",239.225,203.725,211.25,Lower Milk,freeze-free
+2064,"Moderating Emissions
+(SSP1-2.6)",228.35,202.075,214,Lower Milk,freeze-free
+2064,"Middle of the Road
+(SSP2-4.5)",217.375,195.65,207,Lower Milk,freeze-free
+2064,"High Emissions
+(SSP3-7.0)",221.35,198.2,207.125,Lower Milk,freeze-free
+2064,"Accelerating Emissions
+(SSP5-8.5)",229.625,205.6,212.75,Lower Milk,freeze-free
+2065,"Moderating Emissions
+(SSP1-2.6)",214.75,185.925,203.5,Lower Milk,freeze-free
+2065,"Middle of the Road
+(SSP2-4.5)",214.325,189.675,205.125,Lower Milk,freeze-free
+2065,"High Emissions
+(SSP3-7.0)",224.55,200.1,214.875,Lower Milk,freeze-free
+2065,"Accelerating Emissions
+(SSP5-8.5)",245.8,208.25,215.5,Lower Milk,freeze-free
+2066,"Moderating Emissions
+(SSP1-2.6)",221.35,194.525,205,Lower Milk,freeze-free
+2066,"Middle of the Road
+(SSP2-4.5)",237.175,199.525,218.875,Lower Milk,freeze-free
+2066,"High Emissions
+(SSP3-7.0)",232.65,203.1,215,Lower Milk,freeze-free
+2066,"Accelerating Emissions
+(SSP5-8.5)",233.325,210.125,219.875,Lower Milk,freeze-free
+2067,"Moderating Emissions
+(SSP1-2.6)",227.95,196.025,207.25,Lower Milk,freeze-free
+2067,"Middle of the Road
+(SSP2-4.5)",232.75,201.9,208.25,Lower Milk,freeze-free
+2067,"High Emissions
+(SSP3-7.0)",244.075,210.775,217,Lower Milk,freeze-free
+2067,"Accelerating Emissions
+(SSP5-8.5)",242.7,204.9,214.625,Lower Milk,freeze-free
+2068,"Moderating Emissions
+(SSP1-2.6)",217.225,198.2,206.625,Lower Milk,freeze-free
+2068,"Middle of the Road
+(SSP2-4.5)",229.675,198.2,210.875,Lower Milk,freeze-free
+2068,"High Emissions
+(SSP3-7.0)",249.05,200.125,208.875,Lower Milk,freeze-free
+2068,"Accelerating Emissions
+(SSP5-8.5)",238.725,206.95,222.75,Lower Milk,freeze-free
+2069,"Moderating Emissions
+(SSP1-2.6)",222.5,193.575,206.375,Lower Milk,freeze-free
+2069,"Middle of the Road
+(SSP2-4.5)",218.6,195.575,207.375,Lower Milk,freeze-free
+2069,"High Emissions
+(SSP3-7.0)",233.65,204.35,218.375,Lower Milk,freeze-free
+2069,"Accelerating Emissions
+(SSP5-8.5)",244.175,210.5,214.125,Lower Milk,freeze-free
+2070,"Moderating Emissions
+(SSP1-2.6)",225.15,190.6,203.75,Lower Milk,freeze-free
+2070,"Middle of the Road
+(SSP2-4.5)",218.95,201.875,210.875,Lower Milk,freeze-free
+2070,"High Emissions
+(SSP3-7.0)",234.075,203.175,218.125,Lower Milk,freeze-free
+2070,"Accelerating Emissions
+(SSP5-8.5)",243.625,207.875,225.125,Lower Milk,freeze-free
+2071,"Moderating Emissions
+(SSP1-2.6)",221.8,196.45,200.75,Lower Milk,freeze-free
+2071,"Middle of the Road
+(SSP2-4.5)",222.8,199.1,210.875,Lower Milk,freeze-free
+2071,"High Emissions
+(SSP3-7.0)",235.15,205.525,221.625,Lower Milk,freeze-free
+2071,"Accelerating Emissions
+(SSP5-8.5)",235.225,210.075,215.75,Lower Milk,freeze-free
+2072,"Moderating Emissions
+(SSP1-2.6)",225.525,196.5,201.875,Lower Milk,freeze-free
+2072,"Middle of the Road
+(SSP2-4.5)",225.075,198.675,211.125,Lower Milk,freeze-free
+2072,"High Emissions
+(SSP3-7.0)",226.45,208.975,216.25,Lower Milk,freeze-free
+2072,"Accelerating Emissions
+(SSP5-8.5)",236.55,212.925,219.5,Lower Milk,freeze-free
+2073,"Moderating Emissions
+(SSP1-2.6)",213.275,184.6,204.625,Lower Milk,freeze-free
+2073,"Middle of the Road
+(SSP2-4.5)",229.475,200.15,212.875,Lower Milk,freeze-free
+2073,"High Emissions
+(SSP3-7.0)",245.475,202.375,215.5,Lower Milk,freeze-free
+2073,"Accelerating Emissions
+(SSP5-8.5)",247.375,210.425,218,Lower Milk,freeze-free
+2074,"Moderating Emissions
+(SSP1-2.6)",227.1,198.675,204.125,Lower Milk,freeze-free
+2074,"Middle of the Road
+(SSP2-4.5)",226.3,192.025,214.75,Lower Milk,freeze-free
+2074,"High Emissions
+(SSP3-7.0)",236.275,204.425,210.625,Lower Milk,freeze-free
+2074,"Accelerating Emissions
+(SSP5-8.5)",232.775,210.05,216.25,Lower Milk,freeze-free
+2075,"Moderating Emissions
+(SSP1-2.6)",216.5,194.875,203.25,Lower Milk,freeze-free
+2075,"Middle of the Road
+(SSP2-4.5)",218.775,196.475,206.375,Lower Milk,freeze-free
+2075,"High Emissions
+(SSP3-7.0)",236.25,202.925,216.375,Lower Milk,freeze-free
+2075,"Accelerating Emissions
+(SSP5-8.5)",244.925,211.275,218.75,Lower Milk,freeze-free
+2076,"Moderating Emissions
+(SSP1-2.6)",216.85,185.8,198.5,Lower Milk,freeze-free
+2076,"Middle of the Road
+(SSP2-4.5)",229.6,197.125,206.75,Lower Milk,freeze-free
+2076,"High Emissions
+(SSP3-7.0)",240.45,208.45,216.5,Lower Milk,freeze-free
+2076,"Accelerating Emissions
+(SSP5-8.5)",241.725,208.9,226.375,Lower Milk,freeze-free
+2077,"Moderating Emissions
+(SSP1-2.6)",219.95,204.075,208.25,Lower Milk,freeze-free
+2077,"Middle of the Road
+(SSP2-4.5)",227.45,209.275,212.5,Lower Milk,freeze-free
+2077,"High Emissions
+(SSP3-7.0)",231.95,208.675,216.125,Lower Milk,freeze-free
+2077,"Accelerating Emissions
+(SSP5-8.5)",242.7,214.175,222,Lower Milk,freeze-free
+2078,"Moderating Emissions
+(SSP1-2.6)",219.4,198.325,208.125,Lower Milk,freeze-free
+2078,"Middle of the Road
+(SSP2-4.5)",225.925,200.775,211.75,Lower Milk,freeze-free
+2078,"High Emissions
+(SSP3-7.0)",229.75,204.3,218.5,Lower Milk,freeze-free
+2078,"Accelerating Emissions
+(SSP5-8.5)",236.875,209.625,220.25,Lower Milk,freeze-free
+2079,"Moderating Emissions
+(SSP1-2.6)",216.55,194.75,204,Lower Milk,freeze-free
+2079,"Middle of the Road
+(SSP2-4.5)",232.3,204.125,214.25,Lower Milk,freeze-free
+2079,"High Emissions
+(SSP3-7.0)",237.8,196.55,221.375,Lower Milk,freeze-free
+2079,"Accelerating Emissions
+(SSP5-8.5)",241.35,211.125,224.25,Lower Milk,freeze-free
+2080,"Moderating Emissions
+(SSP1-2.6)",212.275,191.3,202.5,Lower Milk,freeze-free
+2080,"Middle of the Road
+(SSP2-4.5)",228.225,195.575,216,Lower Milk,freeze-free
+2080,"High Emissions
+(SSP3-7.0)",236.475,207.8,222.5,Lower Milk,freeze-free
+2080,"Accelerating Emissions
+(SSP5-8.5)",251.7,218.875,229.125,Lower Milk,freeze-free
+2081,"Moderating Emissions
+(SSP1-2.6)",213.65,193.375,201,Lower Milk,freeze-free
+2081,"Middle of the Road
+(SSP2-4.5)",221.8,202,212.875,Lower Milk,freeze-free
+2081,"High Emissions
+(SSP3-7.0)",242.075,206.575,219.625,Lower Milk,freeze-free
+2081,"Accelerating Emissions
+(SSP5-8.5)",254.95,214.35,228.5,Lower Milk,freeze-free
+2082,"Moderating Emissions
+(SSP1-2.6)",223.95,193.15,204.375,Lower Milk,freeze-free
+2082,"Middle of the Road
+(SSP2-4.5)",225.3,202.7,205.375,Lower Milk,freeze-free
+2082,"High Emissions
+(SSP3-7.0)",233.925,204.725,217.75,Lower Milk,freeze-free
+2082,"Accelerating Emissions
+(SSP5-8.5)",263.85,212.125,234.5,Lower Milk,freeze-free
+2083,"Moderating Emissions
+(SSP1-2.6)",221.575,196.2,201.25,Lower Milk,freeze-free
+2083,"Middle of the Road
+(SSP2-4.5)",241.3,195.35,208.25,Lower Milk,freeze-free
+2083,"High Emissions
+(SSP3-7.0)",243.925,206.65,211.875,Lower Milk,freeze-free
+2083,"Accelerating Emissions
+(SSP5-8.5)",258.4,216.875,237.875,Lower Milk,freeze-free
+2084,"Moderating Emissions
+(SSP1-2.6)",220.025,197.175,202.125,Lower Milk,freeze-free
+2084,"Middle of the Road
+(SSP2-4.5)",235.075,206.8,217.375,Lower Milk,freeze-free
+2084,"High Emissions
+(SSP3-7.0)",250.65,204.475,214,Lower Milk,freeze-free
+2084,"Accelerating Emissions
+(SSP5-8.5)",255.6,216.675,221.125,Lower Milk,freeze-free
+2085,"Moderating Emissions
+(SSP1-2.6)",208.575,188.475,196.125,Lower Milk,freeze-free
+2085,"Middle of the Road
+(SSP2-4.5)",226.175,201.2,216,Lower Milk,freeze-free
+2085,"High Emissions
+(SSP3-7.0)",243.225,206.325,218.25,Lower Milk,freeze-free
+2085,"Accelerating Emissions
+(SSP5-8.5)",271.925,212.575,227.5,Lower Milk,freeze-free
+2086,"Moderating Emissions
+(SSP1-2.6)",212.5,202.125,207.375,Lower Milk,freeze-free
+2086,"Middle of the Road
+(SSP2-4.5)",231.65,206.975,216.25,Lower Milk,freeze-free
+2086,"High Emissions
+(SSP3-7.0)",240.15,210.775,215.125,Lower Milk,freeze-free
+2086,"Accelerating Emissions
+(SSP5-8.5)",264.5,215.7,220.875,Lower Milk,freeze-free
+2087,"Moderating Emissions
+(SSP1-2.6)",221.075,192.975,202.5,Lower Milk,freeze-free
+2087,"Middle of the Road
+(SSP2-4.5)",227.25,207.6,218.375,Lower Milk,freeze-free
+2087,"High Emissions
+(SSP3-7.0)",240.175,207.4,224.5,Lower Milk,freeze-free
+2087,"Accelerating Emissions
+(SSP5-8.5)",271.125,224.55,230.75,Lower Milk,freeze-free
+2088,"Moderating Emissions
+(SSP1-2.6)",227.9,197.95,207.375,Lower Milk,freeze-free
+2088,"Middle of the Road
+(SSP2-4.5)",223.525,209.25,215.25,Lower Milk,freeze-free
+2088,"High Emissions
+(SSP3-7.0)",250.85,214.775,226.375,Lower Milk,freeze-free
+2088,"Accelerating Emissions
+(SSP5-8.5)",270.425,213.15,233,Lower Milk,freeze-free
+2089,"Moderating Emissions
+(SSP1-2.6)",217.925,188.4,200.875,Lower Milk,freeze-free
+2089,"Middle of the Road
+(SSP2-4.5)",229.775,206.525,213.25,Lower Milk,freeze-free
+2089,"High Emissions
+(SSP3-7.0)",243,216.025,231.875,Lower Milk,freeze-free
+2089,"Accelerating Emissions
+(SSP5-8.5)",273.9,223.875,237.75,Lower Milk,freeze-free
+2090,"Moderating Emissions
+(SSP1-2.6)",222.475,195.725,206.625,Lower Milk,freeze-free
+2090,"Middle of the Road
+(SSP2-4.5)",231.1,205.75,214.75,Lower Milk,freeze-free
+2090,"High Emissions
+(SSP3-7.0)",246.325,209.575,222.875,Lower Milk,freeze-free
+2090,"Accelerating Emissions
+(SSP5-8.5)",269.9,229.15,235.5,Lower Milk,freeze-free
+2091,"Moderating Emissions
+(SSP1-2.6)",210,195.625,201.25,Lower Milk,freeze-free
+2091,"Middle of the Road
+(SSP2-4.5)",240.425,208,217.5,Lower Milk,freeze-free
+2091,"High Emissions
+(SSP3-7.0)",247.75,211.9,219.875,Lower Milk,freeze-free
+2091,"Accelerating Emissions
+(SSP5-8.5)",271.225,222.175,237,Lower Milk,freeze-free
+2092,"Moderating Emissions
+(SSP1-2.6)",218.45,196.575,203.5,Lower Milk,freeze-free
+2092,"Middle of the Road
+(SSP2-4.5)",220.425,196.425,207.625,Lower Milk,freeze-free
+2092,"High Emissions
+(SSP3-7.0)",257.2,208.4,230.75,Lower Milk,freeze-free
+2092,"Accelerating Emissions
+(SSP5-8.5)",270.425,218.725,231.75,Lower Milk,freeze-free
+2093,"Moderating Emissions
+(SSP1-2.6)",215.5,195.625,206,Lower Milk,freeze-free
+2093,"Middle of the Road
+(SSP2-4.5)",235.2,205.025,211.25,Lower Milk,freeze-free
+2093,"High Emissions
+(SSP3-7.0)",263.525,215.3,224.5,Lower Milk,freeze-free
+2093,"Accelerating Emissions
+(SSP5-8.5)",275.975,210.275,232,Lower Milk,freeze-free
+2094,"Moderating Emissions
+(SSP1-2.6)",219.6,191.25,205.375,Lower Milk,freeze-free
+2094,"Middle of the Road
+(SSP2-4.5)",226.625,204.9,213.375,Lower Milk,freeze-free
+2094,"High Emissions
+(SSP3-7.0)",255.2,208.675,226.5,Lower Milk,freeze-free
+2094,"Accelerating Emissions
+(SSP5-8.5)",277.325,226.1,231,Lower Milk,freeze-free
+2095,"Moderating Emissions
+(SSP1-2.6)",210.125,193.1,202.375,Lower Milk,freeze-free
+2095,"Middle of the Road
+(SSP2-4.5)",233.875,204.675,217.125,Lower Milk,freeze-free
+2095,"High Emissions
+(SSP3-7.0)",266,211.125,236.625,Lower Milk,freeze-free
+2095,"Accelerating Emissions
+(SSP5-8.5)",269.35,220.55,223.25,Lower Milk,freeze-free
+2096,"Moderating Emissions
+(SSP1-2.6)",217.45,187.525,207.375,Lower Milk,freeze-free
+2096,"Middle of the Road
+(SSP2-4.5)",236.625,209.475,217.875,Lower Milk,freeze-free
+2096,"High Emissions
+(SSP3-7.0)",252.25,214.8,225,Lower Milk,freeze-free
+2096,"Accelerating Emissions
+(SSP5-8.5)",255.6,223.675,230,Lower Milk,freeze-free
+2097,"Moderating Emissions
+(SSP1-2.6)",215.15,188.725,199.625,Lower Milk,freeze-free
+2097,"Middle of the Road
+(SSP2-4.5)",239.725,210.375,220.75,Lower Milk,freeze-free
+2097,"High Emissions
+(SSP3-7.0)",245.375,213.025,222,Lower Milk,freeze-free
+2097,"Accelerating Emissions
+(SSP5-8.5)",286.3,222.15,234.375,Lower Milk,freeze-free
+2098,"Moderating Emissions
+(SSP1-2.6)",215.325,190.475,202,Lower Milk,freeze-free
+2098,"Middle of the Road
+(SSP2-4.5)",240.4,202.375,218.375,Lower Milk,freeze-free
+2098,"High Emissions
+(SSP3-7.0)",254.3,216.825,230.375,Lower Milk,freeze-free
+2098,"Accelerating Emissions
+(SSP5-8.5)",261.45,219.4,233,Lower Milk,freeze-free
+2099,"Moderating Emissions
+(SSP1-2.6)",222.575,197.225,205,Lower Milk,freeze-free
+2099,"Middle of the Road
+(SSP2-4.5)",227.375,199.2,213,Lower Milk,freeze-free
+2099,"High Emissions
+(SSP3-7.0)",255.975,214.175,233.5,Lower Milk,freeze-free
+2099,"Accelerating Emissions
+(SSP5-8.5)",270.5,220.45,241.25,Lower Milk,freeze-free
+2100,"Moderating Emissions
+(SSP1-2.6)",221.475,194.95,203.375,Lower Milk,freeze-free
+2100,"Middle of the Road
+(SSP2-4.5)",234.625,208.925,213.75,Lower Milk,freeze-free
+2100,"High Emissions
+(SSP3-7.0)",250.7,219.35,232.125,Lower Milk,freeze-free
+2100,"Accelerating Emissions
+(SSP5-8.5)",276.925,226.65,230.875,Lower Milk,freeze-free

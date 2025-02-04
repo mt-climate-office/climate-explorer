@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,6.117,5.492,5.624,Upper Selway,sfcWind
+1951,Historical Emissions,5.912,5.498,5.726,Upper Selway,sfcWind
+1952,Historical Emissions,5.935,5.417,5.815,Upper Selway,sfcWind
+1953,Historical Emissions,6.039,5.475,5.73,Upper Selway,sfcWind
+1954,Historical Emissions,6.081,5.397,5.76,Upper Selway,sfcWind
+1955,Historical Emissions,5.72,5.403,5.583,Upper Selway,sfcWind
+1956,Historical Emissions,6.135,5.578,5.67,Upper Selway,sfcWind
+1957,Historical Emissions,6.16,5.631,5.782,Upper Selway,sfcWind
+1958,Historical Emissions,6.144,5.525,5.679,Upper Selway,sfcWind
+1959,Historical Emissions,5.823,5.592,5.731,Upper Selway,sfcWind
+1960,Historical Emissions,6.113,5.64,5.809,Upper Selway,sfcWind
+1961,Historical Emissions,5.903,5.546,5.777,Upper Selway,sfcWind
+1962,Historical Emissions,5.821,5.534,5.642,Upper Selway,sfcWind
+1963,Historical Emissions,5.897,5.424,5.707,Upper Selway,sfcWind
+1964,Historical Emissions,6.061,5.576,5.645,Upper Selway,sfcWind
+1965,Historical Emissions,6.03,5.506,5.667,Upper Selway,sfcWind
+1966,Historical Emissions,5.99,5.531,5.794,Upper Selway,sfcWind
+1967,Historical Emissions,5.942,5.441,5.711,Upper Selway,sfcWind
+1968,Historical Emissions,5.897,5.33,5.581,Upper Selway,sfcWind
+1969,Historical Emissions,5.947,5.474,5.755,Upper Selway,sfcWind
+1970,Historical Emissions,5.898,5.521,5.721,Upper Selway,sfcWind
+1971,Historical Emissions,5.895,5.605,5.727,Upper Selway,sfcWind
+1972,Historical Emissions,5.874,5.699,5.827,Upper Selway,sfcWind
+1973,Historical Emissions,5.862,5.551,5.573,Upper Selway,sfcWind
+1974,Historical Emissions,5.928,5.428,5.719,Upper Selway,sfcWind
+1975,Historical Emissions,6.017,5.496,5.704,Upper Selway,sfcWind
+1976,Historical Emissions,5.881,5.506,5.702,Upper Selway,sfcWind
+1977,Historical Emissions,5.855,5.435,5.621,Upper Selway,sfcWind
+1978,Historical Emissions,5.726,5.509,5.591,Upper Selway,sfcWind
+1979,Historical Emissions,5.866,5.528,5.738,Upper Selway,sfcWind
+1980,Historical Emissions,6.106,5.411,5.843,Upper Selway,sfcWind
+1981,Historical Emissions,5.949,5.385,5.696,Upper Selway,sfcWind
+1982,Historical Emissions,5.927,5.356,5.679,Upper Selway,sfcWind
+1983,Historical Emissions,6.148,5.479,5.592,Upper Selway,sfcWind
+1984,Historical Emissions,5.942,5.477,5.672,Upper Selway,sfcWind
+1985,Historical Emissions,5.806,5.541,5.649,Upper Selway,sfcWind
+1986,Historical Emissions,5.844,5.383,5.774,Upper Selway,sfcWind
+1987,Historical Emissions,5.947,5.447,5.675,Upper Selway,sfcWind
+1988,Historical Emissions,5.929,5.548,5.81,Upper Selway,sfcWind
+1989,Historical Emissions,5.781,5.463,5.611,Upper Selway,sfcWind
+1990,Historical Emissions,5.827,5.174,5.697,Upper Selway,sfcWind
+1991,Historical Emissions,5.937,5.457,5.697,Upper Selway,sfcWind
+1992,Historical Emissions,5.972,5.522,5.763,Upper Selway,sfcWind
+1993,Historical Emissions,5.836,5.391,5.479,Upper Selway,sfcWind
+1994,Historical Emissions,5.76,5.395,5.642,Upper Selway,sfcWind
+1995,Historical Emissions,5.98,5.497,5.755,Upper Selway,sfcWind
+1996,Historical Emissions,6.026,5.293,5.769,Upper Selway,sfcWind
+1997,Historical Emissions,5.837,5.429,5.629,Upper Selway,sfcWind
+1998,Historical Emissions,5.709,5.344,5.547,Upper Selway,sfcWind
+1999,Historical Emissions,5.793,5.408,5.626,Upper Selway,sfcWind
+2000,Historical Emissions,5.726,5.495,5.598,Upper Selway,sfcWind
+2001,Historical Emissions,6.029,5.305,5.598,Upper Selway,sfcWind
+2002,Historical Emissions,6.147,5.309,5.707,Upper Selway,sfcWind
+2003,Historical Emissions,5.766,5.428,5.576,Upper Selway,sfcWind
+2004,Historical Emissions,5.89,5.517,5.725,Upper Selway,sfcWind
+2005,Historical Emissions,5.925,5.277,5.575,Upper Selway,sfcWind
+2006,Historical Emissions,6.035,5.383,5.724,Upper Selway,sfcWind
+2007,Historical Emissions,5.949,5.373,5.645,Upper Selway,sfcWind
+2008,Historical Emissions,5.785,5.28,5.509,Upper Selway,sfcWind
+2009,Historical Emissions,5.892,5.452,5.578,Upper Selway,sfcWind
+2010,Historical Emissions,5.898,5.373,5.644,Upper Selway,sfcWind
+2011,Historical Emissions,5.783,5.472,5.653,Upper Selway,sfcWind
+2012,Historical Emissions,5.631,5.429,5.566,Upper Selway,sfcWind
+2013,Historical Emissions,5.798,5.338,5.553,Upper Selway,sfcWind
+2014,Historical Emissions,5.848,5.394,5.659,Upper Selway,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",6.008,5.184,5.694,Upper Selway,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",5.917,5.085,5.642,Upper Selway,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",5.854,5.232,5.609,Upper Selway,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",5.888,5.311,5.683,Upper Selway,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",6.089,5.094,5.505,Upper Selway,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",5.731,5.375,5.597,Upper Selway,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",5.952,5.073,5.613,Upper Selway,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",6.2,5.1,5.465,Upper Selway,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",5.937,5.142,5.855,Upper Selway,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",5.792,5.228,5.517,Upper Selway,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",5.685,5.137,5.44,Upper Selway,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",5.782,5.203,5.502,Upper Selway,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",6.053,5.298,5.63,Upper Selway,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",5.705,4.818,5.603,Upper Selway,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",5.774,5.08,5.455,Upper Selway,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",5.643,5.21,5.495,Upper Selway,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",5.697,5.024,5.469,Upper Selway,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",6.119,5.298,5.667,Upper Selway,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",5.724,5.07,5.514,Upper Selway,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",5.826,5.21,5.552,Upper Selway,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",5.659,5.102,5.433,Upper Selway,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",5.986,5.308,5.79,Upper Selway,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",5.9,5.368,5.64,Upper Selway,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",5.769,5.14,5.474,Upper Selway,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",5.766,5.128,5.499,Upper Selway,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",5.752,5.15,5.55,Upper Selway,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",5.881,5.139,5.578,Upper Selway,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",5.671,5.27,5.581,Upper Selway,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",5.981,5.123,5.651,Upper Selway,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",5.563,5.163,5.513,Upper Selway,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",5.753,5.035,5.41,Upper Selway,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",5.826,5.039,5.483,Upper Selway,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",6.041,5.171,5.677,Upper Selway,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",5.825,5.211,5.559,Upper Selway,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",5.844,5.191,5.776,Upper Selway,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",6.103,5.155,5.621,Upper Selway,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",6.047,5.157,5.578,Upper Selway,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",5.72,5.161,5.587,Upper Selway,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",5.903,5.212,5.615,Upper Selway,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",5.971,5.237,5.498,Upper Selway,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",5.783,4.988,5.472,Upper Selway,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",6.082,5.094,5.594,Upper Selway,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",5.851,5.116,5.468,Upper Selway,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",5.788,5.176,5.654,Upper Selway,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",5.773,5.226,5.525,Upper Selway,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",5.761,5.154,5.504,Upper Selway,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",5.745,5.035,5.46,Upper Selway,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",5.811,5.296,5.564,Upper Selway,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",5.932,5.258,5.587,Upper Selway,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",5.864,5.003,5.576,Upper Selway,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",5.833,5.145,5.503,Upper Selway,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",5.815,5.241,5.573,Upper Selway,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",5.771,5.008,5.664,Upper Selway,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",5.617,5.204,5.441,Upper Selway,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",5.866,5.061,5.496,Upper Selway,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",5.698,5.013,5.397,Upper Selway,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",5.705,5.25,5.442,Upper Selway,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",5.757,5.014,5.609,Upper Selway,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",5.864,5.101,5.641,Upper Selway,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",5.715,5.145,5.373,Upper Selway,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",5.772,4.989,5.49,Upper Selway,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",6.065,5.202,5.649,Upper Selway,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",5.879,5.329,5.72,Upper Selway,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",5.775,5.182,5.563,Upper Selway,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",5.787,5.121,5.586,Upper Selway,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",5.869,5.212,5.629,Upper Selway,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",5.68,5.14,5.436,Upper Selway,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",5.72,5.172,5.44,Upper Selway,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",5.712,5.15,5.493,Upper Selway,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",5.923,4.994,5.46,Upper Selway,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",5.766,5.248,5.608,Upper Selway,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",5.98,5.183,5.734,Upper Selway,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",5.965,5.433,5.57,Upper Selway,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",5.776,5.296,5.653,Upper Selway,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",5.617,5.085,5.375,Upper Selway,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",5.767,5.127,5.579,Upper Selway,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",5.828,5.243,5.62,Upper Selway,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",5.722,5.144,5.346,Upper Selway,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",5.782,5.09,5.598,Upper Selway,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",5.998,5.289,5.662,Upper Selway,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",5.894,5.156,5.53,Upper Selway,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",6.041,5.266,5.621,Upper Selway,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",5.821,5.163,5.577,Upper Selway,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",6.058,5.163,5.61,Upper Selway,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",5.593,4.981,5.409,Upper Selway,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",5.92,5.209,5.477,Upper Selway,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",5.739,5.044,5.503,Upper Selway,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",5.793,4.979,5.44,Upper Selway,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",5.798,4.839,5.513,Upper Selway,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",5.795,5.119,5.54,Upper Selway,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",5.675,5.191,5.445,Upper Selway,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",6.021,5.201,5.519,Upper Selway,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",5.91,5.259,5.579,Upper Selway,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",5.782,5.14,5.527,Upper Selway,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",5.731,5.229,5.5,Upper Selway,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",5.664,5.234,5.467,Upper Selway,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",5.705,5.249,5.496,Upper Selway,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",5.704,5.065,5.534,Upper Selway,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",5.949,5.032,5.661,Upper Selway,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",5.686,5.017,5.385,Upper Selway,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",5.976,4.958,5.63,Upper Selway,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",5.712,5.12,5.586,Upper Selway,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",5.876,5.077,5.534,Upper Selway,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",5.644,5.053,5.432,Upper Selway,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",5.688,5.149,5.629,Upper Selway,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",5.762,5.179,5.513,Upper Selway,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",5.61,5.076,5.477,Upper Selway,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",5.808,5.151,5.563,Upper Selway,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",5.72,5.226,5.494,Upper Selway,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",5.737,5.206,5.602,Upper Selway,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",5.701,5.274,5.535,Upper Selway,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",5.966,5.01,5.497,Upper Selway,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",5.786,5.095,5.523,Upper Selway,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",5.951,4.937,5.618,Upper Selway,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",5.93,5.116,5.809,Upper Selway,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",5.632,5.123,5.514,Upper Selway,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",5.92,5.082,5.682,Upper Selway,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",5.801,5.066,5.585,Upper Selway,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",5.732,5.322,5.595,Upper Selway,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",5.63,5.204,5.527,Upper Selway,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",5.583,5.159,5.337,Upper Selway,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",5.787,5.142,5.643,Upper Selway,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",5.97,5.064,5.472,Upper Selway,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",5.738,5.109,5.372,Upper Selway,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",5.724,5.114,5.441,Upper Selway,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",5.782,4.861,5.628,Upper Selway,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",5.665,5.094,5.439,Upper Selway,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",5.842,4.867,5.713,Upper Selway,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",5.891,5.145,5.609,Upper Selway,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",5.709,5.056,5.531,Upper Selway,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",5.781,5.108,5.331,Upper Selway,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",6.15,5.114,5.556,Upper Selway,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",5.823,5.182,5.561,Upper Selway,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",5.478,4.985,5.278,Upper Selway,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",5.73,5.128,5.44,Upper Selway,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",5.897,5.178,5.409,Upper Selway,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",5.777,5.221,5.458,Upper Selway,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",5.742,5.21,5.585,Upper Selway,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",5.752,5.152,5.479,Upper Selway,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",5.663,5.088,5.387,Upper Selway,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",5.781,5.205,5.479,Upper Selway,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",5.928,5.086,5.579,Upper Selway,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",5.747,5.204,5.526,Upper Selway,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",5.768,4.896,5.599,Upper Selway,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",5.706,5.182,5.534,Upper Selway,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",6.047,5.3,5.671,Upper Selway,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",5.673,4.99,5.446,Upper Selway,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",5.971,5.319,5.488,Upper Selway,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",5.783,5.201,5.612,Upper Selway,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",5.763,5.093,5.538,Upper Selway,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",5.635,5.048,5.376,Upper Selway,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",5.776,4.855,5.415,Upper Selway,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",5.846,5.159,5.55,Upper Selway,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",5.976,5.219,5.468,Upper Selway,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",5.822,5.074,5.463,Upper Selway,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",5.722,5.158,5.592,Upper Selway,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",5.793,4.85,5.5,Upper Selway,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",5.935,5.143,5.602,Upper Selway,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",5.737,5.127,5.428,Upper Selway,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",5.645,5.218,5.571,Upper Selway,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",5.756,5.317,5.6,Upper Selway,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",5.541,5.167,5.367,Upper Selway,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",5.748,5.141,5.489,Upper Selway,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",5.696,4.88,5.427,Upper Selway,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",5.901,5.301,5.634,Upper Selway,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",5.59,5.185,5.464,Upper Selway,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",5.616,5.024,5.173,Upper Selway,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",5.457,4.989,5.34,Upper Selway,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",5.754,5.107,5.474,Upper Selway,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",5.841,4.994,5.602,Upper Selway,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",5.575,5.006,5.494,Upper Selway,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",5.551,5.077,5.321,Upper Selway,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",5.745,5.083,5.504,Upper Selway,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",5.808,5.17,5.502,Upper Selway,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",5.767,4.841,5.462,Upper Selway,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",5.806,5.083,5.561,Upper Selway,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",5.727,5.143,5.662,Upper Selway,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",5.728,4.924,5.419,Upper Selway,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",5.629,4.916,5.526,Upper Selway,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",5.665,5.042,5.423,Upper Selway,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",5.648,5.153,5.593,Upper Selway,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",5.753,4.803,5.512,Upper Selway,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",5.63,5.038,5.374,Upper Selway,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",5.731,5.023,5.399,Upper Selway,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",5.817,5.213,5.439,Upper Selway,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",5.666,5.022,5.556,Upper Selway,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",5.661,5.095,5.448,Upper Selway,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",5.809,5.035,5.406,Upper Selway,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",5.873,5.238,5.453,Upper Selway,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",5.803,4.952,5.652,Upper Selway,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",5.634,5.121,5.413,Upper Selway,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",5.806,4.984,5.409,Upper Selway,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",5.797,5.156,5.561,Upper Selway,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",5.752,5.026,5.518,Upper Selway,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",5.721,4.978,5.422,Upper Selway,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",5.868,4.927,5.356,Upper Selway,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",5.814,4.982,5.425,Upper Selway,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",5.641,5.187,5.535,Upper Selway,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",5.677,4.977,5.215,Upper Selway,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",5.796,5.15,5.484,Upper Selway,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",6.086,5.081,5.508,Upper Selway,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",5.663,5.019,5.353,Upper Selway,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",5.681,5.063,5.428,Upper Selway,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",5.634,5.073,5.409,Upper Selway,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",5.597,5.131,5.472,Upper Selway,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",5.651,5.244,5.554,Upper Selway,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",5.932,4.788,5.514,Upper Selway,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",5.749,5.119,5.625,Upper Selway,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",5.563,5.268,5.342,Upper Selway,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",5.868,5.217,5.609,Upper Selway,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",5.682,4.983,5.453,Upper Selway,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",5.628,4.788,5.344,Upper Selway,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",5.952,5.186,5.594,Upper Selway,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",5.738,5.069,5.552,Upper Selway,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",5.814,5.192,5.536,Upper Selway,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",5.711,4.927,5.537,Upper Selway,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",5.703,5.135,5.556,Upper Selway,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",5.684,5.276,5.574,Upper Selway,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",5.757,4.785,5.115,Upper Selway,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",5.596,4.942,5.317,Upper Selway,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",5.72,5.184,5.537,Upper Selway,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",5.602,4.839,5.479,Upper Selway,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",5.834,5.13,5.439,Upper Selway,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",5.487,5.096,5.363,Upper Selway,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",5.804,5.13,5.58,Upper Selway,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",5.702,5.176,5.545,Upper Selway,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",5.759,4.961,5.445,Upper Selway,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",5.728,5.067,5.435,Upper Selway,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",5.747,5.051,5.466,Upper Selway,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",5.749,5.018,5.348,Upper Selway,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",5.658,5.028,5.397,Upper Selway,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",5.546,5.009,5.395,Upper Selway,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",5.772,5.178,5.623,Upper Selway,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",5.76,4.904,5.514,Upper Selway,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",5.596,5.045,5.297,Upper Selway,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",5.494,5.023,5.364,Upper Selway,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",5.688,5.017,5.513,Upper Selway,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",5.759,5.135,5.495,Upper Selway,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",5.568,4.829,5.267,Upper Selway,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",5.679,4.85,5.35,Upper Selway,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",5.588,5.149,5.466,Upper Selway,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",5.956,5.215,5.695,Upper Selway,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",5.744,5.147,5.46,Upper Selway,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",5.719,4.934,5.491,Upper Selway,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",5.993,5.18,5.593,Upper Selway,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",5.68,4.982,5.55,Upper Selway,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",5.732,5.137,5.504,Upper Selway,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",5.802,4.989,5.601,Upper Selway,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",5.644,5.063,5.549,Upper Selway,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",5.561,5.013,5.413,Upper Selway,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",5.711,4.8,5.311,Upper Selway,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",5.686,5.031,5.55,Upper Selway,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",5.795,5.231,5.474,Upper Selway,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",5.878,5.335,5.701,Upper Selway,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",5.661,4.835,5.417,Upper Selway,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",5.861,4.866,5.43,Upper Selway,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",5.858,5.237,5.718,Upper Selway,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",5.647,5.07,5.514,Upper Selway,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",5.518,4.802,5.503,Upper Selway,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",5.66,5.008,5.403,Upper Selway,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",5.754,5.239,5.576,Upper Selway,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",5.819,4.941,5.599,Upper Selway,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",5.498,5.138,5.262,Upper Selway,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",5.568,4.807,5.206,Upper Selway,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",5.701,5.18,5.518,Upper Selway,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",5.737,5.053,5.545,Upper Selway,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",5.521,5.053,5.446,Upper Selway,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",5.613,5.033,5.321,Upper Selway,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",5.85,5.155,5.468,Upper Selway,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",5.596,5.087,5.383,Upper Selway,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",5.64,4.918,5.35,Upper Selway,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",5.577,5.032,5.429,Upper Selway,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",5.715,5.125,5.471,Upper Selway,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",5.863,4.838,5.586,Upper Selway,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",5.471,5.014,5.381,Upper Selway,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",5.528,4.956,5.324,Upper Selway,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",5.906,5.11,5.624,Upper Selway,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",5.894,5.145,5.536,Upper Selway,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",5.568,5.075,5.396,Upper Selway,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",5.622,4.922,5.399,Upper Selway,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",5.856,5.092,5.461,Upper Selway,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",5.792,5.034,5.55,Upper Selway,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",5.744,4.796,5.325,Upper Selway,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",5.77,4.939,5.434,Upper Selway,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",5.537,5.04,5.412,Upper Selway,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",5.644,5.113,5.443,Upper Selway,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",5.48,4.863,5.266,Upper Selway,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",5.655,4.733,5.253,Upper Selway,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",5.977,5.045,5.42,Upper Selway,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",5.601,5.079,5.466,Upper Selway,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",5.775,4.915,5.496,Upper Selway,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",5.584,4.953,5.39,Upper Selway,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",5.854,5.113,5.416,Upper Selway,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",5.749,5.059,5.406,Upper Selway,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",5.44,5.059,5.291,Upper Selway,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",5.428,5,5.334,Upper Selway,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",5.745,5.269,5.593,Upper Selway,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",5.797,4.936,5.418,Upper Selway,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",5.745,4.971,5.269,Upper Selway,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",5.705,4.991,5.385,Upper Selway,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",5.639,5.114,5.495,Upper Selway,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",5.656,4.853,5.422,Upper Selway,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",6.042,5.121,5.316,Upper Selway,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",5.439,4.731,5.301,Upper Selway,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",5.722,5.106,5.528,Upper Selway,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",5.768,5.154,5.628,Upper Selway,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",5.716,4.926,5.271,Upper Selway,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",5.583,4.989,5.351,Upper Selway,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",5.747,5.198,5.422,Upper Selway,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",5.617,5.043,5.443,Upper Selway,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",5.765,5.061,5.375,Upper Selway,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",5.679,4.999,5.396,Upper Selway,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",5.902,5.198,5.687,Upper Selway,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",5.553,5.167,5.392,Upper Selway,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",5.649,4.773,5.155,Upper Selway,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",5.507,4.818,5.408,Upper Selway,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",5.915,5.242,5.635,Upper Selway,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",5.783,5.276,5.56,Upper Selway,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",5.521,4.748,5.332,Upper Selway,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",5.649,4.768,5.23,Upper Selway,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",5.766,5.127,5.5,Upper Selway,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",5.722,5.004,5.462,Upper Selway,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",5.661,4.855,5.338,Upper Selway,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",5.589,4.92,5.378,Upper Selway,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",5.858,5.096,5.572,Upper Selway,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",5.806,4.852,5.611,Upper Selway,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",5.575,5.024,5.316,Upper Selway,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",5.61,4.947,5.358,Upper Selway,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",5.831,5.118,5.605,Upper Selway,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",5.583,5.13,5.483,Upper Selway,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",5.601,4.829,5.34,Upper Selway,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",5.649,5.159,5.46,Upper Selway,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",5.716,5.22,5.442,Upper Selway,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",5.843,5.183,5.66,Upper Selway,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",5.67,5.084,5.415,Upper Selway,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",5.622,4.64,5.14,Upper Selway,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",5.66,5.106,5.411,Upper Selway,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",5.818,4.906,5.511,Upper Selway,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",5.581,5.019,5.282,Upper Selway,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",5.52,4.631,5.32,Upper Selway,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",5.923,5.023,5.6,Upper Selway,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",5.694,4.923,5.49,Upper Selway,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",5.413,4.925,5.241,Upper Selway,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",5.765,4.992,5.237,Upper Selway,sfcWind

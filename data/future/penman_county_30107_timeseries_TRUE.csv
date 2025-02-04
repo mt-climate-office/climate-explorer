@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,40.792,37.278,38.597,Wheatland County,penman
+1951,Historical Emissions,40.807,37.029,39.423,Wheatland County,penman
+1952,Historical Emissions,41.336,36.536,38.614,Wheatland County,penman
+1953,Historical Emissions,40.473,35.545,38.365,Wheatland County,penman
+1954,Historical Emissions,40.389,34.974,37.225,Wheatland County,penman
+1955,Historical Emissions,42.162,35.133,37.043,Wheatland County,penman
+1956,Historical Emissions,43.073,35.555,40.047,Wheatland County,penman
+1957,Historical Emissions,42.575,34.485,36.881,Wheatland County,penman
+1958,Historical Emissions,38.614,34.802,37.144,Wheatland County,penman
+1959,Historical Emissions,39.283,34.456,36.798,Wheatland County,penman
+1960,Historical Emissions,39.864,35.842,36.847,Wheatland County,penman
+1961,Historical Emissions,39.93,36.521,37.593,Wheatland County,penman
+1962,Historical Emissions,40.441,33.633,37.871,Wheatland County,penman
+1963,Historical Emissions,38.498,34.468,36.159,Wheatland County,penman
+1964,Historical Emissions,39.432,34.347,37.598,Wheatland County,penman
+1965,Historical Emissions,40.376,34.778,38.333,Wheatland County,penman
+1966,Historical Emissions,41.117,34.696,36.431,Wheatland County,penman
+1967,Historical Emissions,40.342,35.063,37.005,Wheatland County,penman
+1968,Historical Emissions,37.405,34.516,36.847,Wheatland County,penman
+1969,Historical Emissions,39.375,35.46,37.701,Wheatland County,penman
+1970,Historical Emissions,39.28,35.722,37.614,Wheatland County,penman
+1971,Historical Emissions,42.277,36.41,38.344,Wheatland County,penman
+1972,Historical Emissions,39.502,35.614,37.669,Wheatland County,penman
+1973,Historical Emissions,41.413,34.072,36.214,Wheatland County,penman
+1974,Historical Emissions,39.59,35.384,37.123,Wheatland County,penman
+1975,Historical Emissions,39.355,35.414,38.364,Wheatland County,penman
+1976,Historical Emissions,38.883,35.675,37.648,Wheatland County,penman
+1977,Historical Emissions,41.489,35.773,37.01,Wheatland County,penman
+1978,Historical Emissions,38.656,35.07,37.379,Wheatland County,penman
+1979,Historical Emissions,40.726,35.437,38.233,Wheatland County,penman
+1980,Historical Emissions,41.036,33.823,39.051,Wheatland County,penman
+1981,Historical Emissions,40.361,36.481,38.034,Wheatland County,penman
+1982,Historical Emissions,39.672,36.406,38.273,Wheatland County,penman
+1983,Historical Emissions,38.737,34.89,38.045,Wheatland County,penman
+1984,Historical Emissions,40.473,35.385,38.329,Wheatland County,penman
+1985,Historical Emissions,41.611,36.309,38.602,Wheatland County,penman
+1986,Historical Emissions,37.48,33.806,36.972,Wheatland County,penman
+1987,Historical Emissions,39.926,34.384,37.159,Wheatland County,penman
+1988,Historical Emissions,39.139,35.459,36.618,Wheatland County,penman
+1989,Historical Emissions,40.758,35.72,38.36,Wheatland County,penman
+1990,Historical Emissions,41.377,36.344,38.497,Wheatland County,penman
+1991,Historical Emissions,41.156,34.855,38.069,Wheatland County,penman
+1992,Historical Emissions,40.049,35.87,36.265,Wheatland County,penman
+1993,Historical Emissions,39.514,35.638,36.597,Wheatland County,penman
+1994,Historical Emissions,42.011,35.625,37.495,Wheatland County,penman
+1995,Historical Emissions,42.713,36.139,38.327,Wheatland County,penman
+1996,Historical Emissions,44.603,38.742,40.742,Wheatland County,penman
+1997,Historical Emissions,39.884,36.347,38.398,Wheatland County,penman
+1998,Historical Emissions,41.488,35.785,38.03,Wheatland County,penman
+1999,Historical Emissions,39.912,35.495,38.813,Wheatland County,penman
+2000,Historical Emissions,40.713,36.681,39.227,Wheatland County,penman
+2001,Historical Emissions,40.102,35.965,38.876,Wheatland County,penman
+2002,Historical Emissions,41.975,37.265,38.405,Wheatland County,penman
+2003,Historical Emissions,42.379,37.437,40.169,Wheatland County,penman
+2004,Historical Emissions,43.838,38.137,39.699,Wheatland County,penman
+2005,Historical Emissions,44.004,38.289,40.904,Wheatland County,penman
+2006,Historical Emissions,41.213,35.944,39.008,Wheatland County,penman
+2007,Historical Emissions,40.7,37.4,38.996,Wheatland County,penman
+2008,Historical Emissions,42.196,37.557,39.455,Wheatland County,penman
+2009,Historical Emissions,40.578,36.436,38.419,Wheatland County,penman
+2010,Historical Emissions,41.365,37.449,39.907,Wheatland County,penman
+2011,Historical Emissions,41.964,37.021,39.232,Wheatland County,penman
+2012,Historical Emissions,41.697,38.729,40.256,Wheatland County,penman
+2013,Historical Emissions,42.979,38.327,40.388,Wheatland County,penman
+2014,Historical Emissions,42.944,38.921,40.666,Wheatland County,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",42.857,37.851,41.606,Wheatland County,penman
+2015,"Middle of the Road
+(SSP2-4.5)",43.398,37.984,40.198,Wheatland County,penman
+2015,"High Emissions
+(SSP3-7.0)",41.411,38.382,40.436,Wheatland County,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",43.566,37.255,40.254,Wheatland County,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",41.039,39.054,40.226,Wheatland County,penman
+2016,"Middle of the Road
+(SSP2-4.5)",41.678,37.288,38.965,Wheatland County,penman
+2016,"High Emissions
+(SSP3-7.0)",44.066,38.219,39.658,Wheatland County,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",42.881,37.154,38.813,Wheatland County,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",41.678,37.791,39.154,Wheatland County,penman
+2017,"Middle of the Road
+(SSP2-4.5)",43.064,37.716,39.277,Wheatland County,penman
+2017,"High Emissions
+(SSP3-7.0)",41.53,38.983,40.118,Wheatland County,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",42.867,37.594,40.764,Wheatland County,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",41,36.835,39.559,Wheatland County,penman
+2018,"Middle of the Road
+(SSP2-4.5)",42.461,37.97,39.978,Wheatland County,penman
+2018,"High Emissions
+(SSP3-7.0)",39.88,35.578,39.221,Wheatland County,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",42.067,35.992,39.108,Wheatland County,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",42.705,39.664,41.106,Wheatland County,penman
+2019,"Middle of the Road
+(SSP2-4.5)",42.971,37.563,40.263,Wheatland County,penman
+2019,"High Emissions
+(SSP3-7.0)",42.279,36.86,40.009,Wheatland County,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",46.051,38.096,40.392,Wheatland County,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",45.531,36.679,39.187,Wheatland County,penman
+2020,"Middle of the Road
+(SSP2-4.5)",44.209,36.983,41.556,Wheatland County,penman
+2020,"High Emissions
+(SSP3-7.0)",43,36.996,38.152,Wheatland County,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",42.049,36.978,39.592,Wheatland County,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",43.523,37.629,39.833,Wheatland County,penman
+2021,"Middle of the Road
+(SSP2-4.5)",46.026,37.358,41.087,Wheatland County,penman
+2021,"High Emissions
+(SSP3-7.0)",43.403,37.712,40.732,Wheatland County,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",43.39,37.675,39.351,Wheatland County,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",42.417,38.207,40.714,Wheatland County,penman
+2022,"Middle of the Road
+(SSP2-4.5)",43.608,36.904,41.222,Wheatland County,penman
+2022,"High Emissions
+(SSP3-7.0)",40.832,36.938,38.756,Wheatland County,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",45.083,37.936,40.705,Wheatland County,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",42.8,38.18,39.282,Wheatland County,penman
+2023,"Middle of the Road
+(SSP2-4.5)",44.529,37.415,40.777,Wheatland County,penman
+2023,"High Emissions
+(SSP3-7.0)",42.892,37.977,40.602,Wheatland County,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",40.663,36.009,37.758,Wheatland County,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",43.389,37.646,40.535,Wheatland County,penman
+2024,"Middle of the Road
+(SSP2-4.5)",42.486,37.879,40.145,Wheatland County,penman
+2024,"High Emissions
+(SSP3-7.0)",44.328,38.997,40.93,Wheatland County,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",42.836,37.635,39.624,Wheatland County,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",43.054,39.167,40.26,Wheatland County,penman
+2025,"Middle of the Road
+(SSP2-4.5)",42.23,37.14,39.642,Wheatland County,penman
+2025,"High Emissions
+(SSP3-7.0)",45.335,39.717,41.214,Wheatland County,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",43.31,37.445,41.767,Wheatland County,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",43.574,37.144,40.235,Wheatland County,penman
+2026,"Middle of the Road
+(SSP2-4.5)",43.621,39.011,40.943,Wheatland County,penman
+2026,"High Emissions
+(SSP3-7.0)",40.22,36.557,38.111,Wheatland County,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",43.737,37.478,39.225,Wheatland County,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",44.104,37.762,38.873,Wheatland County,penman
+2027,"Middle of the Road
+(SSP2-4.5)",45.051,38.216,40.661,Wheatland County,penman
+2027,"High Emissions
+(SSP3-7.0)",43.754,38.623,39.919,Wheatland County,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",44.065,39.115,41.542,Wheatland County,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",43.553,38.223,39.511,Wheatland County,penman
+2028,"Middle of the Road
+(SSP2-4.5)",40.345,38.157,39.052,Wheatland County,penman
+2028,"High Emissions
+(SSP3-7.0)",41.459,40.082,40.813,Wheatland County,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",43.657,38.316,39.895,Wheatland County,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",44.617,40.11,41.886,Wheatland County,penman
+2029,"Middle of the Road
+(SSP2-4.5)",42.275,37.302,39.276,Wheatland County,penman
+2029,"High Emissions
+(SSP3-7.0)",43.743,37.382,39.643,Wheatland County,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",42.983,39.141,40.929,Wheatland County,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",42.653,38.693,40.599,Wheatland County,penman
+2030,"Middle of the Road
+(SSP2-4.5)",45.456,38.855,43.072,Wheatland County,penman
+2030,"High Emissions
+(SSP3-7.0)",43.92,37.945,40.952,Wheatland County,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",45.369,38.368,41.347,Wheatland County,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",42.871,38.909,41.407,Wheatland County,penman
+2031,"Middle of the Road
+(SSP2-4.5)",43.616,38.67,40.996,Wheatland County,penman
+2031,"High Emissions
+(SSP3-7.0)",46.528,38.565,42.419,Wheatland County,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",45.094,38.982,43.046,Wheatland County,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",42.428,38.063,39.488,Wheatland County,penman
+2032,"Middle of the Road
+(SSP2-4.5)",43.807,37.621,39.5,Wheatland County,penman
+2032,"High Emissions
+(SSP3-7.0)",46.53,38.715,41.807,Wheatland County,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",45.627,37.043,40.227,Wheatland County,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",43.755,39.604,40.264,Wheatland County,penman
+2033,"Middle of the Road
+(SSP2-4.5)",45.617,36.938,42.183,Wheatland County,penman
+2033,"High Emissions
+(SSP3-7.0)",42.983,36.649,39.706,Wheatland County,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",44.691,39.387,41.996,Wheatland County,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",46.724,38.086,40.603,Wheatland County,penman
+2034,"Middle of the Road
+(SSP2-4.5)",42.784,38.67,39.953,Wheatland County,penman
+2034,"High Emissions
+(SSP3-7.0)",46.027,38.253,41.965,Wheatland County,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",45.017,36.741,41.283,Wheatland County,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",47.26,39.437,41.301,Wheatland County,penman
+2035,"Middle of the Road
+(SSP2-4.5)",44.993,38.768,40.371,Wheatland County,penman
+2035,"High Emissions
+(SSP3-7.0)",43.313,37.019,41.591,Wheatland County,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",44.025,39.157,41.69,Wheatland County,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",43.757,39.02,41.478,Wheatland County,penman
+2036,"Middle of the Road
+(SSP2-4.5)",43.853,38.828,42.168,Wheatland County,penman
+2036,"High Emissions
+(SSP3-7.0)",43.531,38.362,39.565,Wheatland County,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",42.89,35.796,41.199,Wheatland County,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",43.852,38.398,41.519,Wheatland County,penman
+2037,"Middle of the Road
+(SSP2-4.5)",44.04,38.873,40.645,Wheatland County,penman
+2037,"High Emissions
+(SSP3-7.0)",43.705,37.195,38.039,Wheatland County,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",45.231,38.223,41.019,Wheatland County,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",42.39,39.706,40.874,Wheatland County,penman
+2038,"Middle of the Road
+(SSP2-4.5)",42.567,38.137,40.68,Wheatland County,penman
+2038,"High Emissions
+(SSP3-7.0)",44.845,39.404,41.466,Wheatland County,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",44.329,38.33,40.541,Wheatland County,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",45.27,37.484,41.566,Wheatland County,penman
+2039,"Middle of the Road
+(SSP2-4.5)",44.405,38.928,40.089,Wheatland County,penman
+2039,"High Emissions
+(SSP3-7.0)",44.36,39.954,42.432,Wheatland County,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",44.661,37.175,40.663,Wheatland County,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",44.783,38.54,41.375,Wheatland County,penman
+2040,"Middle of the Road
+(SSP2-4.5)",44.622,40.648,42.34,Wheatland County,penman
+2040,"High Emissions
+(SSP3-7.0)",44.43,39.402,41.113,Wheatland County,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",46.096,38.589,43.051,Wheatland County,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",45.107,37.989,39.46,Wheatland County,penman
+2041,"Middle of the Road
+(SSP2-4.5)",45.645,39.014,40.553,Wheatland County,penman
+2041,"High Emissions
+(SSP3-7.0)",42.824,37.992,40.359,Wheatland County,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",42.617,37.926,41.02,Wheatland County,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",47.038,36.928,40.609,Wheatland County,penman
+2042,"Middle of the Road
+(SSP2-4.5)",43.687,37.474,41.303,Wheatland County,penman
+2042,"High Emissions
+(SSP3-7.0)",43.005,39.236,40.46,Wheatland County,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",46.915,39.588,41.95,Wheatland County,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",43.052,37.892,39.902,Wheatland County,penman
+2043,"Middle of the Road
+(SSP2-4.5)",44.93,36.984,41.471,Wheatland County,penman
+2043,"High Emissions
+(SSP3-7.0)",43.578,37.431,40.684,Wheatland County,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",46.611,37.987,40.849,Wheatland County,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",44.002,38.029,41.797,Wheatland County,penman
+2044,"Middle of the Road
+(SSP2-4.5)",46.8,38.961,41.124,Wheatland County,penman
+2044,"High Emissions
+(SSP3-7.0)",44.299,39.48,41.381,Wheatland County,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",45.456,39.463,43.049,Wheatland County,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",43.031,38.115,40.542,Wheatland County,penman
+2045,"Middle of the Road
+(SSP2-4.5)",46.594,39.685,43.03,Wheatland County,penman
+2045,"High Emissions
+(SSP3-7.0)",45.807,37.638,42.144,Wheatland County,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",43.608,40.122,40.597,Wheatland County,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",44.789,39.611,42.089,Wheatland County,penman
+2046,"Middle of the Road
+(SSP2-4.5)",43.385,38.244,41.299,Wheatland County,penman
+2046,"High Emissions
+(SSP3-7.0)",43.279,39.671,41.709,Wheatland County,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",45.75,36.946,41.49,Wheatland County,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",44.546,40.081,41.619,Wheatland County,penman
+2047,"Middle of the Road
+(SSP2-4.5)",44.02,37.428,40.357,Wheatland County,penman
+2047,"High Emissions
+(SSP3-7.0)",43.054,39.392,42.06,Wheatland County,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",48.329,39.836,41.785,Wheatland County,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",42.833,38.854,40.75,Wheatland County,penman
+2048,"Middle of the Road
+(SSP2-4.5)",44.644,38.455,41.331,Wheatland County,penman
+2048,"High Emissions
+(SSP3-7.0)",45.065,38.876,40.599,Wheatland County,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",50.971,38.194,45.254,Wheatland County,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",44.464,38.989,42.009,Wheatland County,penman
+2049,"Middle of the Road
+(SSP2-4.5)",44.75,37.71,42.766,Wheatland County,penman
+2049,"High Emissions
+(SSP3-7.0)",42.65,40.327,40.99,Wheatland County,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",45.88,38.287,41.683,Wheatland County,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",45.722,37.585,41.346,Wheatland County,penman
+2050,"Middle of the Road
+(SSP2-4.5)",45.22,39.16,43.426,Wheatland County,penman
+2050,"High Emissions
+(SSP3-7.0)",45.096,39.984,42.393,Wheatland County,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",46.457,39.581,42.537,Wheatland County,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",44.34,40.071,41.846,Wheatland County,penman
+2051,"Middle of the Road
+(SSP2-4.5)",45.916,39.24,43.455,Wheatland County,penman
+2051,"High Emissions
+(SSP3-7.0)",43.002,40.18,41.857,Wheatland County,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",46.186,40.612,42.36,Wheatland County,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",44.173,39.652,41.301,Wheatland County,penman
+2052,"Middle of the Road
+(SSP2-4.5)",44.549,38.846,41.131,Wheatland County,penman
+2052,"High Emissions
+(SSP3-7.0)",41.613,37.715,40.073,Wheatland County,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",44.396,41.046,41.913,Wheatland County,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",46.242,36.945,40.476,Wheatland County,penman
+2053,"Middle of the Road
+(SSP2-4.5)",45.77,37.653,42.18,Wheatland County,penman
+2053,"High Emissions
+(SSP3-7.0)",46.415,41.028,43.431,Wheatland County,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",47.358,39.226,44.558,Wheatland County,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",44.779,39.499,41.693,Wheatland County,penman
+2054,"Middle of the Road
+(SSP2-4.5)",45.392,37.645,41.181,Wheatland County,penman
+2054,"High Emissions
+(SSP3-7.0)",46.186,39.363,41.472,Wheatland County,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",46.205,40.975,43.469,Wheatland County,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",46.037,40.808,43,Wheatland County,penman
+2055,"Middle of the Road
+(SSP2-4.5)",45.86,37.846,42.337,Wheatland County,penman
+2055,"High Emissions
+(SSP3-7.0)",46.497,40.558,42.39,Wheatland County,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",46.736,39.888,42.561,Wheatland County,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",44.182,40.247,42.57,Wheatland County,penman
+2056,"Middle of the Road
+(SSP2-4.5)",43.886,40.265,42.257,Wheatland County,penman
+2056,"High Emissions
+(SSP3-7.0)",44.347,38.976,40.941,Wheatland County,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",44.337,41.77,42.771,Wheatland County,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",43.308,38.383,41.023,Wheatland County,penman
+2057,"Middle of the Road
+(SSP2-4.5)",46.204,41.249,43.623,Wheatland County,penman
+2057,"High Emissions
+(SSP3-7.0)",43.642,38.7,41.824,Wheatland County,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",45.19,39.295,41.535,Wheatland County,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",43.319,37.93,41.248,Wheatland County,penman
+2058,"Middle of the Road
+(SSP2-4.5)",46.754,40.204,44.905,Wheatland County,penman
+2058,"High Emissions
+(SSP3-7.0)",44.122,39.094,40.981,Wheatland County,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",45.42,38.986,41.878,Wheatland County,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",44.721,38.493,42.962,Wheatland County,penman
+2059,"Middle of the Road
+(SSP2-4.5)",50.29,39.311,42.117,Wheatland County,penman
+2059,"High Emissions
+(SSP3-7.0)",46.341,40.959,43.165,Wheatland County,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",46.576,42.918,43.877,Wheatland County,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",43.42,39.137,41.083,Wheatland County,penman
+2060,"Middle of the Road
+(SSP2-4.5)",48.493,39.383,41.683,Wheatland County,penman
+2060,"High Emissions
+(SSP3-7.0)",44.544,38.328,42.538,Wheatland County,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",45.629,40.102,42.095,Wheatland County,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",43.634,38.283,41.285,Wheatland County,penman
+2061,"Middle of the Road
+(SSP2-4.5)",44.677,39.406,43.099,Wheatland County,penman
+2061,"High Emissions
+(SSP3-7.0)",45.09,39.851,41.874,Wheatland County,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",47.554,42.204,44.948,Wheatland County,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",46.104,37.33,41.413,Wheatland County,penman
+2062,"Middle of the Road
+(SSP2-4.5)",44.741,40.292,41.601,Wheatland County,penman
+2062,"High Emissions
+(SSP3-7.0)",44.725,40.354,42.016,Wheatland County,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",47.133,40.359,43.636,Wheatland County,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",45.078,40.126,41.902,Wheatland County,penman
+2063,"Middle of the Road
+(SSP2-4.5)",44.448,38.323,40.914,Wheatland County,penman
+2063,"High Emissions
+(SSP3-7.0)",45.943,40.998,43.372,Wheatland County,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",48.364,40.467,44.415,Wheatland County,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",47.974,36.988,42.125,Wheatland County,penman
+2064,"Middle of the Road
+(SSP2-4.5)",44.87,38.587,42.66,Wheatland County,penman
+2064,"High Emissions
+(SSP3-7.0)",46.193,39.713,40.939,Wheatland County,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",46.018,41.665,45.174,Wheatland County,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",44.759,36.794,40.751,Wheatland County,penman
+2065,"Middle of the Road
+(SSP2-4.5)",44.375,39.676,42.648,Wheatland County,penman
+2065,"High Emissions
+(SSP3-7.0)",45.434,41.664,43.957,Wheatland County,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",48.78,42.241,44.114,Wheatland County,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",45.273,38.415,40.309,Wheatland County,penman
+2066,"Middle of the Road
+(SSP2-4.5)",45.354,39.541,42.775,Wheatland County,penman
+2066,"High Emissions
+(SSP3-7.0)",46.276,41.194,42.228,Wheatland County,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",49.187,40.35,44.998,Wheatland County,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",44.894,40.002,41.821,Wheatland County,penman
+2067,"Middle of the Road
+(SSP2-4.5)",44.82,39.004,42.748,Wheatland County,penman
+2067,"High Emissions
+(SSP3-7.0)",52.936,40.546,43.642,Wheatland County,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",48.936,40.443,44.282,Wheatland County,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",43.899,39.869,41.708,Wheatland County,penman
+2068,"Middle of the Road
+(SSP2-4.5)",45.384,37.93,41.624,Wheatland County,penman
+2068,"High Emissions
+(SSP3-7.0)",46.873,40.849,42.985,Wheatland County,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",49.819,40.276,43.124,Wheatland County,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",45.886,39.503,42.233,Wheatland County,penman
+2069,"Middle of the Road
+(SSP2-4.5)",46.162,38.906,42.497,Wheatland County,penman
+2069,"High Emissions
+(SSP3-7.0)",50.214,42.648,46.307,Wheatland County,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",53.039,39.741,45.753,Wheatland County,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",43.621,37.835,42.057,Wheatland County,penman
+2070,"Middle of the Road
+(SSP2-4.5)",45.296,39.908,40.763,Wheatland County,penman
+2070,"High Emissions
+(SSP3-7.0)",47.812,42.359,43.675,Wheatland County,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",48.194,41.725,44.389,Wheatland County,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",48.574,38.231,42.366,Wheatland County,penman
+2071,"Middle of the Road
+(SSP2-4.5)",45.138,41.288,43.215,Wheatland County,penman
+2071,"High Emissions
+(SSP3-7.0)",47.991,40.142,45.269,Wheatland County,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",48.569,42.767,45.964,Wheatland County,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",46.529,40.75,42.243,Wheatland County,penman
+2072,"Middle of the Road
+(SSP2-4.5)",44.473,38.999,41.517,Wheatland County,penman
+2072,"High Emissions
+(SSP3-7.0)",47.837,39.458,42.591,Wheatland County,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",47.273,41.518,45.439,Wheatland County,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",44.391,39.65,41.576,Wheatland County,penman
+2073,"Middle of the Road
+(SSP2-4.5)",46.894,37.189,41.139,Wheatland County,penman
+2073,"High Emissions
+(SSP3-7.0)",46.57,42.426,44.392,Wheatland County,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",48.786,41.796,43.35,Wheatland County,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",46.287,37.998,40.713,Wheatland County,penman
+2074,"Middle of the Road
+(SSP2-4.5)",46.727,38.989,42.501,Wheatland County,penman
+2074,"High Emissions
+(SSP3-7.0)",45.5,41.118,42.032,Wheatland County,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",52.32,42.226,43.262,Wheatland County,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",46.12,37.524,41.34,Wheatland County,penman
+2075,"Middle of the Road
+(SSP2-4.5)",48.084,40.642,41.386,Wheatland County,penman
+2075,"High Emissions
+(SSP3-7.0)",48.164,39.442,43.774,Wheatland County,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",50.15,42.682,43.862,Wheatland County,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",43.063,37.891,41.456,Wheatland County,penman
+2076,"Middle of the Road
+(SSP2-4.5)",42.346,39.617,40.934,Wheatland County,penman
+2076,"High Emissions
+(SSP3-7.0)",48.9,41.225,44.221,Wheatland County,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",52.243,40.871,47.339,Wheatland County,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",45.282,38.627,42.741,Wheatland County,penman
+2077,"Middle of the Road
+(SSP2-4.5)",45.274,39.902,43.481,Wheatland County,penman
+2077,"High Emissions
+(SSP3-7.0)",47.246,40.557,42.994,Wheatland County,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",52.38,44.004,46.936,Wheatland County,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",45.754,39.832,42.847,Wheatland County,penman
+2078,"Middle of the Road
+(SSP2-4.5)",45.78,40.845,43.422,Wheatland County,penman
+2078,"High Emissions
+(SSP3-7.0)",49.038,39.688,44.911,Wheatland County,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",47.508,40.446,43.546,Wheatland County,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",45.106,40.517,42.207,Wheatland County,penman
+2079,"Middle of the Road
+(SSP2-4.5)",46.257,40.298,42.034,Wheatland County,penman
+2079,"High Emissions
+(SSP3-7.0)",48.735,39.593,41.899,Wheatland County,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",51.999,42.419,46.075,Wheatland County,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",43.414,38.218,39.776,Wheatland County,penman
+2080,"Middle of the Road
+(SSP2-4.5)",47.535,38.203,42.538,Wheatland County,penman
+2080,"High Emissions
+(SSP3-7.0)",47.323,41.111,44.841,Wheatland County,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",50.448,41.958,46.816,Wheatland County,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",45.929,38.574,41.669,Wheatland County,penman
+2081,"Middle of the Road
+(SSP2-4.5)",44.63,41.188,42.828,Wheatland County,penman
+2081,"High Emissions
+(SSP3-7.0)",51.441,39.351,43.047,Wheatland County,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",50.708,44.386,46.248,Wheatland County,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",45.262,39.598,42.916,Wheatland County,penman
+2082,"Middle of the Road
+(SSP2-4.5)",47.644,39.768,40.786,Wheatland County,penman
+2082,"High Emissions
+(SSP3-7.0)",49.583,39.91,43.575,Wheatland County,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",50.603,44.938,46.326,Wheatland County,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",47.665,39.469,44.318,Wheatland County,penman
+2083,"Middle of the Road
+(SSP2-4.5)",46.779,40.099,44.063,Wheatland County,penman
+2083,"High Emissions
+(SSP3-7.0)",48.277,39.861,44.627,Wheatland County,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",51.366,42.016,46.913,Wheatland County,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",46.848,38.031,41.698,Wheatland County,penman
+2084,"Middle of the Road
+(SSP2-4.5)",48.881,41.34,44.316,Wheatland County,penman
+2084,"High Emissions
+(SSP3-7.0)",52.205,42.696,47.006,Wheatland County,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",52.758,41.698,47.028,Wheatland County,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",46.285,37.7,40.935,Wheatland County,penman
+2085,"Middle of the Road
+(SSP2-4.5)",44.767,37.799,43.719,Wheatland County,penman
+2085,"High Emissions
+(SSP3-7.0)",47.662,41.712,42.808,Wheatland County,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",49.101,42.004,47.616,Wheatland County,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",45.06,40.12,41.655,Wheatland County,penman
+2086,"Middle of the Road
+(SSP2-4.5)",46.168,39.341,42.31,Wheatland County,penman
+2086,"High Emissions
+(SSP3-7.0)",50.106,41.418,44.502,Wheatland County,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",50.128,42.658,47.233,Wheatland County,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",44.284,38.063,41.348,Wheatland County,penman
+2087,"Middle of the Road
+(SSP2-4.5)",45.429,41.039,43.648,Wheatland County,penman
+2087,"High Emissions
+(SSP3-7.0)",52.805,40.716,44.557,Wheatland County,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",51.653,41.854,45.419,Wheatland County,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",45.888,38.095,41.239,Wheatland County,penman
+2088,"Middle of the Road
+(SSP2-4.5)",48.272,40.676,46.016,Wheatland County,penman
+2088,"High Emissions
+(SSP3-7.0)",48.965,41.217,44.645,Wheatland County,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",53.114,43.412,46.387,Wheatland County,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",44.335,38.905,41.599,Wheatland County,penman
+2089,"Middle of the Road
+(SSP2-4.5)",48.031,38.306,43.56,Wheatland County,penman
+2089,"High Emissions
+(SSP3-7.0)",50.352,42.241,47.697,Wheatland County,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",52.285,45.105,48.942,Wheatland County,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",43.14,39.369,41.892,Wheatland County,penman
+2090,"Middle of the Road
+(SSP2-4.5)",45.61,39.848,42.178,Wheatland County,penman
+2090,"High Emissions
+(SSP3-7.0)",54.345,43.225,48.016,Wheatland County,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",50.874,44.19,48.089,Wheatland County,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",43.879,39.271,41.415,Wheatland County,penman
+2091,"Middle of the Road
+(SSP2-4.5)",45.486,38.767,44.363,Wheatland County,penman
+2091,"High Emissions
+(SSP3-7.0)",50.642,44.858,46.459,Wheatland County,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",50.975,43.152,45.225,Wheatland County,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",47.364,39.504,41.514,Wheatland County,penman
+2092,"Middle of the Road
+(SSP2-4.5)",48.993,39.676,44.99,Wheatland County,penman
+2092,"High Emissions
+(SSP3-7.0)",48.24,41.58,46.703,Wheatland County,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",54.368,44.732,47.22,Wheatland County,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",45.665,38.116,40.769,Wheatland County,penman
+2093,"Middle of the Road
+(SSP2-4.5)",45.772,40.12,43.036,Wheatland County,penman
+2093,"High Emissions
+(SSP3-7.0)",47.353,41.706,43.328,Wheatland County,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",51.023,46.047,47.394,Wheatland County,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",45.281,38.669,40.144,Wheatland County,penman
+2094,"Middle of the Road
+(SSP2-4.5)",50.203,38.613,45.472,Wheatland County,penman
+2094,"High Emissions
+(SSP3-7.0)",47.774,44.189,45.27,Wheatland County,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",55.763,44.365,46.953,Wheatland County,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",47.912,39.675,42.238,Wheatland County,penman
+2095,"Middle of the Road
+(SSP2-4.5)",46.832,42.909,45.506,Wheatland County,penman
+2095,"High Emissions
+(SSP3-7.0)",51.929,42.266,48.196,Wheatland County,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",52.234,43.935,45.584,Wheatland County,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",44.7,39.216,41.848,Wheatland County,penman
+2096,"Middle of the Road
+(SSP2-4.5)",48.013,41.552,45.056,Wheatland County,penman
+2096,"High Emissions
+(SSP3-7.0)",51.691,42.678,46.011,Wheatland County,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",55.817,43.423,46.522,Wheatland County,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",47.73,38.986,41.887,Wheatland County,penman
+2097,"Middle of the Road
+(SSP2-4.5)",50.152,41.378,43.245,Wheatland County,penman
+2097,"High Emissions
+(SSP3-7.0)",51.998,41.171,47.91,Wheatland County,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",52.128,43.71,47.146,Wheatland County,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",46.754,38.975,41.091,Wheatland County,penman
+2098,"Middle of the Road
+(SSP2-4.5)",48.122,42.136,43.096,Wheatland County,penman
+2098,"High Emissions
+(SSP3-7.0)",52.213,42.898,44.097,Wheatland County,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",50.915,45.646,48.359,Wheatland County,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",44.88,38.828,41.681,Wheatland County,penman
+2099,"Middle of the Road
+(SSP2-4.5)",46.007,41.485,43.725,Wheatland County,penman
+2099,"High Emissions
+(SSP3-7.0)",51.876,42.122,46.087,Wheatland County,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",55.296,44.579,49.374,Wheatland County,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",45.099,37.135,40.583,Wheatland County,penman
+2100,"Middle of the Road
+(SSP2-4.5)",48.014,40.006,41.951,Wheatland County,penman
+2100,"High Emissions
+(SSP3-7.0)",48.151,42.903,45.605,Wheatland County,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",54.327,44.37,47.834,Wheatland County,penman

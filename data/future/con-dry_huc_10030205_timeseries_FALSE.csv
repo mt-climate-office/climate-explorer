@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,39.46,14.34,23.1,Teton,con-dry
+1951,Historical Emissions,24.54,17.78,20.9,Teton,con-dry
+1952,Historical Emissions,28.38,15.4,20,Teton,con-dry
+1953,Historical Emissions,27.06,14.48,19.3,Teton,con-dry
+1954,Historical Emissions,28.68,12.66,18.8,Teton,con-dry
+1955,Historical Emissions,32.86,15.48,22,Teton,con-dry
+1956,Historical Emissions,32.92,15.1,19.8,Teton,con-dry
+1957,Historical Emissions,32.3,15.52,17,Teton,con-dry
+1958,Historical Emissions,25.9,13.06,19.7,Teton,con-dry
+1959,Historical Emissions,19.06,15.28,15.9,Teton,con-dry
+1960,Historical Emissions,28.34,12.88,25.4,Teton,con-dry
+1961,Historical Emissions,43.46,18.16,22.1,Teton,con-dry
+1962,Historical Emissions,31.72,15.82,19.2,Teton,con-dry
+1963,Historical Emissions,22.52,17.48,21.1,Teton,con-dry
+1964,Historical Emissions,26.22,16.82,18.9,Teton,con-dry
+1965,Historical Emissions,31.74,17.78,23.4,Teton,con-dry
+1966,Historical Emissions,26.04,14,18,Teton,con-dry
+1967,Historical Emissions,24.44,15.96,19.4,Teton,con-dry
+1968,Historical Emissions,24.8,17.2,22.4,Teton,con-dry
+1969,Historical Emissions,32.26,15.7,19.6,Teton,con-dry
+1970,Historical Emissions,24.78,18.24,21.1,Teton,con-dry
+1971,Historical Emissions,28.56,13,21.8,Teton,con-dry
+1972,Historical Emissions,27.7,20.8,25.7,Teton,con-dry
+1973,Historical Emissions,44.44,16.98,19.6,Teton,con-dry
+1974,Historical Emissions,27.9,14.64,22.4,Teton,con-dry
+1975,Historical Emissions,25.12,15.54,20,Teton,con-dry
+1976,Historical Emissions,31.62,18.12,19.4,Teton,con-dry
+1977,Historical Emissions,29.98,12.36,18.1,Teton,con-dry
+1978,Historical Emissions,34.26,16.58,24.9,Teton,con-dry
+1979,Historical Emissions,34.68,21.08,23,Teton,con-dry
+1980,Historical Emissions,26.6,14.8,19.5,Teton,con-dry
+1981,Historical Emissions,29.06,17.72,20.7,Teton,con-dry
+1982,Historical Emissions,22.66,14.86,20.4,Teton,con-dry
+1983,Historical Emissions,33.64,16.06,22.9,Teton,con-dry
+1984,Historical Emissions,26.1,16.12,21.2,Teton,con-dry
+1985,Historical Emissions,26.16,17.04,21.4,Teton,con-dry
+1986,Historical Emissions,24.68,15.7,20.8,Teton,con-dry
+1987,Historical Emissions,24.42,15.16,18.8,Teton,con-dry
+1988,Historical Emissions,31.86,16.84,20.7,Teton,con-dry
+1989,Historical Emissions,28.16,16.34,21.7,Teton,con-dry
+1990,Historical Emissions,28.52,15.62,19.9,Teton,con-dry
+1991,Historical Emissions,33.68,14.56,24.8,Teton,con-dry
+1992,Historical Emissions,29.16,18.04,19.6,Teton,con-dry
+1993,Historical Emissions,28.34,15.14,19.8,Teton,con-dry
+1994,Historical Emissions,23.44,17.36,20.8,Teton,con-dry
+1995,Historical Emissions,24.18,14.46,19.9,Teton,con-dry
+1996,Historical Emissions,35.7,17.78,23.5,Teton,con-dry
+1997,Historical Emissions,26.96,16.52,20,Teton,con-dry
+1998,Historical Emissions,32.22,12.92,18.9,Teton,con-dry
+1999,Historical Emissions,27.64,16.56,23.4,Teton,con-dry
+2000,Historical Emissions,30,18,22.3,Teton,con-dry
+2001,Historical Emissions,19.28,13.18,17.5,Teton,con-dry
+2002,Historical Emissions,31.66,17.36,24.6,Teton,con-dry
+2003,Historical Emissions,32.04,16.36,21.5,Teton,con-dry
+2004,Historical Emissions,28.54,15.36,18.1,Teton,con-dry
+2005,Historical Emissions,30.32,15.28,24.4,Teton,con-dry
+2006,Historical Emissions,29.34,15.6,23,Teton,con-dry
+2007,Historical Emissions,25.04,17.74,20.3,Teton,con-dry
+2008,Historical Emissions,25.94,13.66,22.7,Teton,con-dry
+2009,Historical Emissions,24.84,13.72,17.3,Teton,con-dry
+2010,Historical Emissions,21.16,15.08,17.9,Teton,con-dry
+2011,Historical Emissions,29.38,16.64,21,Teton,con-dry
+2012,Historical Emissions,25.72,17.82,21.3,Teton,con-dry
+2013,Historical Emissions,38.36,17.18,19.2,Teton,con-dry
+2014,Historical Emissions,47.8,13.68,21.6,Teton,con-dry
+2015,"Moderating Emissions
+(SSP1-2.6)",37.36,17.9,26.1,Teton,con-dry
+2015,"Middle of the Road
+(SSP2-4.5)",38.9,15.72,22,Teton,con-dry
+2015,"High Emissions
+(SSP3-7.0)",29.14,15.16,19.5,Teton,con-dry
+2015,"Accelerating Emissions
+(SSP5-8.5)",28.84,19.62,21.7,Teton,con-dry
+2016,"Moderating Emissions
+(SSP1-2.6)",40.5,15.36,21.9,Teton,con-dry
+2016,"Middle of the Road
+(SSP2-4.5)",34.28,16.4,20.4,Teton,con-dry
+2016,"High Emissions
+(SSP3-7.0)",29.14,15.58,18.3,Teton,con-dry
+2016,"Accelerating Emissions
+(SSP5-8.5)",23,16.56,17.4,Teton,con-dry
+2017,"Moderating Emissions
+(SSP1-2.6)",26.04,15.56,22.3,Teton,con-dry
+2017,"Middle of the Road
+(SSP2-4.5)",31.38,16.7,21.8,Teton,con-dry
+2017,"High Emissions
+(SSP3-7.0)",25.16,18.32,20.1,Teton,con-dry
+2017,"Accelerating Emissions
+(SSP5-8.5)",23.14,14.52,18.3,Teton,con-dry
+2018,"Moderating Emissions
+(SSP1-2.6)",27.06,17.96,21.8,Teton,con-dry
+2018,"Middle of the Road
+(SSP2-4.5)",28.32,15.44,19.4,Teton,con-dry
+2018,"High Emissions
+(SSP3-7.0)",21.2,15.68,18,Teton,con-dry
+2018,"Accelerating Emissions
+(SSP5-8.5)",27.28,15.64,21.6,Teton,con-dry
+2019,"Moderating Emissions
+(SSP1-2.6)",39.12,15.04,25.5,Teton,con-dry
+2019,"Middle of the Road
+(SSP2-4.5)",24.12,16.32,18.7,Teton,con-dry
+2019,"High Emissions
+(SSP3-7.0)",31.3,15.56,22.3,Teton,con-dry
+2019,"Accelerating Emissions
+(SSP5-8.5)",25.52,17.8,21,Teton,con-dry
+2020,"Moderating Emissions
+(SSP1-2.6)",31.56,14.36,17.1,Teton,con-dry
+2020,"Middle of the Road
+(SSP2-4.5)",22.62,14.74,19.5,Teton,con-dry
+2020,"High Emissions
+(SSP3-7.0)",24.92,14.48,18.1,Teton,con-dry
+2020,"Accelerating Emissions
+(SSP5-8.5)",28.6,16.62,21,Teton,con-dry
+2021,"Moderating Emissions
+(SSP1-2.6)",32.24,14.24,22.7,Teton,con-dry
+2021,"Middle of the Road
+(SSP2-4.5)",32.08,17.16,22.6,Teton,con-dry
+2021,"High Emissions
+(SSP3-7.0)",28.14,14.88,21.5,Teton,con-dry
+2021,"Accelerating Emissions
+(SSP5-8.5)",27.48,15.84,19.8,Teton,con-dry
+2022,"Moderating Emissions
+(SSP1-2.6)",26.14,14.92,21.5,Teton,con-dry
+2022,"Middle of the Road
+(SSP2-4.5)",24.6,16.46,18.7,Teton,con-dry
+2022,"High Emissions
+(SSP3-7.0)",22.48,15.4,17.5,Teton,con-dry
+2022,"Accelerating Emissions
+(SSP5-8.5)",28.12,16.36,19.6,Teton,con-dry
+2023,"Moderating Emissions
+(SSP1-2.6)",26.52,16.42,21.2,Teton,con-dry
+2023,"Middle of the Road
+(SSP2-4.5)",27.8,16.32,23.1,Teton,con-dry
+2023,"High Emissions
+(SSP3-7.0)",27.3,14.16,18.2,Teton,con-dry
+2023,"Accelerating Emissions
+(SSP5-8.5)",21.52,13.18,18.4,Teton,con-dry
+2024,"Moderating Emissions
+(SSP1-2.6)",30.14,13.06,19.1,Teton,con-dry
+2024,"Middle of the Road
+(SSP2-4.5)",33.4,17.56,23.4,Teton,con-dry
+2024,"High Emissions
+(SSP3-7.0)",30.62,14.82,19.3,Teton,con-dry
+2024,"Accelerating Emissions
+(SSP5-8.5)",32.44,17.42,21.9,Teton,con-dry
+2025,"Moderating Emissions
+(SSP1-2.6)",29.86,15.36,18.2,Teton,con-dry
+2025,"Middle of the Road
+(SSP2-4.5)",25.32,14.48,19.5,Teton,con-dry
+2025,"High Emissions
+(SSP3-7.0)",32.8,19.32,23.3,Teton,con-dry
+2025,"Accelerating Emissions
+(SSP5-8.5)",30.46,19.48,25.3,Teton,con-dry
+2026,"Moderating Emissions
+(SSP1-2.6)",22.62,13.86,16.6,Teton,con-dry
+2026,"Middle of the Road
+(SSP2-4.5)",32.74,11.36,19.6,Teton,con-dry
+2026,"High Emissions
+(SSP3-7.0)",24.96,14.8,20.4,Teton,con-dry
+2026,"Accelerating Emissions
+(SSP5-8.5)",30.14,17.74,21.8,Teton,con-dry
+2027,"Moderating Emissions
+(SSP1-2.6)",33.78,14.34,17.6,Teton,con-dry
+2027,"Middle of the Road
+(SSP2-4.5)",33.76,15.64,21.4,Teton,con-dry
+2027,"High Emissions
+(SSP3-7.0)",23.64,16.44,20.1,Teton,con-dry
+2027,"Accelerating Emissions
+(SSP5-8.5)",27.72,14.56,20.6,Teton,con-dry
+2028,"Moderating Emissions
+(SSP1-2.6)",26,14.76,22.4,Teton,con-dry
+2028,"Middle of the Road
+(SSP2-4.5)",25.52,15.76,19.8,Teton,con-dry
+2028,"High Emissions
+(SSP3-7.0)",32.54,18.64,24.3,Teton,con-dry
+2028,"Accelerating Emissions
+(SSP5-8.5)",29.76,13.12,20.7,Teton,con-dry
+2029,"Moderating Emissions
+(SSP1-2.6)",28.7,14.68,20.3,Teton,con-dry
+2029,"Middle of the Road
+(SSP2-4.5)",32.14,15.82,19.5,Teton,con-dry
+2029,"High Emissions
+(SSP3-7.0)",32,14.66,17,Teton,con-dry
+2029,"Accelerating Emissions
+(SSP5-8.5)",25.32,15.48,17.7,Teton,con-dry
+2030,"Moderating Emissions
+(SSP1-2.6)",31.5,16.26,19.9,Teton,con-dry
+2030,"Middle of the Road
+(SSP2-4.5)",23.36,17.2,21.5,Teton,con-dry
+2030,"High Emissions
+(SSP3-7.0)",31.92,13.8,18.8,Teton,con-dry
+2030,"Accelerating Emissions
+(SSP5-8.5)",31.9,18.94,22.6,Teton,con-dry
+2031,"Moderating Emissions
+(SSP1-2.6)",32.66,16.02,21,Teton,con-dry
+2031,"Middle of the Road
+(SSP2-4.5)",31.04,14.8,17.2,Teton,con-dry
+2031,"High Emissions
+(SSP3-7.0)",33.66,19.34,25,Teton,con-dry
+2031,"Accelerating Emissions
+(SSP5-8.5)",29.14,14.64,21.8,Teton,con-dry
+2032,"Moderating Emissions
+(SSP1-2.6)",28.86,17.38,20.1,Teton,con-dry
+2032,"Middle of the Road
+(SSP2-4.5)",26.42,17.16,20.6,Teton,con-dry
+2032,"High Emissions
+(SSP3-7.0)",33.34,16.38,18.3,Teton,con-dry
+2032,"Accelerating Emissions
+(SSP5-8.5)",26.5,16.74,22.5,Teton,con-dry
+2033,"Moderating Emissions
+(SSP1-2.6)",32.06,18.58,25.2,Teton,con-dry
+2033,"Middle of the Road
+(SSP2-4.5)",34.98,15.8,19,Teton,con-dry
+2033,"High Emissions
+(SSP3-7.0)",29.7,18.94,22.2,Teton,con-dry
+2033,"Accelerating Emissions
+(SSP5-8.5)",32.16,16.66,18.4,Teton,con-dry
+2034,"Moderating Emissions
+(SSP1-2.6)",24.08,15.84,20,Teton,con-dry
+2034,"Middle of the Road
+(SSP2-4.5)",25.98,17.72,19.7,Teton,con-dry
+2034,"High Emissions
+(SSP3-7.0)",38.32,15.56,24.4,Teton,con-dry
+2034,"Accelerating Emissions
+(SSP5-8.5)",23.84,12.52,19.9,Teton,con-dry
+2035,"Moderating Emissions
+(SSP1-2.6)",42.04,15.82,23,Teton,con-dry
+2035,"Middle of the Road
+(SSP2-4.5)",29.6,16.66,23.2,Teton,con-dry
+2035,"High Emissions
+(SSP3-7.0)",30.48,15.2,16,Teton,con-dry
+2035,"Accelerating Emissions
+(SSP5-8.5)",22.56,14.82,17,Teton,con-dry
+2036,"Moderating Emissions
+(SSP1-2.6)",31.9,13.36,15.6,Teton,con-dry
+2036,"Middle of the Road
+(SSP2-4.5)",33.8,16.24,20.7,Teton,con-dry
+2036,"High Emissions
+(SSP3-7.0)",31.04,13.88,21.4,Teton,con-dry
+2036,"Accelerating Emissions
+(SSP5-8.5)",29.24,15.02,27.8,Teton,con-dry
+2037,"Moderating Emissions
+(SSP1-2.6)",27.04,14.3,20.3,Teton,con-dry
+2037,"Middle of the Road
+(SSP2-4.5)",24.28,17.64,18.6,Teton,con-dry
+2037,"High Emissions
+(SSP3-7.0)",23.2,13.64,20.1,Teton,con-dry
+2037,"Accelerating Emissions
+(SSP5-8.5)",35.2,13.1,20.8,Teton,con-dry
+2038,"Moderating Emissions
+(SSP1-2.6)",34.76,14.3,17.7,Teton,con-dry
+2038,"Middle of the Road
+(SSP2-4.5)",33.4,17.04,21.5,Teton,con-dry
+2038,"High Emissions
+(SSP3-7.0)",27.52,16.5,22.2,Teton,con-dry
+2038,"Accelerating Emissions
+(SSP5-8.5)",30.26,12.56,19.3,Teton,con-dry
+2039,"Moderating Emissions
+(SSP1-2.6)",31.32,15.44,24.1,Teton,con-dry
+2039,"Middle of the Road
+(SSP2-4.5)",31.9,17.84,21,Teton,con-dry
+2039,"High Emissions
+(SSP3-7.0)",31.66,12.94,20.5,Teton,con-dry
+2039,"Accelerating Emissions
+(SSP5-8.5)",31.54,12.44,18,Teton,con-dry
+2040,"Moderating Emissions
+(SSP1-2.6)",26.54,13.64,16.2,Teton,con-dry
+2040,"Middle of the Road
+(SSP2-4.5)",41.2,15.96,21.7,Teton,con-dry
+2040,"High Emissions
+(SSP3-7.0)",25.7,13.04,20.4,Teton,con-dry
+2040,"Accelerating Emissions
+(SSP5-8.5)",39.06,14.92,19,Teton,con-dry
+2041,"Moderating Emissions
+(SSP1-2.6)",30.8,17.6,21.4,Teton,con-dry
+2041,"Middle of the Road
+(SSP2-4.5)",29.54,17,22.5,Teton,con-dry
+2041,"High Emissions
+(SSP3-7.0)",25.14,20.48,21.4,Teton,con-dry
+2041,"Accelerating Emissions
+(SSP5-8.5)",22.66,14.64,19.4,Teton,con-dry
+2042,"Moderating Emissions
+(SSP1-2.6)",36.14,15.28,23.2,Teton,con-dry
+2042,"Middle of the Road
+(SSP2-4.5)",34.26,15.96,19.2,Teton,con-dry
+2042,"High Emissions
+(SSP3-7.0)",28.92,17.9,22.2,Teton,con-dry
+2042,"Accelerating Emissions
+(SSP5-8.5)",23.38,16.68,19.8,Teton,con-dry
+2043,"Moderating Emissions
+(SSP1-2.6)",38.88,15.18,19.8,Teton,con-dry
+2043,"Middle of the Road
+(SSP2-4.5)",40.22,14,20.7,Teton,con-dry
+2043,"High Emissions
+(SSP3-7.0)",26.44,13.66,22.4,Teton,con-dry
+2043,"Accelerating Emissions
+(SSP5-8.5)",23.18,17.26,21.4,Teton,con-dry
+2044,"Moderating Emissions
+(SSP1-2.6)",29.22,16.96,20.5,Teton,con-dry
+2044,"Middle of the Road
+(SSP2-4.5)",29.68,20.38,24.5,Teton,con-dry
+2044,"High Emissions
+(SSP3-7.0)",28.56,14.24,15.7,Teton,con-dry
+2044,"Accelerating Emissions
+(SSP5-8.5)",29.58,16.28,21.9,Teton,con-dry
+2045,"Moderating Emissions
+(SSP1-2.6)",30.92,14.48,17.4,Teton,con-dry
+2045,"Middle of the Road
+(SSP2-4.5)",27.2,18.8,21,Teton,con-dry
+2045,"High Emissions
+(SSP3-7.0)",25.68,17.7,22.4,Teton,con-dry
+2045,"Accelerating Emissions
+(SSP5-8.5)",31.96,14.44,20.1,Teton,con-dry
+2046,"Moderating Emissions
+(SSP1-2.6)",24.54,18.32,22.1,Teton,con-dry
+2046,"Middle of the Road
+(SSP2-4.5)",22.16,15.6,18.1,Teton,con-dry
+2046,"High Emissions
+(SSP3-7.0)",30.02,16.16,20,Teton,con-dry
+2046,"Accelerating Emissions
+(SSP5-8.5)",30.62,17.1,25.2,Teton,con-dry
+2047,"Moderating Emissions
+(SSP1-2.6)",24.72,15.38,19,Teton,con-dry
+2047,"Middle of the Road
+(SSP2-4.5)",32.28,15.66,21,Teton,con-dry
+2047,"High Emissions
+(SSP3-7.0)",29.56,15.08,20.5,Teton,con-dry
+2047,"Accelerating Emissions
+(SSP5-8.5)",28.78,16.96,22.2,Teton,con-dry
+2048,"Moderating Emissions
+(SSP1-2.6)",27.88,16.72,20,Teton,con-dry
+2048,"Middle of the Road
+(SSP2-4.5)",35.62,16,21,Teton,con-dry
+2048,"High Emissions
+(SSP3-7.0)",23.04,14.68,17.6,Teton,con-dry
+2048,"Accelerating Emissions
+(SSP5-8.5)",27.48,20.04,21.6,Teton,con-dry
+2049,"Moderating Emissions
+(SSP1-2.6)",40.56,17.98,25.7,Teton,con-dry
+2049,"Middle of the Road
+(SSP2-4.5)",28.12,14.94,22.4,Teton,con-dry
+2049,"High Emissions
+(SSP3-7.0)",33.6,13.56,25.8,Teton,con-dry
+2049,"Accelerating Emissions
+(SSP5-8.5)",25.08,16,21.6,Teton,con-dry
+2050,"Moderating Emissions
+(SSP1-2.6)",25.86,15.3,19.6,Teton,con-dry
+2050,"Middle of the Road
+(SSP2-4.5)",30.18,15.14,18.6,Teton,con-dry
+2050,"High Emissions
+(SSP3-7.0)",28.4,15.44,25.7,Teton,con-dry
+2050,"Accelerating Emissions
+(SSP5-8.5)",26.56,19.24,20.6,Teton,con-dry
+2051,"Moderating Emissions
+(SSP1-2.6)",31.72,13.68,20.9,Teton,con-dry
+2051,"Middle of the Road
+(SSP2-4.5)",28.1,13.42,18.2,Teton,con-dry
+2051,"High Emissions
+(SSP3-7.0)",42.22,15.68,24.6,Teton,con-dry
+2051,"Accelerating Emissions
+(SSP5-8.5)",25.24,16.86,19.3,Teton,con-dry
+2052,"Moderating Emissions
+(SSP1-2.6)",25.52,14.64,19,Teton,con-dry
+2052,"Middle of the Road
+(SSP2-4.5)",33.08,14.88,19.9,Teton,con-dry
+2052,"High Emissions
+(SSP3-7.0)",29.78,14.22,18.3,Teton,con-dry
+2052,"Accelerating Emissions
+(SSP5-8.5)",27.26,13.2,20,Teton,con-dry
+2053,"Moderating Emissions
+(SSP1-2.6)",24.7,15.14,21.4,Teton,con-dry
+2053,"Middle of the Road
+(SSP2-4.5)",30.28,13.06,16.9,Teton,con-dry
+2053,"High Emissions
+(SSP3-7.0)",38.2,17.02,25,Teton,con-dry
+2053,"Accelerating Emissions
+(SSP5-8.5)",37.42,13.24,23.2,Teton,con-dry
+2054,"Moderating Emissions
+(SSP1-2.6)",33.4,14.58,28.1,Teton,con-dry
+2054,"Middle of the Road
+(SSP2-4.5)",26.08,15.28,20.5,Teton,con-dry
+2054,"High Emissions
+(SSP3-7.0)",25.7,16.88,19.7,Teton,con-dry
+2054,"Accelerating Emissions
+(SSP5-8.5)",28.88,15.56,21.5,Teton,con-dry
+2055,"Moderating Emissions
+(SSP1-2.6)",32.3,15.24,24.1,Teton,con-dry
+2055,"Middle of the Road
+(SSP2-4.5)",30.42,15.86,21.1,Teton,con-dry
+2055,"High Emissions
+(SSP3-7.0)",26.98,17.02,22,Teton,con-dry
+2055,"Accelerating Emissions
+(SSP5-8.5)",26.18,15.96,19.7,Teton,con-dry
+2056,"Moderating Emissions
+(SSP1-2.6)",32,17.64,21.1,Teton,con-dry
+2056,"Middle of the Road
+(SSP2-4.5)",35.8,21.82,25.6,Teton,con-dry
+2056,"High Emissions
+(SSP3-7.0)",23.76,15.82,21.8,Teton,con-dry
+2056,"Accelerating Emissions
+(SSP5-8.5)",30.1,17.28,25,Teton,con-dry
+2057,"Moderating Emissions
+(SSP1-2.6)",33.92,17.74,23.3,Teton,con-dry
+2057,"Middle of the Road
+(SSP2-4.5)",29.16,16.54,23.2,Teton,con-dry
+2057,"High Emissions
+(SSP3-7.0)",29.42,14.94,18.5,Teton,con-dry
+2057,"Accelerating Emissions
+(SSP5-8.5)",23.82,16.82,21,Teton,con-dry
+2058,"Moderating Emissions
+(SSP1-2.6)",37.52,17.74,25.1,Teton,con-dry
+2058,"Middle of the Road
+(SSP2-4.5)",31.82,16.76,21.5,Teton,con-dry
+2058,"High Emissions
+(SSP3-7.0)",24.72,15.46,17.2,Teton,con-dry
+2058,"Accelerating Emissions
+(SSP5-8.5)",25.36,15.24,17.8,Teton,con-dry
+2059,"Moderating Emissions
+(SSP1-2.6)",33.38,15.3,22.9,Teton,con-dry
+2059,"Middle of the Road
+(SSP2-4.5)",21.16,15.68,17.5,Teton,con-dry
+2059,"High Emissions
+(SSP3-7.0)",45.72,13.1,21.4,Teton,con-dry
+2059,"Accelerating Emissions
+(SSP5-8.5)",28.9,16.44,19.9,Teton,con-dry
+2060,"Moderating Emissions
+(SSP1-2.6)",29.68,13.64,20.7,Teton,con-dry
+2060,"Middle of the Road
+(SSP2-4.5)",32.16,15.2,22.4,Teton,con-dry
+2060,"High Emissions
+(SSP3-7.0)",28.96,12.92,24,Teton,con-dry
+2060,"Accelerating Emissions
+(SSP5-8.5)",30.28,14.68,22.3,Teton,con-dry
+2061,"Moderating Emissions
+(SSP1-2.6)",27.92,15.72,19.5,Teton,con-dry
+2061,"Middle of the Road
+(SSP2-4.5)",24.3,15.4,21.9,Teton,con-dry
+2061,"High Emissions
+(SSP3-7.0)",29.64,14.64,19.9,Teton,con-dry
+2061,"Accelerating Emissions
+(SSP5-8.5)",36.52,16.44,26,Teton,con-dry
+2062,"Moderating Emissions
+(SSP1-2.6)",31.04,18.18,20.5,Teton,con-dry
+2062,"Middle of the Road
+(SSP2-4.5)",21.58,16.14,19.4,Teton,con-dry
+2062,"High Emissions
+(SSP3-7.0)",26.64,16.76,25.3,Teton,con-dry
+2062,"Accelerating Emissions
+(SSP5-8.5)",24.22,13.4,19.5,Teton,con-dry
+2063,"Moderating Emissions
+(SSP1-2.6)",27.96,17.52,25.8,Teton,con-dry
+2063,"Middle of the Road
+(SSP2-4.5)",32.4,16.12,23.5,Teton,con-dry
+2063,"High Emissions
+(SSP3-7.0)",30.3,15.7,22.3,Teton,con-dry
+2063,"Accelerating Emissions
+(SSP5-8.5)",29.72,14.96,19.3,Teton,con-dry
+2064,"Moderating Emissions
+(SSP1-2.6)",33.98,16.42,21.2,Teton,con-dry
+2064,"Middle of the Road
+(SSP2-4.5)",30.16,18.46,23.1,Teton,con-dry
+2064,"High Emissions
+(SSP3-7.0)",29.36,15.14,23.7,Teton,con-dry
+2064,"Accelerating Emissions
+(SSP5-8.5)",30.9,18.76,20.5,Teton,con-dry
+2065,"Moderating Emissions
+(SSP1-2.6)",25.38,17.32,18.9,Teton,con-dry
+2065,"Middle of the Road
+(SSP2-4.5)",35.18,18.34,21.7,Teton,con-dry
+2065,"High Emissions
+(SSP3-7.0)",29.02,13.82,22.2,Teton,con-dry
+2065,"Accelerating Emissions
+(SSP5-8.5)",34.24,20.54,25.3,Teton,con-dry
+2066,"Moderating Emissions
+(SSP1-2.6)",34.32,19.6,24,Teton,con-dry
+2066,"Middle of the Road
+(SSP2-4.5)",25.08,16.8,20.4,Teton,con-dry
+2066,"High Emissions
+(SSP3-7.0)",37.04,16.7,24.4,Teton,con-dry
+2066,"Accelerating Emissions
+(SSP5-8.5)",32.42,18.04,22.2,Teton,con-dry
+2067,"Moderating Emissions
+(SSP1-2.6)",26.24,14.48,24.2,Teton,con-dry
+2067,"Middle of the Road
+(SSP2-4.5)",35.16,13.16,20.4,Teton,con-dry
+2067,"High Emissions
+(SSP3-7.0)",36.68,17.66,22,Teton,con-dry
+2067,"Accelerating Emissions
+(SSP5-8.5)",29.32,18.8,23,Teton,con-dry
+2068,"Moderating Emissions
+(SSP1-2.6)",35.76,17.28,20.3,Teton,con-dry
+2068,"Middle of the Road
+(SSP2-4.5)",29.22,15.08,23,Teton,con-dry
+2068,"High Emissions
+(SSP3-7.0)",27.06,16.96,22.5,Teton,con-dry
+2068,"Accelerating Emissions
+(SSP5-8.5)",34.66,15.8,19.4,Teton,con-dry
+2069,"Moderating Emissions
+(SSP1-2.6)",33.54,13.72,20.7,Teton,con-dry
+2069,"Middle of the Road
+(SSP2-4.5)",31.76,13.48,18.4,Teton,con-dry
+2069,"High Emissions
+(SSP3-7.0)",35.28,21.72,26.9,Teton,con-dry
+2069,"Accelerating Emissions
+(SSP5-8.5)",35.64,16.1,21.3,Teton,con-dry
+2070,"Moderating Emissions
+(SSP1-2.6)",29.04,13.9,22.9,Teton,con-dry
+2070,"Middle of the Road
+(SSP2-4.5)",31.24,18.74,21.6,Teton,con-dry
+2070,"High Emissions
+(SSP3-7.0)",28.54,15.42,21.2,Teton,con-dry
+2070,"Accelerating Emissions
+(SSP5-8.5)",29.52,13.44,18.6,Teton,con-dry
+2071,"Moderating Emissions
+(SSP1-2.6)",37.4,14.42,22.4,Teton,con-dry
+2071,"Middle of the Road
+(SSP2-4.5)",25.64,15.7,22,Teton,con-dry
+2071,"High Emissions
+(SSP3-7.0)",32.62,17.3,24.9,Teton,con-dry
+2071,"Accelerating Emissions
+(SSP5-8.5)",43.46,17.4,31.8,Teton,con-dry
+2072,"Moderating Emissions
+(SSP1-2.6)",27.68,16.5,20.6,Teton,con-dry
+2072,"Middle of the Road
+(SSP2-4.5)",40.56,18.5,25.1,Teton,con-dry
+2072,"High Emissions
+(SSP3-7.0)",38.42,16.32,20,Teton,con-dry
+2072,"Accelerating Emissions
+(SSP5-8.5)",27.46,16.04,20.5,Teton,con-dry
+2073,"Moderating Emissions
+(SSP1-2.6)",29.88,18.26,20.1,Teton,con-dry
+2073,"Middle of the Road
+(SSP2-4.5)",23.34,15.74,18.2,Teton,con-dry
+2073,"High Emissions
+(SSP3-7.0)",27.9,17.14,22,Teton,con-dry
+2073,"Accelerating Emissions
+(SSP5-8.5)",30.96,15.2,23,Teton,con-dry
+2074,"Moderating Emissions
+(SSP1-2.6)",25.64,12.48,15.6,Teton,con-dry
+2074,"Middle of the Road
+(SSP2-4.5)",30.78,14.72,20.9,Teton,con-dry
+2074,"High Emissions
+(SSP3-7.0)",29.82,17.64,22.6,Teton,con-dry
+2074,"Accelerating Emissions
+(SSP5-8.5)",32.02,18.2,21.4,Teton,con-dry
+2075,"Moderating Emissions
+(SSP1-2.6)",39.02,14.98,24,Teton,con-dry
+2075,"Middle of the Road
+(SSP2-4.5)",28.74,18.66,20.3,Teton,con-dry
+2075,"High Emissions
+(SSP3-7.0)",36.66,14.5,17.8,Teton,con-dry
+2075,"Accelerating Emissions
+(SSP5-8.5)",36.12,13.28,20.1,Teton,con-dry
+2076,"Moderating Emissions
+(SSP1-2.6)",23.82,13.28,20,Teton,con-dry
+2076,"Middle of the Road
+(SSP2-4.5)",26.18,17.12,22.3,Teton,con-dry
+2076,"High Emissions
+(SSP3-7.0)",36.94,15.4,19.6,Teton,con-dry
+2076,"Accelerating Emissions
+(SSP5-8.5)",36.56,15.62,24.1,Teton,con-dry
+2077,"Moderating Emissions
+(SSP1-2.6)",37.88,16.58,18.8,Teton,con-dry
+2077,"Middle of the Road
+(SSP2-4.5)",30.62,14.98,22.9,Teton,con-dry
+2077,"High Emissions
+(SSP3-7.0)",29.82,15.84,21,Teton,con-dry
+2077,"Accelerating Emissions
+(SSP5-8.5)",35.1,15.76,21.3,Teton,con-dry
+2078,"Moderating Emissions
+(SSP1-2.6)",27.78,17.38,20.4,Teton,con-dry
+2078,"Middle of the Road
+(SSP2-4.5)",30.22,15.64,20.7,Teton,con-dry
+2078,"High Emissions
+(SSP3-7.0)",23.14,17.56,21.2,Teton,con-dry
+2078,"Accelerating Emissions
+(SSP5-8.5)",35.5,14.94,24,Teton,con-dry
+2079,"Moderating Emissions
+(SSP1-2.6)",27.66,14,23.2,Teton,con-dry
+2079,"Middle of the Road
+(SSP2-4.5)",31.18,17.18,20.3,Teton,con-dry
+2079,"High Emissions
+(SSP3-7.0)",28.92,18.6,22.4,Teton,con-dry
+2079,"Accelerating Emissions
+(SSP5-8.5)",34.02,16.82,25.2,Teton,con-dry
+2080,"Moderating Emissions
+(SSP1-2.6)",29.86,14.34,19.8,Teton,con-dry
+2080,"Middle of the Road
+(SSP2-4.5)",35.48,15.56,21.2,Teton,con-dry
+2080,"High Emissions
+(SSP3-7.0)",28.04,13.5,21,Teton,con-dry
+2080,"Accelerating Emissions
+(SSP5-8.5)",35.26,14.8,21.9,Teton,con-dry
+2081,"Moderating Emissions
+(SSP1-2.6)",32.96,18.96,27.9,Teton,con-dry
+2081,"Middle of the Road
+(SSP2-4.5)",26.04,15.52,18.7,Teton,con-dry
+2081,"High Emissions
+(SSP3-7.0)",26.6,15.64,21.1,Teton,con-dry
+2081,"Accelerating Emissions
+(SSP5-8.5)",37.36,19.18,23,Teton,con-dry
+2082,"Moderating Emissions
+(SSP1-2.6)",34.06,14.86,25.5,Teton,con-dry
+2082,"Middle of the Road
+(SSP2-4.5)",28.48,16.3,22.1,Teton,con-dry
+2082,"High Emissions
+(SSP3-7.0)",25.76,14.04,22.4,Teton,con-dry
+2082,"Accelerating Emissions
+(SSP5-8.5)",29.56,18.78,22,Teton,con-dry
+2083,"Moderating Emissions
+(SSP1-2.6)",32.3,16.86,20.4,Teton,con-dry
+2083,"Middle of the Road
+(SSP2-4.5)",38.6,14.66,23.2,Teton,con-dry
+2083,"High Emissions
+(SSP3-7.0)",37.36,14.14,21.2,Teton,con-dry
+2083,"Accelerating Emissions
+(SSP5-8.5)",28.98,18.44,23.1,Teton,con-dry
+2084,"Moderating Emissions
+(SSP1-2.6)",35.64,15.48,22.2,Teton,con-dry
+2084,"Middle of the Road
+(SSP2-4.5)",41.68,17.44,26.3,Teton,con-dry
+2084,"High Emissions
+(SSP3-7.0)",38.48,16.32,24.3,Teton,con-dry
+2084,"Accelerating Emissions
+(SSP5-8.5)",32.92,16.4,23.5,Teton,con-dry
+2085,"Moderating Emissions
+(SSP1-2.6)",29.94,18.84,25.2,Teton,con-dry
+2085,"Middle of the Road
+(SSP2-4.5)",24.44,17.64,19.9,Teton,con-dry
+2085,"High Emissions
+(SSP3-7.0)",28.7,18.9,25.2,Teton,con-dry
+2085,"Accelerating Emissions
+(SSP5-8.5)",35.42,17.02,22.3,Teton,con-dry
+2086,"Moderating Emissions
+(SSP1-2.6)",33.2,15.38,26.4,Teton,con-dry
+2086,"Middle of the Road
+(SSP2-4.5)",27.92,15.1,20,Teton,con-dry
+2086,"High Emissions
+(SSP3-7.0)",30.28,19.08,22.4,Teton,con-dry
+2086,"Accelerating Emissions
+(SSP5-8.5)",32.52,15.92,23.5,Teton,con-dry
+2087,"Moderating Emissions
+(SSP1-2.6)",24.9,17.3,18.9,Teton,con-dry
+2087,"Middle of the Road
+(SSP2-4.5)",29.2,15.58,18.6,Teton,con-dry
+2087,"High Emissions
+(SSP3-7.0)",35.94,17.74,24.2,Teton,con-dry
+2087,"Accelerating Emissions
+(SSP5-8.5)",44.44,15.92,23,Teton,con-dry
+2088,"Moderating Emissions
+(SSP1-2.6)",30.92,15.06,19.3,Teton,con-dry
+2088,"Middle of the Road
+(SSP2-4.5)",29.76,14.74,21.1,Teton,con-dry
+2088,"High Emissions
+(SSP3-7.0)",31.44,15.9,21.5,Teton,con-dry
+2088,"Accelerating Emissions
+(SSP5-8.5)",42.08,19.44,25.3,Teton,con-dry
+2089,"Moderating Emissions
+(SSP1-2.6)",32.1,13.46,18.3,Teton,con-dry
+2089,"Middle of the Road
+(SSP2-4.5)",31.2,17.04,22,Teton,con-dry
+2089,"High Emissions
+(SSP3-7.0)",26.56,15.04,21.5,Teton,con-dry
+2089,"Accelerating Emissions
+(SSP5-8.5)",39.86,18.04,23.5,Teton,con-dry
+2090,"Moderating Emissions
+(SSP1-2.6)",25.96,14.54,19.8,Teton,con-dry
+2090,"Middle of the Road
+(SSP2-4.5)",32.22,13.88,17.2,Teton,con-dry
+2090,"High Emissions
+(SSP3-7.0)",32.68,17.54,23.7,Teton,con-dry
+2090,"Accelerating Emissions
+(SSP5-8.5)",37.8,17.52,25.2,Teton,con-dry
+2091,"Moderating Emissions
+(SSP1-2.6)",32.92,16.64,21,Teton,con-dry
+2091,"Middle of the Road
+(SSP2-4.5)",37.74,19,23.8,Teton,con-dry
+2091,"High Emissions
+(SSP3-7.0)",41.1,25.5,33.6,Teton,con-dry
+2091,"Accelerating Emissions
+(SSP5-8.5)",38.44,14.08,24,Teton,con-dry
+2092,"Moderating Emissions
+(SSP1-2.6)",31.66,13.92,22.5,Teton,con-dry
+2092,"Middle of the Road
+(SSP2-4.5)",38.02,14.86,19.2,Teton,con-dry
+2092,"High Emissions
+(SSP3-7.0)",29.8,15.98,25.3,Teton,con-dry
+2092,"Accelerating Emissions
+(SSP5-8.5)",34.7,16.5,24.4,Teton,con-dry
+2093,"Moderating Emissions
+(SSP1-2.6)",31.84,16.54,21.3,Teton,con-dry
+2093,"Middle of the Road
+(SSP2-4.5)",28.02,14.78,24.7,Teton,con-dry
+2093,"High Emissions
+(SSP3-7.0)",27.96,14.54,21,Teton,con-dry
+2093,"Accelerating Emissions
+(SSP5-8.5)",34.44,16.58,21,Teton,con-dry
+2094,"Moderating Emissions
+(SSP1-2.6)",27.42,17.1,23.8,Teton,con-dry
+2094,"Middle of the Road
+(SSP2-4.5)",30.52,18.36,23.2,Teton,con-dry
+2094,"High Emissions
+(SSP3-7.0)",29.36,13.98,23,Teton,con-dry
+2094,"Accelerating Emissions
+(SSP5-8.5)",32.16,18.32,22.4,Teton,con-dry
+2095,"Moderating Emissions
+(SSP1-2.6)",29.22,18,21.9,Teton,con-dry
+2095,"Middle of the Road
+(SSP2-4.5)",29.28,17.14,21.4,Teton,con-dry
+2095,"High Emissions
+(SSP3-7.0)",40.62,17.56,23.5,Teton,con-dry
+2095,"Accelerating Emissions
+(SSP5-8.5)",30.2,16.98,23,Teton,con-dry
+2096,"Moderating Emissions
+(SSP1-2.6)",32.06,18.28,21.3,Teton,con-dry
+2096,"Middle of the Road
+(SSP2-4.5)",30.04,18.4,24.3,Teton,con-dry
+2096,"High Emissions
+(SSP3-7.0)",25.22,13.88,20.1,Teton,con-dry
+2096,"Accelerating Emissions
+(SSP5-8.5)",37.98,16.58,29,Teton,con-dry
+2097,"Moderating Emissions
+(SSP1-2.6)",32.72,18.6,26,Teton,con-dry
+2097,"Middle of the Road
+(SSP2-4.5)",28.38,17.08,22.6,Teton,con-dry
+2097,"High Emissions
+(SSP3-7.0)",29.78,18.66,24.5,Teton,con-dry
+2097,"Accelerating Emissions
+(SSP5-8.5)",30.94,23.5,26.1,Teton,con-dry
+2098,"Moderating Emissions
+(SSP1-2.6)",29.52,13.94,19,Teton,con-dry
+2098,"Middle of the Road
+(SSP2-4.5)",30.8,15.56,20.9,Teton,con-dry
+2098,"High Emissions
+(SSP3-7.0)",24.8,11.6,19.4,Teton,con-dry
+2098,"Accelerating Emissions
+(SSP5-8.5)",44.82,21.28,30,Teton,con-dry
+2099,"Moderating Emissions
+(SSP1-2.6)",33.68,18,21.1,Teton,con-dry
+2099,"Middle of the Road
+(SSP2-4.5)",49.52,13.56,21.4,Teton,con-dry
+2099,"High Emissions
+(SSP3-7.0)",45.92,20.7,22.6,Teton,con-dry
+2099,"Accelerating Emissions
+(SSP5-8.5)",31.64,15.46,24.9,Teton,con-dry
+2100,"Moderating Emissions
+(SSP1-2.6)",23.6,14.52,20.1,Teton,con-dry
+2100,"Middle of the Road
+(SSP2-4.5)",27.84,16.24,18.4,Teton,con-dry
+2100,"High Emissions
+(SSP3-7.0)",34.72,18.68,21,Teton,con-dry
+2100,"Accelerating Emissions
+(SSP5-8.5)",34.44,15.04,25.8,Teton,con-dry

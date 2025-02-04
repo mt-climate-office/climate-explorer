@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,45.236,42.898,43.419,Bullwhacker-Dog,tas
+1951,Historical Emissions,44.677,42.167,43.949,Bullwhacker-Dog,tas
+1952,Historical Emissions,44.826,41.271,42.945,Bullwhacker-Dog,tas
+1953,Historical Emissions,44.126,41.102,43.202,Bullwhacker-Dog,tas
+1954,Historical Emissions,45.574,40.394,42.599,Bullwhacker-Dog,tas
+1955,Historical Emissions,45.824,41.457,42.941,Bullwhacker-Dog,tas
+1956,Historical Emissions,45.755,42.33,43.638,Bullwhacker-Dog,tas
+1957,Historical Emissions,46.35,42.091,44.205,Bullwhacker-Dog,tas
+1958,Historical Emissions,44.421,41.773,43.006,Bullwhacker-Dog,tas
+1959,Historical Emissions,43.16,39.717,42.147,Bullwhacker-Dog,tas
+1960,Historical Emissions,44.847,39.938,42.126,Bullwhacker-Dog,tas
+1961,Historical Emissions,45.161,41.409,43.582,Bullwhacker-Dog,tas
+1962,Historical Emissions,43.691,40.577,42.08,Bullwhacker-Dog,tas
+1963,Historical Emissions,42.997,41.846,41.988,Bullwhacker-Dog,tas
+1964,Historical Emissions,44.648,41.174,43.65,Bullwhacker-Dog,tas
+1965,Historical Emissions,43.785,41.872,42.481,Bullwhacker-Dog,tas
+1966,Historical Emissions,46.017,41.693,42.89,Bullwhacker-Dog,tas
+1967,Historical Emissions,43.632,41.533,43.049,Bullwhacker-Dog,tas
+1968,Historical Emissions,43.364,39.439,42.081,Bullwhacker-Dog,tas
+1969,Historical Emissions,44.183,40.966,43.023,Bullwhacker-Dog,tas
+1970,Historical Emissions,44.626,42.203,43.465,Bullwhacker-Dog,tas
+1971,Historical Emissions,46.579,42.89,44.528,Bullwhacker-Dog,tas
+1972,Historical Emissions,43.886,41.727,43.016,Bullwhacker-Dog,tas
+1973,Historical Emissions,44.35,41.175,42.952,Bullwhacker-Dog,tas
+1974,Historical Emissions,45.009,41.267,44.065,Bullwhacker-Dog,tas
+1975,Historical Emissions,44.469,40.446,43.809,Bullwhacker-Dog,tas
+1976,Historical Emissions,43.9,41.014,43.08,Bullwhacker-Dog,tas
+1977,Historical Emissions,45.284,42.477,44.27,Bullwhacker-Dog,tas
+1978,Historical Emissions,45.727,40.624,42.701,Bullwhacker-Dog,tas
+1979,Historical Emissions,45.747,41.759,44.433,Bullwhacker-Dog,tas
+1980,Historical Emissions,44.179,41.748,42.644,Bullwhacker-Dog,tas
+1981,Historical Emissions,45.498,42.762,43.724,Bullwhacker-Dog,tas
+1982,Historical Emissions,44.782,41.991,43.736,Bullwhacker-Dog,tas
+1983,Historical Emissions,45.166,42.095,42.704,Bullwhacker-Dog,tas
+1984,Historical Emissions,44.929,41.983,43.108,Bullwhacker-Dog,tas
+1985,Historical Emissions,45.116,41.978,43.94,Bullwhacker-Dog,tas
+1986,Historical Emissions,43.521,41.003,42.227,Bullwhacker-Dog,tas
+1987,Historical Emissions,44.927,39.559,42.105,Bullwhacker-Dog,tas
+1988,Historical Emissions,44.783,41.454,42.711,Bullwhacker-Dog,tas
+1989,Historical Emissions,44.921,42.232,43.427,Bullwhacker-Dog,tas
+1990,Historical Emissions,47.056,42.643,44.3,Bullwhacker-Dog,tas
+1991,Historical Emissions,45.62,41.485,42.413,Bullwhacker-Dog,tas
+1992,Historical Emissions,45.135,41.499,42.57,Bullwhacker-Dog,tas
+1993,Historical Emissions,45.266,41.539,42.892,Bullwhacker-Dog,tas
+1994,Historical Emissions,46.185,42.283,43.423,Bullwhacker-Dog,tas
+1995,Historical Emissions,45.89,42.204,42.635,Bullwhacker-Dog,tas
+1996,Historical Emissions,46.357,43.158,44.584,Bullwhacker-Dog,tas
+1997,Historical Emissions,46.381,41.9,44.141,Bullwhacker-Dog,tas
+1998,Historical Emissions,45.935,41.218,44.291,Bullwhacker-Dog,tas
+1999,Historical Emissions,45.894,42.616,44.411,Bullwhacker-Dog,tas
+2000,Historical Emissions,45.323,42.7,43.338,Bullwhacker-Dog,tas
+2001,Historical Emissions,45.785,42.828,44.044,Bullwhacker-Dog,tas
+2002,Historical Emissions,47.429,42.663,44.208,Bullwhacker-Dog,tas
+2003,Historical Emissions,46.667,43.606,44.445,Bullwhacker-Dog,tas
+2004,Historical Emissions,46.493,44.65,45.125,Bullwhacker-Dog,tas
+2005,Historical Emissions,47.903,43.586,45.809,Bullwhacker-Dog,tas
+2006,Historical Emissions,46.071,41.873,44.276,Bullwhacker-Dog,tas
+2007,Historical Emissions,46.41,44.187,45.057,Bullwhacker-Dog,tas
+2008,Historical Emissions,46.509,43.662,44.898,Bullwhacker-Dog,tas
+2009,Historical Emissions,45.443,43.592,44.414,Bullwhacker-Dog,tas
+2010,Historical Emissions,46.004,43.501,45.438,Bullwhacker-Dog,tas
+2011,Historical Emissions,47.144,44.385,44.748,Bullwhacker-Dog,tas
+2012,Historical Emissions,46.431,43.8,45.715,Bullwhacker-Dog,tas
+2013,Historical Emissions,47.288,43.788,44.74,Bullwhacker-Dog,tas
+2014,Historical Emissions,47.68,44.29,45.849,Bullwhacker-Dog,tas
+2015,"Moderating Emissions
+(SSP1-2.6)",48.122,44.274,46.104,Bullwhacker-Dog,tas
+2015,"Middle of the Road
+(SSP2-4.5)",47.999,43.273,44.783,Bullwhacker-Dog,tas
+2015,"High Emissions
+(SSP3-7.0)",47.095,43.738,45.487,Bullwhacker-Dog,tas
+2015,"Accelerating Emissions
+(SSP5-8.5)",46.518,44.42,45.168,Bullwhacker-Dog,tas
+2016,"Moderating Emissions
+(SSP1-2.6)",48.096,44.511,46.201,Bullwhacker-Dog,tas
+2016,"Middle of the Road
+(SSP2-4.5)",46.866,43.649,45.438,Bullwhacker-Dog,tas
+2016,"High Emissions
+(SSP3-7.0)",48.991,43.539,45.781,Bullwhacker-Dog,tas
+2016,"Accelerating Emissions
+(SSP5-8.5)",46.88,43.905,46.245,Bullwhacker-Dog,tas
+2017,"Moderating Emissions
+(SSP1-2.6)",46.974,43.81,44.888,Bullwhacker-Dog,tas
+2017,"Middle of the Road
+(SSP2-4.5)",48.411,43.728,45.055,Bullwhacker-Dog,tas
+2017,"High Emissions
+(SSP3-7.0)",47.889,44.783,45.542,Bullwhacker-Dog,tas
+2017,"Accelerating Emissions
+(SSP5-8.5)",47.598,44.409,46.092,Bullwhacker-Dog,tas
+2018,"Moderating Emissions
+(SSP1-2.6)",46.634,44.201,45.474,Bullwhacker-Dog,tas
+2018,"Middle of the Road
+(SSP2-4.5)",47.758,44.578,45.312,Bullwhacker-Dog,tas
+2018,"High Emissions
+(SSP3-7.0)",47.882,43.27,45.528,Bullwhacker-Dog,tas
+2018,"Accelerating Emissions
+(SSP5-8.5)",47.555,43.705,45.398,Bullwhacker-Dog,tas
+2019,"Moderating Emissions
+(SSP1-2.6)",48.622,44.95,47.097,Bullwhacker-Dog,tas
+2019,"Middle of the Road
+(SSP2-4.5)",47.089,43.065,44.474,Bullwhacker-Dog,tas
+2019,"High Emissions
+(SSP3-7.0)",48.499,43.28,44.942,Bullwhacker-Dog,tas
+2019,"Accelerating Emissions
+(SSP5-8.5)",48.643,45.23,46.906,Bullwhacker-Dog,tas
+2020,"Moderating Emissions
+(SSP1-2.6)",49.526,44.058,45.858,Bullwhacker-Dog,tas
+2020,"Middle of the Road
+(SSP2-4.5)",47.664,44.082,45.526,Bullwhacker-Dog,tas
+2020,"High Emissions
+(SSP3-7.0)",47.044,43.98,45.985,Bullwhacker-Dog,tas
+2020,"Accelerating Emissions
+(SSP5-8.5)",47.46,44.264,45.962,Bullwhacker-Dog,tas
+2021,"Moderating Emissions
+(SSP1-2.6)",48.69,44.602,46.162,Bullwhacker-Dog,tas
+2021,"Middle of the Road
+(SSP2-4.5)",48.035,44.779,46.405,Bullwhacker-Dog,tas
+2021,"High Emissions
+(SSP3-7.0)",47.169,45.458,46.39,Bullwhacker-Dog,tas
+2021,"Accelerating Emissions
+(SSP5-8.5)",47.498,44.34,46.361,Bullwhacker-Dog,tas
+2022,"Moderating Emissions
+(SSP1-2.6)",47.938,44.586,45.553,Bullwhacker-Dog,tas
+2022,"Middle of the Road
+(SSP2-4.5)",48.577,44.192,46.107,Bullwhacker-Dog,tas
+2022,"High Emissions
+(SSP3-7.0)",47.454,44.873,45.285,Bullwhacker-Dog,tas
+2022,"Accelerating Emissions
+(SSP5-8.5)",48.733,44.448,46.578,Bullwhacker-Dog,tas
+2023,"Moderating Emissions
+(SSP1-2.6)",46.788,45.381,46.141,Bullwhacker-Dog,tas
+2023,"Middle of the Road
+(SSP2-4.5)",48.116,44.836,46.208,Bullwhacker-Dog,tas
+2023,"High Emissions
+(SSP3-7.0)",48.345,44.328,46.244,Bullwhacker-Dog,tas
+2023,"Accelerating Emissions
+(SSP5-8.5)",46.382,42.877,44.285,Bullwhacker-Dog,tas
+2024,"Moderating Emissions
+(SSP1-2.6)",48.065,44.878,45.94,Bullwhacker-Dog,tas
+2024,"Middle of the Road
+(SSP2-4.5)",47.09,44.559,45.629,Bullwhacker-Dog,tas
+2024,"High Emissions
+(SSP3-7.0)",49.264,44.737,45.636,Bullwhacker-Dog,tas
+2024,"Accelerating Emissions
+(SSP5-8.5)",49.293,44.224,46.454,Bullwhacker-Dog,tas
+2025,"Moderating Emissions
+(SSP1-2.6)",48.238,45.654,47.323,Bullwhacker-Dog,tas
+2025,"Middle of the Road
+(SSP2-4.5)",48.167,43.586,45.618,Bullwhacker-Dog,tas
+2025,"High Emissions
+(SSP3-7.0)",48.703,45.471,46.925,Bullwhacker-Dog,tas
+2025,"Accelerating Emissions
+(SSP5-8.5)",49.064,45.678,47.096,Bullwhacker-Dog,tas
+2026,"Moderating Emissions
+(SSP1-2.6)",48.534,44.488,45.255,Bullwhacker-Dog,tas
+2026,"Middle of the Road
+(SSP2-4.5)",48.173,44.17,46.543,Bullwhacker-Dog,tas
+2026,"High Emissions
+(SSP3-7.0)",48.863,42.74,46.087,Bullwhacker-Dog,tas
+2026,"Accelerating Emissions
+(SSP5-8.5)",48.582,44.744,46.511,Bullwhacker-Dog,tas
+2027,"Moderating Emissions
+(SSP1-2.6)",48.077,44.632,46.741,Bullwhacker-Dog,tas
+2027,"Middle of the Road
+(SSP2-4.5)",48.768,44.843,47.013,Bullwhacker-Dog,tas
+2027,"High Emissions
+(SSP3-7.0)",48.241,44.687,46.206,Bullwhacker-Dog,tas
+2027,"Accelerating Emissions
+(SSP5-8.5)",48.299,45.205,46.703,Bullwhacker-Dog,tas
+2028,"Moderating Emissions
+(SSP1-2.6)",47.704,45.059,46.588,Bullwhacker-Dog,tas
+2028,"Middle of the Road
+(SSP2-4.5)",48.168,43.057,46.017,Bullwhacker-Dog,tas
+2028,"High Emissions
+(SSP3-7.0)",47.846,45.831,46.502,Bullwhacker-Dog,tas
+2028,"Accelerating Emissions
+(SSP5-8.5)",49.012,45.406,46.4,Bullwhacker-Dog,tas
+2029,"Moderating Emissions
+(SSP1-2.6)",50.027,46.123,47.55,Bullwhacker-Dog,tas
+2029,"Middle of the Road
+(SSP2-4.5)",49.208,44.338,46.646,Bullwhacker-Dog,tas
+2029,"High Emissions
+(SSP3-7.0)",48.444,43.576,46.15,Bullwhacker-Dog,tas
+2029,"Accelerating Emissions
+(SSP5-8.5)",48.25,46.125,46.742,Bullwhacker-Dog,tas
+2030,"Moderating Emissions
+(SSP1-2.6)",49.249,44.989,45.836,Bullwhacker-Dog,tas
+2030,"Middle of the Road
+(SSP2-4.5)",50.039,45.703,47.374,Bullwhacker-Dog,tas
+2030,"High Emissions
+(SSP3-7.0)",49.21,44.731,46.231,Bullwhacker-Dog,tas
+2030,"Accelerating Emissions
+(SSP5-8.5)",49.342,44.421,47.528,Bullwhacker-Dog,tas
+2031,"Moderating Emissions
+(SSP1-2.6)",48.283,44.358,47.182,Bullwhacker-Dog,tas
+2031,"Middle of the Road
+(SSP2-4.5)",49.063,45.125,46.67,Bullwhacker-Dog,tas
+2031,"High Emissions
+(SSP3-7.0)",49.701,44.903,47.985,Bullwhacker-Dog,tas
+2031,"Accelerating Emissions
+(SSP5-8.5)",50.191,46.793,48.178,Bullwhacker-Dog,tas
+2032,"Moderating Emissions
+(SSP1-2.6)",48.338,44.595,46.141,Bullwhacker-Dog,tas
+2032,"Middle of the Road
+(SSP2-4.5)",47.402,44.962,46.194,Bullwhacker-Dog,tas
+2032,"High Emissions
+(SSP3-7.0)",49.468,45.1,46.441,Bullwhacker-Dog,tas
+2032,"Accelerating Emissions
+(SSP5-8.5)",49.525,44.795,45.896,Bullwhacker-Dog,tas
+2033,"Moderating Emissions
+(SSP1-2.6)",48.986,45.249,46.337,Bullwhacker-Dog,tas
+2033,"Middle of the Road
+(SSP2-4.5)",49.241,45.903,47.049,Bullwhacker-Dog,tas
+2033,"High Emissions
+(SSP3-7.0)",48.419,45.262,46.28,Bullwhacker-Dog,tas
+2033,"Accelerating Emissions
+(SSP5-8.5)",48.298,45.401,47.7,Bullwhacker-Dog,tas
+2034,"Moderating Emissions
+(SSP1-2.6)",48.46,44.686,45.652,Bullwhacker-Dog,tas
+2034,"Middle of the Road
+(SSP2-4.5)",49.211,46.007,46.587,Bullwhacker-Dog,tas
+2034,"High Emissions
+(SSP3-7.0)",49.318,45.981,47.181,Bullwhacker-Dog,tas
+2034,"Accelerating Emissions
+(SSP5-8.5)",48.769,43.765,46.555,Bullwhacker-Dog,tas
+2035,"Moderating Emissions
+(SSP1-2.6)",48.746,44.612,47.623,Bullwhacker-Dog,tas
+2035,"Middle of the Road
+(SSP2-4.5)",49.879,44.347,47.607,Bullwhacker-Dog,tas
+2035,"High Emissions
+(SSP3-7.0)",48.212,44.426,46.18,Bullwhacker-Dog,tas
+2035,"Accelerating Emissions
+(SSP5-8.5)",49.679,44.808,47.493,Bullwhacker-Dog,tas
+2036,"Moderating Emissions
+(SSP1-2.6)",48.711,46.15,47.877,Bullwhacker-Dog,tas
+2036,"Middle of the Road
+(SSP2-4.5)",48.296,44.974,46.855,Bullwhacker-Dog,tas
+2036,"High Emissions
+(SSP3-7.0)",48.347,45.04,47.033,Bullwhacker-Dog,tas
+2036,"Accelerating Emissions
+(SSP5-8.5)",49.706,44.482,48.602,Bullwhacker-Dog,tas
+2037,"Moderating Emissions
+(SSP1-2.6)",49.464,46.296,47.766,Bullwhacker-Dog,tas
+2037,"Middle of the Road
+(SSP2-4.5)",49.253,44.286,47.295,Bullwhacker-Dog,tas
+2037,"High Emissions
+(SSP3-7.0)",48.685,44.411,46.454,Bullwhacker-Dog,tas
+2037,"Accelerating Emissions
+(SSP5-8.5)",49.922,45.88,47.462,Bullwhacker-Dog,tas
+2038,"Moderating Emissions
+(SSP1-2.6)",49.846,46.227,47.818,Bullwhacker-Dog,tas
+2038,"Middle of the Road
+(SSP2-4.5)",48.093,45.187,46.815,Bullwhacker-Dog,tas
+2038,"High Emissions
+(SSP3-7.0)",49.881,45.605,47.703,Bullwhacker-Dog,tas
+2038,"Accelerating Emissions
+(SSP5-8.5)",50.828,45.324,49.159,Bullwhacker-Dog,tas
+2039,"Moderating Emissions
+(SSP1-2.6)",49.309,45.433,47.876,Bullwhacker-Dog,tas
+2039,"Middle of the Road
+(SSP2-4.5)",48.992,45.284,47.071,Bullwhacker-Dog,tas
+2039,"High Emissions
+(SSP3-7.0)",49.91,47.061,47.67,Bullwhacker-Dog,tas
+2039,"Accelerating Emissions
+(SSP5-8.5)",50.206,44.816,47.737,Bullwhacker-Dog,tas
+2040,"Moderating Emissions
+(SSP1-2.6)",49.358,45.563,47.124,Bullwhacker-Dog,tas
+2040,"Middle of the Road
+(SSP2-4.5)",48.309,45.83,47.767,Bullwhacker-Dog,tas
+2040,"High Emissions
+(SSP3-7.0)",50.083,45.901,47.704,Bullwhacker-Dog,tas
+2040,"Accelerating Emissions
+(SSP5-8.5)",52.097,46.681,47.963,Bullwhacker-Dog,tas
+2041,"Moderating Emissions
+(SSP1-2.6)",48.745,44.272,47.211,Bullwhacker-Dog,tas
+2041,"Middle of the Road
+(SSP2-4.5)",48.477,46.491,47.282,Bullwhacker-Dog,tas
+2041,"High Emissions
+(SSP3-7.0)",49.052,45.761,46.823,Bullwhacker-Dog,tas
+2041,"Accelerating Emissions
+(SSP5-8.5)",48.025,46.082,47.792,Bullwhacker-Dog,tas
+2042,"Moderating Emissions
+(SSP1-2.6)",50.049,46.019,46.952,Bullwhacker-Dog,tas
+2042,"Middle of the Road
+(SSP2-4.5)",48.025,44.484,46.305,Bullwhacker-Dog,tas
+2042,"High Emissions
+(SSP3-7.0)",48.538,46.04,46.9,Bullwhacker-Dog,tas
+2042,"Accelerating Emissions
+(SSP5-8.5)",50.52,46.504,48.419,Bullwhacker-Dog,tas
+2043,"Moderating Emissions
+(SSP1-2.6)",48.416,45.601,47.678,Bullwhacker-Dog,tas
+2043,"Middle of the Road
+(SSP2-4.5)",49.935,45.25,47.797,Bullwhacker-Dog,tas
+2043,"High Emissions
+(SSP3-7.0)",48.545,44.927,47.567,Bullwhacker-Dog,tas
+2043,"Accelerating Emissions
+(SSP5-8.5)",49.52,47.024,48.361,Bullwhacker-Dog,tas
+2044,"Moderating Emissions
+(SSP1-2.6)",49.315,45.977,47.253,Bullwhacker-Dog,tas
+2044,"Middle of the Road
+(SSP2-4.5)",50.836,46.395,49.022,Bullwhacker-Dog,tas
+2044,"High Emissions
+(SSP3-7.0)",49.268,46.602,47.461,Bullwhacker-Dog,tas
+2044,"Accelerating Emissions
+(SSP5-8.5)",51.391,45.58,47.67,Bullwhacker-Dog,tas
+2045,"Moderating Emissions
+(SSP1-2.6)",49.586,45.964,47.436,Bullwhacker-Dog,tas
+2045,"Middle of the Road
+(SSP2-4.5)",50.172,45.425,48.9,Bullwhacker-Dog,tas
+2045,"High Emissions
+(SSP3-7.0)",49.31,45.469,47.316,Bullwhacker-Dog,tas
+2045,"Accelerating Emissions
+(SSP5-8.5)",48.912,45.769,48.044,Bullwhacker-Dog,tas
+2046,"Moderating Emissions
+(SSP1-2.6)",51.77,44.028,48.229,Bullwhacker-Dog,tas
+2046,"Middle of the Road
+(SSP2-4.5)",49.455,45.315,47,Bullwhacker-Dog,tas
+2046,"High Emissions
+(SSP3-7.0)",49.992,47.53,48.068,Bullwhacker-Dog,tas
+2046,"Accelerating Emissions
+(SSP5-8.5)",49.871,45.739,47.014,Bullwhacker-Dog,tas
+2047,"Moderating Emissions
+(SSP1-2.6)",49.03,46.43,48.41,Bullwhacker-Dog,tas
+2047,"Middle of the Road
+(SSP2-4.5)",49.47,42.986,47.441,Bullwhacker-Dog,tas
+2047,"High Emissions
+(SSP3-7.0)",48.277,45.929,47.286,Bullwhacker-Dog,tas
+2047,"Accelerating Emissions
+(SSP5-8.5)",51.03,46.138,49.257,Bullwhacker-Dog,tas
+2048,"Moderating Emissions
+(SSP1-2.6)",48.371,45.98,47.224,Bullwhacker-Dog,tas
+2048,"Middle of the Road
+(SSP2-4.5)",50.651,45.765,48.404,Bullwhacker-Dog,tas
+2048,"High Emissions
+(SSP3-7.0)",50.497,45.588,47.944,Bullwhacker-Dog,tas
+2048,"Accelerating Emissions
+(SSP5-8.5)",53.105,46.961,50.073,Bullwhacker-Dog,tas
+2049,"Moderating Emissions
+(SSP1-2.6)",48.849,45.122,46.336,Bullwhacker-Dog,tas
+2049,"Middle of the Road
+(SSP2-4.5)",50.256,47.569,48.392,Bullwhacker-Dog,tas
+2049,"High Emissions
+(SSP3-7.0)",51.026,46.68,48.866,Bullwhacker-Dog,tas
+2049,"Accelerating Emissions
+(SSP5-8.5)",49.662,46.996,49.086,Bullwhacker-Dog,tas
+2050,"Moderating Emissions
+(SSP1-2.6)",49.077,45.169,47.733,Bullwhacker-Dog,tas
+2050,"Middle of the Road
+(SSP2-4.5)",50.889,46.928,48.386,Bullwhacker-Dog,tas
+2050,"High Emissions
+(SSP3-7.0)",50.735,46.985,48.532,Bullwhacker-Dog,tas
+2050,"Accelerating Emissions
+(SSP5-8.5)",50.805,47.386,49.309,Bullwhacker-Dog,tas
+2051,"Moderating Emissions
+(SSP1-2.6)",49.727,45.386,47.757,Bullwhacker-Dog,tas
+2051,"Middle of the Road
+(SSP2-4.5)",51.309,46.65,48.151,Bullwhacker-Dog,tas
+2051,"High Emissions
+(SSP3-7.0)",50.013,47.203,48.284,Bullwhacker-Dog,tas
+2051,"Accelerating Emissions
+(SSP5-8.5)",50.286,47.315,49.251,Bullwhacker-Dog,tas
+2052,"Moderating Emissions
+(SSP1-2.6)",48.998,46.566,47.389,Bullwhacker-Dog,tas
+2052,"Middle of the Road
+(SSP2-4.5)",50.515,46.613,47.484,Bullwhacker-Dog,tas
+2052,"High Emissions
+(SSP3-7.0)",51.652,45.831,47.81,Bullwhacker-Dog,tas
+2052,"Accelerating Emissions
+(SSP5-8.5)",50.087,47.909,49.53,Bullwhacker-Dog,tas
+2053,"Moderating Emissions
+(SSP1-2.6)",49.27,45.479,47.342,Bullwhacker-Dog,tas
+2053,"Middle of the Road
+(SSP2-4.5)",49.518,46,48.285,Bullwhacker-Dog,tas
+2053,"High Emissions
+(SSP3-7.0)",51.975,47.411,50.7,Bullwhacker-Dog,tas
+2053,"Accelerating Emissions
+(SSP5-8.5)",52.222,47.935,48.457,Bullwhacker-Dog,tas
+2054,"Moderating Emissions
+(SSP1-2.6)",50.083,46.635,47.763,Bullwhacker-Dog,tas
+2054,"Middle of the Road
+(SSP2-4.5)",49.356,45.956,46.677,Bullwhacker-Dog,tas
+2054,"High Emissions
+(SSP3-7.0)",50.387,46.551,47.942,Bullwhacker-Dog,tas
+2054,"Accelerating Emissions
+(SSP5-8.5)",51.866,48.216,49.453,Bullwhacker-Dog,tas
+2055,"Moderating Emissions
+(SSP1-2.6)",49.634,47.243,48.249,Bullwhacker-Dog,tas
+2055,"Middle of the Road
+(SSP2-4.5)",50.275,45.723,48.301,Bullwhacker-Dog,tas
+2055,"High Emissions
+(SSP3-7.0)",50.585,47.467,48.651,Bullwhacker-Dog,tas
+2055,"Accelerating Emissions
+(SSP5-8.5)",52.349,47.806,50.604,Bullwhacker-Dog,tas
+2056,"Moderating Emissions
+(SSP1-2.6)",49.988,46.626,48.473,Bullwhacker-Dog,tas
+2056,"Middle of the Road
+(SSP2-4.5)",51.018,46.84,47.909,Bullwhacker-Dog,tas
+2056,"High Emissions
+(SSP3-7.0)",51.412,46.681,48.024,Bullwhacker-Dog,tas
+2056,"Accelerating Emissions
+(SSP5-8.5)",51.79,47.435,50.01,Bullwhacker-Dog,tas
+2057,"Moderating Emissions
+(SSP1-2.6)",49.337,44.94,47.93,Bullwhacker-Dog,tas
+2057,"Middle of the Road
+(SSP2-4.5)",50.85,47.144,48.98,Bullwhacker-Dog,tas
+2057,"High Emissions
+(SSP3-7.0)",50.599,47.015,47.464,Bullwhacker-Dog,tas
+2057,"Accelerating Emissions
+(SSP5-8.5)",50.766,45.713,49.609,Bullwhacker-Dog,tas
+2058,"Moderating Emissions
+(SSP1-2.6)",49.968,45.976,47.482,Bullwhacker-Dog,tas
+2058,"Middle of the Road
+(SSP2-4.5)",51.875,46.8,49.058,Bullwhacker-Dog,tas
+2058,"High Emissions
+(SSP3-7.0)",50.532,47.589,48.573,Bullwhacker-Dog,tas
+2058,"Accelerating Emissions
+(SSP5-8.5)",51.272,46.752,48.48,Bullwhacker-Dog,tas
+2059,"Moderating Emissions
+(SSP1-2.6)",50.423,45.817,48.058,Bullwhacker-Dog,tas
+2059,"Middle of the Road
+(SSP2-4.5)",52.862,47.22,49.925,Bullwhacker-Dog,tas
+2059,"High Emissions
+(SSP3-7.0)",52.703,47.892,49.874,Bullwhacker-Dog,tas
+2059,"Accelerating Emissions
+(SSP5-8.5)",52.361,48.925,50.51,Bullwhacker-Dog,tas
+2060,"Moderating Emissions
+(SSP1-2.6)",51.464,45.484,47.12,Bullwhacker-Dog,tas
+2060,"Middle of the Road
+(SSP2-4.5)",51.323,46.582,48.201,Bullwhacker-Dog,tas
+2060,"High Emissions
+(SSP3-7.0)",50.668,47.506,48.848,Bullwhacker-Dog,tas
+2060,"Accelerating Emissions
+(SSP5-8.5)",50.948,48.756,50.61,Bullwhacker-Dog,tas
+2061,"Moderating Emissions
+(SSP1-2.6)",49.76,46.356,47.335,Bullwhacker-Dog,tas
+2061,"Middle of the Road
+(SSP2-4.5)",50.897,46.527,48.692,Bullwhacker-Dog,tas
+2061,"High Emissions
+(SSP3-7.0)",50.622,47.85,49.172,Bullwhacker-Dog,tas
+2061,"Accelerating Emissions
+(SSP5-8.5)",53.78,49.167,50.598,Bullwhacker-Dog,tas
+2062,"Moderating Emissions
+(SSP1-2.6)",48.997,46.855,47.224,Bullwhacker-Dog,tas
+2062,"Middle of the Road
+(SSP2-4.5)",50.619,46.592,47.717,Bullwhacker-Dog,tas
+2062,"High Emissions
+(SSP3-7.0)",50.15,47.484,49.456,Bullwhacker-Dog,tas
+2062,"Accelerating Emissions
+(SSP5-8.5)",52.505,48.897,50.023,Bullwhacker-Dog,tas
+2063,"Moderating Emissions
+(SSP1-2.6)",49.007,46.057,48.091,Bullwhacker-Dog,tas
+2063,"Middle of the Road
+(SSP2-4.5)",50.583,46.906,47.979,Bullwhacker-Dog,tas
+2063,"High Emissions
+(SSP3-7.0)",51.841,47.187,49.079,Bullwhacker-Dog,tas
+2063,"Accelerating Emissions
+(SSP5-8.5)",52.681,47.731,50.373,Bullwhacker-Dog,tas
+2064,"Moderating Emissions
+(SSP1-2.6)",50.049,46.841,48.681,Bullwhacker-Dog,tas
+2064,"Middle of the Road
+(SSP2-4.5)",48.88,46.81,47.728,Bullwhacker-Dog,tas
+2064,"High Emissions
+(SSP3-7.0)",50.081,47.729,48.825,Bullwhacker-Dog,tas
+2064,"Accelerating Emissions
+(SSP5-8.5)",51.82,48.906,49.991,Bullwhacker-Dog,tas
+2065,"Moderating Emissions
+(SSP1-2.6)",49.91,44.855,47.103,Bullwhacker-Dog,tas
+2065,"Middle of the Road
+(SSP2-4.5)",51.174,45.925,47.478,Bullwhacker-Dog,tas
+2065,"High Emissions
+(SSP3-7.0)",52.106,47.995,49.199,Bullwhacker-Dog,tas
+2065,"Accelerating Emissions
+(SSP5-8.5)",54.424,48.759,51.045,Bullwhacker-Dog,tas
+2066,"Moderating Emissions
+(SSP1-2.6)",50.688,45.558,48.294,Bullwhacker-Dog,tas
+2066,"Middle of the Road
+(SSP2-4.5)",51.589,47.86,49.78,Bullwhacker-Dog,tas
+2066,"High Emissions
+(SSP3-7.0)",52.218,47.632,49.106,Bullwhacker-Dog,tas
+2066,"Accelerating Emissions
+(SSP5-8.5)",53.59,48.068,51.377,Bullwhacker-Dog,tas
+2067,"Moderating Emissions
+(SSP1-2.6)",49.867,47.855,48.719,Bullwhacker-Dog,tas
+2067,"Middle of the Road
+(SSP2-4.5)",51.351,47.321,48.22,Bullwhacker-Dog,tas
+2067,"High Emissions
+(SSP3-7.0)",52.601,49.364,50.8,Bullwhacker-Dog,tas
+2067,"Accelerating Emissions
+(SSP5-8.5)",54.175,48.917,49.563,Bullwhacker-Dog,tas
+2068,"Moderating Emissions
+(SSP1-2.6)",50.166,45.926,47.758,Bullwhacker-Dog,tas
+2068,"Middle of the Road
+(SSP2-4.5)",49.711,46.551,48.676,Bullwhacker-Dog,tas
+2068,"High Emissions
+(SSP3-7.0)",51.852,47.558,48.768,Bullwhacker-Dog,tas
+2068,"Accelerating Emissions
+(SSP5-8.5)",52.871,49.981,51.117,Bullwhacker-Dog,tas
+2069,"Moderating Emissions
+(SSP1-2.6)",50.53,46.531,49.08,Bullwhacker-Dog,tas
+2069,"Middle of the Road
+(SSP2-4.5)",49.38,46.466,48.052,Bullwhacker-Dog,tas
+2069,"High Emissions
+(SSP3-7.0)",53.777,49.734,50.959,Bullwhacker-Dog,tas
+2069,"Accelerating Emissions
+(SSP5-8.5)",55.558,49.446,51.566,Bullwhacker-Dog,tas
+2070,"Moderating Emissions
+(SSP1-2.6)",49.265,46.34,47.586,Bullwhacker-Dog,tas
+2070,"Middle of the Road
+(SSP2-4.5)",51.188,45.733,48.339,Bullwhacker-Dog,tas
+2070,"High Emissions
+(SSP3-7.0)",52.616,49.084,50.89,Bullwhacker-Dog,tas
+2070,"Accelerating Emissions
+(SSP5-8.5)",56.506,50.141,51.203,Bullwhacker-Dog,tas
+2071,"Moderating Emissions
+(SSP1-2.6)",52.378,44.571,47.444,Bullwhacker-Dog,tas
+2071,"Middle of the Road
+(SSP2-4.5)",51.295,47.118,49.01,Bullwhacker-Dog,tas
+2071,"High Emissions
+(SSP3-7.0)",52.528,49.826,50.556,Bullwhacker-Dog,tas
+2071,"Accelerating Emissions
+(SSP5-8.5)",54.615,49.239,50.795,Bullwhacker-Dog,tas
+2072,"Moderating Emissions
+(SSP1-2.6)",50.943,46.746,47.462,Bullwhacker-Dog,tas
+2072,"Middle of the Road
+(SSP2-4.5)",51.704,46.006,48.785,Bullwhacker-Dog,tas
+2072,"High Emissions
+(SSP3-7.0)",52.838,49.232,50.305,Bullwhacker-Dog,tas
+2072,"Accelerating Emissions
+(SSP5-8.5)",53.23,49.893,51.081,Bullwhacker-Dog,tas
+2073,"Moderating Emissions
+(SSP1-2.6)",49.43,45.319,47.328,Bullwhacker-Dog,tas
+2073,"Middle of the Road
+(SSP2-4.5)",50.779,45.995,49.271,Bullwhacker-Dog,tas
+2073,"High Emissions
+(SSP3-7.0)",52.702,48.653,51.147,Bullwhacker-Dog,tas
+2073,"Accelerating Emissions
+(SSP5-8.5)",53.914,48.912,51.355,Bullwhacker-Dog,tas
+2074,"Moderating Emissions
+(SSP1-2.6)",51.656,44.681,48.09,Bullwhacker-Dog,tas
+2074,"Middle of the Road
+(SSP2-4.5)",50.878,47.748,49.075,Bullwhacker-Dog,tas
+2074,"High Emissions
+(SSP3-7.0)",52.421,47.991,49.644,Bullwhacker-Dog,tas
+2074,"Accelerating Emissions
+(SSP5-8.5)",54.597,49.842,50.512,Bullwhacker-Dog,tas
+2075,"Moderating Emissions
+(SSP1-2.6)",51.243,44.907,47.765,Bullwhacker-Dog,tas
+2075,"Middle of the Road
+(SSP2-4.5)",51.869,46.844,47.603,Bullwhacker-Dog,tas
+2075,"High Emissions
+(SSP3-7.0)",53.171,47.986,49.116,Bullwhacker-Dog,tas
+2075,"Accelerating Emissions
+(SSP5-8.5)",54.158,49.28,52.32,Bullwhacker-Dog,tas
+2076,"Moderating Emissions
+(SSP1-2.6)",50.27,44.571,47.094,Bullwhacker-Dog,tas
+2076,"Middle of the Road
+(SSP2-4.5)",49.913,47.393,48.564,Bullwhacker-Dog,tas
+2076,"High Emissions
+(SSP3-7.0)",52.977,49.128,50.701,Bullwhacker-Dog,tas
+2076,"Accelerating Emissions
+(SSP5-8.5)",55.048,49.534,51.234,Bullwhacker-Dog,tas
+2077,"Moderating Emissions
+(SSP1-2.6)",50.289,46.405,48.281,Bullwhacker-Dog,tas
+2077,"Middle of the Road
+(SSP2-4.5)",52.116,47.956,48.969,Bullwhacker-Dog,tas
+2077,"High Emissions
+(SSP3-7.0)",53.753,48.339,51.233,Bullwhacker-Dog,tas
+2077,"Accelerating Emissions
+(SSP5-8.5)",55.314,50.048,52.349,Bullwhacker-Dog,tas
+2078,"Moderating Emissions
+(SSP1-2.6)",50.245,46.832,48.031,Bullwhacker-Dog,tas
+2078,"Middle of the Road
+(SSP2-4.5)",50.579,48.02,48.508,Bullwhacker-Dog,tas
+2078,"High Emissions
+(SSP3-7.0)",53.171,48.912,50.57,Bullwhacker-Dog,tas
+2078,"Accelerating Emissions
+(SSP5-8.5)",52.149,50.006,50.323,Bullwhacker-Dog,tas
+2079,"Moderating Emissions
+(SSP1-2.6)",49.919,46.494,48.165,Bullwhacker-Dog,tas
+2079,"Middle of the Road
+(SSP2-4.5)",51.575,47.675,48.971,Bullwhacker-Dog,tas
+2079,"High Emissions
+(SSP3-7.0)",52.912,48.602,51.768,Bullwhacker-Dog,tas
+2079,"Accelerating Emissions
+(SSP5-8.5)",54.991,50.121,52.76,Bullwhacker-Dog,tas
+2080,"Moderating Emissions
+(SSP1-2.6)",50.332,45.784,47.084,Bullwhacker-Dog,tas
+2080,"Middle of the Road
+(SSP2-4.5)",50.316,47.119,49.369,Bullwhacker-Dog,tas
+2080,"High Emissions
+(SSP3-7.0)",53.471,49.298,50.188,Bullwhacker-Dog,tas
+2080,"Accelerating Emissions
+(SSP5-8.5)",55.262,50.724,53.471,Bullwhacker-Dog,tas
+2081,"Moderating Emissions
+(SSP1-2.6)",51.843,45.139,47.432,Bullwhacker-Dog,tas
+2081,"Middle of the Road
+(SSP2-4.5)",51.886,48.004,49.139,Bullwhacker-Dog,tas
+2081,"High Emissions
+(SSP3-7.0)",55.219,48.357,49.491,Bullwhacker-Dog,tas
+2081,"Accelerating Emissions
+(SSP5-8.5)",56.435,51.596,53.827,Bullwhacker-Dog,tas
+2082,"Moderating Emissions
+(SSP1-2.6)",51.228,46.011,48.981,Bullwhacker-Dog,tas
+2082,"Middle of the Road
+(SSP2-4.5)",52.834,48.148,49.565,Bullwhacker-Dog,tas
+2082,"High Emissions
+(SSP3-7.0)",54.213,48.665,49.893,Bullwhacker-Dog,tas
+2082,"Accelerating Emissions
+(SSP5-8.5)",55.979,50.8,53.836,Bullwhacker-Dog,tas
+2083,"Moderating Emissions
+(SSP1-2.6)",50.271,46.044,48.489,Bullwhacker-Dog,tas
+2083,"Middle of the Road
+(SSP2-4.5)",52.646,46.72,49.081,Bullwhacker-Dog,tas
+2083,"High Emissions
+(SSP3-7.0)",53.549,48.076,51.999,Bullwhacker-Dog,tas
+2083,"Accelerating Emissions
+(SSP5-8.5)",56.18,51.366,54.738,Bullwhacker-Dog,tas
+2084,"Moderating Emissions
+(SSP1-2.6)",51.439,45.42,47.36,Bullwhacker-Dog,tas
+2084,"Middle of the Road
+(SSP2-4.5)",52.715,48.329,50.496,Bullwhacker-Dog,tas
+2084,"High Emissions
+(SSP3-7.0)",55.933,50.126,52.281,Bullwhacker-Dog,tas
+2084,"Accelerating Emissions
+(SSP5-8.5)",56.072,51.618,53.46,Bullwhacker-Dog,tas
+2085,"Moderating Emissions
+(SSP1-2.6)",49.261,44.786,46.868,Bullwhacker-Dog,tas
+2085,"Middle of the Road
+(SSP2-4.5)",51.003,46.603,49.71,Bullwhacker-Dog,tas
+2085,"High Emissions
+(SSP3-7.0)",53.377,49.387,50.864,Bullwhacker-Dog,tas
+2085,"Accelerating Emissions
+(SSP5-8.5)",55.907,51.17,54.15,Bullwhacker-Dog,tas
+2086,"Moderating Emissions
+(SSP1-2.6)",50.992,47.346,48.849,Bullwhacker-Dog,tas
+2086,"Middle of the Road
+(SSP2-4.5)",51.722,48.698,49.695,Bullwhacker-Dog,tas
+2086,"High Emissions
+(SSP3-7.0)",55.089,49.376,51.957,Bullwhacker-Dog,tas
+2086,"Accelerating Emissions
+(SSP5-8.5)",56.24,50.956,54.064,Bullwhacker-Dog,tas
+2087,"Moderating Emissions
+(SSP1-2.6)",48.609,46.295,47.073,Bullwhacker-Dog,tas
+2087,"Middle of the Road
+(SSP2-4.5)",53.082,48.36,50.046,Bullwhacker-Dog,tas
+2087,"High Emissions
+(SSP3-7.0)",55.327,49.662,52.004,Bullwhacker-Dog,tas
+2087,"Accelerating Emissions
+(SSP5-8.5)",56.325,51.505,53.499,Bullwhacker-Dog,tas
+2088,"Moderating Emissions
+(SSP1-2.6)",51.091,45.534,46.834,Bullwhacker-Dog,tas
+2088,"Middle of the Road
+(SSP2-4.5)",51.669,48.94,49.838,Bullwhacker-Dog,tas
+2088,"High Emissions
+(SSP3-7.0)",55.684,50.009,51.165,Bullwhacker-Dog,tas
+2088,"Accelerating Emissions
+(SSP5-8.5)",56.167,52.38,54.01,Bullwhacker-Dog,tas
+2089,"Moderating Emissions
+(SSP1-2.6)",48.231,46.007,47.657,Bullwhacker-Dog,tas
+2089,"Middle of the Road
+(SSP2-4.5)",52.071,48.126,49.552,Bullwhacker-Dog,tas
+2089,"High Emissions
+(SSP3-7.0)",54.449,49.556,52.791,Bullwhacker-Dog,tas
+2089,"Accelerating Emissions
+(SSP5-8.5)",56.604,52.307,56.002,Bullwhacker-Dog,tas
+2090,"Moderating Emissions
+(SSP1-2.6)",50.105,46.366,48.667,Bullwhacker-Dog,tas
+2090,"Middle of the Road
+(SSP2-4.5)",51.012,48.139,50.67,Bullwhacker-Dog,tas
+2090,"High Emissions
+(SSP3-7.0)",55.045,50.834,52.354,Bullwhacker-Dog,tas
+2090,"Accelerating Emissions
+(SSP5-8.5)",57.654,52.961,54.531,Bullwhacker-Dog,tas
+2091,"Moderating Emissions
+(SSP1-2.6)",50.201,45.743,48.174,Bullwhacker-Dog,tas
+2091,"Middle of the Road
+(SSP2-4.5)",51.596,48.285,50.351,Bullwhacker-Dog,tas
+2091,"High Emissions
+(SSP3-7.0)",55.385,50.691,52.554,Bullwhacker-Dog,tas
+2091,"Accelerating Emissions
+(SSP5-8.5)",57.162,51.046,53.037,Bullwhacker-Dog,tas
+2092,"Moderating Emissions
+(SSP1-2.6)",52.009,44.996,48.941,Bullwhacker-Dog,tas
+2092,"Middle of the Road
+(SSP2-4.5)",52.825,47.265,49.971,Bullwhacker-Dog,tas
+2092,"High Emissions
+(SSP3-7.0)",54.191,49.556,52.456,Bullwhacker-Dog,tas
+2092,"Accelerating Emissions
+(SSP5-8.5)",57.884,52.448,53.752,Bullwhacker-Dog,tas
+2093,"Moderating Emissions
+(SSP1-2.6)",50.036,45.202,48.259,Bullwhacker-Dog,tas
+2093,"Middle of the Road
+(SSP2-4.5)",52.09,46.616,49.399,Bullwhacker-Dog,tas
+2093,"High Emissions
+(SSP3-7.0)",54.953,50.505,51.47,Bullwhacker-Dog,tas
+2093,"Accelerating Emissions
+(SSP5-8.5)",58.226,52.092,53.798,Bullwhacker-Dog,tas
+2094,"Moderating Emissions
+(SSP1-2.6)",50.604,45.27,47.039,Bullwhacker-Dog,tas
+2094,"Middle of the Road
+(SSP2-4.5)",53.792,46.548,49.62,Bullwhacker-Dog,tas
+2094,"High Emissions
+(SSP3-7.0)",55.869,50.351,52.736,Bullwhacker-Dog,tas
+2094,"Accelerating Emissions
+(SSP5-8.5)",58.65,52.709,56.298,Bullwhacker-Dog,tas
+2095,"Moderating Emissions
+(SSP1-2.6)",49.737,46.1,49.171,Bullwhacker-Dog,tas
+2095,"Middle of the Road
+(SSP2-4.5)",53.376,48.303,50.828,Bullwhacker-Dog,tas
+2095,"High Emissions
+(SSP3-7.0)",56.917,49.844,52.966,Bullwhacker-Dog,tas
+2095,"Accelerating Emissions
+(SSP5-8.5)",57.457,51.942,53.265,Bullwhacker-Dog,tas
+2096,"Moderating Emissions
+(SSP1-2.6)",49.607,45.893,48.069,Bullwhacker-Dog,tas
+2096,"Middle of the Road
+(SSP2-4.5)",52.256,49.348,50.863,Bullwhacker-Dog,tas
+2096,"High Emissions
+(SSP3-7.0)",54.857,50.944,52.997,Bullwhacker-Dog,tas
+2096,"Accelerating Emissions
+(SSP5-8.5)",56.713,51.909,54.774,Bullwhacker-Dog,tas
+2097,"Moderating Emissions
+(SSP1-2.6)",51.626,45.778,47.097,Bullwhacker-Dog,tas
+2097,"Middle of the Road
+(SSP2-4.5)",53.116,49.246,50.336,Bullwhacker-Dog,tas
+2097,"High Emissions
+(SSP3-7.0)",57.635,49.576,53.655,Bullwhacker-Dog,tas
+2097,"Accelerating Emissions
+(SSP5-8.5)",61.848,51.849,54.663,Bullwhacker-Dog,tas
+2098,"Moderating Emissions
+(SSP1-2.6)",49.135,44.948,47.338,Bullwhacker-Dog,tas
+2098,"Middle of the Road
+(SSP2-4.5)",51.795,47.92,49.589,Bullwhacker-Dog,tas
+2098,"High Emissions
+(SSP3-7.0)",56.057,51.297,52.435,Bullwhacker-Dog,tas
+2098,"Accelerating Emissions
+(SSP5-8.5)",57.326,52.9,55.733,Bullwhacker-Dog,tas
+2099,"Moderating Emissions
+(SSP1-2.6)",52.334,44.93,48.078,Bullwhacker-Dog,tas
+2099,"Middle of the Road
+(SSP2-4.5)",52.029,47.817,49.659,Bullwhacker-Dog,tas
+2099,"High Emissions
+(SSP3-7.0)",57.889,50.489,52.016,Bullwhacker-Dog,tas
+2099,"Accelerating Emissions
+(SSP5-8.5)",59.494,52.753,55.89,Bullwhacker-Dog,tas
+2100,"Moderating Emissions
+(SSP1-2.6)",49.669,45.092,46.154,Bullwhacker-Dog,tas
+2100,"Middle of the Road
+(SSP2-4.5)",53.814,47.936,50.619,Bullwhacker-Dog,tas
+2100,"High Emissions
+(SSP3-7.0)",55.58,50.051,53.348,Bullwhacker-Dog,tas
+2100,"Accelerating Emissions
+(SSP5-8.5)",59.172,52.096,54.425,Bullwhacker-Dog,tas

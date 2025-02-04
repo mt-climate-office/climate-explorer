@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1,0,0.375,Glacier County,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1,0,0.375,Glacier County,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.956,0.15,0.656,Glacier County,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.125,0,0.5,Glacier County,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.575,0.106,0.781,Glacier County,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.125,0,0.438,Glacier County,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.306,0.169,0.5,Glacier County,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.312,0,0.438,Glacier County,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.056,0.106,0.406,Glacier County,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.375,0,0.438,Glacier County,con-wet

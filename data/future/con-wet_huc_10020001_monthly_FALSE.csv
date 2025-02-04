@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),0.636,0,0.182,Red Rock,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),0.636,0,0.182,Red Rock,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),0.545,0,0.136,Red Rock,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),0.727,0,0.182,Red Rock,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),0.572,0,0.136,Red Rock,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),0.727,0,0.182,Red Rock,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),0.745,0,0.273,Red Rock,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),0.727,0,0.182,Red Rock,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),0.955,0,0.273,Red Rock,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),0.727,0,0.182,Red Rock,con-wet

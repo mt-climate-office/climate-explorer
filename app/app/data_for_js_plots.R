@@ -155,31 +155,36 @@ get_future_df <- function(variable, diff, table_type, loc_type, db_id) {
     readr::read_csv(out_name, show_col_types = FALSE)
   } else {
     print(glue::glue("Creating {out_name} from API."))
-    glue::glue(
-      "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/future/{loc_type}/{db_id}/{variable}/"
-    ) %>%
-      httr::GET(
-        query = list(
-          diff = diff,
-          table_type = table_type
-        )
+    tryCatch(
+      glue::glue(
+        "http://fcfc-mesonet-staging.cfc.umt.edu/blm_api/data/future/{loc_type}/{db_id}/{variable}/"
       ) %>%
-      httr::content(show_col_type=FALSE) %>%
-      readr::write_csv(out_name)
+        httr::GET(
+          query = list(
+            diff = diff,
+            table_type = table_type
+          )
+        ) %>%
+        httr::content(show_col_type=FALSE) %>%
+        readr::write_csv(out_name),
+      error = function(e) {
+        tibble::tibble() %>% 
+          readr::write_csv(out_name)
+      }
+    )
   }
 }
 
 dat %>%
-  tidyr::crossing(future_df) %>%
-  dplyr::select(-name, -endpoint) %>%
-  purrr::pmap(get_future_df)
-
-dat %>%
   tidyr::crossing(historical_df) %>%
-  dplyr::select(-name, -endpoint) %>%
+  dplyr::select(-name) %>%
   purrr::pmap(get_historical_df)
 
-
-
+dat %>%
+  tidyr::crossing(future_df) %>%
+  dplyr::select(-name, -endpoint) %>%
+  dplyr::filter(db_id != "10050003") %>%
+  purrr::pmap(get_future_df)
+   
 
 
