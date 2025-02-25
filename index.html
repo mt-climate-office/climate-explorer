@@ -75,6 +75,12 @@
             overflow-y: auto;
             backdrop-filter: blur(5px); /* Added blur effect for better readability */
         }
+        .section-title {
+            margin: 0px 0px;
+        }
+        .sidebar-title {
+            margin: 0px 0px 10px 0px;
+        }
         
         /* Make form elements and plot container fully opaque for contrast */
         select, .multiselect, .plot-container {
@@ -135,27 +141,54 @@
         <div class="content">
             <div id="map" class="map"></div>
             <div class="sidebar active">
-                <h2 class="sidebar-title">Population Analysis</h2>
+                <h2 class="sidebar-title">Climate and Vegetation Trends</h2>
+                <h3 class="section-title">Variable Selection</h3>
+                <select id="historical-variable-selector">
+                    <optgroup label="GridMET Variables">
+                        <option value="erc">Energy Release Component</option>
+                        <option value="etr">Potential ET (Alfalfa)</option>
+                        <option value="pet">Potential ET (Grass)</option>
+                        <option value="pr" selected="selected">Precipitation</option>
+                        <option value="rmax">Maximum Relative Humidity</option>
+                        <option value="rmin">Minimum Relative Humidity</option>
+                        <option value="tmmn">Minumum Temperature</option>
+                        <option value="tmmx">Maximum Temperature</option>
+                        <option value="vpd">Vapor Pressure Deficit</option>
+                        <option value="vs">Wind Speed</option>
+                    </optgroup>
+                    <optgroup label="Satellite Indicators">
+                        <option value="afg">RAP Annual Forb and Grass Cover</option>
+                        <option value="bgr">RAP Bare Ground Cover</option>
+                        <option value="pfg">RAP Perennial Forb and Grass Cover</option>
+                        <option value="shr">RAP Shrub Cover</option>
+                        <option value="tre">RAP Tree Cover</option>
+                        <option value="evi">MOD13 EVI</option>
+                        <option value="ndvi">MOD13 NDVI</option>
+                        <option value="et_m16">MOD16 ET</option>
+                        <option value="pet_m16">MOD16 PET</option>
+                        <option value="gpp">MOD17 GPP</option>
+                        <option value="afgnpp">RAP Forb and Grass NPP</option>
+                        <option value="pfgnpp">RAP Perennial Forb and Grass NPP</option>
+                        <option value="shrnpp">RAP Shrub NPP</option>
+                        <option value="trenpp">RAP Tree NPP</option>
+                    </optgroup>
+                </select>
                 <h3 class="section-title">Time Period</h3>
-                <select>
-                    <option>Lorem ipsum dolor sit amet</option>
-                    <option>Consectetur adipiscing elit</option>
-                    <option>Sed do eiusmod tempor</option>
+                <select id="historical-time-selector">
+                    <option value="annual">Annual</option>
+                    <option value="01">January</option>
+                    <option value="02">February</option>
+                    <option value="03">March</option>
+                    <option value="04">April</option>
+                    <option value="05">May</option>
+                    <option value="06">June</option>
+                    <option value="07">July</option>
+                    <option value="08">August</option>
+                    <option value="09">September</option>
+                    <option value="10">October</option>
+                    <option value="11">November</option>
+                    <option value="12">December</option>
                 </select>
-                <h3 class="section-title">Region Type</h3>
-                <select>
-                    <option>Ut enim ad minim veniam</option>
-                    <option>Quis nostrud exercitation</option>
-                    <option>Ullamco laboris nisi ut</option>
-                </select>
-                <h3 class="section-title">Data Categories</h3>
-                <div class="multiselect">
-                    <label><input type="checkbox"> Duis aute irure dolor</label>
-                    <label><input type="checkbox"> In reprehenderit in voluptate</label>
-                    <label><input type="checkbox"> Velit esse cillum dolore</label>
-                    <label><input type="checkbox"> Eu fugiat nulla pariatur</label>
-                    <label><input type="checkbox"> Excepteur sint occaecat</label>
-                </div>
                 <div id="plot1" class="plot-container"></div>
             </div>
             <div class="sidebar">
@@ -227,8 +260,31 @@
             // Trigger resize for plot
             window.dispatchEvent(new Event('resize'));
         }
-    </script>
+
+        // Add event listener for variable selector changes
+        document.getElementById('historical-variable-selector').addEventListener('change', function(e) {
+            const timeSelector = document.getElementById('historical-time-selector');
+            const selectedVariable = e.target.value;
+            
+            // Hide monthly options for satellite variables
+            const satelliteVars = ['afg', 'bgr', 'pfg', 'shr', 'tre', 'evi', 'ndvi', 'et_m16', 'pet_m16', 'gpp', 'afgnpp', 'pfgnpp', 'shrnpp', 'trenpp'];
+            
+            Array.from(timeSelector.options).forEach(option => {
+                if (option.value !== 'annual') {
+                    option.style.display = satelliteVars.includes(selectedVariable) ? 'none' : '';
+                }
+            });
+            
+            // Reset to annual if satellite variable selected and monthly was previously selected
+            if (satelliteVars.includes(selectedVariable) && timeSelector.value !== 'annual') {
+                timeSelector.value = 'annual';
+            }
+
+            
+        });
     
+    </script>
+
     <script>
         // Montana coordinates
         const MONTANA_CENTER = [46.8797, -108.8];
