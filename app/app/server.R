@@ -55,7 +55,6 @@ function(input, output, session) {
       unlist()
     
     scenarios <- paste(input$scenario, collapse = ",")
-
     dat <- glue::glue(
         "{API_URL}/data/future/{click[[1]]}/{click[[2]]}/{input$variable}/"
       ) %>%
@@ -65,7 +64,8 @@ function(input, output, session) {
             table_type = input$plot_type,
             scenarios = scenarios
           )
-        ) %>%
+        ) %T>%
+        print() %>%
         httr::content(show_col_types = FALSE) %>% 
         factor_scenario() 
     
@@ -109,6 +109,7 @@ function(input, output, session) {
       hp <- input$historical_period
     }
     
+    print(glue::glue("{API_URL}/data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"))
     dat <- glue::glue(
       "{API_URL}/data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"
 
@@ -195,7 +196,6 @@ function(input, output, session) {
     }
     
     url = glue::glue("https://data.climate.umt.edu/mt-normals/cog/{input$historical_variable}/{tolower(hp)}_mean.tif")
-    print(url)
         info <- historical_legend(input)
     print(info)
 
