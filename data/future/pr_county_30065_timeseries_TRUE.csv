@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,16.006,10.339,12.709,Musselshell County,pr
+1951,Historical Emissions,14.73,11.655,13.017,Musselshell County,pr
+1952,Historical Emissions,15.16,10.335,12.827,Musselshell County,pr
+1953,Historical Emissions,17.459,11.172,13.996,Musselshell County,pr
+1954,Historical Emissions,19.163,10.003,14.782,Musselshell County,pr
+1955,Historical Emissions,18.197,8.179,13.988,Musselshell County,pr
+1956,Historical Emissions,16.738,9.023,12.111,Musselshell County,pr
+1957,Historical Emissions,19.911,10.676,14.827,Musselshell County,pr
+1958,Historical Emissions,17.907,12.092,16.775,Musselshell County,pr
+1959,Historical Emissions,17.991,10.838,14.475,Musselshell County,pr
+1960,Historical Emissions,16.92,10.953,13.895,Musselshell County,pr
+1961,Historical Emissions,15.708,11.499,14.032,Musselshell County,pr
+1962,Historical Emissions,17.978,10.249,12.544,Musselshell County,pr
+1963,Historical Emissions,16.894,13.521,15.746,Musselshell County,pr
+1964,Historical Emissions,17.067,9.82,14.384,Musselshell County,pr
+1965,Historical Emissions,15.525,10.762,12.859,Musselshell County,pr
+1966,Historical Emissions,17.374,12.033,13.812,Musselshell County,pr
+1967,Historical Emissions,19.083,9.385,13.468,Musselshell County,pr
+1968,Historical Emissions,18.769,11.993,14.497,Musselshell County,pr
+1969,Historical Emissions,14.91,11.818,13.361,Musselshell County,pr
+1970,Historical Emissions,15.938,10.426,12.971,Musselshell County,pr
+1971,Historical Emissions,14.818,10.478,13.689,Musselshell County,pr
+1972,Historical Emissions,15.296,11.538,13.939,Musselshell County,pr
+1973,Historical Emissions,17.745,12.956,14.9,Musselshell County,pr
+1974,Historical Emissions,16.763,9.741,13.995,Musselshell County,pr
+1975,Historical Emissions,16.693,12.064,15.442,Musselshell County,pr
+1976,Historical Emissions,17.375,11.079,14.237,Musselshell County,pr
+1977,Historical Emissions,18.15,10.807,14.827,Musselshell County,pr
+1978,Historical Emissions,18.297,13.7,16.593,Musselshell County,pr
+1979,Historical Emissions,16.582,13.359,14.553,Musselshell County,pr
+1980,Historical Emissions,16.852,10.108,13.204,Musselshell County,pr
+1981,Historical Emissions,17.217,11.596,13.11,Musselshell County,pr
+1982,Historical Emissions,15.396,12.361,14.66,Musselshell County,pr
+1983,Historical Emissions,16.298,10.845,14.296,Musselshell County,pr
+1984,Historical Emissions,15.812,12.295,13.368,Musselshell County,pr
+1985,Historical Emissions,15.598,11.29,13.461,Musselshell County,pr
+1986,Historical Emissions,21.018,13.095,15.93,Musselshell County,pr
+1987,Historical Emissions,18.267,12.13,14.774,Musselshell County,pr
+1988,Historical Emissions,19.064,13.28,16.965,Musselshell County,pr
+1989,Historical Emissions,17.743,12.367,13.673,Musselshell County,pr
+1990,Historical Emissions,16.914,11.203,14.671,Musselshell County,pr
+1991,Historical Emissions,16.909,10.771,13.114,Musselshell County,pr
+1992,Historical Emissions,14.573,12.42,13.298,Musselshell County,pr
+1993,Historical Emissions,16.197,13.318,15.289,Musselshell County,pr
+1994,Historical Emissions,15.151,8.846,12.455,Musselshell County,pr
+1995,Historical Emissions,16.893,10.756,13.421,Musselshell County,pr
+1996,Historical Emissions,14.655,7.702,12.705,Musselshell County,pr
+1997,Historical Emissions,16.18,12,14.581,Musselshell County,pr
+1998,Historical Emissions,17.677,12.546,15.229,Musselshell County,pr
+1999,Historical Emissions,18.421,11.223,14.564,Musselshell County,pr
+2000,Historical Emissions,16.253,11.968,13.306,Musselshell County,pr
+2001,Historical Emissions,17.41,12.325,13.935,Musselshell County,pr
+2002,Historical Emissions,15.924,13.234,15.121,Musselshell County,pr
+2003,Historical Emissions,15.334,12.53,13.731,Musselshell County,pr
+2004,Historical Emissions,18.082,9.169,13.82,Musselshell County,pr
+2005,Historical Emissions,14.423,12.005,13.225,Musselshell County,pr
+2006,Historical Emissions,19.715,11.962,17.19,Musselshell County,pr
+2007,Historical Emissions,17.008,11.781,13.208,Musselshell County,pr
+2008,Historical Emissions,14.914,11.289,13.798,Musselshell County,pr
+2009,Historical Emissions,18.303,12.387,15.388,Musselshell County,pr
+2010,Historical Emissions,15.507,10.934,13.842,Musselshell County,pr
+2011,Historical Emissions,17.32,11.389,14.136,Musselshell County,pr
+2012,Historical Emissions,15.458,11.786,13.323,Musselshell County,pr
+2013,Historical Emissions,16.676,10.783,13.809,Musselshell County,pr
+2014,Historical Emissions,16.296,10.989,13.928,Musselshell County,pr
+2015,"Moderating Emissions
+(SSP1-2.6)",16.22,12.269,13.566,Musselshell County,pr
+2015,"Middle of the Road
+(SSP2-4.5)",17.746,10.141,11.888,Musselshell County,pr
+2015,"High Emissions
+(SSP3-7.0)",16.525,10.278,13.447,Musselshell County,pr
+2015,"Accelerating Emissions
+(SSP5-8.5)",15.753,10.718,13.165,Musselshell County,pr
+2016,"Moderating Emissions
+(SSP1-2.6)",14.795,12.521,13.483,Musselshell County,pr
+2016,"Middle of the Road
+(SSP2-4.5)",19.077,13.161,15.172,Musselshell County,pr
+2016,"High Emissions
+(SSP3-7.0)",16.821,10.733,13.43,Musselshell County,pr
+2016,"Accelerating Emissions
+(SSP5-8.5)",18.303,11.709,16.52,Musselshell County,pr
+2017,"Moderating Emissions
+(SSP1-2.6)",17.878,14.665,15.864,Musselshell County,pr
+2017,"Middle of the Road
+(SSP2-4.5)",18.366,11.137,14.984,Musselshell County,pr
+2017,"High Emissions
+(SSP3-7.0)",15.943,13.285,14.48,Musselshell County,pr
+2017,"Accelerating Emissions
+(SSP5-8.5)",16.164,11.278,13.726,Musselshell County,pr
+2018,"Moderating Emissions
+(SSP1-2.6)",18.171,13.611,14.5,Musselshell County,pr
+2018,"Middle of the Road
+(SSP2-4.5)",15.433,10.557,13.476,Musselshell County,pr
+2018,"High Emissions
+(SSP3-7.0)",19.367,14.397,16.819,Musselshell County,pr
+2018,"Accelerating Emissions
+(SSP5-8.5)",17.615,13.264,15.581,Musselshell County,pr
+2019,"Moderating Emissions
+(SSP1-2.6)",16.503,11.923,14.516,Musselshell County,pr
+2019,"Middle of the Road
+(SSP2-4.5)",16.588,11.729,13.631,Musselshell County,pr
+2019,"High Emissions
+(SSP3-7.0)",19.298,12.45,13.701,Musselshell County,pr
+2019,"Accelerating Emissions
+(SSP5-8.5)",17.898,9.038,12.206,Musselshell County,pr
+2020,"Moderating Emissions
+(SSP1-2.6)",19.756,11.092,14.299,Musselshell County,pr
+2020,"Middle of the Road
+(SSP2-4.5)",16.783,9.937,14.575,Musselshell County,pr
+2020,"High Emissions
+(SSP3-7.0)",19.488,12.426,14.705,Musselshell County,pr
+2020,"Accelerating Emissions
+(SSP5-8.5)",16.945,13.242,15.631,Musselshell County,pr
+2021,"Moderating Emissions
+(SSP1-2.6)",18.625,12.181,15.218,Musselshell County,pr
+2021,"Middle of the Road
+(SSP2-4.5)",17.962,8.443,13.004,Musselshell County,pr
+2021,"High Emissions
+(SSP3-7.0)",16.362,10.067,14.361,Musselshell County,pr
+2021,"Accelerating Emissions
+(SSP5-8.5)",19.661,11.171,14.252,Musselshell County,pr
+2022,"Moderating Emissions
+(SSP1-2.6)",19.077,12.878,15.601,Musselshell County,pr
+2022,"Middle of the Road
+(SSP2-4.5)",21.657,11.317,13.918,Musselshell County,pr
+2022,"High Emissions
+(SSP3-7.0)",18.375,12.499,17.133,Musselshell County,pr
+2022,"Accelerating Emissions
+(SSP5-8.5)",17.676,11.75,13.196,Musselshell County,pr
+2023,"Moderating Emissions
+(SSP1-2.6)",17.853,12.868,15.792,Musselshell County,pr
+2023,"Middle of the Road
+(SSP2-4.5)",18.87,12.181,14.935,Musselshell County,pr
+2023,"High Emissions
+(SSP3-7.0)",18.556,12.411,13.902,Musselshell County,pr
+2023,"Accelerating Emissions
+(SSP5-8.5)",20.061,14.707,17.417,Musselshell County,pr
+2024,"Moderating Emissions
+(SSP1-2.6)",16.287,11.932,14.96,Musselshell County,pr
+2024,"Middle of the Road
+(SSP2-4.5)",17.751,12.039,15.139,Musselshell County,pr
+2024,"High Emissions
+(SSP3-7.0)",14.961,11.592,14.275,Musselshell County,pr
+2024,"Accelerating Emissions
+(SSP5-8.5)",18.694,13.77,16.984,Musselshell County,pr
+2025,"Moderating Emissions
+(SSP1-2.6)",17.076,12.481,13.903,Musselshell County,pr
+2025,"Middle of the Road
+(SSP2-4.5)",16.157,13.847,15.066,Musselshell County,pr
+2025,"High Emissions
+(SSP3-7.0)",17.097,11.007,12.784,Musselshell County,pr
+2025,"Accelerating Emissions
+(SSP5-8.5)",20.857,11.842,15.629,Musselshell County,pr
+2026,"Moderating Emissions
+(SSP1-2.6)",19.982,11.103,14.856,Musselshell County,pr
+2026,"Middle of the Road
+(SSP2-4.5)",15.779,12.293,13.706,Musselshell County,pr
+2026,"High Emissions
+(SSP3-7.0)",21.43,13.564,17.825,Musselshell County,pr
+2026,"Accelerating Emissions
+(SSP5-8.5)",20.009,12.842,16.358,Musselshell County,pr
+2027,"Moderating Emissions
+(SSP1-2.6)",19.241,10.839,16.408,Musselshell County,pr
+2027,"Middle of the Road
+(SSP2-4.5)",17.354,11.021,13.435,Musselshell County,pr
+2027,"High Emissions
+(SSP3-7.0)",18.921,14.121,15.914,Musselshell County,pr
+2027,"Accelerating Emissions
+(SSP5-8.5)",19.317,11.193,16.297,Musselshell County,pr
+2028,"Moderating Emissions
+(SSP1-2.6)",18.026,13.075,14.998,Musselshell County,pr
+2028,"Middle of the Road
+(SSP2-4.5)",17.937,13.437,16.672,Musselshell County,pr
+2028,"High Emissions
+(SSP3-7.0)",17.873,13.896,14.889,Musselshell County,pr
+2028,"Accelerating Emissions
+(SSP5-8.5)",17.308,12.713,14.403,Musselshell County,pr
+2029,"Moderating Emissions
+(SSP1-2.6)",18.438,11.848,14.037,Musselshell County,pr
+2029,"Middle of the Road
+(SSP2-4.5)",19.881,14.104,16.685,Musselshell County,pr
+2029,"High Emissions
+(SSP3-7.0)",18.937,13.006,16.126,Musselshell County,pr
+2029,"Accelerating Emissions
+(SSP5-8.5)",17.234,12.004,13.953,Musselshell County,pr
+2030,"Moderating Emissions
+(SSP1-2.6)",17.805,12.697,14.209,Musselshell County,pr
+2030,"Middle of the Road
+(SSP2-4.5)",18.439,10.4,12.852,Musselshell County,pr
+2030,"High Emissions
+(SSP3-7.0)",18.299,11.644,15.328,Musselshell County,pr
+2030,"Accelerating Emissions
+(SSP5-8.5)",16.526,10.619,12.138,Musselshell County,pr
+2031,"Moderating Emissions
+(SSP1-2.6)",17.718,11.144,14.679,Musselshell County,pr
+2031,"Middle of the Road
+(SSP2-4.5)",17.34,13.117,14.827,Musselshell County,pr
+2031,"High Emissions
+(SSP3-7.0)",17.106,11.218,13.282,Musselshell County,pr
+2031,"Accelerating Emissions
+(SSP5-8.5)",18.522,10.203,14.673,Musselshell County,pr
+2032,"Moderating Emissions
+(SSP1-2.6)",19.891,13.232,14.965,Musselshell County,pr
+2032,"Middle of the Road
+(SSP2-4.5)",17.404,13.037,14.429,Musselshell County,pr
+2032,"High Emissions
+(SSP3-7.0)",15.295,9.613,12.96,Musselshell County,pr
+2032,"Accelerating Emissions
+(SSP5-8.5)",17.888,10.498,16.505,Musselshell County,pr
+2033,"Moderating Emissions
+(SSP1-2.6)",16.274,12.471,15.09,Musselshell County,pr
+2033,"Middle of the Road
+(SSP2-4.5)",21.031,12.435,17.054,Musselshell County,pr
+2033,"High Emissions
+(SSP3-7.0)",18.251,11.977,15.127,Musselshell County,pr
+2033,"Accelerating Emissions
+(SSP5-8.5)",17.586,11.446,14.438,Musselshell County,pr
+2034,"Moderating Emissions
+(SSP1-2.6)",18.546,9.515,15.996,Musselshell County,pr
+2034,"Middle of the Road
+(SSP2-4.5)",17.829,12.397,13.409,Musselshell County,pr
+2034,"High Emissions
+(SSP3-7.0)",16.962,10.148,13.512,Musselshell County,pr
+2034,"Accelerating Emissions
+(SSP5-8.5)",21.166,11.13,14.461,Musselshell County,pr
+2035,"Moderating Emissions
+(SSP1-2.6)",18.339,10.357,13.992,Musselshell County,pr
+2035,"Middle of the Road
+(SSP2-4.5)",17.605,11.106,14.259,Musselshell County,pr
+2035,"High Emissions
+(SSP3-7.0)",17.893,10.149,15.516,Musselshell County,pr
+2035,"Accelerating Emissions
+(SSP5-8.5)",18.379,10.999,14.984,Musselshell County,pr
+2036,"Moderating Emissions
+(SSP1-2.6)",17.847,10.581,15.055,Musselshell County,pr
+2036,"Middle of the Road
+(SSP2-4.5)",17.883,12.77,14.984,Musselshell County,pr
+2036,"High Emissions
+(SSP3-7.0)",19.633,10.5,16.086,Musselshell County,pr
+2036,"Accelerating Emissions
+(SSP5-8.5)",20.082,13.345,15.01,Musselshell County,pr
+2037,"Moderating Emissions
+(SSP1-2.6)",20.002,10.999,16.138,Musselshell County,pr
+2037,"Middle of the Road
+(SSP2-4.5)",16.668,13.217,14.6,Musselshell County,pr
+2037,"High Emissions
+(SSP3-7.0)",19.147,13.745,16.925,Musselshell County,pr
+2037,"Accelerating Emissions
+(SSP5-8.5)",18.833,12.828,14.499,Musselshell County,pr
+2038,"Moderating Emissions
+(SSP1-2.6)",17.729,12.874,16.143,Musselshell County,pr
+2038,"Middle of the Road
+(SSP2-4.5)",17.855,11.308,15.768,Musselshell County,pr
+2038,"High Emissions
+(SSP3-7.0)",18.927,8.78,13.482,Musselshell County,pr
+2038,"Accelerating Emissions
+(SSP5-8.5)",17.57,12.2,15.409,Musselshell County,pr
+2039,"Moderating Emissions
+(SSP1-2.6)",18.628,12.754,17.036,Musselshell County,pr
+2039,"Middle of the Road
+(SSP2-4.5)",19.652,10.714,16.186,Musselshell County,pr
+2039,"High Emissions
+(SSP3-7.0)",17.526,10.634,14.955,Musselshell County,pr
+2039,"Accelerating Emissions
+(SSP5-8.5)",21.207,13.41,15.325,Musselshell County,pr
+2040,"Moderating Emissions
+(SSP1-2.6)",18.673,12.873,14.506,Musselshell County,pr
+2040,"Middle of the Road
+(SSP2-4.5)",15.292,11.226,12.611,Musselshell County,pr
+2040,"High Emissions
+(SSP3-7.0)",17.428,12.413,14.392,Musselshell County,pr
+2040,"Accelerating Emissions
+(SSP5-8.5)",17.023,10.726,14.434,Musselshell County,pr
+2041,"Moderating Emissions
+(SSP1-2.6)",20.707,10.766,14.19,Musselshell County,pr
+2041,"Middle of the Road
+(SSP2-4.5)",18.401,12.899,15.956,Musselshell County,pr
+2041,"High Emissions
+(SSP3-7.0)",17.387,13.298,15.506,Musselshell County,pr
+2041,"Accelerating Emissions
+(SSP5-8.5)",20.539,12.327,16.294,Musselshell County,pr
+2042,"Moderating Emissions
+(SSP1-2.6)",18.692,11.98,15.575,Musselshell County,pr
+2042,"Middle of the Road
+(SSP2-4.5)",19.401,12.258,15.746,Musselshell County,pr
+2042,"High Emissions
+(SSP3-7.0)",18.603,13.104,16.55,Musselshell County,pr
+2042,"Accelerating Emissions
+(SSP5-8.5)",17.896,12.313,15.044,Musselshell County,pr
+2043,"Moderating Emissions
+(SSP1-2.6)",18.678,11.433,15.306,Musselshell County,pr
+2043,"Middle of the Road
+(SSP2-4.5)",20.553,9.092,14.564,Musselshell County,pr
+2043,"High Emissions
+(SSP3-7.0)",18.994,11.258,15.133,Musselshell County,pr
+2043,"Accelerating Emissions
+(SSP5-8.5)",20.983,12.27,15.519,Musselshell County,pr
+2044,"Moderating Emissions
+(SSP1-2.6)",18.163,13.049,14.867,Musselshell County,pr
+2044,"Middle of the Road
+(SSP2-4.5)",17.475,11.351,15.073,Musselshell County,pr
+2044,"High Emissions
+(SSP3-7.0)",20.012,11.129,17.27,Musselshell County,pr
+2044,"Accelerating Emissions
+(SSP5-8.5)",18.147,11.046,16.048,Musselshell County,pr
+2045,"Moderating Emissions
+(SSP1-2.6)",18.551,12.762,15.286,Musselshell County,pr
+2045,"Middle of the Road
+(SSP2-4.5)",18.722,10.856,12.916,Musselshell County,pr
+2045,"High Emissions
+(SSP3-7.0)",18.522,10.65,16.053,Musselshell County,pr
+2045,"Accelerating Emissions
+(SSP5-8.5)",16.976,11.47,15.343,Musselshell County,pr
+2046,"Moderating Emissions
+(SSP1-2.6)",16.004,12.281,13.98,Musselshell County,pr
+2046,"Middle of the Road
+(SSP2-4.5)",18.799,12.787,17.381,Musselshell County,pr
+2046,"High Emissions
+(SSP3-7.0)",19.475,12.355,14.792,Musselshell County,pr
+2046,"Accelerating Emissions
+(SSP5-8.5)",20.413,12.369,14.464,Musselshell County,pr
+2047,"Moderating Emissions
+(SSP1-2.6)",20.091,11.476,12.782,Musselshell County,pr
+2047,"Middle of the Road
+(SSP2-4.5)",21.502,12.025,15.408,Musselshell County,pr
+2047,"High Emissions
+(SSP3-7.0)",18.031,13.941,16.066,Musselshell County,pr
+2047,"Accelerating Emissions
+(SSP5-8.5)",18.399,10.123,13.26,Musselshell County,pr
+2048,"Moderating Emissions
+(SSP1-2.6)",18.002,13.005,16.392,Musselshell County,pr
+2048,"Middle of the Road
+(SSP2-4.5)",18.491,11.596,15.171,Musselshell County,pr
+2048,"High Emissions
+(SSP3-7.0)",17.337,10.238,15.474,Musselshell County,pr
+2048,"Accelerating Emissions
+(SSP5-8.5)",18.12,10.08,13.666,Musselshell County,pr
+2049,"Moderating Emissions
+(SSP1-2.6)",15.161,10.653,13.163,Musselshell County,pr
+2049,"Middle of the Road
+(SSP2-4.5)",20.562,13.299,14.901,Musselshell County,pr
+2049,"High Emissions
+(SSP3-7.0)",18.203,13.328,16.322,Musselshell County,pr
+2049,"Accelerating Emissions
+(SSP5-8.5)",19.143,11.366,17.083,Musselshell County,pr
+2050,"Moderating Emissions
+(SSP1-2.6)",19.699,10.219,14.783,Musselshell County,pr
+2050,"Middle of the Road
+(SSP2-4.5)",16.294,11.201,14.623,Musselshell County,pr
+2050,"High Emissions
+(SSP3-7.0)",17.454,12.167,14.077,Musselshell County,pr
+2050,"Accelerating Emissions
+(SSP5-8.5)",17.745,11.075,15.986,Musselshell County,pr
+2051,"Moderating Emissions
+(SSP1-2.6)",21.516,13.391,14.976,Musselshell County,pr
+2051,"Middle of the Road
+(SSP2-4.5)",19.235,11.517,13.717,Musselshell County,pr
+2051,"High Emissions
+(SSP3-7.0)",17.073,12.918,15.69,Musselshell County,pr
+2051,"Accelerating Emissions
+(SSP5-8.5)",18.432,13.133,14.813,Musselshell County,pr
+2052,"Moderating Emissions
+(SSP1-2.6)",17.058,11.257,14.994,Musselshell County,pr
+2052,"Middle of the Road
+(SSP2-4.5)",18.226,12.6,16.178,Musselshell County,pr
+2052,"High Emissions
+(SSP3-7.0)",18.829,14.956,16.236,Musselshell County,pr
+2052,"Accelerating Emissions
+(SSP5-8.5)",19.162,11.304,13.798,Musselshell County,pr
+2053,"Moderating Emissions
+(SSP1-2.6)",20.854,11.58,13.756,Musselshell County,pr
+2053,"Middle of the Road
+(SSP2-4.5)",19.196,10.117,15.75,Musselshell County,pr
+2053,"High Emissions
+(SSP3-7.0)",16.94,10.508,13.82,Musselshell County,pr
+2053,"Accelerating Emissions
+(SSP5-8.5)",19.913,11.118,14.688,Musselshell County,pr
+2054,"Moderating Emissions
+(SSP1-2.6)",18.198,9.563,16.224,Musselshell County,pr
+2054,"Middle of the Road
+(SSP2-4.5)",22.758,11.992,14.839,Musselshell County,pr
+2054,"High Emissions
+(SSP3-7.0)",16.271,13.949,14.858,Musselshell County,pr
+2054,"Accelerating Emissions
+(SSP5-8.5)",15.697,10.634,13.393,Musselshell County,pr
+2055,"Moderating Emissions
+(SSP1-2.6)",17.868,11.87,14.312,Musselshell County,pr
+2055,"Middle of the Road
+(SSP2-4.5)",18.332,11.855,13.614,Musselshell County,pr
+2055,"High Emissions
+(SSP3-7.0)",16.146,11.111,14.25,Musselshell County,pr
+2055,"Accelerating Emissions
+(SSP5-8.5)",20.794,11.939,15.666,Musselshell County,pr
+2056,"Moderating Emissions
+(SSP1-2.6)",18.823,11.723,13.164,Musselshell County,pr
+2056,"Middle of the Road
+(SSP2-4.5)",19.399,12.91,16.517,Musselshell County,pr
+2056,"High Emissions
+(SSP3-7.0)",18.388,12.233,14.783,Musselshell County,pr
+2056,"Accelerating Emissions
+(SSP5-8.5)",17.544,13.292,14.814,Musselshell County,pr
+2057,"Moderating Emissions
+(SSP1-2.6)",19.299,14.065,15.661,Musselshell County,pr
+2057,"Middle of the Road
+(SSP2-4.5)",16.317,10.251,13.753,Musselshell County,pr
+2057,"High Emissions
+(SSP3-7.0)",18.968,12.726,16.674,Musselshell County,pr
+2057,"Accelerating Emissions
+(SSP5-8.5)",19.477,13.324,18.915,Musselshell County,pr
+2058,"Moderating Emissions
+(SSP1-2.6)",20.058,13.576,14.745,Musselshell County,pr
+2058,"Middle of the Road
+(SSP2-4.5)",15.735,13.258,13.803,Musselshell County,pr
+2058,"High Emissions
+(SSP3-7.0)",17.87,12.894,16.613,Musselshell County,pr
+2058,"Accelerating Emissions
+(SSP5-8.5)",19.761,12.086,16.174,Musselshell County,pr
+2059,"Moderating Emissions
+(SSP1-2.6)",19.419,13.376,15.94,Musselshell County,pr
+2059,"Middle of the Road
+(SSP2-4.5)",19.814,11.067,15.085,Musselshell County,pr
+2059,"High Emissions
+(SSP3-7.0)",16.759,11.058,13.474,Musselshell County,pr
+2059,"Accelerating Emissions
+(SSP5-8.5)",14.922,12.305,14.085,Musselshell County,pr
+2060,"Moderating Emissions
+(SSP1-2.6)",17.492,11.102,15.523,Musselshell County,pr
+2060,"Middle of the Road
+(SSP2-4.5)",16.328,10.475,14.929,Musselshell County,pr
+2060,"High Emissions
+(SSP3-7.0)",19.572,11.792,16.086,Musselshell County,pr
+2060,"Accelerating Emissions
+(SSP5-8.5)",19.939,12.722,17.188,Musselshell County,pr
+2061,"Moderating Emissions
+(SSP1-2.6)",19.179,11.649,15.72,Musselshell County,pr
+2061,"Middle of the Road
+(SSP2-4.5)",21.364,12.031,17.926,Musselshell County,pr
+2061,"High Emissions
+(SSP3-7.0)",18.997,12.815,16.552,Musselshell County,pr
+2061,"Accelerating Emissions
+(SSP5-8.5)",16.034,11.43,14.507,Musselshell County,pr
+2062,"Moderating Emissions
+(SSP1-2.6)",21.52,10.425,16.443,Musselshell County,pr
+2062,"Middle of the Road
+(SSP2-4.5)",20.411,9.259,14.249,Musselshell County,pr
+2062,"High Emissions
+(SSP3-7.0)",20.196,13.016,16.711,Musselshell County,pr
+2062,"Accelerating Emissions
+(SSP5-8.5)",21.637,11.068,14.986,Musselshell County,pr
+2063,"Moderating Emissions
+(SSP1-2.6)",17.077,12.681,15.245,Musselshell County,pr
+2063,"Middle of the Road
+(SSP2-4.5)",20.659,12.897,16.932,Musselshell County,pr
+2063,"High Emissions
+(SSP3-7.0)",17.777,12.165,13.043,Musselshell County,pr
+2063,"Accelerating Emissions
+(SSP5-8.5)",16.841,11.196,13.811,Musselshell County,pr
+2064,"Moderating Emissions
+(SSP1-2.6)",22.32,10.492,16.437,Musselshell County,pr
+2064,"Middle of the Road
+(SSP2-4.5)",18.539,12.205,15.966,Musselshell County,pr
+2064,"High Emissions
+(SSP3-7.0)",19.184,13.186,17.997,Musselshell County,pr
+2064,"Accelerating Emissions
+(SSP5-8.5)",16.962,10.87,12.838,Musselshell County,pr
+2065,"Moderating Emissions
+(SSP1-2.6)",19.579,12.193,14.905,Musselshell County,pr
+2065,"Middle of the Road
+(SSP2-4.5)",16.468,11.188,13.51,Musselshell County,pr
+2065,"High Emissions
+(SSP3-7.0)",15.058,12.612,13.866,Musselshell County,pr
+2065,"Accelerating Emissions
+(SSP5-8.5)",17.416,12.55,15.714,Musselshell County,pr
+2066,"Moderating Emissions
+(SSP1-2.6)",18.15,12.693,14.846,Musselshell County,pr
+2066,"Middle of the Road
+(SSP2-4.5)",19.271,12.131,15.275,Musselshell County,pr
+2066,"High Emissions
+(SSP3-7.0)",17.808,10.076,14.318,Musselshell County,pr
+2066,"Accelerating Emissions
+(SSP5-8.5)",21.047,10.394,13.039,Musselshell County,pr
+2067,"Moderating Emissions
+(SSP1-2.6)",18.442,9.995,15.61,Musselshell County,pr
+2067,"Middle of the Road
+(SSP2-4.5)",18.255,13.611,14.339,Musselshell County,pr
+2067,"High Emissions
+(SSP3-7.0)",17.968,9.319,14.998,Musselshell County,pr
+2067,"Accelerating Emissions
+(SSP5-8.5)",17.54,10.588,14.885,Musselshell County,pr
+2068,"Moderating Emissions
+(SSP1-2.6)",18.504,12.661,16.491,Musselshell County,pr
+2068,"Middle of the Road
+(SSP2-4.5)",20.484,13.756,17.335,Musselshell County,pr
+2068,"High Emissions
+(SSP3-7.0)",18.084,11.851,13.422,Musselshell County,pr
+2068,"Accelerating Emissions
+(SSP5-8.5)",19.578,10.762,13.198,Musselshell County,pr
+2069,"Moderating Emissions
+(SSP1-2.6)",18.075,11.95,15.893,Musselshell County,pr
+2069,"Middle of the Road
+(SSP2-4.5)",19.035,12.503,15.186,Musselshell County,pr
+2069,"High Emissions
+(SSP3-7.0)",17.116,11.107,12.824,Musselshell County,pr
+2069,"Accelerating Emissions
+(SSP5-8.5)",15.637,9.994,13.057,Musselshell County,pr
+2070,"Moderating Emissions
+(SSP1-2.6)",21.552,13.393,15.822,Musselshell County,pr
+2070,"Middle of the Road
+(SSP2-4.5)",16.183,12.79,13.468,Musselshell County,pr
+2070,"High Emissions
+(SSP3-7.0)",18.204,11.074,15.079,Musselshell County,pr
+2070,"Accelerating Emissions
+(SSP5-8.5)",20,12.592,16.457,Musselshell County,pr
+2071,"Moderating Emissions
+(SSP1-2.6)",18.921,8.922,13.402,Musselshell County,pr
+2071,"Middle of the Road
+(SSP2-4.5)",18.848,11.316,17.93,Musselshell County,pr
+2071,"High Emissions
+(SSP3-7.0)",16.896,10.402,14.156,Musselshell County,pr
+2071,"Accelerating Emissions
+(SSP5-8.5)",14.657,11.138,12.924,Musselshell County,pr
+2072,"Moderating Emissions
+(SSP1-2.6)",17.081,11.992,14.884,Musselshell County,pr
+2072,"Middle of the Road
+(SSP2-4.5)",20.019,10.994,16.019,Musselshell County,pr
+2072,"High Emissions
+(SSP3-7.0)",17.626,12.752,16.791,Musselshell County,pr
+2072,"Accelerating Emissions
+(SSP5-8.5)",23.719,12.252,16.938,Musselshell County,pr
+2073,"Moderating Emissions
+(SSP1-2.6)",16.81,12.999,14.673,Musselshell County,pr
+2073,"Middle of the Road
+(SSP2-4.5)",22.083,12.074,17.381,Musselshell County,pr
+2073,"High Emissions
+(SSP3-7.0)",17.361,10.396,14.869,Musselshell County,pr
+2073,"Accelerating Emissions
+(SSP5-8.5)",16.31,12.627,15.147,Musselshell County,pr
+2074,"Moderating Emissions
+(SSP1-2.6)",18.896,12.184,15.925,Musselshell County,pr
+2074,"Middle of the Road
+(SSP2-4.5)",18.354,11.248,14.37,Musselshell County,pr
+2074,"High Emissions
+(SSP3-7.0)",19.912,14.213,15.021,Musselshell County,pr
+2074,"Accelerating Emissions
+(SSP5-8.5)",19.17,10.494,14.663,Musselshell County,pr
+2075,"Moderating Emissions
+(SSP1-2.6)",19.96,9.958,14.23,Musselshell County,pr
+2075,"Middle of the Road
+(SSP2-4.5)",18.07,12.394,15.976,Musselshell County,pr
+2075,"High Emissions
+(SSP3-7.0)",22.881,11.503,17.493,Musselshell County,pr
+2075,"Accelerating Emissions
+(SSP5-8.5)",17.943,11.422,14.302,Musselshell County,pr
+2076,"Moderating Emissions
+(SSP1-2.6)",18.872,12.302,16.803,Musselshell County,pr
+2076,"Middle of the Road
+(SSP2-4.5)",22.035,13.759,17.656,Musselshell County,pr
+2076,"High Emissions
+(SSP3-7.0)",18.892,11.295,14.081,Musselshell County,pr
+2076,"Accelerating Emissions
+(SSP5-8.5)",18.649,12.273,16.027,Musselshell County,pr
+2077,"Moderating Emissions
+(SSP1-2.6)",18.981,11.336,15.237,Musselshell County,pr
+2077,"Middle of the Road
+(SSP2-4.5)",17.943,12.545,14.654,Musselshell County,pr
+2077,"High Emissions
+(SSP3-7.0)",16.676,11.198,15.613,Musselshell County,pr
+2077,"Accelerating Emissions
+(SSP5-8.5)",16.344,11.164,14.124,Musselshell County,pr
+2078,"Moderating Emissions
+(SSP1-2.6)",20.065,9.853,13.616,Musselshell County,pr
+2078,"Middle of the Road
+(SSP2-4.5)",19.765,13.907,14.802,Musselshell County,pr
+2078,"High Emissions
+(SSP3-7.0)",18.012,10.185,13.527,Musselshell County,pr
+2078,"Accelerating Emissions
+(SSP5-8.5)",19.249,13.699,16.466,Musselshell County,pr
+2079,"Moderating Emissions
+(SSP1-2.6)",15.478,11.78,13.006,Musselshell County,pr
+2079,"Middle of the Road
+(SSP2-4.5)",19.302,12.932,14.495,Musselshell County,pr
+2079,"High Emissions
+(SSP3-7.0)",24.938,14.189,15.775,Musselshell County,pr
+2079,"Accelerating Emissions
+(SSP5-8.5)",16.946,11.254,14.556,Musselshell County,pr
+2080,"Moderating Emissions
+(SSP1-2.6)",19.146,12.316,17.8,Musselshell County,pr
+2080,"Middle of the Road
+(SSP2-4.5)",20.763,12.816,16.282,Musselshell County,pr
+2080,"High Emissions
+(SSP3-7.0)",17.699,12.575,15.121,Musselshell County,pr
+2080,"Accelerating Emissions
+(SSP5-8.5)",17.984,11.648,16.584,Musselshell County,pr
+2081,"Moderating Emissions
+(SSP1-2.6)",16.806,11.061,14.146,Musselshell County,pr
+2081,"Middle of the Road
+(SSP2-4.5)",20.385,11.62,14.45,Musselshell County,pr
+2081,"High Emissions
+(SSP3-7.0)",19.373,11.731,16.487,Musselshell County,pr
+2081,"Accelerating Emissions
+(SSP5-8.5)",17.979,11.979,13.721,Musselshell County,pr
+2082,"Moderating Emissions
+(SSP1-2.6)",17.64,9.255,15.31,Musselshell County,pr
+2082,"Middle of the Road
+(SSP2-4.5)",18.876,12.554,14.203,Musselshell County,pr
+2082,"High Emissions
+(SSP3-7.0)",20.382,11.534,14.79,Musselshell County,pr
+2082,"Accelerating Emissions
+(SSP5-8.5)",16.913,12.003,13.08,Musselshell County,pr
+2083,"Moderating Emissions
+(SSP1-2.6)",15.166,10.23,12.349,Musselshell County,pr
+2083,"Middle of the Road
+(SSP2-4.5)",15.902,11.999,14.586,Musselshell County,pr
+2083,"High Emissions
+(SSP3-7.0)",18.886,12.122,15.072,Musselshell County,pr
+2083,"Accelerating Emissions
+(SSP5-8.5)",19.911,11.261,14.556,Musselshell County,pr
+2084,"Moderating Emissions
+(SSP1-2.6)",21.138,13.087,15.839,Musselshell County,pr
+2084,"Middle of the Road
+(SSP2-4.5)",16.369,9.849,12.088,Musselshell County,pr
+2084,"High Emissions
+(SSP3-7.0)",14.256,9.865,12.926,Musselshell County,pr
+2084,"Accelerating Emissions
+(SSP5-8.5)",19.251,11.098,15.876,Musselshell County,pr
+2085,"Moderating Emissions
+(SSP1-2.6)",18.032,10.649,14.738,Musselshell County,pr
+2085,"Middle of the Road
+(SSP2-4.5)",20.904,13.359,15.186,Musselshell County,pr
+2085,"High Emissions
+(SSP3-7.0)",17.662,12.109,16.056,Musselshell County,pr
+2085,"Accelerating Emissions
+(SSP5-8.5)",22.049,12.186,17.213,Musselshell County,pr
+2086,"Moderating Emissions
+(SSP1-2.6)",19.255,11.964,14.586,Musselshell County,pr
+2086,"Middle of the Road
+(SSP2-4.5)",21.524,13.019,15.832,Musselshell County,pr
+2086,"High Emissions
+(SSP3-7.0)",17.528,11.593,13.994,Musselshell County,pr
+2086,"Accelerating Emissions
+(SSP5-8.5)",21.294,11.67,17.157,Musselshell County,pr
+2087,"Moderating Emissions
+(SSP1-2.6)",20.252,12.439,17.414,Musselshell County,pr
+2087,"Middle of the Road
+(SSP2-4.5)",19.248,12.625,16.702,Musselshell County,pr
+2087,"High Emissions
+(SSP3-7.0)",18.773,10.933,15.818,Musselshell County,pr
+2087,"Accelerating Emissions
+(SSP5-8.5)",24.99,13.612,17.752,Musselshell County,pr
+2088,"Moderating Emissions
+(SSP1-2.6)",21.952,12.898,16.731,Musselshell County,pr
+2088,"Middle of the Road
+(SSP2-4.5)",21.572,11.08,14.088,Musselshell County,pr
+2088,"High Emissions
+(SSP3-7.0)",20.741,12.691,16.241,Musselshell County,pr
+2088,"Accelerating Emissions
+(SSP5-8.5)",20.37,10.7,16.781,Musselshell County,pr
+2089,"Moderating Emissions
+(SSP1-2.6)",20.173,13.114,15.367,Musselshell County,pr
+2089,"Middle of the Road
+(SSP2-4.5)",19.736,12.288,15.565,Musselshell County,pr
+2089,"High Emissions
+(SSP3-7.0)",17.083,11.233,14.098,Musselshell County,pr
+2089,"Accelerating Emissions
+(SSP5-8.5)",17.896,10.29,14.782,Musselshell County,pr
+2090,"Moderating Emissions
+(SSP1-2.6)",19.15,11.636,14.784,Musselshell County,pr
+2090,"Middle of the Road
+(SSP2-4.5)",19.734,13.191,16.416,Musselshell County,pr
+2090,"High Emissions
+(SSP3-7.0)",15.834,10.353,12.684,Musselshell County,pr
+2090,"Accelerating Emissions
+(SSP5-8.5)",19.158,12.115,14.635,Musselshell County,pr
+2091,"Moderating Emissions
+(SSP1-2.6)",17.698,11.99,16.234,Musselshell County,pr
+2091,"Middle of the Road
+(SSP2-4.5)",21.183,11.368,17.264,Musselshell County,pr
+2091,"High Emissions
+(SSP3-7.0)",16.289,11.348,14.477,Musselshell County,pr
+2091,"Accelerating Emissions
+(SSP5-8.5)",18.803,12.935,15.419,Musselshell County,pr
+2092,"Moderating Emissions
+(SSP1-2.6)",18.229,10.487,14.902,Musselshell County,pr
+2092,"Middle of the Road
+(SSP2-4.5)",19.648,8.982,13.616,Musselshell County,pr
+2092,"High Emissions
+(SSP3-7.0)",20.504,11.475,17.763,Musselshell County,pr
+2092,"Accelerating Emissions
+(SSP5-8.5)",16.847,11.263,13.707,Musselshell County,pr
+2093,"Moderating Emissions
+(SSP1-2.6)",22.316,10.845,13.758,Musselshell County,pr
+2093,"Middle of the Road
+(SSP2-4.5)",19.85,13.137,16.622,Musselshell County,pr
+2093,"High Emissions
+(SSP3-7.0)",21.398,13.802,15.378,Musselshell County,pr
+2093,"Accelerating Emissions
+(SSP5-8.5)",16.104,12.002,14.315,Musselshell County,pr
+2094,"Moderating Emissions
+(SSP1-2.6)",16.119,13.553,14.56,Musselshell County,pr
+2094,"Middle of the Road
+(SSP2-4.5)",18.143,11.854,13.713,Musselshell County,pr
+2094,"High Emissions
+(SSP3-7.0)",17.935,10.839,15.395,Musselshell County,pr
+2094,"Accelerating Emissions
+(SSP5-8.5)",18.856,10.829,14.987,Musselshell County,pr
+2095,"Moderating Emissions
+(SSP1-2.6)",18.305,10.9,14.995,Musselshell County,pr
+2095,"Middle of the Road
+(SSP2-4.5)",18.625,10.534,15.671,Musselshell County,pr
+2095,"High Emissions
+(SSP3-7.0)",18.158,9.959,14.432,Musselshell County,pr
+2095,"Accelerating Emissions
+(SSP5-8.5)",17.187,11.19,14.253,Musselshell County,pr
+2096,"Moderating Emissions
+(SSP1-2.6)",19.09,12.243,15.334,Musselshell County,pr
+2096,"Middle of the Road
+(SSP2-4.5)",18.866,9.388,14.326,Musselshell County,pr
+2096,"High Emissions
+(SSP3-7.0)",16.875,11.493,12.326,Musselshell County,pr
+2096,"Accelerating Emissions
+(SSP5-8.5)",18.337,8.743,14.851,Musselshell County,pr
+2097,"Moderating Emissions
+(SSP1-2.6)",17.249,9.211,14.794,Musselshell County,pr
+2097,"Middle of the Road
+(SSP2-4.5)",18.264,12.157,15.009,Musselshell County,pr
+2097,"High Emissions
+(SSP3-7.0)",17.04,10.837,14.496,Musselshell County,pr
+2097,"Accelerating Emissions
+(SSP5-8.5)",21.794,13.557,16.703,Musselshell County,pr
+2098,"Moderating Emissions
+(SSP1-2.6)",21.516,11.523,13.44,Musselshell County,pr
+2098,"Middle of the Road
+(SSP2-4.5)",17.512,9.746,13.307,Musselshell County,pr
+2098,"High Emissions
+(SSP3-7.0)",18.301,14.273,16.126,Musselshell County,pr
+2098,"Accelerating Emissions
+(SSP5-8.5)",17.386,12.382,14.334,Musselshell County,pr
+2099,"Moderating Emissions
+(SSP1-2.6)",20.112,13.408,14.251,Musselshell County,pr
+2099,"Middle of the Road
+(SSP2-4.5)",18.583,12.461,15.072,Musselshell County,pr
+2099,"High Emissions
+(SSP3-7.0)",22.516,11.456,17.486,Musselshell County,pr
+2099,"Accelerating Emissions
+(SSP5-8.5)",17.561,8.931,14.389,Musselshell County,pr
+2100,"Moderating Emissions
+(SSP1-2.6)",21.036,12.156,15.496,Musselshell County,pr
+2100,"Middle of the Road
+(SSP2-4.5)",19.718,12.745,13.868,Musselshell County,pr
+2100,"High Emissions
+(SSP3-7.0)",21.765,13.731,14.793,Musselshell County,pr
+2100,"Accelerating Emissions
+(SSP5-8.5)",18.361,10.705,15.167,Musselshell County,pr

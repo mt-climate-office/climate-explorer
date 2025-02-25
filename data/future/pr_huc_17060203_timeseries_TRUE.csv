@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,12.044,9.259,10.627,Middle Salmon-Panther,pr
+1951,Historical Emissions,12.704,8.89,10.382,Middle Salmon-Panther,pr
+1952,Historical Emissions,13.197,9.182,10.41,Middle Salmon-Panther,pr
+1953,Historical Emissions,12.267,8.811,10.315,Middle Salmon-Panther,pr
+1954,Historical Emissions,13.293,10.38,10.603,Middle Salmon-Panther,pr
+1955,Historical Emissions,13.543,9.15,11.682,Middle Salmon-Panther,pr
+1956,Historical Emissions,12.876,8.948,10.5,Middle Salmon-Panther,pr
+1957,Historical Emissions,13.397,9.281,12.437,Middle Salmon-Panther,pr
+1958,Historical Emissions,13.505,10.425,11.988,Middle Salmon-Panther,pr
+1959,Historical Emissions,12.929,9.467,10.95,Middle Salmon-Panther,pr
+1960,Historical Emissions,13.753,10.849,11.821,Middle Salmon-Panther,pr
+1961,Historical Emissions,13.466,8.623,10.525,Middle Salmon-Panther,pr
+1962,Historical Emissions,14.267,8.866,11.776,Middle Salmon-Panther,pr
+1963,Historical Emissions,13.203,9.426,11.421,Middle Salmon-Panther,pr
+1964,Historical Emissions,13.526,8.752,11.464,Middle Salmon-Panther,pr
+1965,Historical Emissions,12.752,9.426,10.23,Middle Salmon-Panther,pr
+1966,Historical Emissions,15.143,10.007,13.482,Middle Salmon-Panther,pr
+1967,Historical Emissions,13.764,8.269,10.708,Middle Salmon-Panther,pr
+1968,Historical Emissions,12.937,10.077,12.323,Middle Salmon-Panther,pr
+1969,Historical Emissions,12.244,9.765,11.099,Middle Salmon-Panther,pr
+1970,Historical Emissions,14.175,9.152,12.069,Middle Salmon-Panther,pr
+1971,Historical Emissions,12.84,9.517,11.674,Middle Salmon-Panther,pr
+1972,Historical Emissions,12.482,9.247,11.258,Middle Salmon-Panther,pr
+1973,Historical Emissions,13.856,8.992,11.024,Middle Salmon-Panther,pr
+1974,Historical Emissions,14.79,9.458,10.461,Middle Salmon-Panther,pr
+1975,Historical Emissions,13.126,8.766,10.056,Middle Salmon-Panther,pr
+1976,Historical Emissions,14.634,9.839,12.646,Middle Salmon-Panther,pr
+1977,Historical Emissions,12.916,8.91,11.128,Middle Salmon-Panther,pr
+1978,Historical Emissions,13.361,9.038,12.819,Middle Salmon-Panther,pr
+1979,Historical Emissions,14.487,9.28,11.433,Middle Salmon-Panther,pr
+1980,Historical Emissions,13.216,9.616,11.035,Middle Salmon-Panther,pr
+1981,Historical Emissions,12.921,8.917,11.087,Middle Salmon-Panther,pr
+1982,Historical Emissions,14.067,10.603,12.744,Middle Salmon-Panther,pr
+1983,Historical Emissions,12.59,9.162,11.315,Middle Salmon-Panther,pr
+1984,Historical Emissions,14.121,9.935,11.156,Middle Salmon-Panther,pr
+1985,Historical Emissions,14.362,10.115,12.034,Middle Salmon-Panther,pr
+1986,Historical Emissions,13.398,11.122,12.752,Middle Salmon-Panther,pr
+1987,Historical Emissions,14.239,10.299,11.83,Middle Salmon-Panther,pr
+1988,Historical Emissions,15.382,10.277,11.087,Middle Salmon-Panther,pr
+1989,Historical Emissions,11.899,9.511,10.784,Middle Salmon-Panther,pr
+1990,Historical Emissions,13,9.105,10.974,Middle Salmon-Panther,pr
+1991,Historical Emissions,13.745,8.088,11.318,Middle Salmon-Panther,pr
+1992,Historical Emissions,12.901,8.691,10.156,Middle Salmon-Panther,pr
+1993,Historical Emissions,13,9.203,11.359,Middle Salmon-Panther,pr
+1994,Historical Emissions,13.758,9.423,12.032,Middle Salmon-Panther,pr
+1995,Historical Emissions,11.382,9.627,10.341,Middle Salmon-Panther,pr
+1996,Historical Emissions,12.014,8.63,9.432,Middle Salmon-Panther,pr
+1997,Historical Emissions,13.051,9.863,11.924,Middle Salmon-Panther,pr
+1998,Historical Emissions,13.061,8.95,10.936,Middle Salmon-Panther,pr
+1999,Historical Emissions,13.602,10.363,12.274,Middle Salmon-Panther,pr
+2000,Historical Emissions,11.932,9.079,10.16,Middle Salmon-Panther,pr
+2001,Historical Emissions,11.718,7.521,10.821,Middle Salmon-Panther,pr
+2002,Historical Emissions,14.002,8.561,10.848,Middle Salmon-Panther,pr
+2003,Historical Emissions,13.287,8.707,10.32,Middle Salmon-Panther,pr
+2004,Historical Emissions,13.487,8.966,11.631,Middle Salmon-Panther,pr
+2005,Historical Emissions,13.452,9.954,12.216,Middle Salmon-Panther,pr
+2006,Historical Emissions,12.78,9.714,10.755,Middle Salmon-Panther,pr
+2007,Historical Emissions,14.021,9.184,10.512,Middle Salmon-Panther,pr
+2008,Historical Emissions,12.565,10.809,11.628,Middle Salmon-Panther,pr
+2009,Historical Emissions,14.011,10.706,12.483,Middle Salmon-Panther,pr
+2010,Historical Emissions,14.056,8.683,10.898,Middle Salmon-Panther,pr
+2011,Historical Emissions,14.837,10.691,12.794,Middle Salmon-Panther,pr
+2012,Historical Emissions,13.459,8.558,11.147,Middle Salmon-Panther,pr
+2013,Historical Emissions,12.503,9.475,10.6,Middle Salmon-Panther,pr
+2014,Historical Emissions,12.798,9.957,11.295,Middle Salmon-Panther,pr
+2015,"Moderating Emissions
+(SSP1-2.6)",12.476,9.46,11.253,Middle Salmon-Panther,pr
+2015,"Middle of the Road
+(SSP2-4.5)",11.677,8.758,10.51,Middle Salmon-Panther,pr
+2015,"High Emissions
+(SSP3-7.0)",12.4,9.018,11.385,Middle Salmon-Panther,pr
+2015,"Accelerating Emissions
+(SSP5-8.5)",15.163,10.226,12.591,Middle Salmon-Panther,pr
+2016,"Moderating Emissions
+(SSP1-2.6)",12.114,9.338,10.564,Middle Salmon-Panther,pr
+2016,"Middle of the Road
+(SSP2-4.5)",13.14,8.381,11.289,Middle Salmon-Panther,pr
+2016,"High Emissions
+(SSP3-7.0)",14.03,10.419,12.597,Middle Salmon-Panther,pr
+2016,"Accelerating Emissions
+(SSP5-8.5)",11.621,9.126,10.676,Middle Salmon-Panther,pr
+2017,"Moderating Emissions
+(SSP1-2.6)",13.586,10.366,12.539,Middle Salmon-Panther,pr
+2017,"Middle of the Road
+(SSP2-4.5)",13.945,9.288,10.471,Middle Salmon-Panther,pr
+2017,"High Emissions
+(SSP3-7.0)",12.721,9.13,10.762,Middle Salmon-Panther,pr
+2017,"Accelerating Emissions
+(SSP5-8.5)",12.959,9.648,11.781,Middle Salmon-Panther,pr
+2018,"Moderating Emissions
+(SSP1-2.6)",13.216,10.001,11.542,Middle Salmon-Panther,pr
+2018,"Middle of the Road
+(SSP2-4.5)",12.458,9.28,11.069,Middle Salmon-Panther,pr
+2018,"High Emissions
+(SSP3-7.0)",14.428,9.777,11.551,Middle Salmon-Panther,pr
+2018,"Accelerating Emissions
+(SSP5-8.5)",14.064,10.715,12.207,Middle Salmon-Panther,pr
+2019,"Moderating Emissions
+(SSP1-2.6)",13.205,9.614,10.936,Middle Salmon-Panther,pr
+2019,"Middle of the Road
+(SSP2-4.5)",15.798,9.801,11.452,Middle Salmon-Panther,pr
+2019,"High Emissions
+(SSP3-7.0)",12.372,9.044,10.564,Middle Salmon-Panther,pr
+2019,"Accelerating Emissions
+(SSP5-8.5)",13.588,8.218,11.464,Middle Salmon-Panther,pr
+2020,"Moderating Emissions
+(SSP1-2.6)",12.924,8.433,10.032,Middle Salmon-Panther,pr
+2020,"Middle of the Road
+(SSP2-4.5)",14.467,8.223,11.897,Middle Salmon-Panther,pr
+2020,"High Emissions
+(SSP3-7.0)",14.299,10.012,12.873,Middle Salmon-Panther,pr
+2020,"Accelerating Emissions
+(SSP5-8.5)",15.265,9.65,12.164,Middle Salmon-Panther,pr
+2021,"Moderating Emissions
+(SSP1-2.6)",15.07,9.079,11.694,Middle Salmon-Panther,pr
+2021,"Middle of the Road
+(SSP2-4.5)",13.259,9.278,11.597,Middle Salmon-Panther,pr
+2021,"High Emissions
+(SSP3-7.0)",14.305,8.149,11.708,Middle Salmon-Panther,pr
+2021,"Accelerating Emissions
+(SSP5-8.5)",14.52,10.137,12.214,Middle Salmon-Panther,pr
+2022,"Moderating Emissions
+(SSP1-2.6)",12.87,9.945,11.452,Middle Salmon-Panther,pr
+2022,"Middle of the Road
+(SSP2-4.5)",14.069,10.644,11.938,Middle Salmon-Panther,pr
+2022,"High Emissions
+(SSP3-7.0)",15.222,10.491,11.838,Middle Salmon-Panther,pr
+2022,"Accelerating Emissions
+(SSP5-8.5)",15.687,9.988,12.002,Middle Salmon-Panther,pr
+2023,"Moderating Emissions
+(SSP1-2.6)",15.728,10.424,12.262,Middle Salmon-Panther,pr
+2023,"Middle of the Road
+(SSP2-4.5)",13.783,9.97,10.971,Middle Salmon-Panther,pr
+2023,"High Emissions
+(SSP3-7.0)",13.803,9.659,12.19,Middle Salmon-Panther,pr
+2023,"Accelerating Emissions
+(SSP5-8.5)",14.27,10.318,12.488,Middle Salmon-Panther,pr
+2024,"Moderating Emissions
+(SSP1-2.6)",13.325,9.36,10.561,Middle Salmon-Panther,pr
+2024,"Middle of the Road
+(SSP2-4.5)",13.374,9.376,11.614,Middle Salmon-Panther,pr
+2024,"High Emissions
+(SSP3-7.0)",14.053,9.465,10.585,Middle Salmon-Panther,pr
+2024,"Accelerating Emissions
+(SSP5-8.5)",14.897,10.779,11.952,Middle Salmon-Panther,pr
+2025,"Moderating Emissions
+(SSP1-2.6)",13.46,8.933,11.916,Middle Salmon-Panther,pr
+2025,"Middle of the Road
+(SSP2-4.5)",13.338,10.923,12.221,Middle Salmon-Panther,pr
+2025,"High Emissions
+(SSP3-7.0)",14.056,9.248,10.438,Middle Salmon-Panther,pr
+2025,"Accelerating Emissions
+(SSP5-8.5)",13.709,9.684,10.889,Middle Salmon-Panther,pr
+2026,"Moderating Emissions
+(SSP1-2.6)",16.427,9.691,11.638,Middle Salmon-Panther,pr
+2026,"Middle of the Road
+(SSP2-4.5)",11.815,9.271,11.08,Middle Salmon-Panther,pr
+2026,"High Emissions
+(SSP3-7.0)",15.512,12.566,13.756,Middle Salmon-Panther,pr
+2026,"Accelerating Emissions
+(SSP5-8.5)",14.339,10.015,11.688,Middle Salmon-Panther,pr
+2027,"Moderating Emissions
+(SSP1-2.6)",15.037,9.427,12.115,Middle Salmon-Panther,pr
+2027,"Middle of the Road
+(SSP2-4.5)",13.532,8.798,10.275,Middle Salmon-Panther,pr
+2027,"High Emissions
+(SSP3-7.0)",13.877,8.721,11.984,Middle Salmon-Panther,pr
+2027,"Accelerating Emissions
+(SSP5-8.5)",13.594,10.192,11.191,Middle Salmon-Panther,pr
+2028,"Moderating Emissions
+(SSP1-2.6)",13.793,8.99,11.837,Middle Salmon-Panther,pr
+2028,"Middle of the Road
+(SSP2-4.5)",14.088,11.405,12.664,Middle Salmon-Panther,pr
+2028,"High Emissions
+(SSP3-7.0)",14.355,10.08,11.414,Middle Salmon-Panther,pr
+2028,"Accelerating Emissions
+(SSP5-8.5)",13.52,10.137,12.105,Middle Salmon-Panther,pr
+2029,"Moderating Emissions
+(SSP1-2.6)",14.104,9.801,12.699,Middle Salmon-Panther,pr
+2029,"Middle of the Road
+(SSP2-4.5)",14.593,10.048,12.165,Middle Salmon-Panther,pr
+2029,"High Emissions
+(SSP3-7.0)",13.347,9.262,11.546,Middle Salmon-Panther,pr
+2029,"Accelerating Emissions
+(SSP5-8.5)",12.925,9.424,10.382,Middle Salmon-Panther,pr
+2030,"Moderating Emissions
+(SSP1-2.6)",13.872,9.916,11.103,Middle Salmon-Panther,pr
+2030,"Middle of the Road
+(SSP2-4.5)",14.37,9.136,10.796,Middle Salmon-Panther,pr
+2030,"High Emissions
+(SSP3-7.0)",15.273,8.798,11.056,Middle Salmon-Panther,pr
+2030,"Accelerating Emissions
+(SSP5-8.5)",13.645,8.935,10.607,Middle Salmon-Panther,pr
+2031,"Moderating Emissions
+(SSP1-2.6)",14.497,10.167,12.105,Middle Salmon-Panther,pr
+2031,"Middle of the Road
+(SSP2-4.5)",14.233,9.249,11.914,Middle Salmon-Panther,pr
+2031,"High Emissions
+(SSP3-7.0)",12.477,9.625,10.912,Middle Salmon-Panther,pr
+2031,"Accelerating Emissions
+(SSP5-8.5)",13.318,9.597,10.956,Middle Salmon-Panther,pr
+2032,"Moderating Emissions
+(SSP1-2.6)",14.887,8.886,11.634,Middle Salmon-Panther,pr
+2032,"Middle of the Road
+(SSP2-4.5)",14.1,10.231,12.854,Middle Salmon-Panther,pr
+2032,"High Emissions
+(SSP3-7.0)",12.511,9.203,11.842,Middle Salmon-Panther,pr
+2032,"Accelerating Emissions
+(SSP5-8.5)",14.593,9.449,11.381,Middle Salmon-Panther,pr
+2033,"Moderating Emissions
+(SSP1-2.6)",13.733,10.192,11.477,Middle Salmon-Panther,pr
+2033,"Middle of the Road
+(SSP2-4.5)",14.782,10.144,12.153,Middle Salmon-Panther,pr
+2033,"High Emissions
+(SSP3-7.0)",13.861,9.298,10.419,Middle Salmon-Panther,pr
+2033,"Accelerating Emissions
+(SSP5-8.5)",12.867,9.28,10.487,Middle Salmon-Panther,pr
+2034,"Moderating Emissions
+(SSP1-2.6)",14.646,11.681,12.269,Middle Salmon-Panther,pr
+2034,"Middle of the Road
+(SSP2-4.5)",13.791,9.494,11.671,Middle Salmon-Panther,pr
+2034,"High Emissions
+(SSP3-7.0)",12.375,9.344,11.188,Middle Salmon-Panther,pr
+2034,"Accelerating Emissions
+(SSP5-8.5)",14.376,10.975,11.969,Middle Salmon-Panther,pr
+2035,"Moderating Emissions
+(SSP1-2.6)",14.647,8.516,12.077,Middle Salmon-Panther,pr
+2035,"Middle of the Road
+(SSP2-4.5)",14.147,9.483,11.354,Middle Salmon-Panther,pr
+2035,"High Emissions
+(SSP3-7.0)",13.124,8.555,11.748,Middle Salmon-Panther,pr
+2035,"Accelerating Emissions
+(SSP5-8.5)",15.177,10.314,12.539,Middle Salmon-Panther,pr
+2036,"Moderating Emissions
+(SSP1-2.6)",12.719,10.431,12.317,Middle Salmon-Panther,pr
+2036,"Middle of the Road
+(SSP2-4.5)",15.553,9.303,12.128,Middle Salmon-Panther,pr
+2036,"High Emissions
+(SSP3-7.0)",13.475,9.215,10.302,Middle Salmon-Panther,pr
+2036,"Accelerating Emissions
+(SSP5-8.5)",15.022,10.862,12.374,Middle Salmon-Panther,pr
+2037,"Moderating Emissions
+(SSP1-2.6)",13.777,10.419,11.919,Middle Salmon-Panther,pr
+2037,"Middle of the Road
+(SSP2-4.5)",14.824,9.939,11.91,Middle Salmon-Panther,pr
+2037,"High Emissions
+(SSP3-7.0)",14.569,9.824,12.563,Middle Salmon-Panther,pr
+2037,"Accelerating Emissions
+(SSP5-8.5)",13.707,9.909,12.084,Middle Salmon-Panther,pr
+2038,"Moderating Emissions
+(SSP1-2.6)",15.186,10.059,11.211,Middle Salmon-Panther,pr
+2038,"Middle of the Road
+(SSP2-4.5)",13.144,9.065,10.376,Middle Salmon-Panther,pr
+2038,"High Emissions
+(SSP3-7.0)",13.483,10.011,11.537,Middle Salmon-Panther,pr
+2038,"Accelerating Emissions
+(SSP5-8.5)",13.084,10.129,11.216,Middle Salmon-Panther,pr
+2039,"Moderating Emissions
+(SSP1-2.6)",13.677,11.167,12.406,Middle Salmon-Panther,pr
+2039,"Middle of the Road
+(SSP2-4.5)",13.725,9.675,12.636,Middle Salmon-Panther,pr
+2039,"High Emissions
+(SSP3-7.0)",14.749,9.474,11.256,Middle Salmon-Panther,pr
+2039,"Accelerating Emissions
+(SSP5-8.5)",14.651,9.082,11.708,Middle Salmon-Panther,pr
+2040,"Moderating Emissions
+(SSP1-2.6)",14.737,10.215,11.69,Middle Salmon-Panther,pr
+2040,"Middle of the Road
+(SSP2-4.5)",12.473,9.324,9.973,Middle Salmon-Panther,pr
+2040,"High Emissions
+(SSP3-7.0)",14.113,8.905,12.236,Middle Salmon-Panther,pr
+2040,"Accelerating Emissions
+(SSP5-8.5)",14.63,9.19,13.068,Middle Salmon-Panther,pr
+2041,"Moderating Emissions
+(SSP1-2.6)",14.811,9.853,11.325,Middle Salmon-Panther,pr
+2041,"Middle of the Road
+(SSP2-4.5)",13.669,10.941,11.873,Middle Salmon-Panther,pr
+2041,"High Emissions
+(SSP3-7.0)",14.308,9.232,11.136,Middle Salmon-Panther,pr
+2041,"Accelerating Emissions
+(SSP5-8.5)",16.172,9.501,13.289,Middle Salmon-Panther,pr
+2042,"Moderating Emissions
+(SSP1-2.6)",13.58,10.592,11.684,Middle Salmon-Panther,pr
+2042,"Middle of the Road
+(SSP2-4.5)",13.697,10.437,12.361,Middle Salmon-Panther,pr
+2042,"High Emissions
+(SSP3-7.0)",14.348,9.739,11.587,Middle Salmon-Panther,pr
+2042,"Accelerating Emissions
+(SSP5-8.5)",14.523,8.618,12.987,Middle Salmon-Panther,pr
+2043,"Moderating Emissions
+(SSP1-2.6)",14.857,9.376,12.495,Middle Salmon-Panther,pr
+2043,"Middle of the Road
+(SSP2-4.5)",14.953,8.196,11.471,Middle Salmon-Panther,pr
+2043,"High Emissions
+(SSP3-7.0)",12.801,10.256,11.563,Middle Salmon-Panther,pr
+2043,"Accelerating Emissions
+(SSP5-8.5)",13.672,9.602,11.587,Middle Salmon-Panther,pr
+2044,"Moderating Emissions
+(SSP1-2.6)",14.852,9.09,12.158,Middle Salmon-Panther,pr
+2044,"Middle of the Road
+(SSP2-4.5)",13.87,10.154,10.897,Middle Salmon-Panther,pr
+2044,"High Emissions
+(SSP3-7.0)",15.291,8.76,11.957,Middle Salmon-Panther,pr
+2044,"Accelerating Emissions
+(SSP5-8.5)",12.292,9.722,10.967,Middle Salmon-Panther,pr
+2045,"Moderating Emissions
+(SSP1-2.6)",13.982,10.553,11.891,Middle Salmon-Panther,pr
+2045,"Middle of the Road
+(SSP2-4.5)",13.924,9.805,11.21,Middle Salmon-Panther,pr
+2045,"High Emissions
+(SSP3-7.0)",14.451,9.948,12.439,Middle Salmon-Panther,pr
+2045,"Accelerating Emissions
+(SSP5-8.5)",13.842,8.935,11.981,Middle Salmon-Panther,pr
+2046,"Moderating Emissions
+(SSP1-2.6)",12.325,8.93,11.152,Middle Salmon-Panther,pr
+2046,"Middle of the Road
+(SSP2-4.5)",14.679,9.438,11.621,Middle Salmon-Panther,pr
+2046,"High Emissions
+(SSP3-7.0)",14.233,10.253,12.478,Middle Salmon-Panther,pr
+2046,"Accelerating Emissions
+(SSP5-8.5)",14.472,10.878,11.917,Middle Salmon-Panther,pr
+2047,"Moderating Emissions
+(SSP1-2.6)",15.907,9.953,12.274,Middle Salmon-Panther,pr
+2047,"Middle of the Road
+(SSP2-4.5)",14.852,10.792,13.63,Middle Salmon-Panther,pr
+2047,"High Emissions
+(SSP3-7.0)",12.222,9.437,10.722,Middle Salmon-Panther,pr
+2047,"Accelerating Emissions
+(SSP5-8.5)",13.768,9.523,11.082,Middle Salmon-Panther,pr
+2048,"Moderating Emissions
+(SSP1-2.6)",14.328,11.284,12.057,Middle Salmon-Panther,pr
+2048,"Middle of the Road
+(SSP2-4.5)",14.464,10.318,11.998,Middle Salmon-Panther,pr
+2048,"High Emissions
+(SSP3-7.0)",15.557,9.753,12.557,Middle Salmon-Panther,pr
+2048,"Accelerating Emissions
+(SSP5-8.5)",12.18,9.295,11.015,Middle Salmon-Panther,pr
+2049,"Moderating Emissions
+(SSP1-2.6)",12.644,9.71,11.654,Middle Salmon-Panther,pr
+2049,"Middle of the Road
+(SSP2-4.5)",15.049,10.585,12.266,Middle Salmon-Panther,pr
+2049,"High Emissions
+(SSP3-7.0)",13.736,10.561,11.011,Middle Salmon-Panther,pr
+2049,"Accelerating Emissions
+(SSP5-8.5)",14.868,9.868,11.302,Middle Salmon-Panther,pr
+2050,"Moderating Emissions
+(SSP1-2.6)",15.459,9.247,13.078,Middle Salmon-Panther,pr
+2050,"Middle of the Road
+(SSP2-4.5)",13.839,10.938,13.182,Middle Salmon-Panther,pr
+2050,"High Emissions
+(SSP3-7.0)",15.983,11.351,11.824,Middle Salmon-Panther,pr
+2050,"Accelerating Emissions
+(SSP5-8.5)",16.35,10.14,12.371,Middle Salmon-Panther,pr
+2051,"Moderating Emissions
+(SSP1-2.6)",14.313,11.09,11.992,Middle Salmon-Panther,pr
+2051,"Middle of the Road
+(SSP2-4.5)",14.837,11.066,12.423,Middle Salmon-Panther,pr
+2051,"High Emissions
+(SSP3-7.0)",14.442,10.976,12.612,Middle Salmon-Panther,pr
+2051,"Accelerating Emissions
+(SSP5-8.5)",13.449,10.327,11.527,Middle Salmon-Panther,pr
+2052,"Moderating Emissions
+(SSP1-2.6)",13.905,11.546,12.368,Middle Salmon-Panther,pr
+2052,"Middle of the Road
+(SSP2-4.5)",13.577,11.127,12.008,Middle Salmon-Panther,pr
+2052,"High Emissions
+(SSP3-7.0)",14.705,12.804,13.788,Middle Salmon-Panther,pr
+2052,"Accelerating Emissions
+(SSP5-8.5)",14.687,10.501,11.976,Middle Salmon-Panther,pr
+2053,"Moderating Emissions
+(SSP1-2.6)",15.517,10.478,11.951,Middle Salmon-Panther,pr
+2053,"Middle of the Road
+(SSP2-4.5)",17.555,8.799,11.378,Middle Salmon-Panther,pr
+2053,"High Emissions
+(SSP3-7.0)",12.533,8.605,10.729,Middle Salmon-Panther,pr
+2053,"Accelerating Emissions
+(SSP5-8.5)",14.716,10.26,12.852,Middle Salmon-Panther,pr
+2054,"Moderating Emissions
+(SSP1-2.6)",14.052,10.093,11.605,Middle Salmon-Panther,pr
+2054,"Middle of the Road
+(SSP2-4.5)",13.328,11.324,12.936,Middle Salmon-Panther,pr
+2054,"High Emissions
+(SSP3-7.0)",14.56,11.719,13.157,Middle Salmon-Panther,pr
+2054,"Accelerating Emissions
+(SSP5-8.5)",12.488,8.788,11.827,Middle Salmon-Panther,pr
+2055,"Moderating Emissions
+(SSP1-2.6)",14.859,9.829,11.485,Middle Salmon-Panther,pr
+2055,"Middle of the Road
+(SSP2-4.5)",13.103,9.452,10.57,Middle Salmon-Panther,pr
+2055,"High Emissions
+(SSP3-7.0)",14.698,10.872,13.343,Middle Salmon-Panther,pr
+2055,"Accelerating Emissions
+(SSP5-8.5)",13.949,9.035,12.437,Middle Salmon-Panther,pr
+2056,"Moderating Emissions
+(SSP1-2.6)",13.205,10.778,12.283,Middle Salmon-Panther,pr
+2056,"Middle of the Road
+(SSP2-4.5)",15.152,8.744,9.601,Middle Salmon-Panther,pr
+2056,"High Emissions
+(SSP3-7.0)",14.886,10.068,11.933,Middle Salmon-Panther,pr
+2056,"Accelerating Emissions
+(SSP5-8.5)",13.906,10.306,12.017,Middle Salmon-Panther,pr
+2057,"Moderating Emissions
+(SSP1-2.6)",13.806,10.137,13.049,Middle Salmon-Panther,pr
+2057,"Middle of the Road
+(SSP2-4.5)",12.546,9.877,10.815,Middle Salmon-Panther,pr
+2057,"High Emissions
+(SSP3-7.0)",14.471,10.473,13.352,Middle Salmon-Panther,pr
+2057,"Accelerating Emissions
+(SSP5-8.5)",15.032,10.614,12.687,Middle Salmon-Panther,pr
+2058,"Moderating Emissions
+(SSP1-2.6)",13.424,9.606,10.737,Middle Salmon-Panther,pr
+2058,"Middle of the Road
+(SSP2-4.5)",12.729,9.885,11.239,Middle Salmon-Panther,pr
+2058,"High Emissions
+(SSP3-7.0)",15.672,10.439,12.894,Middle Salmon-Panther,pr
+2058,"Accelerating Emissions
+(SSP5-8.5)",15.77,10.109,12.193,Middle Salmon-Panther,pr
+2059,"Moderating Emissions
+(SSP1-2.6)",12.73,9.771,11.123,Middle Salmon-Panther,pr
+2059,"Middle of the Road
+(SSP2-4.5)",15.118,9.589,11.869,Middle Salmon-Panther,pr
+2059,"High Emissions
+(SSP3-7.0)",15.076,8.468,11.142,Middle Salmon-Panther,pr
+2059,"Accelerating Emissions
+(SSP5-8.5)",16.269,10.027,11.401,Middle Salmon-Panther,pr
+2060,"Moderating Emissions
+(SSP1-2.6)",12.835,10.63,11.982,Middle Salmon-Panther,pr
+2060,"Middle of the Road
+(SSP2-4.5)",15.054,9.509,11.724,Middle Salmon-Panther,pr
+2060,"High Emissions
+(SSP3-7.0)",15.195,9.14,14.249,Middle Salmon-Panther,pr
+2060,"Accelerating Emissions
+(SSP5-8.5)",15.571,11.241,13.475,Middle Salmon-Panther,pr
+2061,"Moderating Emissions
+(SSP1-2.6)",15.466,8.781,10.454,Middle Salmon-Panther,pr
+2061,"Middle of the Road
+(SSP2-4.5)",14.825,10.62,12.122,Middle Salmon-Panther,pr
+2061,"High Emissions
+(SSP3-7.0)",13.262,10.699,11.606,Middle Salmon-Panther,pr
+2061,"Accelerating Emissions
+(SSP5-8.5)",14.066,9.603,11.197,Middle Salmon-Panther,pr
+2062,"Moderating Emissions
+(SSP1-2.6)",15.872,9.981,12.956,Middle Salmon-Panther,pr
+2062,"Middle of the Road
+(SSP2-4.5)",14.575,9.155,10.76,Middle Salmon-Panther,pr
+2062,"High Emissions
+(SSP3-7.0)",15.456,10.102,12.058,Middle Salmon-Panther,pr
+2062,"Accelerating Emissions
+(SSP5-8.5)",13.533,10.371,11.528,Middle Salmon-Panther,pr
+2063,"Moderating Emissions
+(SSP1-2.6)",12.361,9.203,10.47,Middle Salmon-Panther,pr
+2063,"Middle of the Road
+(SSP2-4.5)",13.548,10.919,12.506,Middle Salmon-Panther,pr
+2063,"High Emissions
+(SSP3-7.0)",13.835,8.761,11.776,Middle Salmon-Panther,pr
+2063,"Accelerating Emissions
+(SSP5-8.5)",15.428,10.69,11.849,Middle Salmon-Panther,pr
+2064,"Moderating Emissions
+(SSP1-2.6)",13.649,11.66,12.844,Middle Salmon-Panther,pr
+2064,"Middle of the Road
+(SSP2-4.5)",13.249,9.688,11.967,Middle Salmon-Panther,pr
+2064,"High Emissions
+(SSP3-7.0)",13.103,9.198,11.666,Middle Salmon-Panther,pr
+2064,"Accelerating Emissions
+(SSP5-8.5)",15.082,8.103,10.957,Middle Salmon-Panther,pr
+2065,"Moderating Emissions
+(SSP1-2.6)",14.041,10.738,12.327,Middle Salmon-Panther,pr
+2065,"Middle of the Road
+(SSP2-4.5)",13.893,9.532,11.672,Middle Salmon-Panther,pr
+2065,"High Emissions
+(SSP3-7.0)",13.896,9.247,11.454,Middle Salmon-Panther,pr
+2065,"Accelerating Emissions
+(SSP5-8.5)",15.621,9.535,12.12,Middle Salmon-Panther,pr
+2066,"Moderating Emissions
+(SSP1-2.6)",13.247,9.312,10.433,Middle Salmon-Panther,pr
+2066,"Middle of the Road
+(SSP2-4.5)",15.16,9.307,12.024,Middle Salmon-Panther,pr
+2066,"High Emissions
+(SSP3-7.0)",15.385,10.948,12.581,Middle Salmon-Panther,pr
+2066,"Accelerating Emissions
+(SSP5-8.5)",17.855,9.349,11.553,Middle Salmon-Panther,pr
+2067,"Moderating Emissions
+(SSP1-2.6)",12.533,10.499,11.803,Middle Salmon-Panther,pr
+2067,"Middle of the Road
+(SSP2-4.5)",15.19,10.545,13.127,Middle Salmon-Panther,pr
+2067,"High Emissions
+(SSP3-7.0)",12.794,7.057,10.755,Middle Salmon-Panther,pr
+2067,"Accelerating Emissions
+(SSP5-8.5)",14.829,9.959,11.729,Middle Salmon-Panther,pr
+2068,"Moderating Emissions
+(SSP1-2.6)",14.041,10.787,12.386,Middle Salmon-Panther,pr
+2068,"Middle of the Road
+(SSP2-4.5)",14.325,10.615,12.015,Middle Salmon-Panther,pr
+2068,"High Emissions
+(SSP3-7.0)",14.675,10.833,13.524,Middle Salmon-Panther,pr
+2068,"Accelerating Emissions
+(SSP5-8.5)",15.155,9.912,14.104,Middle Salmon-Panther,pr
+2069,"Moderating Emissions
+(SSP1-2.6)",14.289,8.61,12.688,Middle Salmon-Panther,pr
+2069,"Middle of the Road
+(SSP2-4.5)",16.463,10.3,11.253,Middle Salmon-Panther,pr
+2069,"High Emissions
+(SSP3-7.0)",12.238,10.224,10.857,Middle Salmon-Panther,pr
+2069,"Accelerating Emissions
+(SSP5-8.5)",14.13,7.642,11.219,Middle Salmon-Panther,pr
+2070,"Moderating Emissions
+(SSP1-2.6)",16.46,10.275,12.223,Middle Salmon-Panther,pr
+2070,"Middle of the Road
+(SSP2-4.5)",15.816,11.199,12.657,Middle Salmon-Panther,pr
+2070,"High Emissions
+(SSP3-7.0)",14.255,8.516,12.711,Middle Salmon-Panther,pr
+2070,"Accelerating Emissions
+(SSP5-8.5)",15.509,10.663,12.061,Middle Salmon-Panther,pr
+2071,"Moderating Emissions
+(SSP1-2.6)",13.909,10.168,11.79,Middle Salmon-Panther,pr
+2071,"Middle of the Road
+(SSP2-4.5)",14.653,11.032,12.083,Middle Salmon-Panther,pr
+2071,"High Emissions
+(SSP3-7.0)",14.327,10.859,12.566,Middle Salmon-Panther,pr
+2071,"Accelerating Emissions
+(SSP5-8.5)",13.313,10.622,11.07,Middle Salmon-Panther,pr
+2072,"Moderating Emissions
+(SSP1-2.6)",12.399,8.971,11.372,Middle Salmon-Panther,pr
+2072,"Middle of the Road
+(SSP2-4.5)",14.1,8.856,12.213,Middle Salmon-Panther,pr
+2072,"High Emissions
+(SSP3-7.0)",15.049,10.161,10.715,Middle Salmon-Panther,pr
+2072,"Accelerating Emissions
+(SSP5-8.5)",13.767,10.218,11.836,Middle Salmon-Panther,pr
+2073,"Moderating Emissions
+(SSP1-2.6)",13.279,10.916,12.375,Middle Salmon-Panther,pr
+2073,"Middle of the Road
+(SSP2-4.5)",15.991,10.289,12.922,Middle Salmon-Panther,pr
+2073,"High Emissions
+(SSP3-7.0)",14.619,9.779,13.088,Middle Salmon-Panther,pr
+2073,"Accelerating Emissions
+(SSP5-8.5)",16.418,9.722,10.578,Middle Salmon-Panther,pr
+2074,"Moderating Emissions
+(SSP1-2.6)",16.428,11.298,12.387,Middle Salmon-Panther,pr
+2074,"Middle of the Road
+(SSP2-4.5)",13.157,11.183,11.923,Middle Salmon-Panther,pr
+2074,"High Emissions
+(SSP3-7.0)",14.381,11.056,12.956,Middle Salmon-Panther,pr
+2074,"Accelerating Emissions
+(SSP5-8.5)",14.246,9.449,12.592,Middle Salmon-Panther,pr
+2075,"Moderating Emissions
+(SSP1-2.6)",14.955,10.586,12.41,Middle Salmon-Panther,pr
+2075,"Middle of the Road
+(SSP2-4.5)",14.175,9.846,12.345,Middle Salmon-Panther,pr
+2075,"High Emissions
+(SSP3-7.0)",15.443,11.029,12.642,Middle Salmon-Panther,pr
+2075,"Accelerating Emissions
+(SSP5-8.5)",14.371,9.174,11.881,Middle Salmon-Panther,pr
+2076,"Moderating Emissions
+(SSP1-2.6)",15.559,10.576,13.412,Middle Salmon-Panther,pr
+2076,"Middle of the Road
+(SSP2-4.5)",13.805,10.444,12.85,Middle Salmon-Panther,pr
+2076,"High Emissions
+(SSP3-7.0)",15.146,10.942,12.259,Middle Salmon-Panther,pr
+2076,"Accelerating Emissions
+(SSP5-8.5)",14.723,9.049,13.501,Middle Salmon-Panther,pr
+2077,"Moderating Emissions
+(SSP1-2.6)",14.159,10.847,12.476,Middle Salmon-Panther,pr
+2077,"Middle of the Road
+(SSP2-4.5)",14.718,11.022,12.207,Middle Salmon-Panther,pr
+2077,"High Emissions
+(SSP3-7.0)",14.49,9.886,12.94,Middle Salmon-Panther,pr
+2077,"Accelerating Emissions
+(SSP5-8.5)",16.051,10.04,12.628,Middle Salmon-Panther,pr
+2078,"Moderating Emissions
+(SSP1-2.6)",12.067,10.247,10.752,Middle Salmon-Panther,pr
+2078,"Middle of the Road
+(SSP2-4.5)",15.953,10.161,12.683,Middle Salmon-Panther,pr
+2078,"High Emissions
+(SSP3-7.0)",15.824,9.39,12.406,Middle Salmon-Panther,pr
+2078,"Accelerating Emissions
+(SSP5-8.5)",16.274,9.915,12.642,Middle Salmon-Panther,pr
+2079,"Moderating Emissions
+(SSP1-2.6)",13.277,8.253,11.678,Middle Salmon-Panther,pr
+2079,"Middle of the Road
+(SSP2-4.5)",12.968,10.172,11.78,Middle Salmon-Panther,pr
+2079,"High Emissions
+(SSP3-7.0)",14.451,10.416,13.082,Middle Salmon-Panther,pr
+2079,"Accelerating Emissions
+(SSP5-8.5)",14.466,10.442,11.197,Middle Salmon-Panther,pr
+2080,"Moderating Emissions
+(SSP1-2.6)",13.581,10.134,11.57,Middle Salmon-Panther,pr
+2080,"Middle of the Road
+(SSP2-4.5)",16.367,9.484,13.551,Middle Salmon-Panther,pr
+2080,"High Emissions
+(SSP3-7.0)",11.79,9.115,10.909,Middle Salmon-Panther,pr
+2080,"Accelerating Emissions
+(SSP5-8.5)",14.464,10.381,12.137,Middle Salmon-Panther,pr
+2081,"Moderating Emissions
+(SSP1-2.6)",13.553,10.079,12.008,Middle Salmon-Panther,pr
+2081,"Middle of the Road
+(SSP2-4.5)",14.492,10.392,13.357,Middle Salmon-Panther,pr
+2081,"High Emissions
+(SSP3-7.0)",13.535,10.519,11.391,Middle Salmon-Panther,pr
+2081,"Accelerating Emissions
+(SSP5-8.5)",15.348,11.135,12.568,Middle Salmon-Panther,pr
+2082,"Moderating Emissions
+(SSP1-2.6)",13.28,9.497,11.094,Middle Salmon-Panther,pr
+2082,"Middle of the Road
+(SSP2-4.5)",17.116,10.538,14.483,Middle Salmon-Panther,pr
+2082,"High Emissions
+(SSP3-7.0)",15.308,8.859,11.447,Middle Salmon-Panther,pr
+2082,"Accelerating Emissions
+(SSP5-8.5)",14.43,10.626,12.045,Middle Salmon-Panther,pr
+2083,"Moderating Emissions
+(SSP1-2.6)",13.162,8.86,11.537,Middle Salmon-Panther,pr
+2083,"Middle of the Road
+(SSP2-4.5)",14.336,10.042,12.001,Middle Salmon-Panther,pr
+2083,"High Emissions
+(SSP3-7.0)",15.095,12.11,12.821,Middle Salmon-Panther,pr
+2083,"Accelerating Emissions
+(SSP5-8.5)",16.081,9.342,13.78,Middle Salmon-Panther,pr
+2084,"Moderating Emissions
+(SSP1-2.6)",15.395,11.003,11.962,Middle Salmon-Panther,pr
+2084,"Middle of the Road
+(SSP2-4.5)",12.734,8.437,11.228,Middle Salmon-Panther,pr
+2084,"High Emissions
+(SSP3-7.0)",13.913,10.352,11.303,Middle Salmon-Panther,pr
+2084,"Accelerating Emissions
+(SSP5-8.5)",14.676,9.723,11.252,Middle Salmon-Panther,pr
+2085,"Moderating Emissions
+(SSP1-2.6)",14.606,10.54,11.999,Middle Salmon-Panther,pr
+2085,"Middle of the Road
+(SSP2-4.5)",14.728,10.562,11.951,Middle Salmon-Panther,pr
+2085,"High Emissions
+(SSP3-7.0)",14.907,9.671,12.627,Middle Salmon-Panther,pr
+2085,"Accelerating Emissions
+(SSP5-8.5)",17.678,10.118,13.671,Middle Salmon-Panther,pr
+2086,"Moderating Emissions
+(SSP1-2.6)",14.623,12.107,12.885,Middle Salmon-Panther,pr
+2086,"Middle of the Road
+(SSP2-4.5)",15.569,10.208,13.516,Middle Salmon-Panther,pr
+2086,"High Emissions
+(SSP3-7.0)",14.713,10.495,13.143,Middle Salmon-Panther,pr
+2086,"Accelerating Emissions
+(SSP5-8.5)",17.395,9.288,13.092,Middle Salmon-Panther,pr
+2087,"Moderating Emissions
+(SSP1-2.6)",12.459,9.294,11.403,Middle Salmon-Panther,pr
+2087,"Middle of the Road
+(SSP2-4.5)",14.675,11.532,13.148,Middle Salmon-Panther,pr
+2087,"High Emissions
+(SSP3-7.0)",15.062,9.163,12.695,Middle Salmon-Panther,pr
+2087,"Accelerating Emissions
+(SSP5-8.5)",15.479,10.298,14.313,Middle Salmon-Panther,pr
+2088,"Moderating Emissions
+(SSP1-2.6)",17.732,11.684,15.04,Middle Salmon-Panther,pr
+2088,"Middle of the Road
+(SSP2-4.5)",14.76,7.573,12.813,Middle Salmon-Panther,pr
+2088,"High Emissions
+(SSP3-7.0)",14.2,10.584,12.236,Middle Salmon-Panther,pr
+2088,"Accelerating Emissions
+(SSP5-8.5)",15.348,8.743,12.421,Middle Salmon-Panther,pr
+2089,"Moderating Emissions
+(SSP1-2.6)",14.35,9.193,13.415,Middle Salmon-Panther,pr
+2089,"Middle of the Road
+(SSP2-4.5)",16.113,9.307,13.138,Middle Salmon-Panther,pr
+2089,"High Emissions
+(SSP3-7.0)",13.565,8.452,11.762,Middle Salmon-Panther,pr
+2089,"Accelerating Emissions
+(SSP5-8.5)",15.522,12.138,13.544,Middle Salmon-Panther,pr
+2090,"Moderating Emissions
+(SSP1-2.6)",14.533,10.512,12.026,Middle Salmon-Panther,pr
+2090,"Middle of the Road
+(SSP2-4.5)",15.522,11.904,13.191,Middle Salmon-Panther,pr
+2090,"High Emissions
+(SSP3-7.0)",12.994,7.876,10.694,Middle Salmon-Panther,pr
+2090,"Accelerating Emissions
+(SSP5-8.5)",16.365,12.975,14.06,Middle Salmon-Panther,pr
+2091,"Moderating Emissions
+(SSP1-2.6)",14.929,10.486,12.647,Middle Salmon-Panther,pr
+2091,"Middle of the Road
+(SSP2-4.5)",16.188,10.175,13.572,Middle Salmon-Panther,pr
+2091,"High Emissions
+(SSP3-7.0)",17.099,8.511,11.859,Middle Salmon-Panther,pr
+2091,"Accelerating Emissions
+(SSP5-8.5)",17.385,10.694,13.524,Middle Salmon-Panther,pr
+2092,"Moderating Emissions
+(SSP1-2.6)",16.181,10.127,13.433,Middle Salmon-Panther,pr
+2092,"Middle of the Road
+(SSP2-4.5)",15.99,10.137,11.72,Middle Salmon-Panther,pr
+2092,"High Emissions
+(SSP3-7.0)",16.079,9.984,12.661,Middle Salmon-Panther,pr
+2092,"Accelerating Emissions
+(SSP5-8.5)",16.519,10.563,13.371,Middle Salmon-Panther,pr
+2093,"Moderating Emissions
+(SSP1-2.6)",15.482,9.6,11.464,Middle Salmon-Panther,pr
+2093,"Middle of the Road
+(SSP2-4.5)",13.409,11.18,12.413,Middle Salmon-Panther,pr
+2093,"High Emissions
+(SSP3-7.0)",15.439,9.85,13.141,Middle Salmon-Panther,pr
+2093,"Accelerating Emissions
+(SSP5-8.5)",15.973,9.973,13.111,Middle Salmon-Panther,pr
+2094,"Moderating Emissions
+(SSP1-2.6)",13.987,9.337,12.839,Middle Salmon-Panther,pr
+2094,"Middle of the Road
+(SSP2-4.5)",16.59,8.486,11.942,Middle Salmon-Panther,pr
+2094,"High Emissions
+(SSP3-7.0)",16.146,11.749,13.888,Middle Salmon-Panther,pr
+2094,"Accelerating Emissions
+(SSP5-8.5)",15.909,11.598,13.81,Middle Salmon-Panther,pr
+2095,"Moderating Emissions
+(SSP1-2.6)",13.612,10.781,12.415,Middle Salmon-Panther,pr
+2095,"Middle of the Road
+(SSP2-4.5)",15.833,9.27,11.955,Middle Salmon-Panther,pr
+2095,"High Emissions
+(SSP3-7.0)",14.981,10.017,13.679,Middle Salmon-Panther,pr
+2095,"Accelerating Emissions
+(SSP5-8.5)",14.76,11.78,12.906,Middle Salmon-Panther,pr
+2096,"Moderating Emissions
+(SSP1-2.6)",12.986,9.225,10.918,Middle Salmon-Panther,pr
+2096,"Middle of the Road
+(SSP2-4.5)",13.644,10.709,12.192,Middle Salmon-Panther,pr
+2096,"High Emissions
+(SSP3-7.0)",14.923,10.953,12.535,Middle Salmon-Panther,pr
+2096,"Accelerating Emissions
+(SSP5-8.5)",16.924,9.964,13.492,Middle Salmon-Panther,pr
+2097,"Moderating Emissions
+(SSP1-2.6)",13.21,9.282,11.694,Middle Salmon-Panther,pr
+2097,"Middle of the Road
+(SSP2-4.5)",12.928,9.53,12.185,Middle Salmon-Panther,pr
+2097,"High Emissions
+(SSP3-7.0)",15.875,9.961,11.328,Middle Salmon-Panther,pr
+2097,"Accelerating Emissions
+(SSP5-8.5)",18.961,9.817,14.431,Middle Salmon-Panther,pr
+2098,"Moderating Emissions
+(SSP1-2.6)",15.881,9.025,10.879,Middle Salmon-Panther,pr
+2098,"Middle of the Road
+(SSP2-4.5)",14.981,10.478,12.303,Middle Salmon-Panther,pr
+2098,"High Emissions
+(SSP3-7.0)",16.068,9.862,14.016,Middle Salmon-Panther,pr
+2098,"Accelerating Emissions
+(SSP5-8.5)",16.473,9.22,12.385,Middle Salmon-Panther,pr
+2099,"Moderating Emissions
+(SSP1-2.6)",14.352,11.61,12.509,Middle Salmon-Panther,pr
+2099,"Middle of the Road
+(SSP2-4.5)",15.837,11.137,12.977,Middle Salmon-Panther,pr
+2099,"High Emissions
+(SSP3-7.0)",15.352,10.435,12.335,Middle Salmon-Panther,pr
+2099,"Accelerating Emissions
+(SSP5-8.5)",15.38,9.818,11.244,Middle Salmon-Panther,pr
+2100,"Moderating Emissions
+(SSP1-2.6)",13.554,10.888,12.522,Middle Salmon-Panther,pr
+2100,"Middle of the Road
+(SSP2-4.5)",16.062,10.031,12.379,Middle Salmon-Panther,pr
+2100,"High Emissions
+(SSP3-7.0)",14.195,12.004,12.774,Middle Salmon-Panther,pr
+2100,"Accelerating Emissions
+(SSP5-8.5)",15.703,9.541,12.693,Middle Salmon-Panther,pr

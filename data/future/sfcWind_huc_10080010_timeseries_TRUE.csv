@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,8.799,8.071,8.352,Big Horn Lake,sfcWind
+1951,Historical Emissions,8.823,8.099,8.429,Big Horn Lake,sfcWind
+1952,Historical Emissions,8.685,8.144,8.522,Big Horn Lake,sfcWind
+1953,Historical Emissions,8.77,8.042,8.513,Big Horn Lake,sfcWind
+1954,Historical Emissions,9.091,7.888,8.499,Big Horn Lake,sfcWind
+1955,Historical Emissions,8.634,8.008,8.385,Big Horn Lake,sfcWind
+1956,Historical Emissions,9.03,8.085,8.742,Big Horn Lake,sfcWind
+1957,Historical Emissions,9.111,8.25,8.51,Big Horn Lake,sfcWind
+1958,Historical Emissions,8.835,8.152,8.436,Big Horn Lake,sfcWind
+1959,Historical Emissions,8.743,7.922,8.61,Big Horn Lake,sfcWind
+1960,Historical Emissions,8.955,8.379,8.536,Big Horn Lake,sfcWind
+1961,Historical Emissions,8.815,8.223,8.411,Big Horn Lake,sfcWind
+1962,Historical Emissions,8.7,8.209,8.393,Big Horn Lake,sfcWind
+1963,Historical Emissions,8.766,7.996,8.29,Big Horn Lake,sfcWind
+1964,Historical Emissions,8.726,8.259,8.622,Big Horn Lake,sfcWind
+1965,Historical Emissions,8.838,8.088,8.437,Big Horn Lake,sfcWind
+1966,Historical Emissions,9,8.149,8.61,Big Horn Lake,sfcWind
+1967,Historical Emissions,8.974,7.975,8.489,Big Horn Lake,sfcWind
+1968,Historical Emissions,8.869,8.137,8.288,Big Horn Lake,sfcWind
+1969,Historical Emissions,8.85,8.038,8.297,Big Horn Lake,sfcWind
+1970,Historical Emissions,8.743,8.284,8.457,Big Horn Lake,sfcWind
+1971,Historical Emissions,8.802,8.199,8.648,Big Horn Lake,sfcWind
+1972,Historical Emissions,8.617,8.236,8.521,Big Horn Lake,sfcWind
+1973,Historical Emissions,8.759,7.906,8.339,Big Horn Lake,sfcWind
+1974,Historical Emissions,8.828,7.811,8.521,Big Horn Lake,sfcWind
+1975,Historical Emissions,8.742,8.079,8.448,Big Horn Lake,sfcWind
+1976,Historical Emissions,8.692,8.063,8.455,Big Horn Lake,sfcWind
+1977,Historical Emissions,8.647,7.856,8.287,Big Horn Lake,sfcWind
+1978,Historical Emissions,8.439,8.072,8.278,Big Horn Lake,sfcWind
+1979,Historical Emissions,8.632,8.241,8.49,Big Horn Lake,sfcWind
+1980,Historical Emissions,8.825,7.995,8.345,Big Horn Lake,sfcWind
+1981,Historical Emissions,8.805,8.175,8.512,Big Horn Lake,sfcWind
+1982,Historical Emissions,8.724,7.82,8.514,Big Horn Lake,sfcWind
+1983,Historical Emissions,9.104,7.859,8.31,Big Horn Lake,sfcWind
+1984,Historical Emissions,8.635,7.897,8.372,Big Horn Lake,sfcWind
+1985,Historical Emissions,8.625,8.163,8.332,Big Horn Lake,sfcWind
+1986,Historical Emissions,8.857,7.811,8.441,Big Horn Lake,sfcWind
+1987,Historical Emissions,8.572,7.9,8.309,Big Horn Lake,sfcWind
+1988,Historical Emissions,8.523,8.176,8.399,Big Horn Lake,sfcWind
+1989,Historical Emissions,8.596,7.974,8.228,Big Horn Lake,sfcWind
+1990,Historical Emissions,8.617,7.677,8.417,Big Horn Lake,sfcWind
+1991,Historical Emissions,8.632,7.797,8.309,Big Horn Lake,sfcWind
+1992,Historical Emissions,8.842,8.251,8.446,Big Horn Lake,sfcWind
+1993,Historical Emissions,8.419,7.896,8.231,Big Horn Lake,sfcWind
+1994,Historical Emissions,8.794,7.877,8.24,Big Horn Lake,sfcWind
+1995,Historical Emissions,8.871,7.941,8.473,Big Horn Lake,sfcWind
+1996,Historical Emissions,8.827,7.889,8.561,Big Horn Lake,sfcWind
+1997,Historical Emissions,8.63,7.769,8.324,Big Horn Lake,sfcWind
+1998,Historical Emissions,8.499,7.794,8.235,Big Horn Lake,sfcWind
+1999,Historical Emissions,8.425,7.965,8.243,Big Horn Lake,sfcWind
+2000,Historical Emissions,8.417,8.026,8.174,Big Horn Lake,sfcWind
+2001,Historical Emissions,8.533,7.823,8.148,Big Horn Lake,sfcWind
+2002,Historical Emissions,8.74,7.745,8.255,Big Horn Lake,sfcWind
+2003,Historical Emissions,8.372,7.809,8.204,Big Horn Lake,sfcWind
+2004,Historical Emissions,8.768,8.222,8.426,Big Horn Lake,sfcWind
+2005,Historical Emissions,8.719,7.863,8.401,Big Horn Lake,sfcWind
+2006,Historical Emissions,8.674,7.976,8.185,Big Horn Lake,sfcWind
+2007,Historical Emissions,8.56,7.886,8.135,Big Horn Lake,sfcWind
+2008,Historical Emissions,8.544,7.884,8.42,Big Horn Lake,sfcWind
+2009,Historical Emissions,8.645,7.944,8.42,Big Horn Lake,sfcWind
+2010,Historical Emissions,8.451,8.186,8.279,Big Horn Lake,sfcWind
+2011,Historical Emissions,8.518,7.899,8.214,Big Horn Lake,sfcWind
+2012,Historical Emissions,8.352,7.851,8.018,Big Horn Lake,sfcWind
+2013,Historical Emissions,8.505,7.874,8.219,Big Horn Lake,sfcWind
+2014,Historical Emissions,8.74,8.123,8.26,Big Horn Lake,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",8.659,7.444,8.208,Big Horn Lake,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",8.798,7.644,8.369,Big Horn Lake,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",8.752,7.647,8.082,Big Horn Lake,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",8.753,7.722,8.326,Big Horn Lake,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",8.806,7.63,8.161,Big Horn Lake,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",8.633,7.3,8.144,Big Horn Lake,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",8.91,7.583,8.168,Big Horn Lake,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",9.149,7.547,8.072,Big Horn Lake,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",8.878,7.313,8.408,Big Horn Lake,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",8.411,7.731,8.187,Big Horn Lake,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",8.625,7.513,7.878,Big Horn Lake,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",8.551,7.851,8.194,Big Horn Lake,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",8.876,7.561,8.356,Big Horn Lake,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",8.574,7.229,8.096,Big Horn Lake,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",8.305,7.321,8.07,Big Horn Lake,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",8.49,7.615,8.067,Big Horn Lake,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",8.225,7.357,7.74,Big Horn Lake,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",9.058,7.644,8.188,Big Horn Lake,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",8.561,7.318,8.024,Big Horn Lake,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",8.712,7.716,8.138,Big Horn Lake,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",8.292,7.385,8.044,Big Horn Lake,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",8.839,7.727,8.378,Big Horn Lake,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",8.693,7.858,8.229,Big Horn Lake,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",8.527,7.506,8.046,Big Horn Lake,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",8.617,7.568,8.136,Big Horn Lake,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",8.49,7.814,8.259,Big Horn Lake,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",8.564,7.695,8.112,Big Horn Lake,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",8.364,7.679,8.187,Big Horn Lake,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",8.895,7.619,8.067,Big Horn Lake,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",8.323,7.505,8.086,Big Horn Lake,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",8.363,7.567,7.859,Big Horn Lake,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",8.64,7.592,8.136,Big Horn Lake,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",8.65,7.659,8.392,Big Horn Lake,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",8.668,7.819,8.042,Big Horn Lake,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",8.663,7.628,8.182,Big Horn Lake,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",8.921,7.766,8.14,Big Horn Lake,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",8.774,7.519,7.981,Big Horn Lake,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",8.385,7.59,8.105,Big Horn Lake,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",8.665,7.699,8.329,Big Horn Lake,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",8.596,7.681,8.08,Big Horn Lake,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",8.471,7.66,8.154,Big Horn Lake,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",8.934,7.113,8.167,Big Horn Lake,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",8.529,7.632,8.192,Big Horn Lake,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",8.61,7.727,8.336,Big Horn Lake,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",8.551,7.594,8.228,Big Horn Lake,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",8.639,7.804,8.161,Big Horn Lake,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",8.289,7.37,7.942,Big Horn Lake,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",8.647,7.524,8.032,Big Horn Lake,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",8.855,7.698,8.196,Big Horn Lake,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",8.609,7.602,8.172,Big Horn Lake,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",8.409,7.606,8.054,Big Horn Lake,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",8.671,7.445,8.174,Big Horn Lake,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",8.552,7.436,8.028,Big Horn Lake,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",8.384,7.349,7.929,Big Horn Lake,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",8.428,7.687,8.132,Big Horn Lake,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",8.355,7.72,8.004,Big Horn Lake,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",8.474,7.648,8.073,Big Horn Lake,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",8.397,7.182,8.095,Big Horn Lake,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",8.644,7.552,8.184,Big Horn Lake,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",8.381,7.239,7.884,Big Horn Lake,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",8.643,7.471,8.053,Big Horn Lake,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",8.791,7.523,8.256,Big Horn Lake,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",8.572,7.894,8.17,Big Horn Lake,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",8.278,7.435,8.097,Big Horn Lake,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",8.742,7.737,8.112,Big Horn Lake,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",8.616,7.489,8.26,Big Horn Lake,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",8.539,7.72,8.294,Big Horn Lake,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",8.552,7.778,8.129,Big Horn Lake,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",8.44,7.429,8.122,Big Horn Lake,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",8.732,7.764,8.01,Big Horn Lake,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",8.583,7.792,8.227,Big Horn Lake,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",8.575,7.576,8.214,Big Horn Lake,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",8.826,7.897,8.269,Big Horn Lake,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",8.538,7.563,8.333,Big Horn Lake,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",8.458,7.44,7.844,Big Horn Lake,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",8.536,7.671,8.164,Big Horn Lake,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",8.757,7.783,8.105,Big Horn Lake,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",8.365,7.391,7.856,Big Horn Lake,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",8.441,7.569,8.136,Big Horn Lake,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",8.796,7.693,8.259,Big Horn Lake,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",8.83,7.783,8.198,Big Horn Lake,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",8.557,7.604,8.214,Big Horn Lake,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",8.589,7.593,8.108,Big Horn Lake,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",8.934,7.557,8.276,Big Horn Lake,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",8.339,7.522,8.011,Big Horn Lake,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",8.55,7.672,8.198,Big Horn Lake,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",8.378,7.683,8.158,Big Horn Lake,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",8.436,7.297,7.961,Big Horn Lake,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",8.502,7.303,7.978,Big Horn Lake,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",8.648,7.524,8,Big Horn Lake,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",8.496,7.668,8.092,Big Horn Lake,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",8.84,7.717,8.123,Big Horn Lake,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",8.772,7.72,8.118,Big Horn Lake,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",8.513,7.509,8.177,Big Horn Lake,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",8.472,7.847,8.315,Big Horn Lake,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",8.351,7.55,8.196,Big Horn Lake,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",8.389,7.551,8.114,Big Horn Lake,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",8.448,7.846,8.231,Big Horn Lake,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",8.694,7.603,8.2,Big Horn Lake,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",8.383,7.668,8.089,Big Horn Lake,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",8.695,7.359,8.062,Big Horn Lake,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",8.514,7.504,8.244,Big Horn Lake,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",8.727,7.606,8.098,Big Horn Lake,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",8.427,7.174,7.929,Big Horn Lake,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",8.386,7.808,8.219,Big Horn Lake,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",8.366,7.674,8.072,Big Horn Lake,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",8.298,7.514,8.01,Big Horn Lake,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",8.502,7.46,8.237,Big Horn Lake,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",8.44,7.806,8.134,Big Horn Lake,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",8.468,7.638,8.125,Big Horn Lake,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",8.529,7.403,8.33,Big Horn Lake,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",8.693,7.447,8.204,Big Horn Lake,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",8.48,7.408,8.211,Big Horn Lake,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",8.749,7.551,8.387,Big Horn Lake,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",8.718,7.504,8.414,Big Horn Lake,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",8.394,7.742,8.187,Big Horn Lake,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",8.577,7.105,7.984,Big Horn Lake,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",8.546,7.583,8.197,Big Horn Lake,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",8.556,7.715,8.133,Big Horn Lake,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",8.432,7.3,8.005,Big Horn Lake,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",8.299,7.535,7.798,Big Horn Lake,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",8.677,7.697,8.37,Big Horn Lake,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",8.756,7.42,7.952,Big Horn Lake,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",8.297,7.476,8.026,Big Horn Lake,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",8.36,7.465,8.02,Big Horn Lake,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",8.452,7.233,8.279,Big Horn Lake,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",8.236,7.675,8.179,Big Horn Lake,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",8.517,6.804,8.277,Big Horn Lake,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",8.397,7.153,8.215,Big Horn Lake,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",8.305,7.446,8.146,Big Horn Lake,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",8.484,7.512,7.851,Big Horn Lake,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",8.847,7.43,8.21,Big Horn Lake,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",8.699,7.731,8.222,Big Horn Lake,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",8.073,7.187,7.818,Big Horn Lake,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",8.454,7.735,8.182,Big Horn Lake,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",8.508,7.704,8.055,Big Horn Lake,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",8.453,7.54,8.084,Big Horn Lake,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",8.534,7.714,8.17,Big Horn Lake,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",8.661,7.289,8.113,Big Horn Lake,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",8.372,7.461,7.754,Big Horn Lake,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",8.396,7.469,7.933,Big Horn Lake,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",8.851,7.271,8.101,Big Horn Lake,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",8.542,7.762,8.087,Big Horn Lake,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",8.663,7.377,7.971,Big Horn Lake,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",8.262,7.746,8.121,Big Horn Lake,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",8.983,7.728,8.399,Big Horn Lake,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",8.323,7.315,7.941,Big Horn Lake,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",8.387,7.966,8.248,Big Horn Lake,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",8.656,7.406,8.033,Big Horn Lake,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",8.56,7.53,8.154,Big Horn Lake,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",8.213,7.259,7.909,Big Horn Lake,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",8.485,7.041,8.154,Big Horn Lake,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",8.455,7.515,8.19,Big Horn Lake,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",8.635,7.431,8,Big Horn Lake,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",8.367,7.381,8.1,Big Horn Lake,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",8.376,7.536,8.207,Big Horn Lake,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",8.643,7.065,8.149,Big Horn Lake,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",8.543,7.006,8.154,Big Horn Lake,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",8.355,7.575,7.954,Big Horn Lake,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",8.37,7.55,8.021,Big Horn Lake,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",8.454,7.689,8.164,Big Horn Lake,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",8.39,7.454,8.045,Big Horn Lake,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",8.488,7.711,8.135,Big Horn Lake,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",8.356,7.307,7.992,Big Horn Lake,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",8.543,7.846,8.144,Big Horn Lake,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",8.267,7.548,7.897,Big Horn Lake,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",8.324,7.409,7.906,Big Horn Lake,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",8.127,7.479,7.749,Big Horn Lake,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",8.398,7.354,7.963,Big Horn Lake,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",8.625,7.772,8.346,Big Horn Lake,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",8.22,7.079,8,Big Horn Lake,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",8.167,6.946,7.88,Big Horn Lake,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",8.761,7.539,8.165,Big Horn Lake,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",8.427,7.4,8.257,Big Horn Lake,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",8.775,7.399,7.907,Big Horn Lake,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",8.357,7.453,7.835,Big Horn Lake,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",8.45,7.548,8.3,Big Horn Lake,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",8.481,7.295,7.973,Big Horn Lake,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",8.396,7.587,8.026,Big Horn Lake,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",8.415,7.308,7.985,Big Horn Lake,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",8.382,7.672,8.059,Big Horn Lake,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",8.626,7.263,8.268,Big Horn Lake,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",8.313,7.52,7.776,Big Horn Lake,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",8.513,7.271,7.862,Big Horn Lake,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",8.363,7.395,8.051,Big Horn Lake,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",8.574,7.398,8.157,Big Horn Lake,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",8.339,7.314,7.891,Big Horn Lake,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",8.446,7.537,7.966,Big Horn Lake,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",8.524,7.713,8.176,Big Horn Lake,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",8.639,7.46,8.135,Big Horn Lake,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",8.349,7.46,8.046,Big Horn Lake,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",8.381,7.438,8.051,Big Horn Lake,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",8.42,7.669,8.27,Big Horn Lake,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",8.417,7.406,8.245,Big Horn Lake,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",8.472,7.465,8.271,Big Horn Lake,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",8.439,7.419,7.915,Big Horn Lake,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",8.713,7.385,8.188,Big Horn Lake,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",8.349,7.437,7.928,Big Horn Lake,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",8.395,7.23,7.808,Big Horn Lake,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",8.205,7.55,7.997,Big Horn Lake,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",8.725,7.205,8.215,Big Horn Lake,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",8.348,7.334,7.665,Big Horn Lake,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",8.464,7.54,8.005,Big Horn Lake,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",8.281,7.412,7.889,Big Horn Lake,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",8.252,7.33,8.042,Big Horn Lake,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",8.386,7.547,8.183,Big Horn Lake,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",8.665,7.262,8.011,Big Horn Lake,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",8.11,7.545,8.086,Big Horn Lake,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",8.121,7.324,7.832,Big Horn Lake,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",8.762,7.799,8.25,Big Horn Lake,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",8.694,7.552,7.825,Big Horn Lake,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",8.241,7.022,7.901,Big Horn Lake,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",8.54,7.719,8.303,Big Horn Lake,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",8.405,7.389,8.175,Big Horn Lake,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",8.664,7.573,7.998,Big Horn Lake,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",8.235,7.141,8.093,Big Horn Lake,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",8.529,7.608,8.345,Big Horn Lake,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",8.54,7.505,8.09,Big Horn Lake,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",8.518,7.309,8.137,Big Horn Lake,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",8.274,7.284,7.695,Big Horn Lake,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",8.464,7.472,8.1,Big Horn Lake,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",8.55,7.392,7.932,Big Horn Lake,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",8.719,7.399,7.978,Big Horn Lake,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",8.197,7.111,7.772,Big Horn Lake,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",8.683,7.447,8.059,Big Horn Lake,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",8.51,7.561,8.199,Big Horn Lake,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",8.806,7.34,8.05,Big Horn Lake,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",8.606,7.328,7.898,Big Horn Lake,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",8.508,7.392,8.221,Big Horn Lake,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",8.455,7.2,8.086,Big Horn Lake,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",8.295,7.668,8.091,Big Horn Lake,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",8.365,7.379,8.007,Big Horn Lake,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",8.664,7.394,8.193,Big Horn Lake,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",8.754,7.332,7.982,Big Horn Lake,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",8.148,7.528,7.821,Big Horn Lake,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",8.177,7.375,7.932,Big Horn Lake,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",8.464,7.377,8.15,Big Horn Lake,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",8.609,7.433,8.1,Big Horn Lake,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",8.091,7.094,7.762,Big Horn Lake,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",8.42,7.117,7.68,Big Horn Lake,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",8.308,7.483,8.012,Big Horn Lake,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",8.624,7.765,8.275,Big Horn Lake,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",8.53,7.38,8.083,Big Horn Lake,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",8.117,7.152,7.907,Big Horn Lake,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",8.865,7.542,8.073,Big Horn Lake,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",8.529,7.442,8.142,Big Horn Lake,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",8.411,7.482,8.057,Big Horn Lake,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",8.766,7.377,8.176,Big Horn Lake,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",8.436,7.537,8.111,Big Horn Lake,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",8.222,7.3,8.062,Big Horn Lake,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",8.565,7.196,7.977,Big Horn Lake,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",8.714,7.671,8.144,Big Horn Lake,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",8.657,7.604,8.038,Big Horn Lake,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",8.619,7.812,8.221,Big Horn Lake,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",8.508,7.202,7.924,Big Horn Lake,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",8.624,7.279,8.005,Big Horn Lake,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",8.667,7.388,8.422,Big Horn Lake,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",8.291,7.48,7.837,Big Horn Lake,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",8.198,7.189,8.001,Big Horn Lake,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",8.192,7.3,7.967,Big Horn Lake,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",8.336,7.803,8.055,Big Horn Lake,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",8.604,6.909,8.39,Big Horn Lake,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",8.073,7.378,7.754,Big Horn Lake,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",8.168,7.097,7.883,Big Horn Lake,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",8.435,7.404,8.113,Big Horn Lake,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",8.644,7.515,8.119,Big Horn Lake,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",8.344,7.531,7.756,Big Horn Lake,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",8.39,6.993,7.788,Big Horn Lake,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",8.37,7.534,8.022,Big Horn Lake,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",8.256,7.204,7.955,Big Horn Lake,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",8.291,6.939,7.88,Big Horn Lake,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",8.335,7.135,7.963,Big Horn Lake,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",8.636,7.532,8.136,Big Horn Lake,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",8.516,7.335,8.013,Big Horn Lake,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",8.137,7.101,7.752,Big Horn Lake,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",8.244,7.258,8.048,Big Horn Lake,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",8.727,7.348,8.374,Big Horn Lake,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",8.553,7.71,8.349,Big Horn Lake,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",8.212,7.345,7.83,Big Horn Lake,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",8.339,7.282,8.151,Big Horn Lake,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",8.704,7.683,8.072,Big Horn Lake,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",8.716,7.29,7.783,Big Horn Lake,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",8.393,7.125,7.692,Big Horn Lake,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",8.174,7.257,7.872,Big Horn Lake,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",8.393,7.486,7.939,Big Horn Lake,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",8.568,7.649,8.081,Big Horn Lake,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",8.157,7.095,7.752,Big Horn Lake,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",8.642,6.779,7.955,Big Horn Lake,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",8.506,7.188,8.089,Big Horn Lake,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",8.636,7.438,8.092,Big Horn Lake,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",8.283,7.1,8.013,Big Horn Lake,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",8.201,7.408,7.94,Big Horn Lake,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",8.512,7.515,8.101,Big Horn Lake,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",8.439,7.557,8.1,Big Horn Lake,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",7.986,7.35,7.878,Big Horn Lake,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",8.076,7.4,7.92,Big Horn Lake,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",8.507,7.834,8.257,Big Horn Lake,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",8.426,7.365,7.762,Big Horn Lake,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",8.337,7.478,8.095,Big Horn Lake,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",8.345,7.304,7.862,Big Horn Lake,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",8.266,7.489,8.003,Big Horn Lake,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",8.269,7.312,8.098,Big Horn Lake,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",8.335,7.469,7.86,Big Horn Lake,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",8.3,7.21,7.895,Big Horn Lake,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",8.46,7.545,8.214,Big Horn Lake,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",8.544,7.682,8.273,Big Horn Lake,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",8.183,7.269,7.917,Big Horn Lake,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",8.147,7.167,7.992,Big Horn Lake,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",8.515,7.632,8.206,Big Horn Lake,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",8.36,7.159,7.805,Big Horn Lake,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",8.433,7.301,7.767,Big Horn Lake,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",8.413,7.466,8.101,Big Horn Lake,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",8.679,7.48,8.265,Big Horn Lake,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",8.232,7.516,8.038,Big Horn Lake,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",8.168,6.887,7.497,Big Horn Lake,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",8.485,6.987,7.892,Big Horn Lake,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",8.77,7.761,7.932,Big Horn Lake,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",8.586,7.561,8.024,Big Horn Lake,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",8.151,6.983,7.729,Big Horn Lake,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",8.387,7.092,7.851,Big Horn Lake,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",8.55,7.479,8.159,Big Horn Lake,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",8.694,7.262,8.048,Big Horn Lake,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",8.263,7.281,7.847,Big Horn Lake,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",8.398,7.085,7.874,Big Horn Lake,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",8.726,7.418,8.125,Big Horn Lake,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",8.581,6.908,8.297,Big Horn Lake,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",7.974,7.344,7.815,Big Horn Lake,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",8.415,7.546,7.838,Big Horn Lake,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",8.595,7.56,8.187,Big Horn Lake,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",8.281,7.436,7.959,Big Horn Lake,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",8.382,6.933,7.892,Big Horn Lake,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",8.499,7.335,8.082,Big Horn Lake,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",8.378,7.801,8.225,Big Horn Lake,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",8.819,7.535,8.255,Big Horn Lake,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",8.091,7.433,7.749,Big Horn Lake,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",8.433,6.979,7.359,Big Horn Lake,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",8.32,7.398,8.023,Big Horn Lake,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",8.772,7.587,8.11,Big Horn Lake,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",7.983,7.385,7.746,Big Horn Lake,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",8.26,6.652,7.782,Big Horn Lake,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",8.623,7.638,8.215,Big Horn Lake,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",8.583,7.258,7.867,Big Horn Lake,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",8.164,7.244,7.663,Big Horn Lake,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",8.794,7.224,7.766,Big Horn Lake,sfcWind

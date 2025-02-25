@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,15.114,10.854,13.705,Sun,pr
+1951,Historical Emissions,14.758,11.23,12.766,Sun,pr
+1952,Historical Emissions,15.841,12.74,14.375,Sun,pr
+1953,Historical Emissions,16.216,12.922,15.084,Sun,pr
+1954,Historical Emissions,18.127,13.687,16.005,Sun,pr
+1955,Historical Emissions,18.11,10.222,15.387,Sun,pr
+1956,Historical Emissions,18.079,11.228,13.727,Sun,pr
+1957,Historical Emissions,19.243,12.861,15.429,Sun,pr
+1958,Historical Emissions,18.601,13.744,16.362,Sun,pr
+1959,Historical Emissions,18.55,12.206,14.461,Sun,pr
+1960,Historical Emissions,17.535,11.843,14.305,Sun,pr
+1961,Historical Emissions,17.055,11.584,14.044,Sun,pr
+1962,Historical Emissions,19.323,10.553,14.993,Sun,pr
+1963,Historical Emissions,18.328,13.723,16.114,Sun,pr
+1964,Historical Emissions,16.233,10.874,14.569,Sun,pr
+1965,Historical Emissions,16.701,12.247,14.52,Sun,pr
+1966,Historical Emissions,19.709,13.193,14.578,Sun,pr
+1967,Historical Emissions,18.474,10.587,16.351,Sun,pr
+1968,Historical Emissions,17.266,14.399,16.463,Sun,pr
+1969,Historical Emissions,15.319,12.586,13.799,Sun,pr
+1970,Historical Emissions,16.701,11.176,14.353,Sun,pr
+1971,Historical Emissions,15.476,10.313,13.948,Sun,pr
+1972,Historical Emissions,17.473,12.139,14.258,Sun,pr
+1973,Historical Emissions,18.311,13.223,15.376,Sun,pr
+1974,Historical Emissions,18.241,12.059,14.01,Sun,pr
+1975,Historical Emissions,17.032,11.929,14.257,Sun,pr
+1976,Historical Emissions,18.284,12.65,14.281,Sun,pr
+1977,Historical Emissions,18.274,12.061,15.465,Sun,pr
+1978,Historical Emissions,17.948,14.581,15.881,Sun,pr
+1979,Historical Emissions,18.681,12.186,15.234,Sun,pr
+1980,Historical Emissions,18.605,10.142,13.516,Sun,pr
+1981,Historical Emissions,17.356,12.6,14.126,Sun,pr
+1982,Historical Emissions,17.927,13.936,15.188,Sun,pr
+1983,Historical Emissions,17.127,12.815,14.688,Sun,pr
+1984,Historical Emissions,19.415,12.923,13.888,Sun,pr
+1985,Historical Emissions,17.901,14.128,15.753,Sun,pr
+1986,Historical Emissions,17.605,15.02,16.393,Sun,pr
+1987,Historical Emissions,16.933,12.834,15.4,Sun,pr
+1988,Historical Emissions,17.258,12.277,16.443,Sun,pr
+1989,Historical Emissions,16.659,13.33,14.784,Sun,pr
+1990,Historical Emissions,19.203,12.776,15.065,Sun,pr
+1991,Historical Emissions,18.859,11.291,14.527,Sun,pr
+1992,Historical Emissions,16.275,10.206,14.975,Sun,pr
+1993,Historical Emissions,16.518,13.033,15.094,Sun,pr
+1994,Historical Emissions,18.221,8.71,13.645,Sun,pr
+1995,Historical Emissions,16.038,10.892,13.417,Sun,pr
+1996,Historical Emissions,15.041,7.522,11.501,Sun,pr
+1997,Historical Emissions,17.227,12.744,14.518,Sun,pr
+1998,Historical Emissions,19.989,12.935,16.417,Sun,pr
+1999,Historical Emissions,19.105,13.407,15.215,Sun,pr
+2000,Historical Emissions,17.159,12.307,16.182,Sun,pr
+2001,Historical Emissions,17.008,12.012,15.616,Sun,pr
+2002,Historical Emissions,19.979,13.327,17.379,Sun,pr
+2003,Historical Emissions,18.502,12.106,13.965,Sun,pr
+2004,Historical Emissions,17.061,10.612,14.322,Sun,pr
+2005,Historical Emissions,18.364,12.036,15.759,Sun,pr
+2006,Historical Emissions,18.009,12.104,15.243,Sun,pr
+2007,Historical Emissions,18.986,11.694,12.982,Sun,pr
+2008,Historical Emissions,16.475,13.134,14.597,Sun,pr
+2009,Historical Emissions,20.898,13.542,16.17,Sun,pr
+2010,Historical Emissions,17.336,12.833,14.974,Sun,pr
+2011,Historical Emissions,18.876,13.12,15.674,Sun,pr
+2012,Historical Emissions,15.424,10.94,12.68,Sun,pr
+2013,Historical Emissions,18.147,11.802,13.858,Sun,pr
+2014,Historical Emissions,16.568,12.493,14.429,Sun,pr
+2015,"Moderating Emissions
+(SSP1-2.6)",15.579,12.36,14.265,Sun,pr
+2015,"Middle of the Road
+(SSP2-4.5)",17.599,11.647,13.04,Sun,pr
+2015,"High Emissions
+(SSP3-7.0)",18.702,11.635,13.53,Sun,pr
+2015,"Accelerating Emissions
+(SSP5-8.5)",17.478,12.092,15.658,Sun,pr
+2016,"Moderating Emissions
+(SSP1-2.6)",16.246,13.118,13.675,Sun,pr
+2016,"Middle of the Road
+(SSP2-4.5)",17.693,13.895,15.362,Sun,pr
+2016,"High Emissions
+(SSP3-7.0)",16.948,11.849,15.617,Sun,pr
+2016,"Accelerating Emissions
+(SSP5-8.5)",18.245,13.51,15.147,Sun,pr
+2017,"Moderating Emissions
+(SSP1-2.6)",18.609,14.483,17.155,Sun,pr
+2017,"Middle of the Road
+(SSP2-4.5)",18.109,11.779,15.153,Sun,pr
+2017,"High Emissions
+(SSP3-7.0)",18.708,12.508,14.584,Sun,pr
+2017,"Accelerating Emissions
+(SSP5-8.5)",20.074,13.451,14.99,Sun,pr
+2018,"Moderating Emissions
+(SSP1-2.6)",17.308,13.497,14.857,Sun,pr
+2018,"Middle of the Road
+(SSP2-4.5)",15.679,11.913,14.395,Sun,pr
+2018,"High Emissions
+(SSP3-7.0)",19.828,13.915,18.049,Sun,pr
+2018,"Accelerating Emissions
+(SSP5-8.5)",18.072,12.985,16.908,Sun,pr
+2019,"Moderating Emissions
+(SSP1-2.6)",16.203,12.333,13.983,Sun,pr
+2019,"Middle of the Road
+(SSP2-4.5)",19.037,10.789,14.522,Sun,pr
+2019,"High Emissions
+(SSP3-7.0)",18.367,12.753,14.975,Sun,pr
+2019,"Accelerating Emissions
+(SSP5-8.5)",18.256,11.563,14.281,Sun,pr
+2020,"Moderating Emissions
+(SSP1-2.6)",17.769,11.922,15.914,Sun,pr
+2020,"Middle of the Road
+(SSP2-4.5)",20.476,14.365,15.581,Sun,pr
+2020,"High Emissions
+(SSP3-7.0)",18.706,14.647,15.711,Sun,pr
+2020,"Accelerating Emissions
+(SSP5-8.5)",17.678,12.983,15.515,Sun,pr
+2021,"Moderating Emissions
+(SSP1-2.6)",17.129,12.439,12.929,Sun,pr
+2021,"Middle of the Road
+(SSP2-4.5)",20.263,10.534,13.13,Sun,pr
+2021,"High Emissions
+(SSP3-7.0)",17.476,10.756,15.455,Sun,pr
+2021,"Accelerating Emissions
+(SSP5-8.5)",17.398,12.667,16.719,Sun,pr
+2022,"Moderating Emissions
+(SSP1-2.6)",19.82,12.446,14.49,Sun,pr
+2022,"Middle of the Road
+(SSP2-4.5)",18.256,13.056,14.878,Sun,pr
+2022,"High Emissions
+(SSP3-7.0)",21.169,13.924,16.664,Sun,pr
+2022,"Accelerating Emissions
+(SSP5-8.5)",17.633,14.753,15.344,Sun,pr
+2023,"Moderating Emissions
+(SSP1-2.6)",18.577,13.943,15.93,Sun,pr
+2023,"Middle of the Road
+(SSP2-4.5)",19.734,11.08,14.253,Sun,pr
+2023,"High Emissions
+(SSP3-7.0)",20.8,11.489,15.055,Sun,pr
+2023,"Accelerating Emissions
+(SSP5-8.5)",20.04,16.14,17.706,Sun,pr
+2024,"Moderating Emissions
+(SSP1-2.6)",19.314,12.263,14.833,Sun,pr
+2024,"Middle of the Road
+(SSP2-4.5)",17.658,11.169,15.406,Sun,pr
+2024,"High Emissions
+(SSP3-7.0)",16.26,12.962,14.691,Sun,pr
+2024,"Accelerating Emissions
+(SSP5-8.5)",20.217,12.93,15.418,Sun,pr
+2025,"Moderating Emissions
+(SSP1-2.6)",18.658,11.587,16.656,Sun,pr
+2025,"Middle of the Road
+(SSP2-4.5)",19.373,14.237,16.919,Sun,pr
+2025,"High Emissions
+(SSP3-7.0)",17.914,11.093,14.298,Sun,pr
+2025,"Accelerating Emissions
+(SSP5-8.5)",18.437,11.983,15.039,Sun,pr
+2026,"Moderating Emissions
+(SSP1-2.6)",20.654,12.647,17.92,Sun,pr
+2026,"Middle of the Road
+(SSP2-4.5)",17.59,13.416,15.45,Sun,pr
+2026,"High Emissions
+(SSP3-7.0)",20.924,15.496,17,Sun,pr
+2026,"Accelerating Emissions
+(SSP5-8.5)",19.419,12.059,16.687,Sun,pr
+2027,"Moderating Emissions
+(SSP1-2.6)",20.94,12.03,16.013,Sun,pr
+2027,"Middle of the Road
+(SSP2-4.5)",18.069,11.405,14.537,Sun,pr
+2027,"High Emissions
+(SSP3-7.0)",19.233,14.076,16.094,Sun,pr
+2027,"Accelerating Emissions
+(SSP5-8.5)",18.618,12.026,13.609,Sun,pr
+2028,"Moderating Emissions
+(SSP1-2.6)",17.518,13.456,15.498,Sun,pr
+2028,"Middle of the Road
+(SSP2-4.5)",21.856,14.579,18.278,Sun,pr
+2028,"High Emissions
+(SSP3-7.0)",17.141,12.462,16.166,Sun,pr
+2028,"Accelerating Emissions
+(SSP5-8.5)",18.168,10.705,15.856,Sun,pr
+2029,"Moderating Emissions
+(SSP1-2.6)",17.186,14.052,15.852,Sun,pr
+2029,"Middle of the Road
+(SSP2-4.5)",20.332,13.826,17.101,Sun,pr
+2029,"High Emissions
+(SSP3-7.0)",18.737,12.43,13.912,Sun,pr
+2029,"Accelerating Emissions
+(SSP5-8.5)",17.592,12.671,14.927,Sun,pr
+2030,"Moderating Emissions
+(SSP1-2.6)",18.173,14.309,15.806,Sun,pr
+2030,"Middle of the Road
+(SSP2-4.5)",16.887,10.278,14.654,Sun,pr
+2030,"High Emissions
+(SSP3-7.0)",19.687,11.191,14.903,Sun,pr
+2030,"Accelerating Emissions
+(SSP5-8.5)",19.684,10.901,12.996,Sun,pr
+2031,"Moderating Emissions
+(SSP1-2.6)",20.101,12.743,15.851,Sun,pr
+2031,"Middle of the Road
+(SSP2-4.5)",19.703,12.323,16.841,Sun,pr
+2031,"High Emissions
+(SSP3-7.0)",17.654,10.113,14.058,Sun,pr
+2031,"Accelerating Emissions
+(SSP5-8.5)",19.265,12.152,15.811,Sun,pr
+2032,"Moderating Emissions
+(SSP1-2.6)",18.547,12.716,16.705,Sun,pr
+2032,"Middle of the Road
+(SSP2-4.5)",18.983,13.68,16.276,Sun,pr
+2032,"High Emissions
+(SSP3-7.0)",15.909,11.518,14.692,Sun,pr
+2032,"Accelerating Emissions
+(SSP5-8.5)",18.333,12.727,16.954,Sun,pr
+2033,"Moderating Emissions
+(SSP1-2.6)",18.022,12.841,14.833,Sun,pr
+2033,"Middle of the Road
+(SSP2-4.5)",22.506,13.843,16.464,Sun,pr
+2033,"High Emissions
+(SSP3-7.0)",20.301,13.018,15.377,Sun,pr
+2033,"Accelerating Emissions
+(SSP5-8.5)",15.972,14.165,14.863,Sun,pr
+2034,"Moderating Emissions
+(SSP1-2.6)",19.023,11.894,14.925,Sun,pr
+2034,"Middle of the Road
+(SSP2-4.5)",16.273,12.603,14.578,Sun,pr
+2034,"High Emissions
+(SSP3-7.0)",16.891,9.939,13.71,Sun,pr
+2034,"Accelerating Emissions
+(SSP5-8.5)",23.35,11.808,15.128,Sun,pr
+2035,"Moderating Emissions
+(SSP1-2.6)",18.121,10.197,13.472,Sun,pr
+2035,"Middle of the Road
+(SSP2-4.5)",20.662,12.958,15.578,Sun,pr
+2035,"High Emissions
+(SSP3-7.0)",19.325,11.126,17.175,Sun,pr
+2035,"Accelerating Emissions
+(SSP5-8.5)",19.005,13.53,15.464,Sun,pr
+2036,"Moderating Emissions
+(SSP1-2.6)",18.939,11.178,16.048,Sun,pr
+2036,"Middle of the Road
+(SSP2-4.5)",21.168,11.824,16.457,Sun,pr
+2036,"High Emissions
+(SSP3-7.0)",19.467,12.03,14.551,Sun,pr
+2036,"Accelerating Emissions
+(SSP5-8.5)",22.41,13.889,15.125,Sun,pr
+2037,"Moderating Emissions
+(SSP1-2.6)",18.264,11.035,17.182,Sun,pr
+2037,"Middle of the Road
+(SSP2-4.5)",18.192,13.385,15.314,Sun,pr
+2037,"High Emissions
+(SSP3-7.0)",19.658,13.222,17.914,Sun,pr
+2037,"Accelerating Emissions
+(SSP5-8.5)",19.542,11.078,14.983,Sun,pr
+2038,"Moderating Emissions
+(SSP1-2.6)",19.002,14.652,16.643,Sun,pr
+2038,"Middle of the Road
+(SSP2-4.5)",19.132,12.262,16.026,Sun,pr
+2038,"High Emissions
+(SSP3-7.0)",19.373,11.175,16.633,Sun,pr
+2038,"Accelerating Emissions
+(SSP5-8.5)",18.003,13.154,16.786,Sun,pr
+2039,"Moderating Emissions
+(SSP1-2.6)",20.652,13.587,16.655,Sun,pr
+2039,"Middle of the Road
+(SSP2-4.5)",19.986,10.953,16.527,Sun,pr
+2039,"High Emissions
+(SSP3-7.0)",19.136,10.964,15.356,Sun,pr
+2039,"Accelerating Emissions
+(SSP5-8.5)",20.332,12.741,17.089,Sun,pr
+2040,"Moderating Emissions
+(SSP1-2.6)",19.403,12.853,14.167,Sun,pr
+2040,"Middle of the Road
+(SSP2-4.5)",18.353,11.099,14.859,Sun,pr
+2040,"High Emissions
+(SSP3-7.0)",17.839,13.114,15.985,Sun,pr
+2040,"Accelerating Emissions
+(SSP5-8.5)",18.499,11.373,15.322,Sun,pr
+2041,"Moderating Emissions
+(SSP1-2.6)",19.214,12.327,15.78,Sun,pr
+2041,"Middle of the Road
+(SSP2-4.5)",17.324,12.287,14.935,Sun,pr
+2041,"High Emissions
+(SSP3-7.0)",17.579,12.178,14.487,Sun,pr
+2041,"Accelerating Emissions
+(SSP5-8.5)",20.973,14.367,19.231,Sun,pr
+2042,"Moderating Emissions
+(SSP1-2.6)",20.406,12.312,15.896,Sun,pr
+2042,"Middle of the Road
+(SSP2-4.5)",19.063,13.069,17.225,Sun,pr
+2042,"High Emissions
+(SSP3-7.0)",20.426,14.621,16.707,Sun,pr
+2042,"Accelerating Emissions
+(SSP5-8.5)",20.1,13.164,15.599,Sun,pr
+2043,"Moderating Emissions
+(SSP1-2.6)",19.806,11.492,15.944,Sun,pr
+2043,"Middle of the Road
+(SSP2-4.5)",19.051,10.987,16.319,Sun,pr
+2043,"High Emissions
+(SSP3-7.0)",18.69,12.951,17.429,Sun,pr
+2043,"Accelerating Emissions
+(SSP5-8.5)",17.711,11.855,14.544,Sun,pr
+2044,"Moderating Emissions
+(SSP1-2.6)",18.437,13.714,15.676,Sun,pr
+2044,"Middle of the Road
+(SSP2-4.5)",19.846,12.302,15.233,Sun,pr
+2044,"High Emissions
+(SSP3-7.0)",18.63,12.165,16.566,Sun,pr
+2044,"Accelerating Emissions
+(SSP5-8.5)",17.096,13.501,15.713,Sun,pr
+2045,"Moderating Emissions
+(SSP1-2.6)",17.647,13.943,16.928,Sun,pr
+2045,"Middle of the Road
+(SSP2-4.5)",18.377,12.184,15.384,Sun,pr
+2045,"High Emissions
+(SSP3-7.0)",18.631,11.177,16.843,Sun,pr
+2045,"Accelerating Emissions
+(SSP5-8.5)",18.379,10.475,16.175,Sun,pr
+2046,"Moderating Emissions
+(SSP1-2.6)",16.63,12.973,14.78,Sun,pr
+2046,"Middle of the Road
+(SSP2-4.5)",20.204,14.008,18.681,Sun,pr
+2046,"High Emissions
+(SSP3-7.0)",19.947,12.818,16.546,Sun,pr
+2046,"Accelerating Emissions
+(SSP5-8.5)",21.823,11.766,15.843,Sun,pr
+2047,"Moderating Emissions
+(SSP1-2.6)",19.549,12.12,17.723,Sun,pr
+2047,"Middle of the Road
+(SSP2-4.5)",18.435,12.463,14.639,Sun,pr
+2047,"High Emissions
+(SSP3-7.0)",18.113,12.534,15.679,Sun,pr
+2047,"Accelerating Emissions
+(SSP5-8.5)",17.173,11.36,15.101,Sun,pr
+2048,"Moderating Emissions
+(SSP1-2.6)",19.068,14.577,16.44,Sun,pr
+2048,"Middle of the Road
+(SSP2-4.5)",18.526,12.541,15.283,Sun,pr
+2048,"High Emissions
+(SSP3-7.0)",19.388,14.671,16.978,Sun,pr
+2048,"Accelerating Emissions
+(SSP5-8.5)",18.916,11.843,14.721,Sun,pr
+2049,"Moderating Emissions
+(SSP1-2.6)",18.975,12.054,14.768,Sun,pr
+2049,"Middle of the Road
+(SSP2-4.5)",18.915,13.904,15.709,Sun,pr
+2049,"High Emissions
+(SSP3-7.0)",16.575,13.162,14.726,Sun,pr
+2049,"Accelerating Emissions
+(SSP5-8.5)",19.824,12.488,15.201,Sun,pr
+2050,"Moderating Emissions
+(SSP1-2.6)",22.118,11.874,15.206,Sun,pr
+2050,"Middle of the Road
+(SSP2-4.5)",19.417,12.926,16.377,Sun,pr
+2050,"High Emissions
+(SSP3-7.0)",20.574,15.144,15.79,Sun,pr
+2050,"Accelerating Emissions
+(SSP5-8.5)",20.718,12.059,15.894,Sun,pr
+2051,"Moderating Emissions
+(SSP1-2.6)",20.028,11.936,16.945,Sun,pr
+2051,"Middle of the Road
+(SSP2-4.5)",19.178,12.665,14.911,Sun,pr
+2051,"High Emissions
+(SSP3-7.0)",18.017,13.44,14.775,Sun,pr
+2051,"Accelerating Emissions
+(SSP5-8.5)",19.388,13.798,15.04,Sun,pr
+2052,"Moderating Emissions
+(SSP1-2.6)",18.205,13.269,16.019,Sun,pr
+2052,"Middle of the Road
+(SSP2-4.5)",18.169,13.22,15.643,Sun,pr
+2052,"High Emissions
+(SSP3-7.0)",20.51,15.492,17.418,Sun,pr
+2052,"Accelerating Emissions
+(SSP5-8.5)",18.633,12.295,15.155,Sun,pr
+2053,"Moderating Emissions
+(SSP1-2.6)",19.787,12.762,15.483,Sun,pr
+2053,"Middle of the Road
+(SSP2-4.5)",20.89,11.812,17.461,Sun,pr
+2053,"High Emissions
+(SSP3-7.0)",17.213,10.531,13.958,Sun,pr
+2053,"Accelerating Emissions
+(SSP5-8.5)",17.644,13.119,15.634,Sun,pr
+2054,"Moderating Emissions
+(SSP1-2.6)",18.957,12.188,15.48,Sun,pr
+2054,"Middle of the Road
+(SSP2-4.5)",19,12.066,16.365,Sun,pr
+2054,"High Emissions
+(SSP3-7.0)",19.498,15.129,16.935,Sun,pr
+2054,"Accelerating Emissions
+(SSP5-8.5)",15.543,9.609,13.167,Sun,pr
+2055,"Moderating Emissions
+(SSP1-2.6)",18.427,12.563,15.112,Sun,pr
+2055,"Middle of the Road
+(SSP2-4.5)",17.473,12.631,15.33,Sun,pr
+2055,"High Emissions
+(SSP3-7.0)",17.027,13.087,15.079,Sun,pr
+2055,"Accelerating Emissions
+(SSP5-8.5)",18.209,12.56,15.082,Sun,pr
+2056,"Moderating Emissions
+(SSP1-2.6)",18.305,12.597,15.248,Sun,pr
+2056,"Middle of the Road
+(SSP2-4.5)",20.69,13.988,18.221,Sun,pr
+2056,"High Emissions
+(SSP3-7.0)",18.354,13.636,16.695,Sun,pr
+2056,"Accelerating Emissions
+(SSP5-8.5)",17.156,13.183,15.74,Sun,pr
+2057,"Moderating Emissions
+(SSP1-2.6)",20.603,15.371,18.288,Sun,pr
+2057,"Middle of the Road
+(SSP2-4.5)",16.007,12.021,13.556,Sun,pr
+2057,"High Emissions
+(SSP3-7.0)",18.567,13.796,16.684,Sun,pr
+2057,"Accelerating Emissions
+(SSP5-8.5)",22.897,13.448,17.803,Sun,pr
+2058,"Moderating Emissions
+(SSP1-2.6)",19.025,13.311,16.803,Sun,pr
+2058,"Middle of the Road
+(SSP2-4.5)",18.632,11.639,15.942,Sun,pr
+2058,"High Emissions
+(SSP3-7.0)",20.964,12.72,17.173,Sun,pr
+2058,"Accelerating Emissions
+(SSP5-8.5)",20.266,13.435,15.893,Sun,pr
+2059,"Moderating Emissions
+(SSP1-2.6)",17.366,13.987,15.862,Sun,pr
+2059,"Middle of the Road
+(SSP2-4.5)",20.195,12.192,16.529,Sun,pr
+2059,"High Emissions
+(SSP3-7.0)",20.267,9.957,14.675,Sun,pr
+2059,"Accelerating Emissions
+(SSP5-8.5)",20.055,13.3,15.114,Sun,pr
+2060,"Moderating Emissions
+(SSP1-2.6)",17.163,12.127,15.814,Sun,pr
+2060,"Middle of the Road
+(SSP2-4.5)",18.298,12.072,14.379,Sun,pr
+2060,"High Emissions
+(SSP3-7.0)",20.397,12.724,17.936,Sun,pr
+2060,"Accelerating Emissions
+(SSP5-8.5)",20.165,16.167,18.18,Sun,pr
+2061,"Moderating Emissions
+(SSP1-2.6)",18.27,13.275,14.874,Sun,pr
+2061,"Middle of the Road
+(SSP2-4.5)",19.902,15.078,17.532,Sun,pr
+2061,"High Emissions
+(SSP3-7.0)",18.939,13.399,15.533,Sun,pr
+2061,"Accelerating Emissions
+(SSP5-8.5)",16.299,12.44,14.292,Sun,pr
+2062,"Moderating Emissions
+(SSP1-2.6)",21.347,11.536,17.972,Sun,pr
+2062,"Middle of the Road
+(SSP2-4.5)",18.106,10.317,15.257,Sun,pr
+2062,"High Emissions
+(SSP3-7.0)",20.583,13.324,16.534,Sun,pr
+2062,"Accelerating Emissions
+(SSP5-8.5)",18.743,13.745,15.286,Sun,pr
+2063,"Moderating Emissions
+(SSP1-2.6)",16.946,11.461,13.144,Sun,pr
+2063,"Middle of the Road
+(SSP2-4.5)",22.396,14.013,16.805,Sun,pr
+2063,"High Emissions
+(SSP3-7.0)",16.077,12.093,14.486,Sun,pr
+2063,"Accelerating Emissions
+(SSP5-8.5)",18.628,12.713,15.462,Sun,pr
+2064,"Moderating Emissions
+(SSP1-2.6)",20.328,12.956,17.219,Sun,pr
+2064,"Middle of the Road
+(SSP2-4.5)",19.962,13.559,15.88,Sun,pr
+2064,"High Emissions
+(SSP3-7.0)",19.83,11.485,15.194,Sun,pr
+2064,"Accelerating Emissions
+(SSP5-8.5)",17.325,12.459,14.36,Sun,pr
+2065,"Moderating Emissions
+(SSP1-2.6)",21.323,13.055,17.195,Sun,pr
+2065,"Middle of the Road
+(SSP2-4.5)",18.645,11.486,14.808,Sun,pr
+2065,"High Emissions
+(SSP3-7.0)",18.107,12.906,14.487,Sun,pr
+2065,"Accelerating Emissions
+(SSP5-8.5)",22.441,12.268,14.302,Sun,pr
+2066,"Moderating Emissions
+(SSP1-2.6)",17.062,12.459,15.359,Sun,pr
+2066,"Middle of the Road
+(SSP2-4.5)",20.339,11.676,16.303,Sun,pr
+2066,"High Emissions
+(SSP3-7.0)",18.945,13.333,15.877,Sun,pr
+2066,"Accelerating Emissions
+(SSP5-8.5)",22.801,11.681,13.926,Sun,pr
+2067,"Moderating Emissions
+(SSP1-2.6)",17.896,13.098,15.226,Sun,pr
+2067,"Middle of the Road
+(SSP2-4.5)",19.046,13.914,17.31,Sun,pr
+2067,"High Emissions
+(SSP3-7.0)",17.511,10.161,14.087,Sun,pr
+2067,"Accelerating Emissions
+(SSP5-8.5)",18.824,13.512,14.738,Sun,pr
+2068,"Moderating Emissions
+(SSP1-2.6)",19.966,13.541,15.658,Sun,pr
+2068,"Middle of the Road
+(SSP2-4.5)",19.543,13.995,18.474,Sun,pr
+2068,"High Emissions
+(SSP3-7.0)",17.769,12.292,15.239,Sun,pr
+2068,"Accelerating Emissions
+(SSP5-8.5)",20.216,11.708,15.589,Sun,pr
+2069,"Moderating Emissions
+(SSP1-2.6)",17.888,11.878,15.984,Sun,pr
+2069,"Middle of the Road
+(SSP2-4.5)",19.139,13.547,15.968,Sun,pr
+2069,"High Emissions
+(SSP3-7.0)",14.736,12.221,13.811,Sun,pr
+2069,"Accelerating Emissions
+(SSP5-8.5)",16.21,9.829,13.337,Sun,pr
+2070,"Moderating Emissions
+(SSP1-2.6)",19.83,12.738,16.325,Sun,pr
+2070,"Middle of the Road
+(SSP2-4.5)",19.257,13.283,16.565,Sun,pr
+2070,"High Emissions
+(SSP3-7.0)",17.927,13.566,16.496,Sun,pr
+2070,"Accelerating Emissions
+(SSP5-8.5)",19.222,13.993,16.306,Sun,pr
+2071,"Moderating Emissions
+(SSP1-2.6)",18.716,12.889,16.361,Sun,pr
+2071,"Middle of the Road
+(SSP2-4.5)",19.091,11.875,15.836,Sun,pr
+2071,"High Emissions
+(SSP3-7.0)",17.769,13.907,16.098,Sun,pr
+2071,"Accelerating Emissions
+(SSP5-8.5)",18.315,12.133,14.417,Sun,pr
+2072,"Moderating Emissions
+(SSP1-2.6)",17.211,12.56,15.155,Sun,pr
+2072,"Middle of the Road
+(SSP2-4.5)",20.588,11.191,15.431,Sun,pr
+2072,"High Emissions
+(SSP3-7.0)",17.838,12.262,14.788,Sun,pr
+2072,"Accelerating Emissions
+(SSP5-8.5)",19.226,12.853,15.899,Sun,pr
+2073,"Moderating Emissions
+(SSP1-2.6)",17.022,14.009,15.084,Sun,pr
+2073,"Middle of the Road
+(SSP2-4.5)",22.745,12.004,17.951,Sun,pr
+2073,"High Emissions
+(SSP3-7.0)",17.464,12.64,14.927,Sun,pr
+2073,"Accelerating Emissions
+(SSP5-8.5)",17.521,12.508,14.693,Sun,pr
+2074,"Moderating Emissions
+(SSP1-2.6)",19.983,13.691,15.331,Sun,pr
+2074,"Middle of the Road
+(SSP2-4.5)",18.211,13.885,15.297,Sun,pr
+2074,"High Emissions
+(SSP3-7.0)",19.137,14.593,15.983,Sun,pr
+2074,"Accelerating Emissions
+(SSP5-8.5)",18.201,12.177,17.465,Sun,pr
+2075,"Moderating Emissions
+(SSP1-2.6)",19.821,12.516,15.058,Sun,pr
+2075,"Middle of the Road
+(SSP2-4.5)",19.203,13.751,15.861,Sun,pr
+2075,"High Emissions
+(SSP3-7.0)",22.247,12.523,15.198,Sun,pr
+2075,"Accelerating Emissions
+(SSP5-8.5)",20.025,10.884,13.593,Sun,pr
+2076,"Moderating Emissions
+(SSP1-2.6)",18.533,13.073,17.363,Sun,pr
+2076,"Middle of the Road
+(SSP2-4.5)",21.901,14.785,17.167,Sun,pr
+2076,"High Emissions
+(SSP3-7.0)",19.931,13.214,16.253,Sun,pr
+2076,"Accelerating Emissions
+(SSP5-8.5)",18.937,9.653,17.514,Sun,pr
+2077,"Moderating Emissions
+(SSP1-2.6)",19.172,13.23,17.229,Sun,pr
+2077,"Middle of the Road
+(SSP2-4.5)",19.743,14.535,15.971,Sun,pr
+2077,"High Emissions
+(SSP3-7.0)",18.512,13.019,17.398,Sun,pr
+2077,"Accelerating Emissions
+(SSP5-8.5)",18.239,12.348,15.679,Sun,pr
+2078,"Moderating Emissions
+(SSP1-2.6)",16.573,12.358,15.192,Sun,pr
+2078,"Middle of the Road
+(SSP2-4.5)",20.147,12.705,17.896,Sun,pr
+2078,"High Emissions
+(SSP3-7.0)",20.25,12.875,14.414,Sun,pr
+2078,"Accelerating Emissions
+(SSP5-8.5)",19.59,11.519,17.914,Sun,pr
+2079,"Moderating Emissions
+(SSP1-2.6)",17.454,10.825,14.447,Sun,pr
+2079,"Middle of the Road
+(SSP2-4.5)",18.349,12.695,15.352,Sun,pr
+2079,"High Emissions
+(SSP3-7.0)",18.973,13.78,15.309,Sun,pr
+2079,"Accelerating Emissions
+(SSP5-8.5)",17.245,12.812,14.09,Sun,pr
+2080,"Moderating Emissions
+(SSP1-2.6)",19.915,14.13,15.787,Sun,pr
+2080,"Middle of the Road
+(SSP2-4.5)",21.495,11.677,16.23,Sun,pr
+2080,"High Emissions
+(SSP3-7.0)",15.971,13.16,14.559,Sun,pr
+2080,"Accelerating Emissions
+(SSP5-8.5)",19.497,12.069,16.159,Sun,pr
+2081,"Moderating Emissions
+(SSP1-2.6)",18.46,13.41,15.647,Sun,pr
+2081,"Middle of the Road
+(SSP2-4.5)",19.785,13.216,16.335,Sun,pr
+2081,"High Emissions
+(SSP3-7.0)",19.868,10.82,14.597,Sun,pr
+2081,"Accelerating Emissions
+(SSP5-8.5)",17.307,11.183,13.883,Sun,pr
+2082,"Moderating Emissions
+(SSP1-2.6)",17.505,13.905,14.299,Sun,pr
+2082,"Middle of the Road
+(SSP2-4.5)",18.662,13.631,15.733,Sun,pr
+2082,"High Emissions
+(SSP3-7.0)",19.681,11.651,15.321,Sun,pr
+2082,"Accelerating Emissions
+(SSP5-8.5)",17.24,12.293,14.036,Sun,pr
+2083,"Moderating Emissions
+(SSP1-2.6)",19.178,12.913,15.629,Sun,pr
+2083,"Middle of the Road
+(SSP2-4.5)",17.582,12.312,16.577,Sun,pr
+2083,"High Emissions
+(SSP3-7.0)",18.527,13.422,16.811,Sun,pr
+2083,"Accelerating Emissions
+(SSP5-8.5)",19.573,12.334,15.763,Sun,pr
+2084,"Moderating Emissions
+(SSP1-2.6)",21.098,13.699,17.427,Sun,pr
+2084,"Middle of the Road
+(SSP2-4.5)",16.873,12.273,13.073,Sun,pr
+2084,"High Emissions
+(SSP3-7.0)",16.036,12.095,14.25,Sun,pr
+2084,"Accelerating Emissions
+(SSP5-8.5)",19.732,12.687,15.851,Sun,pr
+2085,"Moderating Emissions
+(SSP1-2.6)",20.775,12.673,15.436,Sun,pr
+2085,"Middle of the Road
+(SSP2-4.5)",21.013,12.372,15.673,Sun,pr
+2085,"High Emissions
+(SSP3-7.0)",19.046,11.999,15.875,Sun,pr
+2085,"Accelerating Emissions
+(SSP5-8.5)",19.842,12.082,14.535,Sun,pr
+2086,"Moderating Emissions
+(SSP1-2.6)",19.333,12.847,16.649,Sun,pr
+2086,"Middle of the Road
+(SSP2-4.5)",21.508,14.181,16,Sun,pr
+2086,"High Emissions
+(SSP3-7.0)",22.247,13.616,17.172,Sun,pr
+2086,"Accelerating Emissions
+(SSP5-8.5)",19.309,14.483,17.559,Sun,pr
+2087,"Moderating Emissions
+(SSP1-2.6)",19.275,12.585,15.975,Sun,pr
+2087,"Middle of the Road
+(SSP2-4.5)",18.195,14.354,15.868,Sun,pr
+2087,"High Emissions
+(SSP3-7.0)",21.048,12.992,15.61,Sun,pr
+2087,"Accelerating Emissions
+(SSP5-8.5)",21.667,11.699,17.28,Sun,pr
+2088,"Moderating Emissions
+(SSP1-2.6)",19.829,12.591,17.537,Sun,pr
+2088,"Middle of the Road
+(SSP2-4.5)",18.255,8.718,15.333,Sun,pr
+2088,"High Emissions
+(SSP3-7.0)",19.032,15.654,16.904,Sun,pr
+2088,"Accelerating Emissions
+(SSP5-8.5)",18.514,10.098,15.541,Sun,pr
+2089,"Moderating Emissions
+(SSP1-2.6)",19.016,13.277,15.867,Sun,pr
+2089,"Middle of the Road
+(SSP2-4.5)",18.869,11.875,16.093,Sun,pr
+2089,"High Emissions
+(SSP3-7.0)",19.122,12.572,15.011,Sun,pr
+2089,"Accelerating Emissions
+(SSP5-8.5)",19.158,12.911,15.71,Sun,pr
+2090,"Moderating Emissions
+(SSP1-2.6)",20.785,13.836,15.402,Sun,pr
+2090,"Middle of the Road
+(SSP2-4.5)",19.931,14.284,17.609,Sun,pr
+2090,"High Emissions
+(SSP3-7.0)",17.699,11.453,13.061,Sun,pr
+2090,"Accelerating Emissions
+(SSP5-8.5)",18.577,12.362,15.9,Sun,pr
+2091,"Moderating Emissions
+(SSP1-2.6)",19.206,14.163,17.015,Sun,pr
+2091,"Middle of the Road
+(SSP2-4.5)",21.12,12.945,15.647,Sun,pr
+2091,"High Emissions
+(SSP3-7.0)",21.309,12.405,13.154,Sun,pr
+2091,"Accelerating Emissions
+(SSP5-8.5)",19.298,13.452,17.026,Sun,pr
+2092,"Moderating Emissions
+(SSP1-2.6)",18.106,10.405,16.32,Sun,pr
+2092,"Middle of the Road
+(SSP2-4.5)",20.523,12.47,15.546,Sun,pr
+2092,"High Emissions
+(SSP3-7.0)",21.62,16.424,18.007,Sun,pr
+2092,"Accelerating Emissions
+(SSP5-8.5)",17.282,12.051,14.165,Sun,pr
+2093,"Moderating Emissions
+(SSP1-2.6)",23.288,11.342,15.512,Sun,pr
+2093,"Middle of the Road
+(SSP2-4.5)",19.536,14.186,18.539,Sun,pr
+2093,"High Emissions
+(SSP3-7.0)",19.968,14.153,16.763,Sun,pr
+2093,"Accelerating Emissions
+(SSP5-8.5)",19.038,12.755,13.628,Sun,pr
+2094,"Moderating Emissions
+(SSP1-2.6)",17.586,12.717,15.437,Sun,pr
+2094,"Middle of the Road
+(SSP2-4.5)",21.283,11.487,14.385,Sun,pr
+2094,"High Emissions
+(SSP3-7.0)",20.973,13.895,16.502,Sun,pr
+2094,"Accelerating Emissions
+(SSP5-8.5)",18.799,13.608,16.387,Sun,pr
+2095,"Moderating Emissions
+(SSP1-2.6)",19.507,11.563,14.925,Sun,pr
+2095,"Middle of the Road
+(SSP2-4.5)",17.728,14.261,15.698,Sun,pr
+2095,"High Emissions
+(SSP3-7.0)",21.059,12.696,15.657,Sun,pr
+2095,"Accelerating Emissions
+(SSP5-8.5)",16.378,12.381,15.022,Sun,pr
+2096,"Moderating Emissions
+(SSP1-2.6)",16.588,12.65,15.232,Sun,pr
+2096,"Middle of the Road
+(SSP2-4.5)",21.844,12.55,15.492,Sun,pr
+2096,"High Emissions
+(SSP3-7.0)",19.321,14.4,16.467,Sun,pr
+2096,"Accelerating Emissions
+(SSP5-8.5)",20.884,11.94,17.506,Sun,pr
+2097,"Moderating Emissions
+(SSP1-2.6)",16.796,9.273,14.568,Sun,pr
+2097,"Middle of the Road
+(SSP2-4.5)",17.178,12.005,15.532,Sun,pr
+2097,"High Emissions
+(SSP3-7.0)",18.352,12.245,14.906,Sun,pr
+2097,"Accelerating Emissions
+(SSP5-8.5)",19.614,12.242,17.465,Sun,pr
+2098,"Moderating Emissions
+(SSP1-2.6)",19.946,13.359,14.944,Sun,pr
+2098,"Middle of the Road
+(SSP2-4.5)",15.953,12.46,13.991,Sun,pr
+2098,"High Emissions
+(SSP3-7.0)",19.826,14.402,16.422,Sun,pr
+2098,"Accelerating Emissions
+(SSP5-8.5)",18.697,12.052,14.977,Sun,pr
+2099,"Moderating Emissions
+(SSP1-2.6)",20.514,14.458,16.414,Sun,pr
+2099,"Middle of the Road
+(SSP2-4.5)",19.951,14.178,15.87,Sun,pr
+2099,"High Emissions
+(SSP3-7.0)",22.016,12.768,16.131,Sun,pr
+2099,"Accelerating Emissions
+(SSP5-8.5)",20.099,11.077,15.584,Sun,pr
+2100,"Moderating Emissions
+(SSP1-2.6)",22.644,13.81,18.737,Sun,pr
+2100,"Middle of the Road
+(SSP2-4.5)",20.223,14.356,15.398,Sun,pr
+2100,"High Emissions
+(SSP3-7.0)",21.477,14,16.866,Sun,pr
+2100,"Accelerating Emissions
+(SSP5-8.5)",18.114,11.685,14.463,Sun,pr

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,54.668,51.358,51.819,West Fork Poplar,tasmax
+1951,Historical Emissions,53.399,49.898,52.239,West Fork Poplar,tasmax
+1952,Historical Emissions,54.557,49.411,51.974,West Fork Poplar,tasmax
+1953,Historical Emissions,52.941,48.181,51.815,West Fork Poplar,tasmax
+1954,Historical Emissions,53.787,47.586,51.584,West Fork Poplar,tasmax
+1955,Historical Emissions,55.789,49.084,49.841,West Fork Poplar,tasmax
+1956,Historical Emissions,55.932,50.824,52.043,West Fork Poplar,tasmax
+1957,Historical Emissions,57.373,49.519,52.942,West Fork Poplar,tasmax
+1958,Historical Emissions,53.54,49.595,50.583,West Fork Poplar,tasmax
+1959,Historical Emissions,52.157,47.332,49.879,West Fork Poplar,tasmax
+1960,Historical Emissions,53.229,48.849,50.969,West Fork Poplar,tasmax
+1961,Historical Emissions,54.063,49.614,52.017,West Fork Poplar,tasmax
+1962,Historical Emissions,52.187,47.689,50.015,West Fork Poplar,tasmax
+1963,Historical Emissions,51.641,49.115,50.413,West Fork Poplar,tasmax
+1964,Historical Emissions,53.675,48.91,52.589,West Fork Poplar,tasmax
+1965,Historical Emissions,52.505,50.102,51.411,West Fork Poplar,tasmax
+1966,Historical Emissions,54.772,48.54,50.088,West Fork Poplar,tasmax
+1967,Historical Emissions,52.666,47.764,50.765,West Fork Poplar,tasmax
+1968,Historical Emissions,50.891,47.398,49.454,West Fork Poplar,tasmax
+1969,Historical Emissions,52.638,48.775,51.864,West Fork Poplar,tasmax
+1970,Historical Emissions,53.981,48.8,51.718,West Fork Poplar,tasmax
+1971,Historical Emissions,54.594,50.677,53.083,West Fork Poplar,tasmax
+1972,Historical Emissions,52.656,49.675,52.015,West Fork Poplar,tasmax
+1973,Historical Emissions,54.211,48.099,50.467,West Fork Poplar,tasmax
+1974,Historical Emissions,54.256,48.419,52.352,West Fork Poplar,tasmax
+1975,Historical Emissions,53.239,48.523,51.803,West Fork Poplar,tasmax
+1976,Historical Emissions,52.971,48.613,50.739,West Fork Poplar,tasmax
+1977,Historical Emissions,53.389,49.95,52.414,West Fork Poplar,tasmax
+1978,Historical Emissions,53.482,49.552,51.11,West Fork Poplar,tasmax
+1979,Historical Emissions,54.482,50.425,53.684,West Fork Poplar,tasmax
+1980,Historical Emissions,53.194,49.314,51.014,West Fork Poplar,tasmax
+1981,Historical Emissions,54.132,50.324,51.441,West Fork Poplar,tasmax
+1982,Historical Emissions,52.74,50.262,52.093,West Fork Poplar,tasmax
+1983,Historical Emissions,52.803,49.407,50.596,West Fork Poplar,tasmax
+1984,Historical Emissions,54.736,49.852,52.056,West Fork Poplar,tasmax
+1985,Historical Emissions,54.261,50.563,51.871,West Fork Poplar,tasmax
+1986,Historical Emissions,50.348,48.348,49.663,West Fork Poplar,tasmax
+1987,Historical Emissions,53.227,47.097,49.349,West Fork Poplar,tasmax
+1988,Historical Emissions,52.966,48.782,51.513,West Fork Poplar,tasmax
+1989,Historical Emissions,55.076,49.473,52.389,West Fork Poplar,tasmax
+1990,Historical Emissions,56.345,49.495,52.509,West Fork Poplar,tasmax
+1991,Historical Emissions,53.861,49.206,51.193,West Fork Poplar,tasmax
+1992,Historical Emissions,54.899,49.681,50.832,West Fork Poplar,tasmax
+1993,Historical Emissions,53.769,49.515,51.081,West Fork Poplar,tasmax
+1994,Historical Emissions,54.594,50.703,51.258,West Fork Poplar,tasmax
+1995,Historical Emissions,56.142,50.096,51.436,West Fork Poplar,tasmax
+1996,Historical Emissions,55.106,51.981,52.952,West Fork Poplar,tasmax
+1997,Historical Emissions,55.977,49.227,51.896,West Fork Poplar,tasmax
+1998,Historical Emissions,53.136,49.823,51.411,West Fork Poplar,tasmax
+1999,Historical Emissions,54.952,50.913,52.79,West Fork Poplar,tasmax
+2000,Historical Emissions,54.559,50.82,52.455,West Fork Poplar,tasmax
+2001,Historical Emissions,54.564,50.686,52.566,West Fork Poplar,tasmax
+2002,Historical Emissions,56.303,50.421,53.481,West Fork Poplar,tasmax
+2003,Historical Emissions,55.317,51.244,53.139,West Fork Poplar,tasmax
+2004,Historical Emissions,55.076,52.577,53.709,West Fork Poplar,tasmax
+2005,Historical Emissions,56.563,51.833,53.438,West Fork Poplar,tasmax
+2006,Historical Emissions,55.315,50.391,53.007,West Fork Poplar,tasmax
+2007,Historical Emissions,54.261,52.402,53.459,West Fork Poplar,tasmax
+2008,Historical Emissions,54.41,50.818,52.903,West Fork Poplar,tasmax
+2009,Historical Emissions,54.162,51.795,52.961,West Fork Poplar,tasmax
+2010,Historical Emissions,55.22,51.35,54.022,West Fork Poplar,tasmax
+2011,Historical Emissions,55.216,51.543,53.261,West Fork Poplar,tasmax
+2012,Historical Emissions,55.111,52.137,53.963,West Fork Poplar,tasmax
+2013,Historical Emissions,56.028,51.907,54.611,West Fork Poplar,tasmax
+2014,Historical Emissions,57.196,53.006,54.085,West Fork Poplar,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",57.234,52.341,54.373,West Fork Poplar,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",56.614,50.946,53.373,West Fork Poplar,tasmax
+2015,"High Emissions
+(SSP3-7.0)",55.994,52.255,53.546,West Fork Poplar,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",56.195,52.519,53.556,West Fork Poplar,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",56.915,53.174,54.968,West Fork Poplar,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",55.068,51.874,54.429,West Fork Poplar,tasmax
+2016,"High Emissions
+(SSP3-7.0)",58.284,51.996,54.772,West Fork Poplar,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",55.75,52.633,54.528,West Fork Poplar,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",54.71,52.535,53.752,West Fork Poplar,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",56.252,51.229,53.388,West Fork Poplar,tasmax
+2017,"High Emissions
+(SSP3-7.0)",56.389,51.386,53.396,West Fork Poplar,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",56.287,52.745,54.69,West Fork Poplar,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",55.781,51.493,54.115,West Fork Poplar,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",56.421,52.889,53.695,West Fork Poplar,tasmax
+2018,"High Emissions
+(SSP3-7.0)",56.434,50.777,54.689,West Fork Poplar,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",55.326,52.181,54.304,West Fork Poplar,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",57.627,54.258,55.65,West Fork Poplar,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",55.728,51.103,53.258,West Fork Poplar,tasmax
+2019,"High Emissions
+(SSP3-7.0)",57.029,51.569,53.088,West Fork Poplar,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",59.833,52.864,55.08,West Fork Poplar,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",58.412,51.798,54.622,West Fork Poplar,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",56.078,51.957,54.097,West Fork Poplar,tasmax
+2020,"High Emissions
+(SSP3-7.0)",55.392,51.49,54.499,West Fork Poplar,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",56.425,53.405,54.536,West Fork Poplar,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",57.241,53.167,55.217,West Fork Poplar,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",56.865,52.397,54.978,West Fork Poplar,tasmax
+2021,"High Emissions
+(SSP3-7.0)",57.532,52.887,55.581,West Fork Poplar,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",56.747,53.894,54.98,West Fork Poplar,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",56.806,52.901,54.131,West Fork Poplar,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",56.036,51.294,54.752,West Fork Poplar,tasmax
+2022,"High Emissions
+(SSP3-7.0)",55.956,51.865,53.924,West Fork Poplar,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",58.584,52.208,54.998,West Fork Poplar,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",55.784,53.29,54.344,West Fork Poplar,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",56.417,52.534,54.94,West Fork Poplar,tasmax
+2023,"High Emissions
+(SSP3-7.0)",57.843,53.055,55.089,West Fork Poplar,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",54.806,51.356,52.419,West Fork Poplar,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",56.678,52.82,55.257,West Fork Poplar,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",56.685,52.47,53.934,West Fork Poplar,tasmax
+2024,"High Emissions
+(SSP3-7.0)",58.527,53.193,55.347,West Fork Poplar,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",56.682,51.303,55.232,West Fork Poplar,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",56.656,54.488,56.238,West Fork Poplar,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",56.783,50.692,54.269,West Fork Poplar,tasmax
+2025,"High Emissions
+(SSP3-7.0)",57.269,53.879,55.73,West Fork Poplar,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",57.306,54.033,55.545,West Fork Poplar,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",57.324,52.628,55.008,West Fork Poplar,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",57.567,52.873,56.299,West Fork Poplar,tasmax
+2026,"High Emissions
+(SSP3-7.0)",56.552,51.757,54.145,West Fork Poplar,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",57.181,52.55,54.413,West Fork Poplar,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",56.915,50.941,53.614,West Fork Poplar,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",57.242,52.586,55.599,West Fork Poplar,tasmax
+2027,"High Emissions
+(SSP3-7.0)",57.444,51.904,54.63,West Fork Poplar,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",57.464,52.932,55.754,West Fork Poplar,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",56.023,51.979,55.184,West Fork Poplar,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",55.21,51.698,53.222,West Fork Poplar,tasmax
+2028,"High Emissions
+(SSP3-7.0)",56.549,53.62,55.486,West Fork Poplar,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",57.445,53.351,53.597,West Fork Poplar,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",59.46,54.514,56.175,West Fork Poplar,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",57.49,52.296,55.25,West Fork Poplar,tasmax
+2029,"High Emissions
+(SSP3-7.0)",57.208,52.457,54.208,West Fork Poplar,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",56.335,54.16,54.805,West Fork Poplar,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",57.482,52.36,54.3,West Fork Poplar,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",58.856,54.024,56.211,West Fork Poplar,tasmax
+2030,"High Emissions
+(SSP3-7.0)",59.173,52.749,54.446,West Fork Poplar,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",57.985,52.009,55.26,West Fork Poplar,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",58.424,52.718,56.569,West Fork Poplar,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",57.852,53.786,55.803,West Fork Poplar,tasmax
+2031,"High Emissions
+(SSP3-7.0)",58.766,52.237,56.767,West Fork Poplar,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",60.254,54.077,57.06,West Fork Poplar,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",56.976,53.107,54.235,West Fork Poplar,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",56.089,53.358,54.489,West Fork Poplar,tasmax
+2032,"High Emissions
+(SSP3-7.0)",57.625,53.845,54.941,West Fork Poplar,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",59.28,52.585,55.62,West Fork Poplar,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",57.339,53.027,56.024,West Fork Poplar,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",58.901,54.16,56.094,West Fork Poplar,tasmax
+2033,"High Emissions
+(SSP3-7.0)",56.938,52.864,54.757,West Fork Poplar,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",57.973,54.11,56.017,West Fork Poplar,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",57.725,52.89,55.449,West Fork Poplar,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",57.616,54.449,56.006,West Fork Poplar,tasmax
+2034,"High Emissions
+(SSP3-7.0)",57.59,53.882,56.587,West Fork Poplar,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",57.154,52.477,55.917,West Fork Poplar,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",58.443,52.905,55.971,West Fork Poplar,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",57.316,53.046,56.58,West Fork Poplar,tasmax
+2035,"High Emissions
+(SSP3-7.0)",55.636,52.591,54.197,West Fork Poplar,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",58.391,52.759,55.904,West Fork Poplar,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",58.149,54.008,56.65,West Fork Poplar,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",56.58,53.094,55.397,West Fork Poplar,tasmax
+2036,"High Emissions
+(SSP3-7.0)",56.721,52.31,55.513,West Fork Poplar,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",57.979,52.503,56.744,West Fork Poplar,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",58.227,54.728,55.821,West Fork Poplar,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",57.544,51.78,55.482,West Fork Poplar,tasmax
+2037,"High Emissions
+(SSP3-7.0)",57.401,52.535,53.671,West Fork Poplar,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",57.773,53.98,56.528,West Fork Poplar,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",58.239,54.069,56.226,West Fork Poplar,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",56.752,53.713,54.625,West Fork Poplar,tasmax
+2038,"High Emissions
+(SSP3-7.0)",58.017,54.238,56.552,West Fork Poplar,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",60.612,53.396,57.437,West Fork Poplar,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",58.329,53.198,55.758,West Fork Poplar,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",57.595,53.306,55.069,West Fork Poplar,tasmax
+2039,"High Emissions
+(SSP3-7.0)",58.009,55.663,57.005,West Fork Poplar,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",58.671,53.378,57.192,West Fork Poplar,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",57.861,53.753,55.803,West Fork Poplar,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",57.843,53.9,56.427,West Fork Poplar,tasmax
+2040,"High Emissions
+(SSP3-7.0)",58.277,54.463,56.109,West Fork Poplar,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",61.678,54.656,57.112,West Fork Poplar,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",57.566,51.325,55.126,West Fork Poplar,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",57.035,53.823,55.655,West Fork Poplar,tasmax
+2041,"High Emissions
+(SSP3-7.0)",57.567,53.168,54.906,West Fork Poplar,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",56.764,54.498,55.481,West Fork Poplar,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",59.339,53.818,54.903,West Fork Poplar,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",56.561,53.571,54.936,West Fork Poplar,tasmax
+2042,"High Emissions
+(SSP3-7.0)",56.364,53.569,55.11,West Fork Poplar,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",59.327,55.179,56.912,West Fork Poplar,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",56.773,53.88,55.853,West Fork Poplar,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",59.136,54.248,55.532,West Fork Poplar,tasmax
+2043,"High Emissions
+(SSP3-7.0)",57.765,52.63,56.306,West Fork Poplar,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",58.093,55.098,56.749,West Fork Poplar,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",58.781,53.726,55.02,West Fork Poplar,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",61.305,54.701,58.049,West Fork Poplar,tasmax
+2044,"High Emissions
+(SSP3-7.0)",56.917,55.3,56.666,West Fork Poplar,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",60.432,53.32,56.475,West Fork Poplar,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",58.417,52.998,56.335,West Fork Poplar,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",59.025,53.369,56.701,West Fork Poplar,tasmax
+2045,"High Emissions
+(SSP3-7.0)",57.725,53.531,55.269,West Fork Poplar,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",57.515,53.953,55.691,West Fork Poplar,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",60.634,52.032,56.67,West Fork Poplar,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",58.141,52.97,54.219,West Fork Poplar,tasmax
+2046,"High Emissions
+(SSP3-7.0)",58.716,55.06,57.147,West Fork Poplar,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",58.931,53.817,55.358,West Fork Poplar,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",58.608,54.377,56.831,West Fork Poplar,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",58.327,50.964,55.344,West Fork Poplar,tasmax
+2047,"High Emissions
+(SSP3-7.0)",57.047,53.299,55.285,West Fork Poplar,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",60.351,53.801,57.322,West Fork Poplar,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",58.795,54.41,55.449,West Fork Poplar,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",59.611,53.563,57.164,West Fork Poplar,tasmax
+2048,"High Emissions
+(SSP3-7.0)",60.171,53.691,56.351,West Fork Poplar,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",63.303,55.54,58.286,West Fork Poplar,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",58.478,53.454,54.422,West Fork Poplar,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",60.062,55.551,58.297,West Fork Poplar,tasmax
+2049,"High Emissions
+(SSP3-7.0)",58.705,54.693,56.499,West Fork Poplar,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",59.829,55.215,57.84,West Fork Poplar,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",57.909,52.038,55.767,West Fork Poplar,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",59.991,54.391,57.172,West Fork Poplar,tasmax
+2050,"High Emissions
+(SSP3-7.0)",59.587,54.213,57.167,West Fork Poplar,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",59.796,55.641,58.18,West Fork Poplar,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",59.251,53.726,56.048,West Fork Poplar,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",61.033,54.746,57.505,West Fork Poplar,tasmax
+2051,"High Emissions
+(SSP3-7.0)",59.374,55.475,56.912,West Fork Poplar,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",59.518,55.775,56.591,West Fork Poplar,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",57.974,54.332,56.707,West Fork Poplar,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",59.444,54.457,56.491,West Fork Poplar,tasmax
+2052,"High Emissions
+(SSP3-7.0)",60.485,53.533,55.905,West Fork Poplar,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",59.709,55.78,57.515,West Fork Poplar,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",58.344,54.137,54.776,West Fork Poplar,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",58.193,54.714,57.496,West Fork Poplar,tasmax
+2053,"High Emissions
+(SSP3-7.0)",60.374,55.737,59.373,West Fork Poplar,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",61.168,55.936,57.309,West Fork Poplar,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",59.305,55.447,56.903,West Fork Poplar,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",58.494,53.625,56.473,West Fork Poplar,tasmax
+2054,"High Emissions
+(SSP3-7.0)",58.587,54.486,56.37,West Fork Poplar,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",60.413,55.328,59.187,West Fork Poplar,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",58.164,55.857,57.261,West Fork Poplar,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",60.38,54.646,57.977,West Fork Poplar,tasmax
+2055,"High Emissions
+(SSP3-7.0)",59.277,55.342,56.522,West Fork Poplar,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",61.036,56.509,59.931,West Fork Poplar,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",58.065,54.32,56.584,West Fork Poplar,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",58.89,54.035,56.788,West Fork Poplar,tasmax
+2056,"High Emissions
+(SSP3-7.0)",59.902,54.623,57.426,West Fork Poplar,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",60.132,55.515,58.944,West Fork Poplar,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",58.49,53.182,56.9,West Fork Poplar,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",59.625,55.715,57.683,West Fork Poplar,tasmax
+2057,"High Emissions
+(SSP3-7.0)",59.474,54.453,55.962,West Fork Poplar,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",59.473,53.109,56.334,West Fork Poplar,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",58.73,54.411,56.868,West Fork Poplar,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",60.288,55.604,58.141,West Fork Poplar,tasmax
+2058,"High Emissions
+(SSP3-7.0)",58.929,54.733,57.31,West Fork Poplar,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",59.437,54.575,56.606,West Fork Poplar,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",59.08,54.927,57.51,West Fork Poplar,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",62.05,54.471,58.629,West Fork Poplar,tasmax
+2059,"High Emissions
+(SSP3-7.0)",62.555,56.21,57.822,West Fork Poplar,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",61.051,56.71,59.77,West Fork Poplar,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",59.846,54.209,55.799,West Fork Poplar,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",60.573,55.148,56.659,West Fork Poplar,tasmax
+2060,"High Emissions
+(SSP3-7.0)",58.039,55.545,56.292,West Fork Poplar,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",60.305,57.27,58.6,West Fork Poplar,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",58.559,55.587,56.113,West Fork Poplar,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",60.087,55.632,58.592,West Fork Poplar,tasmax
+2061,"High Emissions
+(SSP3-7.0)",60.261,55.546,58.414,West Fork Poplar,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",62.914,58.034,60.253,West Fork Poplar,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",58.385,53.791,55.77,West Fork Poplar,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",59.102,54.111,56.414,West Fork Poplar,tasmax
+2062,"High Emissions
+(SSP3-7.0)",59.269,55.775,58.217,West Fork Poplar,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",60.874,58.247,59.171,West Fork Poplar,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",57.754,55.058,56.317,West Fork Poplar,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",58.433,54.973,56.959,West Fork Poplar,tasmax
+2063,"High Emissions
+(SSP3-7.0)",60.749,55.683,58.475,West Fork Poplar,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",62.266,55.75,59.31,West Fork Poplar,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",58.889,55.431,56.952,West Fork Poplar,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",57.226,54.86,55.196,West Fork Poplar,tasmax
+2064,"High Emissions
+(SSP3-7.0)",58.868,54.582,56.872,West Fork Poplar,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",60.698,57.252,59.316,West Fork Poplar,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",58.915,52.237,55.195,West Fork Poplar,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",60.149,53.215,55.258,West Fork Poplar,tasmax
+2065,"High Emissions
+(SSP3-7.0)",59.851,56.568,58.234,West Fork Poplar,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",63.552,57.506,60.284,West Fork Poplar,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",59.782,54.16,56.296,West Fork Poplar,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",59.868,54.992,58.617,West Fork Poplar,tasmax
+2066,"High Emissions
+(SSP3-7.0)",60.533,56.23,57.454,West Fork Poplar,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",62.225,55.425,60.603,West Fork Poplar,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",59.098,55.755,56.936,West Fork Poplar,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",59.925,55.167,56.275,West Fork Poplar,tasmax
+2067,"High Emissions
+(SSP3-7.0)",61.792,58.481,59.536,West Fork Poplar,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",63.756,56.894,59.444,West Fork Poplar,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",58.583,52.847,55.918,West Fork Poplar,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",59.466,54.427,57.161,West Fork Poplar,tasmax
+2068,"High Emissions
+(SSP3-7.0)",60.506,55.543,57.288,West Fork Poplar,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",61.274,58.521,59.848,West Fork Poplar,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",60.104,54.135,56.142,West Fork Poplar,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",58.544,54.52,56.948,West Fork Poplar,tasmax
+2069,"High Emissions
+(SSP3-7.0)",63.493,58.459,60.147,West Fork Poplar,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",64.19,57.168,60.25,West Fork Poplar,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",58.674,54.658,56.511,West Fork Poplar,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",59.32,54.54,55.995,West Fork Poplar,tasmax
+2070,"High Emissions
+(SSP3-7.0)",62.022,56.994,59.592,West Fork Poplar,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",64.246,58.186,60.358,West Fork Poplar,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",62.703,53.225,56.504,West Fork Poplar,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",59.473,55.313,57.069,West Fork Poplar,tasmax
+2071,"High Emissions
+(SSP3-7.0)",61.634,57.552,59.605,West Fork Poplar,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",62.706,58.243,59.182,West Fork Poplar,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",60.015,55.448,56.055,West Fork Poplar,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",59.87,53.991,57.581,West Fork Poplar,tasmax
+2072,"High Emissions
+(SSP3-7.0)",61.394,57.2,58.828,West Fork Poplar,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",62.663,58.577,60.289,West Fork Poplar,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",58.361,54.538,57.377,West Fork Poplar,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",60.967,54.254,57.647,West Fork Poplar,tasmax
+2073,"High Emissions
+(SSP3-7.0)",60.883,56.371,59.256,West Fork Poplar,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",62.856,56.819,59.412,West Fork Poplar,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",59.988,53.265,56.595,West Fork Poplar,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",59.85,55.827,57.378,West Fork Poplar,tasmax
+2074,"High Emissions
+(SSP3-7.0)",61.366,56.491,57.71,West Fork Poplar,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",63.907,58.202,59.325,West Fork Poplar,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",60.66,52.647,56.731,West Fork Poplar,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",61.388,54.901,55.894,West Fork Poplar,tasmax
+2075,"High Emissions
+(SSP3-7.0)",62.941,55.736,57.821,West Fork Poplar,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",64.808,58.312,59.863,West Fork Poplar,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",59.479,52.916,56.835,West Fork Poplar,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",59.358,54.807,56.771,West Fork Poplar,tasmax
+2076,"High Emissions
+(SSP3-7.0)",62.495,57.546,58.566,West Fork Poplar,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",65.602,58.205,60.651,West Fork Poplar,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",59.632,55.466,57.117,West Fork Poplar,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",60.479,56.697,58.257,West Fork Poplar,tasmax
+2077,"High Emissions
+(SSP3-7.0)",61.454,55.741,59.803,West Fork Poplar,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",63.231,59.181,60.537,West Fork Poplar,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",59.888,55.14,55.883,West Fork Poplar,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",60.204,56.359,57.276,West Fork Poplar,tasmax
+2078,"High Emissions
+(SSP3-7.0)",62.015,56.993,59.87,West Fork Poplar,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",59.79,56.864,58.749,West Fork Poplar,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",59.679,55.772,56.85,West Fork Poplar,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",58.878,55.566,57.874,West Fork Poplar,tasmax
+2079,"High Emissions
+(SSP3-7.0)",61.944,56.148,60.413,West Fork Poplar,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",63.335,58.617,61.492,West Fork Poplar,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",61.092,53.904,55.076,West Fork Poplar,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",60.691,54.615,57.122,West Fork Poplar,tasmax
+2080,"High Emissions
+(SSP3-7.0)",61.508,56.561,58.708,West Fork Poplar,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",64.98,58.695,62.409,West Fork Poplar,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",60.955,53.533,55.91,West Fork Poplar,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",60.155,55.624,57.533,West Fork Poplar,tasmax
+2081,"High Emissions
+(SSP3-7.0)",63.437,55.05,58.77,West Fork Poplar,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",65.082,61.202,61.91,West Fork Poplar,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",60.621,54.71,58.29,West Fork Poplar,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",60.097,55.659,57.997,West Fork Poplar,tasmax
+2082,"High Emissions
+(SSP3-7.0)",62.712,56.744,59.272,West Fork Poplar,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",65.875,59.26,62.316,West Fork Poplar,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",59.776,55.947,57.319,West Fork Poplar,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",60.457,55.142,57.218,West Fork Poplar,tasmax
+2083,"High Emissions
+(SSP3-7.0)",62.208,56.725,61.526,West Fork Poplar,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",65.523,59.82,62.642,West Fork Poplar,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",59.829,54.329,55.536,West Fork Poplar,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",61.671,56.115,59.13,West Fork Poplar,tasmax
+2084,"High Emissions
+(SSP3-7.0)",64.864,59.123,61.174,West Fork Poplar,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",65.375,60.193,61.961,West Fork Poplar,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",58.941,53.452,55.344,West Fork Poplar,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",60.662,54.997,58.128,West Fork Poplar,tasmax
+2085,"High Emissions
+(SSP3-7.0)",61.936,58.551,60.182,West Fork Poplar,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",65.582,59.728,62.871,West Fork Poplar,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",59.151,55.859,57.259,West Fork Poplar,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",60.847,56.471,58.012,West Fork Poplar,tasmax
+2086,"High Emissions
+(SSP3-7.0)",63.419,58.277,60.334,West Fork Poplar,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",65.983,59.155,62.773,West Fork Poplar,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",57.263,54.351,55.908,West Fork Poplar,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",62.097,56.541,58.909,West Fork Poplar,tasmax
+2087,"High Emissions
+(SSP3-7.0)",65.582,57.59,60.936,West Fork Poplar,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",64.516,59.465,62.289,West Fork Poplar,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",60.514,53.032,55.142,West Fork Poplar,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",61.034,57.265,58.894,West Fork Poplar,tasmax
+2088,"High Emissions
+(SSP3-7.0)",65.682,58.179,60.411,West Fork Poplar,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",65.653,60.209,62.469,West Fork Poplar,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",57.503,53.755,55.004,West Fork Poplar,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",59.634,56.23,58.308,West Fork Poplar,tasmax
+2089,"High Emissions
+(SSP3-7.0)",63.342,57.197,61.395,West Fork Poplar,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",66.814,60.913,64.262,West Fork Poplar,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",58.754,54.647,57.207,West Fork Poplar,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",59.806,56.802,58.926,West Fork Poplar,tasmax
+2090,"High Emissions
+(SSP3-7.0)",65.123,60.754,61.511,West Fork Poplar,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",66.332,61.476,63.327,West Fork Poplar,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",58.399,54.488,56.259,West Fork Poplar,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",60.076,56.179,59.081,West Fork Poplar,tasmax
+2091,"High Emissions
+(SSP3-7.0)",64.909,59.555,62.027,West Fork Poplar,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",68.061,59.89,61.868,West Fork Poplar,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",59.668,53.25,56.969,West Fork Poplar,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",61.604,54.956,59.178,West Fork Poplar,tasmax
+2092,"High Emissions
+(SSP3-7.0)",62.844,57.842,61.31,West Fork Poplar,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",68.455,60.714,63.658,West Fork Poplar,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",59.35,52.835,56.012,West Fork Poplar,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",60.765,55.001,57.818,West Fork Poplar,tasmax
+2093,"High Emissions
+(SSP3-7.0)",64.521,58.64,59.877,West Fork Poplar,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",66.533,61.46,63.181,West Fork Poplar,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",58.708,53.795,56.536,West Fork Poplar,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",62.392,54.205,58.173,West Fork Poplar,tasmax
+2094,"High Emissions
+(SSP3-7.0)",63.951,59.522,60.927,West Fork Poplar,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",68.274,60.808,65.896,West Fork Poplar,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",60.337,53.654,57.342,West Fork Poplar,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",61.551,56.432,60.087,West Fork Poplar,tasmax
+2095,"High Emissions
+(SSP3-7.0)",65.476,58.458,63.475,West Fork Poplar,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",67.525,60.177,63.464,West Fork Poplar,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",59.188,54.265,57.491,West Fork Poplar,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",61.01,57.413,59.265,West Fork Poplar,tasmax
+2096,"High Emissions
+(SSP3-7.0)",64.701,59.43,61.263,West Fork Poplar,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",66.131,61.694,63.242,West Fork Poplar,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",60.647,54.277,56.731,West Fork Poplar,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",62.724,57.037,58.299,West Fork Poplar,tasmax
+2097,"High Emissions
+(SSP3-7.0)",68.902,58.238,62.501,West Fork Poplar,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",70.045,60.05,62.252,West Fork Poplar,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",58.43,53.71,56.174,West Fork Poplar,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",60.46,55.362,59.283,West Fork Poplar,tasmax
+2098,"High Emissions
+(SSP3-7.0)",64.852,59.168,61.219,West Fork Poplar,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",66.719,61.944,64.445,West Fork Poplar,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",59.467,51.884,56.707,West Fork Poplar,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",60.154,56.823,57.671,West Fork Poplar,tasmax
+2099,"High Emissions
+(SSP3-7.0)",66.097,58.871,61.018,West Fork Poplar,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",67.989,61.62,65.152,West Fork Poplar,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",60.204,52.049,54.538,West Fork Poplar,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",63.574,55.071,59.622,West Fork Poplar,tasmax
+2100,"High Emissions
+(SSP3-7.0)",64.965,59.143,62.953,West Fork Poplar,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",67.552,61.372,64.536,West Fork Poplar,tasmax

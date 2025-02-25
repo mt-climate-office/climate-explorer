@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,15.899,10.208,11.585,Big Porcupine,pr
+1951,Historical Emissions,15.011,10.13,11.777,Big Porcupine,pr
+1952,Historical Emissions,13.666,10.285,11.442,Big Porcupine,pr
+1953,Historical Emissions,15.423,10.155,13.284,Big Porcupine,pr
+1954,Historical Emissions,17.804,9.564,13.171,Big Porcupine,pr
+1955,Historical Emissions,16.416,7.847,13.269,Big Porcupine,pr
+1956,Historical Emissions,15.579,8.079,11.273,Big Porcupine,pr
+1957,Historical Emissions,19.441,9.45,13.237,Big Porcupine,pr
+1958,Historical Emissions,17.037,11.522,14.548,Big Porcupine,pr
+1959,Historical Emissions,16.48,10.122,13.485,Big Porcupine,pr
+1960,Historical Emissions,15.381,9.088,13.275,Big Porcupine,pr
+1961,Historical Emissions,15.198,11.442,13.57,Big Porcupine,pr
+1962,Historical Emissions,17.287,9.122,12.593,Big Porcupine,pr
+1963,Historical Emissions,15.147,12.363,14.274,Big Porcupine,pr
+1964,Historical Emissions,16.018,9.236,11.754,Big Porcupine,pr
+1965,Historical Emissions,15.391,9.27,12.881,Big Porcupine,pr
+1966,Historical Emissions,16.716,10.641,12.822,Big Porcupine,pr
+1967,Historical Emissions,17.719,9.938,11.69,Big Porcupine,pr
+1968,Historical Emissions,17.465,12.402,13.621,Big Porcupine,pr
+1969,Historical Emissions,14.164,10.732,12.038,Big Porcupine,pr
+1970,Historical Emissions,14.682,9.772,12.319,Big Porcupine,pr
+1971,Historical Emissions,14.171,10.791,13.103,Big Porcupine,pr
+1972,Historical Emissions,14.265,10.898,12.149,Big Porcupine,pr
+1973,Historical Emissions,15.39,11.163,13.997,Big Porcupine,pr
+1974,Historical Emissions,15.36,9.64,12.509,Big Porcupine,pr
+1975,Historical Emissions,14.922,11.648,13.011,Big Porcupine,pr
+1976,Historical Emissions,16.595,10.255,13.754,Big Porcupine,pr
+1977,Historical Emissions,17.001,9.217,13.711,Big Porcupine,pr
+1978,Historical Emissions,16.948,12.733,15.534,Big Porcupine,pr
+1979,Historical Emissions,15.815,12.294,13.937,Big Porcupine,pr
+1980,Historical Emissions,16.644,9.317,12.205,Big Porcupine,pr
+1981,Historical Emissions,16.677,10.605,11.641,Big Porcupine,pr
+1982,Historical Emissions,15.157,11.218,12.699,Big Porcupine,pr
+1983,Historical Emissions,15.927,10.615,13.559,Big Porcupine,pr
+1984,Historical Emissions,13.919,10.817,12.786,Big Porcupine,pr
+1985,Historical Emissions,14.177,10.122,12.747,Big Porcupine,pr
+1986,Historical Emissions,18.969,12.481,15.279,Big Porcupine,pr
+1987,Historical Emissions,17.36,11.548,13.834,Big Porcupine,pr
+1988,Historical Emissions,17.63,12.35,16.227,Big Porcupine,pr
+1989,Historical Emissions,16.52,11.073,12.318,Big Porcupine,pr
+1990,Historical Emissions,16.474,9.865,12.32,Big Porcupine,pr
+1991,Historical Emissions,16.092,9.256,12.307,Big Porcupine,pr
+1992,Historical Emissions,12.838,10.513,12.418,Big Porcupine,pr
+1993,Historical Emissions,15.4,12.869,13.645,Big Porcupine,pr
+1994,Historical Emissions,14.084,8.252,11.714,Big Porcupine,pr
+1995,Historical Emissions,14.564,10.05,12.362,Big Porcupine,pr
+1996,Historical Emissions,13.948,6.667,11.696,Big Porcupine,pr
+1997,Historical Emissions,15.255,10.498,13.57,Big Porcupine,pr
+1998,Historical Emissions,16.271,10.694,13.7,Big Porcupine,pr
+1999,Historical Emissions,16.611,11.13,14.506,Big Porcupine,pr
+2000,Historical Emissions,15.797,10.756,12.111,Big Porcupine,pr
+2001,Historical Emissions,15.884,10.535,13.061,Big Porcupine,pr
+2002,Historical Emissions,15.194,12.296,13.91,Big Porcupine,pr
+2003,Historical Emissions,14.418,11.315,13.23,Big Porcupine,pr
+2004,Historical Emissions,16.125,8.253,13.088,Big Porcupine,pr
+2005,Historical Emissions,13.805,10.943,11.94,Big Porcupine,pr
+2006,Historical Emissions,17.389,11.49,14.848,Big Porcupine,pr
+2007,Historical Emissions,14.44,10.759,12.876,Big Porcupine,pr
+2008,Historical Emissions,15.083,10.462,13.806,Big Porcupine,pr
+2009,Historical Emissions,16.311,11.899,13.556,Big Porcupine,pr
+2010,Historical Emissions,14.394,10.086,13.234,Big Porcupine,pr
+2011,Historical Emissions,15.467,9.881,12.676,Big Porcupine,pr
+2012,Historical Emissions,14.344,10.521,11.617,Big Porcupine,pr
+2013,Historical Emissions,16.135,10.603,12.549,Big Porcupine,pr
+2014,Historical Emissions,15.086,10.515,12.858,Big Porcupine,pr
+2015,"Moderating Emissions
+(SSP1-2.6)",15.376,10.935,12.838,Big Porcupine,pr
+2015,"Middle of the Road
+(SSP2-4.5)",18.175,9.196,11.34,Big Porcupine,pr
+2015,"High Emissions
+(SSP3-7.0)",16.894,10.047,11.576,Big Porcupine,pr
+2015,"Accelerating Emissions
+(SSP5-8.5)",15.142,10.007,11.717,Big Porcupine,pr
+2016,"Moderating Emissions
+(SSP1-2.6)",14.076,10.999,13.24,Big Porcupine,pr
+2016,"Middle of the Road
+(SSP2-4.5)",18.206,11.944,13.42,Big Porcupine,pr
+2016,"High Emissions
+(SSP3-7.0)",15.535,9.36,14.155,Big Porcupine,pr
+2016,"Accelerating Emissions
+(SSP5-8.5)",18.064,11.522,15.291,Big Porcupine,pr
+2017,"Moderating Emissions
+(SSP1-2.6)",16.952,12.797,14.107,Big Porcupine,pr
+2017,"Middle of the Road
+(SSP2-4.5)",16.183,9.683,13.021,Big Porcupine,pr
+2017,"High Emissions
+(SSP3-7.0)",15.623,11.841,12.973,Big Porcupine,pr
+2017,"Accelerating Emissions
+(SSP5-8.5)",14.839,10.262,12.498,Big Porcupine,pr
+2018,"Moderating Emissions
+(SSP1-2.6)",17.868,11.703,12.593,Big Porcupine,pr
+2018,"Middle of the Road
+(SSP2-4.5)",14.246,9.204,12.465,Big Porcupine,pr
+2018,"High Emissions
+(SSP3-7.0)",17.507,12.54,15.447,Big Porcupine,pr
+2018,"Accelerating Emissions
+(SSP5-8.5)",16.912,11.394,14.845,Big Porcupine,pr
+2019,"Moderating Emissions
+(SSP1-2.6)",14.361,10.868,12.44,Big Porcupine,pr
+2019,"Middle of the Road
+(SSP2-4.5)",15.489,10.204,11.262,Big Porcupine,pr
+2019,"High Emissions
+(SSP3-7.0)",17.314,11.255,13.4,Big Porcupine,pr
+2019,"Accelerating Emissions
+(SSP5-8.5)",15.835,8.272,11.159,Big Porcupine,pr
+2020,"Moderating Emissions
+(SSP1-2.6)",17.366,10.826,12.417,Big Porcupine,pr
+2020,"Middle of the Road
+(SSP2-4.5)",15.644,8.668,12.837,Big Porcupine,pr
+2020,"High Emissions
+(SSP3-7.0)",17.485,12.197,13.982,Big Porcupine,pr
+2020,"Accelerating Emissions
+(SSP5-8.5)",16.286,11.649,14.262,Big Porcupine,pr
+2021,"Moderating Emissions
+(SSP1-2.6)",16.042,11.472,12.973,Big Porcupine,pr
+2021,"Middle of the Road
+(SSP2-4.5)",17.278,7.819,11.661,Big Porcupine,pr
+2021,"High Emissions
+(SSP3-7.0)",14.699,8.381,13.094,Big Porcupine,pr
+2021,"Accelerating Emissions
+(SSP5-8.5)",17.966,9.756,13.375,Big Porcupine,pr
+2022,"Moderating Emissions
+(SSP1-2.6)",16.644,11.891,13.638,Big Porcupine,pr
+2022,"Middle of the Road
+(SSP2-4.5)",19.957,10.189,14.831,Big Porcupine,pr
+2022,"High Emissions
+(SSP3-7.0)",17.813,11.598,15.995,Big Porcupine,pr
+2022,"Accelerating Emissions
+(SSP5-8.5)",17.952,10.694,13.296,Big Porcupine,pr
+2023,"Moderating Emissions
+(SSP1-2.6)",16.274,12.384,15.512,Big Porcupine,pr
+2023,"Middle of the Road
+(SSP2-4.5)",18.782,11.157,15.339,Big Porcupine,pr
+2023,"High Emissions
+(SSP3-7.0)",16.62,10.754,12.613,Big Porcupine,pr
+2023,"Accelerating Emissions
+(SSP5-8.5)",18.668,13.364,16.42,Big Porcupine,pr
+2024,"Moderating Emissions
+(SSP1-2.6)",15.319,11.221,13.264,Big Porcupine,pr
+2024,"Middle of the Road
+(SSP2-4.5)",16.46,10.088,14.556,Big Porcupine,pr
+2024,"High Emissions
+(SSP3-7.0)",14.388,10.298,12.074,Big Porcupine,pr
+2024,"Accelerating Emissions
+(SSP5-8.5)",19.134,11.664,15.665,Big Porcupine,pr
+2025,"Moderating Emissions
+(SSP1-2.6)",15.448,11.242,13.067,Big Porcupine,pr
+2025,"Middle of the Road
+(SSP2-4.5)",15.431,12.56,14.489,Big Porcupine,pr
+2025,"High Emissions
+(SSP3-7.0)",14.344,10.596,12.138,Big Porcupine,pr
+2025,"Accelerating Emissions
+(SSP5-8.5)",18.854,11.633,13.759,Big Porcupine,pr
+2026,"Moderating Emissions
+(SSP1-2.6)",17.652,9.916,13.128,Big Porcupine,pr
+2026,"Middle of the Road
+(SSP2-4.5)",14.824,11.053,13.186,Big Porcupine,pr
+2026,"High Emissions
+(SSP3-7.0)",18.558,11.543,16.238,Big Porcupine,pr
+2026,"Accelerating Emissions
+(SSP5-8.5)",17.043,10.771,14.005,Big Porcupine,pr
+2027,"Moderating Emissions
+(SSP1-2.6)",17.683,10.242,15.518,Big Porcupine,pr
+2027,"Middle of the Road
+(SSP2-4.5)",17.053,10.653,12.519,Big Porcupine,pr
+2027,"High Emissions
+(SSP3-7.0)",18.076,14.034,15.602,Big Porcupine,pr
+2027,"Accelerating Emissions
+(SSP5-8.5)",16.899,10.637,15.367,Big Porcupine,pr
+2028,"Moderating Emissions
+(SSP1-2.6)",14.854,13.156,13.807,Big Porcupine,pr
+2028,"Middle of the Road
+(SSP2-4.5)",17.144,12.183,14.499,Big Porcupine,pr
+2028,"High Emissions
+(SSP3-7.0)",16.851,12.172,14.124,Big Porcupine,pr
+2028,"Accelerating Emissions
+(SSP5-8.5)",16.261,11.787,13.434,Big Porcupine,pr
+2029,"Moderating Emissions
+(SSP1-2.6)",16.725,10.383,12.903,Big Porcupine,pr
+2029,"Middle of the Road
+(SSP2-4.5)",18.388,12.288,14.54,Big Porcupine,pr
+2029,"High Emissions
+(SSP3-7.0)",18.113,11.129,15.281,Big Porcupine,pr
+2029,"Accelerating Emissions
+(SSP5-8.5)",15.176,10.553,12.463,Big Porcupine,pr
+2030,"Moderating Emissions
+(SSP1-2.6)",16.314,11.625,14.213,Big Porcupine,pr
+2030,"Middle of the Road
+(SSP2-4.5)",16.351,8.223,11.552,Big Porcupine,pr
+2030,"High Emissions
+(SSP3-7.0)",19.293,11.492,13.966,Big Porcupine,pr
+2030,"Accelerating Emissions
+(SSP5-8.5)",15.201,10.015,11.068,Big Porcupine,pr
+2031,"Moderating Emissions
+(SSP1-2.6)",16.958,9.489,13.322,Big Porcupine,pr
+2031,"Middle of the Road
+(SSP2-4.5)",15.993,11.608,13.318,Big Porcupine,pr
+2031,"High Emissions
+(SSP3-7.0)",15.024,10.104,12.192,Big Porcupine,pr
+2031,"Accelerating Emissions
+(SSP5-8.5)",17.408,9.104,13.282,Big Porcupine,pr
+2032,"Moderating Emissions
+(SSP1-2.6)",18.116,12.127,14.83,Big Porcupine,pr
+2032,"Middle of the Road
+(SSP2-4.5)",16.146,11.191,12.851,Big Porcupine,pr
+2032,"High Emissions
+(SSP3-7.0)",14.152,9.171,11.579,Big Porcupine,pr
+2032,"Accelerating Emissions
+(SSP5-8.5)",16.78,9.074,14.074,Big Porcupine,pr
+2033,"Moderating Emissions
+(SSP1-2.6)",15.034,11.459,14.246,Big Porcupine,pr
+2033,"Middle of the Road
+(SSP2-4.5)",19.773,10.087,14.76,Big Porcupine,pr
+2033,"High Emissions
+(SSP3-7.0)",17.523,11.503,12.595,Big Porcupine,pr
+2033,"Accelerating Emissions
+(SSP5-8.5)",16.645,10.733,13.367,Big Porcupine,pr
+2034,"Moderating Emissions
+(SSP1-2.6)",17.819,8.646,14.445,Big Porcupine,pr
+2034,"Middle of the Road
+(SSP2-4.5)",16.309,11.023,12.289,Big Porcupine,pr
+2034,"High Emissions
+(SSP3-7.0)",16.416,9.18,11.971,Big Porcupine,pr
+2034,"Accelerating Emissions
+(SSP5-8.5)",19.766,11.007,14.338,Big Porcupine,pr
+2035,"Moderating Emissions
+(SSP1-2.6)",16.846,9.173,13.235,Big Porcupine,pr
+2035,"Middle of the Road
+(SSP2-4.5)",15.296,10.188,11.912,Big Porcupine,pr
+2035,"High Emissions
+(SSP3-7.0)",16.298,9.834,14.91,Big Porcupine,pr
+2035,"Accelerating Emissions
+(SSP5-8.5)",17.572,9.537,14.698,Big Porcupine,pr
+2036,"Moderating Emissions
+(SSP1-2.6)",17.251,8.95,12.862,Big Porcupine,pr
+2036,"Middle of the Road
+(SSP2-4.5)",15.887,11.29,14.668,Big Porcupine,pr
+2036,"High Emissions
+(SSP3-7.0)",19.345,9.013,15.156,Big Porcupine,pr
+2036,"Accelerating Emissions
+(SSP5-8.5)",17.794,12.891,14.454,Big Porcupine,pr
+2037,"Moderating Emissions
+(SSP1-2.6)",18.142,8.438,13.999,Big Porcupine,pr
+2037,"Middle of the Road
+(SSP2-4.5)",16.213,12.445,13.902,Big Porcupine,pr
+2037,"High Emissions
+(SSP3-7.0)",18.213,13.384,15.523,Big Porcupine,pr
+2037,"Accelerating Emissions
+(SSP5-8.5)",17.761,12.127,13.544,Big Porcupine,pr
+2038,"Moderating Emissions
+(SSP1-2.6)",16.778,11.243,13.754,Big Porcupine,pr
+2038,"Middle of the Road
+(SSP2-4.5)",16.291,9.577,14.609,Big Porcupine,pr
+2038,"High Emissions
+(SSP3-7.0)",17.824,8.484,11.932,Big Porcupine,pr
+2038,"Accelerating Emissions
+(SSP5-8.5)",16.321,10.922,14.325,Big Porcupine,pr
+2039,"Moderating Emissions
+(SSP1-2.6)",18.025,12.44,15.591,Big Porcupine,pr
+2039,"Middle of the Road
+(SSP2-4.5)",18.025,10.411,15.866,Big Porcupine,pr
+2039,"High Emissions
+(SSP3-7.0)",15.982,10.975,13.74,Big Porcupine,pr
+2039,"Accelerating Emissions
+(SSP5-8.5)",18.708,11.711,13.96,Big Porcupine,pr
+2040,"Moderating Emissions
+(SSP1-2.6)",17.668,12.102,14.357,Big Porcupine,pr
+2040,"Middle of the Road
+(SSP2-4.5)",14.456,9.95,11.518,Big Porcupine,pr
+2040,"High Emissions
+(SSP3-7.0)",16.345,10.687,13.776,Big Porcupine,pr
+2040,"Accelerating Emissions
+(SSP5-8.5)",15.314,9.742,13.436,Big Porcupine,pr
+2041,"Moderating Emissions
+(SSP1-2.6)",19.445,10.737,13.691,Big Porcupine,pr
+2041,"Middle of the Road
+(SSP2-4.5)",17.559,11.371,13.99,Big Porcupine,pr
+2041,"High Emissions
+(SSP3-7.0)",16.983,11.727,14.202,Big Porcupine,pr
+2041,"Accelerating Emissions
+(SSP5-8.5)",19.361,10.959,14.921,Big Porcupine,pr
+2042,"Moderating Emissions
+(SSP1-2.6)",17.505,10.779,14.276,Big Porcupine,pr
+2042,"Middle of the Road
+(SSP2-4.5)",16.371,11.832,13.344,Big Porcupine,pr
+2042,"High Emissions
+(SSP3-7.0)",18.143,11.495,15.516,Big Porcupine,pr
+2042,"Accelerating Emissions
+(SSP5-8.5)",16.512,10.4,13.606,Big Porcupine,pr
+2043,"Moderating Emissions
+(SSP1-2.6)",18.13,10.422,13.875,Big Porcupine,pr
+2043,"Middle of the Road
+(SSP2-4.5)",20.366,8.317,14.679,Big Porcupine,pr
+2043,"High Emissions
+(SSP3-7.0)",17.707,10.717,13.527,Big Porcupine,pr
+2043,"Accelerating Emissions
+(SSP5-8.5)",18.688,10.958,14.584,Big Porcupine,pr
+2044,"Moderating Emissions
+(SSP1-2.6)",14.931,11.869,13.248,Big Porcupine,pr
+2044,"Middle of the Road
+(SSP2-4.5)",16.032,10.408,12.261,Big Porcupine,pr
+2044,"High Emissions
+(SSP3-7.0)",18.411,10.33,14.798,Big Porcupine,pr
+2044,"Accelerating Emissions
+(SSP5-8.5)",18.127,9.963,14.711,Big Porcupine,pr
+2045,"Moderating Emissions
+(SSP1-2.6)",18.78,11.744,13.659,Big Porcupine,pr
+2045,"Middle of the Road
+(SSP2-4.5)",16.651,10.003,12.299,Big Porcupine,pr
+2045,"High Emissions
+(SSP3-7.0)",16.953,9.837,13.602,Big Porcupine,pr
+2045,"Accelerating Emissions
+(SSP5-8.5)",16.305,10.17,14.239,Big Porcupine,pr
+2046,"Moderating Emissions
+(SSP1-2.6)",14.699,10.535,13.661,Big Porcupine,pr
+2046,"Middle of the Road
+(SSP2-4.5)",17.883,12.632,15.421,Big Porcupine,pr
+2046,"High Emissions
+(SSP3-7.0)",17.558,11.944,13.314,Big Porcupine,pr
+2046,"Accelerating Emissions
+(SSP5-8.5)",17.849,10.658,13.229,Big Porcupine,pr
+2047,"Moderating Emissions
+(SSP1-2.6)",18.44,10.675,11.959,Big Porcupine,pr
+2047,"Middle of the Road
+(SSP2-4.5)",21.854,12.021,14.125,Big Porcupine,pr
+2047,"High Emissions
+(SSP3-7.0)",16.411,13.933,15.062,Big Porcupine,pr
+2047,"Accelerating Emissions
+(SSP5-8.5)",17.144,8.406,12.511,Big Porcupine,pr
+2048,"Moderating Emissions
+(SSP1-2.6)",16.758,9.875,15.444,Big Porcupine,pr
+2048,"Middle of the Road
+(SSP2-4.5)",18.144,9.929,14.011,Big Porcupine,pr
+2048,"High Emissions
+(SSP3-7.0)",16.609,8.613,13.81,Big Porcupine,pr
+2048,"Accelerating Emissions
+(SSP5-8.5)",16.735,9.34,12.349,Big Porcupine,pr
+2049,"Moderating Emissions
+(SSP1-2.6)",13.547,8.55,12.493,Big Porcupine,pr
+2049,"Middle of the Road
+(SSP2-4.5)",18.189,11.962,13.281,Big Porcupine,pr
+2049,"High Emissions
+(SSP3-7.0)",16.942,12.893,16.188,Big Porcupine,pr
+2049,"Accelerating Emissions
+(SSP5-8.5)",18.355,9.673,14.74,Big Porcupine,pr
+2050,"Moderating Emissions
+(SSP1-2.6)",18.233,9.318,14.081,Big Porcupine,pr
+2050,"Middle of the Road
+(SSP2-4.5)",14.8,10.577,11.86,Big Porcupine,pr
+2050,"High Emissions
+(SSP3-7.0)",15.981,10.822,13.468,Big Porcupine,pr
+2050,"Accelerating Emissions
+(SSP5-8.5)",16.676,9.588,14.274,Big Porcupine,pr
+2051,"Moderating Emissions
+(SSP1-2.6)",21.863,12.235,14.982,Big Porcupine,pr
+2051,"Middle of the Road
+(SSP2-4.5)",17.647,10.936,13.409,Big Porcupine,pr
+2051,"High Emissions
+(SSP3-7.0)",15.559,12.121,13.498,Big Porcupine,pr
+2051,"Accelerating Emissions
+(SSP5-8.5)",16.507,11.599,13.81,Big Porcupine,pr
+2052,"Moderating Emissions
+(SSP1-2.6)",15.776,9.5,13.531,Big Porcupine,pr
+2052,"Middle of the Road
+(SSP2-4.5)",16.776,11.159,14.25,Big Porcupine,pr
+2052,"High Emissions
+(SSP3-7.0)",16.921,13.117,14.961,Big Porcupine,pr
+2052,"Accelerating Emissions
+(SSP5-8.5)",16.623,9.703,11.99,Big Porcupine,pr
+2053,"Moderating Emissions
+(SSP1-2.6)",18.752,10.966,12.62,Big Porcupine,pr
+2053,"Middle of the Road
+(SSP2-4.5)",18.051,9.73,14.428,Big Porcupine,pr
+2053,"High Emissions
+(SSP3-7.0)",16.495,9.521,13.557,Big Porcupine,pr
+2053,"Accelerating Emissions
+(SSP5-8.5)",19.021,10.835,13.738,Big Porcupine,pr
+2054,"Moderating Emissions
+(SSP1-2.6)",16.403,8.171,14.357,Big Porcupine,pr
+2054,"Middle of the Road
+(SSP2-4.5)",20.56,11.55,13.853,Big Porcupine,pr
+2054,"High Emissions
+(SSP3-7.0)",15.023,12.807,13.809,Big Porcupine,pr
+2054,"Accelerating Emissions
+(SSP5-8.5)",16.262,9.789,12.413,Big Porcupine,pr
+2055,"Moderating Emissions
+(SSP1-2.6)",17.524,10.937,13.478,Big Porcupine,pr
+2055,"Middle of the Road
+(SSP2-4.5)",17.631,10.164,12.416,Big Porcupine,pr
+2055,"High Emissions
+(SSP3-7.0)",15.603,9.941,13.022,Big Porcupine,pr
+2055,"Accelerating Emissions
+(SSP5-8.5)",18.848,10.474,14.508,Big Porcupine,pr
+2056,"Moderating Emissions
+(SSP1-2.6)",17.7,11.025,12.366,Big Porcupine,pr
+2056,"Middle of the Road
+(SSP2-4.5)",18.813,12.531,14.558,Big Porcupine,pr
+2056,"High Emissions
+(SSP3-7.0)",17.475,12.018,13.34,Big Porcupine,pr
+2056,"Accelerating Emissions
+(SSP5-8.5)",17.126,11.277,13.399,Big Porcupine,pr
+2057,"Moderating Emissions
+(SSP1-2.6)",18.348,12.099,13.921,Big Porcupine,pr
+2057,"Middle of the Road
+(SSP2-4.5)",15.377,9.877,12.808,Big Porcupine,pr
+2057,"High Emissions
+(SSP3-7.0)",18.131,12.048,15.239,Big Porcupine,pr
+2057,"Accelerating Emissions
+(SSP5-8.5)",18.833,11.948,16.13,Big Porcupine,pr
+2058,"Moderating Emissions
+(SSP1-2.6)",16.53,12.984,14.228,Big Porcupine,pr
+2058,"Middle of the Road
+(SSP2-4.5)",15.489,11.241,13.065,Big Porcupine,pr
+2058,"High Emissions
+(SSP3-7.0)",16.398,12.451,15.586,Big Porcupine,pr
+2058,"Accelerating Emissions
+(SSP5-8.5)",18.257,11.85,14.941,Big Porcupine,pr
+2059,"Moderating Emissions
+(SSP1-2.6)",17.103,12.585,13.006,Big Porcupine,pr
+2059,"Middle of the Road
+(SSP2-4.5)",17.654,9.698,14.765,Big Porcupine,pr
+2059,"High Emissions
+(SSP3-7.0)",16.27,10.359,12.676,Big Porcupine,pr
+2059,"Accelerating Emissions
+(SSP5-8.5)",14.421,10.842,12.163,Big Porcupine,pr
+2060,"Moderating Emissions
+(SSP1-2.6)",17.448,9.948,13.234,Big Porcupine,pr
+2060,"Middle of the Road
+(SSP2-4.5)",16.044,8.632,14.078,Big Porcupine,pr
+2060,"High Emissions
+(SSP3-7.0)",18.153,11.562,15.051,Big Porcupine,pr
+2060,"Accelerating Emissions
+(SSP5-8.5)",18.669,11.566,15.421,Big Porcupine,pr
+2061,"Moderating Emissions
+(SSP1-2.6)",18.4,10.705,14.113,Big Porcupine,pr
+2061,"Middle of the Road
+(SSP2-4.5)",18.691,10.427,15.494,Big Porcupine,pr
+2061,"High Emissions
+(SSP3-7.0)",18.039,11.652,14.973,Big Porcupine,pr
+2061,"Accelerating Emissions
+(SSP5-8.5)",14.422,9.45,13.932,Big Porcupine,pr
+2062,"Moderating Emissions
+(SSP1-2.6)",19.222,8.512,15.226,Big Porcupine,pr
+2062,"Middle of the Road
+(SSP2-4.5)",19.01,9.668,12.827,Big Porcupine,pr
+2062,"High Emissions
+(SSP3-7.0)",16.97,11.714,15.025,Big Porcupine,pr
+2062,"Accelerating Emissions
+(SSP5-8.5)",20.129,11.187,14.438,Big Porcupine,pr
+2063,"Moderating Emissions
+(SSP1-2.6)",17.63,11.428,13.83,Big Porcupine,pr
+2063,"Middle of the Road
+(SSP2-4.5)",17.95,10.424,15.423,Big Porcupine,pr
+2063,"High Emissions
+(SSP3-7.0)",17.041,10.792,13.279,Big Porcupine,pr
+2063,"Accelerating Emissions
+(SSP5-8.5)",15.532,10.628,12.598,Big Porcupine,pr
+2064,"Moderating Emissions
+(SSP1-2.6)",19.788,9.673,15.7,Big Porcupine,pr
+2064,"Middle of the Road
+(SSP2-4.5)",16.764,11.352,15.119,Big Porcupine,pr
+2064,"High Emissions
+(SSP3-7.0)",18.306,12.123,15.103,Big Porcupine,pr
+2064,"Accelerating Emissions
+(SSP5-8.5)",17.428,9.685,11.582,Big Porcupine,pr
+2065,"Moderating Emissions
+(SSP1-2.6)",18.724,10.35,15.065,Big Porcupine,pr
+2065,"Middle of the Road
+(SSP2-4.5)",15.113,10.406,12.926,Big Porcupine,pr
+2065,"High Emissions
+(SSP3-7.0)",14.052,11.697,12.682,Big Porcupine,pr
+2065,"Accelerating Emissions
+(SSP5-8.5)",15.393,11.801,13.898,Big Porcupine,pr
+2066,"Moderating Emissions
+(SSP1-2.6)",16.105,11.076,13.961,Big Porcupine,pr
+2066,"Middle of the Road
+(SSP2-4.5)",18.617,11.037,15.026,Big Porcupine,pr
+2066,"High Emissions
+(SSP3-7.0)",16.355,8.842,14.859,Big Porcupine,pr
+2066,"Accelerating Emissions
+(SSP5-8.5)",19.072,9.876,13.011,Big Porcupine,pr
+2067,"Moderating Emissions
+(SSP1-2.6)",16.998,7.533,14.579,Big Porcupine,pr
+2067,"Middle of the Road
+(SSP2-4.5)",17.383,12.546,14.358,Big Porcupine,pr
+2067,"High Emissions
+(SSP3-7.0)",15.776,8.546,13.071,Big Porcupine,pr
+2067,"Accelerating Emissions
+(SSP5-8.5)",15.992,9.542,12.818,Big Porcupine,pr
+2068,"Moderating Emissions
+(SSP1-2.6)",17.974,11.314,14.616,Big Porcupine,pr
+2068,"Middle of the Road
+(SSP2-4.5)",17.496,12.888,15.44,Big Porcupine,pr
+2068,"High Emissions
+(SSP3-7.0)",16.012,11.196,12.233,Big Porcupine,pr
+2068,"Accelerating Emissions
+(SSP5-8.5)",17.612,9.511,12.356,Big Porcupine,pr
+2069,"Moderating Emissions
+(SSP1-2.6)",17.654,12.339,13.879,Big Porcupine,pr
+2069,"Middle of the Road
+(SSP2-4.5)",17.065,11.069,13.454,Big Porcupine,pr
+2069,"High Emissions
+(SSP3-7.0)",15.449,10.305,11.33,Big Porcupine,pr
+2069,"Accelerating Emissions
+(SSP5-8.5)",15.047,9.199,12.517,Big Porcupine,pr
+2070,"Moderating Emissions
+(SSP1-2.6)",18.258,12.655,14.359,Big Porcupine,pr
+2070,"Middle of the Road
+(SSP2-4.5)",14.806,11.885,12.79,Big Porcupine,pr
+2070,"High Emissions
+(SSP3-7.0)",18.011,10.144,13.636,Big Porcupine,pr
+2070,"Accelerating Emissions
+(SSP5-8.5)",17.982,11.327,14.105,Big Porcupine,pr
+2071,"Moderating Emissions
+(SSP1-2.6)",17.929,8.647,11.408,Big Porcupine,pr
+2071,"Middle of the Road
+(SSP2-4.5)",17.83,9.344,16.063,Big Porcupine,pr
+2071,"High Emissions
+(SSP3-7.0)",15.055,8.946,13.415,Big Porcupine,pr
+2071,"Accelerating Emissions
+(SSP5-8.5)",14.374,9.808,12.143,Big Porcupine,pr
+2072,"Moderating Emissions
+(SSP1-2.6)",15.714,11.992,13.845,Big Porcupine,pr
+2072,"Middle of the Road
+(SSP2-4.5)",17.228,10.365,13.958,Big Porcupine,pr
+2072,"High Emissions
+(SSP3-7.0)",16.413,11.766,14.287,Big Porcupine,pr
+2072,"Accelerating Emissions
+(SSP5-8.5)",22.533,11.457,16.447,Big Porcupine,pr
+2073,"Moderating Emissions
+(SSP1-2.6)",14.842,11.636,13.345,Big Porcupine,pr
+2073,"Middle of the Road
+(SSP2-4.5)",20.929,11.006,15.641,Big Porcupine,pr
+2073,"High Emissions
+(SSP3-7.0)",16.493,9.572,13.695,Big Porcupine,pr
+2073,"Accelerating Emissions
+(SSP5-8.5)",16.022,11.395,13.829,Big Porcupine,pr
+2074,"Moderating Emissions
+(SSP1-2.6)",16.537,10.664,14.647,Big Porcupine,pr
+2074,"Middle of the Road
+(SSP2-4.5)",17.932,10.361,12.038,Big Porcupine,pr
+2074,"High Emissions
+(SSP3-7.0)",17.186,12.207,14.351,Big Porcupine,pr
+2074,"Accelerating Emissions
+(SSP5-8.5)",15.721,9.005,13.463,Big Porcupine,pr
+2075,"Moderating Emissions
+(SSP1-2.6)",17.99,9.569,13.687,Big Porcupine,pr
+2075,"Middle of the Road
+(SSP2-4.5)",16.7,11.078,13.973,Big Porcupine,pr
+2075,"High Emissions
+(SSP3-7.0)",21.77,10.147,16.551,Big Porcupine,pr
+2075,"Accelerating Emissions
+(SSP5-8.5)",17.341,10.184,13.774,Big Porcupine,pr
+2076,"Moderating Emissions
+(SSP1-2.6)",16.532,10.785,15.554,Big Porcupine,pr
+2076,"Middle of the Road
+(SSP2-4.5)",19.734,12.276,15.5,Big Porcupine,pr
+2076,"High Emissions
+(SSP3-7.0)",19.135,11.081,13.333,Big Porcupine,pr
+2076,"Accelerating Emissions
+(SSP5-8.5)",16.856,11.499,14.001,Big Porcupine,pr
+2077,"Moderating Emissions
+(SSP1-2.6)",16.855,10.532,13.895,Big Porcupine,pr
+2077,"Middle of the Road
+(SSP2-4.5)",17.335,11.343,13.458,Big Porcupine,pr
+2077,"High Emissions
+(SSP3-7.0)",16.357,10.352,13.92,Big Porcupine,pr
+2077,"Accelerating Emissions
+(SSP5-8.5)",14.195,10.422,13.2,Big Porcupine,pr
+2078,"Moderating Emissions
+(SSP1-2.6)",18.521,8.293,12.803,Big Porcupine,pr
+2078,"Middle of the Road
+(SSP2-4.5)",18.88,11.984,13.538,Big Porcupine,pr
+2078,"High Emissions
+(SSP3-7.0)",15.774,9.032,12.184,Big Porcupine,pr
+2078,"Accelerating Emissions
+(SSP5-8.5)",18.21,12.862,14.598,Big Porcupine,pr
+2079,"Moderating Emissions
+(SSP1-2.6)",14.61,10.478,11.822,Big Porcupine,pr
+2079,"Middle of the Road
+(SSP2-4.5)",16.064,11.91,13.724,Big Porcupine,pr
+2079,"High Emissions
+(SSP3-7.0)",23.127,12.683,14.28,Big Porcupine,pr
+2079,"Accelerating Emissions
+(SSP5-8.5)",15.009,10.745,13.928,Big Porcupine,pr
+2080,"Moderating Emissions
+(SSP1-2.6)",17.468,11.396,15.936,Big Porcupine,pr
+2080,"Middle of the Road
+(SSP2-4.5)",17.749,11.479,14.664,Big Porcupine,pr
+2080,"High Emissions
+(SSP3-7.0)",17.77,10.712,14.013,Big Porcupine,pr
+2080,"Accelerating Emissions
+(SSP5-8.5)",16.763,10.481,14.738,Big Porcupine,pr
+2081,"Moderating Emissions
+(SSP1-2.6)",15.032,10.512,12.537,Big Porcupine,pr
+2081,"Middle of the Road
+(SSP2-4.5)",18.789,11.491,12.731,Big Porcupine,pr
+2081,"High Emissions
+(SSP3-7.0)",17.16,10.74,14.584,Big Porcupine,pr
+2081,"Accelerating Emissions
+(SSP5-8.5)",16.603,10.546,12.59,Big Porcupine,pr
+2082,"Moderating Emissions
+(SSP1-2.6)",15.876,8.767,12.028,Big Porcupine,pr
+2082,"Middle of the Road
+(SSP2-4.5)",16.912,11.232,14.02,Big Porcupine,pr
+2082,"High Emissions
+(SSP3-7.0)",16.984,10.601,13.985,Big Porcupine,pr
+2082,"Accelerating Emissions
+(SSP5-8.5)",16.672,11.201,11.825,Big Porcupine,pr
+2083,"Moderating Emissions
+(SSP1-2.6)",13.244,9.49,11.862,Big Porcupine,pr
+2083,"Middle of the Road
+(SSP2-4.5)",16.653,11.448,14.586,Big Porcupine,pr
+2083,"High Emissions
+(SSP3-7.0)",16.649,11.044,14.608,Big Porcupine,pr
+2083,"Accelerating Emissions
+(SSP5-8.5)",17.415,10.512,12.804,Big Porcupine,pr
+2084,"Moderating Emissions
+(SSP1-2.6)",18.712,11.47,15.056,Big Porcupine,pr
+2084,"Middle of the Road
+(SSP2-4.5)",16.319,9.429,11.986,Big Porcupine,pr
+2084,"High Emissions
+(SSP3-7.0)",13.768,9.724,11.085,Big Porcupine,pr
+2084,"Accelerating Emissions
+(SSP5-8.5)",18.001,10.78,15.407,Big Porcupine,pr
+2085,"Moderating Emissions
+(SSP1-2.6)",16.283,9.409,14.077,Big Porcupine,pr
+2085,"Middle of the Road
+(SSP2-4.5)",19.259,11.335,14.756,Big Porcupine,pr
+2085,"High Emissions
+(SSP3-7.0)",16.012,11.935,13.759,Big Porcupine,pr
+2085,"Accelerating Emissions
+(SSP5-8.5)",19.288,11.343,14.852,Big Porcupine,pr
+2086,"Moderating Emissions
+(SSP1-2.6)",18.277,10.645,13.057,Big Porcupine,pr
+2086,"Middle of the Road
+(SSP2-4.5)",18.779,10.86,14.696,Big Porcupine,pr
+2086,"High Emissions
+(SSP3-7.0)",15.416,10.962,13.093,Big Porcupine,pr
+2086,"Accelerating Emissions
+(SSP5-8.5)",20.542,10.307,15.93,Big Porcupine,pr
+2087,"Moderating Emissions
+(SSP1-2.6)",18.996,11.851,15.001,Big Porcupine,pr
+2087,"Middle of the Road
+(SSP2-4.5)",17.028,10.593,14.608,Big Porcupine,pr
+2087,"High Emissions
+(SSP3-7.0)",17.167,9.543,14.657,Big Porcupine,pr
+2087,"Accelerating Emissions
+(SSP5-8.5)",22.058,12.746,15.336,Big Porcupine,pr
+2088,"Moderating Emissions
+(SSP1-2.6)",20.3,11.552,14.926,Big Porcupine,pr
+2088,"Middle of the Road
+(SSP2-4.5)",18.477,8.806,13.413,Big Porcupine,pr
+2088,"High Emissions
+(SSP3-7.0)",20.037,11.671,14.725,Big Porcupine,pr
+2088,"Accelerating Emissions
+(SSP5-8.5)",19.126,8.834,15.027,Big Porcupine,pr
+2089,"Moderating Emissions
+(SSP1-2.6)",17.978,10.337,13.566,Big Porcupine,pr
+2089,"Middle of the Road
+(SSP2-4.5)",17.919,10.491,15.321,Big Porcupine,pr
+2089,"High Emissions
+(SSP3-7.0)",15.362,10.075,12.227,Big Porcupine,pr
+2089,"Accelerating Emissions
+(SSP5-8.5)",17.152,8.289,13.462,Big Porcupine,pr
+2090,"Moderating Emissions
+(SSP1-2.6)",17.762,9.959,12.605,Big Porcupine,pr
+2090,"Middle of the Road
+(SSP2-4.5)",17.787,11.484,14.73,Big Porcupine,pr
+2090,"High Emissions
+(SSP3-7.0)",14.692,9.034,11.997,Big Porcupine,pr
+2090,"Accelerating Emissions
+(SSP5-8.5)",17.567,11.537,12.945,Big Porcupine,pr
+2091,"Moderating Emissions
+(SSP1-2.6)",17.03,10.792,14.942,Big Porcupine,pr
+2091,"Middle of the Road
+(SSP2-4.5)",19.281,10.618,13.541,Big Porcupine,pr
+2091,"High Emissions
+(SSP3-7.0)",15.237,10.991,11.947,Big Porcupine,pr
+2091,"Accelerating Emissions
+(SSP5-8.5)",17.282,10.28,15.213,Big Porcupine,pr
+2092,"Moderating Emissions
+(SSP1-2.6)",16.501,10.382,13.308,Big Porcupine,pr
+2092,"Middle of the Road
+(SSP2-4.5)",18.762,7.791,13.453,Big Porcupine,pr
+2092,"High Emissions
+(SSP3-7.0)",18.44,9.936,15.612,Big Porcupine,pr
+2092,"Accelerating Emissions
+(SSP5-8.5)",14.21,9.274,12.163,Big Porcupine,pr
+2093,"Moderating Emissions
+(SSP1-2.6)",19.448,9.674,12.926,Big Porcupine,pr
+2093,"Middle of the Road
+(SSP2-4.5)",18.111,12.645,13.937,Big Porcupine,pr
+2093,"High Emissions
+(SSP3-7.0)",18.818,12.532,15.486,Big Porcupine,pr
+2093,"Accelerating Emissions
+(SSP5-8.5)",15.493,9.984,13.941,Big Porcupine,pr
+2094,"Moderating Emissions
+(SSP1-2.6)",15.295,11.92,13.217,Big Porcupine,pr
+2094,"Middle of the Road
+(SSP2-4.5)",16.742,9.108,12.851,Big Porcupine,pr
+2094,"High Emissions
+(SSP3-7.0)",15.701,9.572,13.081,Big Porcupine,pr
+2094,"Accelerating Emissions
+(SSP5-8.5)",17.461,9.496,12.985,Big Porcupine,pr
+2095,"Moderating Emissions
+(SSP1-2.6)",16.673,9.855,13.768,Big Porcupine,pr
+2095,"Middle of the Road
+(SSP2-4.5)",17.217,9.532,14.935,Big Porcupine,pr
+2095,"High Emissions
+(SSP3-7.0)",16.603,9.724,13.685,Big Porcupine,pr
+2095,"Accelerating Emissions
+(SSP5-8.5)",15.512,10.24,13.168,Big Porcupine,pr
+2096,"Moderating Emissions
+(SSP1-2.6)",17.996,10.812,13.214,Big Porcupine,pr
+2096,"Middle of the Road
+(SSP2-4.5)",17.509,8.72,12.955,Big Porcupine,pr
+2096,"High Emissions
+(SSP3-7.0)",14.596,9.861,11.226,Big Porcupine,pr
+2096,"Accelerating Emissions
+(SSP5-8.5)",15.775,8.105,12.471,Big Porcupine,pr
+2097,"Moderating Emissions
+(SSP1-2.6)",16.345,8.966,14.042,Big Porcupine,pr
+2097,"Middle of the Road
+(SSP2-4.5)",17.041,11.941,13.989,Big Porcupine,pr
+2097,"High Emissions
+(SSP3-7.0)",15.393,9.263,12.965,Big Porcupine,pr
+2097,"Accelerating Emissions
+(SSP5-8.5)",21.033,12.463,15.185,Big Porcupine,pr
+2098,"Moderating Emissions
+(SSP1-2.6)",19.725,10.532,12.263,Big Porcupine,pr
+2098,"Middle of the Road
+(SSP2-4.5)",15.244,8.657,11.801,Big Porcupine,pr
+2098,"High Emissions
+(SSP3-7.0)",17.29,12.794,14.533,Big Porcupine,pr
+2098,"Accelerating Emissions
+(SSP5-8.5)",17.685,9.899,13.151,Big Porcupine,pr
+2099,"Moderating Emissions
+(SSP1-2.6)",18.688,12.523,13.678,Big Porcupine,pr
+2099,"Middle of the Road
+(SSP2-4.5)",17.966,11.033,13.456,Big Porcupine,pr
+2099,"High Emissions
+(SSP3-7.0)",19.947,10.86,14.104,Big Porcupine,pr
+2099,"Accelerating Emissions
+(SSP5-8.5)",14.807,6.75,13.83,Big Porcupine,pr
+2100,"Moderating Emissions
+(SSP1-2.6)",20.943,10.268,15.759,Big Porcupine,pr
+2100,"Middle of the Road
+(SSP2-4.5)",17.351,11.237,12.579,Big Porcupine,pr
+2100,"High Emissions
+(SSP3-7.0)",19.448,12.481,13.743,Big Porcupine,pr
+2100,"Accelerating Emissions
+(SSP5-8.5)",15.912,9.28,13.053,Big Porcupine,pr

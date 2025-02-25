@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,39.912,35.609,37.753,Fort Belknap,penman
+1951,Historical Emissions,40.075,34.735,38.053,Fort Belknap,penman
+1952,Historical Emissions,40.147,34.324,38.02,Fort Belknap,penman
+1953,Historical Emissions,38.873,32.948,36.863,Fort Belknap,penman
+1954,Historical Emissions,36.993,32.847,36.013,Fort Belknap,penman
+1955,Historical Emissions,41.455,32.113,35.405,Fort Belknap,penman
+1956,Historical Emissions,43.169,34.041,39.229,Fort Belknap,penman
+1957,Historical Emissions,42.176,33.603,34.837,Fort Belknap,penman
+1958,Historical Emissions,37.401,31.993,35.177,Fort Belknap,penman
+1959,Historical Emissions,38.373,31.034,34.659,Fort Belknap,penman
+1960,Historical Emissions,37.856,32.518,36.304,Fort Belknap,penman
+1961,Historical Emissions,38.267,34.129,36.351,Fort Belknap,penman
+1962,Historical Emissions,38.699,30.672,34.834,Fort Belknap,penman
+1963,Historical Emissions,35.705,32.801,34.808,Fort Belknap,penman
+1964,Historical Emissions,39.444,33.051,36.823,Fort Belknap,penman
+1965,Historical Emissions,38.876,33.879,36.59,Fort Belknap,penman
+1966,Historical Emissions,41.248,32.521,34.823,Fort Belknap,penman
+1967,Historical Emissions,39.335,33.278,36.837,Fort Belknap,penman
+1968,Historical Emissions,35.857,32.21,34.911,Fort Belknap,penman
+1969,Historical Emissions,39.266,31.635,36.014,Fort Belknap,penman
+1970,Historical Emissions,38.882,32.339,36.274,Fort Belknap,penman
+1971,Historical Emissions,40.135,34.591,36.975,Fort Belknap,penman
+1972,Historical Emissions,38.239,34.605,36.455,Fort Belknap,penman
+1973,Historical Emissions,39.34,32.875,35.504,Fort Belknap,penman
+1974,Historical Emissions,39.159,32.417,36.293,Fort Belknap,penman
+1975,Historical Emissions,38.453,32.233,36.502,Fort Belknap,penman
+1976,Historical Emissions,37.993,32.675,36.314,Fort Belknap,penman
+1977,Historical Emissions,39.894,32.897,35.957,Fort Belknap,penman
+1978,Historical Emissions,37.988,32.295,35.197,Fort Belknap,penman
+1979,Historical Emissions,38.546,32.515,37.271,Fort Belknap,penman
+1980,Historical Emissions,39.867,32.782,36.271,Fort Belknap,penman
+1981,Historical Emissions,39.046,32.965,36.819,Fort Belknap,penman
+1982,Historical Emissions,38.575,34.625,36.754,Fort Belknap,penman
+1983,Historical Emissions,36.773,32.833,36.077,Fort Belknap,penman
+1984,Historical Emissions,38.781,33.229,36.382,Fort Belknap,penman
+1985,Historical Emissions,40.606,33.56,37.225,Fort Belknap,penman
+1986,Historical Emissions,35.747,32.97,34.617,Fort Belknap,penman
+1987,Historical Emissions,38.365,32.338,36.162,Fort Belknap,penman
+1988,Historical Emissions,38.736,32.259,34.996,Fort Belknap,penman
+1989,Historical Emissions,39.001,32.819,38.014,Fort Belknap,penman
+1990,Historical Emissions,43.724,33.404,37.852,Fort Belknap,penman
+1991,Historical Emissions,40.225,32.195,37.21,Fort Belknap,penman
+1992,Historical Emissions,40.39,33.295,35.723,Fort Belknap,penman
+1993,Historical Emissions,38.427,33.277,34.211,Fort Belknap,penman
+1994,Historical Emissions,41.054,33.85,37.082,Fort Belknap,penman
+1995,Historical Emissions,42.574,35.746,37.257,Fort Belknap,penman
+1996,Historical Emissions,44.297,37.34,39.674,Fort Belknap,penman
+1997,Historical Emissions,40.145,34.318,38.394,Fort Belknap,penman
+1998,Historical Emissions,38.094,33.046,36.546,Fort Belknap,penman
+1999,Historical Emissions,38.521,32.959,36.862,Fort Belknap,penman
+2000,Historical Emissions,40.876,34.041,37.521,Fort Belknap,penman
+2001,Historical Emissions,38.878,33.729,38.333,Fort Belknap,penman
+2002,Historical Emissions,40.89,33.748,37.049,Fort Belknap,penman
+2003,Historical Emissions,41.997,35.681,38.895,Fort Belknap,penman
+2004,Historical Emissions,41.691,36.719,37.954,Fort Belknap,penman
+2005,Historical Emissions,41.897,36.681,38.982,Fort Belknap,penman
+2006,Historical Emissions,40.115,34.576,37.459,Fort Belknap,penman
+2007,Historical Emissions,39.825,35.73,38.703,Fort Belknap,penman
+2008,Historical Emissions,42.201,34.769,38.213,Fort Belknap,penman
+2009,Historical Emissions,39.269,34.432,37.599,Fort Belknap,penman
+2010,Historical Emissions,42.055,36.076,39.455,Fort Belknap,penman
+2011,Historical Emissions,39.748,35.002,37.652,Fort Belknap,penman
+2012,Historical Emissions,41.914,37.732,40.244,Fort Belknap,penman
+2013,Historical Emissions,43.416,36.095,40.672,Fort Belknap,penman
+2014,Historical Emissions,42.864,37.252,40.446,Fort Belknap,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",42.908,35.494,40.098,Fort Belknap,penman
+2015,"Middle of the Road
+(SSP2-4.5)",43.63,35.733,38.073,Fort Belknap,penman
+2015,"High Emissions
+(SSP3-7.0)",41.288,35.708,39.588,Fort Belknap,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",43.771,36.745,39.174,Fort Belknap,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",41.262,36.146,39.866,Fort Belknap,penman
+2016,"Middle of the Road
+(SSP2-4.5)",40.139,34.806,37.247,Fort Belknap,penman
+2016,"High Emissions
+(SSP3-7.0)",44.471,36.903,38.957,Fort Belknap,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",41.814,34.917,37.945,Fort Belknap,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",39.19,35.383,37.597,Fort Belknap,penman
+2017,"Middle of the Road
+(SSP2-4.5)",42.275,34.642,39.002,Fort Belknap,penman
+2017,"High Emissions
+(SSP3-7.0)",40.165,34.656,39.272,Fort Belknap,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",42.342,36.885,40.104,Fort Belknap,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",40.326,35.493,38.704,Fort Belknap,penman
+2018,"Middle of the Road
+(SSP2-4.5)",41.709,36.343,38.212,Fort Belknap,penman
+2018,"High Emissions
+(SSP3-7.0)",39.62,32.761,37.811,Fort Belknap,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",42.531,33.918,38.2,Fort Belknap,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",43.457,39.067,40.909,Fort Belknap,penman
+2019,"Middle of the Road
+(SSP2-4.5)",42.421,35.302,39.868,Fort Belknap,penman
+2019,"High Emissions
+(SSP3-7.0)",40.611,35.781,38.534,Fort Belknap,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",47.603,36.928,39.25,Fort Belknap,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",45.361,34.114,38.986,Fort Belknap,penman
+2020,"Middle of the Road
+(SSP2-4.5)",42.899,34.5,40.497,Fort Belknap,penman
+2020,"High Emissions
+(SSP3-7.0)",41.479,35.261,38.234,Fort Belknap,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",41.555,36.277,39.752,Fort Belknap,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",42.84,36.658,39.843,Fort Belknap,penman
+2021,"Middle of the Road
+(SSP2-4.5)",46.172,33.862,40.329,Fort Belknap,penman
+2021,"High Emissions
+(SSP3-7.0)",45.011,35.867,39.834,Fort Belknap,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",43.533,34.897,37.32,Fort Belknap,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",41.034,37.356,39.394,Fort Belknap,penman
+2022,"Middle of the Road
+(SSP2-4.5)",42.788,34.615,41.064,Fort Belknap,penman
+2022,"High Emissions
+(SSP3-7.0)",39.314,33.534,37.791,Fort Belknap,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",45.564,35.686,39.928,Fort Belknap,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",40.056,36.82,37.705,Fort Belknap,penman
+2023,"Middle of the Road
+(SSP2-4.5)",42.036,35.798,38.564,Fort Belknap,penman
+2023,"High Emissions
+(SSP3-7.0)",42.732,35.982,39.486,Fort Belknap,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",39.275,34.41,35.483,Fort Belknap,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",41.906,36.502,39.227,Fort Belknap,penman
+2024,"Middle of the Road
+(SSP2-4.5)",43.042,35.896,37.615,Fort Belknap,penman
+2024,"High Emissions
+(SSP3-7.0)",44.016,38.515,40.091,Fort Belknap,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",41.903,35.208,37.556,Fort Belknap,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",43.059,36.489,41.047,Fort Belknap,penman
+2025,"Middle of the Road
+(SSP2-4.5)",41.044,34.069,37.263,Fort Belknap,penman
+2025,"High Emissions
+(SSP3-7.0)",46.233,37.738,39.635,Fort Belknap,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",43.396,36.514,39.863,Fort Belknap,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",43.489,34.879,37.681,Fort Belknap,penman
+2026,"Middle of the Road
+(SSP2-4.5)",42.854,35.876,38.738,Fort Belknap,penman
+2026,"High Emissions
+(SSP3-7.0)",40.334,34.547,36.264,Fort Belknap,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",43.56,35.512,38.508,Fort Belknap,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",43.366,35.756,37.52,Fort Belknap,penman
+2027,"Middle of the Road
+(SSP2-4.5)",44.557,34.697,38.835,Fort Belknap,penman
+2027,"High Emissions
+(SSP3-7.0)",43.773,35.573,37.765,Fort Belknap,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",43.719,37.201,40.925,Fort Belknap,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",41.611,35.671,37.804,Fort Belknap,penman
+2028,"Middle of the Road
+(SSP2-4.5)",39.54,34.911,36.341,Fort Belknap,penman
+2028,"High Emissions
+(SSP3-7.0)",40.848,37.879,39.387,Fort Belknap,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",43.916,35.317,38.499,Fort Belknap,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",44.62,37.917,40.367,Fort Belknap,penman
+2029,"Middle of the Road
+(SSP2-4.5)",42.123,33.995,37.73,Fort Belknap,penman
+2029,"High Emissions
+(SSP3-7.0)",43.062,35.08,39.995,Fort Belknap,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",43.502,37.609,38.942,Fort Belknap,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",41.705,36.677,38.842,Fort Belknap,penman
+2030,"Middle of the Road
+(SSP2-4.5)",46.265,37.516,41.2,Fort Belknap,penman
+2030,"High Emissions
+(SSP3-7.0)",43.677,34.987,38.995,Fort Belknap,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",45.597,34.996,39.652,Fort Belknap,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",44.289,36.323,40.158,Fort Belknap,penman
+2031,"Middle of the Road
+(SSP2-4.5)",43.201,36.368,40.244,Fort Belknap,penman
+2031,"High Emissions
+(SSP3-7.0)",46.854,36.454,42.287,Fort Belknap,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",45.512,36.68,41.539,Fort Belknap,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",40.883,35.887,38.357,Fort Belknap,penman
+2032,"Middle of the Road
+(SSP2-4.5)",43.355,36.68,37.416,Fort Belknap,penman
+2032,"High Emissions
+(SSP3-7.0)",45.991,38.793,40.952,Fort Belknap,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",45.165,34.53,40.812,Fort Belknap,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",42.956,36.375,40.261,Fort Belknap,penman
+2033,"Middle of the Road
+(SSP2-4.5)",45.311,35.629,41.42,Fort Belknap,penman
+2033,"High Emissions
+(SSP3-7.0)",43.965,36.096,39.17,Fort Belknap,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",43.777,37.252,40.357,Fort Belknap,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",46.783,36.377,40.606,Fort Belknap,penman
+2034,"Middle of the Road
+(SSP2-4.5)",41.109,36.68,39.828,Fort Belknap,penman
+2034,"High Emissions
+(SSP3-7.0)",48.01,36.388,41.527,Fort Belknap,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",43.806,35.121,39.261,Fort Belknap,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",47.304,37.942,41.063,Fort Belknap,penman
+2035,"Middle of the Road
+(SSP2-4.5)",43.887,35.775,38.782,Fort Belknap,penman
+2035,"High Emissions
+(SSP3-7.0)",42.7,34.589,38.492,Fort Belknap,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",42.359,36.765,39.551,Fort Belknap,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",44.244,37.9,42.175,Fort Belknap,penman
+2036,"Middle of the Road
+(SSP2-4.5)",44.655,36.466,37.791,Fort Belknap,penman
+2036,"High Emissions
+(SSP3-7.0)",44.5,35.066,37.834,Fort Belknap,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",41.599,33.984,40.382,Fort Belknap,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",44.216,36.532,40.596,Fort Belknap,penman
+2037,"Middle of the Road
+(SSP2-4.5)",41.352,37.703,38.663,Fort Belknap,penman
+2037,"High Emissions
+(SSP3-7.0)",42.629,33.038,36.116,Fort Belknap,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",43.896,36.294,39.836,Fort Belknap,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",41.818,37.986,40.202,Fort Belknap,penman
+2038,"Middle of the Road
+(SSP2-4.5)",42.138,35.55,39.083,Fort Belknap,penman
+2038,"High Emissions
+(SSP3-7.0)",44.486,35.788,40.895,Fort Belknap,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",45.262,36.049,39.005,Fort Belknap,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",44.229,35.99,38.065,Fort Belknap,penman
+2039,"Middle of the Road
+(SSP2-4.5)",45.01,36.659,39.357,Fort Belknap,penman
+2039,"High Emissions
+(SSP3-7.0)",44.057,37.193,42.932,Fort Belknap,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",44.2,36.984,38.344,Fort Belknap,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",42.931,36.318,41.082,Fort Belknap,penman
+2040,"Middle of the Road
+(SSP2-4.5)",43.983,38.561,41.727,Fort Belknap,penman
+2040,"High Emissions
+(SSP3-7.0)",44.582,38.289,39.346,Fort Belknap,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",46.859,37.732,43.385,Fort Belknap,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",42.992,35.545,38.392,Fort Belknap,penman
+2041,"Middle of the Road
+(SSP2-4.5)",43.836,35.936,40.376,Fort Belknap,penman
+2041,"High Emissions
+(SSP3-7.0)",42.733,35.947,39.654,Fort Belknap,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",42.247,36.242,38.792,Fort Belknap,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",46.325,34.361,38.267,Fort Belknap,penman
+2042,"Middle of the Road
+(SSP2-4.5)",43.277,37.467,39.926,Fort Belknap,penman
+2042,"High Emissions
+(SSP3-7.0)",42.401,36.685,39.859,Fort Belknap,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",44.805,37.285,40.504,Fort Belknap,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",42.576,35.139,40.736,Fort Belknap,penman
+2043,"Middle of the Road
+(SSP2-4.5)",45.362,35.48,39.541,Fort Belknap,penman
+2043,"High Emissions
+(SSP3-7.0)",41.254,36.228,39.2,Fort Belknap,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",44.525,36.149,40.097,Fort Belknap,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",44.243,37.059,40.106,Fort Belknap,penman
+2044,"Middle of the Road
+(SSP2-4.5)",47.268,37.627,39.852,Fort Belknap,penman
+2044,"High Emissions
+(SSP3-7.0)",42.999,38.125,40.517,Fort Belknap,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",43.09,37.83,41.945,Fort Belknap,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",42.049,35.24,39.289,Fort Belknap,penman
+2045,"Middle of the Road
+(SSP2-4.5)",47.471,36.49,42.569,Fort Belknap,penman
+2045,"High Emissions
+(SSP3-7.0)",45.154,37.204,39.288,Fort Belknap,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",41.455,37.701,39.795,Fort Belknap,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",46.204,37.882,40.578,Fort Belknap,penman
+2046,"Middle of the Road
+(SSP2-4.5)",40.761,35.157,39.704,Fort Belknap,penman
+2046,"High Emissions
+(SSP3-7.0)",42.056,37.63,40.238,Fort Belknap,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",46.105,35.997,40.783,Fort Belknap,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",42.867,36.942,40.364,Fort Belknap,penman
+2047,"Middle of the Road
+(SSP2-4.5)",43.68,35.845,38.604,Fort Belknap,penman
+2047,"High Emissions
+(SSP3-7.0)",42.061,37.671,40.254,Fort Belknap,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",46.948,38.62,40.283,Fort Belknap,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",41.882,37.114,38.367,Fort Belknap,penman
+2048,"Middle of the Road
+(SSP2-4.5)",45.138,37.427,42.356,Fort Belknap,penman
+2048,"High Emissions
+(SSP3-7.0)",45.516,36.104,39.113,Fort Belknap,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",50.298,36.87,44.345,Fort Belknap,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",44.359,37.115,39.783,Fort Belknap,penman
+2049,"Middle of the Road
+(SSP2-4.5)",45.462,36.727,42.56,Fort Belknap,penman
+2049,"High Emissions
+(SSP3-7.0)",41.195,38.57,39,Fort Belknap,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",45.581,37.317,40.982,Fort Belknap,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",44.088,34.855,39.124,Fort Belknap,penman
+2050,"Middle of the Road
+(SSP2-4.5)",45.713,36.62,43.884,Fort Belknap,penman
+2050,"High Emissions
+(SSP3-7.0)",44.306,37.728,41.781,Fort Belknap,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",47.526,39.09,41.374,Fort Belknap,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",44.347,35.379,39.594,Fort Belknap,penman
+2051,"Middle of the Road
+(SSP2-4.5)",46.627,37.081,41.959,Fort Belknap,penman
+2051,"High Emissions
+(SSP3-7.0)",43.121,40.139,41.784,Fort Belknap,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",45.891,39.65,40.988,Fort Belknap,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",43.563,37.475,40.135,Fort Belknap,penman
+2052,"Middle of the Road
+(SSP2-4.5)",43.48,38.253,41.934,Fort Belknap,penman
+2052,"High Emissions
+(SSP3-7.0)",41.726,36.816,39.351,Fort Belknap,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",44.292,39.265,41.084,Fort Belknap,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",45.698,35.662,37.968,Fort Belknap,penman
+2053,"Middle of the Road
+(SSP2-4.5)",43.887,37.504,41.748,Fort Belknap,penman
+2053,"High Emissions
+(SSP3-7.0)",45.951,40.821,42.525,Fort Belknap,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",49.407,38.941,42.067,Fort Belknap,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",43.845,37.917,41.451,Fort Belknap,penman
+2054,"Middle of the Road
+(SSP2-4.5)",45.944,34.24,42.119,Fort Belknap,penman
+2054,"High Emissions
+(SSP3-7.0)",45.991,37.75,39.793,Fort Belknap,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",45.411,39.35,42.419,Fort Belknap,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",43.88,39.186,42.217,Fort Belknap,penman
+2055,"Middle of the Road
+(SSP2-4.5)",48.024,37.707,42.146,Fort Belknap,penman
+2055,"High Emissions
+(SSP3-7.0)",45.986,40.004,42.193,Fort Belknap,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",46.683,38.638,43.506,Fort Belknap,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",42.654,36.84,41.179,Fort Belknap,penman
+2056,"Middle of the Road
+(SSP2-4.5)",41.977,37.554,40.081,Fort Belknap,penman
+2056,"High Emissions
+(SSP3-7.0)",44.116,36.063,41.075,Fort Belknap,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",45.351,39.284,42.41,Fort Belknap,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",42.211,34.487,37.541,Fort Belknap,penman
+2057,"Middle of the Road
+(SSP2-4.5)",45.646,40.201,41.276,Fort Belknap,penman
+2057,"High Emissions
+(SSP3-7.0)",44.783,36.918,38.529,Fort Belknap,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",44.705,36.601,38.859,Fort Belknap,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",42.619,36.068,39.337,Fort Belknap,penman
+2058,"Middle of the Road
+(SSP2-4.5)",45.74,38.653,42.549,Fort Belknap,penman
+2058,"High Emissions
+(SSP3-7.0)",44.51,36.408,40.162,Fort Belknap,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",44.137,37.429,39.4,Fort Belknap,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",45.387,37.902,41.858,Fort Belknap,penman
+2059,"Middle of the Road
+(SSP2-4.5)",50.687,37.112,42.638,Fort Belknap,penman
+2059,"High Emissions
+(SSP3-7.0)",46.53,38.422,41.257,Fort Belknap,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",45.503,41.198,43.407,Fort Belknap,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",43.249,36.83,39.949,Fort Belknap,penman
+2060,"Middle of the Road
+(SSP2-4.5)",47.52,38.297,39.837,Fort Belknap,penman
+2060,"High Emissions
+(SSP3-7.0)",43.541,37.088,39.677,Fort Belknap,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",47.111,38.806,41.252,Fort Belknap,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",43.628,36.648,40.898,Fort Belknap,penman
+2061,"Middle of the Road
+(SSP2-4.5)",44.903,38.039,42.459,Fort Belknap,penman
+2061,"High Emissions
+(SSP3-7.0)",45.119,38.692,42.443,Fort Belknap,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",49.057,40.162,44.739,Fort Belknap,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",45.623,37.553,40.19,Fort Belknap,penman
+2062,"Middle of the Road
+(SSP2-4.5)",43.646,37.61,40.208,Fort Belknap,penman
+2062,"High Emissions
+(SSP3-7.0)",43.486,39.112,41.497,Fort Belknap,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",46.91,38.871,42.326,Fort Belknap,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",43.295,37.63,41.06,Fort Belknap,penman
+2063,"Middle of the Road
+(SSP2-4.5)",43.304,36.753,39.01,Fort Belknap,penman
+2063,"High Emissions
+(SSP3-7.0)",45.252,39.146,42.534,Fort Belknap,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",48.965,39.808,43.898,Fort Belknap,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",48.462,35.609,38.575,Fort Belknap,penman
+2064,"Middle of the Road
+(SSP2-4.5)",42.933,35.336,40.114,Fort Belknap,penman
+2064,"High Emissions
+(SSP3-7.0)",46.451,37.329,38.755,Fort Belknap,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",45.998,40.465,44.052,Fort Belknap,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",43.237,35.388,38.08,Fort Belknap,penman
+2065,"Middle of the Road
+(SSP2-4.5)",44.369,36.184,41.589,Fort Belknap,penman
+2065,"High Emissions
+(SSP3-7.0)",44.917,40.184,41.777,Fort Belknap,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",49.242,39.969,43.737,Fort Belknap,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",46.149,35.834,40.269,Fort Belknap,penman
+2066,"Middle of the Road
+(SSP2-4.5)",45.042,36.697,41.527,Fort Belknap,penman
+2066,"High Emissions
+(SSP3-7.0)",46.726,37.232,41.072,Fort Belknap,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",47.995,37.475,45.33,Fort Belknap,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",45.643,38.256,40.593,Fort Belknap,penman
+2067,"Middle of the Road
+(SSP2-4.5)",45.029,37.147,39.867,Fort Belknap,penman
+2067,"High Emissions
+(SSP3-7.0)",51.056,39.477,43.76,Fort Belknap,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",48.89,38.442,42.094,Fort Belknap,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",42.666,37.041,41.043,Fort Belknap,penman
+2068,"Middle of the Road
+(SSP2-4.5)",44.716,35.197,39.274,Fort Belknap,penman
+2068,"High Emissions
+(SSP3-7.0)",47.351,39.284,41.21,Fort Belknap,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",49.53,38.132,44.099,Fort Belknap,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",44.103,37.673,41.123,Fort Belknap,penman
+2069,"Middle of the Road
+(SSP2-4.5)",45.052,38.415,40.13,Fort Belknap,penman
+2069,"High Emissions
+(SSP3-7.0)",50.756,42.272,44.161,Fort Belknap,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",54.447,38.329,45.195,Fort Belknap,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",42.925,37.746,40.995,Fort Belknap,penman
+2070,"Middle of the Road
+(SSP2-4.5)",44.169,36.837,40.735,Fort Belknap,penman
+2070,"High Emissions
+(SSP3-7.0)",47.933,39.539,42.675,Fort Belknap,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",48.718,40.239,44.513,Fort Belknap,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",50.599,35.968,42.294,Fort Belknap,penman
+2071,"Middle of the Road
+(SSP2-4.5)",43.448,39.878,41.093,Fort Belknap,penman
+2071,"High Emissions
+(SSP3-7.0)",48.337,38.008,44.767,Fort Belknap,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",48.855,41.299,45.247,Fort Belknap,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",44.948,39.192,41.604,Fort Belknap,penman
+2072,"Middle of the Road
+(SSP2-4.5)",42.88,37.162,40.557,Fort Belknap,penman
+2072,"High Emissions
+(SSP3-7.0)",46.789,39.735,42.885,Fort Belknap,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",47.424,40.217,43.224,Fort Belknap,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",42.286,37.906,40.502,Fort Belknap,penman
+2073,"Middle of the Road
+(SSP2-4.5)",47.246,33.782,39.039,Fort Belknap,penman
+2073,"High Emissions
+(SSP3-7.0)",47.524,39.886,43.011,Fort Belknap,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",47.61,39.769,43.463,Fort Belknap,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",45.585,36.046,40.102,Fort Belknap,penman
+2074,"Middle of the Road
+(SSP2-4.5)",46.154,36.822,41.493,Fort Belknap,penman
+2074,"High Emissions
+(SSP3-7.0)",45.652,39.955,41.637,Fort Belknap,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",52.325,39.649,42.719,Fort Belknap,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",46.399,35.662,41.268,Fort Belknap,penman
+2075,"Middle of the Road
+(SSP2-4.5)",47.422,37.843,40.969,Fort Belknap,penman
+2075,"High Emissions
+(SSP3-7.0)",47.729,37.852,42.164,Fort Belknap,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",50.369,39.974,42.931,Fort Belknap,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",43.549,36.902,40.541,Fort Belknap,penman
+2076,"Middle of the Road
+(SSP2-4.5)",41.384,37.225,38.397,Fort Belknap,penman
+2076,"High Emissions
+(SSP3-7.0)",49.559,39.392,43.007,Fort Belknap,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",51.378,39.426,45.407,Fort Belknap,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",47.707,35.97,40.876,Fort Belknap,penman
+2077,"Middle of the Road
+(SSP2-4.5)",46.389,38.212,41.499,Fort Belknap,penman
+2077,"High Emissions
+(SSP3-7.0)",47.115,38.919,41.221,Fort Belknap,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",50.314,42.486,44.184,Fort Belknap,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",45.272,37.485,40.963,Fort Belknap,penman
+2078,"Middle of the Road
+(SSP2-4.5)",43.049,38.295,40.367,Fort Belknap,penman
+2078,"High Emissions
+(SSP3-7.0)",47.797,39.872,43.996,Fort Belknap,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",45.78,37.876,42.274,Fort Belknap,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",45.707,39.465,40.894,Fort Belknap,penman
+2079,"Middle of the Road
+(SSP2-4.5)",44.143,38.142,40.864,Fort Belknap,penman
+2079,"High Emissions
+(SSP3-7.0)",47.898,39.312,41.792,Fort Belknap,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",49.602,40.76,45.126,Fort Belknap,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",44.673,35.741,39.189,Fort Belknap,penman
+2080,"Middle of the Road
+(SSP2-4.5)",47.809,38.069,41.695,Fort Belknap,penman
+2080,"High Emissions
+(SSP3-7.0)",46.757,40.192,41.624,Fort Belknap,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",49.362,40.37,46.382,Fort Belknap,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",47.095,37.081,41.331,Fort Belknap,penman
+2081,"Middle of the Road
+(SSP2-4.5)",44.039,38.989,40.854,Fort Belknap,penman
+2081,"High Emissions
+(SSP3-7.0)",51.483,37.225,43.028,Fort Belknap,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",50.362,42.736,46.131,Fort Belknap,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",46.702,40.169,43.16,Fort Belknap,penman
+2082,"Middle of the Road
+(SSP2-4.5)",46.075,37.029,40.141,Fort Belknap,penman
+2082,"High Emissions
+(SSP3-7.0)",49.328,39.706,42.454,Fort Belknap,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",51.188,42.447,44.724,Fort Belknap,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",46.665,39.265,43.546,Fort Belknap,penman
+2083,"Middle of the Road
+(SSP2-4.5)",45.615,38.695,42.807,Fort Belknap,penman
+2083,"High Emissions
+(SSP3-7.0)",46.787,39.001,43.254,Fort Belknap,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",52.349,41.088,46.809,Fort Belknap,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",46.341,35.896,41.242,Fort Belknap,penman
+2084,"Middle of the Road
+(SSP2-4.5)",46.177,37.729,44.537,Fort Belknap,penman
+2084,"High Emissions
+(SSP3-7.0)",53.247,42.446,47.684,Fort Belknap,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",50.424,40.312,47.201,Fort Belknap,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",47.119,35.941,37.595,Fort Belknap,penman
+2085,"Middle of the Road
+(SSP2-4.5)",46.131,37.078,40.438,Fort Belknap,penman
+2085,"High Emissions
+(SSP3-7.0)",47.872,41.674,43.281,Fort Belknap,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",48.628,42.176,47.738,Fort Belknap,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",46.043,39.217,40.319,Fort Belknap,penman
+2086,"Middle of the Road
+(SSP2-4.5)",46.54,38.061,42.04,Fort Belknap,penman
+2086,"High Emissions
+(SSP3-7.0)",49.057,40.527,44.432,Fort Belknap,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",50.023,42.432,47.097,Fort Belknap,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",43.033,35.774,38.616,Fort Belknap,penman
+2087,"Middle of the Road
+(SSP2-4.5)",47.073,38.917,43.57,Fort Belknap,penman
+2087,"High Emissions
+(SSP3-7.0)",52.623,37.799,44.43,Fort Belknap,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",48.335,39.118,46.092,Fort Belknap,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",44.343,35.255,39.929,Fort Belknap,penman
+2088,"Middle of the Road
+(SSP2-4.5)",50.45,40.093,43.764,Fort Belknap,penman
+2088,"High Emissions
+(SSP3-7.0)",48.592,40.249,44.519,Fort Belknap,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",53.169,43.932,46.945,Fort Belknap,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",43.512,35.345,40.191,Fort Belknap,penman
+2089,"Middle of the Road
+(SSP2-4.5)",46.2,38.358,40.775,Fort Belknap,penman
+2089,"High Emissions
+(SSP3-7.0)",50.839,40.942,46.575,Fort Belknap,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",55.283,44.086,46.268,Fort Belknap,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",44.3,36.446,40.8,Fort Belknap,penman
+2090,"Middle of the Road
+(SSP2-4.5)",43.693,37.5,40.879,Fort Belknap,penman
+2090,"High Emissions
+(SSP3-7.0)",52.795,43.364,48.393,Fort Belknap,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",51.388,42.692,47.516,Fort Belknap,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",43.384,36.324,40.491,Fort Belknap,penman
+2091,"Middle of the Road
+(SSP2-4.5)",44.943,36.578,42.827,Fort Belknap,penman
+2091,"High Emissions
+(SSP3-7.0)",49.381,43.069,46.444,Fort Belknap,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",51.777,40.751,45.197,Fort Belknap,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",45.672,38.386,40.206,Fort Belknap,penman
+2092,"Middle of the Road
+(SSP2-4.5)",48.1,36.409,43.734,Fort Belknap,penman
+2092,"High Emissions
+(SSP3-7.0)",46.653,39.93,45.022,Fort Belknap,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",55.482,44.892,47.943,Fort Belknap,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",44.897,35.38,38.845,Fort Belknap,penman
+2093,"Middle of the Road
+(SSP2-4.5)",44.579,38.96,41.619,Fort Belknap,penman
+2093,"High Emissions
+(SSP3-7.0)",47.137,39.864,42.961,Fort Belknap,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",50.747,44.877,48.981,Fort Belknap,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",44.042,37.465,39.979,Fort Belknap,penman
+2094,"Middle of the Road
+(SSP2-4.5)",49.382,34.577,44.611,Fort Belknap,penman
+2094,"High Emissions
+(SSP3-7.0)",46.499,42.924,44.921,Fort Belknap,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",55.386,43.043,46.29,Fort Belknap,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",47.475,37.064,43.778,Fort Belknap,penman
+2095,"Middle of the Road
+(SSP2-4.5)",46.158,41.94,44.649,Fort Belknap,penman
+2095,"High Emissions
+(SSP3-7.0)",50.931,39.066,45.572,Fort Belknap,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",53.373,42.78,46.76,Fort Belknap,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",44.993,37.663,40.311,Fort Belknap,penman
+2096,"Middle of the Road
+(SSP2-4.5)",46.648,40.174,43.906,Fort Belknap,penman
+2096,"High Emissions
+(SSP3-7.0)",53.622,41.599,44.648,Fort Belknap,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",55.531,42.679,45.129,Fort Belknap,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",48.165,38.884,41.058,Fort Belknap,penman
+2097,"Middle of the Road
+(SSP2-4.5)",49.905,39.971,41.973,Fort Belknap,penman
+2097,"High Emissions
+(SSP3-7.0)",53.762,38.517,47.557,Fort Belknap,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",53.245,42.272,45.486,Fort Belknap,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",45.698,35.861,40.627,Fort Belknap,penman
+2098,"Middle of the Road
+(SSP2-4.5)",47.324,40.571,43.566,Fort Belknap,penman
+2098,"High Emissions
+(SSP3-7.0)",51.387,41.19,43.723,Fort Belknap,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",50.63,44.747,49.707,Fort Belknap,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",43.986,37.13,39.794,Fort Belknap,penman
+2099,"Middle of the Road
+(SSP2-4.5)",45.119,37.716,43.186,Fort Belknap,penman
+2099,"High Emissions
+(SSP3-7.0)",51.053,40.777,46.713,Fort Belknap,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",55.585,41.584,49.574,Fort Belknap,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",44.865,33.74,38.822,Fort Belknap,penman
+2100,"Middle of the Road
+(SSP2-4.5)",47.802,37.776,42.458,Fort Belknap,penman
+2100,"High Emissions
+(SSP3-7.0)",48.992,41.67,45.765,Fort Belknap,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",54.462,44.443,45.859,Fort Belknap,penman

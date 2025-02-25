@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,31.583,30.359,30.745,Missoula County,tasmin
+1951,Historical Emissions,31.854,29.295,30.833,Missoula County,tasmin
+1952,Historical Emissions,31.342,27.661,29.974,Missoula County,tasmin
+1953,Historical Emissions,30.95,28.926,30.113,Missoula County,tasmin
+1954,Historical Emissions,32.774,28.723,29.987,Missoula County,tasmin
+1955,Historical Emissions,31.658,29.283,30.928,Missoula County,tasmin
+1956,Historical Emissions,31.744,29.135,30.823,Missoula County,tasmin
+1957,Historical Emissions,32.436,29.09,31.277,Missoula County,tasmin
+1958,Historical Emissions,31.77,29.683,30.944,Missoula County,tasmin
+1959,Historical Emissions,31.07,28.733,29.573,Missoula County,tasmin
+1960,Historical Emissions,31.487,28.11,29.387,Missoula County,tasmin
+1961,Historical Emissions,31.55,29.492,30.648,Missoula County,tasmin
+1962,Historical Emissions,30.976,28.18,29.138,Missoula County,tasmin
+1963,Historical Emissions,30.992,29.203,29.932,Missoula County,tasmin
+1964,Historical Emissions,31.405,28.754,30.552,Missoula County,tasmin
+1965,Historical Emissions,31.175,29.13,30.627,Missoula County,tasmin
+1966,Historical Emissions,31.877,29.818,30.891,Missoula County,tasmin
+1967,Historical Emissions,31.252,28.232,30.202,Missoula County,tasmin
+1968,Historical Emissions,31.501,27.644,30.199,Missoula County,tasmin
+1969,Historical Emissions,31.223,28.762,29.769,Missoula County,tasmin
+1970,Historical Emissions,32.309,30.383,30.98,Missoula County,tasmin
+1971,Historical Emissions,32.629,29.199,31.661,Missoula County,tasmin
+1972,Historical Emissions,31.722,29.035,30.487,Missoula County,tasmin
+1973,Historical Emissions,31.952,28.982,30.673,Missoula County,tasmin
+1974,Historical Emissions,32.599,28.332,30.423,Missoula County,tasmin
+1975,Historical Emissions,31.663,28.473,31.329,Missoula County,tasmin
+1976,Historical Emissions,31.753,28.443,30.819,Missoula County,tasmin
+1977,Historical Emissions,32.719,30.797,31.715,Missoula County,tasmin
+1978,Historical Emissions,33.739,28.943,30.515,Missoula County,tasmin
+1979,Historical Emissions,32.471,30.093,31.376,Missoula County,tasmin
+1980,Historical Emissions,31.034,29.737,30.73,Missoula County,tasmin
+1981,Historical Emissions,32.697,30.243,31.339,Missoula County,tasmin
+1982,Historical Emissions,32.769,29.452,31.566,Missoula County,tasmin
+1983,Historical Emissions,32.899,29.251,29.93,Missoula County,tasmin
+1984,Historical Emissions,32.304,30.498,30.853,Missoula County,tasmin
+1985,Historical Emissions,31.903,30.182,30.76,Missoula County,tasmin
+1986,Historical Emissions,31.944,29.055,30.639,Missoula County,tasmin
+1987,Historical Emissions,32.47,28.983,30.748,Missoula County,tasmin
+1988,Historical Emissions,31.399,30.378,30.911,Missoula County,tasmin
+1989,Historical Emissions,31.59,29.848,30.688,Missoula County,tasmin
+1990,Historical Emissions,33.41,30.01,32.361,Missoula County,tasmin
+1991,Historical Emissions,32.138,29.562,30.885,Missoula County,tasmin
+1992,Historical Emissions,31.264,29.368,30.057,Missoula County,tasmin
+1993,Historical Emissions,32.899,28.983,31.064,Missoula County,tasmin
+1994,Historical Emissions,32.678,30.295,31.085,Missoula County,tasmin
+1995,Historical Emissions,31.546,29.591,30.071,Missoula County,tasmin
+1996,Historical Emissions,32.675,29.807,31.823,Missoula County,tasmin
+1997,Historical Emissions,32.415,29.741,30.597,Missoula County,tasmin
+1998,Historical Emissions,33.715,28.614,31.695,Missoula County,tasmin
+1999,Historical Emissions,33.374,29.963,31.258,Missoula County,tasmin
+2000,Historical Emissions,32.403,29.573,31.386,Missoula County,tasmin
+2001,Historical Emissions,33.58,30.351,31.556,Missoula County,tasmin
+2002,Historical Emissions,34.083,30.763,32.603,Missoula County,tasmin
+2003,Historical Emissions,33.734,31.162,32.323,Missoula County,tasmin
+2004,Historical Emissions,33.656,30.94,32.972,Missoula County,tasmin
+2005,Historical Emissions,34.924,30.566,33.061,Missoula County,tasmin
+2006,Historical Emissions,32.493,29.953,31.225,Missoula County,tasmin
+2007,Historical Emissions,33.417,30.254,32.996,Missoula County,tasmin
+2008,Historical Emissions,33.736,30.45,32.399,Missoula County,tasmin
+2009,Historical Emissions,32.859,31.865,32.07,Missoula County,tasmin
+2010,Historical Emissions,33.44,31.49,32.193,Missoula County,tasmin
+2011,Historical Emissions,34.594,31.92,32.504,Missoula County,tasmin
+2012,Historical Emissions,33.059,30.177,32.31,Missoula County,tasmin
+2013,Historical Emissions,34.581,30.428,32.238,Missoula County,tasmin
+2014,Historical Emissions,34.001,31.567,33.067,Missoula County,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",35.018,31.671,33.312,Missoula County,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",33.726,31.001,32.307,Missoula County,tasmin
+2015,"High Emissions
+(SSP3-7.0)",34.412,30.034,32.126,Missoula County,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",33.834,31.102,33.136,Missoula County,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",34.618,31.522,33.547,Missoula County,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",33.549,30.923,32.078,Missoula County,tasmin
+2016,"High Emissions
+(SSP3-7.0)",35.684,30.49,33.306,Missoula County,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",33.235,31.186,32.035,Missoula County,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",33.985,31.236,32.243,Missoula County,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",35.165,31.567,32.631,Missoula County,tasmin
+2017,"High Emissions
+(SSP3-7.0)",35.122,32.178,32.561,Missoula County,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",33.884,31.895,33.05,Missoula County,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",33.507,31.128,32.489,Missoula County,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",35.104,31.341,33.398,Missoula County,tasmin
+2018,"High Emissions
+(SSP3-7.0)",35.181,31.318,33.033,Missoula County,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",34.821,32.074,33.334,Missoula County,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",35.493,32.269,34.515,Missoula County,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",35.372,30.701,31.924,Missoula County,tasmin
+2019,"High Emissions
+(SSP3-7.0)",34.283,30.901,32.979,Missoula County,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",34.827,32.505,32.921,Missoula County,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",34.827,32.003,33.704,Missoula County,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",34.261,31.225,32.802,Missoula County,tasmin
+2020,"High Emissions
+(SSP3-7.0)",34.336,31.795,33.264,Missoula County,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",34.616,31.873,33.235,Missoula County,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",35.068,31.453,33.414,Missoula County,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",34.516,31.733,32.699,Missoula County,tasmin
+2021,"High Emissions
+(SSP3-7.0)",34.733,31.613,32.878,Missoula County,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",34.823,31.591,33.552,Missoula County,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",34.71,31.923,32.766,Missoula County,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",35.299,32.557,33.298,Missoula County,tasmin
+2022,"High Emissions
+(SSP3-7.0)",35.413,32.303,33.152,Missoula County,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",34.469,32.435,33.689,Missoula County,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",34.577,32.954,33.534,Missoula County,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",34.781,32.54,33.337,Missoula County,tasmin
+2023,"High Emissions
+(SSP3-7.0)",35.158,31.913,33.589,Missoula County,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",34.682,31.325,32.348,Missoula County,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",35.115,31.367,33.692,Missoula County,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",34.216,31.975,32.819,Missoula County,tasmin
+2024,"High Emissions
+(SSP3-7.0)",35.872,31.317,33.625,Missoula County,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",35.91,31.617,33.743,Missoula County,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",35.056,32.569,34.114,Missoula County,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",36.153,31.936,33.215,Missoula County,tasmin
+2025,"High Emissions
+(SSP3-7.0)",35.706,32.851,34.215,Missoula County,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",36.405,33.214,33.628,Missoula County,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",35.258,32.599,33.251,Missoula County,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",34.534,31.675,34.1,Missoula County,tasmin
+2026,"High Emissions
+(SSP3-7.0)",35.822,31.452,34.149,Missoula County,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",35.782,32.895,33.58,Missoula County,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",35.521,31.917,33.229,Missoula County,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",35.392,31.32,34.165,Missoula County,tasmin
+2027,"High Emissions
+(SSP3-7.0)",35.862,32.936,33.757,Missoula County,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",34.575,32.594,33.454,Missoula County,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",35.414,32.429,34.381,Missoula County,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",35.964,31.087,33.874,Missoula County,tasmin
+2028,"High Emissions
+(SSP3-7.0)",34.337,33.172,33.612,Missoula County,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",35.402,33.247,33.912,Missoula County,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",36.318,33.284,34.804,Missoula County,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",35.444,32.598,33.711,Missoula County,tasmin
+2029,"High Emissions
+(SSP3-7.0)",35.094,31.468,33.711,Missoula County,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",35.295,32.396,34.199,Missoula County,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",36.558,32.248,33.187,Missoula County,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",35.34,32.911,33.508,Missoula County,tasmin
+2030,"High Emissions
+(SSP3-7.0)",34.913,32.116,33.879,Missoula County,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",36.122,32.621,33.879,Missoula County,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",34.12,32.714,34.012,Missoula County,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",36.826,32.784,34.255,Missoula County,tasmin
+2031,"High Emissions
+(SSP3-7.0)",35.843,32.62,33.996,Missoula County,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",35.629,33.825,34.582,Missoula County,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",35.29,32.573,33.933,Missoula County,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",34.762,31.678,33.605,Missoula County,tasmin
+2032,"High Emissions
+(SSP3-7.0)",35.129,32.155,33.441,Missoula County,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",35.441,32.296,33.101,Missoula County,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",35.299,32.981,33.417,Missoula County,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",35.652,32.453,34.851,Missoula County,tasmin
+2033,"High Emissions
+(SSP3-7.0)",35.899,32.636,34.506,Missoula County,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",35.187,33.243,34.584,Missoula County,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",35.423,32.211,33.434,Missoula County,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",36.07,33.247,34.439,Missoula County,tasmin
+2034,"High Emissions
+(SSP3-7.0)",35.506,33.111,34.45,Missoula County,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",35.552,31.932,33.864,Missoula County,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",35.579,31.876,33.684,Missoula County,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",35.231,31.985,34.317,Missoula County,tasmin
+2035,"High Emissions
+(SSP3-7.0)",35.216,33.033,34.135,Missoula County,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",35.933,32.3,34.768,Missoula County,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",35.953,33.894,34.623,Missoula County,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",34.714,32.561,33.776,Missoula County,tasmin
+2036,"High Emissions
+(SSP3-7.0)",36.434,32.52,33.754,Missoula County,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",36.913,32.88,35.87,Missoula County,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",36.163,34.322,35.083,Missoula County,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",36.418,31.206,34.035,Missoula County,tasmin
+2037,"High Emissions
+(SSP3-7.0)",35.813,32.276,34.192,Missoula County,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",35.848,33.376,35.118,Missoula County,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",36.419,33.393,34.886,Missoula County,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",35.171,32.478,34.426,Missoula County,tasmin
+2038,"High Emissions
+(SSP3-7.0)",36.253,32.976,35.099,Missoula County,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",36.356,33.614,35.14,Missoula County,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",36.373,33.503,34.188,Missoula County,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",35.631,33.148,34.577,Missoula County,tasmin
+2039,"High Emissions
+(SSP3-7.0)",36.749,34.158,35.369,Missoula County,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",37.97,32.668,35.553,Missoula County,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",35.252,32.687,34.464,Missoula County,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",35.16,33.448,34.399,Missoula County,tasmin
+2040,"High Emissions
+(SSP3-7.0)",36.457,33.638,35.389,Missoula County,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",37.897,34.395,36.136,Missoula County,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",36.264,32.668,33.607,Missoula County,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",35.553,33.698,34.344,Missoula County,tasmin
+2041,"High Emissions
+(SSP3-7.0)",36.207,33.321,34.14,Missoula County,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",36.645,34.118,35.464,Missoula County,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",36.626,33.932,34.76,Missoula County,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",35.841,32.003,33.878,Missoula County,tasmin
+2042,"High Emissions
+(SSP3-7.0)",36.112,33.041,34.901,Missoula County,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",36.456,33.991,36.103,Missoula County,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",36.18,33.055,34.867,Missoula County,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",36.197,32.864,34.093,Missoula County,tasmin
+2043,"High Emissions
+(SSP3-7.0)",35.523,33.733,34.664,Missoula County,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",36.133,34.562,35.393,Missoula County,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",36.407,33.55,34.707,Missoula County,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",36.996,33.189,34.853,Missoula County,tasmin
+2044,"High Emissions
+(SSP3-7.0)",36.543,33.438,34.924,Missoula County,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",38.302,34.088,34.817,Missoula County,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",36.208,33.9,35.429,Missoula County,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",37.763,32.866,35.135,Missoula County,tasmin
+2045,"High Emissions
+(SSP3-7.0)",37.35,33.612,34.814,Missoula County,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",36.799,33.873,35.199,Missoula County,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",37.089,31.75,34.287,Missoula County,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",36.792,33.213,34.47,Missoula County,tasmin
+2046,"High Emissions
+(SSP3-7.0)",36.486,34.765,35.774,Missoula County,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",37.498,32.788,35.477,Missoula County,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",36.517,33.68,34.677,Missoula County,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",36.29,31.184,35.354,Missoula County,tasmin
+2047,"High Emissions
+(SSP3-7.0)",36.566,33.112,33.99,Missoula County,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",38.014,33.767,35.627,Missoula County,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",36.407,33.166,34.457,Missoula County,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",37.774,32.68,35.812,Missoula County,tasmin
+2048,"High Emissions
+(SSP3-7.0)",36.979,33.611,36.109,Missoula County,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",37.528,35.224,36.287,Missoula County,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",36.302,32.125,34.191,Missoula County,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",37.111,34.059,34.925,Missoula County,tasmin
+2049,"High Emissions
+(SSP3-7.0)",37.113,34.1,36.562,Missoula County,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",37.251,34.66,35.287,Missoula County,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",36.044,31.89,35.399,Missoula County,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",37.289,33.205,35.848,Missoula County,tasmin
+2050,"High Emissions
+(SSP3-7.0)",37.508,34.136,35.92,Missoula County,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",37.466,34.869,36.115,Missoula County,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",36.737,32.804,35.396,Missoula County,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",36.694,34.26,35.351,Missoula County,tasmin
+2051,"High Emissions
+(SSP3-7.0)",37.364,34.199,36.165,Missoula County,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",37.329,34.487,35.598,Missoula County,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",36.254,34.084,35.585,Missoula County,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",35.971,34.171,35.442,Missoula County,tasmin
+2052,"High Emissions
+(SSP3-7.0)",37.024,34.171,35.562,Missoula County,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",36.933,35.153,35.816,Missoula County,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",35.804,32.762,34.506,Missoula County,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",36.185,33.847,35.488,Missoula County,tasmin
+2053,"High Emissions
+(SSP3-7.0)",38.35,34.738,36.569,Missoula County,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",37.912,34.329,35.733,Missoula County,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",36.327,33.935,34.907,Missoula County,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",36.485,33.881,34.913,Missoula County,tasmin
+2054,"High Emissions
+(SSP3-7.0)",37.047,34.223,35.356,Missoula County,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",38.361,34.999,36.223,Missoula County,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",36.928,33.771,34.782,Missoula County,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",36.106,33.438,35.277,Missoula County,tasmin
+2055,"High Emissions
+(SSP3-7.0)",37.131,34.389,35.844,Missoula County,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",38.084,35.595,37.003,Missoula County,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",36.317,33.98,35.368,Missoula County,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",37.678,33.929,35.431,Missoula County,tasmin
+2056,"High Emissions
+(SSP3-7.0)",38.432,34.332,36.319,Missoula County,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",39.066,36.309,37.461,Missoula County,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",36.081,32.332,34.163,Missoula County,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",36.51,34.341,35.327,Missoula County,tasmin
+2057,"High Emissions
+(SSP3-7.0)",37.637,33.9,35.957,Missoula County,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",39.362,34.81,37.152,Missoula County,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",36.624,31.551,34.514,Missoula County,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",38.243,33.916,35.684,Missoula County,tasmin
+2058,"High Emissions
+(SSP3-7.0)",36.775,34.797,36.347,Missoula County,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",37.998,34.343,36.961,Missoula County,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",36.42,32.852,34.341,Missoula County,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",37.901,35.039,36.09,Missoula County,tasmin
+2059,"High Emissions
+(SSP3-7.0)",38.593,34.14,36.378,Missoula County,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",39.658,36.347,37.981,Missoula County,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",36.045,32.701,35.021,Missoula County,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",37.953,34.354,35.592,Missoula County,tasmin
+2060,"High Emissions
+(SSP3-7.0)",37.958,35.587,36.638,Missoula County,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",39.877,35.77,36.879,Missoula County,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",36.236,33.69,34.68,Missoula County,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",37.935,33.937,35.005,Missoula County,tasmin
+2061,"High Emissions
+(SSP3-7.0)",37.741,34.796,36.391,Missoula County,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",38.995,36.29,36.932,Missoula County,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",35.455,33.475,35.063,Missoula County,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",38.432,32.468,34.933,Missoula County,tasmin
+2062,"High Emissions
+(SSP3-7.0)",37.654,33.677,37.358,Missoula County,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",39.306,36.608,37.387,Missoula County,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",35.598,32.133,33.845,Missoula County,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",37.298,34.446,36.439,Missoula County,tasmin
+2063,"High Emissions
+(SSP3-7.0)",37.118,35.316,36.703,Missoula County,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",38.946,35.966,37.856,Missoula County,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",37.717,33.84,35.258,Missoula County,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",36.047,33.923,35.038,Missoula County,tasmin
+2064,"High Emissions
+(SSP3-7.0)",37.022,35.409,36.547,Missoula County,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",38.016,36.413,37.472,Missoula County,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",37.932,32.93,34.16,Missoula County,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",37.969,33.186,36.138,Missoula County,tasmin
+2065,"High Emissions
+(SSP3-7.0)",37.803,34.442,36.581,Missoula County,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",40.039,36.269,38.834,Missoula County,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",38.008,34.034,35.614,Missoula County,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",37.915,35.386,36.461,Missoula County,tasmin
+2066,"High Emissions
+(SSP3-7.0)",38.572,33.253,36.819,Missoula County,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",39.132,36.095,37.823,Missoula County,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",37.029,34.146,36.054,Missoula County,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",37.374,34.769,35.464,Missoula County,tasmin
+2067,"High Emissions
+(SSP3-7.0)",39.059,35.192,37.121,Missoula County,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",39.75,35.738,37.672,Missoula County,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",37.656,33.379,34.508,Missoula County,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",37.641,34.839,35.561,Missoula County,tasmin
+2068,"High Emissions
+(SSP3-7.0)",38.248,35.108,36.13,Missoula County,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",40.868,36.981,37.666,Missoula County,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",36.912,33.607,35.731,Missoula County,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",37.34,34.776,35.994,Missoula County,tasmin
+2069,"High Emissions
+(SSP3-7.0)",39.666,35.568,37.162,Missoula County,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",42.277,37.103,38.042,Missoula County,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",35.674,34.183,35.077,Missoula County,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",37.786,33.542,36.711,Missoula County,tasmin
+2070,"High Emissions
+(SSP3-7.0)",39.315,35.957,37.862,Missoula County,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",41.219,37.015,39.137,Missoula County,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",36.582,32.41,35.254,Missoula County,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",36.819,34.733,36.111,Missoula County,tasmin
+2071,"High Emissions
+(SSP3-7.0)",38.895,35.972,37.877,Missoula County,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",40.463,36.627,37.884,Missoula County,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",36.738,33.344,35.274,Missoula County,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",37.863,34.465,35.352,Missoula County,tasmin
+2072,"High Emissions
+(SSP3-7.0)",39.147,35.986,37.683,Missoula County,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",39.995,36.559,38.19,Missoula County,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",36.774,32.381,34.964,Missoula County,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",37.791,35.432,35.906,Missoula County,tasmin
+2073,"High Emissions
+(SSP3-7.0)",40.205,35.953,37.439,Missoula County,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",40.183,36.901,39.246,Missoula County,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",37.351,32.97,35.352,Missoula County,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",38.171,34.497,36.631,Missoula County,tasmin
+2074,"High Emissions
+(SSP3-7.0)",39.057,35.354,37.123,Missoula County,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",40.875,36.813,38.526,Missoula County,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",35.904,32.36,33.815,Missoula County,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",38.692,34.063,35.408,Missoula County,tasmin
+2075,"High Emissions
+(SSP3-7.0)",38.592,35.811,36.809,Missoula County,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",40.607,36.849,38.696,Missoula County,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",36.347,32.064,34.729,Missoula County,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",36.755,35.132,36.321,Missoula County,tasmin
+2076,"High Emissions
+(SSP3-7.0)",39.324,36.783,37.942,Missoula County,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",40.994,37.054,37.953,Missoula County,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",37.261,33.296,35.586,Missoula County,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",39.039,34.867,36.584,Missoula County,tasmin
+2077,"High Emissions
+(SSP3-7.0)",40.807,36.568,37.742,Missoula County,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",40.227,36.702,38.989,Missoula County,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",36.635,33.578,35.33,Missoula County,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",37.666,35.58,36.669,Missoula County,tasmin
+2078,"High Emissions
+(SSP3-7.0)",39.587,36.336,37.801,Missoula County,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",39.588,37.607,38.497,Missoula County,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",36.399,33.176,35.255,Missoula County,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",38.32,35.726,36.324,Missoula County,tasmin
+2079,"High Emissions
+(SSP3-7.0)",40.298,36.837,38.3,Missoula County,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",40.746,37.247,39.039,Missoula County,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",35.053,32.329,34.659,Missoula County,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",38.912,35.095,35.846,Missoula County,tasmin
+2080,"High Emissions
+(SSP3-7.0)",39.828,37.394,38.524,Missoula County,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",41.95,38.87,40.271,Missoula County,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",36.77,33.008,34.111,Missoula County,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",38.184,35.509,36.656,Missoula County,tasmin
+2081,"High Emissions
+(SSP3-7.0)",40.605,36.837,38.811,Missoula County,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",43.652,38.642,40.539,Missoula County,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",36.491,34.091,35.005,Missoula County,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",38.658,35.683,37.194,Missoula County,tasmin
+2082,"High Emissions
+(SSP3-7.0)",41.421,36.528,37.064,Missoula County,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",42.188,37.922,40.255,Missoula County,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",37.193,33.401,34.608,Missoula County,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",37.769,34.751,36.244,Missoula County,tasmin
+2083,"High Emissions
+(SSP3-7.0)",40.716,35.264,38.817,Missoula County,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",42.262,38.502,40.567,Missoula County,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",37.076,32.967,34.736,Missoula County,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",38.462,34.338,37.021,Missoula County,tasmin
+2084,"High Emissions
+(SSP3-7.0)",40.932,37.538,39.378,Missoula County,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",42.19,39,40.422,Missoula County,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",36.287,32.31,35.394,Missoula County,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",38.018,34.776,36.374,Missoula County,tasmin
+2085,"High Emissions
+(SSP3-7.0)",39.683,37.093,38.226,Missoula County,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",42.61,39.596,41.173,Missoula County,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",37.295,34.072,36.313,Missoula County,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",38.49,35.951,37.724,Missoula County,tasmin
+2086,"High Emissions
+(SSP3-7.0)",40.502,36.558,39.491,Missoula County,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",43.652,39.384,41.238,Missoula County,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",34.945,33.264,34.218,Missoula County,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",38.86,36.095,37.827,Missoula County,tasmin
+2087,"High Emissions
+(SSP3-7.0)",40.504,38.08,38.736,Missoula County,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",42.443,39.051,41.019,Missoula County,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",37.404,32.951,35.737,Missoula County,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",38.301,35.721,36.809,Missoula County,tasmin
+2088,"High Emissions
+(SSP3-7.0)",41.303,37.652,38.71,Missoula County,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",41.913,39.677,40.317,Missoula County,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",36.497,33.653,34.545,Missoula County,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",38.863,35.416,37.162,Missoula County,tasmin
+2089,"High Emissions
+(SSP3-7.0)",39.856,37.494,38.738,Missoula County,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",44.039,40.288,40.973,Missoula County,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",37.208,34.281,36.282,Missoula County,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",38.131,35.257,36.896,Missoula County,tasmin
+2090,"High Emissions
+(SSP3-7.0)",40.784,37.378,38.776,Missoula County,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",43.89,40.376,41.4,Missoula County,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",36.34,33.556,35.226,Missoula County,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",38.17,34.177,36.939,Missoula County,tasmin
+2091,"High Emissions
+(SSP3-7.0)",42.954,37.379,39.499,Missoula County,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",42.431,39.245,41.277,Missoula County,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",37.025,33.087,35.655,Missoula County,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",40.123,36.208,37.287,Missoula County,tasmin
+2092,"High Emissions
+(SSP3-7.0)",41.471,36.8,39.424,Missoula County,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",42.487,39.115,40.96,Missoula County,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",36.408,33.839,34.794,Missoula County,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",38.58,35.214,36.86,Missoula County,tasmin
+2093,"High Emissions
+(SSP3-7.0)",41.365,38.055,40.192,Missoula County,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",45.213,39.695,40.562,Missoula County,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",37.256,31.521,35.339,Missoula County,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",38.893,35.675,36.503,Missoula County,tasmin
+2094,"High Emissions
+(SSP3-7.0)",41.729,38.131,39.218,Missoula County,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",44.011,40.311,42.859,Missoula County,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",36.855,34.308,35.197,Missoula County,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",40.259,35.722,38.353,Missoula County,tasmin
+2095,"High Emissions
+(SSP3-7.0)",42.138,38.067,40.745,Missoula County,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",42.809,39.584,40.751,Missoula County,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",36.284,32.934,34.108,Missoula County,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",38.765,36.706,37.74,Missoula County,tasmin
+2096,"High Emissions
+(SSP3-7.0)",41.504,38.83,40.176,Missoula County,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",43.42,39.422,41.651,Missoula County,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",35.963,31.889,34.142,Missoula County,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",40.032,36.338,37.214,Missoula County,tasmin
+2097,"High Emissions
+(SSP3-7.0)",42.997,38.044,40.026,Missoula County,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",46.154,39.042,42.868,Missoula County,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",35.823,32.919,34.148,Missoula County,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",37.676,35.421,36.82,Missoula County,tasmin
+2098,"High Emissions
+(SSP3-7.0)",42.079,38.703,39.999,Missoula County,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",44.311,39.9,41.881,Missoula County,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",37.221,33.483,34.894,Missoula County,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",38.921,35.033,36.552,Missoula County,tasmin
+2099,"High Emissions
+(SSP3-7.0)",43.913,38.213,39.663,Missoula County,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",45.026,38.864,43.025,Missoula County,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",36.201,32.325,34.631,Missoula County,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",40.675,35.487,37.273,Missoula County,tasmin
+2100,"High Emissions
+(SSP3-7.0)",42.975,38.386,40.413,Missoula County,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",45.286,39.784,41.998,Missoula County,tasmin

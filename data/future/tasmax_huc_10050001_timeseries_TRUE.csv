@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,52.402,49.346,51.03,Milk Headwaters,tasmax
+1951,Historical Emissions,51.731,49.342,50.893,Milk Headwaters,tasmax
+1952,Historical Emissions,51.018,48.166,50.1,Milk Headwaters,tasmax
+1953,Historical Emissions,51.161,48.937,50.192,Milk Headwaters,tasmax
+1954,Historical Emissions,52.81,47.062,49.533,Milk Headwaters,tasmax
+1955,Historical Emissions,52.463,48.08,49.782,Milk Headwaters,tasmax
+1956,Historical Emissions,52.15,48.321,50.397,Milk Headwaters,tasmax
+1957,Historical Emissions,52.366,48.128,50.517,Milk Headwaters,tasmax
+1958,Historical Emissions,51.118,48.582,49.978,Milk Headwaters,tasmax
+1959,Historical Emissions,50.273,46.982,49.097,Milk Headwaters,tasmax
+1960,Historical Emissions,51.383,47.285,49.283,Milk Headwaters,tasmax
+1961,Historical Emissions,51.766,48.164,49.785,Milk Headwaters,tasmax
+1962,Historical Emissions,50.1,47.069,49.305,Milk Headwaters,tasmax
+1963,Historical Emissions,50.173,47.968,48.966,Milk Headwaters,tasmax
+1964,Historical Emissions,51.854,47.957,50.167,Milk Headwaters,tasmax
+1965,Historical Emissions,50.705,48.411,49.852,Milk Headwaters,tasmax
+1966,Historical Emissions,52.468,48.15,49.146,Milk Headwaters,tasmax
+1967,Historical Emissions,50.887,48.76,49.523,Milk Headwaters,tasmax
+1968,Historical Emissions,50.642,45.86,49.006,Milk Headwaters,tasmax
+1969,Historical Emissions,50.824,48.288,49.938,Milk Headwaters,tasmax
+1970,Historical Emissions,51.064,48.654,50.072,Milk Headwaters,tasmax
+1971,Historical Emissions,53.363,49.06,50.763,Milk Headwaters,tasmax
+1972,Historical Emissions,50.8,48.193,49.697,Milk Headwaters,tasmax
+1973,Historical Emissions,50.997,47.973,49.552,Milk Headwaters,tasmax
+1974,Historical Emissions,51.686,47.293,50.429,Milk Headwaters,tasmax
+1975,Historical Emissions,50.967,47.673,50.603,Milk Headwaters,tasmax
+1976,Historical Emissions,51.329,48.31,49.512,Milk Headwaters,tasmax
+1977,Historical Emissions,51.888,49.336,50.425,Milk Headwaters,tasmax
+1978,Historical Emissions,52.027,48.317,49.532,Milk Headwaters,tasmax
+1979,Historical Emissions,52.347,48.532,50.618,Milk Headwaters,tasmax
+1980,Historical Emissions,50.909,48.531,49.45,Milk Headwaters,tasmax
+1981,Historical Emissions,52.344,49.105,49.808,Milk Headwaters,tasmax
+1982,Historical Emissions,51.732,49.28,50.408,Milk Headwaters,tasmax
+1983,Historical Emissions,51.52,48.627,49.387,Milk Headwaters,tasmax
+1984,Historical Emissions,51.291,48.635,49.98,Milk Headwaters,tasmax
+1985,Historical Emissions,51.331,49.183,50.1,Milk Headwaters,tasmax
+1986,Historical Emissions,50.262,47.879,48.79,Milk Headwaters,tasmax
+1987,Historical Emissions,51.625,46.934,49.42,Milk Headwaters,tasmax
+1988,Historical Emissions,51.154,48.24,49.912,Milk Headwaters,tasmax
+1989,Historical Emissions,52.152,49.126,50.202,Milk Headwaters,tasmax
+1990,Historical Emissions,53.761,48.966,50.785,Milk Headwaters,tasmax
+1991,Historical Emissions,52.505,47.534,49.985,Milk Headwaters,tasmax
+1992,Historical Emissions,52.014,48.359,49.089,Milk Headwaters,tasmax
+1993,Historical Emissions,51.768,48.258,49.948,Milk Headwaters,tasmax
+1994,Historical Emissions,53.056,48.544,50,Milk Headwaters,tasmax
+1995,Historical Emissions,51.827,48.894,49.884,Milk Headwaters,tasmax
+1996,Historical Emissions,53.459,50.723,51.315,Milk Headwaters,tasmax
+1997,Historical Emissions,52.672,48.063,50.473,Milk Headwaters,tasmax
+1998,Historical Emissions,52.871,48.662,50.847,Milk Headwaters,tasmax
+1999,Historical Emissions,52.304,49.224,50.987,Milk Headwaters,tasmax
+2000,Historical Emissions,52.02,49.204,50.113,Milk Headwaters,tasmax
+2001,Historical Emissions,52.581,49.492,50.965,Milk Headwaters,tasmax
+2002,Historical Emissions,54.542,49.507,50.878,Milk Headwaters,tasmax
+2003,Historical Emissions,53.466,50.522,51.213,Milk Headwaters,tasmax
+2004,Historical Emissions,52.984,51.236,52.043,Milk Headwaters,tasmax
+2005,Historical Emissions,54.429,50.154,53.574,Milk Headwaters,tasmax
+2006,Historical Emissions,53.206,48.587,50.866,Milk Headwaters,tasmax
+2007,Historical Emissions,52.948,50.677,51.584,Milk Headwaters,tasmax
+2008,Historical Emissions,52.93,50.21,51.827,Milk Headwaters,tasmax
+2009,Historical Emissions,52.34,49.886,50.991,Milk Headwaters,tasmax
+2010,Historical Emissions,52.691,50.513,51.854,Milk Headwaters,tasmax
+2011,Historical Emissions,53.772,50.637,51.486,Milk Headwaters,tasmax
+2012,Historical Emissions,53.966,50.24,52.201,Milk Headwaters,tasmax
+2013,Historical Emissions,54.488,51.279,51.653,Milk Headwaters,tasmax
+2014,Historical Emissions,54.037,50.716,52.136,Milk Headwaters,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",55.355,51.499,52.808,Milk Headwaters,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",54.165,49.331,52.2,Milk Headwaters,tasmax
+2015,"High Emissions
+(SSP3-7.0)",53.741,50.14,52.118,Milk Headwaters,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",53.119,51.277,52.281,Milk Headwaters,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",54.54,50.582,52.963,Milk Headwaters,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",54.12,50.227,51.565,Milk Headwaters,tasmax
+2016,"High Emissions
+(SSP3-7.0)",55.76,50.66,53.239,Milk Headwaters,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",54.068,50.647,52.381,Milk Headwaters,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",53.36,50.952,52.067,Milk Headwaters,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",54.484,50.927,52.614,Milk Headwaters,tasmax
+2017,"High Emissions
+(SSP3-7.0)",53.384,51.41,52.143,Milk Headwaters,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",54.724,51.567,52.959,Milk Headwaters,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",53.553,51.197,51.505,Milk Headwaters,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",54.488,51.043,52.389,Milk Headwaters,tasmax
+2018,"High Emissions
+(SSP3-7.0)",54.273,49.57,51.686,Milk Headwaters,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",53.131,51.058,52.729,Milk Headwaters,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",55.173,52.414,54.192,Milk Headwaters,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",53.488,49.524,52.001,Milk Headwaters,tasmax
+2019,"High Emissions
+(SSP3-7.0)",55.42,50.023,51.163,Milk Headwaters,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",56.131,51.761,52.831,Milk Headwaters,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",56.082,51.41,52.603,Milk Headwaters,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",53.686,50.235,52.184,Milk Headwaters,tasmax
+2020,"High Emissions
+(SSP3-7.0)",53.909,50.407,52.503,Milk Headwaters,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",53.784,51.298,52.524,Milk Headwaters,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",55.791,51.056,52.919,Milk Headwaters,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",55.036,51.858,52.661,Milk Headwaters,tasmax
+2021,"High Emissions
+(SSP3-7.0)",53.947,51.976,53.043,Milk Headwaters,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",54.221,51.681,52.832,Milk Headwaters,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",53.998,50.907,52.284,Milk Headwaters,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",54.55,51.618,53.58,Milk Headwaters,tasmax
+2022,"High Emissions
+(SSP3-7.0)",53.714,50.82,52.297,Milk Headwaters,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",54.746,51.818,53.183,Milk Headwaters,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",53.367,52.33,52.952,Milk Headwaters,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",54.631,51.839,52.847,Milk Headwaters,tasmax
+2023,"High Emissions
+(SSP3-7.0)",55.651,50.865,52.721,Milk Headwaters,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",53.063,49.924,51.456,Milk Headwaters,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",54.695,51.076,52.996,Milk Headwaters,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",54.689,52.018,53.213,Milk Headwaters,tasmax
+2024,"High Emissions
+(SSP3-7.0)",55.643,51.249,52.691,Milk Headwaters,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",56.33,50.348,52.828,Milk Headwaters,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",54.887,52.786,53.686,Milk Headwaters,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",54.554,49.872,51.884,Milk Headwaters,tasmax
+2025,"High Emissions
+(SSP3-7.0)",55.37,52.563,53.413,Milk Headwaters,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",55.938,52.258,53.183,Milk Headwaters,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",55.025,51.085,52.978,Milk Headwaters,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",55.415,51.387,53.158,Milk Headwaters,tasmax
+2026,"High Emissions
+(SSP3-7.0)",54.773,49.578,53.09,Milk Headwaters,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",55.963,51.778,53.403,Milk Headwaters,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",55.23,50.864,52.518,Milk Headwaters,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",55.965,50.668,54.144,Milk Headwaters,tasmax
+2027,"High Emissions
+(SSP3-7.0)",55.273,51.674,54.133,Milk Headwaters,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",55.506,51.397,53.865,Milk Headwaters,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",55.283,51.543,53.025,Milk Headwaters,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",54.535,49.683,53.013,Milk Headwaters,tasmax
+2028,"High Emissions
+(SSP3-7.0)",55.094,51.878,53.493,Milk Headwaters,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",55.643,52.25,53.523,Milk Headwaters,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",56.619,52.494,54.882,Milk Headwaters,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",55.199,51.567,53.033,Milk Headwaters,tasmax
+2029,"High Emissions
+(SSP3-7.0)",55.599,50.561,53.202,Milk Headwaters,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",55.203,51.777,53.993,Milk Headwaters,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",55.516,52.027,52.429,Milk Headwaters,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",55.463,52.293,54.345,Milk Headwaters,tasmax
+2030,"High Emissions
+(SSP3-7.0)",56.386,51.801,52.433,Milk Headwaters,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",56.225,52.052,53.695,Milk Headwaters,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",54.978,51.53,53.82,Milk Headwaters,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",56.158,51.536,53.551,Milk Headwaters,tasmax
+2031,"High Emissions
+(SSP3-7.0)",56.457,51.704,54.364,Milk Headwaters,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",56.625,52.641,54.515,Milk Headwaters,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",55.229,51.411,54.119,Milk Headwaters,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",54.381,51.592,53.465,Milk Headwaters,tasmax
+2032,"High Emissions
+(SSP3-7.0)",56.279,51.546,52.039,Milk Headwaters,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",56.448,51.091,52.468,Milk Headwaters,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",55.976,52.157,53.718,Milk Headwaters,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",55.426,52.196,53.476,Milk Headwaters,tasmax
+2033,"High Emissions
+(SSP3-7.0)",55.216,51.916,53.899,Milk Headwaters,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",55.475,51.543,54.931,Milk Headwaters,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",55.821,51.633,52.774,Milk Headwaters,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",55.822,52.436,54.001,Milk Headwaters,tasmax
+2034,"High Emissions
+(SSP3-7.0)",56.409,52.317,54.771,Milk Headwaters,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",56.074,50.119,52.935,Milk Headwaters,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",56.167,51.729,54.633,Milk Headwaters,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",56.377,52.126,53.694,Milk Headwaters,tasmax
+2035,"High Emissions
+(SSP3-7.0)",54.772,51.106,53.67,Milk Headwaters,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",55.595,51.903,54.298,Milk Headwaters,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",56.019,53.453,54.726,Milk Headwaters,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",54.787,52.144,53.775,Milk Headwaters,tasmax
+2036,"High Emissions
+(SSP3-7.0)",54.916,52.743,54.272,Milk Headwaters,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",56.081,50.633,55.664,Milk Headwaters,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",56.259,53.536,55.129,Milk Headwaters,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",56.155,50.904,54.029,Milk Headwaters,tasmax
+2037,"High Emissions
+(SSP3-7.0)",55.655,50.103,53.144,Milk Headwaters,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",56.036,51.917,54.027,Milk Headwaters,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",56.208,52.613,53.856,Milk Headwaters,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",55.332,51.848,53.711,Milk Headwaters,tasmax
+2038,"High Emissions
+(SSP3-7.0)",56.444,52.401,53.749,Milk Headwaters,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",56.695,51.073,55.629,Milk Headwaters,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",56.61,51.58,54.396,Milk Headwaters,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",55.185,52.516,53.47,Milk Headwaters,tasmax
+2039,"High Emissions
+(SSP3-7.0)",56.352,53.653,54.771,Milk Headwaters,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",56.639,52.133,53.578,Milk Headwaters,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",55.595,51.391,53.941,Milk Headwaters,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",55.009,51.742,54.478,Milk Headwaters,tasmax
+2040,"High Emissions
+(SSP3-7.0)",56.234,52.563,54.385,Milk Headwaters,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",58.408,53.05,55.157,Milk Headwaters,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",55.543,50.595,53.343,Milk Headwaters,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",55.52,52.616,54.876,Milk Headwaters,tasmax
+2041,"High Emissions
+(SSP3-7.0)",56.032,52.667,53.569,Milk Headwaters,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",54.837,52.556,54.103,Milk Headwaters,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",57.113,52.41,53.95,Milk Headwaters,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",54.508,51.441,53.453,Milk Headwaters,tasmax
+2042,"High Emissions
+(SSP3-7.0)",55.34,51.699,54.06,Milk Headwaters,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",56.63,52.685,54.909,Milk Headwaters,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",55.305,52.495,54.537,Milk Headwaters,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",56.498,51.981,53.8,Milk Headwaters,tasmax
+2043,"High Emissions
+(SSP3-7.0)",55.147,51.053,54.239,Milk Headwaters,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",56.301,53.599,54.92,Milk Headwaters,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",56.042,53.337,54.258,Milk Headwaters,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",57.637,53.031,54.79,Milk Headwaters,tasmax
+2044,"High Emissions
+(SSP3-7.0)",55.892,52.84,54.586,Milk Headwaters,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",58.198,53.12,54.592,Milk Headwaters,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",55.522,53.258,54.435,Milk Headwaters,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",57.612,52.346,54.771,Milk Headwaters,tasmax
+2045,"High Emissions
+(SSP3-7.0)",55.689,52.181,54.227,Milk Headwaters,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",56.024,53.466,54.22,Milk Headwaters,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",57.531,51.931,55.039,Milk Headwaters,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",55.809,51.688,54.684,Milk Headwaters,tasmax
+2046,"High Emissions
+(SSP3-7.0)",55.684,53.359,54.415,Milk Headwaters,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",56.142,52.163,52.991,Milk Headwaters,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",56.401,53.281,55.269,Milk Headwaters,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",56.061,49.703,54.395,Milk Headwaters,tasmax
+2047,"High Emissions
+(SSP3-7.0)",55.357,53.162,54.111,Milk Headwaters,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",57.833,52.993,56.199,Milk Headwaters,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",55.614,52.549,53.627,Milk Headwaters,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",57.221,52.357,56.01,Milk Headwaters,tasmax
+2048,"High Emissions
+(SSP3-7.0)",57.19,51.938,55.19,Milk Headwaters,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",59.232,53.21,56.488,Milk Headwaters,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",55.522,52.325,52.788,Milk Headwaters,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",56.448,53.163,55.14,Milk Headwaters,tasmax
+2049,"High Emissions
+(SSP3-7.0)",56.737,53.09,55.365,Milk Headwaters,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",57.043,54.017,55.569,Milk Headwaters,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",56.52,51.417,54.629,Milk Headwaters,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",56.858,52.402,55.934,Milk Headwaters,tasmax
+2050,"High Emissions
+(SSP3-7.0)",57.081,53.276,54.931,Milk Headwaters,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",58.156,53.487,55.7,Milk Headwaters,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",56.278,52.317,55.049,Milk Headwaters,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",56.877,53.339,54.728,Milk Headwaters,tasmax
+2051,"High Emissions
+(SSP3-7.0)",57.201,53.345,55.101,Milk Headwaters,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",57.003,53.383,55.701,Milk Headwaters,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",55.306,52.548,54.629,Milk Headwaters,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",57.402,53.258,54.589,Milk Headwaters,tasmax
+2052,"High Emissions
+(SSP3-7.0)",57.329,52.233,54.127,Milk Headwaters,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",57.122,54.585,56.127,Milk Headwaters,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",55.575,52.269,54.009,Milk Headwaters,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",56.267,53.043,54.844,Milk Headwaters,tasmax
+2053,"High Emissions
+(SSP3-7.0)",58.666,53.906,57.595,Milk Headwaters,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",58.78,54.174,54.754,Milk Headwaters,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",56.94,54.135,55.179,Milk Headwaters,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",56.046,52.676,53.485,Milk Headwaters,tasmax
+2054,"High Emissions
+(SSP3-7.0)",56.824,52.851,54.253,Milk Headwaters,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",58.463,53.996,55.319,Milk Headwaters,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",56.185,54.028,55.06,Milk Headwaters,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",57.408,52.768,55.605,Milk Headwaters,tasmax
+2055,"High Emissions
+(SSP3-7.0)",56.999,53.705,54.905,Milk Headwaters,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",58.347,53.949,56.978,Milk Headwaters,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",56.63,52.96,55.262,Milk Headwaters,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",57.602,53.786,54.926,Milk Headwaters,tasmax
+2056,"High Emissions
+(SSP3-7.0)",57.844,53.283,55.196,Milk Headwaters,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",57.996,54.459,57.287,Milk Headwaters,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",55.79,50.843,54.68,Milk Headwaters,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",56.886,54.13,55.659,Milk Headwaters,tasmax
+2057,"High Emissions
+(SSP3-7.0)",57.801,52.63,53.679,Milk Headwaters,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",58.008,52.773,56.589,Milk Headwaters,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",57.357,53.299,54.855,Milk Headwaters,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",58.735,53.52,56.166,Milk Headwaters,tasmax
+2058,"High Emissions
+(SSP3-7.0)",57.071,53.903,56.109,Milk Headwaters,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",58.57,52.849,54.765,Milk Headwaters,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",57.383,53.034,53.947,Milk Headwaters,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",58.986,53.882,56.487,Milk Headwaters,tasmax
+2059,"High Emissions
+(SSP3-7.0)",59.713,53.899,56.533,Milk Headwaters,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",58.909,55.55,56.887,Milk Headwaters,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",57.185,52.926,54.277,Milk Headwaters,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",58.181,53.589,55.39,Milk Headwaters,tasmax
+2060,"High Emissions
+(SSP3-7.0)",57.265,53.524,55.358,Milk Headwaters,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",57.905,54.767,56.844,Milk Headwaters,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",57.304,53.065,54.305,Milk Headwaters,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",57.105,52.747,55.056,Milk Headwaters,tasmax
+2061,"High Emissions
+(SSP3-7.0)",57.718,54.366,56.36,Milk Headwaters,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",60.501,55.762,56.606,Milk Headwaters,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",56.456,53.545,54.28,Milk Headwaters,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",57.717,52.683,54.364,Milk Headwaters,tasmax
+2062,"High Emissions
+(SSP3-7.0)",56.938,55.069,55.982,Milk Headwaters,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",59.136,55.718,56.933,Milk Headwaters,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",56.187,53.228,54.277,Milk Headwaters,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",56.864,52.505,55.147,Milk Headwaters,tasmax
+2063,"High Emissions
+(SSP3-7.0)",57.773,54.474,55.587,Milk Headwaters,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",59.46,54.374,57.808,Milk Headwaters,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",57.293,52.206,55.703,Milk Headwaters,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",55.792,53.423,54.102,Milk Headwaters,tasmax
+2064,"High Emissions
+(SSP3-7.0)",57.129,54.163,55.711,Milk Headwaters,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",57.962,55.662,56.404,Milk Headwaters,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",56.623,51.32,54.307,Milk Headwaters,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",57.545,52.673,55.15,Milk Headwaters,tasmax
+2065,"High Emissions
+(SSP3-7.0)",57.817,54.311,55.377,Milk Headwaters,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",60.341,55.839,57.499,Milk Headwaters,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",57.219,53.601,55.559,Milk Headwaters,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",58.287,54.24,56.432,Milk Headwaters,tasmax
+2066,"High Emissions
+(SSP3-7.0)",58.117,53.441,55.099,Milk Headwaters,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",60.48,55.035,57.878,Milk Headwaters,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",56.618,54.629,55.066,Milk Headwaters,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",57.694,53.681,54.07,Milk Headwaters,tasmax
+2067,"High Emissions
+(SSP3-7.0)",59.535,56.083,57.432,Milk Headwaters,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",60.318,55.345,56.846,Milk Headwaters,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",57.131,52.432,54.696,Milk Headwaters,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",56.656,54.322,55.777,Milk Headwaters,tasmax
+2068,"High Emissions
+(SSP3-7.0)",58.459,53.868,55.169,Milk Headwaters,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",59.194,56.361,56.891,Milk Headwaters,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",57.862,53.589,55.61,Milk Headwaters,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",56.472,53.17,55.211,Milk Headwaters,tasmax
+2069,"High Emissions
+(SSP3-7.0)",61.999,55.671,56.507,Milk Headwaters,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",61.893,56.475,58.156,Milk Headwaters,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",56.107,52.874,54.519,Milk Headwaters,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",57.983,52.754,55.134,Milk Headwaters,tasmax
+2070,"High Emissions
+(SSP3-7.0)",59.973,55.653,56.669,Milk Headwaters,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",62.225,56.079,57.972,Milk Headwaters,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",58.522,52.209,54.313,Milk Headwaters,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",57.518,53.952,55.918,Milk Headwaters,tasmax
+2071,"High Emissions
+(SSP3-7.0)",58.96,56.008,56.724,Milk Headwaters,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",61.227,55.394,57.618,Milk Headwaters,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",57.376,53.658,54.691,Milk Headwaters,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",57.485,53.086,56.063,Milk Headwaters,tasmax
+2072,"High Emissions
+(SSP3-7.0)",59.472,53.719,57.181,Milk Headwaters,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",60.118,57.012,58.078,Milk Headwaters,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",56.004,52.482,54.085,Milk Headwaters,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",57.332,52.398,56.167,Milk Headwaters,tasmax
+2073,"High Emissions
+(SSP3-7.0)",58.278,55.393,57.315,Milk Headwaters,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",60.131,55.875,57.755,Milk Headwaters,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",58.357,51.612,55.638,Milk Headwaters,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",58.049,54.112,54.946,Milk Headwaters,tasmax
+2074,"High Emissions
+(SSP3-7.0)",58.813,54.813,55.887,Milk Headwaters,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",61.885,56.009,57.872,Milk Headwaters,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",58.573,51.013,54.246,Milk Headwaters,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",59.146,53.389,54.318,Milk Headwaters,tasmax
+2075,"High Emissions
+(SSP3-7.0)",60.044,53.991,55.504,Milk Headwaters,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",61.041,55.603,58.321,Milk Headwaters,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",57.225,51.061,54.147,Milk Headwaters,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",56.724,53.52,55.011,Milk Headwaters,tasmax
+2076,"High Emissions
+(SSP3-7.0)",59.992,55.262,57.111,Milk Headwaters,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",61.011,55.901,57.847,Milk Headwaters,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",56.883,53.322,56.005,Milk Headwaters,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",58.438,54.615,56.134,Milk Headwaters,tasmax
+2077,"High Emissions
+(SSP3-7.0)",59.496,55.005,57.504,Milk Headwaters,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",61.386,56.482,58.374,Milk Headwaters,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",57.119,53.033,54.699,Milk Headwaters,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",57.383,54.392,55.975,Milk Headwaters,tasmax
+2078,"High Emissions
+(SSP3-7.0)",60.038,55.121,57.032,Milk Headwaters,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",59.146,56.066,57.245,Milk Headwaters,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",57.131,53.232,54.704,Milk Headwaters,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",58.249,53.969,55.883,Milk Headwaters,tasmax
+2079,"High Emissions
+(SSP3-7.0)",59.242,55.178,57.499,Milk Headwaters,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",61.255,56.504,58.649,Milk Headwaters,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",56.438,52.715,53.712,Milk Headwaters,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",58.11,53.215,55.129,Milk Headwaters,tasmax
+2080,"High Emissions
+(SSP3-7.0)",61.465,56.006,57.406,Milk Headwaters,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",61.736,57.468,59.071,Milk Headwaters,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",57.948,52.746,53.938,Milk Headwaters,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",58.073,54.637,55.961,Milk Headwaters,tasmax
+2081,"High Emissions
+(SSP3-7.0)",60.834,54.722,56.34,Milk Headwaters,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",63.328,58.02,60.332,Milk Headwaters,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",57.515,52.505,55.929,Milk Headwaters,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",59.802,54.588,55.98,Milk Headwaters,tasmax
+2082,"High Emissions
+(SSP3-7.0)",60.174,54.402,57.027,Milk Headwaters,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",63.673,56.734,60.398,Milk Headwaters,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",57.365,52.805,55.369,Milk Headwaters,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",59.244,53.444,54.447,Milk Headwaters,tasmax
+2083,"High Emissions
+(SSP3-7.0)",60.308,54.315,58.076,Milk Headwaters,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",61.957,57.752,61.325,Milk Headwaters,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",57.819,52.217,53.638,Milk Headwaters,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",59.123,54.215,56.319,Milk Headwaters,tasmax
+2084,"High Emissions
+(SSP3-7.0)",61.675,56.831,58.67,Milk Headwaters,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",62.593,58.016,59.65,Milk Headwaters,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",56.883,51.174,54.129,Milk Headwaters,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",58.005,53.79,56.302,Milk Headwaters,tasmax
+2085,"High Emissions
+(SSP3-7.0)",59.848,55.316,57.1,Milk Headwaters,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",62.944,57.673,60.422,Milk Headwaters,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",57.542,53.904,55.701,Milk Headwaters,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",58.51,55.204,56.411,Milk Headwaters,tasmax
+2086,"High Emissions
+(SSP3-7.0)",60.657,56.071,58.602,Milk Headwaters,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",62.95,57.453,60.85,Milk Headwaters,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",55.243,52.893,53.808,Milk Headwaters,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",59.186,54.673,56.435,Milk Headwaters,tasmax
+2087,"High Emissions
+(SSP3-7.0)",61.811,55.507,58.366,Milk Headwaters,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",62.136,58.242,59.255,Milk Headwaters,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",58.124,52.518,53.48,Milk Headwaters,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",58.382,55.923,57.232,Milk Headwaters,tasmax
+2088,"High Emissions
+(SSP3-7.0)",61.411,56.024,58.322,Milk Headwaters,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",62.85,58.84,60.785,Milk Headwaters,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",55.597,52.733,54.193,Milk Headwaters,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",59.188,54.348,56.56,Milk Headwaters,tasmax
+2089,"High Emissions
+(SSP3-7.0)",60.874,55.813,59.352,Milk Headwaters,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",63.768,58.257,60.74,Milk Headwaters,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",56.22,53.147,55.103,Milk Headwaters,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",58.215,54.409,56.984,Milk Headwaters,tasmax
+2090,"High Emissions
+(SSP3-7.0)",62.323,57.472,59.036,Milk Headwaters,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",64.38,59.373,60.927,Milk Headwaters,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",56.649,52.895,55.045,Milk Headwaters,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",57.574,54.924,57.107,Milk Headwaters,tasmax
+2091,"High Emissions
+(SSP3-7.0)",61.082,57.455,59.726,Milk Headwaters,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",63.502,57.77,59.918,Milk Headwaters,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",56.894,52.047,55.83,Milk Headwaters,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",60.396,54.655,57.207,Milk Headwaters,tasmax
+2092,"High Emissions
+(SSP3-7.0)",59.739,55.688,57.58,Milk Headwaters,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",63.758,59.105,60.51,Milk Headwaters,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",57,51.716,54.075,Milk Headwaters,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",58.365,54.23,56.245,Milk Headwaters,tasmax
+2093,"High Emissions
+(SSP3-7.0)",62.281,56.679,58.399,Milk Headwaters,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",64.083,59.108,60.47,Milk Headwaters,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",57.711,52.08,53.548,Milk Headwaters,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",60.073,53.18,57.307,Milk Headwaters,tasmax
+2094,"High Emissions
+(SSP3-7.0)",61.882,56.947,59.328,Milk Headwaters,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",64.96,58.705,63.123,Milk Headwaters,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",57.519,52.638,55.885,Milk Headwaters,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",59.911,55.13,57.985,Milk Headwaters,tasmax
+2095,"High Emissions
+(SSP3-7.0)",63.031,57.253,60.508,Milk Headwaters,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",63.517,58.468,60.575,Milk Headwaters,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",56.437,52.656,55.334,Milk Headwaters,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",58.653,55.41,57.516,Milk Headwaters,tasmax
+2096,"High Emissions
+(SSP3-7.0)",61.666,57.189,59.277,Milk Headwaters,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",64.207,59.171,59.87,Milk Headwaters,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",57.895,52.756,54.088,Milk Headwaters,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",59.979,55.301,57.477,Milk Headwaters,tasmax
+2097,"High Emissions
+(SSP3-7.0)",65.05,56.462,60.041,Milk Headwaters,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",65.472,58.455,60.731,Milk Headwaters,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",55.757,52.558,53.901,Milk Headwaters,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",57.805,54.841,56.738,Milk Headwaters,tasmax
+2098,"High Emissions
+(SSP3-7.0)",63.087,57.376,59.269,Milk Headwaters,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",63.365,58.703,62.018,Milk Headwaters,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",58.072,52.25,55.563,Milk Headwaters,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",59.037,53.544,56.394,Milk Headwaters,tasmax
+2099,"High Emissions
+(SSP3-7.0)",64.017,56.758,58.198,Milk Headwaters,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",65.829,59.906,61.875,Milk Headwaters,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",56.202,51.908,52.737,Milk Headwaters,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",60.494,54.597,56.531,Milk Headwaters,tasmax
+2100,"High Emissions
+(SSP3-7.0)",61.541,57.377,59.729,Milk Headwaters,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",65.4,58.825,60.817,Milk Headwaters,tasmax

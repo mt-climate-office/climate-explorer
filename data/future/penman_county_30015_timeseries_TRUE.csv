@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,40.833,35.897,37.526,Chouteau County,penman
+1951,Historical Emissions,39.836,35.727,38.06,Chouteau County,penman
+1952,Historical Emissions,39.405,34.664,37.401,Chouteau County,penman
+1953,Historical Emissions,39.067,33.742,37.426,Chouteau County,penman
+1954,Historical Emissions,38.22,33.566,35.742,Chouteau County,penman
+1955,Historical Emissions,41.034,32.763,35.477,Chouteau County,penman
+1956,Historical Emissions,41.388,34.067,37.705,Chouteau County,penman
+1957,Historical Emissions,41.23,33.364,35.146,Chouteau County,penman
+1958,Historical Emissions,37.168,32.682,35.232,Chouteau County,penman
+1959,Historical Emissions,37.893,32.293,34.845,Chouteau County,penman
+1960,Historical Emissions,37.616,33.967,35.944,Chouteau County,penman
+1961,Historical Emissions,38.222,34.888,36.532,Chouteau County,penman
+1962,Historical Emissions,38.961,32.083,35.778,Chouteau County,penman
+1963,Historical Emissions,36.12,33.3,35.268,Chouteau County,penman
+1964,Historical Emissions,39.305,33.306,36.628,Chouteau County,penman
+1965,Historical Emissions,39.249,34.617,36.423,Chouteau County,penman
+1966,Historical Emissions,40.215,33.752,35.33,Chouteau County,penman
+1967,Historical Emissions,39.228,33.722,36.078,Chouteau County,penman
+1968,Historical Emissions,36.249,33.228,34.961,Chouteau County,penman
+1969,Historical Emissions,38.103,33.283,36.906,Chouteau County,penman
+1970,Historical Emissions,37.899,33.594,36.447,Chouteau County,penman
+1971,Historical Emissions,40.762,34.53,37.703,Chouteau County,penman
+1972,Historical Emissions,37.611,34.471,36.344,Chouteau County,penman
+1973,Historical Emissions,39.719,33.341,35.586,Chouteau County,penman
+1974,Historical Emissions,39.46,33.081,35.586,Chouteau County,penman
+1975,Historical Emissions,38.422,32.795,36.246,Chouteau County,penman
+1976,Historical Emissions,37.919,34.413,35.928,Chouteau County,penman
+1977,Historical Emissions,39.595,33.887,35.688,Chouteau County,penman
+1978,Historical Emissions,37.968,33.347,35.453,Chouteau County,penman
+1979,Historical Emissions,38.776,32.793,37.581,Chouteau County,penman
+1980,Historical Emissions,39.805,32.375,37.134,Chouteau County,penman
+1981,Historical Emissions,38.892,34.266,36.549,Chouteau County,penman
+1982,Historical Emissions,38.165,35.225,36.626,Chouteau County,penman
+1983,Historical Emissions,37.656,33.552,36.078,Chouteau County,penman
+1984,Historical Emissions,38.853,33.576,36.613,Chouteau County,penman
+1985,Historical Emissions,40.134,34.659,36.715,Chouteau County,penman
+1986,Historical Emissions,35.832,33.335,34.886,Chouteau County,penman
+1987,Historical Emissions,39.162,32.805,35.836,Chouteau County,penman
+1988,Historical Emissions,39.118,33.532,35.281,Chouteau County,penman
+1989,Historical Emissions,39.201,34.017,38.167,Chouteau County,penman
+1990,Historical Emissions,42.277,34.527,37.332,Chouteau County,penman
+1991,Historical Emissions,40.327,32.223,36.901,Chouteau County,penman
+1992,Historical Emissions,39.894,33.812,34.904,Chouteau County,penman
+1993,Historical Emissions,38.657,34.101,35.684,Chouteau County,penman
+1994,Historical Emissions,40.994,33.883,36.176,Chouteau County,penman
+1995,Historical Emissions,41.894,35.879,36.561,Chouteau County,penman
+1996,Historical Emissions,43.889,37.797,39.187,Chouteau County,penman
+1997,Historical Emissions,40.153,34.898,38.327,Chouteau County,penman
+1998,Historical Emissions,39.088,34.265,36.224,Chouteau County,penman
+1999,Historical Emissions,38.114,33.778,36.82,Chouteau County,penman
+2000,Historical Emissions,39.768,34.858,37.063,Chouteau County,penman
+2001,Historical Emissions,38.353,34.177,37.827,Chouteau County,penman
+2002,Historical Emissions,40.843,34.639,36.586,Chouteau County,penman
+2003,Historical Emissions,41.586,35.861,38.546,Chouteau County,penman
+2004,Historical Emissions,42.056,36.742,37.931,Chouteau County,penman
+2005,Historical Emissions,41.61,36.527,38.485,Chouteau County,penman
+2006,Historical Emissions,39.636,34.786,38.313,Chouteau County,penman
+2007,Historical Emissions,39.921,34.721,37.917,Chouteau County,penman
+2008,Historical Emissions,41.056,35.899,38.585,Chouteau County,penman
+2009,Historical Emissions,39.055,34.1,37.802,Chouteau County,penman
+2010,Historical Emissions,40.782,35.605,38.814,Chouteau County,penman
+2011,Historical Emissions,39.586,35.386,37.471,Chouteau County,penman
+2012,Historical Emissions,41.256,37.477,40.391,Chouteau County,penman
+2013,Historical Emissions,41.879,36.95,40.503,Chouteau County,penman
+2014,Historical Emissions,41.901,36.868,40.07,Chouteau County,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",41.777,35.573,39.985,Chouteau County,penman
+2015,"Middle of the Road
+(SSP2-4.5)",42.41,35.347,38.478,Chouteau County,penman
+2015,"High Emissions
+(SSP3-7.0)",40.372,37.009,39.013,Chouteau County,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",42.906,36.503,38.462,Chouteau County,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",40.273,37.26,39.199,Chouteau County,penman
+2016,"Middle of the Road
+(SSP2-4.5)",40.072,35.615,37.37,Chouteau County,penman
+2016,"High Emissions
+(SSP3-7.0)",43.18,37.327,38.186,Chouteau County,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",41.902,35.215,36.777,Chouteau County,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",39.268,36.061,37.109,Chouteau County,penman
+2017,"Middle of the Road
+(SSP2-4.5)",41.53,35.769,38.895,Chouteau County,penman
+2017,"High Emissions
+(SSP3-7.0)",40.663,35.259,39.131,Chouteau County,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",41.881,35.88,40.18,Chouteau County,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",39.978,35.869,38.941,Chouteau County,penman
+2018,"Middle of the Road
+(SSP2-4.5)",42.337,36.402,38.106,Chouteau County,penman
+2018,"High Emissions
+(SSP3-7.0)",39.418,33.419,37.167,Chouteau County,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",41.08,35.034,37.419,Chouteau County,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",41.692,38.496,39.994,Chouteau County,penman
+2019,"Middle of the Road
+(SSP2-4.5)",41.492,35.649,39.052,Chouteau County,penman
+2019,"High Emissions
+(SSP3-7.0)",41.558,35.639,39.059,Chouteau County,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",45.264,36.929,38.602,Chouteau County,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",44.177,34.731,37.912,Chouteau County,penman
+2020,"Middle of the Road
+(SSP2-4.5)",42.122,34.803,40.437,Chouteau County,penman
+2020,"High Emissions
+(SSP3-7.0)",41.447,35.655,37.684,Chouteau County,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",41.363,37.009,38.307,Chouteau County,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",43.493,36.763,40.005,Chouteau County,penman
+2021,"Middle of the Road
+(SSP2-4.5)",45.977,34.429,40.074,Chouteau County,penman
+2021,"High Emissions
+(SSP3-7.0)",42.947,36.047,39.122,Chouteau County,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",42.179,35.958,37.105,Chouteau County,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",41.505,36.456,39.666,Chouteau County,penman
+2022,"Middle of the Road
+(SSP2-4.5)",42.325,35.415,40.637,Chouteau County,penman
+2022,"High Emissions
+(SSP3-7.0)",39.27,34.844,37.181,Chouteau County,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",43.109,36.194,39.407,Chouteau County,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",40.506,36.84,37.788,Chouteau County,penman
+2023,"Middle of the Road
+(SSP2-4.5)",42.253,36.092,39.049,Chouteau County,penman
+2023,"High Emissions
+(SSP3-7.0)",42.853,35.901,39.345,Chouteau County,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",39.334,33.971,36.686,Chouteau County,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",42.146,36.041,39.222,Chouteau County,penman
+2024,"Middle of the Road
+(SSP2-4.5)",43.653,36.571,37.661,Chouteau County,penman
+2024,"High Emissions
+(SSP3-7.0)",43.137,38.074,39.632,Chouteau County,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",42.17,35.598,37.494,Chouteau County,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",41.824,37.207,40.828,Chouteau County,penman
+2025,"Middle of the Road
+(SSP2-4.5)",40.993,34.929,37.236,Chouteau County,penman
+2025,"High Emissions
+(SSP3-7.0)",45.635,38.197,38.937,Chouteau County,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",41.973,37.139,40.878,Chouteau County,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",41.495,34.953,38.216,Chouteau County,penman
+2026,"Middle of the Road
+(SSP2-4.5)",41.798,36.73,38.041,Chouteau County,penman
+2026,"High Emissions
+(SSP3-7.0)",39.906,34.51,36.115,Chouteau County,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",42.075,36.391,38.682,Chouteau County,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",43.691,36.303,38.428,Chouteau County,penman
+2027,"Middle of the Road
+(SSP2-4.5)",43.789,35.409,39.335,Chouteau County,penman
+2027,"High Emissions
+(SSP3-7.0)",42.906,36.675,38.195,Chouteau County,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",42.797,38.582,40.466,Chouteau County,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",42.492,36.108,38.612,Chouteau County,penman
+2028,"Middle of the Road
+(SSP2-4.5)",38.612,35.574,36.923,Chouteau County,penman
+2028,"High Emissions
+(SSP3-7.0)",40.173,38.717,39.344,Chouteau County,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",43.608,36.137,39.305,Chouteau County,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",42.869,37.939,40.709,Chouteau County,penman
+2029,"Middle of the Road
+(SSP2-4.5)",41.478,35.284,37.661,Chouteau County,penman
+2029,"High Emissions
+(SSP3-7.0)",42.666,36,39.969,Chouteau County,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",42.778,37.519,39.643,Chouteau County,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",41.442,37.148,38.487,Chouteau County,penman
+2030,"Middle of the Road
+(SSP2-4.5)",45.067,38.491,41.419,Chouteau County,penman
+2030,"High Emissions
+(SSP3-7.0)",43.976,35.567,39.659,Chouteau County,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",44.95,35.681,39.906,Chouteau County,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",42.589,37.134,40.287,Chouteau County,penman
+2031,"Middle of the Road
+(SSP2-4.5)",42.671,37.212,40.114,Chouteau County,penman
+2031,"High Emissions
+(SSP3-7.0)",45.894,36.899,42.111,Chouteau County,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",44.12,37.193,41.229,Chouteau County,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",40.141,36.507,38.451,Chouteau County,penman
+2032,"Middle of the Road
+(SSP2-4.5)",42.453,36.79,38.161,Chouteau County,penman
+2032,"High Emissions
+(SSP3-7.0)",45.592,37.863,40.188,Chouteau County,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",44.211,35.525,39.329,Chouteau County,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",42.37,37.336,40.548,Chouteau County,penman
+2033,"Middle of the Road
+(SSP2-4.5)",43.947,35.62,40.425,Chouteau County,penman
+2033,"High Emissions
+(SSP3-7.0)",42.283,36.126,38.798,Chouteau County,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",43.029,38.054,40.485,Chouteau County,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",46.668,35.851,40.432,Chouteau County,penman
+2034,"Middle of the Road
+(SSP2-4.5)",41.557,37.436,39.33,Chouteau County,penman
+2034,"High Emissions
+(SSP3-7.0)",47.515,37.24,41.871,Chouteau County,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",44.121,35.304,39.822,Chouteau County,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",46.618,37.898,40.894,Chouteau County,penman
+2035,"Middle of the Road
+(SSP2-4.5)",43.865,36.292,37.925,Chouteau County,penman
+2035,"High Emissions
+(SSP3-7.0)",42.329,35.129,39.346,Chouteau County,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",43.058,37.207,39.763,Chouteau County,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",42.561,38.08,41.198,Chouteau County,penman
+2036,"Middle of the Road
+(SSP2-4.5)",43.621,36.722,39.041,Chouteau County,penman
+2036,"High Emissions
+(SSP3-7.0)",42.808,36.708,38.604,Chouteau County,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",42.044,34.105,40.552,Chouteau County,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",43.671,36.791,40.944,Chouteau County,penman
+2037,"Middle of the Road
+(SSP2-4.5)",41.845,37.865,39.011,Chouteau County,penman
+2037,"High Emissions
+(SSP3-7.0)",42.506,34.815,35.876,Chouteau County,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",45.198,36.013,39.742,Chouteau County,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",41.726,38.434,39.375,Chouteau County,penman
+2038,"Middle of the Road
+(SSP2-4.5)",41.476,36.454,39.209,Chouteau County,penman
+2038,"High Emissions
+(SSP3-7.0)",43.848,37.212,40.848,Chouteau County,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",44.189,36.329,38.824,Chouteau County,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",43.765,36.324,38.304,Chouteau County,penman
+2039,"Middle of the Road
+(SSP2-4.5)",44.235,37.335,38.949,Chouteau County,penman
+2039,"High Emissions
+(SSP3-7.0)",43.706,37.782,41.864,Chouteau County,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",42.824,36.43,38.564,Chouteau County,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",42.723,36.039,40.871,Chouteau County,penman
+2040,"Middle of the Road
+(SSP2-4.5)",42.793,38.848,40.851,Chouteau County,penman
+2040,"High Emissions
+(SSP3-7.0)",43.321,38.097,39.263,Chouteau County,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",45.809,37.589,41.97,Chouteau County,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",44.356,36.348,38.258,Chouteau County,penman
+2041,"Middle of the Road
+(SSP2-4.5)",44.062,36.821,39.637,Chouteau County,penman
+2041,"High Emissions
+(SSP3-7.0)",41.812,36.625,38.538,Chouteau County,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",41.356,36.959,38.977,Chouteau County,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",46.055,34.986,38.887,Chouteau County,penman
+2042,"Middle of the Road
+(SSP2-4.5)",41.888,37.263,39.983,Chouteau County,penman
+2042,"High Emissions
+(SSP3-7.0)",40.884,37.21,39.052,Chouteau County,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",43.555,36.92,40.442,Chouteau County,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",41.86,35.907,39.396,Chouteau County,penman
+2043,"Middle of the Road
+(SSP2-4.5)",43.449,36.004,40.106,Chouteau County,penman
+2043,"High Emissions
+(SSP3-7.0)",41.185,36.889,38.561,Chouteau County,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",44.965,36.935,40.441,Chouteau County,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",43.069,37.823,40.064,Chouteau County,penman
+2044,"Middle of the Road
+(SSP2-4.5)",46.111,38.227,39.557,Chouteau County,penman
+2044,"High Emissions
+(SSP3-7.0)",43.237,37.821,39.932,Chouteau County,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",43.521,38.396,41.455,Chouteau County,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",41.208,36.289,39.286,Chouteau County,penman
+2045,"Middle of the Road
+(SSP2-4.5)",45.438,37.478,41.799,Chouteau County,penman
+2045,"High Emissions
+(SSP3-7.0)",44.427,36.337,40.395,Chouteau County,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",41.783,38.196,39.157,Chouteau County,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",45.342,38.425,40.102,Chouteau County,penman
+2046,"Middle of the Road
+(SSP2-4.5)",40.472,35.37,39.719,Chouteau County,penman
+2046,"High Emissions
+(SSP3-7.0)",40.804,38.465,40.113,Chouteau County,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",44.68,35.793,40.655,Chouteau County,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",42.931,38.231,39.855,Chouteau County,penman
+2047,"Middle of the Road
+(SSP2-4.5)",42.853,36.074,38.737,Chouteau County,penman
+2047,"High Emissions
+(SSP3-7.0)",42.364,37.71,40.218,Chouteau County,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",46.721,38.689,40.583,Chouteau County,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",40.524,37.631,38.951,Chouteau County,penman
+2048,"Middle of the Road
+(SSP2-4.5)",43.941,37.95,41.458,Chouteau County,penman
+2048,"High Emissions
+(SSP3-7.0)",44.277,36.304,38.861,Chouteau County,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",49.743,37.015,43.913,Chouteau County,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",43.298,37.66,39.421,Chouteau County,penman
+2049,"Middle of the Road
+(SSP2-4.5)",43.194,36.644,42.4,Chouteau County,penman
+2049,"High Emissions
+(SSP3-7.0)",40.672,38.734,39.688,Chouteau County,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",44.296,37.876,40.68,Chouteau County,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",44.415,35.651,39.485,Chouteau County,penman
+2050,"Middle of the Road
+(SSP2-4.5)",44.053,37.054,42.646,Chouteau County,penman
+2050,"High Emissions
+(SSP3-7.0)",43.432,37.935,42.324,Chouteau County,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",47.014,38.523,40.611,Chouteau County,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",43.624,37.463,39.623,Chouteau County,penman
+2051,"Middle of the Road
+(SSP2-4.5)",44.911,37.545,41.307,Chouteau County,penman
+2051,"High Emissions
+(SSP3-7.0)",41.755,39.204,40.927,Chouteau County,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",44.942,40.17,40.825,Chouteau County,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",42.984,37.742,39.802,Chouteau County,penman
+2052,"Middle of the Road
+(SSP2-4.5)",43.012,38.644,40.899,Chouteau County,penman
+2052,"High Emissions
+(SSP3-7.0)",40.765,36.31,38.748,Chouteau County,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",42.791,39.188,40.731,Chouteau County,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",45.153,35.934,38.334,Chouteau County,penman
+2053,"Middle of the Road
+(SSP2-4.5)",43.345,37.174,41.235,Chouteau County,penman
+2053,"High Emissions
+(SSP3-7.0)",45.32,40.305,43.022,Chouteau County,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",47.004,38.397,42.089,Chouteau County,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",43.624,38.206,40.582,Chouteau County,penman
+2054,"Middle of the Road
+(SSP2-4.5)",44.281,34.689,41.079,Chouteau County,penman
+2054,"High Emissions
+(SSP3-7.0)",44.926,37.801,39.639,Chouteau County,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",45.581,39.656,42.913,Chouteau County,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",44.158,39.609,41.62,Chouteau County,penman
+2055,"Middle of the Road
+(SSP2-4.5)",45.398,36.797,41.287,Chouteau County,penman
+2055,"High Emissions
+(SSP3-7.0)",45.256,39.475,41.55,Chouteau County,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",45.873,39.175,42.45,Chouteau County,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",43.746,38.347,40.264,Chouteau County,penman
+2056,"Middle of the Road
+(SSP2-4.5)",41.931,37.937,40.329,Chouteau County,penman
+2056,"High Emissions
+(SSP3-7.0)",43.879,37.512,39.697,Chouteau County,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",43.688,39.908,42.139,Chouteau County,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",41.639,34.902,38.827,Chouteau County,penman
+2057,"Middle of the Road
+(SSP2-4.5)",44.074,40.284,42.354,Chouteau County,penman
+2057,"High Emissions
+(SSP3-7.0)",43.007,37.503,40.214,Chouteau County,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",44.391,37.463,39.457,Chouteau County,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",42.559,35.932,40.204,Chouteau County,penman
+2058,"Middle of the Road
+(SSP2-4.5)",44.952,38.586,42.022,Chouteau County,penman
+2058,"High Emissions
+(SSP3-7.0)",43.476,37.465,40.658,Chouteau County,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",43.84,37.758,40.332,Chouteau County,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",44.369,38.216,40.68,Chouteau County,penman
+2059,"Middle of the Road
+(SSP2-4.5)",49.434,37.626,40.983,Chouteau County,penman
+2059,"High Emissions
+(SSP3-7.0)",46.323,38.923,41.501,Chouteau County,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",45.248,40.745,42.948,Chouteau County,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",43.278,37.487,39.767,Chouteau County,penman
+2060,"Middle of the Road
+(SSP2-4.5)",46.213,38.36,39.82,Chouteau County,penman
+2060,"High Emissions
+(SSP3-7.0)",43.268,37.064,40.264,Chouteau County,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",44.732,38.003,40.995,Chouteau County,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",43.949,37.666,40.05,Chouteau County,penman
+2061,"Middle of the Road
+(SSP2-4.5)",43.057,37.879,41.172,Chouteau County,penman
+2061,"High Emissions
+(SSP3-7.0)",44.202,38.388,42.195,Chouteau County,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",47.486,40.27,43.927,Chouteau County,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",44.626,37.128,40.012,Chouteau County,penman
+2062,"Middle of the Road
+(SSP2-4.5)",42.431,38.402,40.672,Chouteau County,penman
+2062,"High Emissions
+(SSP3-7.0)",43.854,38.853,41.301,Chouteau County,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",46.536,39.55,41.691,Chouteau County,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",44.241,38.781,40.342,Chouteau County,penman
+2063,"Middle of the Road
+(SSP2-4.5)",42.51,36.979,39.219,Chouteau County,penman
+2063,"High Emissions
+(SSP3-7.0)",44.399,39.499,41.965,Chouteau County,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",46.879,40.049,43.766,Chouteau County,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",47.939,35.532,38.797,Chouteau County,penman
+2064,"Middle of the Road
+(SSP2-4.5)",42.736,36.503,41.588,Chouteau County,penman
+2064,"High Emissions
+(SSP3-7.0)",45.585,37.895,39.297,Chouteau County,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",45.604,40.336,43.231,Chouteau County,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",44.037,35.242,39.345,Chouteau County,penman
+2065,"Middle of the Road
+(SSP2-4.5)",43.33,37.456,41.705,Chouteau County,penman
+2065,"High Emissions
+(SSP3-7.0)",45.163,39.56,41.191,Chouteau County,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",48.469,40.256,42.598,Chouteau County,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",46.51,37.337,40.204,Chouteau County,penman
+2066,"Middle of the Road
+(SSP2-4.5)",44.36,37.433,41.619,Chouteau County,penman
+2066,"High Emissions
+(SSP3-7.0)",46.299,39.098,40.542,Chouteau County,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",47.957,39.177,43.279,Chouteau County,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",44.589,39.182,39.718,Chouteau County,penman
+2067,"Middle of the Road
+(SSP2-4.5)",43.36,37.516,40.7,Chouteau County,penman
+2067,"High Emissions
+(SSP3-7.0)",51.001,39.232,42.8,Chouteau County,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",47.912,38.868,41.773,Chouteau County,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",42.388,37.554,40.632,Chouteau County,penman
+2068,"Middle of the Road
+(SSP2-4.5)",43.832,35.986,39.387,Chouteau County,penman
+2068,"High Emissions
+(SSP3-7.0)",47.49,39.4,40.908,Chouteau County,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",47.303,38.766,42.362,Chouteau County,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",44.911,37.658,41.31,Chouteau County,penman
+2069,"Middle of the Road
+(SSP2-4.5)",44.127,38.821,39.828,Chouteau County,penman
+2069,"High Emissions
+(SSP3-7.0)",49.599,41.788,43.215,Chouteau County,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",53.049,38.566,44.424,Chouteau County,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",43.175,38.029,40.717,Chouteau County,penman
+2070,"Middle of the Road
+(SSP2-4.5)",44.234,37.073,40.196,Chouteau County,penman
+2070,"High Emissions
+(SSP3-7.0)",46.071,40.475,42.018,Chouteau County,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",48.636,39.97,43.378,Chouteau County,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",49.693,36.605,41.904,Chouteau County,penman
+2071,"Middle of the Road
+(SSP2-4.5)",43.047,39.949,41.453,Chouteau County,penman
+2071,"High Emissions
+(SSP3-7.0)",47.266,38.3,43.72,Chouteau County,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",48.194,40.999,43.803,Chouteau County,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",44.606,38.966,41.26,Chouteau County,penman
+2072,"Middle of the Road
+(SSP2-4.5)",42.965,36.998,40.118,Chouteau County,penman
+2072,"High Emissions
+(SSP3-7.0)",46.018,38.417,42.828,Chouteau County,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",46.045,40.644,44.726,Chouteau County,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",42.887,38.058,39.955,Chouteau County,penman
+2073,"Middle of the Road
+(SSP2-4.5)",46.452,34.081,39.565,Chouteau County,penman
+2073,"High Emissions
+(SSP3-7.0)",45.812,40.484,43.236,Chouteau County,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",46.934,40.526,42.517,Chouteau County,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",45.158,35.997,39.854,Chouteau County,penman
+2074,"Middle of the Road
+(SSP2-4.5)",45.565,36.705,40.683,Chouteau County,penman
+2074,"High Emissions
+(SSP3-7.0)",44.598,40.373,41.742,Chouteau County,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",50.974,40.245,41.734,Chouteau County,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",45.304,36.076,40.853,Chouteau County,penman
+2075,"Middle of the Road
+(SSP2-4.5)",46.935,37.758,40.115,Chouteau County,penman
+2075,"High Emissions
+(SSP3-7.0)",46.874,38.121,42.003,Chouteau County,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",49.998,40.535,43.451,Chouteau County,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",42.084,36.378,40.346,Chouteau County,penman
+2076,"Middle of the Road
+(SSP2-4.5)",40.423,38.033,39.08,Chouteau County,penman
+2076,"High Emissions
+(SSP3-7.0)",47.721,40.174,41.988,Chouteau County,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",50.718,39.45,44.654,Chouteau County,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",47.022,36.913,40.602,Chouteau County,penman
+2077,"Middle of the Road
+(SSP2-4.5)",44.642,38.148,40.619,Chouteau County,penman
+2077,"High Emissions
+(SSP3-7.0)",46.752,39.057,42.092,Chouteau County,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",50.181,42.175,43.847,Chouteau County,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",44.344,38.212,40.853,Chouteau County,penman
+2078,"Middle of the Road
+(SSP2-4.5)",43.499,38.877,40.604,Chouteau County,penman
+2078,"High Emissions
+(SSP3-7.0)",46.793,39.031,43.773,Chouteau County,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",46.111,39.013,42.021,Chouteau County,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",43.939,38.922,40.952,Chouteau County,penman
+2079,"Middle of the Road
+(SSP2-4.5)",43.972,39.145,39.949,Chouteau County,penman
+2079,"High Emissions
+(SSP3-7.0)",47.275,39.082,41.116,Chouteau County,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",49.666,40.934,45.056,Chouteau County,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",43.759,35.983,38.836,Chouteau County,penman
+2080,"Middle of the Road
+(SSP2-4.5)",47.422,38.119,40.648,Chouteau County,penman
+2080,"High Emissions
+(SSP3-7.0)",45.818,40.441,42.884,Chouteau County,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",47.944,40.189,45.951,Chouteau County,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",46.096,36.984,39.601,Chouteau County,penman
+2081,"Middle of the Road
+(SSP2-4.5)",43.895,39.152,40.897,Chouteau County,penman
+2081,"High Emissions
+(SSP3-7.0)",49.939,38.125,42.989,Chouteau County,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",49.394,43.965,45.742,Chouteau County,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",45.053,39.702,42.164,Chouteau County,penman
+2082,"Middle of the Road
+(SSP2-4.5)",45.848,38.262,39.676,Chouteau County,penman
+2082,"High Emissions
+(SSP3-7.0)",48.306,39.717,41.83,Chouteau County,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",50.379,42.384,44.525,Chouteau County,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",46.016,38.695,42.161,Chouteau County,penman
+2083,"Middle of the Road
+(SSP2-4.5)",45.073,37.528,42.224,Chouteau County,penman
+2083,"High Emissions
+(SSP3-7.0)",46.368,38.911,43.774,Chouteau County,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",51.398,41.23,46.136,Chouteau County,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",46.128,36.725,40.688,Chouteau County,penman
+2084,"Middle of the Road
+(SSP2-4.5)",46.239,38.975,43.451,Chouteau County,penman
+2084,"High Emissions
+(SSP3-7.0)",51.302,42.111,45.589,Chouteau County,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",49.872,40.267,46.942,Chouteau County,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",45.697,35.699,37.878,Chouteau County,penman
+2085,"Middle of the Road
+(SSP2-4.5)",44.484,36.692,41.134,Chouteau County,penman
+2085,"High Emissions
+(SSP3-7.0)",47.127,40.276,42.355,Chouteau County,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",49.416,41.271,46.406,Chouteau County,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",44.71,38.854,40.437,Chouteau County,penman
+2086,"Middle of the Road
+(SSP2-4.5)",45.976,37.567,41.652,Chouteau County,penman
+2086,"High Emissions
+(SSP3-7.0)",48.543,40.39,43.555,Chouteau County,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",48.627,42.269,45.951,Chouteau County,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",42.548,36.517,38.659,Chouteau County,penman
+2087,"Middle of the Road
+(SSP2-4.5)",45.406,39.683,42.731,Chouteau County,penman
+2087,"High Emissions
+(SSP3-7.0)",51.455,38.031,43.64,Chouteau County,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",49.227,40.812,45.697,Chouteau County,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",44.424,36.848,39.612,Chouteau County,penman
+2088,"Middle of the Road
+(SSP2-4.5)",48.588,39.857,44.844,Chouteau County,penman
+2088,"High Emissions
+(SSP3-7.0)",48.085,40.29,43.524,Chouteau County,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",51.934,42.846,47.536,Chouteau County,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",42.306,37.753,40.953,Chouteau County,penman
+2089,"Middle of the Road
+(SSP2-4.5)",46.432,37.809,41.773,Chouteau County,penman
+2089,"High Emissions
+(SSP3-7.0)",48.188,40.375,46.368,Chouteau County,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",52.012,43.632,47.421,Chouteau County,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",42.873,38.03,39.706,Chouteau County,penman
+2090,"Middle of the Road
+(SSP2-4.5)",44.09,38.839,41.188,Chouteau County,penman
+2090,"High Emissions
+(SSP3-7.0)",53.006,42.307,46.995,Chouteau County,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",50.481,42.68,46.55,Chouteau County,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",42.423,37.86,40.015,Chouteau County,penman
+2091,"Middle of the Road
+(SSP2-4.5)",44.566,37.119,42.573,Chouteau County,penman
+2091,"High Emissions
+(SSP3-7.0)",48.259,43.01,44.392,Chouteau County,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",50.165,41.746,45.155,Chouteau County,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",46.096,38.213,39.955,Chouteau County,penman
+2092,"Middle of the Road
+(SSP2-4.5)",46.332,37.503,44.327,Chouteau County,penman
+2092,"High Emissions
+(SSP3-7.0)",46.088,39.96,44.321,Chouteau County,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",53.079,44.446,48.096,Chouteau County,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",44.574,36.333,39.413,Chouteau County,penman
+2093,"Middle of the Road
+(SSP2-4.5)",44.808,38.195,40.6,Chouteau County,penman
+2093,"High Emissions
+(SSP3-7.0)",46.229,40.057,42.31,Chouteau County,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",50.018,44.555,47.815,Chouteau County,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",44.354,36.874,39.194,Chouteau County,penman
+2094,"Middle of the Road
+(SSP2-4.5)",48.594,35.674,44.995,Chouteau County,penman
+2094,"High Emissions
+(SSP3-7.0)",46.086,42.422,44.648,Chouteau County,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",53.392,43.054,45.599,Chouteau County,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",46.768,37.632,42.162,Chouteau County,penman
+2095,"Middle of the Road
+(SSP2-4.5)",45.223,42.171,43.669,Chouteau County,penman
+2095,"High Emissions
+(SSP3-7.0)",50.836,40.138,45.331,Chouteau County,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",51.255,43.287,46.028,Chouteau County,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",44.587,36.991,39.719,Chouteau County,penman
+2096,"Middle of the Road
+(SSP2-4.5)",46.868,40.111,43.101,Chouteau County,penman
+2096,"High Emissions
+(SSP3-7.0)",51.627,40.718,44.167,Chouteau County,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",53.926,41.813,44.53,Chouteau County,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",48.417,38.372,40.596,Chouteau County,penman
+2097,"Middle of the Road
+(SSP2-4.5)",49.608,39.8,41.899,Chouteau County,penman
+2097,"High Emissions
+(SSP3-7.0)",52.464,38.571,45.729,Chouteau County,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",53.171,42.979,46.03,Chouteau County,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",43.71,37.331,40.127,Chouteau County,penman
+2098,"Middle of the Road
+(SSP2-4.5)",46.235,40.304,43.246,Chouteau County,penman
+2098,"High Emissions
+(SSP3-7.0)",51.66,41.386,42.687,Chouteau County,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",50.035,44.13,48.289,Chouteau County,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",43.182,38.253,39.376,Chouteau County,penman
+2099,"Middle of the Road
+(SSP2-4.5)",44.287,38.553,42.515,Chouteau County,penman
+2099,"High Emissions
+(SSP3-7.0)",50.6,40.574,45.652,Chouteau County,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",54.387,41.906,48.655,Chouteau County,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",44.024,34.173,39.107,Chouteau County,penman
+2100,"Middle of the Road
+(SSP2-4.5)",46.669,38.032,41.37,Chouteau County,penman
+2100,"High Emissions
+(SSP3-7.0)",47.318,41.243,44.401,Chouteau County,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",53.093,44.178,45.366,Chouteau County,penman

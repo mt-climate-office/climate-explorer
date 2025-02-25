@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1,0,0.667,Upper Henrys,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1,0,0.667,Upper Henrys,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.05,0,1,Upper Henrys,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1,0,0.833,Upper Henrys,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.1,0,0.75,Upper Henrys,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.167,0,1,Upper Henrys,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.167,0.517,1,Upper Henrys,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.167,0,1,Upper Henrys,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),2,0,1,Upper Henrys,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.333,0,1,Upper Henrys,con-wet

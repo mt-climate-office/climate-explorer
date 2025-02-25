@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,26.333,13.889,18.667,South Fork Flathead,con-dry
+1951,Historical Emissions,21.067,14.378,17.333,South Fork Flathead,con-dry
+1952,Historical Emissions,21.934,15.889,19.667,South Fork Flathead,con-dry
+1953,Historical Emissions,29.556,13.645,19.111,South Fork Flathead,con-dry
+1954,Historical Emissions,25.4,11.356,15.667,South Fork Flathead,con-dry
+1955,Historical Emissions,29,15.2,17.556,South Fork Flathead,con-dry
+1956,Historical Emissions,32.733,16.978,19.889,South Fork Flathead,con-dry
+1957,Historical Emissions,29.6,11.822,17.111,South Fork Flathead,con-dry
+1958,Historical Emissions,20.845,10.466,16.556,South Fork Flathead,con-dry
+1959,Historical Emissions,16.622,11.844,13.222,South Fork Flathead,con-dry
+1960,Historical Emissions,19.911,12.622,17.889,South Fork Flathead,con-dry
+1961,Historical Emissions,29.511,13.333,19,South Fork Flathead,con-dry
+1962,Historical Emissions,38.133,13.911,17.889,South Fork Flathead,con-dry
+1963,Historical Emissions,18.822,14.978,16.333,South Fork Flathead,con-dry
+1964,Historical Emissions,24.6,14.222,17.889,South Fork Flathead,con-dry
+1965,Historical Emissions,29.2,16.578,21.111,South Fork Flathead,con-dry
+1966,Historical Emissions,24.156,12.333,16.556,South Fork Flathead,con-dry
+1967,Historical Emissions,23.622,12.778,18,South Fork Flathead,con-dry
+1968,Historical Emissions,24.044,15,17.778,South Fork Flathead,con-dry
+1969,Historical Emissions,22.378,15.622,17.889,South Fork Flathead,con-dry
+1970,Historical Emissions,21.489,11.867,19.667,South Fork Flathead,con-dry
+1971,Historical Emissions,24.911,11.445,18.222,South Fork Flathead,con-dry
+1972,Historical Emissions,25.111,16.311,18.556,South Fork Flathead,con-dry
+1973,Historical Emissions,25.155,11.933,17.667,South Fork Flathead,con-dry
+1974,Historical Emissions,25.178,11.689,20.667,South Fork Flathead,con-dry
+1975,Historical Emissions,22.245,12.378,17.333,South Fork Flathead,con-dry
+1976,Historical Emissions,36.645,15.467,17.667,South Fork Flathead,con-dry
+1977,Historical Emissions,21.644,12.933,17,South Fork Flathead,con-dry
+1978,Historical Emissions,24.378,12.067,18.444,South Fork Flathead,con-dry
+1979,Historical Emissions,31.155,19.178,21.778,South Fork Flathead,con-dry
+1980,Historical Emissions,24.978,13.156,18.889,South Fork Flathead,con-dry
+1981,Historical Emissions,23.222,13.378,16,South Fork Flathead,con-dry
+1982,Historical Emissions,21.267,12.311,16,South Fork Flathead,con-dry
+1983,Historical Emissions,31.622,16.445,18.222,South Fork Flathead,con-dry
+1984,Historical Emissions,19.844,13.4,15.889,South Fork Flathead,con-dry
+1985,Historical Emissions,19.844,14.866,16.889,South Fork Flathead,con-dry
+1986,Historical Emissions,22.867,14,18,South Fork Flathead,con-dry
+1987,Historical Emissions,26.267,13.733,17.778,South Fork Flathead,con-dry
+1988,Historical Emissions,20.467,14.134,16.222,South Fork Flathead,con-dry
+1989,Historical Emissions,26.222,12.867,18,South Fork Flathead,con-dry
+1990,Historical Emissions,25.267,12.089,18,South Fork Flathead,con-dry
+1991,Historical Emissions,29.978,14.022,20.889,South Fork Flathead,con-dry
+1992,Historical Emissions,34.644,14.844,18.556,South Fork Flathead,con-dry
+1993,Historical Emissions,26.045,14.423,18.667,South Fork Flathead,con-dry
+1994,Historical Emissions,23.644,13.4,16.111,South Fork Flathead,con-dry
+1995,Historical Emissions,20.822,13.534,19,South Fork Flathead,con-dry
+1996,Historical Emissions,29.267,14.356,23,South Fork Flathead,con-dry
+1997,Historical Emissions,22.311,15.044,17.444,South Fork Flathead,con-dry
+1998,Historical Emissions,24.734,12.778,18.222,South Fork Flathead,con-dry
+1999,Historical Emissions,27.422,13.933,18.556,South Fork Flathead,con-dry
+2000,Historical Emissions,25.733,14.822,19.889,South Fork Flathead,con-dry
+2001,Historical Emissions,22.333,11.022,15.111,South Fork Flathead,con-dry
+2002,Historical Emissions,29.111,13.044,18,South Fork Flathead,con-dry
+2003,Historical Emissions,25.622,11.089,19.556,South Fork Flathead,con-dry
+2004,Historical Emissions,27.133,15.578,20.222,South Fork Flathead,con-dry
+2005,Historical Emissions,25.111,15.555,19.778,South Fork Flathead,con-dry
+2006,Historical Emissions,24.2,16.378,20.778,South Fork Flathead,con-dry
+2007,Historical Emissions,20.489,15,16.889,South Fork Flathead,con-dry
+2008,Historical Emissions,25.911,13.644,16.333,South Fork Flathead,con-dry
+2009,Historical Emissions,21.445,13.134,17.556,South Fork Flathead,con-dry
+2010,Historical Emissions,19.444,13.356,15.889,South Fork Flathead,con-dry
+2011,Historical Emissions,22.911,14.156,17,South Fork Flathead,con-dry
+2012,Historical Emissions,20.133,13.155,19.222,South Fork Flathead,con-dry
+2013,Historical Emissions,31,16.222,21.556,South Fork Flathead,con-dry
+2014,Historical Emissions,36.578,12.534,17.667,South Fork Flathead,con-dry
+2015,"Moderating Emissions
+(SSP1-2.6)",30.666,15.4,20.444,South Fork Flathead,con-dry
+2015,"Middle of the Road
+(SSP2-4.5)",40.822,14.644,23,South Fork Flathead,con-dry
+2015,"High Emissions
+(SSP3-7.0)",24.355,14.689,19,South Fork Flathead,con-dry
+2015,"Accelerating Emissions
+(SSP5-8.5)",29.355,14.734,17.889,South Fork Flathead,con-dry
+2016,"Moderating Emissions
+(SSP1-2.6)",29.556,12.467,18.778,South Fork Flathead,con-dry
+2016,"Middle of the Road
+(SSP2-4.5)",27.333,16.645,20.333,South Fork Flathead,con-dry
+2016,"High Emissions
+(SSP3-7.0)",33.755,13.556,19.111,South Fork Flathead,con-dry
+2016,"Accelerating Emissions
+(SSP5-8.5)",31.333,13.822,19.889,South Fork Flathead,con-dry
+2017,"Moderating Emissions
+(SSP1-2.6)",29.378,13.511,18.556,South Fork Flathead,con-dry
+2017,"Middle of the Road
+(SSP2-4.5)",28.377,15.378,20.333,South Fork Flathead,con-dry
+2017,"High Emissions
+(SSP3-7.0)",25.822,15.444,20,South Fork Flathead,con-dry
+2017,"Accelerating Emissions
+(SSP5-8.5)",26.289,14.133,18.333,South Fork Flathead,con-dry
+2018,"Moderating Emissions
+(SSP1-2.6)",30.889,16.289,21.222,South Fork Flathead,con-dry
+2018,"Middle of the Road
+(SSP2-4.5)",26.067,12.2,18.778,South Fork Flathead,con-dry
+2018,"High Emissions
+(SSP3-7.0)",21.289,12.267,15.333,South Fork Flathead,con-dry
+2018,"Accelerating Emissions
+(SSP5-8.5)",25.466,12.8,23.111,South Fork Flathead,con-dry
+2019,"Moderating Emissions
+(SSP1-2.6)",31.756,13.867,27.222,South Fork Flathead,con-dry
+2019,"Middle of the Road
+(SSP2-4.5)",25.933,14.378,20.333,South Fork Flathead,con-dry
+2019,"High Emissions
+(SSP3-7.0)",28.911,13.222,21.444,South Fork Flathead,con-dry
+2019,"Accelerating Emissions
+(SSP5-8.5)",24.666,11.155,20.667,South Fork Flathead,con-dry
+2020,"Moderating Emissions
+(SSP1-2.6)",26.667,13.467,20.667,South Fork Flathead,con-dry
+2020,"Middle of the Road
+(SSP2-4.5)",19.556,12.955,16.111,South Fork Flathead,con-dry
+2020,"High Emissions
+(SSP3-7.0)",28.733,15.266,17.222,South Fork Flathead,con-dry
+2020,"Accelerating Emissions
+(SSP5-8.5)",26.466,13.066,19,South Fork Flathead,con-dry
+2021,"Moderating Emissions
+(SSP1-2.6)",27.955,15.289,19.667,South Fork Flathead,con-dry
+2021,"Middle of the Road
+(SSP2-4.5)",29.133,17.711,22.889,South Fork Flathead,con-dry
+2021,"High Emissions
+(SSP3-7.0)",28.311,11.333,18.778,South Fork Flathead,con-dry
+2021,"Accelerating Emissions
+(SSP5-8.5)",23.422,14.756,17.889,South Fork Flathead,con-dry
+2022,"Moderating Emissions
+(SSP1-2.6)",29.045,13.2,17.667,South Fork Flathead,con-dry
+2022,"Middle of the Road
+(SSP2-4.5)",22.2,11.689,17.556,South Fork Flathead,con-dry
+2022,"High Emissions
+(SSP3-7.0)",20.689,13.178,17.111,South Fork Flathead,con-dry
+2022,"Accelerating Emissions
+(SSP5-8.5)",20.6,12.133,14.889,South Fork Flathead,con-dry
+2023,"Moderating Emissions
+(SSP1-2.6)",25,13.667,17.667,South Fork Flathead,con-dry
+2023,"Middle of the Road
+(SSP2-4.5)",27.644,14.867,18.222,South Fork Flathead,con-dry
+2023,"High Emissions
+(SSP3-7.0)",26.711,13.044,19,South Fork Flathead,con-dry
+2023,"Accelerating Emissions
+(SSP5-8.5)",23.667,10.6,14.111,South Fork Flathead,con-dry
+2024,"Moderating Emissions
+(SSP1-2.6)",21.889,12.289,18,South Fork Flathead,con-dry
+2024,"Middle of the Road
+(SSP2-4.5)",35.622,13.534,19.111,South Fork Flathead,con-dry
+2024,"High Emissions
+(SSP3-7.0)",25.222,14.444,20,South Fork Flathead,con-dry
+2024,"Accelerating Emissions
+(SSP5-8.5)",28.4,13.223,16.556,South Fork Flathead,con-dry
+2025,"Moderating Emissions
+(SSP1-2.6)",30.155,12.845,18.333,South Fork Flathead,con-dry
+2025,"Middle of the Road
+(SSP2-4.5)",21.066,14.2,16.333,South Fork Flathead,con-dry
+2025,"High Emissions
+(SSP3-7.0)",27.556,15.245,17.556,South Fork Flathead,con-dry
+2025,"Accelerating Emissions
+(SSP5-8.5)",29.911,14.156,21.444,South Fork Flathead,con-dry
+2026,"Moderating Emissions
+(SSP1-2.6)",22.578,13.911,18.778,South Fork Flathead,con-dry
+2026,"Middle of the Road
+(SSP2-4.5)",28.755,11.178,16.333,South Fork Flathead,con-dry
+2026,"High Emissions
+(SSP3-7.0)",24.911,14.978,19.889,South Fork Flathead,con-dry
+2026,"Accelerating Emissions
+(SSP5-8.5)",25.489,16.911,20.111,South Fork Flathead,con-dry
+2027,"Moderating Emissions
+(SSP1-2.6)",35.622,15.089,19,South Fork Flathead,con-dry
+2027,"Middle of the Road
+(SSP2-4.5)",33.644,10.8,17,South Fork Flathead,con-dry
+2027,"High Emissions
+(SSP3-7.0)",23.845,15.689,18.667,South Fork Flathead,con-dry
+2027,"Accelerating Emissions
+(SSP5-8.5)",28.511,11.911,20.667,South Fork Flathead,con-dry
+2028,"Moderating Emissions
+(SSP1-2.6)",27.133,13.044,16.444,South Fork Flathead,con-dry
+2028,"Middle of the Road
+(SSP2-4.5)",25.045,13.267,18.222,South Fork Flathead,con-dry
+2028,"High Emissions
+(SSP3-7.0)",27.289,18.378,19,South Fork Flathead,con-dry
+2028,"Accelerating Emissions
+(SSP5-8.5)",23.955,12.334,17.556,South Fork Flathead,con-dry
+2029,"Moderating Emissions
+(SSP1-2.6)",31.378,14.644,26,South Fork Flathead,con-dry
+2029,"Middle of the Road
+(SSP2-4.5)",30.289,14.467,18,South Fork Flathead,con-dry
+2029,"High Emissions
+(SSP3-7.0)",27.511,14.023,18.889,South Fork Flathead,con-dry
+2029,"Accelerating Emissions
+(SSP5-8.5)",23.044,11.933,19.111,South Fork Flathead,con-dry
+2030,"Moderating Emissions
+(SSP1-2.6)",33.578,13.111,17,South Fork Flathead,con-dry
+2030,"Middle of the Road
+(SSP2-4.5)",28.6,16.334,19.778,South Fork Flathead,con-dry
+2030,"High Emissions
+(SSP3-7.0)",28.111,11.978,20,South Fork Flathead,con-dry
+2030,"Accelerating Emissions
+(SSP5-8.5)",23.622,14.2,21,South Fork Flathead,con-dry
+2031,"Moderating Emissions
+(SSP1-2.6)",31.111,15.689,21,South Fork Flathead,con-dry
+2031,"Middle of the Road
+(SSP2-4.5)",21.844,12.489,16.222,South Fork Flathead,con-dry
+2031,"High Emissions
+(SSP3-7.0)",31.555,14.311,20.778,South Fork Flathead,con-dry
+2031,"Accelerating Emissions
+(SSP5-8.5)",25.155,17.244,20.667,South Fork Flathead,con-dry
+2032,"Moderating Emissions
+(SSP1-2.6)",23.689,15.733,16.556,South Fork Flathead,con-dry
+2032,"Middle of the Road
+(SSP2-4.5)",24.956,14.978,17.889,South Fork Flathead,con-dry
+2032,"High Emissions
+(SSP3-7.0)",26.422,12.711,16.222,South Fork Flathead,con-dry
+2032,"Accelerating Emissions
+(SSP5-8.5)",25.845,15.8,18.778,South Fork Flathead,con-dry
+2033,"Moderating Emissions
+(SSP1-2.6)",27.911,17.022,22.333,South Fork Flathead,con-dry
+2033,"Middle of the Road
+(SSP2-4.5)",53.378,14.755,17.111,South Fork Flathead,con-dry
+2033,"High Emissions
+(SSP3-7.0)",22.422,12.911,16.889,South Fork Flathead,con-dry
+2033,"Accelerating Emissions
+(SSP5-8.5)",25.844,15.6,18,South Fork Flathead,con-dry
+2034,"Moderating Emissions
+(SSP1-2.6)",24.311,14.066,15.444,South Fork Flathead,con-dry
+2034,"Middle of the Road
+(SSP2-4.5)",21.8,14.534,16.444,South Fork Flathead,con-dry
+2034,"High Emissions
+(SSP3-7.0)",33.222,14.289,23.444,South Fork Flathead,con-dry
+2034,"Accelerating Emissions
+(SSP5-8.5)",18.733,12.6,15.556,South Fork Flathead,con-dry
+2035,"Moderating Emissions
+(SSP1-2.6)",33.844,14.934,20.889,South Fork Flathead,con-dry
+2035,"Middle of the Road
+(SSP2-4.5)",24.355,13.534,18.778,South Fork Flathead,con-dry
+2035,"High Emissions
+(SSP3-7.0)",24.245,13.778,17.778,South Fork Flathead,con-dry
+2035,"Accelerating Emissions
+(SSP5-8.5)",19.555,14.245,16.333,South Fork Flathead,con-dry
+2036,"Moderating Emissions
+(SSP1-2.6)",29.289,10.956,16.111,South Fork Flathead,con-dry
+2036,"Middle of the Road
+(SSP2-4.5)",35.889,16.622,21,South Fork Flathead,con-dry
+2036,"High Emissions
+(SSP3-7.0)",26.067,12.711,18.778,South Fork Flathead,con-dry
+2036,"Accelerating Emissions
+(SSP5-8.5)",25.355,14.089,20.222,South Fork Flathead,con-dry
+2037,"Moderating Emissions
+(SSP1-2.6)",21.756,13.156,15.556,South Fork Flathead,con-dry
+2037,"Middle of the Road
+(SSP2-4.5)",25.178,13.911,18.222,South Fork Flathead,con-dry
+2037,"High Emissions
+(SSP3-7.0)",21.289,12.4,16.778,South Fork Flathead,con-dry
+2037,"Accelerating Emissions
+(SSP5-8.5)",28.089,13.334,23.111,South Fork Flathead,con-dry
+2038,"Moderating Emissions
+(SSP1-2.6)",36.045,14.355,17.556,South Fork Flathead,con-dry
+2038,"Middle of the Road
+(SSP2-4.5)",26.645,16.689,22,South Fork Flathead,con-dry
+2038,"High Emissions
+(SSP3-7.0)",28.578,15.378,22.222,South Fork Flathead,con-dry
+2038,"Accelerating Emissions
+(SSP5-8.5)",29.6,13.867,22.556,South Fork Flathead,con-dry
+2039,"Moderating Emissions
+(SSP1-2.6)",24.756,16.933,21.333,South Fork Flathead,con-dry
+2039,"Middle of the Road
+(SSP2-4.5)",30.556,16.223,19.778,South Fork Flathead,con-dry
+2039,"High Emissions
+(SSP3-7.0)",27.223,16.8,19.222,South Fork Flathead,con-dry
+2039,"Accelerating Emissions
+(SSP5-8.5)",30.111,11.245,16.778,South Fork Flathead,con-dry
+2040,"Moderating Emissions
+(SSP1-2.6)",22.378,12.911,15.556,South Fork Flathead,con-dry
+2040,"Middle of the Road
+(SSP2-4.5)",42.689,15.311,19.111,South Fork Flathead,con-dry
+2040,"High Emissions
+(SSP3-7.0)",20.045,15.4,16.556,South Fork Flathead,con-dry
+2040,"Accelerating Emissions
+(SSP5-8.5)",40.667,12.578,17.111,South Fork Flathead,con-dry
+2041,"Moderating Emissions
+(SSP1-2.6)",34.555,14.489,18.444,South Fork Flathead,con-dry
+2041,"Middle of the Road
+(SSP2-4.5)",36.667,15.867,20.667,South Fork Flathead,con-dry
+2041,"High Emissions
+(SSP3-7.0)",28.244,16.089,19.778,South Fork Flathead,con-dry
+2041,"Accelerating Emissions
+(SSP5-8.5)",24.978,10.422,15.222,South Fork Flathead,con-dry
+2042,"Moderating Emissions
+(SSP1-2.6)",31.445,14.178,22.556,South Fork Flathead,con-dry
+2042,"Middle of the Road
+(SSP2-4.5)",33.422,13.556,17.556,South Fork Flathead,con-dry
+2042,"High Emissions
+(SSP3-7.0)",27.289,15.155,21.333,South Fork Flathead,con-dry
+2042,"Accelerating Emissions
+(SSP5-8.5)",27.133,13.778,20.556,South Fork Flathead,con-dry
+2043,"Moderating Emissions
+(SSP1-2.6)",35.266,13.689,23.111,South Fork Flathead,con-dry
+2043,"Middle of the Road
+(SSP2-4.5)",41,12.8,17.333,South Fork Flathead,con-dry
+2043,"High Emissions
+(SSP3-7.0)",22,12.467,20.111,South Fork Flathead,con-dry
+2043,"Accelerating Emissions
+(SSP5-8.5)",29.311,17,23.556,South Fork Flathead,con-dry
+2044,"Moderating Emissions
+(SSP1-2.6)",28,16.177,18.556,South Fork Flathead,con-dry
+2044,"Middle of the Road
+(SSP2-4.5)",29.466,16.023,19.778,South Fork Flathead,con-dry
+2044,"High Emissions
+(SSP3-7.0)",26.378,12.756,16.444,South Fork Flathead,con-dry
+2044,"Accelerating Emissions
+(SSP5-8.5)",25.778,15.045,22.444,South Fork Flathead,con-dry
+2045,"Moderating Emissions
+(SSP1-2.6)",27.045,12.689,17.222,South Fork Flathead,con-dry
+2045,"Middle of the Road
+(SSP2-4.5)",27.867,13.578,17.889,South Fork Flathead,con-dry
+2045,"High Emissions
+(SSP3-7.0)",24.666,14.6,19.778,South Fork Flathead,con-dry
+2045,"Accelerating Emissions
+(SSP5-8.5)",29.644,12.578,19.778,South Fork Flathead,con-dry
+2046,"Moderating Emissions
+(SSP1-2.6)",22.578,15.111,19.222,South Fork Flathead,con-dry
+2046,"Middle of the Road
+(SSP2-4.5)",22.022,14.689,15.222,South Fork Flathead,con-dry
+2046,"High Emissions
+(SSP3-7.0)",25.111,13.689,17.444,South Fork Flathead,con-dry
+2046,"Accelerating Emissions
+(SSP5-8.5)",30,13.044,20.222,South Fork Flathead,con-dry
+2047,"Moderating Emissions
+(SSP1-2.6)",24.777,15.822,21.111,South Fork Flathead,con-dry
+2047,"Middle of the Road
+(SSP2-4.5)",29.022,14.689,18.222,South Fork Flathead,con-dry
+2047,"High Emissions
+(SSP3-7.0)",28.423,15.844,21.444,South Fork Flathead,con-dry
+2047,"Accelerating Emissions
+(SSP5-8.5)",29.111,17.645,21.222,South Fork Flathead,con-dry
+2048,"Moderating Emissions
+(SSP1-2.6)",23.111,13.711,18.333,South Fork Flathead,con-dry
+2048,"Middle of the Road
+(SSP2-4.5)",24.889,16.355,18.333,South Fork Flathead,con-dry
+2048,"High Emissions
+(SSP3-7.0)",20.711,14.067,15.778,South Fork Flathead,con-dry
+2048,"Accelerating Emissions
+(SSP5-8.5)",32.6,15.644,23.556,South Fork Flathead,con-dry
+2049,"Moderating Emissions
+(SSP1-2.6)",31.845,13.955,14.889,South Fork Flathead,con-dry
+2049,"Middle of the Road
+(SSP2-4.5)",25.289,12.266,18.556,South Fork Flathead,con-dry
+2049,"High Emissions
+(SSP3-7.0)",25.778,12.955,18.222,South Fork Flathead,con-dry
+2049,"Accelerating Emissions
+(SSP5-8.5)",24.467,16.534,18.333,South Fork Flathead,con-dry
+2050,"Moderating Emissions
+(SSP1-2.6)",23.333,11.534,15,South Fork Flathead,con-dry
+2050,"Middle of the Road
+(SSP2-4.5)",34.822,11.2,17.556,South Fork Flathead,con-dry
+2050,"High Emissions
+(SSP3-7.0)",27.956,15.489,24.556,South Fork Flathead,con-dry
+2050,"Accelerating Emissions
+(SSP5-8.5)",30.489,18.178,20.667,South Fork Flathead,con-dry
+2051,"Moderating Emissions
+(SSP1-2.6)",30.245,12.511,17.111,South Fork Flathead,con-dry
+2051,"Middle of the Road
+(SSP2-4.5)",29.489,14.422,21.111,South Fork Flathead,con-dry
+2051,"High Emissions
+(SSP3-7.0)",28.777,13.156,21.667,South Fork Flathead,con-dry
+2051,"Accelerating Emissions
+(SSP5-8.5)",25.067,15.556,21.778,South Fork Flathead,con-dry
+2052,"Moderating Emissions
+(SSP1-2.6)",22.822,13.489,20,South Fork Flathead,con-dry
+2052,"Middle of the Road
+(SSP2-4.5)",26.2,13.689,20.333,South Fork Flathead,con-dry
+2052,"High Emissions
+(SSP3-7.0)",25.222,12.845,16.889,South Fork Flathead,con-dry
+2052,"Accelerating Emissions
+(SSP5-8.5)",23.333,14.156,20,South Fork Flathead,con-dry
+2053,"Moderating Emissions
+(SSP1-2.6)",27.467,14.8,16.889,South Fork Flathead,con-dry
+2053,"Middle of the Road
+(SSP2-4.5)",37.889,12.578,17.111,South Fork Flathead,con-dry
+2053,"High Emissions
+(SSP3-7.0)",34.155,15.955,17.444,South Fork Flathead,con-dry
+2053,"Accelerating Emissions
+(SSP5-8.5)",23.866,12.133,14.444,South Fork Flathead,con-dry
+2054,"Moderating Emissions
+(SSP1-2.6)",36.8,12.667,19,South Fork Flathead,con-dry
+2054,"Middle of the Road
+(SSP2-4.5)",20.755,13.333,16.667,South Fork Flathead,con-dry
+2054,"High Emissions
+(SSP3-7.0)",25.978,15.378,18.889,South Fork Flathead,con-dry
+2054,"Accelerating Emissions
+(SSP5-8.5)",22.533,13.378,16.667,South Fork Flathead,con-dry
+2055,"Moderating Emissions
+(SSP1-2.6)",31.311,11.644,22.333,South Fork Flathead,con-dry
+2055,"Middle of the Road
+(SSP2-4.5)",29.356,14.511,22.111,South Fork Flathead,con-dry
+2055,"High Emissions
+(SSP3-7.0)",27.689,12.911,21.667,South Fork Flathead,con-dry
+2055,"Accelerating Emissions
+(SSP5-8.5)",23.6,14.956,17.333,South Fork Flathead,con-dry
+2056,"Moderating Emissions
+(SSP1-2.6)",31.911,15.533,19.778,South Fork Flathead,con-dry
+2056,"Middle of the Road
+(SSP2-4.5)",28.022,17.533,21.556,South Fork Flathead,con-dry
+2056,"High Emissions
+(SSP3-7.0)",24.089,13.578,19,South Fork Flathead,con-dry
+2056,"Accelerating Emissions
+(SSP5-8.5)",27.711,16.911,20.222,South Fork Flathead,con-dry
+2057,"Moderating Emissions
+(SSP1-2.6)",25.666,12.377,18.889,South Fork Flathead,con-dry
+2057,"Middle of the Road
+(SSP2-4.5)",23.823,15.245,16.778,South Fork Flathead,con-dry
+2057,"High Emissions
+(SSP3-7.0)",25.778,15.4,19.889,South Fork Flathead,con-dry
+2057,"Accelerating Emissions
+(SSP5-8.5)",26.978,12.822,18.667,South Fork Flathead,con-dry
+2058,"Moderating Emissions
+(SSP1-2.6)",24.133,14.355,20,South Fork Flathead,con-dry
+2058,"Middle of the Road
+(SSP2-4.5)",31.756,15.755,17.333,South Fork Flathead,con-dry
+2058,"High Emissions
+(SSP3-7.0)",22.244,15.266,18.444,South Fork Flathead,con-dry
+2058,"Accelerating Emissions
+(SSP5-8.5)",23.489,13.978,17.222,South Fork Flathead,con-dry
+2059,"Moderating Emissions
+(SSP1-2.6)",37.467,12.222,16.667,South Fork Flathead,con-dry
+2059,"Middle of the Road
+(SSP2-4.5)",22.356,13.467,17.667,South Fork Flathead,con-dry
+2059,"High Emissions
+(SSP3-7.0)",44.8,12.622,17.778,South Fork Flathead,con-dry
+2059,"Accelerating Emissions
+(SSP5-8.5)",28.556,15.845,18.778,South Fork Flathead,con-dry
+2060,"Moderating Emissions
+(SSP1-2.6)",23.711,12.378,16.333,South Fork Flathead,con-dry
+2060,"Middle of the Road
+(SSP2-4.5)",33.178,14.844,19.556,South Fork Flathead,con-dry
+2060,"High Emissions
+(SSP3-7.0)",21.267,13.556,17.111,South Fork Flathead,con-dry
+2060,"Accelerating Emissions
+(SSP5-8.5)",26.267,11.289,18.556,South Fork Flathead,con-dry
+2061,"Moderating Emissions
+(SSP1-2.6)",31.756,15.867,19.667,South Fork Flathead,con-dry
+2061,"Middle of the Road
+(SSP2-4.5)",25.844,12.755,20.111,South Fork Flathead,con-dry
+2061,"High Emissions
+(SSP3-7.0)",25.756,15.133,16.556,South Fork Flathead,con-dry
+2061,"Accelerating Emissions
+(SSP5-8.5)",38.8,15.911,22.333,South Fork Flathead,con-dry
+2062,"Moderating Emissions
+(SSP1-2.6)",31.222,13.422,18.222,South Fork Flathead,con-dry
+2062,"Middle of the Road
+(SSP2-4.5)",24.266,11.734,16,South Fork Flathead,con-dry
+2062,"High Emissions
+(SSP3-7.0)",26.711,16.155,20,South Fork Flathead,con-dry
+2062,"Accelerating Emissions
+(SSP5-8.5)",23.756,18.089,22.444,South Fork Flathead,con-dry
+2063,"Moderating Emissions
+(SSP1-2.6)",27.511,16.622,23.444,South Fork Flathead,con-dry
+2063,"Middle of the Road
+(SSP2-4.5)",22.622,12,19.333,South Fork Flathead,con-dry
+2063,"High Emissions
+(SSP3-7.0)",31.244,12.155,19.111,South Fork Flathead,con-dry
+2063,"Accelerating Emissions
+(SSP5-8.5)",26.356,15.467,18.333,South Fork Flathead,con-dry
+2064,"Moderating Emissions
+(SSP1-2.6)",32.978,12.489,17.556,South Fork Flathead,con-dry
+2064,"Middle of the Road
+(SSP2-4.5)",27.156,13.822,19.556,South Fork Flathead,con-dry
+2064,"High Emissions
+(SSP3-7.0)",31.911,14.911,18.778,South Fork Flathead,con-dry
+2064,"Accelerating Emissions
+(SSP5-8.5)",30.911,17.089,18.778,South Fork Flathead,con-dry
+2065,"Moderating Emissions
+(SSP1-2.6)",25.244,13.667,16.889,South Fork Flathead,con-dry
+2065,"Middle of the Road
+(SSP2-4.5)",33.822,13.511,22.889,South Fork Flathead,con-dry
+2065,"High Emissions
+(SSP3-7.0)",29.711,13.467,21.222,South Fork Flathead,con-dry
+2065,"Accelerating Emissions
+(SSP5-8.5)",36.556,18.756,24,South Fork Flathead,con-dry
+2066,"Moderating Emissions
+(SSP1-2.6)",32.245,18.667,20,South Fork Flathead,con-dry
+2066,"Middle of the Road
+(SSP2-4.5)",27.244,15,17.667,South Fork Flathead,con-dry
+2066,"High Emissions
+(SSP3-7.0)",35.2,13.956,22.111,South Fork Flathead,con-dry
+2066,"Accelerating Emissions
+(SSP5-8.5)",32.267,15.333,19,South Fork Flathead,con-dry
+2067,"Moderating Emissions
+(SSP1-2.6)",22.378,12.889,19.333,South Fork Flathead,con-dry
+2067,"Middle of the Road
+(SSP2-4.5)",21.933,13.267,15.556,South Fork Flathead,con-dry
+2067,"High Emissions
+(SSP3-7.0)",31.467,14.8,24,South Fork Flathead,con-dry
+2067,"Accelerating Emissions
+(SSP5-8.5)",27.244,11.778,17.222,South Fork Flathead,con-dry
+2068,"Moderating Emissions
+(SSP1-2.6)",42.222,16.622,22.556,South Fork Flathead,con-dry
+2068,"Middle of the Road
+(SSP2-4.5)",27.089,15.644,18.667,South Fork Flathead,con-dry
+2068,"High Emissions
+(SSP3-7.0)",25.578,12.511,21.556,South Fork Flathead,con-dry
+2068,"Accelerating Emissions
+(SSP5-8.5)",26.089,14.266,17.222,South Fork Flathead,con-dry
+2069,"Moderating Emissions
+(SSP1-2.6)",30.467,14.378,18.556,South Fork Flathead,con-dry
+2069,"Middle of the Road
+(SSP2-4.5)",26.955,10.955,17.889,South Fork Flathead,con-dry
+2069,"High Emissions
+(SSP3-7.0)",30.111,15.955,19.889,South Fork Flathead,con-dry
+2069,"Accelerating Emissions
+(SSP5-8.5)",28.933,15.733,19.556,South Fork Flathead,con-dry
+2070,"Moderating Emissions
+(SSP1-2.6)",28.733,15.933,17.778,South Fork Flathead,con-dry
+2070,"Middle of the Road
+(SSP2-4.5)",23.445,13.6,16.556,South Fork Flathead,con-dry
+2070,"High Emissions
+(SSP3-7.0)",23.667,13.044,16.889,South Fork Flathead,con-dry
+2070,"Accelerating Emissions
+(SSP5-8.5)",27.089,14.133,17.333,South Fork Flathead,con-dry
+2071,"Moderating Emissions
+(SSP1-2.6)",34.955,14.733,19,South Fork Flathead,con-dry
+2071,"Middle of the Road
+(SSP2-4.5)",21.6,15.8,20.111,South Fork Flathead,con-dry
+2071,"High Emissions
+(SSP3-7.0)",28.911,13.223,22,South Fork Flathead,con-dry
+2071,"Accelerating Emissions
+(SSP5-8.5)",34.178,14.778,21.444,South Fork Flathead,con-dry
+2072,"Moderating Emissions
+(SSP1-2.6)",37.089,15.289,21.667,South Fork Flathead,con-dry
+2072,"Middle of the Road
+(SSP2-4.5)",34.778,18.133,26,South Fork Flathead,con-dry
+2072,"High Emissions
+(SSP3-7.0)",36.334,12.355,13.889,South Fork Flathead,con-dry
+2072,"Accelerating Emissions
+(SSP5-8.5)",28.511,14.889,19,South Fork Flathead,con-dry
+2073,"Moderating Emissions
+(SSP1-2.6)",24.555,16.8,21.667,South Fork Flathead,con-dry
+2073,"Middle of the Road
+(SSP2-4.5)",23.711,10.978,17,South Fork Flathead,con-dry
+2073,"High Emissions
+(SSP3-7.0)",29.2,13.244,21,South Fork Flathead,con-dry
+2073,"Accelerating Emissions
+(SSP5-8.5)",25.111,13.422,22.889,South Fork Flathead,con-dry
+2074,"Moderating Emissions
+(SSP1-2.6)",23.467,11.8,17.889,South Fork Flathead,con-dry
+2074,"Middle of the Road
+(SSP2-4.5)",32.511,13,17.778,South Fork Flathead,con-dry
+2074,"High Emissions
+(SSP3-7.0)",43.134,14.622,20.889,South Fork Flathead,con-dry
+2074,"Accelerating Emissions
+(SSP5-8.5)",27.6,14.289,20.444,South Fork Flathead,con-dry
+2075,"Moderating Emissions
+(SSP1-2.6)",38.867,14.6,19.222,South Fork Flathead,con-dry
+2075,"Middle of the Road
+(SSP2-4.5)",24.734,11.445,21.444,South Fork Flathead,con-dry
+2075,"High Emissions
+(SSP3-7.0)",29.245,13.4,16.444,South Fork Flathead,con-dry
+2075,"Accelerating Emissions
+(SSP5-8.5)",33.133,13.756,20.333,South Fork Flathead,con-dry
+2076,"Moderating Emissions
+(SSP1-2.6)",21.955,12.356,18.333,South Fork Flathead,con-dry
+2076,"Middle of the Road
+(SSP2-4.5)",23.8,13.578,19.222,South Fork Flathead,con-dry
+2076,"High Emissions
+(SSP3-7.0)",27.911,15.133,20,South Fork Flathead,con-dry
+2076,"Accelerating Emissions
+(SSP5-8.5)",34.089,14.111,23.889,South Fork Flathead,con-dry
+2077,"Moderating Emissions
+(SSP1-2.6)",27.356,12.844,16.111,South Fork Flathead,con-dry
+2077,"Middle of the Road
+(SSP2-4.5)",24.067,15.8,18,South Fork Flathead,con-dry
+2077,"High Emissions
+(SSP3-7.0)",27.8,13.8,19,South Fork Flathead,con-dry
+2077,"Accelerating Emissions
+(SSP5-8.5)",28.511,13.289,18.667,South Fork Flathead,con-dry
+2078,"Moderating Emissions
+(SSP1-2.6)",24.444,14.245,17.444,South Fork Flathead,con-dry
+2078,"Middle of the Road
+(SSP2-4.5)",22.955,14.022,19.667,South Fork Flathead,con-dry
+2078,"High Emissions
+(SSP3-7.0)",23.689,16.044,21.889,South Fork Flathead,con-dry
+2078,"Accelerating Emissions
+(SSP5-8.5)",26.467,13.044,20.889,South Fork Flathead,con-dry
+2079,"Moderating Emissions
+(SSP1-2.6)",26.378,11.511,20.778,South Fork Flathead,con-dry
+2079,"Middle of the Road
+(SSP2-4.5)",26.577,16.867,19.778,South Fork Flathead,con-dry
+2079,"High Emissions
+(SSP3-7.0)",29.867,14.711,19.556,South Fork Flathead,con-dry
+2079,"Accelerating Emissions
+(SSP5-8.5)",28.8,14.866,18,South Fork Flathead,con-dry
+2080,"Moderating Emissions
+(SSP1-2.6)",23,11.844,17.111,South Fork Flathead,con-dry
+2080,"Middle of the Road
+(SSP2-4.5)",24.533,13.066,15.889,South Fork Flathead,con-dry
+2080,"High Emissions
+(SSP3-7.0)",37.911,13.978,23.667,South Fork Flathead,con-dry
+2080,"Accelerating Emissions
+(SSP5-8.5)",31.444,14.466,22.222,South Fork Flathead,con-dry
+2081,"Moderating Emissions
+(SSP1-2.6)",33.667,13.889,20.667,South Fork Flathead,con-dry
+2081,"Middle of the Road
+(SSP2-4.5)",20.111,14.089,16.556,South Fork Flathead,con-dry
+2081,"High Emissions
+(SSP3-7.0)",27.511,12.978,18.222,South Fork Flathead,con-dry
+2081,"Accelerating Emissions
+(SSP5-8.5)",33.534,17.089,23.111,South Fork Flathead,con-dry
+2082,"Moderating Emissions
+(SSP1-2.6)",36.8,12.8,19.444,South Fork Flathead,con-dry
+2082,"Middle of the Road
+(SSP2-4.5)",25.355,14.2,20.111,South Fork Flathead,con-dry
+2082,"High Emissions
+(SSP3-7.0)",23.489,15.889,19.556,South Fork Flathead,con-dry
+2082,"Accelerating Emissions
+(SSP5-8.5)",30.089,16.8,23.556,South Fork Flathead,con-dry
+2083,"Moderating Emissions
+(SSP1-2.6)",32.955,15,20,South Fork Flathead,con-dry
+2083,"Middle of the Road
+(SSP2-4.5)",31.822,17.511,21.889,South Fork Flathead,con-dry
+2083,"High Emissions
+(SSP3-7.0)",30.734,12.911,20,South Fork Flathead,con-dry
+2083,"Accelerating Emissions
+(SSP5-8.5)",28.667,16.333,18.333,South Fork Flathead,con-dry
+2084,"Moderating Emissions
+(SSP1-2.6)",28.823,14.2,22,South Fork Flathead,con-dry
+2084,"Middle of the Road
+(SSP2-4.5)",39.534,14.844,23.111,South Fork Flathead,con-dry
+2084,"High Emissions
+(SSP3-7.0)",24.444,16.222,20.667,South Fork Flathead,con-dry
+2084,"Accelerating Emissions
+(SSP5-8.5)",36.777,15.022,19.556,South Fork Flathead,con-dry
+2085,"Moderating Emissions
+(SSP1-2.6)",26.711,13.467,19.111,South Fork Flathead,con-dry
+2085,"Middle of the Road
+(SSP2-4.5)",24.111,14.444,23.556,South Fork Flathead,con-dry
+2085,"High Emissions
+(SSP3-7.0)",22.466,15.178,18.111,South Fork Flathead,con-dry
+2085,"Accelerating Emissions
+(SSP5-8.5)",33.978,17.4,24.333,South Fork Flathead,con-dry
+2086,"Moderating Emissions
+(SSP1-2.6)",33.666,16.156,21.889,South Fork Flathead,con-dry
+2086,"Middle of the Road
+(SSP2-4.5)",33.311,13.244,15.889,South Fork Flathead,con-dry
+2086,"High Emissions
+(SSP3-7.0)",27.356,15.711,20.778,South Fork Flathead,con-dry
+2086,"Accelerating Emissions
+(SSP5-8.5)",37.089,16,19.778,South Fork Flathead,con-dry
+2087,"Moderating Emissions
+(SSP1-2.6)",26.445,13.289,16,South Fork Flathead,con-dry
+2087,"Middle of the Road
+(SSP2-4.5)",25.444,11.978,18.333,South Fork Flathead,con-dry
+2087,"High Emissions
+(SSP3-7.0)",33.089,16.2,24.556,South Fork Flathead,con-dry
+2087,"Accelerating Emissions
+(SSP5-8.5)",35.334,12.778,19.667,South Fork Flathead,con-dry
+2088,"Moderating Emissions
+(SSP1-2.6)",30.045,14.178,25,South Fork Flathead,con-dry
+2088,"Middle of the Road
+(SSP2-4.5)",27.244,17.911,20.333,South Fork Flathead,con-dry
+2088,"High Emissions
+(SSP3-7.0)",32.2,14.111,18,South Fork Flathead,con-dry
+2088,"Accelerating Emissions
+(SSP5-8.5)",35.8,19.733,24,South Fork Flathead,con-dry
+2089,"Moderating Emissions
+(SSP1-2.6)",36.622,12.222,14.444,South Fork Flathead,con-dry
+2089,"Middle of the Road
+(SSP2-4.5)",25.778,14.555,19.222,South Fork Flathead,con-dry
+2089,"High Emissions
+(SSP3-7.0)",34.245,12.711,24.111,South Fork Flathead,con-dry
+2089,"Accelerating Emissions
+(SSP5-8.5)",41.089,15.555,19.778,South Fork Flathead,con-dry
+2090,"Moderating Emissions
+(SSP1-2.6)",22.578,14.844,20,South Fork Flathead,con-dry
+2090,"Middle of the Road
+(SSP2-4.5)",31.2,10.756,18.444,South Fork Flathead,con-dry
+2090,"High Emissions
+(SSP3-7.0)",35.089,13.889,19.889,South Fork Flathead,con-dry
+2090,"Accelerating Emissions
+(SSP5-8.5)",29.6,20.644,25.222,South Fork Flathead,con-dry
+2091,"Moderating Emissions
+(SSP1-2.6)",27.823,13.533,16.667,South Fork Flathead,con-dry
+2091,"Middle of the Road
+(SSP2-4.5)",49.155,16.644,19.667,South Fork Flathead,con-dry
+2091,"High Emissions
+(SSP3-7.0)",37.733,18.378,25.778,South Fork Flathead,con-dry
+2091,"Accelerating Emissions
+(SSP5-8.5)",35.911,11.711,16.333,South Fork Flathead,con-dry
+2092,"Moderating Emissions
+(SSP1-2.6)",27.156,13.955,16,South Fork Flathead,con-dry
+2092,"Middle of the Road
+(SSP2-4.5)",35.067,12.089,18.667,South Fork Flathead,con-dry
+2092,"High Emissions
+(SSP3-7.0)",31.334,16.711,19.444,South Fork Flathead,con-dry
+2092,"Accelerating Emissions
+(SSP5-8.5)",32.178,15.089,22.222,South Fork Flathead,con-dry
+2093,"Moderating Emissions
+(SSP1-2.6)",26.244,15.156,18.444,South Fork Flathead,con-dry
+2093,"Middle of the Road
+(SSP2-4.5)",33.933,12.556,20.889,South Fork Flathead,con-dry
+2093,"High Emissions
+(SSP3-7.0)",26.489,12.933,21,South Fork Flathead,con-dry
+2093,"Accelerating Emissions
+(SSP5-8.5)",43,13.822,20.333,South Fork Flathead,con-dry
+2094,"Moderating Emissions
+(SSP1-2.6)",28.422,15.222,20.444,South Fork Flathead,con-dry
+2094,"Middle of the Road
+(SSP2-4.5)",30.956,19.622,21.778,South Fork Flathead,con-dry
+2094,"High Emissions
+(SSP3-7.0)",28.489,12.578,21.667,South Fork Flathead,con-dry
+2094,"Accelerating Emissions
+(SSP5-8.5)",37.933,15.911,20.444,South Fork Flathead,con-dry
+2095,"Moderating Emissions
+(SSP1-2.6)",33.155,17.111,22.222,South Fork Flathead,con-dry
+2095,"Middle of the Road
+(SSP2-4.5)",29.444,12.645,16.556,South Fork Flathead,con-dry
+2095,"High Emissions
+(SSP3-7.0)",40.4,17.534,25,South Fork Flathead,con-dry
+2095,"Accelerating Emissions
+(SSP5-8.5)",28.667,13.756,19.778,South Fork Flathead,con-dry
+2096,"Moderating Emissions
+(SSP1-2.6)",24.645,15.089,17,South Fork Flathead,con-dry
+2096,"Middle of the Road
+(SSP2-4.5)",27.667,18.955,23,South Fork Flathead,con-dry
+2096,"High Emissions
+(SSP3-7.0)",24.489,15.467,20,South Fork Flathead,con-dry
+2096,"Accelerating Emissions
+(SSP5-8.5)",36.423,16.422,20.222,South Fork Flathead,con-dry
+2097,"Moderating Emissions
+(SSP1-2.6)",32.311,16.533,23.222,South Fork Flathead,con-dry
+2097,"Middle of the Road
+(SSP2-4.5)",27.778,15.422,19.556,South Fork Flathead,con-dry
+2097,"High Emissions
+(SSP3-7.0)",34.644,14.711,22,South Fork Flathead,con-dry
+2097,"Accelerating Emissions
+(SSP5-8.5)",40.022,18.578,24,South Fork Flathead,con-dry
+2098,"Moderating Emissions
+(SSP1-2.6)",33.733,12.356,15.444,South Fork Flathead,con-dry
+2098,"Middle of the Road
+(SSP2-4.5)",27.178,13.445,18.333,South Fork Flathead,con-dry
+2098,"High Emissions
+(SSP3-7.0)",25.089,12.644,16.333,South Fork Flathead,con-dry
+2098,"Accelerating Emissions
+(SSP5-8.5)",36.333,15.489,31,South Fork Flathead,con-dry
+2099,"Moderating Emissions
+(SSP1-2.6)",34.845,15.933,19,South Fork Flathead,con-dry
+2099,"Middle of the Road
+(SSP2-4.5)",35.178,16.378,20,South Fork Flathead,con-dry
+2099,"High Emissions
+(SSP3-7.0)",32.422,19.111,23.444,South Fork Flathead,con-dry
+2099,"Accelerating Emissions
+(SSP5-8.5)",32.534,16.666,21,South Fork Flathead,con-dry
+2100,"Moderating Emissions
+(SSP1-2.6)",30.089,10.911,16.667,South Fork Flathead,con-dry
+2100,"Middle of the Road
+(SSP2-4.5)",25.267,12.445,17.222,South Fork Flathead,con-dry
+2100,"High Emissions
+(SSP3-7.0)",28.689,16.4,19.333,South Fork Flathead,con-dry
+2100,"Accelerating Emissions
+(SSP5-8.5)",31.311,13.511,22.444,South Fork Flathead,con-dry

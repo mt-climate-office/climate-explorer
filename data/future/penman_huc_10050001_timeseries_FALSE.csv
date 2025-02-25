@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,1.106,0.963,0.995,Milk Headwaters,penman
+1951,Historical Emissions,1.074,0.947,1.022,Milk Headwaters,penman
+1952,Historical Emissions,1.049,0.931,0.99,Milk Headwaters,penman
+1953,Historical Emissions,1.046,0.955,0.981,Milk Headwaters,penman
+1954,Historical Emissions,1.058,0.913,0.963,Milk Headwaters,penman
+1955,Historical Emissions,1.087,0.931,0.995,Milk Headwaters,penman
+1956,Historical Emissions,1.094,0.949,0.996,Milk Headwaters,penman
+1957,Historical Emissions,1.107,0.921,0.965,Milk Headwaters,penman
+1958,Historical Emissions,1.034,0.89,0.973,Milk Headwaters,penman
+1959,Historical Emissions,1.02,0.893,0.965,Milk Headwaters,penman
+1960,Historical Emissions,1.032,0.934,0.972,Milk Headwaters,penman
+1961,Historical Emissions,1.056,0.926,0.999,Milk Headwaters,penman
+1962,Historical Emissions,1.038,0.884,0.989,Milk Headwaters,penman
+1963,Historical Emissions,0.997,0.913,0.957,Milk Headwaters,penman
+1964,Historical Emissions,1.061,0.923,1.015,Milk Headwaters,penman
+1965,Historical Emissions,1.057,0.931,0.981,Milk Headwaters,penman
+1966,Historical Emissions,1.078,0.918,0.973,Milk Headwaters,penman
+1967,Historical Emissions,1.056,0.936,0.976,Milk Headwaters,penman
+1968,Historical Emissions,1.002,0.898,0.956,Milk Headwaters,penman
+1969,Historical Emissions,1.032,0.914,0.984,Milk Headwaters,penman
+1970,Historical Emissions,1.017,0.93,0.946,Milk Headwaters,penman
+1971,Historical Emissions,1.127,0.921,1.043,Milk Headwaters,penman
+1972,Historical Emissions,1.019,0.921,0.994,Milk Headwaters,penman
+1973,Historical Emissions,1.082,0.923,0.97,Milk Headwaters,penman
+1974,Historical Emissions,1.067,0.905,0.988,Milk Headwaters,penman
+1975,Historical Emissions,1.043,0.944,0.984,Milk Headwaters,penman
+1976,Historical Emissions,1.035,0.942,0.997,Milk Headwaters,penman
+1977,Historical Emissions,1.078,0.926,0.959,Milk Headwaters,penman
+1978,Historical Emissions,1.047,0.944,0.986,Milk Headwaters,penman
+1979,Historical Emissions,1.049,0.903,1.024,Milk Headwaters,penman
+1980,Historical Emissions,1.069,0.901,1.021,Milk Headwaters,penman
+1981,Historical Emissions,1.056,0.931,1.014,Milk Headwaters,penman
+1982,Historical Emissions,1.029,0.957,0.997,Milk Headwaters,penman
+1983,Historical Emissions,1.017,0.907,0.978,Milk Headwaters,penman
+1984,Historical Emissions,1.049,0.911,0.982,Milk Headwaters,penman
+1985,Historical Emissions,1.04,0.948,1,Milk Headwaters,penman
+1986,Historical Emissions,1.01,0.911,0.979,Milk Headwaters,penman
+1987,Historical Emissions,1.086,0.908,0.961,Milk Headwaters,penman
+1988,Historical Emissions,1.072,0.939,0.956,Milk Headwaters,penman
+1989,Historical Emissions,1.086,0.955,1.019,Milk Headwaters,penman
+1990,Historical Emissions,1.137,0.948,1.034,Milk Headwaters,penman
+1991,Historical Emissions,1.116,0.864,1.006,Milk Headwaters,penman
+1992,Historical Emissions,1.085,0.923,0.945,Milk Headwaters,penman
+1993,Historical Emissions,1.029,0.958,0.982,Milk Headwaters,penman
+1994,Historical Emissions,1.118,0.923,0.971,Milk Headwaters,penman
+1995,Historical Emissions,1.09,0.984,1.003,Milk Headwaters,penman
+1996,Historical Emissions,1.186,1.028,1.058,Milk Headwaters,penman
+1997,Historical Emissions,1.081,0.942,1.026,Milk Headwaters,penman
+1998,Historical Emissions,1.048,0.963,1.015,Milk Headwaters,penman
+1999,Historical Emissions,1.042,0.935,1.01,Milk Headwaters,penman
+2000,Historical Emissions,1.109,0.949,1.009,Milk Headwaters,penman
+2001,Historical Emissions,1.057,0.977,1.041,Milk Headwaters,penman
+2002,Historical Emissions,1.131,0.951,1.012,Milk Headwaters,penman
+2003,Historical Emissions,1.146,0.982,1.05,Milk Headwaters,penman
+2004,Historical Emissions,1.145,1.009,1.058,Milk Headwaters,penman
+2005,Historical Emissions,1.126,0.995,1.105,Milk Headwaters,penman
+2006,Historical Emissions,1.096,0.979,1.047,Milk Headwaters,penman
+2007,Historical Emissions,1.089,0.99,1.048,Milk Headwaters,penman
+2008,Historical Emissions,1.126,0.998,1.036,Milk Headwaters,penman
+2009,Historical Emissions,1.093,0.966,1.035,Milk Headwaters,penman
+2010,Historical Emissions,1.107,0.975,1.046,Milk Headwaters,penman
+2011,Historical Emissions,1.069,0.979,1.038,Milk Headwaters,penman
+2012,Historical Emissions,1.144,1.046,1.07,Milk Headwaters,penman
+2013,Historical Emissions,1.139,1.026,1.087,Milk Headwaters,penman
+2014,Historical Emissions,1.137,1.015,1.031,Milk Headwaters,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",1.15,1.005,1.087,Milk Headwaters,penman
+2015,"Middle of the Road
+(SSP2-4.5)",1.14,0.959,1.072,Milk Headwaters,penman
+2015,"High Emissions
+(SSP3-7.0)",1.108,1.008,1.057,Milk Headwaters,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",1.158,1.01,1.05,Milk Headwaters,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",1.115,1.028,1.083,Milk Headwaters,penman
+2016,"Middle of the Road
+(SSP2-4.5)",1.12,0.992,1.045,Milk Headwaters,penman
+2016,"High Emissions
+(SSP3-7.0)",1.174,1.015,1.077,Milk Headwaters,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",1.123,0.978,1.017,Milk Headwaters,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",1.123,0.999,1.02,Milk Headwaters,penman
+2017,"Middle of the Road
+(SSP2-4.5)",1.118,1.002,1.092,Milk Headwaters,penman
+2017,"High Emissions
+(SSP3-7.0)",1.104,0.99,1.061,Milk Headwaters,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",1.147,0.998,1.103,Milk Headwaters,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",1.127,0.991,1.049,Milk Headwaters,penman
+2018,"Middle of the Road
+(SSP2-4.5)",1.112,0.986,1.051,Milk Headwaters,penman
+2018,"High Emissions
+(SSP3-7.0)",1.087,0.928,1.03,Milk Headwaters,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",1.139,0.961,1.038,Milk Headwaters,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",1.136,1.058,1.098,Milk Headwaters,penman
+2019,"Middle of the Road
+(SSP2-4.5)",1.133,0.976,1.056,Milk Headwaters,penman
+2019,"High Emissions
+(SSP3-7.0)",1.122,0.979,1.069,Milk Headwaters,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",1.217,1.011,1.06,Milk Headwaters,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",1.17,0.982,1.055,Milk Headwaters,penman
+2020,"Middle of the Road
+(SSP2-4.5)",1.14,0.973,1.079,Milk Headwaters,penman
+2020,"High Emissions
+(SSP3-7.0)",1.106,0.985,1.048,Milk Headwaters,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",1.129,1.019,1.07,Milk Headwaters,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",1.202,1.008,1.093,Milk Headwaters,penman
+2021,"Middle of the Road
+(SSP2-4.5)",1.236,0.963,1.081,Milk Headwaters,penman
+2021,"High Emissions
+(SSP3-7.0)",1.156,0.987,1.051,Milk Headwaters,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",1.16,1.01,1.043,Milk Headwaters,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",1.119,0.985,1.089,Milk Headwaters,penman
+2022,"Middle of the Road
+(SSP2-4.5)",1.162,0.992,1.122,Milk Headwaters,penman
+2022,"High Emissions
+(SSP3-7.0)",1.116,0.977,1.018,Milk Headwaters,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",1.14,1.028,1.094,Milk Headwaters,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",1.142,1.009,1.034,Milk Headwaters,penman
+2023,"Middle of the Road
+(SSP2-4.5)",1.16,0.998,1.077,Milk Headwaters,penman
+2023,"High Emissions
+(SSP3-7.0)",1.178,1.026,1.056,Milk Headwaters,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",1.066,0.96,1.026,Milk Headwaters,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",1.167,1,1.053,Milk Headwaters,penman
+2024,"Middle of the Road
+(SSP2-4.5)",1.229,1.043,1.065,Milk Headwaters,penman
+2024,"High Emissions
+(SSP3-7.0)",1.165,1.032,1.123,Milk Headwaters,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",1.162,0.984,1.069,Milk Headwaters,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",1.137,1.027,1.099,Milk Headwaters,penman
+2025,"Middle of the Road
+(SSP2-4.5)",1.098,0.979,1.018,Milk Headwaters,penman
+2025,"High Emissions
+(SSP3-7.0)",1.233,1.051,1.071,Milk Headwaters,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",1.184,0.991,1.12,Milk Headwaters,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",1.1,0.996,1.06,Milk Headwaters,penman
+2026,"Middle of the Road
+(SSP2-4.5)",1.189,1.018,1.09,Milk Headwaters,penman
+2026,"High Emissions
+(SSP3-7.0)",1.095,0.972,1.061,Milk Headwaters,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",1.203,1.025,1.063,Milk Headwaters,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",1.205,1.005,1.053,Milk Headwaters,penman
+2027,"Middle of the Road
+(SSP2-4.5)",1.182,0.976,1.077,Milk Headwaters,penman
+2027,"High Emissions
+(SSP3-7.0)",1.168,1.033,1.107,Milk Headwaters,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",1.192,1.041,1.116,Milk Headwaters,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",1.165,0.988,1.098,Milk Headwaters,penman
+2028,"Middle of the Road
+(SSP2-4.5)",1.086,1.023,1.036,Milk Headwaters,penman
+2028,"High Emissions
+(SSP3-7.0)",1.148,1.061,1.084,Milk Headwaters,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",1.209,1.006,1.077,Milk Headwaters,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",1.169,1.034,1.148,Milk Headwaters,penman
+2029,"Middle of the Road
+(SSP2-4.5)",1.163,1.006,1.023,Milk Headwaters,penman
+2029,"High Emissions
+(SSP3-7.0)",1.23,0.997,1.078,Milk Headwaters,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",1.15,1.028,1.092,Milk Headwaters,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",1.134,1.046,1.081,Milk Headwaters,penman
+2030,"Middle of the Road
+(SSP2-4.5)",1.202,1.068,1.141,Milk Headwaters,penman
+2030,"High Emissions
+(SSP3-7.0)",1.211,1.028,1.064,Milk Headwaters,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",1.222,1.006,1.072,Milk Headwaters,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",1.144,1.047,1.099,Milk Headwaters,penman
+2031,"Middle of the Road
+(SSP2-4.5)",1.167,1.037,1.108,Milk Headwaters,penman
+2031,"High Emissions
+(SSP3-7.0)",1.26,1.009,1.119,Milk Headwaters,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",1.193,1.028,1.111,Milk Headwaters,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",1.13,1.043,1.099,Milk Headwaters,penman
+2032,"Middle of the Road
+(SSP2-4.5)",1.17,1.033,1.087,Milk Headwaters,penman
+2032,"High Emissions
+(SSP3-7.0)",1.244,1.018,1.105,Milk Headwaters,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",1.196,0.977,1.076,Milk Headwaters,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",1.185,1.031,1.11,Milk Headwaters,penman
+2033,"Middle of the Road
+(SSP2-4.5)",1.225,1.001,1.074,Milk Headwaters,penman
+2033,"High Emissions
+(SSP3-7.0)",1.194,1.009,1.057,Milk Headwaters,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",1.181,1.06,1.104,Milk Headwaters,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",1.237,0.997,1.113,Milk Headwaters,penman
+2034,"Middle of the Road
+(SSP2-4.5)",1.174,1.051,1.088,Milk Headwaters,penman
+2034,"High Emissions
+(SSP3-7.0)",1.28,1.029,1.13,Milk Headwaters,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",1.246,0.961,1.089,Milk Headwaters,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",1.242,1.049,1.15,Milk Headwaters,penman
+2035,"Middle of the Road
+(SSP2-4.5)",1.226,1.016,1.064,Milk Headwaters,penman
+2035,"High Emissions
+(SSP3-7.0)",1.172,1.01,1.101,Milk Headwaters,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",1.157,1.019,1.069,Milk Headwaters,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",1.177,1.061,1.124,Milk Headwaters,penman
+2036,"Middle of the Road
+(SSP2-4.5)",1.22,1.011,1.063,Milk Headwaters,penman
+2036,"High Emissions
+(SSP3-7.0)",1.177,1.022,1.084,Milk Headwaters,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",1.178,0.967,1.1,Milk Headwaters,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",1.195,1.035,1.15,Milk Headwaters,penman
+2037,"Middle of the Road
+(SSP2-4.5)",1.144,1.03,1.068,Milk Headwaters,penman
+2037,"High Emissions
+(SSP3-7.0)",1.172,0.949,1.028,Milk Headwaters,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",1.223,0.981,1.115,Milk Headwaters,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",1.173,1.06,1.089,Milk Headwaters,penman
+2038,"Middle of the Road
+(SSP2-4.5)",1.167,1.035,1.079,Milk Headwaters,penman
+2038,"High Emissions
+(SSP3-7.0)",1.192,1.038,1.105,Milk Headwaters,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",1.216,0.988,1.065,Milk Headwaters,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",1.202,1.009,1.06,Milk Headwaters,penman
+2039,"Middle of the Road
+(SSP2-4.5)",1.213,1.046,1.052,Milk Headwaters,penman
+2039,"High Emissions
+(SSP3-7.0)",1.201,1.063,1.148,Milk Headwaters,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",1.171,1.031,1.075,Milk Headwaters,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",1.164,0.996,1.084,Milk Headwaters,penman
+2040,"Middle of the Road
+(SSP2-4.5)",1.174,1.033,1.116,Milk Headwaters,penman
+2040,"High Emissions
+(SSP3-7.0)",1.187,1.043,1.115,Milk Headwaters,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",1.238,1.054,1.155,Milk Headwaters,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",1.208,0.983,1.062,Milk Headwaters,penman
+2041,"Middle of the Road
+(SSP2-4.5)",1.205,1.052,1.104,Milk Headwaters,penman
+2041,"High Emissions
+(SSP3-7.0)",1.166,1.039,1.071,Milk Headwaters,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",1.137,1.029,1.1,Milk Headwaters,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",1.263,0.995,1.082,Milk Headwaters,penman
+2042,"Middle of the Road
+(SSP2-4.5)",1.14,1.021,1.102,Milk Headwaters,penman
+2042,"High Emissions
+(SSP3-7.0)",1.113,1.051,1.07,Milk Headwaters,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",1.192,0.987,1.152,Milk Headwaters,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",1.151,1.02,1.089,Milk Headwaters,penman
+2043,"Middle of the Road
+(SSP2-4.5)",1.202,1,1.067,Milk Headwaters,penman
+2043,"High Emissions
+(SSP3-7.0)",1.148,0.983,1.075,Milk Headwaters,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",1.229,1.048,1.137,Milk Headwaters,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",1.178,1.042,1.127,Milk Headwaters,penman
+2044,"Middle of the Road
+(SSP2-4.5)",1.289,1.051,1.115,Milk Headwaters,penman
+2044,"High Emissions
+(SSP3-7.0)",1.192,1.053,1.118,Milk Headwaters,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",1.218,1.084,1.148,Milk Headwaters,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",1.13,1.042,1.086,Milk Headwaters,penman
+2045,"Middle of the Road
+(SSP2-4.5)",1.269,1.037,1.121,Milk Headwaters,penman
+2045,"High Emissions
+(SSP3-7.0)",1.206,1.002,1.119,Milk Headwaters,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",1.202,1.057,1.083,Milk Headwaters,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",1.195,1.074,1.104,Milk Headwaters,penman
+2046,"Middle of the Road
+(SSP2-4.5)",1.127,1.005,1.094,Milk Headwaters,penman
+2046,"High Emissions
+(SSP3-7.0)",1.136,1.062,1.094,Milk Headwaters,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",1.17,1.015,1.095,Milk Headwaters,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",1.204,1.066,1.116,Milk Headwaters,penman
+2047,"Middle of the Road
+(SSP2-4.5)",1.198,0.963,1.082,Milk Headwaters,penman
+2047,"High Emissions
+(SSP3-7.0)",1.176,1.058,1.108,Milk Headwaters,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",1.294,1.05,1.113,Milk Headwaters,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",1.137,1.045,1.077,Milk Headwaters,penman
+2048,"Middle of the Road
+(SSP2-4.5)",1.193,1.067,1.098,Milk Headwaters,penman
+2048,"High Emissions
+(SSP3-7.0)",1.26,1.017,1.11,Milk Headwaters,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",1.296,1.023,1.232,Milk Headwaters,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",1.19,1.042,1.079,Milk Headwaters,penman
+2049,"Middle of the Road
+(SSP2-4.5)",1.19,1.015,1.146,Milk Headwaters,penman
+2049,"High Emissions
+(SSP3-7.0)",1.143,1.046,1.105,Milk Headwaters,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",1.209,1.041,1.147,Milk Headwaters,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",1.203,1.002,1.093,Milk Headwaters,penman
+2050,"Middle of the Road
+(SSP2-4.5)",1.25,1.016,1.172,Milk Headwaters,penman
+2050,"High Emissions
+(SSP3-7.0)",1.196,1.07,1.117,Milk Headwaters,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",1.301,1.077,1.122,Milk Headwaters,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",1.214,1.028,1.085,Milk Headwaters,penman
+2051,"Middle of the Road
+(SSP2-4.5)",1.236,1.049,1.154,Milk Headwaters,penman
+2051,"High Emissions
+(SSP3-7.0)",1.169,1.085,1.127,Milk Headwaters,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",1.214,1.103,1.172,Milk Headwaters,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",1.194,1.045,1.095,Milk Headwaters,penman
+2052,"Middle of the Road
+(SSP2-4.5)",1.224,1.067,1.147,Milk Headwaters,penman
+2052,"High Emissions
+(SSP3-7.0)",1.138,1.042,1.085,Milk Headwaters,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",1.195,1.089,1.141,Milk Headwaters,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",1.189,1.035,1.081,Milk Headwaters,penman
+2053,"Middle of the Road
+(SSP2-4.5)",1.209,1.027,1.104,Milk Headwaters,penman
+2053,"High Emissions
+(SSP3-7.0)",1.252,1.111,1.188,Milk Headwaters,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",1.307,1.076,1.142,Milk Headwaters,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",1.192,1.093,1.125,Milk Headwaters,penman
+2054,"Middle of the Road
+(SSP2-4.5)",1.2,1.005,1.134,Milk Headwaters,penman
+2054,"High Emissions
+(SSP3-7.0)",1.214,1.048,1.098,Milk Headwaters,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",1.252,1.087,1.146,Milk Headwaters,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",1.187,1.098,1.163,Milk Headwaters,penman
+2055,"Middle of the Road
+(SSP2-4.5)",1.213,1.053,1.131,Milk Headwaters,penman
+2055,"High Emissions
+(SSP3-7.0)",1.217,1.089,1.117,Milk Headwaters,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",1.249,1.09,1.177,Milk Headwaters,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",1.212,1.054,1.116,Milk Headwaters,penman
+2056,"Middle of the Road
+(SSP2-4.5)",1.176,1.06,1.131,Milk Headwaters,penman
+2056,"High Emissions
+(SSP3-7.0)",1.21,1.018,1.105,Milk Headwaters,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",1.212,1.106,1.152,Milk Headwaters,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",1.122,0.958,1.087,Milk Headwaters,penman
+2057,"Middle of the Road
+(SSP2-4.5)",1.189,1.11,1.162,Milk Headwaters,penman
+2057,"High Emissions
+(SSP3-7.0)",1.193,1.027,1.119,Milk Headwaters,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",1.247,1.049,1.126,Milk Headwaters,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",1.191,1.006,1.109,Milk Headwaters,penman
+2058,"Middle of the Road
+(SSP2-4.5)",1.268,1.085,1.178,Milk Headwaters,penman
+2058,"High Emissions
+(SSP3-7.0)",1.222,1.036,1.11,Milk Headwaters,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",1.216,1.046,1.119,Milk Headwaters,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",1.245,1.06,1.08,Milk Headwaters,penman
+2059,"Middle of the Road
+(SSP2-4.5)",1.34,1.048,1.104,Milk Headwaters,penman
+2059,"High Emissions
+(SSP3-7.0)",1.294,1.08,1.151,Milk Headwaters,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",1.252,1.108,1.2,Milk Headwaters,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",1.214,1.052,1.083,Milk Headwaters,penman
+2060,"Middle of the Road
+(SSP2-4.5)",1.275,1.026,1.111,Milk Headwaters,penman
+2060,"High Emissions
+(SSP3-7.0)",1.191,1.023,1.135,Milk Headwaters,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",1.242,1.068,1.152,Milk Headwaters,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",1.254,1.027,1.099,Milk Headwaters,penman
+2061,"Middle of the Road
+(SSP2-4.5)",1.176,1.082,1.127,Milk Headwaters,penman
+2061,"High Emissions
+(SSP3-7.0)",1.248,1.071,1.193,Milk Headwaters,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",1.353,1.107,1.194,Milk Headwaters,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",1.229,1.024,1.121,Milk Headwaters,penman
+2062,"Middle of the Road
+(SSP2-4.5)",1.182,1.067,1.124,Milk Headwaters,penman
+2062,"High Emissions
+(SSP3-7.0)",1.232,1.052,1.154,Milk Headwaters,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",1.264,1.118,1.174,Milk Headwaters,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",1.206,1.052,1.119,Milk Headwaters,penman
+2063,"Middle of the Road
+(SSP2-4.5)",1.203,1.014,1.097,Milk Headwaters,penman
+2063,"High Emissions
+(SSP3-7.0)",1.236,1.108,1.14,Milk Headwaters,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",1.294,1.136,1.217,Milk Headwaters,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",1.277,1.005,1.11,Milk Headwaters,penman
+2064,"Middle of the Road
+(SSP2-4.5)",1.147,1.008,1.121,Milk Headwaters,penman
+2064,"High Emissions
+(SSP3-7.0)",1.278,1.091,1.107,Milk Headwaters,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",1.249,1.148,1.181,Milk Headwaters,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",1.243,0.979,1.099,Milk Headwaters,penman
+2065,"Middle of the Road
+(SSP2-4.5)",1.193,1.037,1.126,Milk Headwaters,penman
+2065,"High Emissions
+(SSP3-7.0)",1.231,1.078,1.188,Milk Headwaters,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",1.331,1.102,1.198,Milk Headwaters,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",1.263,1.042,1.143,Milk Headwaters,penman
+2066,"Middle of the Road
+(SSP2-4.5)",1.26,1.057,1.162,Milk Headwaters,penman
+2066,"High Emissions
+(SSP3-7.0)",1.264,1.072,1.126,Milk Headwaters,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",1.303,1.107,1.197,Milk Headwaters,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",1.196,1.086,1.125,Milk Headwaters,penman
+2067,"Middle of the Road
+(SSP2-4.5)",1.179,1.036,1.105,Milk Headwaters,penman
+2067,"High Emissions
+(SSP3-7.0)",1.382,1.097,1.193,Milk Headwaters,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",1.367,1.086,1.125,Milk Headwaters,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",1.187,1.04,1.129,Milk Headwaters,penman
+2068,"Middle of the Road
+(SSP2-4.5)",1.17,1.057,1.129,Milk Headwaters,penman
+2068,"High Emissions
+(SSP3-7.0)",1.287,1.073,1.137,Milk Headwaters,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",1.279,1.081,1.184,Milk Headwaters,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",1.241,1.053,1.142,Milk Headwaters,penman
+2069,"Middle of the Road
+(SSP2-4.5)",1.204,1.081,1.153,Milk Headwaters,penman
+2069,"High Emissions
+(SSP3-7.0)",1.371,1.122,1.189,Milk Headwaters,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",1.43,1.098,1.264,Milk Headwaters,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",1.227,1.078,1.109,Milk Headwaters,penman
+2070,"Middle of the Road
+(SSP2-4.5)",1.191,1.04,1.129,Milk Headwaters,penman
+2070,"High Emissions
+(SSP3-7.0)",1.273,1.116,1.19,Milk Headwaters,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",1.343,1.098,1.145,Milk Headwaters,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",1.335,1.048,1.143,Milk Headwaters,penman
+2071,"Middle of the Road
+(SSP2-4.5)",1.198,1.099,1.171,Milk Headwaters,penman
+2071,"High Emissions
+(SSP3-7.0)",1.279,1.081,1.179,Milk Headwaters,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",1.356,1.133,1.236,Milk Headwaters,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",1.215,1.072,1.144,Milk Headwaters,penman
+2072,"Middle of the Road
+(SSP2-4.5)",1.208,1.048,1.132,Milk Headwaters,penman
+2072,"High Emissions
+(SSP3-7.0)",1.286,1.063,1.196,Milk Headwaters,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",1.297,1.147,1.231,Milk Headwaters,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",1.19,1.04,1.082,Milk Headwaters,penman
+2073,"Middle of the Road
+(SSP2-4.5)",1.31,0.984,1.076,Milk Headwaters,penman
+2073,"High Emissions
+(SSP3-7.0)",1.248,1.105,1.195,Milk Headwaters,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",1.308,1.08,1.177,Milk Headwaters,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",1.216,0.971,1.147,Milk Headwaters,penman
+2074,"Middle of the Road
+(SSP2-4.5)",1.23,1.043,1.135,Milk Headwaters,penman
+2074,"High Emissions
+(SSP3-7.0)",1.265,1.121,1.165,Milk Headwaters,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",1.437,1.119,1.189,Milk Headwaters,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",1.244,1.003,1.125,Milk Headwaters,penman
+2075,"Middle of the Road
+(SSP2-4.5)",1.318,1.067,1.128,Milk Headwaters,penman
+2075,"High Emissions
+(SSP3-7.0)",1.307,1.085,1.154,Milk Headwaters,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",1.406,1.093,1.195,Milk Headwaters,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",1.192,1.017,1.095,Milk Headwaters,penman
+2076,"Middle of the Road
+(SSP2-4.5)",1.16,1.066,1.088,Milk Headwaters,penman
+2076,"High Emissions
+(SSP3-7.0)",1.34,1.118,1.178,Milk Headwaters,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",1.393,1.101,1.231,Milk Headwaters,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",1.27,1.047,1.125,Milk Headwaters,penman
+2077,"Middle of the Road
+(SSP2-4.5)",1.234,1.073,1.138,Milk Headwaters,penman
+2077,"High Emissions
+(SSP3-7.0)",1.288,1.098,1.169,Milk Headwaters,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",1.38,1.142,1.213,Milk Headwaters,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",1.191,1.017,1.104,Milk Headwaters,penman
+2078,"Middle of the Road
+(SSP2-4.5)",1.224,1.057,1.096,Milk Headwaters,penman
+2078,"High Emissions
+(SSP3-7.0)",1.302,1.093,1.196,Milk Headwaters,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",1.315,1.106,1.168,Milk Headwaters,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",1.225,1.035,1.159,Milk Headwaters,penman
+2079,"Middle of the Road
+(SSP2-4.5)",1.224,1.103,1.155,Milk Headwaters,penman
+2079,"High Emissions
+(SSP3-7.0)",1.32,1.125,1.167,Milk Headwaters,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",1.373,1.134,1.226,Milk Headwaters,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",1.176,1.043,1.085,Milk Headwaters,penman
+2080,"Middle of the Road
+(SSP2-4.5)",1.325,1.036,1.125,Milk Headwaters,penman
+2080,"High Emissions
+(SSP3-7.0)",1.297,1.128,1.176,Milk Headwaters,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",1.33,1.128,1.222,Milk Headwaters,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",1.234,1.036,1.108,Milk Headwaters,penman
+2081,"Middle of the Road
+(SSP2-4.5)",1.227,1.104,1.144,Milk Headwaters,penman
+2081,"High Emissions
+(SSP3-7.0)",1.37,1.103,1.209,Milk Headwaters,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",1.399,1.194,1.325,Milk Headwaters,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",1.221,1.077,1.157,Milk Headwaters,penman
+2082,"Middle of the Road
+(SSP2-4.5)",1.266,1.061,1.132,Milk Headwaters,penman
+2082,"High Emissions
+(SSP3-7.0)",1.304,1.111,1.18,Milk Headwaters,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",1.444,1.168,1.26,Milk Headwaters,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",1.249,1.068,1.154,Milk Headwaters,penman
+2083,"Middle of the Road
+(SSP2-4.5)",1.295,1.086,1.168,Milk Headwaters,penman
+2083,"High Emissions
+(SSP3-7.0)",1.328,1.095,1.219,Milk Headwaters,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",1.401,1.181,1.27,Milk Headwaters,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",1.218,1.029,1.089,Milk Headwaters,penman
+2084,"Middle of the Road
+(SSP2-4.5)",1.255,1.098,1.189,Milk Headwaters,penman
+2084,"High Emissions
+(SSP3-7.0)",1.386,1.17,1.23,Milk Headwaters,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",1.373,1.121,1.266,Milk Headwaters,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",1.234,0.976,1.046,Milk Headwaters,penman
+2085,"Middle of the Road
+(SSP2-4.5)",1.243,1.032,1.15,Milk Headwaters,penman
+2085,"High Emissions
+(SSP3-7.0)",1.338,1.128,1.176,Milk Headwaters,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",1.372,1.163,1.297,Milk Headwaters,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",1.206,1.074,1.117,Milk Headwaters,penman
+2086,"Middle of the Road
+(SSP2-4.5)",1.247,1.079,1.144,Milk Headwaters,penman
+2086,"High Emissions
+(SSP3-7.0)",1.374,1.112,1.194,Milk Headwaters,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",1.343,1.171,1.309,Milk Headwaters,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",1.174,0.993,1.09,Milk Headwaters,penman
+2087,"Middle of the Road
+(SSP2-4.5)",1.272,1.106,1.174,Milk Headwaters,penman
+2087,"High Emissions
+(SSP3-7.0)",1.417,1.082,1.197,Milk Headwaters,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",1.348,1.141,1.284,Milk Headwaters,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",1.195,1.041,1.094,Milk Headwaters,penman
+2088,"Middle of the Road
+(SSP2-4.5)",1.298,1.1,1.266,Milk Headwaters,penman
+2088,"High Emissions
+(SSP3-7.0)",1.328,1.123,1.234,Milk Headwaters,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",1.486,1.185,1.32,Milk Headwaters,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",1.184,1.035,1.121,Milk Headwaters,penman
+2089,"Middle of the Road
+(SSP2-4.5)",1.282,1.064,1.163,Milk Headwaters,penman
+2089,"High Emissions
+(SSP3-7.0)",1.361,1.135,1.29,Milk Headwaters,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",1.473,1.169,1.342,Milk Headwaters,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",1.156,1.045,1.092,Milk Headwaters,penman
+2090,"Middle of the Road
+(SSP2-4.5)",1.242,1.099,1.168,Milk Headwaters,penman
+2090,"High Emissions
+(SSP3-7.0)",1.459,1.2,1.26,Milk Headwaters,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",1.432,1.198,1.305,Milk Headwaters,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",1.18,1.061,1.113,Milk Headwaters,penman
+2091,"Middle of the Road
+(SSP2-4.5)",1.271,1.067,1.198,Milk Headwaters,penman
+2091,"High Emissions
+(SSP3-7.0)",1.348,1.164,1.263,Milk Headwaters,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",1.405,1.152,1.287,Milk Headwaters,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",1.216,1.047,1.101,Milk Headwaters,penman
+2092,"Middle of the Road
+(SSP2-4.5)",1.307,1.082,1.218,Milk Headwaters,penman
+2092,"High Emissions
+(SSP3-7.0)",1.279,1.123,1.194,Milk Headwaters,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",1.48,1.194,1.332,Milk Headwaters,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",1.223,1.02,1.104,Milk Headwaters,penman
+2093,"Middle of the Road
+(SSP2-4.5)",1.214,1.089,1.14,Milk Headwaters,penman
+2093,"High Emissions
+(SSP3-7.0)",1.387,1.13,1.233,Milk Headwaters,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",1.412,1.197,1.343,Milk Headwaters,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",1.228,1.007,1.071,Milk Headwaters,penman
+2094,"Middle of the Road
+(SSP2-4.5)",1.342,1.002,1.238,Milk Headwaters,penman
+2094,"High Emissions
+(SSP3-7.0)",1.315,1.172,1.258,Milk Headwaters,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",1.489,1.209,1.281,Milk Headwaters,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",1.264,1.052,1.139,Milk Headwaters,penman
+2095,"Middle of the Road
+(SSP2-4.5)",1.24,1.157,1.207,Milk Headwaters,penman
+2095,"High Emissions
+(SSP3-7.0)",1.38,1.155,1.277,Milk Headwaters,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",1.407,1.203,1.314,Milk Headwaters,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",1.228,1.027,1.103,Milk Headwaters,penman
+2096,"Middle of the Road
+(SSP2-4.5)",1.275,1.121,1.176,Milk Headwaters,penman
+2096,"High Emissions
+(SSP3-7.0)",1.439,1.148,1.209,Milk Headwaters,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",1.496,1.179,1.227,Milk Headwaters,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",1.321,1.065,1.142,Milk Headwaters,penman
+2097,"Middle of the Road
+(SSP2-4.5)",1.38,1.112,1.179,Milk Headwaters,penman
+2097,"High Emissions
+(SSP3-7.0)",1.497,1.138,1.255,Milk Headwaters,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",1.411,1.214,1.274,Milk Headwaters,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",1.185,1.035,1.093,Milk Headwaters,penman
+2098,"Middle of the Road
+(SSP2-4.5)",1.27,1.114,1.219,Milk Headwaters,penman
+2098,"High Emissions
+(SSP3-7.0)",1.446,1.148,1.232,Milk Headwaters,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",1.374,1.213,1.351,Milk Headwaters,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",1.189,1.047,1.095,Milk Headwaters,penman
+2099,"Middle of the Road
+(SSP2-4.5)",1.237,1.103,1.174,Milk Headwaters,penman
+2099,"High Emissions
+(SSP3-7.0)",1.434,1.122,1.241,Milk Headwaters,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",1.552,1.194,1.311,Milk Headwaters,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",1.207,0.978,1.039,Milk Headwaters,penman
+2100,"Middle of the Road
+(SSP2-4.5)",1.264,1.079,1.166,Milk Headwaters,penman
+2100,"High Emissions
+(SSP3-7.0)",1.336,1.196,1.256,Milk Headwaters,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",1.477,1.226,1.281,Milk Headwaters,penman

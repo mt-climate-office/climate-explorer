@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1,0,0.5,Upper Musselshell,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1,0,0.5,Upper Musselshell,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.22,0.035,0.725,Upper Musselshell,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.35,0,0.65,Upper Musselshell,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.125,0,0.775,Upper Musselshell,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.16,0,0.75,Upper Musselshell,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.68,0.52,1,Upper Musselshell,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.255,0,0.75,Upper Musselshell,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.09,0,0.6,Upper Musselshell,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.05,0,0.675,Upper Musselshell,con-wet

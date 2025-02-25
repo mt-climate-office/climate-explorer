@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1,0,0.1,Bullwhacker-Dog,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1,0,0.1,Bullwhacker-Dog,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.09,0,0.3,Bullwhacker-Dog,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1,0,0.45,Bullwhacker-Dog,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.03,0,0.15,Bullwhacker-Dog,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1,0,0.4,Bullwhacker-Dog,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1,0.07,0.6,Bullwhacker-Dog,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1,0,0.3,Bullwhacker-Dog,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),0.52,0,0.1,Bullwhacker-Dog,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1,0,0.2,Bullwhacker-Dog,con-wet

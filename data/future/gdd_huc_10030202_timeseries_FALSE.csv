@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2232.884,1639.517,1793.836,Cut Bank,gdd
+1951,Historical Emissions,2085.161,1640.093,1882.502,Cut Bank,gdd
+1952,Historical Emissions,1862.722,1528.708,1704.966,Cut Bank,gdd
+1953,Historical Emissions,1895.685,1595.622,1747.893,Cut Bank,gdd
+1954,Historical Emissions,2088.59,1327.398,1581.722,Cut Bank,gdd
+1955,Historical Emissions,2065.661,1606.774,1760.54,Cut Bank,gdd
+1956,Historical Emissions,2113.431,1548.158,1812.65,Cut Bank,gdd
+1957,Historical Emissions,2059.332,1489.48,1758.414,Cut Bank,gdd
+1958,Historical Emissions,1916.389,1418.103,1716.066,Cut Bank,gdd
+1959,Historical Emissions,1799.736,1411.505,1655.049,Cut Bank,gdd
+1960,Historical Emissions,1850.378,1572.24,1752.843,Cut Bank,gdd
+1961,Historical Emissions,1979.24,1525.827,1670.549,Cut Bank,gdd
+1962,Historical Emissions,1828.683,1509.381,1707.339,Cut Bank,gdd
+1963,Historical Emissions,1782.413,1453.204,1625.881,Cut Bank,gdd
+1964,Historical Emissions,1918.926,1603.123,1784.907,Cut Bank,gdd
+1965,Historical Emissions,1905.343,1588.38,1691.934,Cut Bank,gdd
+1966,Historical Emissions,1934.988,1464.126,1585.532,Cut Bank,gdd
+1967,Historical Emissions,1864.335,1550.266,1697.462,Cut Bank,gdd
+1968,Historical Emissions,1829.11,1435.253,1539.242,Cut Bank,gdd
+1969,Historical Emissions,1896.609,1396.489,1655.634,Cut Bank,gdd
+1970,Historical Emissions,1817.461,1520.63,1601.584,Cut Bank,gdd
+1971,Historical Emissions,2221.993,1489.384,1780.12,Cut Bank,gdd
+1972,Historical Emissions,1873.019,1450.397,1739.826,Cut Bank,gdd
+1973,Historical Emissions,1945.242,1474.492,1615.865,Cut Bank,gdd
+1974,Historical Emissions,1967.526,1320.479,1733.568,Cut Bank,gdd
+1975,Historical Emissions,1872.926,1619.268,1753.332,Cut Bank,gdd
+1976,Historical Emissions,1870.267,1573.772,1711.538,Cut Bank,gdd
+1977,Historical Emissions,2177.854,1483.487,1738.677,Cut Bank,gdd
+1978,Historical Emissions,1805.001,1619.544,1683.559,Cut Bank,gdd
+1979,Historical Emissions,1870.553,1445.313,1724.757,Cut Bank,gdd
+1980,Historical Emissions,1944.771,1516.045,1787.845,Cut Bank,gdd
+1981,Historical Emissions,1942.409,1506.411,1813.482,Cut Bank,gdd
+1982,Historical Emissions,1987.413,1649.618,1754.922,Cut Bank,gdd
+1983,Historical Emissions,1799.814,1550.698,1662.863,Cut Bank,gdd
+1984,Historical Emissions,1847.709,1465.315,1651.915,Cut Bank,gdd
+1985,Historical Emissions,1980.492,1625.852,1796.217,Cut Bank,gdd
+1986,Historical Emissions,1778.77,1453.163,1681.844,Cut Bank,gdd
+1987,Historical Emissions,2103.867,1444.079,1638.487,Cut Bank,gdd
+1988,Historical Emissions,1950.524,1574.255,1739.136,Cut Bank,gdd
+1989,Historical Emissions,2092.572,1613.593,1835.597,Cut Bank,gdd
+1990,Historical Emissions,2228.038,1656.899,1770.193,Cut Bank,gdd
+1991,Historical Emissions,2091.096,1407.07,1852.391,Cut Bank,gdd
+1992,Historical Emissions,1857.104,1386.202,1665.341,Cut Bank,gdd
+1993,Historical Emissions,1825.757,1605.962,1672.965,Cut Bank,gdd
+1994,Historical Emissions,2188.784,1543.681,1706.934,Cut Bank,gdd
+1995,Historical Emissions,2042.781,1605.975,1875.728,Cut Bank,gdd
+1996,Historical Emissions,2344.582,1834.417,1986.245,Cut Bank,gdd
+1997,Historical Emissions,2017.325,1630.003,1901.095,Cut Bank,gdd
+1998,Historical Emissions,2036.256,1689.371,1898.396,Cut Bank,gdd
+1999,Historical Emissions,1983.32,1572.517,1815.55,Cut Bank,gdd
+2000,Historical Emissions,2184.971,1570.597,1832.163,Cut Bank,gdd
+2001,Historical Emissions,2100.595,1668.235,1833.573,Cut Bank,gdd
+2002,Historical Emissions,2251.702,1699.147,1915.872,Cut Bank,gdd
+2003,Historical Emissions,2225.124,1769.032,1975.763,Cut Bank,gdd
+2004,Historical Emissions,2212.468,1836.03,2031.772,Cut Bank,gdd
+2005,Historical Emissions,2304.23,1766.193,1990.201,Cut Bank,gdd
+2006,Historical Emissions,2027.903,1777.272,1959.048,Cut Bank,gdd
+2007,Historical Emissions,2083.096,1866.716,1977.238,Cut Bank,gdd
+2008,Historical Emissions,2282.064,1824.413,2014.773,Cut Bank,gdd
+2009,Historical Emissions,2056.92,1739.089,1871.032,Cut Bank,gdd
+2010,Historical Emissions,2049.377,1768.406,1942.282,Cut Bank,gdd
+2011,Historical Emissions,2102.146,1881.267,2004.581,Cut Bank,gdd
+2012,Historical Emissions,2208.697,1998.317,2111.64,Cut Bank,gdd
+2013,Historical Emissions,2410.521,2005.441,2205.67,Cut Bank,gdd
+2014,Historical Emissions,2278.178,1846.914,1935.459,Cut Bank,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",2476.027,1972.443,2153.768,Cut Bank,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",2324.201,1794.124,2058.929,Cut Bank,gdd
+2015,"High Emissions
+(SSP3-7.0)",2303.226,1727.391,2134.847,Cut Bank,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",2202.48,1930.238,2025.755,Cut Bank,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",2223.931,1852.456,2159.534,Cut Bank,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",2202.555,1739.166,2038.79,Cut Bank,gdd
+2016,"High Emissions
+(SSP3-7.0)",2492.822,1910.928,2197.915,Cut Bank,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",2276.593,1827.864,1979.935,Cut Bank,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",2227.876,1858.382,2101.518,Cut Bank,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",2358.251,1799.179,2123.266,Cut Bank,gdd
+2017,"High Emissions
+(SSP3-7.0)",2160.859,1911.498,2024.106,Cut Bank,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",2381.838,1972.123,2165.517,Cut Bank,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",2277.063,1890.595,2064.375,Cut Bank,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",2259.045,1871.67,2057.556,Cut Bank,gdd
+2018,"High Emissions
+(SSP3-7.0)",2201.929,1696.55,2001.866,Cut Bank,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",2303.307,1802.585,2047.949,Cut Bank,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",2490.044,2123.144,2261.052,Cut Bank,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",2374.723,1816.769,2073.266,Cut Bank,gdd
+2019,"High Emissions
+(SSP3-7.0)",2512.905,1762.531,2143.115,Cut Bank,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",2542.024,1947.45,2094.021,Cut Bank,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",2515.399,1818.223,2150.992,Cut Bank,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",2232.369,1774.835,2136.964,Cut Bank,gdd
+2020,"High Emissions
+(SSP3-7.0)",2241.708,1841.132,2091.657,Cut Bank,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",2329.378,1887.239,2166.672,Cut Bank,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",2449.89,1949.725,2217.138,Cut Bank,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",2528.381,1822.511,2093.995,Cut Bank,gdd
+2021,"High Emissions
+(SSP3-7.0)",2401.847,1881.452,2184.343,Cut Bank,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",2295.454,1988.591,2044.739,Cut Bank,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",2307.706,1956.961,2047.311,Cut Bank,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",2333.151,1957.826,2207.851,Cut Bank,gdd
+2022,"High Emissions
+(SSP3-7.0)",2217.131,1814.741,2048.843,Cut Bank,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",2439.957,2015.162,2207.749,Cut Bank,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",2251.838,1939.534,2087.95,Cut Bank,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",2545.346,1962.143,2138.601,Cut Bank,gdd
+2023,"High Emissions
+(SSP3-7.0)",2458.333,1897.6,2008.931,Cut Bank,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",2235.475,1707.797,1893.606,Cut Bank,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",2384.678,1913.682,2094.848,Cut Bank,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",2575.903,1931.908,2172.908,Cut Bank,gdd
+2024,"High Emissions
+(SSP3-7.0)",2489.867,1955.798,2253.279,Cut Bank,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",2476.675,1768.756,2107.66,Cut Bank,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",2351.775,2117.488,2209.993,Cut Bank,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",2323.685,1767.826,1955.19,Cut Bank,gdd
+2025,"High Emissions
+(SSP3-7.0)",2490.57,2006.769,2228.876,Cut Bank,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",2568.622,1898.64,2370.873,Cut Bank,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",2290.85,1827.213,2205.346,Cut Bank,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",2560.38,1910.618,2237.773,Cut Bank,gdd
+2026,"High Emissions
+(SSP3-7.0)",2298.526,1832.012,2144.899,Cut Bank,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",2576.121,1964.106,2071.583,Cut Bank,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",2498.789,1857.197,2102.161,Cut Bank,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",2354.436,1758.022,2181.623,Cut Bank,gdd
+2027,"High Emissions
+(SSP3-7.0)",2501.148,1911.574,2315.138,Cut Bank,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",2475.278,2010.503,2307.726,Cut Bank,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",2442.708,1872.212,2010.298,Cut Bank,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",2384.726,1959.513,2048.94,Cut Bank,gdd
+2028,"High Emissions
+(SSP3-7.0)",2337.505,1911.846,2242.009,Cut Bank,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",2441.426,1945.69,2263.425,Cut Bank,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",2586.408,2050.486,2373.311,Cut Bank,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",2438.717,1870.202,2127.859,Cut Bank,gdd
+2029,"High Emissions
+(SSP3-7.0)",2622.172,1864.207,2155.878,Cut Bank,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",2518.969,1951.909,2329.867,Cut Bank,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",2397.794,2042.173,2139.009,Cut Bank,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",2698.588,2044.406,2271.176,Cut Bank,gdd
+2030,"High Emissions
+(SSP3-7.0)",2542.785,1971.706,2167.449,Cut Bank,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",2672.99,1910.822,2182.55,Cut Bank,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",2450.255,2182.747,2256.004,Cut Bank,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",2459.828,2006.907,2208.522,Cut Bank,gdd
+2031,"High Emissions
+(SSP3-7.0)",2554.3,1959.081,2232.238,Cut Bank,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",2542.215,2018.279,2283.373,Cut Bank,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",2482.056,1969.204,2302.89,Cut Bank,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",2558.578,2014.333,2231.068,Cut Bank,gdd
+2032,"High Emissions
+(SSP3-7.0)",2648.056,1877.919,2325.432,Cut Bank,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",2476.034,1851.27,2071.228,Cut Bank,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",2459.909,1955.666,2253.785,Cut Bank,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",2696.285,2001.287,2133.031,Cut Bank,gdd
+2033,"High Emissions
+(SSP3-7.0)",2502.605,1911.431,2238.661,Cut Bank,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",2529.478,2092.421,2389.508,Cut Bank,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",2568.582,1934.782,2437.572,Cut Bank,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",2557.144,1870.454,2290.767,Cut Bank,gdd
+2034,"High Emissions
+(SSP3-7.0)",2657.904,1869.541,2493.535,Cut Bank,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",2513.77,1809.497,2230.627,Cut Bank,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",2680.051,2078.172,2388.321,Cut Bank,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",2644.99,1962.085,2102.874,Cut Bank,gdd
+2035,"High Emissions
+(SSP3-7.0)",2532.006,1827.966,2164.613,Cut Bank,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",2393.908,2021.54,2229.539,Cut Bank,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",2546.465,2143.307,2399.874,Cut Bank,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",2495.239,2021.668,2211.423,Cut Bank,gdd
+2036,"High Emissions
+(SSP3-7.0)",2548.742,1988.557,2255.607,Cut Bank,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",2491.324,1772.162,2306.448,Cut Bank,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",2605.452,2040.849,2365.934,Cut Bank,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",2496.589,2019.756,2148.278,Cut Bank,gdd
+2037,"High Emissions
+(SSP3-7.0)",2473.67,1677.765,2115.277,Cut Bank,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",2555.527,1927.757,2198.168,Cut Bank,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",2446.338,2031.518,2224.73,Cut Bank,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",2386.089,1987.389,2190.144,Cut Bank,gdd
+2038,"High Emissions
+(SSP3-7.0)",2533.718,2107.395,2360.504,Cut Bank,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",2688.191,1996.303,2256.537,Cut Bank,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",2555.25,1954.465,2235.42,Cut Bank,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",2439.24,1998.699,2284.061,Cut Bank,gdd
+2039,"High Emissions
+(SSP3-7.0)",2677.671,2208.516,2368.636,Cut Bank,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",2743.072,1987.533,2196.239,Cut Bank,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",2507.55,1891.421,2208.537,Cut Bank,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",2569.343,1924.524,2478.491,Cut Bank,gdd
+2040,"High Emissions
+(SSP3-7.0)",2513.031,2060.656,2383.428,Cut Bank,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",2965.972,2025.794,2566.849,Cut Bank,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",2526.359,1798.134,2141.731,Cut Bank,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",2428.129,2194.439,2311.67,Cut Bank,gdd
+2041,"High Emissions
+(SSP3-7.0)",2621.182,2064.976,2270.304,Cut Bank,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",2549.349,2070.091,2292.769,Cut Bank,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",2731.665,1904.925,2209.13,Cut Bank,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",2540.994,2012.468,2269.777,Cut Bank,gdd
+2042,"High Emissions
+(SSP3-7.0)",2410.363,2105.803,2283.537,Cut Bank,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",2720.941,2067.958,2527.319,Cut Bank,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",2506.493,2159.763,2240.739,Cut Bank,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",2524.525,1890,2273.826,Cut Bank,gdd
+2043,"High Emissions
+(SSP3-7.0)",2365.358,1932.412,2264.951,Cut Bank,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",2663.313,2229.333,2416.266,Cut Bank,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",2586.124,2161.282,2402.293,Cut Bank,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",2751.953,2105.267,2232.264,Cut Bank,gdd
+2044,"High Emissions
+(SSP3-7.0)",2605.165,2121.525,2392.709,Cut Bank,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",2730.881,2279.145,2435.616,Cut Bank,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",2494.853,2128.425,2240.207,Cut Bank,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",2796.813,1986.012,2398.67,Cut Bank,gdd
+2045,"High Emissions
+(SSP3-7.0)",2647.689,2054.318,2470.424,Cut Bank,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",2688.728,2109.803,2398.678,Cut Bank,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",2731.59,2177.624,2314.004,Cut Bank,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",2585.377,2001.913,2234.33,Cut Bank,gdd
+2046,"High Emissions
+(SSP3-7.0)",2452.307,2159.036,2288.405,Cut Bank,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",2654.927,2094.257,2310.041,Cut Bank,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",2768.922,2017.008,2499.568,Cut Bank,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",2489.548,1951.345,2169.335,Cut Bank,gdd
+2047,"High Emissions
+(SSP3-7.0)",2519.273,2118.384,2297.906,Cut Bank,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",2758.738,2091.303,2670.978,Cut Bank,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",2484.05,2081.465,2238.265,Cut Bank,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",2741.186,2073.143,2524.753,Cut Bank,gdd
+2048,"High Emissions
+(SSP3-7.0)",2843.1,1890.286,2395.549,Cut Bank,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",2998.047,2059.352,2661.308,Cut Bank,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",2527.675,2060.068,2259.066,Cut Bank,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",2629.284,2040.058,2461.598,Cut Bank,gdd
+2049,"High Emissions
+(SSP3-7.0)",2442.667,2165.203,2284.399,Cut Bank,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",2828.574,2180.773,2568.917,Cut Bank,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",2551.721,2067.021,2304.267,Cut Bank,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",2864.643,2029.332,2543.991,Cut Bank,gdd
+2050,"High Emissions
+(SSP3-7.0)",2647.719,2138.904,2435.723,Cut Bank,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",2985.575,2311.102,2440.947,Cut Bank,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",2625.845,1992.633,2366.01,Cut Bank,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",2634.507,2225.188,2338.348,Cut Bank,gdd
+2051,"High Emissions
+(SSP3-7.0)",2646.463,2233.386,2519.129,Cut Bank,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",2706.467,2265.804,2455.692,Cut Bank,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",2457.852,2171.674,2286.416,Cut Bank,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",2621.155,2132.081,2453.596,Cut Bank,gdd
+2052,"High Emissions
+(SSP3-7.0)",2716.599,2138.437,2349.452,Cut Bank,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",2779.024,2255.191,2640.57,Cut Bank,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",2575.587,2071.15,2244.573,Cut Bank,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",2562.238,2147.216,2413.44,Cut Bank,gdd
+2053,"High Emissions
+(SSP3-7.0)",2924.25,2306.211,2611.534,Cut Bank,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",3043.958,2280.398,2530.241,Cut Bank,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",2675.289,2238.717,2419.081,Cut Bank,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",2627.883,2038.461,2196.511,Cut Bank,gdd
+2054,"High Emissions
+(SSP3-7.0)",2656.743,2115.423,2313.198,Cut Bank,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",2907.053,2311.358,2544.922,Cut Bank,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",2562.884,2298.645,2421.566,Cut Bank,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",2846.668,2072.808,2411.31,Cut Bank,gdd
+2055,"High Emissions
+(SSP3-7.0)",2693.762,2201.113,2509.646,Cut Bank,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",2946.856,2320.744,2590.053,Cut Bank,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",2647.499,2064.243,2375.42,Cut Bank,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",2686.933,2241.314,2612.632,Cut Bank,gdd
+2056,"High Emissions
+(SSP3-7.0)",2770.326,1912.813,2548.752,Cut Bank,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",2898.007,2489.888,2579.018,Cut Bank,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",2554.018,1762.988,2357.296,Cut Bank,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",2690.476,2308.992,2600.494,Cut Bank,gdd
+2057,"High Emissions
+(SSP3-7.0)",2866.133,2124.958,2367.016,Cut Bank,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",2921.231,2292.573,2545.947,Cut Bank,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",2581.125,1960.82,2450.087,Cut Bank,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",2901.59,2345.65,2426.878,Cut Bank,gdd
+2058,"High Emissions
+(SSP3-7.0)",2765.373,2223.656,2440.889,Cut Bank,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",2773.66,2123.676,2499.919,Cut Bank,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",2713.542,2119.973,2334.537,Cut Bank,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",2984.566,2221.353,2392.57,Cut Bank,gdd
+2059,"High Emissions
+(SSP3-7.0)",3155.955,2294.702,2572.009,Cut Bank,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",3076.444,2414.67,2679.261,Cut Bank,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",2543.746,2148.754,2329.727,Cut Bank,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",3017.688,2142.229,2528.015,Cut Bank,gdd
+2060,"High Emissions
+(SSP3-7.0)",2735.406,2187.713,2397.587,Cut Bank,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",2896.94,2314.132,2699.608,Cut Bank,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",2649.992,1997.988,2432.033,Cut Bank,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",2813.402,2180.346,2452.913,Cut Bank,gdd
+2061,"High Emissions
+(SSP3-7.0)",2826.249,2432.341,2569.219,Cut Bank,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",3146.686,2475.409,2736.116,Cut Bank,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",2606.857,2183.293,2336.267,Cut Bank,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",2677.648,2198.123,2433.178,Cut Bank,gdd
+2062,"High Emissions
+(SSP3-7.0)",2694.583,2409.691,2545.369,Cut Bank,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",2917.737,2532.197,2789.27,Cut Bank,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",2470.148,2123.445,2346.893,Cut Bank,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",2509.988,2090.304,2273.608,Cut Bank,gdd
+2063,"High Emissions
+(SSP3-7.0)",2898.626,2404.898,2567.946,Cut Bank,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",3044.978,2511.728,2873.415,Cut Bank,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",2709.091,1931.75,2346.775,Cut Bank,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",2677.3,2216.179,2316.95,Cut Bank,gdd
+2064,"High Emissions
+(SSP3-7.0)",2816.028,2387.071,2505.468,Cut Bank,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",2979.958,2472.02,2761.505,Cut Bank,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",2512.335,1921.73,2268.094,Cut Bank,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",2767.62,2139.593,2497.421,Cut Bank,gdd
+2065,"High Emissions
+(SSP3-7.0)",2820.835,2169.285,2599.507,Cut Bank,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",3191.206,2567.334,2783.88,Cut Bank,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",2837.623,2210.458,2498.805,Cut Bank,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",2797.853,2293.042,2607.317,Cut Bank,gdd
+2066,"High Emissions
+(SSP3-7.0)",2950.142,2298.335,2459.043,Cut Bank,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",3161.075,2396.725,2926.793,Cut Bank,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",2612.317,2209.319,2370.693,Cut Bank,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",2759.083,2127.294,2434.833,Cut Bank,gdd
+2067,"High Emissions
+(SSP3-7.0)",3155.442,2518.154,2693.561,Cut Bank,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",3308.277,2301.79,2707.014,Cut Bank,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",2756.778,2073.389,2392.254,Cut Bank,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",2774.562,2210.625,2408.391,Cut Bank,gdd
+2068,"High Emissions
+(SSP3-7.0)",3069.302,2243.675,2559.74,Cut Bank,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",3244.735,2610.603,2658.884,Cut Bank,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",2731.197,2257.788,2396.057,Cut Bank,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",2815.481,2253.676,2577.797,Cut Bank,gdd
+2069,"High Emissions
+(SSP3-7.0)",3431.008,2446.161,2616.026,Cut Bank,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",3523.138,2471.542,3027.332,Cut Bank,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",2607.03,2251.619,2374.194,Cut Bank,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",2792.152,2136.749,2436.579,Cut Bank,gdd
+2070,"High Emissions
+(SSP3-7.0)",3087.731,2532.17,2857.935,Cut Bank,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",3456.008,2595.058,2821.385,Cut Bank,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",2862.151,2131.199,2296.907,Cut Bank,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",2759.619,2438.414,2570.602,Cut Bank,gdd
+2071,"High Emissions
+(SSP3-7.0)",2962.579,2428.563,2745.448,Cut Bank,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",3462.782,2504.506,2931.721,Cut Bank,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",2669.246,2248.91,2393.003,Cut Bank,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",2739.174,2184.3,2492.186,Cut Bank,gdd
+2072,"High Emissions
+(SSP3-7.0)",3001.175,2203.478,2761.199,Cut Bank,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",3288.022,2683.307,2841.845,Cut Bank,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",2566.016,2067.357,2341.44,Cut Bank,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",2811.815,2034.413,2533.649,Cut Bank,gdd
+2073,"High Emissions
+(SSP3-7.0)",2934.499,2448.022,2855.648,Cut Bank,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",3356.335,2465.227,2835.119,Cut Bank,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",2765.766,1871.983,2407.933,Cut Bank,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",2906.781,2157.611,2437.685,Cut Bank,gdd
+2074,"High Emissions
+(SSP3-7.0)",2961.701,2416.315,2663.532,Cut Bank,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",3593.587,2624.021,2907.347,Cut Bank,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",2831.218,1786.071,2321.976,Cut Bank,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",2965.892,2093.24,2362.399,Cut Bank,gdd
+2075,"High Emissions
+(SSP3-7.0)",3159.289,2330.443,2591.769,Cut Bank,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",3381.975,2596.099,2892.664,Cut Bank,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",2708.079,1998.799,2249.926,Cut Bank,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",2691.705,2213.138,2278.536,Cut Bank,gdd
+2076,"High Emissions
+(SSP3-7.0)",3287.498,2557.011,2904.864,Cut Bank,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",3486.016,2572.5,2861.724,Cut Bank,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",2804.142,2058.11,2571.757,Cut Bank,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",2906.519,2215.396,2674.621,Cut Bank,gdd
+2077,"High Emissions
+(SSP3-7.0)",3154.328,2530.487,2843.989,Cut Bank,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",3308.191,2560.846,2988.085,Cut Bank,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",2667.665,2095.635,2403.519,Cut Bank,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",2866.756,2203.636,2399.049,Cut Bank,gdd
+2078,"High Emissions
+(SSP3-7.0)",3226.982,2432.929,2764.625,Cut Bank,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",3045.869,2532.395,2918.437,Cut Bank,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",2676.506,2123.041,2417.709,Cut Bank,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",2755.395,2375.648,2550.152,Cut Bank,gdd
+2079,"High Emissions
+(SSP3-7.0)",3081.031,2512.289,2789.173,Cut Bank,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",3469.121,2795.401,3052.865,Cut Bank,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",2526.242,1955.342,2240.61,Cut Bank,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",2925.896,2180.794,2484.194,Cut Bank,gdd
+2080,"High Emissions
+(SSP3-7.0)",3244.714,2624.215,2777.478,Cut Bank,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",3489.249,2760.907,3059.44,Cut Bank,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",2771.683,2057.493,2249.541,Cut Bank,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",2774.913,2343.857,2598.444,Cut Bank,gdd
+2081,"High Emissions
+(SSP3-7.0)",3468.908,2492.584,2739.705,Cut Bank,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",3527.506,2866.54,3252.692,Cut Bank,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",2782.849,2158.531,2579.447,Cut Bank,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",3032.828,2246.734,2507.748,Cut Bank,gdd
+2082,"High Emissions
+(SSP3-7.0)",3330.556,2521.964,2835.237,Cut Bank,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",3593.207,2787.496,3005.264,Cut Bank,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",2710.015,2202.914,2489.251,Cut Bank,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",2802.928,2216.254,2551.126,Cut Bank,gdd
+2083,"High Emissions
+(SSP3-7.0)",3341.754,2248.851,2914.185,Cut Bank,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",3489.351,2788.711,3335.594,Cut Bank,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",2694.086,2063.942,2269.168,Cut Bank,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",3096.703,2365.932,2643.444,Cut Bank,gdd
+2084,"High Emissions
+(SSP3-7.0)",3334.86,2732.089,3009.974,Cut Bank,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",3707.425,2752.312,3092.063,Cut Bank,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",2642.076,1879.892,2369.446,Cut Bank,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",2878.975,2294.122,2634.534,Cut Bank,gdd
+2085,"High Emissions
+(SSP3-7.0)",3155.249,2417.497,2703.276,Cut Bank,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",3460.102,2780.982,3235.678,Cut Bank,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",2742.597,2254.043,2549.744,Cut Bank,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",2783.293,2498.438,2698.933,Cut Bank,gdd
+2086,"High Emissions
+(SSP3-7.0)",3412.604,2535.421,3016.035,Cut Bank,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",3691.154,2940.541,3191.442,Cut Bank,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",2537.597,2001.29,2131.875,Cut Bank,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",3061.611,2414.129,2786.262,Cut Bank,gdd
+2087,"High Emissions
+(SSP3-7.0)",3442.314,2505.595,2862.84,Cut Bank,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",3682.074,2772.459,3020.716,Cut Bank,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",2750.385,2152.217,2331.179,Cut Bank,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",3040.548,2577.883,2778.56,Cut Bank,gdd
+2088,"High Emissions
+(SSP3-7.0)",3458.301,2727.552,2819.553,Cut Bank,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",3654.309,3000.932,3277.77,Cut Bank,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",2628.407,2092.413,2348.123,Cut Bank,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",3140.179,2317.703,2695.922,Cut Bank,gdd
+2089,"High Emissions
+(SSP3-7.0)",3412.896,2571.509,3026.996,Cut Bank,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",3829.38,2884.913,3413.889,Cut Bank,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",2599.618,2221.251,2334.266,Cut Bank,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",2871.787,2356.893,2622.011,Cut Bank,gdd
+2090,"High Emissions
+(SSP3-7.0)",3424.188,2908.703,2989.15,Cut Bank,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",3892.545,2871.217,3253.803,Cut Bank,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",2615.372,2102.446,2427.982,Cut Bank,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",2837.417,2389.706,2611.588,Cut Bank,gdd
+2091,"High Emissions
+(SSP3-7.0)",3339.384,2897.457,3101.737,Cut Bank,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",3752.629,2822.65,3378.997,Cut Bank,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",2648.493,2075.856,2457.624,Cut Bank,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",3082.277,2404.531,2816.481,Cut Bank,gdd
+2092,"High Emissions
+(SSP3-7.0)",3125.599,2647.629,2924.165,Cut Bank,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",3777.811,3077.48,3366.029,Cut Bank,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",2580.168,2117.397,2228.584,Cut Bank,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",2858.377,2363.377,2504.522,Cut Bank,gdd
+2093,"High Emissions
+(SSP3-7.0)",3657.288,2643.89,2925.728,Cut Bank,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",3839.832,3093.482,3347.145,Cut Bank,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",2643.195,1959.311,2156.147,Cut Bank,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",3089.442,2123.9,2674.197,Cut Bank,gdd
+2094,"High Emissions
+(SSP3-7.0)",3543.401,2789.136,3099.344,Cut Bank,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",3983.436,2948.047,3465.961,Cut Bank,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",2767.385,2144.335,2436.187,Cut Bank,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",3156.688,2677.185,2911.206,Cut Bank,gdd
+2095,"High Emissions
+(SSP3-7.0)",3579.581,2860.718,3137.608,Cut Bank,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",3838.923,2929.407,3432.452,Cut Bank,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",2542.183,2063.76,2384.435,Cut Bank,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",3015.605,2562.399,2702.777,Cut Bank,gdd
+2096,"High Emissions
+(SSP3-7.0)",3513.953,2809.358,3125.453,Cut Bank,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",4030.148,3029.716,3208.053,Cut Bank,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",3054.21,2173.72,2378.339,Cut Bank,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",3181.188,2408.329,2762.957,Cut Bank,gdd
+2097,"High Emissions
+(SSP3-7.0)",3911.01,2612.648,3053.378,Cut Bank,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",4171.605,2837.148,3399.967,Cut Bank,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",2642,2124.735,2326.369,Cut Bank,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",2850.888,2455.436,2672.875,Cut Bank,gdd
+2098,"High Emissions
+(SSP3-7.0)",3724.044,2793.167,3043.572,Cut Bank,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",3750.882,3106.082,3533.485,Cut Bank,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",2637.207,2080.936,2429.359,Cut Bank,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",2930.803,2206.269,2511.562,Cut Bank,gdd
+2099,"High Emissions
+(SSP3-7.0)",3769.644,2784.051,3105.322,Cut Bank,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",4004.379,3118.164,3532.913,Cut Bank,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",2653.59,1948.614,2002.183,Cut Bank,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",3014.845,2259.987,2806.957,Cut Bank,gdd
+2100,"High Emissions
+(SSP3-7.0)",3481.599,2844.091,3130.536,Cut Bank,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",4122.406,3007.08,3463.977,Cut Bank,gdd

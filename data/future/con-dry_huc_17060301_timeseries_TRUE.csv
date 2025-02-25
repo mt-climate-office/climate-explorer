@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,26.68,15.4,18.4,Upper Selway,con-dry
+1951,Historical Emissions,46.12,14.8,18.2,Upper Selway,con-dry
+1952,Historical Emissions,29.2,17.8,24,Upper Selway,con-dry
+1953,Historical Emissions,29.68,18.4,25,Upper Selway,con-dry
+1954,Historical Emissions,25.88,16.6,20.2,Upper Selway,con-dry
+1955,Historical Emissions,32.12,15.68,24,Upper Selway,con-dry
+1956,Historical Emissions,30.6,15.68,23.8,Upper Selway,con-dry
+1957,Historical Emissions,25.56,12.76,16.2,Upper Selway,con-dry
+1958,Historical Emissions,31.36,13.48,18,Upper Selway,con-dry
+1959,Historical Emissions,18.32,13.48,15.8,Upper Selway,con-dry
+1960,Historical Emissions,26.08,14.36,18,Upper Selway,con-dry
+1961,Historical Emissions,28.8,13.56,19,Upper Selway,con-dry
+1962,Historical Emissions,34.92,12.8,18,Upper Selway,con-dry
+1963,Historical Emissions,23.12,15.4,19,Upper Selway,con-dry
+1964,Historical Emissions,25.16,15.96,18.2,Upper Selway,con-dry
+1965,Historical Emissions,33.56,11.64,26.8,Upper Selway,con-dry
+1966,Historical Emissions,38.6,15.84,25,Upper Selway,con-dry
+1967,Historical Emissions,27.12,17.28,20,Upper Selway,con-dry
+1968,Historical Emissions,32.12,15.6,22,Upper Selway,con-dry
+1969,Historical Emissions,34.32,16.44,18.6,Upper Selway,con-dry
+1970,Historical Emissions,22.68,14.96,19,Upper Selway,con-dry
+1971,Historical Emissions,27.44,13.6,23,Upper Selway,con-dry
+1972,Historical Emissions,25.76,16,20,Upper Selway,con-dry
+1973,Historical Emissions,30.72,14.12,19,Upper Selway,con-dry
+1974,Historical Emissions,35.88,15.64,18.2,Upper Selway,con-dry
+1975,Historical Emissions,30.4,14.08,18.4,Upper Selway,con-dry
+1976,Historical Emissions,31.88,14.8,22,Upper Selway,con-dry
+1977,Historical Emissions,24.8,12.6,17,Upper Selway,con-dry
+1978,Historical Emissions,24,13.8,20.2,Upper Selway,con-dry
+1979,Historical Emissions,31.48,17.6,22,Upper Selway,con-dry
+1980,Historical Emissions,25.8,14.48,20,Upper Selway,con-dry
+1981,Historical Emissions,31.28,12,20.2,Upper Selway,con-dry
+1982,Historical Emissions,25.72,12,18,Upper Selway,con-dry
+1983,Historical Emissions,34.2,15.92,20,Upper Selway,con-dry
+1984,Historical Emissions,29.04,14.16,17.8,Upper Selway,con-dry
+1985,Historical Emissions,23.36,13.8,17.4,Upper Selway,con-dry
+1986,Historical Emissions,28.64,14.88,18.2,Upper Selway,con-dry
+1987,Historical Emissions,33.44,14,22,Upper Selway,con-dry
+1988,Historical Emissions,37.56,15.36,21.8,Upper Selway,con-dry
+1989,Historical Emissions,21.04,14,17,Upper Selway,con-dry
+1990,Historical Emissions,31.72,13.32,17,Upper Selway,con-dry
+1991,Historical Emissions,35.4,13.64,22,Upper Selway,con-dry
+1992,Historical Emissions,41.2,19.28,23,Upper Selway,con-dry
+1993,Historical Emissions,23.56,13.28,19.8,Upper Selway,con-dry
+1994,Historical Emissions,28.44,15.12,21,Upper Selway,con-dry
+1995,Historical Emissions,26,17.64,20,Upper Selway,con-dry
+1996,Historical Emissions,56.4,16.08,25.6,Upper Selway,con-dry
+1997,Historical Emissions,25.48,16.52,23,Upper Selway,con-dry
+1998,Historical Emissions,30.76,12.96,21.6,Upper Selway,con-dry
+1999,Historical Emissions,23.04,14.52,20.2,Upper Selway,con-dry
+2000,Historical Emissions,28.88,17,22,Upper Selway,con-dry
+2001,Historical Emissions,33.44,15.56,18.6,Upper Selway,con-dry
+2002,Historical Emissions,24.6,13.12,16.6,Upper Selway,con-dry
+2003,Historical Emissions,31.24,16.28,22.6,Upper Selway,con-dry
+2004,Historical Emissions,37.4,17.04,21.8,Upper Selway,con-dry
+2005,Historical Emissions,49.4,15.68,24.6,Upper Selway,con-dry
+2006,Historical Emissions,30.44,13.56,21.8,Upper Selway,con-dry
+2007,Historical Emissions,35.24,17.6,20.6,Upper Selway,con-dry
+2008,Historical Emissions,28.44,16.28,20,Upper Selway,con-dry
+2009,Historical Emissions,25.64,15.36,21.4,Upper Selway,con-dry
+2010,Historical Emissions,33.92,15.88,23,Upper Selway,con-dry
+2011,Historical Emissions,26.92,13.48,21.4,Upper Selway,con-dry
+2012,Historical Emissions,25.28,15.6,21,Upper Selway,con-dry
+2013,Historical Emissions,25.32,14.52,21,Upper Selway,con-dry
+2014,Historical Emissions,40.24,16.96,27,Upper Selway,con-dry
+2015,"Moderating Emissions
+(SSP1-2.6)",31.76,13.64,20.6,Upper Selway,con-dry
+2015,"Middle of the Road
+(SSP2-4.5)",30.8,18.28,25,Upper Selway,con-dry
+2015,"High Emissions
+(SSP3-7.0)",28.36,17.04,22,Upper Selway,con-dry
+2015,"Accelerating Emissions
+(SSP5-8.5)",24.2,13.44,18.2,Upper Selway,con-dry
+2016,"Moderating Emissions
+(SSP1-2.6)",36.28,15,18,Upper Selway,con-dry
+2016,"Middle of the Road
+(SSP2-4.5)",24.36,17.28,22.2,Upper Selway,con-dry
+2016,"High Emissions
+(SSP3-7.0)",40.8,17,19,Upper Selway,con-dry
+2016,"Accelerating Emissions
+(SSP5-8.5)",37.28,15.8,18.4,Upper Selway,con-dry
+2017,"Moderating Emissions
+(SSP1-2.6)",36.48,13.44,19.4,Upper Selway,con-dry
+2017,"Middle of the Road
+(SSP2-4.5)",34.56,16.44,18,Upper Selway,con-dry
+2017,"High Emissions
+(SSP3-7.0)",34.64,15.12,22,Upper Selway,con-dry
+2017,"Accelerating Emissions
+(SSP5-8.5)",28.4,18.16,23,Upper Selway,con-dry
+2018,"Moderating Emissions
+(SSP1-2.6)",28.68,18.16,24,Upper Selway,con-dry
+2018,"Middle of the Road
+(SSP2-4.5)",39.24,14.76,20.8,Upper Selway,con-dry
+2018,"High Emissions
+(SSP3-7.0)",29.96,13.4,20,Upper Selway,con-dry
+2018,"Accelerating Emissions
+(SSP5-8.5)",31.32,12.92,25,Upper Selway,con-dry
+2019,"Moderating Emissions
+(SSP1-2.6)",32.4,18.2,31,Upper Selway,con-dry
+2019,"Middle of the Road
+(SSP2-4.5)",27.68,15.8,24,Upper Selway,con-dry
+2019,"High Emissions
+(SSP3-7.0)",32.24,14.28,20.4,Upper Selway,con-dry
+2019,"Accelerating Emissions
+(SSP5-8.5)",31.24,14.12,20,Upper Selway,con-dry
+2020,"Moderating Emissions
+(SSP1-2.6)",30.68,16.92,23.2,Upper Selway,con-dry
+2020,"Middle of the Road
+(SSP2-4.5)",29.36,14.6,19,Upper Selway,con-dry
+2020,"High Emissions
+(SSP3-7.0)",29.8,14.16,21.2,Upper Selway,con-dry
+2020,"Accelerating Emissions
+(SSP5-8.5)",23.96,16,19,Upper Selway,con-dry
+2021,"Moderating Emissions
+(SSP1-2.6)",49.64,16.6,23.4,Upper Selway,con-dry
+2021,"Middle of the Road
+(SSP2-4.5)",31.88,17.36,23.2,Upper Selway,con-dry
+2021,"High Emissions
+(SSP3-7.0)",53.08,11.88,21,Upper Selway,con-dry
+2021,"Accelerating Emissions
+(SSP5-8.5)",25.12,12.68,19.2,Upper Selway,con-dry
+2022,"Moderating Emissions
+(SSP1-2.6)",29.2,17.96,24,Upper Selway,con-dry
+2022,"Middle of the Road
+(SSP2-4.5)",27.24,16.56,19,Upper Selway,con-dry
+2022,"High Emissions
+(SSP3-7.0)",31.2,11.56,19,Upper Selway,con-dry
+2022,"Accelerating Emissions
+(SSP5-8.5)",25,13.44,17.6,Upper Selway,con-dry
+2023,"Moderating Emissions
+(SSP1-2.6)",30,16.88,20,Upper Selway,con-dry
+2023,"Middle of the Road
+(SSP2-4.5)",39.16,14,21,Upper Selway,con-dry
+2023,"High Emissions
+(SSP3-7.0)",32.8,15.08,21.6,Upper Selway,con-dry
+2023,"Accelerating Emissions
+(SSP5-8.5)",26.68,14.04,16,Upper Selway,con-dry
+2024,"Moderating Emissions
+(SSP1-2.6)",34.6,14.76,19,Upper Selway,con-dry
+2024,"Middle of the Road
+(SSP2-4.5)",36.4,16.32,20,Upper Selway,con-dry
+2024,"High Emissions
+(SSP3-7.0)",46.52,16.68,26,Upper Selway,con-dry
+2024,"Accelerating Emissions
+(SSP5-8.5)",27.4,13.16,21.8,Upper Selway,con-dry
+2025,"Moderating Emissions
+(SSP1-2.6)",37.48,15.16,18,Upper Selway,con-dry
+2025,"Middle of the Road
+(SSP2-4.5)",22.52,14,17.2,Upper Selway,con-dry
+2025,"High Emissions
+(SSP3-7.0)",33.8,17.96,30.2,Upper Selway,con-dry
+2025,"Accelerating Emissions
+(SSP5-8.5)",32.6,16.64,20.8,Upper Selway,con-dry
+2026,"Moderating Emissions
+(SSP1-2.6)",28.48,13.2,23,Upper Selway,con-dry
+2026,"Middle of the Road
+(SSP2-4.5)",24.96,16.56,21,Upper Selway,con-dry
+2026,"High Emissions
+(SSP3-7.0)",30.76,14.36,18,Upper Selway,con-dry
+2026,"Accelerating Emissions
+(SSP5-8.5)",30.24,14.68,19,Upper Selway,con-dry
+2027,"Moderating Emissions
+(SSP1-2.6)",34,13.96,19.2,Upper Selway,con-dry
+2027,"Middle of the Road
+(SSP2-4.5)",36,12.52,24.2,Upper Selway,con-dry
+2027,"High Emissions
+(SSP3-7.0)",29.4,17.6,22,Upper Selway,con-dry
+2027,"Accelerating Emissions
+(SSP5-8.5)",29.8,15.84,20,Upper Selway,con-dry
+2028,"Moderating Emissions
+(SSP1-2.6)",34.68,16.96,22.2,Upper Selway,con-dry
+2028,"Middle of the Road
+(SSP2-4.5)",25.56,15.64,19.8,Upper Selway,con-dry
+2028,"High Emissions
+(SSP3-7.0)",36.04,18.12,23,Upper Selway,con-dry
+2028,"Accelerating Emissions
+(SSP5-8.5)",27.6,14.8,18,Upper Selway,con-dry
+2029,"Moderating Emissions
+(SSP1-2.6)",33,16.96,27,Upper Selway,con-dry
+2029,"Middle of the Road
+(SSP2-4.5)",43.28,17.8,23.2,Upper Selway,con-dry
+2029,"High Emissions
+(SSP3-7.0)",37,14.56,30,Upper Selway,con-dry
+2029,"Accelerating Emissions
+(SSP5-8.5)",23.72,16.2,20,Upper Selway,con-dry
+2030,"Moderating Emissions
+(SSP1-2.6)",42.28,16.6,28.8,Upper Selway,con-dry
+2030,"Middle of the Road
+(SSP2-4.5)",29.52,14.92,23.4,Upper Selway,con-dry
+2030,"High Emissions
+(SSP3-7.0)",30.68,14.28,22.4,Upper Selway,con-dry
+2030,"Accelerating Emissions
+(SSP5-8.5)",38.4,14.96,24.4,Upper Selway,con-dry
+2031,"Moderating Emissions
+(SSP1-2.6)",35.4,15.32,20,Upper Selway,con-dry
+2031,"Middle of the Road
+(SSP2-4.5)",25.56,17.6,22,Upper Selway,con-dry
+2031,"High Emissions
+(SSP3-7.0)",35.6,17.2,24,Upper Selway,con-dry
+2031,"Accelerating Emissions
+(SSP5-8.5)",27.76,16.64,21.4,Upper Selway,con-dry
+2032,"Moderating Emissions
+(SSP1-2.6)",34.96,18.12,19.4,Upper Selway,con-dry
+2032,"Middle of the Road
+(SSP2-4.5)",25.4,14.72,18,Upper Selway,con-dry
+2032,"High Emissions
+(SSP3-7.0)",30.84,13.76,23.8,Upper Selway,con-dry
+2032,"Accelerating Emissions
+(SSP5-8.5)",31.76,19.16,22,Upper Selway,con-dry
+2033,"Moderating Emissions
+(SSP1-2.6)",37.76,16.8,23.4,Upper Selway,con-dry
+2033,"Middle of the Road
+(SSP2-4.5)",42.36,15.52,23.4,Upper Selway,con-dry
+2033,"High Emissions
+(SSP3-7.0)",31.6,14.56,22.4,Upper Selway,con-dry
+2033,"Accelerating Emissions
+(SSP5-8.5)",26.6,19.92,22.6,Upper Selway,con-dry
+2034,"Moderating Emissions
+(SSP1-2.6)",44.6,13.52,24.6,Upper Selway,con-dry
+2034,"Middle of the Road
+(SSP2-4.5)",28.2,18.96,20.2,Upper Selway,con-dry
+2034,"High Emissions
+(SSP3-7.0)",64.76,14.36,31.8,Upper Selway,con-dry
+2034,"Accelerating Emissions
+(SSP5-8.5)",24.56,12.88,18.6,Upper Selway,con-dry
+2035,"Moderating Emissions
+(SSP1-2.6)",38.2,16.8,26,Upper Selway,con-dry
+2035,"Middle of the Road
+(SSP2-4.5)",27.12,16.4,20.4,Upper Selway,con-dry
+2035,"High Emissions
+(SSP3-7.0)",28.32,16.52,23,Upper Selway,con-dry
+2035,"Accelerating Emissions
+(SSP5-8.5)",27.04,13.08,19.8,Upper Selway,con-dry
+2036,"Moderating Emissions
+(SSP1-2.6)",37.44,14.8,20.4,Upper Selway,con-dry
+2036,"Middle of the Road
+(SSP2-4.5)",38.4,17,27.8,Upper Selway,con-dry
+2036,"High Emissions
+(SSP3-7.0)",31.96,13.92,23.6,Upper Selway,con-dry
+2036,"Accelerating Emissions
+(SSP5-8.5)",35.64,15.88,20,Upper Selway,con-dry
+2037,"Moderating Emissions
+(SSP1-2.6)",23.12,14.6,18,Upper Selway,con-dry
+2037,"Middle of the Road
+(SSP2-4.5)",25.48,14.68,22,Upper Selway,con-dry
+2037,"High Emissions
+(SSP3-7.0)",27.44,13.8,19,Upper Selway,con-dry
+2037,"Accelerating Emissions
+(SSP5-8.5)",44.2,13.8,21.6,Upper Selway,con-dry
+2038,"Moderating Emissions
+(SSP1-2.6)",35.8,15.84,23,Upper Selway,con-dry
+2038,"Middle of the Road
+(SSP2-4.5)",33.32,13.84,24,Upper Selway,con-dry
+2038,"High Emissions
+(SSP3-7.0)",30.56,15.48,21.2,Upper Selway,con-dry
+2038,"Accelerating Emissions
+(SSP5-8.5)",44.76,13.8,30.2,Upper Selway,con-dry
+2039,"Moderating Emissions
+(SSP1-2.6)",31.24,17.96,27,Upper Selway,con-dry
+2039,"Middle of the Road
+(SSP2-4.5)",31.48,15.4,25,Upper Selway,con-dry
+2039,"High Emissions
+(SSP3-7.0)",25.48,13.32,18.8,Upper Selway,con-dry
+2039,"Accelerating Emissions
+(SSP5-8.5)",30.76,13.44,23,Upper Selway,con-dry
+2040,"Moderating Emissions
+(SSP1-2.6)",19.52,14,17.6,Upper Selway,con-dry
+2040,"Middle of the Road
+(SSP2-4.5)",24.84,15.08,19.6,Upper Selway,con-dry
+2040,"High Emissions
+(SSP3-7.0)",25,15.8,20.6,Upper Selway,con-dry
+2040,"Accelerating Emissions
+(SSP5-8.5)",57.12,13,20.8,Upper Selway,con-dry
+2041,"Moderating Emissions
+(SSP1-2.6)",32.92,16.36,21,Upper Selway,con-dry
+2041,"Middle of the Road
+(SSP2-4.5)",27.44,18.08,21,Upper Selway,con-dry
+2041,"High Emissions
+(SSP3-7.0)",24.24,17.16,19,Upper Selway,con-dry
+2041,"Accelerating Emissions
+(SSP5-8.5)",20.28,11.8,16.8,Upper Selway,con-dry
+2042,"Moderating Emissions
+(SSP1-2.6)",31.88,16.72,21,Upper Selway,con-dry
+2042,"Middle of the Road
+(SSP2-4.5)",38.2,14.8,22,Upper Selway,con-dry
+2042,"High Emissions
+(SSP3-7.0)",29.72,15.36,19.4,Upper Selway,con-dry
+2042,"Accelerating Emissions
+(SSP5-8.5)",31.08,16.64,23,Upper Selway,con-dry
+2043,"Moderating Emissions
+(SSP1-2.6)",34.6,16.44,21.6,Upper Selway,con-dry
+2043,"Middle of the Road
+(SSP2-4.5)",35.84,17.4,21,Upper Selway,con-dry
+2043,"High Emissions
+(SSP3-7.0)",37.56,16.96,23,Upper Selway,con-dry
+2043,"Accelerating Emissions
+(SSP5-8.5)",36.8,18.6,25,Upper Selway,con-dry
+2044,"Moderating Emissions
+(SSP1-2.6)",31.24,17.36,27,Upper Selway,con-dry
+2044,"Middle of the Road
+(SSP2-4.5)",27.96,17.16,24,Upper Selway,con-dry
+2044,"High Emissions
+(SSP3-7.0)",34.76,20.64,24.4,Upper Selway,con-dry
+2044,"Accelerating Emissions
+(SSP5-8.5)",34.6,14.6,27,Upper Selway,con-dry
+2045,"Moderating Emissions
+(SSP1-2.6)",27.32,17.52,22.8,Upper Selway,con-dry
+2045,"Middle of the Road
+(SSP2-4.5)",27.44,16.4,21.2,Upper Selway,con-dry
+2045,"High Emissions
+(SSP3-7.0)",28.56,15.84,18.2,Upper Selway,con-dry
+2045,"Accelerating Emissions
+(SSP5-8.5)",40.52,13.72,17,Upper Selway,con-dry
+2046,"Moderating Emissions
+(SSP1-2.6)",30.16,19.32,22.2,Upper Selway,con-dry
+2046,"Middle of the Road
+(SSP2-4.5)",26.76,17.56,19,Upper Selway,con-dry
+2046,"High Emissions
+(SSP3-7.0)",36.48,17.28,21.8,Upper Selway,con-dry
+2046,"Accelerating Emissions
+(SSP5-8.5)",30.4,16.56,22,Upper Selway,con-dry
+2047,"Moderating Emissions
+(SSP1-2.6)",28.56,16,21,Upper Selway,con-dry
+2047,"Middle of the Road
+(SSP2-4.5)",33.6,16.24,19.2,Upper Selway,con-dry
+2047,"High Emissions
+(SSP3-7.0)",25.8,17.24,19.4,Upper Selway,con-dry
+2047,"Accelerating Emissions
+(SSP5-8.5)",32.32,18.48,22,Upper Selway,con-dry
+2048,"Moderating Emissions
+(SSP1-2.6)",30.72,14.04,20.6,Upper Selway,con-dry
+2048,"Middle of the Road
+(SSP2-4.5)",27.12,13.88,16.4,Upper Selway,con-dry
+2048,"High Emissions
+(SSP3-7.0)",19.92,12.88,15.6,Upper Selway,con-dry
+2048,"Accelerating Emissions
+(SSP5-8.5)",43.16,18.44,24.2,Upper Selway,con-dry
+2049,"Moderating Emissions
+(SSP1-2.6)",33.48,16.24,19.2,Upper Selway,con-dry
+2049,"Middle of the Road
+(SSP2-4.5)",32.28,18.56,23,Upper Selway,con-dry
+2049,"High Emissions
+(SSP3-7.0)",35.04,14.76,25.4,Upper Selway,con-dry
+2049,"Accelerating Emissions
+(SSP5-8.5)",30.84,14.32,22,Upper Selway,con-dry
+2050,"Moderating Emissions
+(SSP1-2.6)",43.92,14.72,24,Upper Selway,con-dry
+2050,"Middle of the Road
+(SSP2-4.5)",32.88,18.8,24.8,Upper Selway,con-dry
+2050,"High Emissions
+(SSP3-7.0)",38.24,19,28,Upper Selway,con-dry
+2050,"Accelerating Emissions
+(SSP5-8.5)",48.44,20.4,32,Upper Selway,con-dry
+2051,"Moderating Emissions
+(SSP1-2.6)",26.6,14.84,19,Upper Selway,con-dry
+2051,"Middle of the Road
+(SSP2-4.5)",38.16,14.48,26.4,Upper Selway,con-dry
+2051,"High Emissions
+(SSP3-7.0)",28.32,14.64,24,Upper Selway,con-dry
+2051,"Accelerating Emissions
+(SSP5-8.5)",42.72,18.36,26.6,Upper Selway,con-dry
+2052,"Moderating Emissions
+(SSP1-2.6)",25.44,15.96,18,Upper Selway,con-dry
+2052,"Middle of the Road
+(SSP2-4.5)",34.2,14.08,23,Upper Selway,con-dry
+2052,"High Emissions
+(SSP3-7.0)",26.04,14.8,19,Upper Selway,con-dry
+2052,"Accelerating Emissions
+(SSP5-8.5)",34,19.56,21.8,Upper Selway,con-dry
+2053,"Moderating Emissions
+(SSP1-2.6)",37.2,18.6,21.8,Upper Selway,con-dry
+2053,"Middle of the Road
+(SSP2-4.5)",36.08,18.16,31.6,Upper Selway,con-dry
+2053,"High Emissions
+(SSP3-7.0)",47.84,16.16,34.6,Upper Selway,con-dry
+2053,"Accelerating Emissions
+(SSP5-8.5)",33.24,14.12,21.6,Upper Selway,con-dry
+2054,"Moderating Emissions
+(SSP1-2.6)",32.52,14.96,21,Upper Selway,con-dry
+2054,"Middle of the Road
+(SSP2-4.5)",31.48,16.8,22,Upper Selway,con-dry
+2054,"High Emissions
+(SSP3-7.0)",32.48,20.08,25.2,Upper Selway,con-dry
+2054,"Accelerating Emissions
+(SSP5-8.5)",32.2,14.16,24,Upper Selway,con-dry
+2055,"Moderating Emissions
+(SSP1-2.6)",35.12,12.04,21,Upper Selway,con-dry
+2055,"Middle of the Road
+(SSP2-4.5)",36.64,14.76,19,Upper Selway,con-dry
+2055,"High Emissions
+(SSP3-7.0)",34.44,15.6,19,Upper Selway,con-dry
+2055,"Accelerating Emissions
+(SSP5-8.5)",28.6,17,22,Upper Selway,con-dry
+2056,"Moderating Emissions
+(SSP1-2.6)",39.72,14.88,22.6,Upper Selway,con-dry
+2056,"Middle of the Road
+(SSP2-4.5)",31.44,18.84,23,Upper Selway,con-dry
+2056,"High Emissions
+(SSP3-7.0)",22.84,17.24,19,Upper Selway,con-dry
+2056,"Accelerating Emissions
+(SSP5-8.5)",31.16,14.68,22.4,Upper Selway,con-dry
+2057,"Moderating Emissions
+(SSP1-2.6)",27.4,11.44,23,Upper Selway,con-dry
+2057,"Middle of the Road
+(SSP2-4.5)",32.48,16.28,21,Upper Selway,con-dry
+2057,"High Emissions
+(SSP3-7.0)",30.84,16.2,22.6,Upper Selway,con-dry
+2057,"Accelerating Emissions
+(SSP5-8.5)",26.32,13.56,18.4,Upper Selway,con-dry
+2058,"Moderating Emissions
+(SSP1-2.6)",40.4,18.2,27,Upper Selway,con-dry
+2058,"Middle of the Road
+(SSP2-4.5)",38.48,14.8,26,Upper Selway,con-dry
+2058,"High Emissions
+(SSP3-7.0)",28.72,15.12,17.8,Upper Selway,con-dry
+2058,"Accelerating Emissions
+(SSP5-8.5)",46.8,16.8,22,Upper Selway,con-dry
+2059,"Moderating Emissions
+(SSP1-2.6)",34.24,16.32,25.4,Upper Selway,con-dry
+2059,"Middle of the Road
+(SSP2-4.5)",31.88,16.4,24,Upper Selway,con-dry
+2059,"High Emissions
+(SSP3-7.0)",42.44,14.16,18.6,Upper Selway,con-dry
+2059,"Accelerating Emissions
+(SSP5-8.5)",35.8,18.2,26,Upper Selway,con-dry
+2060,"Moderating Emissions
+(SSP1-2.6)",30.68,14.4,22,Upper Selway,con-dry
+2060,"Middle of the Road
+(SSP2-4.5)",45.08,13.8,26,Upper Selway,con-dry
+2060,"High Emissions
+(SSP3-7.0)",24.76,14.92,18,Upper Selway,con-dry
+2060,"Accelerating Emissions
+(SSP5-8.5)",30.52,12.16,14.8,Upper Selway,con-dry
+2061,"Moderating Emissions
+(SSP1-2.6)",42.68,16.8,21.6,Upper Selway,con-dry
+2061,"Middle of the Road
+(SSP2-4.5)",32.56,13.8,18,Upper Selway,con-dry
+2061,"High Emissions
+(SSP3-7.0)",22.16,14.08,16.8,Upper Selway,con-dry
+2061,"Accelerating Emissions
+(SSP5-8.5)",35.52,15.68,22.8,Upper Selway,con-dry
+2062,"Moderating Emissions
+(SSP1-2.6)",40.24,12.88,24,Upper Selway,con-dry
+2062,"Middle of the Road
+(SSP2-4.5)",28.92,11.12,24,Upper Selway,con-dry
+2062,"High Emissions
+(SSP3-7.0)",35.68,21.68,26,Upper Selway,con-dry
+2062,"Accelerating Emissions
+(SSP5-8.5)",29.64,16.12,23,Upper Selway,con-dry
+2063,"Moderating Emissions
+(SSP1-2.6)",36.8,14.96,20,Upper Selway,con-dry
+2063,"Middle of the Road
+(SSP2-4.5)",32.28,14.24,20,Upper Selway,con-dry
+2063,"High Emissions
+(SSP3-7.0)",27.2,9.92,21,Upper Selway,con-dry
+2063,"Accelerating Emissions
+(SSP5-8.5)",28.04,15.2,19,Upper Selway,con-dry
+2064,"Moderating Emissions
+(SSP1-2.6)",28.56,15.96,24.8,Upper Selway,con-dry
+2064,"Middle of the Road
+(SSP2-4.5)",30.2,16.68,21.4,Upper Selway,con-dry
+2064,"High Emissions
+(SSP3-7.0)",43.04,15.96,25,Upper Selway,con-dry
+2064,"Accelerating Emissions
+(SSP5-8.5)",47.56,15.72,19.6,Upper Selway,con-dry
+2065,"Moderating Emissions
+(SSP1-2.6)",26.52,14.2,21,Upper Selway,con-dry
+2065,"Middle of the Road
+(SSP2-4.5)",35.6,15.64,20.2,Upper Selway,con-dry
+2065,"High Emissions
+(SSP3-7.0)",38.64,11.96,26.2,Upper Selway,con-dry
+2065,"Accelerating Emissions
+(SSP5-8.5)",36,17.32,25.2,Upper Selway,con-dry
+2066,"Moderating Emissions
+(SSP1-2.6)",41,15.92,21.8,Upper Selway,con-dry
+2066,"Middle of the Road
+(SSP2-4.5)",38.64,17.4,19,Upper Selway,con-dry
+2066,"High Emissions
+(SSP3-7.0)",32.84,16.28,24,Upper Selway,con-dry
+2066,"Accelerating Emissions
+(SSP5-8.5)",34.16,14.92,22,Upper Selway,con-dry
+2067,"Moderating Emissions
+(SSP1-2.6)",21.4,13.88,18,Upper Selway,con-dry
+2067,"Middle of the Road
+(SSP2-4.5)",24.6,16.4,22,Upper Selway,con-dry
+2067,"High Emissions
+(SSP3-7.0)",41.6,17.96,23.2,Upper Selway,con-dry
+2067,"Accelerating Emissions
+(SSP5-8.5)",31.72,15.68,20,Upper Selway,con-dry
+2068,"Moderating Emissions
+(SSP1-2.6)",34.32,16.88,20.4,Upper Selway,con-dry
+2068,"Middle of the Road
+(SSP2-4.5)",27.56,16.68,22.4,Upper Selway,con-dry
+2068,"High Emissions
+(SSP3-7.0)",25.92,12.72,18,Upper Selway,con-dry
+2068,"Accelerating Emissions
+(SSP5-8.5)",25.32,14.92,16,Upper Selway,con-dry
+2069,"Moderating Emissions
+(SSP1-2.6)",44.36,16.44,23,Upper Selway,con-dry
+2069,"Middle of the Road
+(SSP2-4.5)",36.88,11.8,22.6,Upper Selway,con-dry
+2069,"High Emissions
+(SSP3-7.0)",30,19.48,24.6,Upper Selway,con-dry
+2069,"Accelerating Emissions
+(SSP5-8.5)",40.8,14.64,22,Upper Selway,con-dry
+2070,"Moderating Emissions
+(SSP1-2.6)",39.56,15,21.2,Upper Selway,con-dry
+2070,"Middle of the Road
+(SSP2-4.5)",38.04,14,24.2,Upper Selway,con-dry
+2070,"High Emissions
+(SSP3-7.0)",31.44,14.6,18,Upper Selway,con-dry
+2070,"Accelerating Emissions
+(SSP5-8.5)",31.6,14.56,20,Upper Selway,con-dry
+2071,"Moderating Emissions
+(SSP1-2.6)",40,13.96,25.6,Upper Selway,con-dry
+2071,"Middle of the Road
+(SSP2-4.5)",30.2,17.6,23.4,Upper Selway,con-dry
+2071,"High Emissions
+(SSP3-7.0)",30.48,15.28,21,Upper Selway,con-dry
+2071,"Accelerating Emissions
+(SSP5-8.5)",36.84,22.96,27,Upper Selway,con-dry
+2072,"Moderating Emissions
+(SSP1-2.6)",29.28,16.8,21.6,Upper Selway,con-dry
+2072,"Middle of the Road
+(SSP2-4.5)",31.12,18.16,25,Upper Selway,con-dry
+2072,"High Emissions
+(SSP3-7.0)",26,13.88,22,Upper Selway,con-dry
+2072,"Accelerating Emissions
+(SSP5-8.5)",29.68,14.44,26.2,Upper Selway,con-dry
+2073,"Moderating Emissions
+(SSP1-2.6)",28.36,14.8,19,Upper Selway,con-dry
+2073,"Middle of the Road
+(SSP2-4.5)",26.08,13.12,24,Upper Selway,con-dry
+2073,"High Emissions
+(SSP3-7.0)",34.92,13.16,21,Upper Selway,con-dry
+2073,"Accelerating Emissions
+(SSP5-8.5)",36.04,16.24,22.8,Upper Selway,con-dry
+2074,"Moderating Emissions
+(SSP1-2.6)",26.68,15.8,19.4,Upper Selway,con-dry
+2074,"Middle of the Road
+(SSP2-4.5)",31.56,16,21.2,Upper Selway,con-dry
+2074,"High Emissions
+(SSP3-7.0)",34.4,14.32,23.2,Upper Selway,con-dry
+2074,"Accelerating Emissions
+(SSP5-8.5)",38.28,18.08,26.4,Upper Selway,con-dry
+2075,"Moderating Emissions
+(SSP1-2.6)",30.24,15.8,29,Upper Selway,con-dry
+2075,"Middle of the Road
+(SSP2-4.5)",29.6,13,18.6,Upper Selway,con-dry
+2075,"High Emissions
+(SSP3-7.0)",32.4,13.4,27.6,Upper Selway,con-dry
+2075,"Accelerating Emissions
+(SSP5-8.5)",36.2,13.84,27.6,Upper Selway,con-dry
+2076,"Moderating Emissions
+(SSP1-2.6)",25.76,15.92,18.6,Upper Selway,con-dry
+2076,"Middle of the Road
+(SSP2-4.5)",28.2,15.8,18,Upper Selway,con-dry
+2076,"High Emissions
+(SSP3-7.0)",29.44,17.72,26.4,Upper Selway,con-dry
+2076,"Accelerating Emissions
+(SSP5-8.5)",42.36,15.68,23.4,Upper Selway,con-dry
+2077,"Moderating Emissions
+(SSP1-2.6)",27.6,17.2,22.2,Upper Selway,con-dry
+2077,"Middle of the Road
+(SSP2-4.5)",26.2,13.12,18,Upper Selway,con-dry
+2077,"High Emissions
+(SSP3-7.0)",32.8,18.56,19.8,Upper Selway,con-dry
+2077,"Accelerating Emissions
+(SSP5-8.5)",28.04,14.16,20.8,Upper Selway,con-dry
+2078,"Moderating Emissions
+(SSP1-2.6)",27,16.96,22.4,Upper Selway,con-dry
+2078,"Middle of the Road
+(SSP2-4.5)",29.08,17.72,24,Upper Selway,con-dry
+2078,"High Emissions
+(SSP3-7.0)",23.4,16.76,21.4,Upper Selway,con-dry
+2078,"Accelerating Emissions
+(SSP5-8.5)",29.68,11.88,18,Upper Selway,con-dry
+2079,"Moderating Emissions
+(SSP1-2.6)",28.2,14.76,22,Upper Selway,con-dry
+2079,"Middle of the Road
+(SSP2-4.5)",37.04,17.8,24.6,Upper Selway,con-dry
+2079,"High Emissions
+(SSP3-7.0)",35.52,14.76,21,Upper Selway,con-dry
+2079,"Accelerating Emissions
+(SSP5-8.5)",29.8,13.12,18.6,Upper Selway,con-dry
+2080,"Moderating Emissions
+(SSP1-2.6)",33.28,13.96,22,Upper Selway,con-dry
+2080,"Middle of the Road
+(SSP2-4.5)",30.12,14.92,19,Upper Selway,con-dry
+2080,"High Emissions
+(SSP3-7.0)",44.92,18.2,25,Upper Selway,con-dry
+2080,"Accelerating Emissions
+(SSP5-8.5)",34.08,19.72,27,Upper Selway,con-dry
+2081,"Moderating Emissions
+(SSP1-2.6)",34.56,16.16,21.2,Upper Selway,con-dry
+2081,"Middle of the Road
+(SSP2-4.5)",31.04,16.96,23.4,Upper Selway,con-dry
+2081,"High Emissions
+(SSP3-7.0)",46.12,13.32,21.4,Upper Selway,con-dry
+2081,"Accelerating Emissions
+(SSP5-8.5)",54.28,19.96,28.8,Upper Selway,con-dry
+2082,"Moderating Emissions
+(SSP1-2.6)",37.32,15.76,26,Upper Selway,con-dry
+2082,"Middle of the Road
+(SSP2-4.5)",35.84,16.8,21,Upper Selway,con-dry
+2082,"High Emissions
+(SSP3-7.0)",32.04,18.52,24.2,Upper Selway,con-dry
+2082,"Accelerating Emissions
+(SSP5-8.5)",39.84,16,20,Upper Selway,con-dry
+2083,"Moderating Emissions
+(SSP1-2.6)",36.16,16.48,21.6,Upper Selway,con-dry
+2083,"Middle of the Road
+(SSP2-4.5)",40,12.8,21,Upper Selway,con-dry
+2083,"High Emissions
+(SSP3-7.0)",31.2,13.16,19.2,Upper Selway,con-dry
+2083,"Accelerating Emissions
+(SSP5-8.5)",32.92,16.56,26,Upper Selway,con-dry
+2084,"Moderating Emissions
+(SSP1-2.6)",39.32,18.16,23,Upper Selway,con-dry
+2084,"Middle of the Road
+(SSP2-4.5)",30.16,18.16,24,Upper Selway,con-dry
+2084,"High Emissions
+(SSP3-7.0)",31.64,16.8,24.2,Upper Selway,con-dry
+2084,"Accelerating Emissions
+(SSP5-8.5)",48.56,17.92,23,Upper Selway,con-dry
+2085,"Moderating Emissions
+(SSP1-2.6)",29.2,15.28,20.2,Upper Selway,con-dry
+2085,"Middle of the Road
+(SSP2-4.5)",30.28,13.12,16.8,Upper Selway,con-dry
+2085,"High Emissions
+(SSP3-7.0)",26.6,18.68,22.2,Upper Selway,con-dry
+2085,"Accelerating Emissions
+(SSP5-8.5)",38.96,24.56,29,Upper Selway,con-dry
+2086,"Moderating Emissions
+(SSP1-2.6)",46.36,14.6,27,Upper Selway,con-dry
+2086,"Middle of the Road
+(SSP2-4.5)",27.48,17.64,22.4,Upper Selway,con-dry
+2086,"High Emissions
+(SSP3-7.0)",36.72,17.68,26,Upper Selway,con-dry
+2086,"Accelerating Emissions
+(SSP5-8.5)",30.16,18.48,21.4,Upper Selway,con-dry
+2087,"Moderating Emissions
+(SSP1-2.6)",36.44,13.2,23.8,Upper Selway,con-dry
+2087,"Middle of the Road
+(SSP2-4.5)",27.2,12.96,20,Upper Selway,con-dry
+2087,"High Emissions
+(SSP3-7.0)",34.48,16.72,22.6,Upper Selway,con-dry
+2087,"Accelerating Emissions
+(SSP5-8.5)",55.12,15.92,26,Upper Selway,con-dry
+2088,"Moderating Emissions
+(SSP1-2.6)",40.88,15.96,23.8,Upper Selway,con-dry
+2088,"Middle of the Road
+(SSP2-4.5)",35.16,15.48,23,Upper Selway,con-dry
+2088,"High Emissions
+(SSP3-7.0)",36.36,13.8,21,Upper Selway,con-dry
+2088,"Accelerating Emissions
+(SSP5-8.5)",47.92,22.24,25.8,Upper Selway,con-dry
+2089,"Moderating Emissions
+(SSP1-2.6)",60.2,13.32,19.6,Upper Selway,con-dry
+2089,"Middle of the Road
+(SSP2-4.5)",37,12,19.4,Upper Selway,con-dry
+2089,"High Emissions
+(SSP3-7.0)",37.16,13.88,29.8,Upper Selway,con-dry
+2089,"Accelerating Emissions
+(SSP5-8.5)",49.2,15.76,17,Upper Selway,con-dry
+2090,"Moderating Emissions
+(SSP1-2.6)",24.04,15.28,19,Upper Selway,con-dry
+2090,"Middle of the Road
+(SSP2-4.5)",31.6,13.28,18.6,Upper Selway,con-dry
+2090,"High Emissions
+(SSP3-7.0)",48.08,20.92,26,Upper Selway,con-dry
+2090,"Accelerating Emissions
+(SSP5-8.5)",34.52,18.76,24,Upper Selway,con-dry
+2091,"Moderating Emissions
+(SSP1-2.6)",29.92,15.88,21,Upper Selway,con-dry
+2091,"Middle of the Road
+(SSP2-4.5)",42.44,18.6,22,Upper Selway,con-dry
+2091,"High Emissions
+(SSP3-7.0)",42.8,18.2,31.6,Upper Selway,con-dry
+2091,"Accelerating Emissions
+(SSP5-8.5)",33.6,11.36,21.8,Upper Selway,con-dry
+2092,"Moderating Emissions
+(SSP1-2.6)",32.36,14.16,19,Upper Selway,con-dry
+2092,"Middle of the Road
+(SSP2-4.5)",39.48,14.48,21.6,Upper Selway,con-dry
+2092,"High Emissions
+(SSP3-7.0)",35.36,20.68,22.6,Upper Selway,con-dry
+2092,"Accelerating Emissions
+(SSP5-8.5)",43.88,15.28,23.8,Upper Selway,con-dry
+2093,"Moderating Emissions
+(SSP1-2.6)",32.52,16.76,24,Upper Selway,con-dry
+2093,"Middle of the Road
+(SSP2-4.5)",35.24,20.44,23,Upper Selway,con-dry
+2093,"High Emissions
+(SSP3-7.0)",34,15.32,25.2,Upper Selway,con-dry
+2093,"Accelerating Emissions
+(SSP5-8.5)",33.24,16.36,20,Upper Selway,con-dry
+2094,"Moderating Emissions
+(SSP1-2.6)",39.56,15.92,21,Upper Selway,con-dry
+2094,"Middle of the Road
+(SSP2-4.5)",39.2,17.2,27,Upper Selway,con-dry
+2094,"High Emissions
+(SSP3-7.0)",36.84,12.44,28.2,Upper Selway,con-dry
+2094,"Accelerating Emissions
+(SSP5-8.5)",30.12,16.44,19,Upper Selway,con-dry
+2095,"Moderating Emissions
+(SSP1-2.6)",51.64,17.12,20.8,Upper Selway,con-dry
+2095,"Middle of the Road
+(SSP2-4.5)",24.04,13.84,19.8,Upper Selway,con-dry
+2095,"High Emissions
+(SSP3-7.0)",55.68,13.32,28,Upper Selway,con-dry
+2095,"Accelerating Emissions
+(SSP5-8.5)",27.64,18,22,Upper Selway,con-dry
+2096,"Moderating Emissions
+(SSP1-2.6)",36.4,20.4,24.4,Upper Selway,con-dry
+2096,"Middle of the Road
+(SSP2-4.5)",35.48,17.8,25.2,Upper Selway,con-dry
+2096,"High Emissions
+(SSP3-7.0)",27.28,19,24,Upper Selway,con-dry
+2096,"Accelerating Emissions
+(SSP5-8.5)",48.6,11.96,28,Upper Selway,con-dry
+2097,"Moderating Emissions
+(SSP1-2.6)",48.64,18.84,24.2,Upper Selway,con-dry
+2097,"Middle of the Road
+(SSP2-4.5)",33.4,14.32,23.4,Upper Selway,con-dry
+2097,"High Emissions
+(SSP3-7.0)",35.76,19,26,Upper Selway,con-dry
+2097,"Accelerating Emissions
+(SSP5-8.5)",34.64,16.4,19,Upper Selway,con-dry
+2098,"Moderating Emissions
+(SSP1-2.6)",34.08,13.64,24.6,Upper Selway,con-dry
+2098,"Middle of the Road
+(SSP2-4.5)",33.4,14.72,24.2,Upper Selway,con-dry
+2098,"High Emissions
+(SSP3-7.0)",31.32,13.68,20,Upper Selway,con-dry
+2098,"Accelerating Emissions
+(SSP5-8.5)",49.8,16.4,29.4,Upper Selway,con-dry
+2099,"Moderating Emissions
+(SSP1-2.6)",37.8,16.48,22.4,Upper Selway,con-dry
+2099,"Middle of the Road
+(SSP2-4.5)",57,18.44,34,Upper Selway,con-dry
+2099,"High Emissions
+(SSP3-7.0)",30.68,12.96,18,Upper Selway,con-dry
+2099,"Accelerating Emissions
+(SSP5-8.5)",28.64,17.8,23,Upper Selway,con-dry
+2100,"Moderating Emissions
+(SSP1-2.6)",30.56,15.32,16,Upper Selway,con-dry
+2100,"Middle of the Road
+(SSP2-4.5)",33.08,15.36,26,Upper Selway,con-dry
+2100,"High Emissions
+(SSP3-7.0)",28.2,17.04,23.4,Upper Selway,con-dry
+2100,"Accelerating Emissions
+(SSP5-8.5)",30.72,16.44,23,Upper Selway,con-dry

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,8.353,7.658,7.856,Cascade County,sfcWind
+1951,Historical Emissions,8.255,7.691,8.058,Cascade County,sfcWind
+1952,Historical Emissions,8.194,7.552,8.102,Cascade County,sfcWind
+1953,Historical Emissions,8.56,7.644,7.821,Cascade County,sfcWind
+1954,Historical Emissions,8.532,7.583,8.121,Cascade County,sfcWind
+1955,Historical Emissions,8.253,7.488,8.012,Cascade County,sfcWind
+1956,Historical Emissions,8.748,7.567,8.222,Cascade County,sfcWind
+1957,Historical Emissions,8.733,7.776,8.086,Cascade County,sfcWind
+1958,Historical Emissions,8.391,7.665,7.86,Cascade County,sfcWind
+1959,Historical Emissions,8.443,7.53,8.152,Cascade County,sfcWind
+1960,Historical Emissions,8.552,7.952,8.288,Cascade County,sfcWind
+1961,Historical Emissions,8.623,7.694,8.08,Cascade County,sfcWind
+1962,Historical Emissions,8.316,7.749,8.061,Cascade County,sfcWind
+1963,Historical Emissions,8.334,7.669,8.046,Cascade County,sfcWind
+1964,Historical Emissions,8.633,7.851,7.989,Cascade County,sfcWind
+1965,Historical Emissions,8.477,7.852,8.009,Cascade County,sfcWind
+1966,Historical Emissions,8.517,8.001,8.129,Cascade County,sfcWind
+1967,Historical Emissions,8.474,7.555,8.127,Cascade County,sfcWind
+1968,Historical Emissions,8.402,7.582,8.011,Cascade County,sfcWind
+1969,Historical Emissions,8.478,7.65,7.903,Cascade County,sfcWind
+1970,Historical Emissions,8.511,7.718,7.971,Cascade County,sfcWind
+1971,Historical Emissions,8.447,7.764,8.144,Cascade County,sfcWind
+1972,Historical Emissions,8.21,7.882,8.134,Cascade County,sfcWind
+1973,Historical Emissions,8.33,7.45,8.071,Cascade County,sfcWind
+1974,Historical Emissions,8.534,7.284,8.323,Cascade County,sfcWind
+1975,Historical Emissions,8.407,7.63,7.935,Cascade County,sfcWind
+1976,Historical Emissions,8.247,7.794,8.107,Cascade County,sfcWind
+1977,Historical Emissions,8.315,7.479,7.815,Cascade County,sfcWind
+1978,Historical Emissions,8.076,7.68,7.945,Cascade County,sfcWind
+1979,Historical Emissions,8.192,7.706,7.948,Cascade County,sfcWind
+1980,Historical Emissions,8.587,7.604,8.099,Cascade County,sfcWind
+1981,Historical Emissions,8.24,7.8,8.028,Cascade County,sfcWind
+1982,Historical Emissions,8.331,7.417,7.969,Cascade County,sfcWind
+1983,Historical Emissions,8.766,7.539,7.69,Cascade County,sfcWind
+1984,Historical Emissions,8.341,7.587,7.961,Cascade County,sfcWind
+1985,Historical Emissions,8.311,7.689,8.001,Cascade County,sfcWind
+1986,Historical Emissions,8.383,7.506,7.853,Cascade County,sfcWind
+1987,Historical Emissions,8.271,7.568,7.803,Cascade County,sfcWind
+1988,Historical Emissions,8.305,7.835,8.193,Cascade County,sfcWind
+1989,Historical Emissions,8.359,7.599,7.924,Cascade County,sfcWind
+1990,Historical Emissions,8.396,7.231,8.038,Cascade County,sfcWind
+1991,Historical Emissions,8.263,7.429,8.034,Cascade County,sfcWind
+1992,Historical Emissions,8.489,8.034,8.153,Cascade County,sfcWind
+1993,Historical Emissions,8.154,7.389,7.818,Cascade County,sfcWind
+1994,Historical Emissions,8.493,7.511,7.756,Cascade County,sfcWind
+1995,Historical Emissions,8.573,7.669,8.172,Cascade County,sfcWind
+1996,Historical Emissions,8.471,7.484,8.187,Cascade County,sfcWind
+1997,Historical Emissions,8.312,7.416,7.988,Cascade County,sfcWind
+1998,Historical Emissions,8.287,7.436,7.772,Cascade County,sfcWind
+1999,Historical Emissions,8.084,7.599,7.786,Cascade County,sfcWind
+2000,Historical Emissions,8.059,7.688,7.881,Cascade County,sfcWind
+2001,Historical Emissions,8.257,7.555,7.767,Cascade County,sfcWind
+2002,Historical Emissions,8.351,7.517,7.886,Cascade County,sfcWind
+2003,Historical Emissions,7.952,7.502,7.757,Cascade County,sfcWind
+2004,Historical Emissions,8.533,7.655,7.964,Cascade County,sfcWind
+2005,Historical Emissions,8.296,7.442,7.836,Cascade County,sfcWind
+2006,Historical Emissions,8.338,7.351,7.908,Cascade County,sfcWind
+2007,Historical Emissions,8.289,7.454,8.02,Cascade County,sfcWind
+2008,Historical Emissions,8.136,7.339,7.781,Cascade County,sfcWind
+2009,Historical Emissions,8.372,7.429,7.884,Cascade County,sfcWind
+2010,Historical Emissions,8.214,7.576,7.864,Cascade County,sfcWind
+2011,Historical Emissions,8.303,7.565,7.811,Cascade County,sfcWind
+2012,Historical Emissions,8.247,7.452,7.849,Cascade County,sfcWind
+2013,Historical Emissions,8.168,7.357,7.882,Cascade County,sfcWind
+2014,Historical Emissions,8.297,7.578,7.883,Cascade County,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",8.496,7.07,7.718,Cascade County,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",8.308,6.856,7.688,Cascade County,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",8.434,7.291,7.694,Cascade County,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",8.27,7.457,7.794,Cascade County,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",8.116,7.141,7.689,Cascade County,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",8.1,7.302,7.893,Cascade County,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",8.248,7.196,7.739,Cascade County,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",8.766,7.294,7.642,Cascade County,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",8.28,6.993,7.815,Cascade County,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",8.105,7.229,7.818,Cascade County,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",8.133,7.075,7.309,Cascade County,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",8.18,7.218,7.814,Cascade County,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",8.498,7.289,8.029,Cascade County,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",8.075,6.961,7.673,Cascade County,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",8.044,6.885,7.55,Cascade County,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",8.075,7.134,7.522,Cascade County,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",7.911,7.099,7.37,Cascade County,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",8.505,7.177,7.791,Cascade County,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",8.307,6.971,7.735,Cascade County,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",8.156,7.203,7.671,Cascade County,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",8.095,7.214,7.527,Cascade County,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",8.336,7.29,7.981,Cascade County,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",8.182,7.434,7.874,Cascade County,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",8.092,7.047,7.625,Cascade County,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",8.054,7.381,7.69,Cascade County,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",8.081,7.247,7.9,Cascade County,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",8.439,7.221,7.616,Cascade County,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",7.949,7.46,7.723,Cascade County,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",8.48,7.258,7.825,Cascade County,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",7.958,7.274,7.57,Cascade County,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",8.118,7.191,7.502,Cascade County,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",8.171,7.232,7.491,Cascade County,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",8.266,7.507,7.958,Cascade County,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",8.076,7.483,7.792,Cascade County,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",8.3,7.383,7.917,Cascade County,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",8.528,7.272,7.658,Cascade County,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",8.284,7.189,7.743,Cascade County,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",8.091,7.115,7.629,Cascade County,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",8.303,7.314,7.701,Cascade County,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",8.262,7.291,7.768,Cascade County,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",8.21,7.139,7.833,Cascade County,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",8.213,6.913,7.685,Cascade County,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",8.323,7.124,7.747,Cascade County,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",8.202,7.528,7.873,Cascade County,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",8.243,7.37,7.7,Cascade County,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",8.118,7.528,7.781,Cascade County,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",7.736,6.898,7.582,Cascade County,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",8.28,7.354,7.843,Cascade County,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",8.499,7.174,7.832,Cascade County,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",8.167,6.963,7.786,Cascade County,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",8.019,7.281,7.496,Cascade County,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",8.396,7.29,7.857,Cascade County,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",8.128,7.057,7.926,Cascade County,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",7.894,6.989,7.565,Cascade County,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",8.101,7.187,7.923,Cascade County,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",7.994,7.408,7.815,Cascade County,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",8.186,7.248,7.618,Cascade County,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",8.162,6.728,7.871,Cascade County,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",8.246,7.252,7.862,Cascade County,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",7.889,6.902,7.392,Cascade County,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",8.004,7.058,7.63,Cascade County,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",8.733,7.128,8.013,Cascade County,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",8.169,7.471,7.805,Cascade County,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",8.02,7.249,7.745,Cascade County,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",8.279,7.486,7.713,Cascade County,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",8.431,7.218,7.874,Cascade County,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",8.303,7.409,7.818,Cascade County,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",8.323,7.203,7.511,Cascade County,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",7.928,7.204,7.877,Cascade County,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",8.395,7.49,7.818,Cascade County,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",8.133,7.489,7.965,Cascade County,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",8.247,7.303,8.08,Cascade County,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",8.498,7.464,7.904,Cascade County,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",8.152,7.32,7.854,Cascade County,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",8.037,6.962,7.404,Cascade County,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",7.971,7.136,7.803,Cascade County,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",8.429,7.304,7.918,Cascade County,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",7.945,7.11,7.624,Cascade County,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",8.118,7.218,7.79,Cascade County,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",8.434,7.38,8.075,Cascade County,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",8.441,7.468,7.921,Cascade County,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",8.147,7.292,7.627,Cascade County,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",8.164,7.179,7.786,Cascade County,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",8.437,7.161,8.096,Cascade County,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",7.825,7.016,7.735,Cascade County,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",8.399,7.461,7.915,Cascade County,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",7.989,7.105,7.57,Cascade County,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",8.125,6.991,7.817,Cascade County,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",8.155,7.096,7.527,Cascade County,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",8.261,7.14,7.788,Cascade County,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",8.016,7.288,7.5,Cascade County,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",8.719,7.376,7.918,Cascade County,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",8.34,7.522,7.858,Cascade County,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",8.239,7.231,7.7,Cascade County,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",8.054,7.505,7.827,Cascade County,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",8.067,7.469,7.829,Cascade County,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",8.056,7.429,7.692,Cascade County,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",8.099,7.501,7.823,Cascade County,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",8.352,7.108,8.03,Cascade County,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",8.09,7.299,7.742,Cascade County,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",8.302,7.042,7.909,Cascade County,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",8.191,7.352,7.732,Cascade County,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",8.404,7.168,7.578,Cascade County,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",8.046,7.161,7.711,Cascade County,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",8.211,7.449,7.872,Cascade County,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",8.093,7.286,7.622,Cascade County,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",7.826,7.108,7.529,Cascade County,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",8.236,7.169,7.662,Cascade County,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",8.196,7.316,7.779,Cascade County,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",8.059,7.389,7.707,Cascade County,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",8.055,7.22,7.641,Cascade County,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",8.238,7.256,7.627,Cascade County,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",8.171,7.156,7.731,Cascade County,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",8.467,7.019,8.061,Cascade County,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",8.485,7.264,8.153,Cascade County,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",8.073,7.437,7.856,Cascade County,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",8.189,6.864,7.822,Cascade County,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",8.204,7.316,7.854,Cascade County,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",8.308,7.541,7.926,Cascade County,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",7.869,7.343,7.557,Cascade County,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",7.839,7.294,7.537,Cascade County,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",8.15,7.206,7.888,Cascade County,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",8.28,7.064,7.561,Cascade County,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",7.845,7.209,7.505,Cascade County,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",7.979,7.284,7.748,Cascade County,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",7.977,6.99,7.859,Cascade County,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",7.787,7.288,7.663,Cascade County,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",8.179,6.583,7.941,Cascade County,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",7.982,6.801,7.757,Cascade County,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",7.917,6.909,7.82,Cascade County,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",8.101,7.03,7.642,Cascade County,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",8.551,6.981,7.898,Cascade County,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",8.157,7.293,7.818,Cascade County,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",7.69,6.786,7.489,Cascade County,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",8.254,7.387,7.708,Cascade County,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",8.355,7.263,7.686,Cascade County,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",8.117,7.026,7.808,Cascade County,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",8.258,7.542,7.8,Cascade County,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",8.004,7.277,7.74,Cascade County,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",8.083,7.058,7.562,Cascade County,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",8.137,7.071,7.534,Cascade County,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",8.168,7.164,7.963,Cascade County,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",8.115,7.385,7.752,Cascade County,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",8.057,7.096,7.674,Cascade County,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",8.009,7.468,7.758,Cascade County,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",8.581,7.164,7.952,Cascade County,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",7.944,7.165,7.551,Cascade County,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",8.32,7.343,7.852,Cascade County,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",8.123,7.172,7.624,Cascade County,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",7.927,6.98,7.737,Cascade County,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",7.761,6.989,7.429,Cascade County,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",8.107,6.73,7.644,Cascade County,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",8.315,7.186,7.824,Cascade County,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",8.321,7.289,7.76,Cascade County,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",8.034,7.06,7.608,Cascade County,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",7.988,7.381,7.835,Cascade County,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",8.152,6.907,7.639,Cascade County,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",8.313,6.763,7.816,Cascade County,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",8.086,7.3,7.628,Cascade County,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",8.197,7.328,7.648,Cascade County,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",8.087,7.414,7.766,Cascade County,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",7.968,7.379,7.682,Cascade County,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",7.962,7.351,7.595,Cascade County,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",8.294,6.988,7.464,Cascade County,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",8.127,7.467,7.878,Cascade County,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",8.036,7.306,7.623,Cascade County,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",7.704,7.106,7.388,Cascade County,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",7.706,7.144,7.423,Cascade County,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",8.018,7.168,7.759,Cascade County,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",8.152,7.24,8,Cascade County,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",7.787,7.011,7.481,Cascade County,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",7.981,6.978,7.442,Cascade County,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",8.193,7.328,7.772,Cascade County,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",8.152,6.951,7.59,Cascade County,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",8.052,6.785,7.593,Cascade County,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",8.075,7.037,7.546,Cascade County,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",8.086,7.247,8.034,Cascade County,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",8.185,6.925,7.721,Cascade County,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",8.039,7.268,7.765,Cascade County,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",7.855,7.103,7.47,Cascade County,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",8.125,7.25,7.652,Cascade County,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",8.237,7.016,7.654,Cascade County,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",7.991,7.304,7.492,Cascade County,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",8.164,6.942,7.388,Cascade County,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",8.18,7.374,7.751,Cascade County,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",8.379,7.181,7.728,Cascade County,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",7.936,7.138,7.523,Cascade County,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",8.211,7.157,7.734,Cascade County,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",8.171,7.352,7.656,Cascade County,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",8.445,6.988,7.701,Cascade County,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",7.816,7.234,7.59,Cascade County,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",8.281,7.157,7.636,Cascade County,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",8.098,7.403,7.904,Cascade County,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",8.149,6.95,7.728,Cascade County,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",8.14,7.019,7.902,Cascade County,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",8.144,7.162,7.768,Cascade County,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",8.107,7.206,7.801,Cascade County,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",7.909,7.036,7.691,Cascade County,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",7.777,6.986,7.318,Cascade County,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",7.944,7.344,7.773,Cascade County,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",8.531,7.022,7.822,Cascade County,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",8.13,7.145,7.341,Cascade County,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",8.132,7.355,7.692,Cascade County,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",8.363,7.026,7.637,Cascade County,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",7.987,7.233,7.541,Cascade County,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",8.019,7.072,7.768,Cascade County,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",8.429,6.877,7.382,Cascade County,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",8.032,7.4,7.774,Cascade County,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",7.881,7.181,7.62,Cascade County,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",8.344,7.413,7.905,Cascade County,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",7.989,7.112,7.488,Cascade County,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",7.889,6.764,7.418,Cascade County,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",8.055,7.491,7.888,Cascade County,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",8.201,7.138,7.905,Cascade County,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",8.083,7.395,7.858,Cascade County,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",8.042,7.055,7.851,Cascade County,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",8.229,7.1,7.615,Cascade County,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",7.991,7.313,7.626,Cascade County,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",8.023,6.981,7.589,Cascade County,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",8.051,6.942,7.68,Cascade County,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",8.066,7.086,7.656,Cascade County,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",8.151,6.965,7.509,Cascade County,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",8.07,7.182,7.553,Cascade County,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",7.789,6.979,7.568,Cascade County,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",8.264,7.287,7.528,Cascade County,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",8.183,7.303,7.795,Cascade County,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",8.295,7.081,7.612,Cascade County,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",8.297,7.095,7.559,Cascade County,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",8.183,7.131,7.827,Cascade County,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",8.058,6.959,7.525,Cascade County,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",8.04,7.183,7.774,Cascade County,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",7.932,7.074,7.511,Cascade County,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",8.14,7.356,7.696,Cascade County,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",8.403,7.027,7.681,Cascade County,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",8.152,7.084,7.481,Cascade County,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",7.752,7.087,7.484,Cascade County,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",7.951,6.942,7.653,Cascade County,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",8.269,7.026,7.753,Cascade County,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",7.636,6.897,7.369,Cascade County,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",8.128,6.758,7.454,Cascade County,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",8.03,7.204,7.6,Cascade County,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",8.261,7.218,7.895,Cascade County,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",8.374,7.095,7.749,Cascade County,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",7.962,6.876,7.453,Cascade County,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",8.582,7.235,7.82,Cascade County,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",8.266,6.905,7.727,Cascade County,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",7.968,7.371,7.677,Cascade County,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",8.472,6.954,7.669,Cascade County,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",8.062,7.105,7.797,Cascade County,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",7.878,6.729,7.566,Cascade County,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",8.165,6.834,7.357,Cascade County,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",8.1,7.325,7.903,Cascade County,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",8.187,7.403,7.736,Cascade County,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",8.273,7.112,8.014,Cascade County,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",7.986,6.844,7.334,Cascade County,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",8.225,7.097,7.57,Cascade County,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",8.401,7.124,7.852,Cascade County,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",8.035,7.077,7.611,Cascade County,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",8.034,6.659,7.515,Cascade County,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",7.951,7.168,7.634,Cascade County,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",8.13,7.314,7.701,Cascade County,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",8.293,6.907,7.905,Cascade County,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",7.55,6.983,7.4,Cascade County,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",8.013,6.68,7.423,Cascade County,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",8.02,7.179,7.773,Cascade County,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",8.288,6.995,7.585,Cascade County,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",8.14,7.195,7.467,Cascade County,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",8.095,6.87,7.682,Cascade County,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",8.098,7.212,7.732,Cascade County,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",8.034,6.987,7.522,Cascade County,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",8.091,7.027,7.354,Cascade County,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",7.999,7.009,7.718,Cascade County,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",8.139,7.125,7.953,Cascade County,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",8.32,7.033,7.656,Cascade County,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",7.656,6.945,7.286,Cascade County,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",7.914,7.104,7.671,Cascade County,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",8.378,6.97,7.858,Cascade County,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",8.276,7.432,7.798,Cascade County,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",7.94,7.027,7.568,Cascade County,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",8.162,6.924,7.707,Cascade County,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",8.407,7.201,7.557,Cascade County,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",8.079,6.896,7.524,Cascade County,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",8.248,6.95,7.428,Cascade County,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",8.008,7.363,7.594,Cascade County,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",7.855,7.05,7.456,Cascade County,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",8.068,7.149,7.744,Cascade County,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",7.636,6.889,7.489,Cascade County,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",8.192,6.698,7.611,Cascade County,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",8.329,7.302,7.724,Cascade County,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",8.185,7.045,7.822,Cascade County,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",8.071,7.112,7.694,Cascade County,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",7.887,7.203,7.624,Cascade County,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",8.27,7.178,7.764,Cascade County,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",8.093,7.238,7.65,Cascade County,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",7.806,6.626,7.491,Cascade County,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",7.964,7.167,7.456,Cascade County,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",8.083,7.33,7.654,Cascade County,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",8.094,7.066,7.331,Cascade County,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",8.128,7.039,7.549,Cascade County,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",7.988,7.073,7.538,Cascade County,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",8.087,7.262,7.708,Cascade County,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",8.074,6.698,7.75,Cascade County,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",8.255,7.152,7.745,Cascade County,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",7.876,6.895,7.33,Cascade County,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",8.098,7.09,7.755,Cascade County,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",8.191,7.167,7.655,Cascade County,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",8.468,6.92,7.396,Cascade County,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",7.93,6.978,7.668,Cascade County,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",8.18,7.291,7.733,Cascade County,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",8.03,6.854,7.408,Cascade County,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",7.987,7.123,7.446,Cascade County,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",8.302,7.145,7.91,Cascade County,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",8.309,7.393,7.941,Cascade County,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",7.798,7.208,7.448,Cascade County,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",7.997,6.607,7.267,Cascade County,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",8.047,6.97,7.52,Cascade County,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",8.311,7.423,7.701,Cascade County,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",8.21,7.343,7.786,Cascade County,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",8.054,6.754,7.452,Cascade County,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",7.973,7.129,7.382,Cascade County,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",8.269,7.132,7.8,Cascade County,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",8.083,6.791,7.347,Cascade County,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",8.256,7.109,7.478,Cascade County,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",7.944,7.251,7.596,Cascade County,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",8.226,7.127,7.772,Cascade County,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",8.389,6.973,7.861,Cascade County,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",7.867,6.987,7.479,Cascade County,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",7.924,7.039,7.664,Cascade County,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",8.433,7.086,7.941,Cascade County,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",7.848,7.039,7.692,Cascade County,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",7.858,7.087,7.459,Cascade County,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",8.319,7.227,7.73,Cascade County,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",8.157,7.311,7.811,Cascade County,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",8.21,7.363,7.876,Cascade County,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",8.094,6.965,7.576,Cascade County,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",8.061,6.665,7.459,Cascade County,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",7.94,7.231,7.649,Cascade County,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",8.255,7.098,7.699,Cascade County,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",7.828,7.241,7.55,Cascade County,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",7.814,6.674,7.406,Cascade County,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",8.314,7.16,7.955,Cascade County,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",7.933,7.094,7.507,Cascade County,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",7.733,7.324,7.566,Cascade County,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",8.394,7.093,7.544,Cascade County,sfcWind

@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),0.947,0,0.158,Middle Milk,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),0.947,0,0.158,Middle Milk,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),0.979,0,0.605,Middle Milk,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1,0,0.394,Middle Milk,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),0.963,0,0.394,Middle Milk,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1,0,0.263,Middle Milk,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),0.963,0,0.29,Middle Milk,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1,0,0.263,Middle Milk,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),0.805,0,0.079,Middle Milk,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1,0,0.368,Middle Milk,con-wet

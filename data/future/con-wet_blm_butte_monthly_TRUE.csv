@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),0.911,0.071,0.446,Butte,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),0.911,0.071,0.446,Butte,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.241,0.043,0.455,Butte,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),0.966,0.071,0.562,Butte,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),0.95,0.257,0.545,Butte,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),0.982,0.089,0.545,Butte,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.092,0.164,0.848,Butte,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1,0.105,0.554,Butte,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.154,0.078,0.366,Butte,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),0.982,0.087,0.58,Butte,con-wet

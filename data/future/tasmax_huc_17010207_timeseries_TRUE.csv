@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,50.391,47.415,48.191,Middle Fork Flathead,tasmax
+1951,Historical Emissions,49.726,47.093,48.668,Middle Fork Flathead,tasmax
+1952,Historical Emissions,49.006,45.849,48.085,Middle Fork Flathead,tasmax
+1953,Historical Emissions,48.949,46.909,48.101,Middle Fork Flathead,tasmax
+1954,Historical Emissions,50.583,45.16,47.362,Middle Fork Flathead,tasmax
+1955,Historical Emissions,50.156,46.119,47.832,Middle Fork Flathead,tasmax
+1956,Historical Emissions,49.908,46.103,48.5,Middle Fork Flathead,tasmax
+1957,Historical Emissions,49.966,45.934,48.09,Middle Fork Flathead,tasmax
+1958,Historical Emissions,49.035,46.668,47.795,Middle Fork Flathead,tasmax
+1959,Historical Emissions,48.015,45.425,47.064,Middle Fork Flathead,tasmax
+1960,Historical Emissions,49.132,45.543,47.134,Middle Fork Flathead,tasmax
+1961,Historical Emissions,49.817,46.165,47.609,Middle Fork Flathead,tasmax
+1962,Historical Emissions,47.901,45.063,47.077,Middle Fork Flathead,tasmax
+1963,Historical Emissions,48.308,46.042,46.983,Middle Fork Flathead,tasmax
+1964,Historical Emissions,49.445,45.87,48.045,Middle Fork Flathead,tasmax
+1965,Historical Emissions,48.643,46.41,47.606,Middle Fork Flathead,tasmax
+1966,Historical Emissions,50.165,46.086,47.205,Middle Fork Flathead,tasmax
+1967,Historical Emissions,48.723,46.655,47.382,Middle Fork Flathead,tasmax
+1968,Historical Emissions,48.542,43.848,47.018,Middle Fork Flathead,tasmax
+1969,Historical Emissions,48.626,46.112,47.651,Middle Fork Flathead,tasmax
+1970,Historical Emissions,49.108,46.555,47.821,Middle Fork Flathead,tasmax
+1971,Historical Emissions,51.199,46.791,48.887,Middle Fork Flathead,tasmax
+1972,Historical Emissions,48.906,46.055,47.699,Middle Fork Flathead,tasmax
+1973,Historical Emissions,48.934,46.069,47.577,Middle Fork Flathead,tasmax
+1974,Historical Emissions,49.441,45.319,48.278,Middle Fork Flathead,tasmax
+1975,Historical Emissions,48.839,45.625,48.589,Middle Fork Flathead,tasmax
+1976,Historical Emissions,49.23,46.279,47.609,Middle Fork Flathead,tasmax
+1977,Historical Emissions,49.721,47.168,48.258,Middle Fork Flathead,tasmax
+1978,Historical Emissions,49.749,46.585,47.62,Middle Fork Flathead,tasmax
+1979,Historical Emissions,50.232,46.605,48.258,Middle Fork Flathead,tasmax
+1980,Historical Emissions,48.864,46.491,47.434,Middle Fork Flathead,tasmax
+1981,Historical Emissions,50.047,46.935,47.875,Middle Fork Flathead,tasmax
+1982,Historical Emissions,49.512,47.368,47.995,Middle Fork Flathead,tasmax
+1983,Historical Emissions,49.394,46.669,47.438,Middle Fork Flathead,tasmax
+1984,Historical Emissions,49.005,46.614,48.456,Middle Fork Flathead,tasmax
+1985,Historical Emissions,49.191,47.111,47.948,Middle Fork Flathead,tasmax
+1986,Historical Emissions,48.49,45.95,46.594,Middle Fork Flathead,tasmax
+1987,Historical Emissions,49.53,45.19,47.531,Middle Fork Flathead,tasmax
+1988,Historical Emissions,49.071,46.366,47.713,Middle Fork Flathead,tasmax
+1989,Historical Emissions,49.884,47.262,48.178,Middle Fork Flathead,tasmax
+1990,Historical Emissions,51.605,46.912,48.517,Middle Fork Flathead,tasmax
+1991,Historical Emissions,50.493,45.63,47.985,Middle Fork Flathead,tasmax
+1992,Historical Emissions,49.697,46.318,47.016,Middle Fork Flathead,tasmax
+1993,Historical Emissions,49.629,46.264,47.888,Middle Fork Flathead,tasmax
+1994,Historical Emissions,50.897,46.702,47.764,Middle Fork Flathead,tasmax
+1995,Historical Emissions,49.405,46.636,48.013,Middle Fork Flathead,tasmax
+1996,Historical Emissions,51.648,48.876,49.441,Middle Fork Flathead,tasmax
+1997,Historical Emissions,50.356,46.049,48.648,Middle Fork Flathead,tasmax
+1998,Historical Emissions,50.884,46.498,49.022,Middle Fork Flathead,tasmax
+1999,Historical Emissions,50.219,47.159,49.118,Middle Fork Flathead,tasmax
+2000,Historical Emissions,49.787,47.047,47.935,Middle Fork Flathead,tasmax
+2001,Historical Emissions,50.615,47.607,48.96,Middle Fork Flathead,tasmax
+2002,Historical Emissions,52.377,47.621,49.045,Middle Fork Flathead,tasmax
+2003,Historical Emissions,51.376,48.448,49.484,Middle Fork Flathead,tasmax
+2004,Historical Emissions,50.972,49.13,49.71,Middle Fork Flathead,tasmax
+2005,Historical Emissions,52.433,48.211,51.448,Middle Fork Flathead,tasmax
+2006,Historical Emissions,51.129,46.96,48.702,Middle Fork Flathead,tasmax
+2007,Historical Emissions,51.016,48.439,49.621,Middle Fork Flathead,tasmax
+2008,Historical Emissions,51.129,48.155,49.834,Middle Fork Flathead,tasmax
+2009,Historical Emissions,50.487,48.099,49.276,Middle Fork Flathead,tasmax
+2010,Historical Emissions,50.653,48.515,49.798,Middle Fork Flathead,tasmax
+2011,Historical Emissions,51.619,48.453,49.444,Middle Fork Flathead,tasmax
+2012,Historical Emissions,51.773,48.462,50.368,Middle Fork Flathead,tasmax
+2013,Historical Emissions,52.363,48.871,49.935,Middle Fork Flathead,tasmax
+2014,Historical Emissions,51.714,48.817,50.139,Middle Fork Flathead,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",53.074,49.341,50.408,Middle Fork Flathead,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",52.232,47.886,50.292,Middle Fork Flathead,tasmax
+2015,"High Emissions
+(SSP3-7.0)",51.933,48.059,49.903,Middle Fork Flathead,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",50.934,49.298,50.149,Middle Fork Flathead,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",52.469,48.885,50.776,Middle Fork Flathead,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",51.868,48.355,49.206,Middle Fork Flathead,tasmax
+2016,"High Emissions
+(SSP3-7.0)",53.703,48.483,51.32,Middle Fork Flathead,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",52.092,48.695,50.282,Middle Fork Flathead,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",51.344,49.078,50.012,Middle Fork Flathead,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",52.698,49.092,50.396,Middle Fork Flathead,tasmax
+2017,"High Emissions
+(SSP3-7.0)",51.611,49.527,50.46,Middle Fork Flathead,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",52.593,49.397,50.986,Middle Fork Flathead,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",51.599,49.059,50.036,Middle Fork Flathead,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",52.297,48.977,50.473,Middle Fork Flathead,tasmax
+2018,"High Emissions
+(SSP3-7.0)",52.226,48.046,49.372,Middle Fork Flathead,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",51.135,49.248,50.62,Middle Fork Flathead,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",53.231,50.51,52.132,Middle Fork Flathead,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",51.512,47.453,50.268,Middle Fork Flathead,tasmax
+2019,"High Emissions
+(SSP3-7.0)",53.608,48.346,49.044,Middle Fork Flathead,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",53.512,49.73,50.766,Middle Fork Flathead,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",53.655,49.597,50.754,Middle Fork Flathead,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",51.408,48.213,50.211,Middle Fork Flathead,tasmax
+2020,"High Emissions
+(SSP3-7.0)",51.802,48.471,50.611,Middle Fork Flathead,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",51.676,49.236,50.416,Middle Fork Flathead,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",53.558,49.051,50.873,Middle Fork Flathead,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",52.651,49.948,50.538,Middle Fork Flathead,tasmax
+2021,"High Emissions
+(SSP3-7.0)",51.934,49.661,50.886,Middle Fork Flathead,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",52.135,49.646,50.928,Middle Fork Flathead,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",51.896,48.881,50.036,Middle Fork Flathead,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",52.436,49.69,51.496,Middle Fork Flathead,tasmax
+2022,"High Emissions
+(SSP3-7.0)",51.912,49.066,50.454,Middle Fork Flathead,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",52.922,49.9,51.22,Middle Fork Flathead,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",51.711,50.068,50.863,Middle Fork Flathead,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",52.667,49.687,50.898,Middle Fork Flathead,tasmax
+2023,"High Emissions
+(SSP3-7.0)",53.594,48.99,50.449,Middle Fork Flathead,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",51.1,47.941,49.693,Middle Fork Flathead,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",52.675,48.87,51.182,Middle Fork Flathead,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",52.605,50.234,50.986,Middle Fork Flathead,tasmax
+2024,"High Emissions
+(SSP3-7.0)",53.573,49.252,50.633,Middle Fork Flathead,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",53.988,48.756,50.948,Middle Fork Flathead,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",52.948,50.687,51.677,Middle Fork Flathead,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",52.658,47.957,49.735,Middle Fork Flathead,tasmax
+2025,"High Emissions
+(SSP3-7.0)",53.313,50.622,51.331,Middle Fork Flathead,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",53.88,50.3,51.193,Middle Fork Flathead,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",53.262,49.094,50.849,Middle Fork Flathead,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",53.424,48.879,51.023,Middle Fork Flathead,tasmax
+2026,"High Emissions
+(SSP3-7.0)",52.909,47.88,50.768,Middle Fork Flathead,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",53.985,49.685,51.171,Middle Fork Flathead,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",52.988,48.729,50.294,Middle Fork Flathead,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",54.128,48.624,51.923,Middle Fork Flathead,tasmax
+2027,"High Emissions
+(SSP3-7.0)",53.308,49.541,52.1,Middle Fork Flathead,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",53.22,49.557,51.817,Middle Fork Flathead,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",53.134,49.607,51.574,Middle Fork Flathead,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",52.65,47.676,50.798,Middle Fork Flathead,tasmax
+2028,"High Emissions
+(SSP3-7.0)",52.793,49.861,51.457,Middle Fork Flathead,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",53.418,50.279,51.277,Middle Fork Flathead,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",54.74,50.675,52.517,Middle Fork Flathead,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",53.402,49.597,51.013,Middle Fork Flathead,tasmax
+2029,"High Emissions
+(SSP3-7.0)",53.358,48.275,51.051,Middle Fork Flathead,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",53.211,49.86,51.899,Middle Fork Flathead,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",53.21,50.043,50.538,Middle Fork Flathead,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",53.345,50.21,52.014,Middle Fork Flathead,tasmax
+2030,"High Emissions
+(SSP3-7.0)",54.025,49.949,50.43,Middle Fork Flathead,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",54.054,50.093,51.308,Middle Fork Flathead,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",53.033,49.713,51.443,Middle Fork Flathead,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",54.228,49.523,51.64,Middle Fork Flathead,tasmax
+2031,"High Emissions
+(SSP3-7.0)",53.9,49.857,52.34,Middle Fork Flathead,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",54.247,50.499,51.915,Middle Fork Flathead,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",53.098,49.176,51.862,Middle Fork Flathead,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",52.628,49.427,51.24,Middle Fork Flathead,tasmax
+2032,"High Emissions
+(SSP3-7.0)",54.113,49.563,50.169,Middle Fork Flathead,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",54.336,49,50.57,Middle Fork Flathead,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",53.984,50.45,51.408,Middle Fork Flathead,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",53.777,50.08,51.691,Middle Fork Flathead,tasmax
+2033,"High Emissions
+(SSP3-7.0)",53.247,49.632,51.778,Middle Fork Flathead,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",53.358,49.48,52.802,Middle Fork Flathead,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",53.522,49.887,50.753,Middle Fork Flathead,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",53.829,50.408,51.856,Middle Fork Flathead,tasmax
+2034,"High Emissions
+(SSP3-7.0)",53.745,50.388,52.633,Middle Fork Flathead,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",53.898,47.845,51.141,Middle Fork Flathead,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",54.188,49.707,52.683,Middle Fork Flathead,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",54.276,49.847,51.491,Middle Fork Flathead,tasmax
+2035,"High Emissions
+(SSP3-7.0)",52.688,49.183,51.526,Middle Fork Flathead,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",53.22,49.798,52.202,Middle Fork Flathead,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",53.885,51.313,52.674,Middle Fork Flathead,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",52.861,50.094,51.534,Middle Fork Flathead,tasmax
+2036,"High Emissions
+(SSP3-7.0)",52.668,50.754,52.201,Middle Fork Flathead,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",53.99,48.817,53.243,Middle Fork Flathead,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",54.151,51.425,52.81,Middle Fork Flathead,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",54.521,49.098,51.921,Middle Fork Flathead,tasmax
+2037,"High Emissions
+(SSP3-7.0)",53.611,48.113,51.343,Middle Fork Flathead,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",53.641,49.848,51.865,Middle Fork Flathead,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",54.032,50.473,51.757,Middle Fork Flathead,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",53.205,49.848,51.643,Middle Fork Flathead,tasmax
+2038,"High Emissions
+(SSP3-7.0)",54.046,50.576,51.665,Middle Fork Flathead,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",54.145,49.259,53.476,Middle Fork Flathead,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",54.482,49.691,52.508,Middle Fork Flathead,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",52.742,50.501,51.457,Middle Fork Flathead,tasmax
+2039,"High Emissions
+(SSP3-7.0)",54.258,51.653,52.182,Middle Fork Flathead,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",54.571,50.082,51.538,Middle Fork Flathead,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",53.302,49.34,52.259,Middle Fork Flathead,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",53.003,49.862,52.409,Middle Fork Flathead,tasmax
+2040,"High Emissions
+(SSP3-7.0)",53.832,50.596,52.317,Middle Fork Flathead,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",56.276,50.585,53.002,Middle Fork Flathead,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",53.478,48.626,51.476,Middle Fork Flathead,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",53.435,50.588,53.045,Middle Fork Flathead,tasmax
+2041,"High Emissions
+(SSP3-7.0)",53.975,50.654,51.425,Middle Fork Flathead,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",52.828,50.48,52.072,Middle Fork Flathead,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",54.803,50.184,52.05,Middle Fork Flathead,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",52.793,49.171,51.583,Middle Fork Flathead,tasmax
+2042,"High Emissions
+(SSP3-7.0)",53.466,49.646,51.847,Middle Fork Flathead,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",54.475,50.725,52.759,Middle Fork Flathead,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",53.279,50.083,52.293,Middle Fork Flathead,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",53.99,50.25,52.018,Middle Fork Flathead,tasmax
+2043,"High Emissions
+(SSP3-7.0)",52.966,49.813,51.761,Middle Fork Flathead,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",53.936,51.503,52.728,Middle Fork Flathead,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",53.811,51.286,51.852,Middle Fork Flathead,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",55.633,51.007,52.626,Middle Fork Flathead,tasmax
+2044,"High Emissions
+(SSP3-7.0)",53.822,50.461,52.365,Middle Fork Flathead,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",55.914,51.083,52.712,Middle Fork Flathead,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",53.373,51.184,52.359,Middle Fork Flathead,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",55.453,50.284,52.548,Middle Fork Flathead,tasmax
+2045,"High Emissions
+(SSP3-7.0)",53.836,50.308,52.154,Middle Fork Flathead,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",53.927,51.308,52.865,Middle Fork Flathead,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",55.302,50.021,52.621,Middle Fork Flathead,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",53.707,49.713,52.916,Middle Fork Flathead,tasmax
+2046,"High Emissions
+(SSP3-7.0)",53.405,51.464,52.362,Middle Fork Flathead,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",54.151,50.26,51.046,Middle Fork Flathead,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",54.503,51.056,53.215,Middle Fork Flathead,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",54.204,47.864,52.368,Middle Fork Flathead,tasmax
+2047,"High Emissions
+(SSP3-7.0)",53.004,51.292,52.418,Middle Fork Flathead,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",55.832,50.802,54.421,Middle Fork Flathead,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",53.597,50.627,51.812,Middle Fork Flathead,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",55.167,50.516,53.872,Middle Fork Flathead,tasmax
+2048,"High Emissions
+(SSP3-7.0)",55.031,49.747,53.093,Middle Fork Flathead,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",56.703,51.05,54.379,Middle Fork Flathead,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",53.336,50.328,50.638,Middle Fork Flathead,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",54.146,50.628,52.786,Middle Fork Flathead,tasmax
+2049,"High Emissions
+(SSP3-7.0)",54.44,51.2,53.523,Middle Fork Flathead,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",54.617,52.065,53.453,Middle Fork Flathead,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",54.437,49.285,52.46,Middle Fork Flathead,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",54.722,50.349,53.894,Middle Fork Flathead,tasmax
+2050,"High Emissions
+(SSP3-7.0)",55.074,51.147,53.03,Middle Fork Flathead,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",55.865,51.404,53.801,Middle Fork Flathead,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",54.123,50.07,53.228,Middle Fork Flathead,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",54.613,51.446,52.448,Middle Fork Flathead,tasmax
+2051,"High Emissions
+(SSP3-7.0)",55.469,51.089,52.815,Middle Fork Flathead,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",54.615,51.254,53.565,Middle Fork Flathead,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",52.98,50.392,52.705,Middle Fork Flathead,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",54.725,51.135,52.355,Middle Fork Flathead,tasmax
+2052,"High Emissions
+(SSP3-7.0)",55.473,49.81,52.035,Middle Fork Flathead,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",54.847,52.152,53.801,Middle Fork Flathead,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",53.612,49.977,51.775,Middle Fork Flathead,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",54.101,51.42,52.836,Middle Fork Flathead,tasmax
+2053,"High Emissions
+(SSP3-7.0)",56.733,52.03,55.595,Middle Fork Flathead,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",56.571,51.921,52.631,Middle Fork Flathead,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",54.822,51.96,53.191,Middle Fork Flathead,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",53.988,50.975,51.47,Middle Fork Flathead,tasmax
+2054,"High Emissions
+(SSP3-7.0)",54.844,50.72,52.013,Middle Fork Flathead,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",56.155,51.915,53.41,Middle Fork Flathead,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",54.025,52.059,52.881,Middle Fork Flathead,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",55.424,50.779,53.442,Middle Fork Flathead,tasmax
+2055,"High Emissions
+(SSP3-7.0)",54.91,51.502,52.928,Middle Fork Flathead,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",56.229,51.948,54.732,Middle Fork Flathead,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",54.371,51.021,53.27,Middle Fork Flathead,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",55.602,51.737,52.99,Middle Fork Flathead,tasmax
+2056,"High Emissions
+(SSP3-7.0)",55.626,51.23,53.052,Middle Fork Flathead,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",56.033,52.713,55.251,Middle Fork Flathead,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",53.733,48.714,52.566,Middle Fork Flathead,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",54.926,51.998,53.492,Middle Fork Flathead,tasmax
+2057,"High Emissions
+(SSP3-7.0)",55.747,50.447,51.496,Middle Fork Flathead,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",56.086,50.806,54.165,Middle Fork Flathead,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",55.008,51.035,52.792,Middle Fork Flathead,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",56.796,51.584,53.835,Middle Fork Flathead,tasmax
+2058,"High Emissions
+(SSP3-7.0)",55.071,51.781,53.706,Middle Fork Flathead,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",56.532,50.867,52.88,Middle Fork Flathead,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",55.035,51.094,51.787,Middle Fork Flathead,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",56.765,51.796,54.334,Middle Fork Flathead,tasmax
+2059,"High Emissions
+(SSP3-7.0)",57.389,51.708,54.394,Middle Fork Flathead,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",56.684,53.117,54.666,Middle Fork Flathead,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",54.849,50.721,52.188,Middle Fork Flathead,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",56.358,51.608,53.014,Middle Fork Flathead,tasmax
+2060,"High Emissions
+(SSP3-7.0)",55.103,51.646,53.397,Middle Fork Flathead,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",55.714,52.594,54.453,Middle Fork Flathead,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",54.476,50.956,52.456,Middle Fork Flathead,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",54.928,50.88,53.205,Middle Fork Flathead,tasmax
+2061,"High Emissions
+(SSP3-7.0)",55.383,52.252,54.229,Middle Fork Flathead,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",58.219,53.582,54.452,Middle Fork Flathead,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",54.049,51.549,52.17,Middle Fork Flathead,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",55.983,50.799,52.295,Middle Fork Flathead,tasmax
+2062,"High Emissions
+(SSP3-7.0)",54.831,52.681,53.985,Middle Fork Flathead,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",56.667,53.406,54.92,Middle Fork Flathead,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",54.204,51.004,52.087,Middle Fork Flathead,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",55.178,50.367,52.907,Middle Fork Flathead,tasmax
+2063,"High Emissions
+(SSP3-7.0)",55.509,52.275,53.519,Middle Fork Flathead,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",57.41,52.381,55.89,Middle Fork Flathead,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",55.212,50.017,53.475,Middle Fork Flathead,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",53.55,51.405,52.25,Middle Fork Flathead,tasmax
+2064,"High Emissions
+(SSP3-7.0)",54.889,52.479,53.579,Middle Fork Flathead,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",55.729,53.379,54.256,Middle Fork Flathead,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",54.253,49.33,52.046,Middle Fork Flathead,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",55.393,50.5,53.628,Middle Fork Flathead,tasmax
+2065,"High Emissions
+(SSP3-7.0)",55.714,52.119,53.48,Middle Fork Flathead,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",58.138,53.986,55.238,Middle Fork Flathead,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",55.221,51.444,53.403,Middle Fork Flathead,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",56.291,52.311,54.347,Middle Fork Flathead,tasmax
+2066,"High Emissions
+(SSP3-7.0)",55.89,51.369,53.108,Middle Fork Flathead,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",58.075,53.14,55.661,Middle Fork Flathead,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",54.872,52.29,52.868,Middle Fork Flathead,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",55.625,51.556,51.958,Middle Fork Flathead,tasmax
+2067,"High Emissions
+(SSP3-7.0)",57.303,54.054,55.339,Middle Fork Flathead,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",57.983,53.312,54.58,Middle Fork Flathead,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",55.106,50.753,52.11,Middle Fork Flathead,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",54.531,52.041,53.582,Middle Fork Flathead,tasmax
+2068,"High Emissions
+(SSP3-7.0)",56.293,51.685,53.115,Middle Fork Flathead,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",56.774,54.214,54.612,Middle Fork Flathead,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",55.313,51.872,53.339,Middle Fork Flathead,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",55.013,51.009,52.766,Middle Fork Flathead,tasmax
+2069,"High Emissions
+(SSP3-7.0)",59.881,53.462,54.381,Middle Fork Flathead,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",59.723,54.146,56.123,Middle Fork Flathead,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",54.165,50.991,52.706,Middle Fork Flathead,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",55.799,50.62,53.136,Middle Fork Flathead,tasmax
+2070,"High Emissions
+(SSP3-7.0)",58.134,53.321,54.695,Middle Fork Flathead,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",59.85,54.111,55.866,Middle Fork Flathead,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",55.8,50.337,52.467,Middle Fork Flathead,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",55.276,51.598,53.622,Middle Fork Flathead,tasmax
+2071,"High Emissions
+(SSP3-7.0)",56.376,53.944,54.821,Middle Fork Flathead,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",58.781,53.264,55.341,Middle Fork Flathead,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",55.507,51.728,52.61,Middle Fork Flathead,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",55.492,51.283,53.64,Middle Fork Flathead,tasmax
+2072,"High Emissions
+(SSP3-7.0)",57.184,51.523,54.498,Middle Fork Flathead,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",57.751,54.588,55.936,Middle Fork Flathead,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",53.994,50.595,52.122,Middle Fork Flathead,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",55.422,50.268,54.104,Middle Fork Flathead,tasmax
+2073,"High Emissions
+(SSP3-7.0)",56.466,53.451,54.701,Middle Fork Flathead,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",57.965,53.881,55.458,Middle Fork Flathead,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",56.016,49.569,53.342,Middle Fork Flathead,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",56.185,51.994,52.811,Middle Fork Flathead,tasmax
+2074,"High Emissions
+(SSP3-7.0)",56.574,52.829,53.85,Middle Fork Flathead,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",59.783,53.952,55.706,Middle Fork Flathead,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",55.899,49.014,52.226,Middle Fork Flathead,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",57.022,51.12,52.61,Middle Fork Flathead,tasmax
+2075,"High Emissions
+(SSP3-7.0)",57.917,51.896,53.016,Middle Fork Flathead,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",58.779,53.866,55.925,Middle Fork Flathead,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",54.88,49.015,52.016,Middle Fork Flathead,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",54.823,51.501,52.8,Middle Fork Flathead,tasmax
+2076,"High Emissions
+(SSP3-7.0)",57.708,53.46,54.836,Middle Fork Flathead,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",58.491,53.823,55.641,Middle Fork Flathead,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",54.893,50.97,53.62,Middle Fork Flathead,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",56.378,51.956,54.305,Middle Fork Flathead,tasmax
+2077,"High Emissions
+(SSP3-7.0)",57.802,52.987,55.17,Middle Fork Flathead,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",59.033,54.536,56.15,Middle Fork Flathead,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",55.036,50.879,52.55,Middle Fork Flathead,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",55.354,52.435,54.087,Middle Fork Flathead,tasmax
+2078,"High Emissions
+(SSP3-7.0)",58.144,53.256,54.632,Middle Fork Flathead,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",57.137,54.167,55.057,Middle Fork Flathead,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",55.091,51.268,52.51,Middle Fork Flathead,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",55.976,51.852,53.991,Middle Fork Flathead,tasmax
+2079,"High Emissions
+(SSP3-7.0)",57.188,53.33,55.55,Middle Fork Flathead,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",59.666,54.441,56.176,Middle Fork Flathead,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",53.995,50.877,51.587,Middle Fork Flathead,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",55.736,51.32,53.134,Middle Fork Flathead,tasmax
+2080,"High Emissions
+(SSP3-7.0)",59.238,53.956,54.945,Middle Fork Flathead,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",59.549,55.363,56.952,Middle Fork Flathead,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",55.588,51.042,51.8,Middle Fork Flathead,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",55.984,52.391,53.867,Middle Fork Flathead,tasmax
+2081,"High Emissions
+(SSP3-7.0)",58.534,52.777,54.721,Middle Fork Flathead,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",61.721,55.877,57.896,Middle Fork Flathead,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",55.309,50.66,53.609,Middle Fork Flathead,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",57.46,52.631,53.697,Middle Fork Flathead,tasmax
+2082,"High Emissions
+(SSP3-7.0)",58.16,52.458,55.106,Middle Fork Flathead,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",61.339,54.857,57.782,Middle Fork Flathead,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",55.059,50.976,53.394,Middle Fork Flathead,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",56.789,51.655,52.329,Middle Fork Flathead,tasmax
+2083,"High Emissions
+(SSP3-7.0)",58.376,52.114,55.518,Middle Fork Flathead,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",59.406,55.4,59.075,Middle Fork Flathead,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",55.665,50.181,51.177,Middle Fork Flathead,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",56.859,52.021,54.149,Middle Fork Flathead,tasmax
+2084,"High Emissions
+(SSP3-7.0)",59.266,54.55,56.42,Middle Fork Flathead,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",60.512,55.766,57.513,Middle Fork Flathead,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",54.709,49.051,52.269,Middle Fork Flathead,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",55.793,52.012,54.578,Middle Fork Flathead,tasmax
+2085,"High Emissions
+(SSP3-7.0)",57.432,53.315,54.844,Middle Fork Flathead,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",60.696,55.55,58.303,Middle Fork Flathead,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",55.53,51.672,53.705,Middle Fork Flathead,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",56.093,53.255,54.194,Middle Fork Flathead,tasmax
+2086,"High Emissions
+(SSP3-7.0)",58.422,53.983,56.265,Middle Fork Flathead,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",60.848,55.434,58.731,Middle Fork Flathead,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",52.954,50.873,51.68,Middle Fork Flathead,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",56.766,52.595,54.594,Middle Fork Flathead,tasmax
+2087,"High Emissions
+(SSP3-7.0)",59.341,53.498,56.136,Middle Fork Flathead,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",59.951,56.232,57.281,Middle Fork Flathead,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",55.926,50.412,51.989,Middle Fork Flathead,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",55.918,53.913,55.005,Middle Fork Flathead,tasmax
+2088,"High Emissions
+(SSP3-7.0)",59.128,53.941,56.322,Middle Fork Flathead,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",60.521,56.761,58.367,Middle Fork Flathead,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",53.637,50.342,52.037,Middle Fork Flathead,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",57.285,52.205,54.527,Middle Fork Flathead,tasmax
+2089,"High Emissions
+(SSP3-7.0)",58.961,53.964,57.024,Middle Fork Flathead,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",61.633,56.345,58.731,Middle Fork Flathead,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",54.153,51.214,52.658,Middle Fork Flathead,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",56.219,52.243,54.585,Middle Fork Flathead,tasmax
+2090,"High Emissions
+(SSP3-7.0)",60.093,55.204,56.658,Middle Fork Flathead,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",62.579,57.382,58.397,Middle Fork Flathead,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",54.558,50.717,52.779,Middle Fork Flathead,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",55.657,52.776,54.729,Middle Fork Flathead,tasmax
+2091,"High Emissions
+(SSP3-7.0)",58.89,55.126,57.804,Middle Fork Flathead,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",61.046,55.622,57.799,Middle Fork Flathead,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",54.368,50.096,53.457,Middle Fork Flathead,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",58.333,52.591,55.56,Middle Fork Flathead,tasmax
+2092,"High Emissions
+(SSP3-7.0)",57.727,53.635,55.546,Middle Fork Flathead,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",61.46,56.954,58.19,Middle Fork Flathead,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",54.67,49.909,51.691,Middle Fork Flathead,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",56.66,51.87,54.435,Middle Fork Flathead,tasmax
+2093,"High Emissions
+(SSP3-7.0)",59.989,54.617,56.541,Middle Fork Flathead,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",61.939,56.963,58.626,Middle Fork Flathead,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",55.441,49.995,51.431,Middle Fork Flathead,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",57.85,51.358,55.018,Middle Fork Flathead,tasmax
+2094,"High Emissions
+(SSP3-7.0)",59.591,55.044,56.969,Middle Fork Flathead,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",62.63,56.527,60.902,Middle Fork Flathead,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",55.445,50.444,53.623,Middle Fork Flathead,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",57.809,53.345,55.97,Middle Fork Flathead,tasmax
+2095,"High Emissions
+(SSP3-7.0)",60.761,55.11,58.357,Middle Fork Flathead,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",61.273,56.448,58.191,Middle Fork Flathead,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",54.273,50.599,53.261,Middle Fork Flathead,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",56.352,53.179,55.432,Middle Fork Flathead,tasmax
+2096,"High Emissions
+(SSP3-7.0)",59.379,55.117,57.362,Middle Fork Flathead,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",61.959,57.024,57.678,Middle Fork Flathead,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",55.414,50.383,51.918,Middle Fork Flathead,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",57.669,53.184,55.365,Middle Fork Flathead,tasmax
+2097,"High Emissions
+(SSP3-7.0)",62.646,54.556,57.85,Middle Fork Flathead,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",63.14,56.312,58.421,Middle Fork Flathead,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",53.583,50.684,51.846,Middle Fork Flathead,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",55.442,52.84,54.518,Middle Fork Flathead,tasmax
+2098,"High Emissions
+(SSP3-7.0)",60.892,55.384,56.832,Middle Fork Flathead,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",61.304,56.719,59.654,Middle Fork Flathead,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",55.762,50.17,53.619,Middle Fork Flathead,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",56.94,51.573,54.425,Middle Fork Flathead,tasmax
+2099,"High Emissions
+(SSP3-7.0)",61.763,54.954,56.024,Middle Fork Flathead,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",63.617,57.991,59.625,Middle Fork Flathead,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",54.011,49.846,50.867,Middle Fork Flathead,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",58.141,52.66,54.084,Middle Fork Flathead,tasmax
+2100,"High Emissions
+(SSP3-7.0)",59.276,55.065,57.677,Middle Fork Flathead,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",62.904,56.835,58.35,Middle Fork Flathead,tasmax

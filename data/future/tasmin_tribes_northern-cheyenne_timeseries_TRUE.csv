@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,32.178,28.781,31.058,Northern Cheyenne,tasmin
+1951,Historical Emissions,32.205,29.211,30.975,Northern Cheyenne,tasmin
+1952,Historical Emissions,32.302,29.637,30.228,Northern Cheyenne,tasmin
+1953,Historical Emissions,31.266,28.127,30.456,Northern Cheyenne,tasmin
+1954,Historical Emissions,33.08,27.801,29.878,Northern Cheyenne,tasmin
+1955,Historical Emissions,33.311,29.417,32.085,Northern Cheyenne,tasmin
+1956,Historical Emissions,31.932,30.352,30.859,Northern Cheyenne,tasmin
+1957,Historical Emissions,32.555,29.832,30.984,Northern Cheyenne,tasmin
+1958,Historical Emissions,32.42,30.146,30.363,Northern Cheyenne,tasmin
+1959,Historical Emissions,30.849,27.897,29.644,Northern Cheyenne,tasmin
+1960,Historical Emissions,32.939,27.453,30.119,Northern Cheyenne,tasmin
+1961,Historical Emissions,32.876,29.467,31.681,Northern Cheyenne,tasmin
+1962,Historical Emissions,31.977,28.838,30.154,Northern Cheyenne,tasmin
+1963,Historical Emissions,31.646,28.976,30.593,Northern Cheyenne,tasmin
+1964,Historical Emissions,31.933,28.987,31.173,Northern Cheyenne,tasmin
+1965,Historical Emissions,32.117,29.293,30.083,Northern Cheyenne,tasmin
+1966,Historical Emissions,33.6,29.477,30.999,Northern Cheyenne,tasmin
+1967,Historical Emissions,31.475,29.425,30.591,Northern Cheyenne,tasmin
+1968,Historical Emissions,31.603,27.826,30.213,Northern Cheyenne,tasmin
+1969,Historical Emissions,31.846,28.674,30.486,Northern Cheyenne,tasmin
+1970,Historical Emissions,32.553,29.861,31.785,Northern Cheyenne,tasmin
+1971,Historical Emissions,33.903,29.915,32.492,Northern Cheyenne,tasmin
+1972,Historical Emissions,32.503,28.904,30.639,Northern Cheyenne,tasmin
+1973,Historical Emissions,31.655,29.615,31.328,Northern Cheyenne,tasmin
+1974,Historical Emissions,33.351,28.594,31.537,Northern Cheyenne,tasmin
+1975,Historical Emissions,32.205,27.719,31.705,Northern Cheyenne,tasmin
+1976,Historical Emissions,31.949,28.031,31.38,Northern Cheyenne,tasmin
+1977,Historical Emissions,33.541,30.469,31.776,Northern Cheyenne,tasmin
+1978,Historical Emissions,33.756,29.513,31.505,Northern Cheyenne,tasmin
+1979,Historical Emissions,33.521,30.095,32.235,Northern Cheyenne,tasmin
+1980,Historical Emissions,31.652,30.15,30.752,Northern Cheyenne,tasmin
+1981,Historical Emissions,33.041,30.407,31.75,Northern Cheyenne,tasmin
+1982,Historical Emissions,32.666,30.189,32.12,Northern Cheyenne,tasmin
+1983,Historical Emissions,33.021,30.108,30.922,Northern Cheyenne,tasmin
+1984,Historical Emissions,32.445,29.908,30.894,Northern Cheyenne,tasmin
+1985,Historical Emissions,33.285,30.159,31.759,Northern Cheyenne,tasmin
+1986,Historical Emissions,31.898,29.332,30.791,Northern Cheyenne,tasmin
+1987,Historical Emissions,32.259,28.161,29.143,Northern Cheyenne,tasmin
+1988,Historical Emissions,32.529,29.927,30.92,Northern Cheyenne,tasmin
+1989,Historical Emissions,32.254,29.934,30.905,Northern Cheyenne,tasmin
+1990,Historical Emissions,33.826,30.874,32.726,Northern Cheyenne,tasmin
+1991,Historical Emissions,32.701,29.246,30.474,Northern Cheyenne,tasmin
+1992,Historical Emissions,32.451,29.147,30.46,Northern Cheyenne,tasmin
+1993,Historical Emissions,33.412,29.215,31.473,Northern Cheyenne,tasmin
+1994,Historical Emissions,33.803,30.702,31.423,Northern Cheyenne,tasmin
+1995,Historical Emissions,33.123,29.832,30.81,Northern Cheyenne,tasmin
+1996,Historical Emissions,34.083,29.396,32.79,Northern Cheyenne,tasmin
+1997,Historical Emissions,33.693,30.33,31.597,Northern Cheyenne,tasmin
+1998,Historical Emissions,33.99,28.994,31.607,Northern Cheyenne,tasmin
+1999,Historical Emissions,33.912,31.019,32.353,Northern Cheyenne,tasmin
+2000,Historical Emissions,32.984,30.011,31.396,Northern Cheyenne,tasmin
+2001,Historical Emissions,34.015,30.452,32.009,Northern Cheyenne,tasmin
+2002,Historical Emissions,34.555,31.416,33.415,Northern Cheyenne,tasmin
+2003,Historical Emissions,35.104,31.003,31.9,Northern Cheyenne,tasmin
+2004,Historical Emissions,33.852,31.658,33.086,Northern Cheyenne,tasmin
+2005,Historical Emissions,34.976,30.676,33.744,Northern Cheyenne,tasmin
+2006,Historical Emissions,33.958,30.353,31.555,Northern Cheyenne,tasmin
+2007,Historical Emissions,33.693,31.55,33.045,Northern Cheyenne,tasmin
+2008,Historical Emissions,34.072,31.712,32.896,Northern Cheyenne,tasmin
+2009,Historical Emissions,33.339,31.884,32.58,Northern Cheyenne,tasmin
+2010,Historical Emissions,33.773,31.696,32.679,Northern Cheyenne,tasmin
+2011,Historical Emissions,34.981,32.755,33.37,Northern Cheyenne,tasmin
+2012,Historical Emissions,34.135,31.321,33.043,Northern Cheyenne,tasmin
+2013,Historical Emissions,34.033,30.793,32.445,Northern Cheyenne,tasmin
+2014,Historical Emissions,35.127,32.224,33.323,Northern Cheyenne,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",36.379,31.984,33.784,Northern Cheyenne,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",34.13,31.78,33.138,Northern Cheyenne,tasmin
+2015,"High Emissions
+(SSP3-7.0)",35.47,30.889,33.402,Northern Cheyenne,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",34.034,31.886,33.348,Northern Cheyenne,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",35.553,32.194,34.733,Northern Cheyenne,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",36.392,31.297,32.651,Northern Cheyenne,tasmin
+2016,"High Emissions
+(SSP3-7.0)",36.5,30.339,33.01,Northern Cheyenne,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",34.979,31.201,33.61,Northern Cheyenne,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",34.951,31.741,32.579,Northern Cheyenne,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",36.111,32.217,33.59,Northern Cheyenne,tasmin
+2017,"High Emissions
+(SSP3-7.0)",35.578,32.416,33.783,Northern Cheyenne,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",35.794,32.276,33.62,Northern Cheyenne,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",34.32,31.847,33.244,Northern Cheyenne,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",34.703,32.722,33.332,Northern Cheyenne,tasmin
+2018,"High Emissions
+(SSP3-7.0)",35.164,31.833,33.141,Northern Cheyenne,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",36.558,31.833,33.213,Northern Cheyenne,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",35.936,33.222,34.854,Northern Cheyenne,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",34.628,30.833,32.038,Northern Cheyenne,tasmin
+2019,"High Emissions
+(SSP3-7.0)",35.047,31.008,33.031,Northern Cheyenne,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",35.801,33.029,34.287,Northern Cheyenne,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",36.073,31.07,33.907,Northern Cheyenne,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",34.576,31.471,32.97,Northern Cheyenne,tasmin
+2020,"High Emissions
+(SSP3-7.0)",34.747,31.876,33.377,Northern Cheyenne,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",35.247,32.459,33.546,Northern Cheyenne,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",35.374,32.547,33.648,Northern Cheyenne,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",35.46,31.877,33.502,Northern Cheyenne,tasmin
+2021,"High Emissions
+(SSP3-7.0)",34.906,32.851,33.791,Northern Cheyenne,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",35.579,32.457,34.341,Northern Cheyenne,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",35.365,33.004,33.575,Northern Cheyenne,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",35.743,32.782,33.902,Northern Cheyenne,tasmin
+2022,"High Emissions
+(SSP3-7.0)",35.616,32.642,33.985,Northern Cheyenne,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",36.21,32.83,34.214,Northern Cheyenne,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",35.468,32.963,34.072,Northern Cheyenne,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",35.832,33.061,34.102,Northern Cheyenne,tasmin
+2023,"High Emissions
+(SSP3-7.0)",36.725,32.723,34.154,Northern Cheyenne,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",34.334,31.513,33.255,Northern Cheyenne,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",36.344,32.094,34.553,Northern Cheyenne,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",34.736,32.633,32.91,Northern Cheyenne,tasmin
+2024,"High Emissions
+(SSP3-7.0)",37.261,31.895,32.983,Northern Cheyenne,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",37.075,32.922,35.027,Northern Cheyenne,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",35.525,32.577,35.154,Northern Cheyenne,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",35.827,32.372,33.949,Northern Cheyenne,tasmin
+2025,"High Emissions
+(SSP3-7.0)",35.737,33.007,34.257,Northern Cheyenne,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",36.656,33.274,34.632,Northern Cheyenne,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",35.746,32.557,33.849,Northern Cheyenne,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",35.9,31.536,34.616,Northern Cheyenne,tasmin
+2026,"High Emissions
+(SSP3-7.0)",36.755,32.266,34.53,Northern Cheyenne,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",36.453,33.052,34.447,Northern Cheyenne,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",36.376,32.674,34.194,Northern Cheyenne,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",36.445,33.23,35.311,Northern Cheyenne,tasmin
+2027,"High Emissions
+(SSP3-7.0)",35.899,32.514,34.21,Northern Cheyenne,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",35.61,33.151,33.906,Northern Cheyenne,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",36.412,32.807,34.146,Northern Cheyenne,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",36.812,32.695,33.579,Northern Cheyenne,tasmin
+2028,"High Emissions
+(SSP3-7.0)",35.996,33.768,34.113,Northern Cheyenne,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",36.497,32.893,35.191,Northern Cheyenne,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",36.832,33.984,35.867,Northern Cheyenne,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",36.668,32.391,34.654,Northern Cheyenne,tasmin
+2029,"High Emissions
+(SSP3-7.0)",36.445,31.665,34.188,Northern Cheyenne,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",36.159,34.23,35.031,Northern Cheyenne,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",36.782,33.575,34.669,Northern Cheyenne,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",35.786,33.65,34.791,Northern Cheyenne,tasmin
+2030,"High Emissions
+(SSP3-7.0)",35.723,31.742,34.524,Northern Cheyenne,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",37.004,32.583,34.611,Northern Cheyenne,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",35.399,32.335,33.89,Northern Cheyenne,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",36.881,33.406,35.465,Northern Cheyenne,tasmin
+2031,"High Emissions
+(SSP3-7.0)",36.191,32.988,34.89,Northern Cheyenne,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",37.446,35.226,35.578,Northern Cheyenne,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",35.832,32.788,34.175,Northern Cheyenne,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",35.155,32.984,33.829,Northern Cheyenne,tasmin
+2032,"High Emissions
+(SSP3-7.0)",36.36,33.438,34.158,Northern Cheyenne,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",37.32,34.092,35.125,Northern Cheyenne,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",36.033,33.742,34.601,Northern Cheyenne,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",36.539,33.664,35.419,Northern Cheyenne,tasmin
+2033,"High Emissions
+(SSP3-7.0)",36.632,32.304,34.142,Northern Cheyenne,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",36.174,32.931,34.782,Northern Cheyenne,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",35.091,32.415,33.681,Northern Cheyenne,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",37.526,33.976,34.706,Northern Cheyenne,tasmin
+2034,"High Emissions
+(SSP3-7.0)",36.471,33.487,35.058,Northern Cheyenne,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",36.629,31.272,35.223,Northern Cheyenne,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",35.87,33.504,34.485,Northern Cheyenne,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",36.617,33.035,35.62,Northern Cheyenne,tasmin
+2035,"High Emissions
+(SSP3-7.0)",35.673,33.144,33.856,Northern Cheyenne,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",37.483,32.83,35.316,Northern Cheyenne,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",37.243,34.172,35.163,Northern Cheyenne,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",36.067,32.732,34.636,Northern Cheyenne,tasmin
+2036,"High Emissions
+(SSP3-7.0)",37.268,32.741,34.853,Northern Cheyenne,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",38.575,33.491,35.864,Northern Cheyenne,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",36.988,33.861,35.666,Northern Cheyenne,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",37.072,31.769,34.889,Northern Cheyenne,tasmin
+2037,"High Emissions
+(SSP3-7.0)",35.806,32.848,34.653,Northern Cheyenne,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",36.868,33.89,34.803,Northern Cheyenne,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",38.243,33.265,35.42,Northern Cheyenne,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",36.455,33.692,34.879,Northern Cheyenne,tasmin
+2038,"High Emissions
+(SSP3-7.0)",37.783,34.404,35.08,Northern Cheyenne,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",38.014,33.042,36.467,Northern Cheyenne,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",36.922,34.314,35.07,Northern Cheyenne,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",36.051,33.936,34.531,Northern Cheyenne,tasmin
+2039,"High Emissions
+(SSP3-7.0)",37.699,34.386,35.599,Northern Cheyenne,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",38.072,32.208,35.926,Northern Cheyenne,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",36.778,33.534,35.011,Northern Cheyenne,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",36.094,34.163,34.928,Northern Cheyenne,tasmin
+2040,"High Emissions
+(SSP3-7.0)",37.776,33.396,35.744,Northern Cheyenne,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",39.721,35.3,36.523,Northern Cheyenne,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",36.388,32.319,35.009,Northern Cheyenne,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",36.007,34.112,35.052,Northern Cheyenne,tasmin
+2041,"High Emissions
+(SSP3-7.0)",38.007,33.204,34.368,Northern Cheyenne,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",36.504,33.446,35.862,Northern Cheyenne,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",37.076,34.108,35.589,Northern Cheyenne,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",36.118,32.175,33.245,Northern Cheyenne,tasmin
+2042,"High Emissions
+(SSP3-7.0)",36.836,33.887,35.393,Northern Cheyenne,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",37.745,34.792,35.713,Northern Cheyenne,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",37.028,33.855,35.414,Northern Cheyenne,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",37.58,33.015,35.339,Northern Cheyenne,tasmin
+2043,"High Emissions
+(SSP3-7.0)",36.733,33.536,35.075,Northern Cheyenne,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",36.608,34.918,35.726,Northern Cheyenne,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",37.287,33.346,34.763,Northern Cheyenne,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",37.867,34.36,36.344,Northern Cheyenne,tasmin
+2044,"High Emissions
+(SSP3-7.0)",37.23,33.751,35.522,Northern Cheyenne,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",38.76,34.362,36.077,Northern Cheyenne,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",37.427,33.812,35.909,Northern Cheyenne,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",37.397,33.439,35.423,Northern Cheyenne,tasmin
+2045,"High Emissions
+(SSP3-7.0)",37.342,32.853,34.713,Northern Cheyenne,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",36.762,33.851,36.02,Northern Cheyenne,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",37.85,32.095,35.637,Northern Cheyenne,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",36.84,33.575,36.069,Northern Cheyenne,tasmin
+2046,"High Emissions
+(SSP3-7.0)",37.768,35.459,37.292,Northern Cheyenne,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",38.019,33.118,35.289,Northern Cheyenne,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",37.815,33.948,35.123,Northern Cheyenne,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",37.798,32.324,34.874,Northern Cheyenne,tasmin
+2047,"High Emissions
+(SSP3-7.0)",36.598,33.608,35.791,Northern Cheyenne,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",38.53,34.638,36.681,Northern Cheyenne,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",36.119,33.822,35.119,Northern Cheyenne,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",37.733,33.703,35.508,Northern Cheyenne,tasmin
+2048,"High Emissions
+(SSP3-7.0)",38.01,34.049,36.738,Northern Cheyenne,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",38.938,35.622,37.079,Northern Cheyenne,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",36.84,32.891,33.71,Northern Cheyenne,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",36.971,34.924,36.539,Northern Cheyenne,tasmin
+2049,"High Emissions
+(SSP3-7.0)",39.202,35.017,36.235,Northern Cheyenne,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",37.547,35.342,36.806,Northern Cheyenne,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",35.832,33.114,35.283,Northern Cheyenne,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",38.232,34.153,36.274,Northern Cheyenne,tasmin
+2050,"High Emissions
+(SSP3-7.0)",38.609,35.625,36.677,Northern Cheyenne,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",37.682,35.242,36.959,Northern Cheyenne,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",37.71,33.393,35.683,Northern Cheyenne,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",37.739,33.998,35.51,Northern Cheyenne,tasmin
+2051,"High Emissions
+(SSP3-7.0)",37.544,35.295,36.146,Northern Cheyenne,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",37.567,35.437,35.784,Northern Cheyenne,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",36.657,34.355,35.606,Northern Cheyenne,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",38.098,33.894,35.563,Northern Cheyenne,tasmin
+2052,"High Emissions
+(SSP3-7.0)",39.513,34.895,36.361,Northern Cheyenne,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",37.778,35.742,36.751,Northern Cheyenne,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",37.59,33.975,34.778,Northern Cheyenne,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",37.552,34.038,36.026,Northern Cheyenne,tasmin
+2053,"High Emissions
+(SSP3-7.0)",39.079,35.574,37.711,Northern Cheyenne,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",40.082,35.533,36.333,Northern Cheyenne,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",37.256,34.235,35.517,Northern Cheyenne,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",35.87,34.233,35.178,Northern Cheyenne,tasmin
+2054,"High Emissions
+(SSP3-7.0)",37.638,35.385,35.948,Northern Cheyenne,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",39.861,36.189,37.295,Northern Cheyenne,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",37.789,34.323,35.772,Northern Cheyenne,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",36.914,33.278,35.342,Northern Cheyenne,tasmin
+2055,"High Emissions
+(SSP3-7.0)",37.824,35.342,36.779,Northern Cheyenne,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",39.833,36.363,37.202,Northern Cheyenne,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",37.426,34.251,35.913,Northern Cheyenne,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",38.865,34.373,35.537,Northern Cheyenne,tasmin
+2056,"High Emissions
+(SSP3-7.0)",39.478,34.525,36.45,Northern Cheyenne,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",39.266,36.418,38.015,Northern Cheyenne,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",38.131,33.36,34.749,Northern Cheyenne,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",39.291,35.308,36.05,Northern Cheyenne,tasmin
+2057,"High Emissions
+(SSP3-7.0)",38.695,35.309,36.062,Northern Cheyenne,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",39.197,35.16,37.772,Northern Cheyenne,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",36.864,33.221,34.901,Northern Cheyenne,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",39.876,34.608,36.147,Northern Cheyenne,tasmin
+2058,"High Emissions
+(SSP3-7.0)",38.282,35.379,37.058,Northern Cheyenne,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",39.181,34.93,37.49,Northern Cheyenne,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",37.798,33.214,35.88,Northern Cheyenne,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",39.689,35.564,36.335,Northern Cheyenne,tasmin
+2059,"High Emissions
+(SSP3-7.0)",39.519,35.988,37.376,Northern Cheyenne,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",39.689,36.648,37.883,Northern Cheyenne,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",38.197,33.25,35.097,Northern Cheyenne,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",38.109,34.557,35.849,Northern Cheyenne,tasmin
+2060,"High Emissions
+(SSP3-7.0)",38.734,36.139,37.557,Northern Cheyenne,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",39.611,36.671,38.424,Northern Cheyenne,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",36.818,33.277,34.326,Northern Cheyenne,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",38.623,35.202,35.616,Northern Cheyenne,tasmin
+2061,"High Emissions
+(SSP3-7.0)",38.899,35.442,37.086,Northern Cheyenne,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",40.893,36.376,37.736,Northern Cheyenne,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",36.478,34.625,36.063,Northern Cheyenne,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",39.449,34.376,35.527,Northern Cheyenne,tasmin
+2062,"High Emissions
+(SSP3-7.0)",38.811,35.806,37.237,Northern Cheyenne,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",40.676,36.456,38.097,Northern Cheyenne,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",36.488,33.403,35.599,Northern Cheyenne,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",38.208,34.33,36.609,Northern Cheyenne,tasmin
+2063,"High Emissions
+(SSP3-7.0)",39.354,35.207,36.729,Northern Cheyenne,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",39.64,36.173,38.065,Northern Cheyenne,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",37.938,35.147,36.06,Northern Cheyenne,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",36.911,34.276,36.287,Northern Cheyenne,tasmin
+2064,"High Emissions
+(SSP3-7.0)",37.763,35.862,36.588,Northern Cheyenne,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",40.096,36.08,37.411,Northern Cheyenne,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",37.275,33.729,35.396,Northern Cheyenne,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",37.779,34.001,35.945,Northern Cheyenne,tasmin
+2065,"High Emissions
+(SSP3-7.0)",39.604,36.157,37.142,Northern Cheyenne,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",42.773,35.879,39.402,Northern Cheyenne,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",38.153,32.931,35.151,Northern Cheyenne,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",39.35,36.327,37.057,Northern Cheyenne,tasmin
+2066,"High Emissions
+(SSP3-7.0)",39.452,36.598,37.328,Northern Cheyenne,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",40.853,37.016,39.076,Northern Cheyenne,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",38.863,34.936,36.687,Northern Cheyenne,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",39.281,34.932,35.873,Northern Cheyenne,tasmin
+2067,"High Emissions
+(SSP3-7.0)",39.722,36.495,38.294,Northern Cheyenne,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",42.325,36.367,37.689,Northern Cheyenne,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",37.329,34.518,35.519,Northern Cheyenne,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",38.233,34.837,36.045,Northern Cheyenne,tasmin
+2068,"High Emissions
+(SSP3-7.0)",39.767,35.765,37.134,Northern Cheyenne,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",41.361,37.33,37.91,Northern Cheyenne,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",37.386,34.41,35.713,Northern Cheyenne,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",36.842,34.619,35.615,Northern Cheyenne,tasmin
+2069,"High Emissions
+(SSP3-7.0)",40.114,36.934,38.632,Northern Cheyenne,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",41.669,37.439,38.883,Northern Cheyenne,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",36.792,34.25,35.075,Northern Cheyenne,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",38.033,33.817,36.372,Northern Cheyenne,tasmin
+2070,"High Emissions
+(SSP3-7.0)",40.338,37.253,38.934,Northern Cheyenne,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",42.946,37.888,38.194,Northern Cheyenne,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",38.439,33.398,35.355,Northern Cheyenne,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",39.415,34.898,36.685,Northern Cheyenne,tasmin
+2071,"High Emissions
+(SSP3-7.0)",40.041,37.581,38.575,Northern Cheyenne,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",41.806,36.759,38.953,Northern Cheyenne,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",37.901,34.172,35.739,Northern Cheyenne,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",40.039,35.047,35.843,Northern Cheyenne,tasmin
+2072,"High Emissions
+(SSP3-7.0)",40.15,36.968,37.416,Northern Cheyenne,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",41.07,37.27,38.832,Northern Cheyenne,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",37.325,32.852,34.844,Northern Cheyenne,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",39.456,34.899,36.577,Northern Cheyenne,tasmin
+2073,"High Emissions
+(SSP3-7.0)",40.19,36.927,38.196,Northern Cheyenne,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",42.086,36.479,41.027,Northern Cheyenne,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",38.992,33.384,35.21,Northern Cheyenne,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",38.927,36.072,36.904,Northern Cheyenne,tasmin
+2074,"High Emissions
+(SSP3-7.0)",40.465,36.615,37.333,Northern Cheyenne,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",41.381,36.902,39.279,Northern Cheyenne,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",37.843,33.304,35.292,Northern Cheyenne,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",39.604,34.257,36.031,Northern Cheyenne,tasmin
+2075,"High Emissions
+(SSP3-7.0)",40.687,36.435,37.802,Northern Cheyenne,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",41.996,37.91,39.707,Northern Cheyenne,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",37.339,32.387,34.84,Northern Cheyenne,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",38.591,35.989,36.781,Northern Cheyenne,tasmin
+2076,"High Emissions
+(SSP3-7.0)",40.843,37.555,38.472,Northern Cheyenne,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",42.384,37.523,39.44,Northern Cheyenne,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",37.566,33.318,35.575,Northern Cheyenne,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",39.487,36.053,36.877,Northern Cheyenne,tasmin
+2077,"High Emissions
+(SSP3-7.0)",41.354,36.693,38.252,Northern Cheyenne,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",43.038,38.097,39.008,Northern Cheyenne,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",38.54,34.385,35.622,Northern Cheyenne,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",39.214,36.179,36.647,Northern Cheyenne,tasmin
+2078,"High Emissions
+(SSP3-7.0)",40.856,36.782,38.622,Northern Cheyenne,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",41.18,37.641,39.623,Northern Cheyenne,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",37.174,33.962,35.564,Northern Cheyenne,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",39.912,35.777,36.633,Northern Cheyenne,tasmin
+2079,"High Emissions
+(SSP3-7.0)",40.547,37.007,38.886,Northern Cheyenne,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",42.504,37.339,41.196,Northern Cheyenne,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",36.456,33.691,35.095,Northern Cheyenne,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",39.306,34.846,36.489,Northern Cheyenne,tasmin
+2080,"High Emissions
+(SSP3-7.0)",40.127,37.134,38.735,Northern Cheyenne,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",43.541,38.69,40.497,Northern Cheyenne,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",38.306,32.977,35.197,Northern Cheyenne,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",39.102,35.914,36.763,Northern Cheyenne,tasmin
+2081,"High Emissions
+(SSP3-7.0)",42.944,36.828,37.926,Northern Cheyenne,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",42.819,39.121,40.904,Northern Cheyenne,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",38.142,34.511,36.143,Northern Cheyenne,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",39.983,36.171,37.242,Northern Cheyenne,tasmin
+2082,"High Emissions
+(SSP3-7.0)",42.285,37.125,37.731,Northern Cheyenne,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",43.994,39.307,40.426,Northern Cheyenne,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",37.229,34.419,35.652,Northern Cheyenne,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",40.08,35.277,36.523,Northern Cheyenne,tasmin
+2083,"High Emissions
+(SSP3-7.0)",41.331,36.648,39.399,Northern Cheyenne,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",43.421,39.378,39.902,Northern Cheyenne,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",38.56,33.238,34.68,Northern Cheyenne,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",39.689,35.727,37.752,Northern Cheyenne,tasmin
+2084,"High Emissions
+(SSP3-7.0)",43.12,37.865,40.697,Northern Cheyenne,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",43.317,39.219,40.246,Northern Cheyenne,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",36.809,32.23,35.253,Northern Cheyenne,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",38.77,35.425,37.809,Northern Cheyenne,tasmin
+2085,"High Emissions
+(SSP3-7.0)",41.53,37.319,38.995,Northern Cheyenne,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",43.878,39.369,40.262,Northern Cheyenne,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",38.751,34.606,35.861,Northern Cheyenne,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",38.98,36.605,37.014,Northern Cheyenne,tasmin
+2086,"High Emissions
+(SSP3-7.0)",42.842,37.811,40.163,Northern Cheyenne,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",44.112,39.154,41.094,Northern Cheyenne,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",36.631,33.122,35.471,Northern Cheyenne,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",40.206,35.998,37.77,Northern Cheyenne,tasmin
+2087,"High Emissions
+(SSP3-7.0)",42.478,38.127,40.642,Northern Cheyenne,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",44.302,39.216,40.419,Northern Cheyenne,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",36.813,33.609,35.296,Northern Cheyenne,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",39.301,35.729,37.013,Northern Cheyenne,tasmin
+2088,"High Emissions
+(SSP3-7.0)",43.587,38.003,39.797,Northern Cheyenne,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",43.435,39.627,41.094,Northern Cheyenne,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",36.245,33.927,35.27,Northern Cheyenne,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",39.297,35.472,37.411,Northern Cheyenne,tasmin
+2089,"High Emissions
+(SSP3-7.0)",42.331,37.984,39.684,Northern Cheyenne,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",44.101,40.121,43.535,Northern Cheyenne,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",37.704,34.396,34.874,Northern Cheyenne,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",39.263,35.818,38.242,Northern Cheyenne,tasmin
+2090,"High Emissions
+(SSP3-7.0)",41.544,37.814,39.276,Northern Cheyenne,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",45.611,41.583,42.559,Northern Cheyenne,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",38.195,34.025,35.568,Northern Cheyenne,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",39.989,35.902,38.248,Northern Cheyenne,tasmin
+2091,"High Emissions
+(SSP3-7.0)",43.491,37.657,39.488,Northern Cheyenne,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",44.87,39.349,41.679,Northern Cheyenne,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",38.281,33.422,36.558,Northern Cheyenne,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",39.584,35.946,37.349,Northern Cheyenne,tasmin
+2092,"High Emissions
+(SSP3-7.0)",42.898,37.889,39.646,Northern Cheyenne,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",44.662,40.23,41.579,Northern Cheyenne,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",37.411,34.013,36.584,Northern Cheyenne,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",40.783,35.567,37.158,Northern Cheyenne,tasmin
+2093,"High Emissions
+(SSP3-7.0)",43.483,37.854,40.622,Northern Cheyenne,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",46.1,39.624,42.277,Northern Cheyenne,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",37.644,31.605,35.244,Northern Cheyenne,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",40.253,35.11,37.135,Northern Cheyenne,tasmin
+2094,"High Emissions
+(SSP3-7.0)",43.955,38.668,40.061,Northern Cheyenne,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",46.314,40.4,42.624,Northern Cheyenne,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",36.731,34.022,36.585,Northern Cheyenne,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",41.197,36.025,38.027,Northern Cheyenne,tasmin
+2095,"High Emissions
+(SSP3-7.0)",44.587,38.073,40.501,Northern Cheyenne,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",43.835,39.781,40.669,Northern Cheyenne,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",37.481,33.892,35.418,Northern Cheyenne,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",40.301,36.504,38.262,Northern Cheyenne,tasmin
+2096,"High Emissions
+(SSP3-7.0)",42.863,39.345,41.148,Northern Cheyenne,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",45.286,39.845,42.673,Northern Cheyenne,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",37.232,33.034,34.652,Northern Cheyenne,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",39.876,36.823,37.348,Northern Cheyenne,tasmin
+2097,"High Emissions
+(SSP3-7.0)",44.318,38.08,40.854,Northern Cheyenne,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",47.215,39.395,42.713,Northern Cheyenne,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",37.044,33.062,34.837,Northern Cheyenne,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",39.679,35.816,36.874,Northern Cheyenne,tasmin
+2098,"High Emissions
+(SSP3-7.0)",44.919,38.887,40.048,Northern Cheyenne,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",45.464,40.355,43.084,Northern Cheyenne,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",39.127,33.522,35.704,Northern Cheyenne,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",39.525,35.761,37.066,Northern Cheyenne,tasmin
+2099,"High Emissions
+(SSP3-7.0)",45.442,38.633,40.833,Northern Cheyenne,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",46.771,40.451,43.455,Northern Cheyenne,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",38.011,33.643,34.382,Northern Cheyenne,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",40.325,36.217,38.261,Northern Cheyenne,tasmin
+2100,"High Emissions
+(SSP3-7.0)",43.755,39.134,40.019,Northern Cheyenne,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",46.532,39.8,43.175,Northern Cheyenne,tasmin

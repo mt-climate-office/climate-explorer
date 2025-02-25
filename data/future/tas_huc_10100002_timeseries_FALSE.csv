@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,46.832,44.34,45.768,Big Porcupine,tas
+1951,Historical Emissions,47.095,43.784,45.978,Big Porcupine,tas
+1952,Historical Emissions,47.236,43.093,45.144,Big Porcupine,tas
+1953,Historical Emissions,46.866,42.741,45.374,Big Porcupine,tas
+1954,Historical Emissions,47.163,42.221,45.116,Big Porcupine,tas
+1955,Historical Emissions,48.244,44.115,44.986,Big Porcupine,tas
+1956,Historical Emissions,47.949,44.624,45.982,Big Porcupine,tas
+1957,Historical Emissions,49.017,44.117,46.029,Big Porcupine,tas
+1958,Historical Emissions,47.196,44.413,44.898,Big Porcupine,tas
+1959,Historical Emissions,45.898,42.341,44.158,Big Porcupine,tas
+1960,Historical Emissions,47.26,42.377,44.442,Big Porcupine,tas
+1961,Historical Emissions,47.412,43.463,45.611,Big Porcupine,tas
+1962,Historical Emissions,46.338,42.871,44.07,Big Porcupine,tas
+1963,Historical Emissions,45.735,43.729,44.376,Big Porcupine,tas
+1964,Historical Emissions,46.269,43.234,45.884,Big Porcupine,tas
+1965,Historical Emissions,46.104,43.663,44.476,Big Porcupine,tas
+1966,Historical Emissions,48.253,43.7,44.721,Big Porcupine,tas
+1967,Historical Emissions,45.835,43.645,45.048,Big Porcupine,tas
+1968,Historical Emissions,45.464,41.68,43.599,Big Porcupine,tas
+1969,Historical Emissions,46.037,42.884,44.98,Big Porcupine,tas
+1970,Historical Emissions,46.803,44.008,45.879,Big Porcupine,tas
+1971,Historical Emissions,48.546,44.999,46.385,Big Porcupine,tas
+1972,Historical Emissions,46.231,43.961,45.22,Big Porcupine,tas
+1973,Historical Emissions,46.78,42.905,45.117,Big Porcupine,tas
+1974,Historical Emissions,47.572,43.334,46.019,Big Porcupine,tas
+1975,Historical Emissions,46.849,42.169,45.777,Big Porcupine,tas
+1976,Historical Emissions,45.915,42.959,45.247,Big Porcupine,tas
+1977,Historical Emissions,47.52,44.501,46.276,Big Porcupine,tas
+1978,Historical Emissions,48.051,43.555,44.909,Big Porcupine,tas
+1979,Historical Emissions,48.031,43.572,46.768,Big Porcupine,tas
+1980,Historical Emissions,46.462,43.983,44.879,Big Porcupine,tas
+1981,Historical Emissions,47.439,44.995,46.227,Big Porcupine,tas
+1982,Historical Emissions,46.525,44.549,45.7,Big Porcupine,tas
+1983,Historical Emissions,47.301,43.803,45.061,Big Porcupine,tas
+1984,Historical Emissions,47.325,43.976,45.644,Big Porcupine,tas
+1985,Historical Emissions,47.456,44.255,46.205,Big Porcupine,tas
+1986,Historical Emissions,45.514,43.232,44.439,Big Porcupine,tas
+1987,Historical Emissions,46.489,41.926,43.856,Big Porcupine,tas
+1988,Historical Emissions,46.821,43.527,44.657,Big Porcupine,tas
+1989,Historical Emissions,47.152,44.118,45.51,Big Porcupine,tas
+1990,Historical Emissions,48.602,44.6,46.526,Big Porcupine,tas
+1991,Historical Emissions,47.116,43.455,44.809,Big Porcupine,tas
+1992,Historical Emissions,46.653,43.715,44.563,Big Porcupine,tas
+1993,Historical Emissions,47.386,43.627,45.14,Big Porcupine,tas
+1994,Historical Emissions,48.141,44.708,45.241,Big Porcupine,tas
+1995,Historical Emissions,48.271,44.643,45.306,Big Porcupine,tas
+1996,Historical Emissions,48.544,45.351,46.727,Big Porcupine,tas
+1997,Historical Emissions,48.987,44.189,46.365,Big Porcupine,tas
+1998,Historical Emissions,47.674,43.573,46.442,Big Porcupine,tas
+1999,Historical Emissions,47.904,45.479,46.362,Big Porcupine,tas
+2000,Historical Emissions,47.424,44.519,45.522,Big Porcupine,tas
+2001,Historical Emissions,47.855,44.799,45.806,Big Porcupine,tas
+2002,Historical Emissions,49.092,45.256,47.256,Big Porcupine,tas
+2003,Historical Emissions,48.971,45.56,46.261,Big Porcupine,tas
+2004,Historical Emissions,48.262,46.34,47.464,Big Porcupine,tas
+2005,Historical Emissions,49.74,45.447,48.242,Big Porcupine,tas
+2006,Historical Emissions,48.597,44.229,46.437,Big Porcupine,tas
+2007,Historical Emissions,48.396,46.243,47.535,Big Porcupine,tas
+2008,Historical Emissions,48.2,45.962,46.601,Big Porcupine,tas
+2009,Historical Emissions,47.578,45.737,46.554,Big Porcupine,tas
+2010,Historical Emissions,48.302,46.086,47.39,Big Porcupine,tas
+2011,Historical Emissions,49.202,46.907,47.562,Big Porcupine,tas
+2012,Historical Emissions,48.629,46.083,47.487,Big Porcupine,tas
+2013,Historical Emissions,49.764,45.593,46.946,Big Porcupine,tas
+2014,Historical Emissions,50.22,46.841,48.081,Big Porcupine,tas
+2015,"Moderating Emissions
+(SSP1-2.6)",50.826,46.466,47.999,Big Porcupine,tas
+2015,"Middle of the Road
+(SSP2-4.5)",49.964,45.27,47.471,Big Porcupine,tas
+2015,"High Emissions
+(SSP3-7.0)",49.523,45.977,47.945,Big Porcupine,tas
+2015,"Accelerating Emissions
+(SSP5-8.5)",48.891,46.22,47.209,Big Porcupine,tas
+2016,"Moderating Emissions
+(SSP1-2.6)",50.563,47.581,48.751,Big Porcupine,tas
+2016,"Middle of the Road
+(SSP2-4.5)",50.018,45.67,47.605,Big Porcupine,tas
+2016,"High Emissions
+(SSP3-7.0)",51.234,45.627,47.756,Big Porcupine,tas
+2016,"Accelerating Emissions
+(SSP5-8.5)",49.031,45.924,48.407,Big Porcupine,tas
+2017,"Moderating Emissions
+(SSP1-2.6)",49.299,46.38,47.22,Big Porcupine,tas
+2017,"Middle of the Road
+(SSP2-4.5)",50.608,46.208,47.847,Big Porcupine,tas
+2017,"High Emissions
+(SSP3-7.0)",49.761,46.874,47.901,Big Porcupine,tas
+2017,"Accelerating Emissions
+(SSP5-8.5)",49.804,46.26,48.461,Big Porcupine,tas
+2018,"Moderating Emissions
+(SSP1-2.6)",48.646,46.38,47.847,Big Porcupine,tas
+2018,"Middle of the Road
+(SSP2-4.5)",49.456,46.737,48.27,Big Porcupine,tas
+2018,"High Emissions
+(SSP3-7.0)",50.183,45.591,47.202,Big Porcupine,tas
+2018,"Accelerating Emissions
+(SSP5-8.5)",49.79,45.909,47.506,Big Porcupine,tas
+2019,"Moderating Emissions
+(SSP1-2.6)",51.065,47.567,48.903,Big Porcupine,tas
+2019,"Middle of the Road
+(SSP2-4.5)",49.763,45.568,46.601,Big Porcupine,tas
+2019,"High Emissions
+(SSP3-7.0)",50.07,45.515,47.358,Big Porcupine,tas
+2019,"Accelerating Emissions
+(SSP5-8.5)",50.961,47.101,49.391,Big Porcupine,tas
+2020,"Moderating Emissions
+(SSP1-2.6)",51.785,45.848,47.751,Big Porcupine,tas
+2020,"Middle of the Road
+(SSP2-4.5)",50.334,46.276,47.572,Big Porcupine,tas
+2020,"High Emissions
+(SSP3-7.0)",49.125,46.053,48.077,Big Porcupine,tas
+2020,"Accelerating Emissions
+(SSP5-8.5)",49.907,46.511,48.508,Big Porcupine,tas
+2021,"Moderating Emissions
+(SSP1-2.6)",50.131,47.055,48.413,Big Porcupine,tas
+2021,"Middle of the Road
+(SSP2-4.5)",50.239,46.148,48.571,Big Porcupine,tas
+2021,"High Emissions
+(SSP3-7.0)",49.362,47.386,48.33,Big Porcupine,tas
+2021,"Accelerating Emissions
+(SSP5-8.5)",50.523,46.886,48.856,Big Porcupine,tas
+2022,"Moderating Emissions
+(SSP1-2.6)",50.093,47.161,47.853,Big Porcupine,tas
+2022,"Middle of the Road
+(SSP2-4.5)",50.708,46.013,48.24,Big Porcupine,tas
+2022,"High Emissions
+(SSP3-7.0)",49.992,46.539,47.412,Big Porcupine,tas
+2022,"Accelerating Emissions
+(SSP5-8.5)",50.866,46.428,49.247,Big Porcupine,tas
+2023,"Moderating Emissions
+(SSP1-2.6)",49.93,47.392,48.096,Big Porcupine,tas
+2023,"Middle of the Road
+(SSP2-4.5)",50.408,46.9,48.171,Big Porcupine,tas
+2023,"High Emissions
+(SSP3-7.0)",51.302,46.344,48.632,Big Porcupine,tas
+2023,"Accelerating Emissions
+(SSP5-8.5)",48.636,45.037,47.029,Big Porcupine,tas
+2024,"Moderating Emissions
+(SSP1-2.6)",50.626,47.161,48.794,Big Porcupine,tas
+2024,"Middle of the Road
+(SSP2-4.5)",49.372,46.426,47.814,Big Porcupine,tas
+2024,"High Emissions
+(SSP3-7.0)",51.752,46.899,47.805,Big Porcupine,tas
+2024,"Accelerating Emissions
+(SSP5-8.5)",50.914,46.648,49.079,Big Porcupine,tas
+2025,"Moderating Emissions
+(SSP1-2.6)",50.08,47.581,49.67,Big Porcupine,tas
+2025,"Middle of the Road
+(SSP2-4.5)",50.641,45.969,48.139,Big Porcupine,tas
+2025,"High Emissions
+(SSP3-7.0)",50.515,48.053,48.834,Big Porcupine,tas
+2025,"Accelerating Emissions
+(SSP5-8.5)",50.849,47.393,48.841,Big Porcupine,tas
+2026,"Moderating Emissions
+(SSP1-2.6)",51.316,47.059,47.916,Big Porcupine,tas
+2026,"Middle of the Road
+(SSP2-4.5)",50.76,46.412,49.199,Big Porcupine,tas
+2026,"High Emissions
+(SSP3-7.0)",50.737,45.559,48.219,Big Porcupine,tas
+2026,"Accelerating Emissions
+(SSP5-8.5)",50.95,46.614,48.542,Big Porcupine,tas
+2027,"Moderating Emissions
+(SSP1-2.6)",50.187,47.008,49.337,Big Porcupine,tas
+2027,"Middle of the Road
+(SSP2-4.5)",51.359,47.586,49.199,Big Porcupine,tas
+2027,"High Emissions
+(SSP3-7.0)",50.062,46.494,48.21,Big Porcupine,tas
+2027,"Accelerating Emissions
+(SSP5-8.5)",50.163,47.513,48.449,Big Porcupine,tas
+2028,"Moderating Emissions
+(SSP1-2.6)",49.886,47.084,48.569,Big Porcupine,tas
+2028,"Middle of the Road
+(SSP2-4.5)",49.866,46.288,48.142,Big Porcupine,tas
+2028,"High Emissions
+(SSP3-7.0)",50.156,47.868,48.548,Big Porcupine,tas
+2028,"Accelerating Emissions
+(SSP5-8.5)",51.408,47.22,48.226,Big Porcupine,tas
+2029,"Moderating Emissions
+(SSP1-2.6)",52.45,48.373,50.108,Big Porcupine,tas
+2029,"Middle of the Road
+(SSP2-4.5)",51.097,45.915,48.89,Big Porcupine,tas
+2029,"High Emissions
+(SSP3-7.0)",50.383,45.548,47.966,Big Porcupine,tas
+2029,"Accelerating Emissions
+(SSP5-8.5)",50.716,48.291,49.167,Big Porcupine,tas
+2030,"Moderating Emissions
+(SSP1-2.6)",51.109,47.61,48.918,Big Porcupine,tas
+2030,"Middle of the Road
+(SSP2-4.5)",51.233,47.902,49.348,Big Porcupine,tas
+2030,"High Emissions
+(SSP3-7.0)",50.985,46.712,48.191,Big Porcupine,tas
+2030,"Accelerating Emissions
+(SSP5-8.5)",51.414,46.771,49.179,Big Porcupine,tas
+2031,"Moderating Emissions
+(SSP1-2.6)",50.679,46.784,48.784,Big Porcupine,tas
+2031,"Middle of the Road
+(SSP2-4.5)",51.201,47.819,48.812,Big Porcupine,tas
+2031,"High Emissions
+(SSP3-7.0)",51.376,47.133,50.183,Big Porcupine,tas
+2031,"Accelerating Emissions
+(SSP5-8.5)",52.699,49.231,50.802,Big Porcupine,tas
+2032,"Moderating Emissions
+(SSP1-2.6)",50.184,46.659,48.543,Big Porcupine,tas
+2032,"Middle of the Road
+(SSP2-4.5)",49.844,47.261,48.194,Big Porcupine,tas
+2032,"High Emissions
+(SSP3-7.0)",51.983,47.466,48.48,Big Porcupine,tas
+2032,"Accelerating Emissions
+(SSP5-8.5)",51.671,47.18,49.522,Big Porcupine,tas
+2033,"Moderating Emissions
+(SSP1-2.6)",50.967,47.923,48.859,Big Porcupine,tas
+2033,"Middle of the Road
+(SSP2-4.5)",51.615,47.638,49.519,Big Porcupine,tas
+2033,"High Emissions
+(SSP3-7.0)",51.026,46.853,47.883,Big Porcupine,tas
+2033,"Accelerating Emissions
+(SSP5-8.5)",50.579,47.719,49.716,Big Porcupine,tas
+2034,"Moderating Emissions
+(SSP1-2.6)",50.386,46.492,47.924,Big Porcupine,tas
+2034,"Middle of the Road
+(SSP2-4.5)",51.487,47.876,49.042,Big Porcupine,tas
+2034,"High Emissions
+(SSP3-7.0)",51.6,47.486,49.88,Big Porcupine,tas
+2034,"Accelerating Emissions
+(SSP5-8.5)",51.098,45.822,49.229,Big Porcupine,tas
+2035,"Moderating Emissions
+(SSP1-2.6)",51.165,47.399,49.269,Big Porcupine,tas
+2035,"Middle of the Road
+(SSP2-4.5)",51.755,47.525,50.172,Big Porcupine,tas
+2035,"High Emissions
+(SSP3-7.0)",49.933,46.913,47.934,Big Porcupine,tas
+2035,"Accelerating Emissions
+(SSP5-8.5)",51.99,47.065,50.12,Big Porcupine,tas
+2036,"Moderating Emissions
+(SSP1-2.6)",51.295,48.167,49.573,Big Porcupine,tas
+2036,"Middle of the Road
+(SSP2-4.5)",50.399,46.894,49.531,Big Porcupine,tas
+2036,"High Emissions
+(SSP3-7.0)",51.218,46.805,49.289,Big Porcupine,tas
+2036,"Accelerating Emissions
+(SSP5-8.5)",52.018,46.372,50.772,Big Porcupine,tas
+2037,"Moderating Emissions
+(SSP1-2.6)",51.72,48.372,50.157,Big Porcupine,tas
+2037,"Middle of the Road
+(SSP2-4.5)",51.741,45.844,49.213,Big Porcupine,tas
+2037,"High Emissions
+(SSP3-7.0)",50.179,46.659,48.236,Big Porcupine,tas
+2037,"Accelerating Emissions
+(SSP5-8.5)",51.903,48.206,49.002,Big Porcupine,tas
+2038,"Moderating Emissions
+(SSP1-2.6)",52.236,47.861,49.951,Big Porcupine,tas
+2038,"Middle of the Road
+(SSP2-4.5)",50.23,47.763,49.029,Big Porcupine,tas
+2038,"High Emissions
+(SSP3-7.0)",51.193,48.518,50.288,Big Porcupine,tas
+2038,"Accelerating Emissions
+(SSP5-8.5)",53.199,47.612,51.051,Big Porcupine,tas
+2039,"Moderating Emissions
+(SSP1-2.6)",51.456,47.4,50.292,Big Porcupine,tas
+2039,"Middle of the Road
+(SSP2-4.5)",51.128,47.465,49.159,Big Porcupine,tas
+2039,"High Emissions
+(SSP3-7.0)",51.899,48.755,50.395,Big Porcupine,tas
+2039,"Accelerating Emissions
+(SSP5-8.5)",52.374,46.721,49.802,Big Porcupine,tas
+2040,"Moderating Emissions
+(SSP1-2.6)",51.606,47.704,49.548,Big Porcupine,tas
+2040,"Middle of the Road
+(SSP2-4.5)",50.857,48.21,50.108,Big Porcupine,tas
+2040,"High Emissions
+(SSP3-7.0)",52.433,47.934,50.269,Big Porcupine,tas
+2040,"Accelerating Emissions
+(SSP5-8.5)",54.177,49.364,50.652,Big Porcupine,tas
+2041,"Moderating Emissions
+(SSP1-2.6)",51.108,46.467,49.131,Big Porcupine,tas
+2041,"Middle of the Road
+(SSP2-4.5)",50.811,48.727,49.235,Big Porcupine,tas
+2041,"High Emissions
+(SSP3-7.0)",51.2,47.3,48.906,Big Porcupine,tas
+2041,"Accelerating Emissions
+(SSP5-8.5)",50.597,48.389,50.173,Big Porcupine,tas
+2042,"Moderating Emissions
+(SSP1-2.6)",52.439,48.043,49.313,Big Porcupine,tas
+2042,"Middle of the Road
+(SSP2-4.5)",50.4,46.324,48.618,Big Porcupine,tas
+2042,"High Emissions
+(SSP3-7.0)",51.144,48.265,49.334,Big Porcupine,tas
+2042,"Accelerating Emissions
+(SSP5-8.5)",52.761,48.583,50.643,Big Porcupine,tas
+2043,"Moderating Emissions
+(SSP1-2.6)",50.744,47.586,49.662,Big Porcupine,tas
+2043,"Middle of the Road
+(SSP2-4.5)",52.129,47.162,49.898,Big Porcupine,tas
+2043,"High Emissions
+(SSP3-7.0)",51.153,46.989,49.936,Big Porcupine,tas
+2043,"Accelerating Emissions
+(SSP5-8.5)",51.944,49.076,50.307,Big Porcupine,tas
+2044,"Moderating Emissions
+(SSP1-2.6)",51.459,47.911,49.389,Big Porcupine,tas
+2044,"Middle of the Road
+(SSP2-4.5)",53.231,48.597,51.386,Big Porcupine,tas
+2044,"High Emissions
+(SSP3-7.0)",51.481,48.797,49.781,Big Porcupine,tas
+2044,"Accelerating Emissions
+(SSP5-8.5)",53.276,47.929,49.96,Big Porcupine,tas
+2045,"Moderating Emissions
+(SSP1-2.6)",51.396,47.705,49.929,Big Porcupine,tas
+2045,"Middle of the Road
+(SSP2-4.5)",52.764,47.644,50.894,Big Porcupine,tas
+2045,"High Emissions
+(SSP3-7.0)",51.907,47.443,49.672,Big Porcupine,tas
+2045,"Accelerating Emissions
+(SSP5-8.5)",51.127,47.519,50.044,Big Porcupine,tas
+2046,"Moderating Emissions
+(SSP1-2.6)",54.072,46.458,50.222,Big Porcupine,tas
+2046,"Middle of the Road
+(SSP2-4.5)",51.738,47.512,49.554,Big Porcupine,tas
+2046,"High Emissions
+(SSP3-7.0)",52.506,49.824,51.012,Big Porcupine,tas
+2046,"Accelerating Emissions
+(SSP5-8.5)",52.286,47.833,49.187,Big Porcupine,tas
+2047,"Moderating Emissions
+(SSP1-2.6)",51.495,48.155,50.797,Big Porcupine,tas
+2047,"Middle of the Road
+(SSP2-4.5)",51.687,45.783,49.121,Big Porcupine,tas
+2047,"High Emissions
+(SSP3-7.0)",50.32,47.875,49.328,Big Porcupine,tas
+2047,"Accelerating Emissions
+(SSP5-8.5)",53.336,48.818,51.296,Big Porcupine,tas
+2048,"Moderating Emissions
+(SSP1-2.6)",50.835,48.269,49.736,Big Porcupine,tas
+2048,"Middle of the Road
+(SSP2-4.5)",52.741,47.802,49.877,Big Porcupine,tas
+2048,"High Emissions
+(SSP3-7.0)",52.727,48.077,49.696,Big Porcupine,tas
+2048,"Accelerating Emissions
+(SSP5-8.5)",55.546,49.043,52.155,Big Porcupine,tas
+2049,"Moderating Emissions
+(SSP1-2.6)",51.37,47.504,48.379,Big Porcupine,tas
+2049,"Middle of the Road
+(SSP2-4.5)",52.233,49.832,50.684,Big Porcupine,tas
+2049,"High Emissions
+(SSP3-7.0)",53.144,48.939,50.82,Big Porcupine,tas
+2049,"Accelerating Emissions
+(SSP5-8.5)",51.789,49.051,51.068,Big Porcupine,tas
+2050,"Moderating Emissions
+(SSP1-2.6)",50.905,47.396,49.426,Big Porcupine,tas
+2050,"Middle of the Road
+(SSP2-4.5)",53.166,49.527,50.115,Big Porcupine,tas
+2050,"High Emissions
+(SSP3-7.0)",53.516,49.494,50.332,Big Porcupine,tas
+2050,"Accelerating Emissions
+(SSP5-8.5)",52.65,49.837,51.356,Big Porcupine,tas
+2051,"Moderating Emissions
+(SSP1-2.6)",52.01,47.024,49.834,Big Porcupine,tas
+2051,"Middle of the Road
+(SSP2-4.5)",53.44,48.883,50.255,Big Porcupine,tas
+2051,"High Emissions
+(SSP3-7.0)",51.853,49.612,50.754,Big Porcupine,tas
+2051,"Accelerating Emissions
+(SSP5-8.5)",52.553,49.522,51.283,Big Porcupine,tas
+2052,"Moderating Emissions
+(SSP1-2.6)",51.587,48.863,49.801,Big Porcupine,tas
+2052,"Middle of the Road
+(SSP2-4.5)",52.853,48.52,49.551,Big Porcupine,tas
+2052,"High Emissions
+(SSP3-7.0)",54.463,48.08,49.86,Big Porcupine,tas
+2052,"Accelerating Emissions
+(SSP5-8.5)",52.598,49.971,51.89,Big Porcupine,tas
+2053,"Moderating Emissions
+(SSP1-2.6)",51.935,47.78,49.683,Big Porcupine,tas
+2053,"Middle of the Road
+(SSP2-4.5)",51.963,47.561,50.5,Big Porcupine,tas
+2053,"High Emissions
+(SSP3-7.0)",53.49,49.839,52.44,Big Porcupine,tas
+2053,"Accelerating Emissions
+(SSP5-8.5)",54.65,49.526,50.624,Big Porcupine,tas
+2054,"Moderating Emissions
+(SSP1-2.6)",52.242,49.037,50.21,Big Porcupine,tas
+2054,"Middle of the Road
+(SSP2-4.5)",51.095,47.898,49.139,Big Porcupine,tas
+2054,"High Emissions
+(SSP3-7.0)",52.972,49.163,50.009,Big Porcupine,tas
+2054,"Accelerating Emissions
+(SSP5-8.5)",54.196,49.909,51.804,Big Porcupine,tas
+2055,"Moderating Emissions
+(SSP1-2.6)",51.66,49.278,49.997,Big Porcupine,tas
+2055,"Middle of the Road
+(SSP2-4.5)",52.326,47.496,50.711,Big Porcupine,tas
+2055,"High Emissions
+(SSP3-7.0)",53.294,49.566,51.22,Big Porcupine,tas
+2055,"Accelerating Emissions
+(SSP5-8.5)",54.872,50.009,52.817,Big Porcupine,tas
+2056,"Moderating Emissions
+(SSP1-2.6)",51.831,48.766,50.69,Big Porcupine,tas
+2056,"Middle of the Road
+(SSP2-4.5)",52.847,48.716,50.126,Big Porcupine,tas
+2056,"High Emissions
+(SSP3-7.0)",53.891,48.627,50.454,Big Porcupine,tas
+2056,"Accelerating Emissions
+(SSP5-8.5)",53.708,49.789,51.871,Big Porcupine,tas
+2057,"Moderating Emissions
+(SSP1-2.6)",51.976,47.431,49.858,Big Porcupine,tas
+2057,"Middle of the Road
+(SSP2-4.5)",53.496,49.588,51.006,Big Porcupine,tas
+2057,"High Emissions
+(SSP3-7.0)",52.859,49.026,50.169,Big Porcupine,tas
+2057,"Accelerating Emissions
+(SSP5-8.5)",53.001,48.201,51.35,Big Porcupine,tas
+2058,"Moderating Emissions
+(SSP1-2.6)",51.815,47.57,49.781,Big Porcupine,tas
+2058,"Middle of the Road
+(SSP2-4.5)",54.376,49.305,51.632,Big Porcupine,tas
+2058,"High Emissions
+(SSP3-7.0)",52.787,49.519,51.052,Big Porcupine,tas
+2058,"Accelerating Emissions
+(SSP5-8.5)",53.032,49.182,50.821,Big Porcupine,tas
+2059,"Moderating Emissions
+(SSP1-2.6)",52.529,48.104,50.873,Big Porcupine,tas
+2059,"Middle of the Road
+(SSP2-4.5)",54.933,49.071,52.102,Big Porcupine,tas
+2059,"High Emissions
+(SSP3-7.0)",54.769,50.049,52.058,Big Porcupine,tas
+2059,"Accelerating Emissions
+(SSP5-8.5)",54.272,51.061,53.133,Big Porcupine,tas
+2060,"Moderating Emissions
+(SSP1-2.6)",53.409,47.618,49.686,Big Porcupine,tas
+2060,"Middle of the Road
+(SSP2-4.5)",53.211,48.493,49.986,Big Porcupine,tas
+2060,"High Emissions
+(SSP3-7.0)",52.855,49.889,51.303,Big Porcupine,tas
+2060,"Accelerating Emissions
+(SSP5-8.5)",53.483,51.262,51.968,Big Porcupine,tas
+2061,"Moderating Emissions
+(SSP1-2.6)",51.628,48.174,49.527,Big Porcupine,tas
+2061,"Middle of the Road
+(SSP2-4.5)",53.055,48.785,51.009,Big Porcupine,tas
+2061,"High Emissions
+(SSP3-7.0)",52.807,49.911,51.541,Big Porcupine,tas
+2061,"Accelerating Emissions
+(SSP5-8.5)",56.263,51.392,52.614,Big Porcupine,tas
+2062,"Moderating Emissions
+(SSP1-2.6)",51.311,48.9,49.374,Big Porcupine,tas
+2062,"Middle of the Road
+(SSP2-4.5)",52.625,48.785,49.903,Big Porcupine,tas
+2062,"High Emissions
+(SSP3-7.0)",52.775,50.007,51.551,Big Porcupine,tas
+2062,"Accelerating Emissions
+(SSP5-8.5)",54.711,51.472,52.513,Big Porcupine,tas
+2063,"Moderating Emissions
+(SSP1-2.6)",51.606,48.004,49.816,Big Porcupine,tas
+2063,"Middle of the Road
+(SSP2-4.5)",52.989,49.181,50.226,Big Porcupine,tas
+2063,"High Emissions
+(SSP3-7.0)",54.353,49.715,51.173,Big Porcupine,tas
+2063,"Accelerating Emissions
+(SSP5-8.5)",55.429,50.121,52.294,Big Porcupine,tas
+2064,"Moderating Emissions
+(SSP1-2.6)",52.151,48.702,50.815,Big Porcupine,tas
+2064,"Middle of the Road
+(SSP2-4.5)",51.28,48.608,50.213,Big Porcupine,tas
+2064,"High Emissions
+(SSP3-7.0)",52.007,49.808,50.706,Big Porcupine,tas
+2064,"Accelerating Emissions
+(SSP5-8.5)",54.223,50.86,52.112,Big Porcupine,tas
+2065,"Moderating Emissions
+(SSP1-2.6)",52.35,47.085,49.396,Big Porcupine,tas
+2065,"Middle of the Road
+(SSP2-4.5)",53.05,48.323,49.465,Big Porcupine,tas
+2065,"High Emissions
+(SSP3-7.0)",54.428,50.744,51.69,Big Porcupine,tas
+2065,"Accelerating Emissions
+(SSP5-8.5)",56.883,50.642,53.415,Big Porcupine,tas
+2066,"Moderating Emissions
+(SSP1-2.6)",52.778,47.778,49.919,Big Porcupine,tas
+2066,"Middle of the Road
+(SSP2-4.5)",53.348,49.695,52.089,Big Porcupine,tas
+2066,"High Emissions
+(SSP3-7.0)",54.291,50.843,51.294,Big Porcupine,tas
+2066,"Accelerating Emissions
+(SSP5-8.5)",55.702,50.375,53.58,Big Porcupine,tas
+2067,"Moderating Emissions
+(SSP1-2.6)",52.831,49.401,50.943,Big Porcupine,tas
+2067,"Middle of the Road
+(SSP2-4.5)",53.665,49.445,50.457,Big Porcupine,tas
+2067,"High Emissions
+(SSP3-7.0)",54.641,51.697,53.171,Big Porcupine,tas
+2067,"Accelerating Emissions
+(SSP5-8.5)",56.814,50.829,52.604,Big Porcupine,tas
+2068,"Moderating Emissions
+(SSP1-2.6)",51.802,48.57,49.93,Big Porcupine,tas
+2068,"Middle of the Road
+(SSP2-4.5)",52.382,49.043,51.225,Big Porcupine,tas
+2068,"High Emissions
+(SSP3-7.0)",53.882,49.689,51.733,Big Porcupine,tas
+2068,"Accelerating Emissions
+(SSP5-8.5)",55.336,52.006,53.057,Big Porcupine,tas
+2069,"Moderating Emissions
+(SSP1-2.6)",53.322,48.528,49.949,Big Porcupine,tas
+2069,"Middle of the Road
+(SSP2-4.5)",51.728,48.423,50.208,Big Porcupine,tas
+2069,"High Emissions
+(SSP3-7.0)",55.127,51.906,53.416,Big Porcupine,tas
+2069,"Accelerating Emissions
+(SSP5-8.5)",57.35,51.359,53.727,Big Porcupine,tas
+2070,"Moderating Emissions
+(SSP1-2.6)",51.532,48.163,50.563,Big Porcupine,tas
+2070,"Middle of the Road
+(SSP2-4.5)",53.165,48.345,50.02,Big Porcupine,tas
+2070,"High Emissions
+(SSP3-7.0)",55.074,51.676,52.988,Big Porcupine,tas
+2070,"Accelerating Emissions
+(SSP5-8.5)",58.395,52.295,53.389,Big Porcupine,tas
+2071,"Moderating Emissions
+(SSP1-2.6)",55.129,46.999,49.724,Big Porcupine,tas
+2071,"Middle of the Road
+(SSP2-4.5)",53.304,49.974,50.779,Big Porcupine,tas
+2071,"High Emissions
+(SSP3-7.0)",54.812,52.18,53.023,Big Porcupine,tas
+2071,"Accelerating Emissions
+(SSP5-8.5)",56.682,51.593,53.01,Big Porcupine,tas
+2072,"Moderating Emissions
+(SSP1-2.6)",53.298,48.809,49.739,Big Porcupine,tas
+2072,"Middle of the Road
+(SSP2-4.5)",53.847,48.477,50.683,Big Porcupine,tas
+2072,"High Emissions
+(SSP3-7.0)",55.163,50.848,52.787,Big Porcupine,tas
+2072,"Accelerating Emissions
+(SSP5-8.5)",55.459,51.703,53.183,Big Porcupine,tas
+2073,"Moderating Emissions
+(SSP1-2.6)",51.908,47.436,50.279,Big Porcupine,tas
+2073,"Middle of the Road
+(SSP2-4.5)",53.278,48.438,51.256,Big Porcupine,tas
+2073,"High Emissions
+(SSP3-7.0)",54.598,50.571,52.902,Big Porcupine,tas
+2073,"Accelerating Emissions
+(SSP5-8.5)",56.503,50.182,54.217,Big Porcupine,tas
+2074,"Moderating Emissions
+(SSP1-2.6)",53.43,47.049,50.096,Big Porcupine,tas
+2074,"Middle of the Road
+(SSP2-4.5)",53.292,50.075,51.162,Big Porcupine,tas
+2074,"High Emissions
+(SSP3-7.0)",54.83,50.29,51.85,Big Porcupine,tas
+2074,"Accelerating Emissions
+(SSP5-8.5)",56.989,51.901,53.189,Big Porcupine,tas
+2075,"Moderating Emissions
+(SSP1-2.6)",53.347,46.914,49.557,Big Porcupine,tas
+2075,"Middle of the Road
+(SSP2-4.5)",54.245,48.761,49.678,Big Porcupine,tas
+2075,"High Emissions
+(SSP3-7.0)",55.843,50.115,51.196,Big Porcupine,tas
+2075,"Accelerating Emissions
+(SSP5-8.5)",56.418,51.635,54.924,Big Porcupine,tas
+2076,"Moderating Emissions
+(SSP1-2.6)",52.422,46.811,49.001,Big Porcupine,tas
+2076,"Middle of the Road
+(SSP2-4.5)",52.148,49.429,50.618,Big Porcupine,tas
+2076,"High Emissions
+(SSP3-7.0)",55.101,51.816,52.449,Big Porcupine,tas
+2076,"Accelerating Emissions
+(SSP5-8.5)",57.474,51.432,53.768,Big Porcupine,tas
+2077,"Moderating Emissions
+(SSP1-2.6)",52.445,48.759,50.372,Big Porcupine,tas
+2077,"Middle of the Road
+(SSP2-4.5)",53.997,50.28,51.192,Big Porcupine,tas
+2077,"High Emissions
+(SSP3-7.0)",55.837,50.904,52.972,Big Porcupine,tas
+2077,"Accelerating Emissions
+(SSP5-8.5)",57.754,52.351,55.207,Big Porcupine,tas
+2078,"Moderating Emissions
+(SSP1-2.6)",52.596,49.028,49.871,Big Porcupine,tas
+2078,"Middle of the Road
+(SSP2-4.5)",53.424,50.193,50.993,Big Porcupine,tas
+2078,"High Emissions
+(SSP3-7.0)",56.272,51.146,52.651,Big Porcupine,tas
+2078,"Accelerating Emissions
+(SSP5-8.5)",54.853,52.55,52.782,Big Porcupine,tas
+2079,"Moderating Emissions
+(SSP1-2.6)",51.777,48.739,50.336,Big Porcupine,tas
+2079,"Middle of the Road
+(SSP2-4.5)",53.489,50.064,50.69,Big Porcupine,tas
+2079,"High Emissions
+(SSP3-7.0)",55.23,50.543,53.436,Big Porcupine,tas
+2079,"Accelerating Emissions
+(SSP5-8.5)",57.503,51.973,55.29,Big Porcupine,tas
+2080,"Moderating Emissions
+(SSP1-2.6)",52.128,47.85,49.404,Big Porcupine,tas
+2080,"Middle of the Road
+(SSP2-4.5)",53.101,49.292,51.886,Big Porcupine,tas
+2080,"High Emissions
+(SSP3-7.0)",55.085,51.185,52.101,Big Porcupine,tas
+2080,"Accelerating Emissions
+(SSP5-8.5)",57.395,52.878,56.533,Big Porcupine,tas
+2081,"Moderating Emissions
+(SSP1-2.6)",53.65,47.383,49.837,Big Porcupine,tas
+2081,"Middle of the Road
+(SSP2-4.5)",54.018,50.24,51.425,Big Porcupine,tas
+2081,"High Emissions
+(SSP3-7.0)",57.61,50.58,51.189,Big Porcupine,tas
+2081,"Accelerating Emissions
+(SSP5-8.5)",58.008,53.668,55.861,Big Porcupine,tas
+2082,"Moderating Emissions
+(SSP1-2.6)",53.499,48.741,50.967,Big Porcupine,tas
+2082,"Middle of the Road
+(SSP2-4.5)",54.321,50.183,51.329,Big Porcupine,tas
+2082,"High Emissions
+(SSP3-7.0)",56.356,50.879,51.798,Big Porcupine,tas
+2082,"Accelerating Emissions
+(SSP5-8.5)",58.294,53.222,56.621,Big Porcupine,tas
+2083,"Moderating Emissions
+(SSP1-2.6)",52.431,49.294,51.295,Big Porcupine,tas
+2083,"Middle of the Road
+(SSP2-4.5)",54.578,49.066,50.843,Big Porcupine,tas
+2083,"High Emissions
+(SSP3-7.0)",55.533,50.426,54.277,Big Porcupine,tas
+2083,"Accelerating Emissions
+(SSP5-8.5)",58.806,53.233,56.612,Big Porcupine,tas
+2084,"Moderating Emissions
+(SSP1-2.6)",53.52,47.852,49.299,Big Porcupine,tas
+2084,"Middle of the Road
+(SSP2-4.5)",55.093,50.658,52.568,Big Porcupine,tas
+2084,"High Emissions
+(SSP3-7.0)",58.079,52.041,55.263,Big Porcupine,tas
+2084,"Accelerating Emissions
+(SSP5-8.5)",58.14,53.732,55.658,Big Porcupine,tas
+2085,"Moderating Emissions
+(SSP1-2.6)",51.464,46.918,49.448,Big Porcupine,tas
+2085,"Middle of the Road
+(SSP2-4.5)",53.197,49.24,51.782,Big Porcupine,tas
+2085,"High Emissions
+(SSP3-7.0)",55.648,51.656,53.112,Big Porcupine,tas
+2085,"Accelerating Emissions
+(SSP5-8.5)",58.044,52.812,56.493,Big Porcupine,tas
+2086,"Moderating Emissions
+(SSP1-2.6)",53.294,49.326,50.778,Big Porcupine,tas
+2086,"Middle of the Road
+(SSP2-4.5)",53.063,51.121,51.326,Big Porcupine,tas
+2086,"High Emissions
+(SSP3-7.0)",57.387,51.608,54.115,Big Porcupine,tas
+2086,"Accelerating Emissions
+(SSP5-8.5)",58.333,52.869,57.286,Big Porcupine,tas
+2087,"Moderating Emissions
+(SSP1-2.6)",50.921,47.989,50.063,Big Porcupine,tas
+2087,"Middle of the Road
+(SSP2-4.5)",55.121,50.357,52.206,Big Porcupine,tas
+2087,"High Emissions
+(SSP3-7.0)",57.556,51.946,55.101,Big Porcupine,tas
+2087,"Accelerating Emissions
+(SSP5-8.5)",59.028,53.181,55.03,Big Porcupine,tas
+2088,"Moderating Emissions
+(SSP1-2.6)",52.465,47.855,49.039,Big Porcupine,tas
+2088,"Middle of the Road
+(SSP2-4.5)",54.174,50.506,52.06,Big Porcupine,tas
+2088,"High Emissions
+(SSP3-7.0)",58.168,52.353,53.034,Big Porcupine,tas
+2088,"Accelerating Emissions
+(SSP5-8.5)",58.161,54.393,55.863,Big Porcupine,tas
+2089,"Moderating Emissions
+(SSP1-2.6)",50.336,48.368,49.687,Big Porcupine,tas
+2089,"Middle of the Road
+(SSP2-4.5)",53.882,50.343,50.868,Big Porcupine,tas
+2089,"High Emissions
+(SSP3-7.0)",57.022,51.608,54.98,Big Porcupine,tas
+2089,"Accelerating Emissions
+(SSP5-8.5)",58.994,54.769,58.724,Big Porcupine,tas
+2090,"Moderating Emissions
+(SSP1-2.6)",51.884,48.708,50.164,Big Porcupine,tas
+2090,"Middle of the Road
+(SSP2-4.5)",53.405,50.372,52.36,Big Porcupine,tas
+2090,"High Emissions
+(SSP3-7.0)",57.534,53.129,53.981,Big Porcupine,tas
+2090,"Accelerating Emissions
+(SSP5-8.5)",59.907,55.209,56.82,Big Porcupine,tas
+2091,"Moderating Emissions
+(SSP1-2.6)",52.17,48.022,50.362,Big Porcupine,tas
+2091,"Middle of the Road
+(SSP2-4.5)",54.375,50.54,52.552,Big Porcupine,tas
+2091,"High Emissions
+(SSP3-7.0)",57.488,52.866,54.71,Big Porcupine,tas
+2091,"Accelerating Emissions
+(SSP5-8.5)",60.004,53.368,55.579,Big Porcupine,tas
+2092,"Moderating Emissions
+(SSP1-2.6)",54.234,47.021,50.832,Big Porcupine,tas
+2092,"Middle of the Road
+(SSP2-4.5)",54.925,49.524,52.46,Big Porcupine,tas
+2092,"High Emissions
+(SSP3-7.0)",56.552,52.092,55.341,Big Porcupine,tas
+2092,"Accelerating Emissions
+(SSP5-8.5)",60.355,54.25,56.209,Big Porcupine,tas
+2093,"Moderating Emissions
+(SSP1-2.6)",52.577,47.328,51.12,Big Porcupine,tas
+2093,"Middle of the Road
+(SSP2-4.5)",54.706,48.563,51.707,Big Porcupine,tas
+2093,"High Emissions
+(SSP3-7.0)",57.821,52.77,53.663,Big Porcupine,tas
+2093,"Accelerating Emissions
+(SSP5-8.5)",60.622,54.21,56.341,Big Porcupine,tas
+2094,"Moderating Emissions
+(SSP1-2.6)",53.229,47.609,49.337,Big Porcupine,tas
+2094,"Middle of the Road
+(SSP2-4.5)",55.991,48.89,51.354,Big Porcupine,tas
+2094,"High Emissions
+(SSP3-7.0)",58.382,52.379,54.9,Big Porcupine,tas
+2094,"Accelerating Emissions
+(SSP5-8.5)",61.106,54.727,58.014,Big Porcupine,tas
+2095,"Moderating Emissions
+(SSP1-2.6)",51.961,48.39,50.863,Big Porcupine,tas
+2095,"Middle of the Road
+(SSP2-4.5)",55.852,50.76,52.75,Big Porcupine,tas
+2095,"High Emissions
+(SSP3-7.0)",59.391,52.191,54.712,Big Porcupine,tas
+2095,"Accelerating Emissions
+(SSP5-8.5)",59.286,53.973,55.228,Big Porcupine,tas
+2096,"Moderating Emissions
+(SSP1-2.6)",51.667,48.271,50.114,Big Porcupine,tas
+2096,"Middle of the Road
+(SSP2-4.5)",54.797,51.75,52.971,Big Porcupine,tas
+2096,"High Emissions
+(SSP3-7.0)",57.74,53.532,56.284,Big Porcupine,tas
+2096,"Accelerating Emissions
+(SSP5-8.5)",59.239,53.911,57.83,Big Porcupine,tas
+2097,"Moderating Emissions
+(SSP1-2.6)",53.24,47.884,49.128,Big Porcupine,tas
+2097,"Middle of the Road
+(SSP2-4.5)",55.165,51.445,52.434,Big Porcupine,tas
+2097,"High Emissions
+(SSP3-7.0)",59.781,52.087,55.958,Big Porcupine,tas
+2097,"Accelerating Emissions
+(SSP5-8.5)",63.472,53.905,56.474,Big Porcupine,tas
+2098,"Moderating Emissions
+(SSP1-2.6)",51.998,47.122,49.39,Big Porcupine,tas
+2098,"Middle of the Road
+(SSP2-4.5)",54.362,50.354,51.62,Big Porcupine,tas
+2098,"High Emissions
+(SSP3-7.0)",58.71,53.359,54.247,Big Porcupine,tas
+2098,"Accelerating Emissions
+(SSP5-8.5)",59.823,55.234,57.729,Big Porcupine,tas
+2099,"Moderating Emissions
+(SSP1-2.6)",54.084,46.752,50.117,Big Porcupine,tas
+2099,"Middle of the Road
+(SSP2-4.5)",53.669,50.513,52.184,Big Porcupine,tas
+2099,"High Emissions
+(SSP3-7.0)",59.839,52.403,54.463,Big Porcupine,tas
+2099,"Accelerating Emissions
+(SSP5-8.5)",61.426,54.558,58.681,Big Porcupine,tas
+2100,"Moderating Emissions
+(SSP1-2.6)",52.258,47.078,48.89,Big Porcupine,tas
+2100,"Middle of the Road
+(SSP2-4.5)",55.761,50.223,52.549,Big Porcupine,tas
+2100,"High Emissions
+(SSP3-7.0)",58.239,52.469,55.622,Big Porcupine,tas
+2100,"Accelerating Emissions
+(SSP5-8.5)",61.497,54.402,56.882,Big Porcupine,tas

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2919.921,2420.264,2506.159,Beaver,gdd
+1951,Historical Emissions,2817.107,2338.231,2758.998,Beaver,gdd
+1952,Historical Emissions,2863.504,2389.589,2601.598,Beaver,gdd
+1953,Historical Emissions,2835.452,2226.873,2612.542,Beaver,gdd
+1954,Historical Emissions,2758.222,2142.057,2475.29,Beaver,gdd
+1955,Historical Emissions,2939.527,2294.876,2573.494,Beaver,gdd
+1956,Historical Emissions,2908.938,2371.364,2643.603,Beaver,gdd
+1957,Historical Emissions,3131.005,2205.642,2637.087,Beaver,gdd
+1958,Historical Emissions,2872.369,2226.449,2533.709,Beaver,gdd
+1959,Historical Emissions,2605.752,2266.327,2318.536,Beaver,gdd
+1960,Historical Emissions,2699.738,2459.408,2518.012,Beaver,gdd
+1961,Historical Emissions,2680.245,2378.962,2606.104,Beaver,gdd
+1962,Historical Emissions,2671.898,2211.792,2501.249,Beaver,gdd
+1963,Historical Emissions,2578.158,2312.187,2497.178,Beaver,gdd
+1964,Historical Emissions,2713.447,2298.016,2534.214,Beaver,gdd
+1965,Historical Emissions,2738.117,2210.581,2597.609,Beaver,gdd
+1966,Historical Emissions,2945.752,2219.8,2397.639,Beaver,gdd
+1967,Historical Emissions,2780.359,2319.838,2463.748,Beaver,gdd
+1968,Historical Emissions,2568.829,2189.385,2354.117,Beaver,gdd
+1969,Historical Emissions,2766.783,2047.22,2537.036,Beaver,gdd
+1970,Historical Emissions,2740.811,2251.88,2437.809,Beaver,gdd
+1971,Historical Emissions,2763.849,2346.522,2622.463,Beaver,gdd
+1972,Historical Emissions,2798.495,2285.762,2474.685,Beaver,gdd
+1973,Historical Emissions,2875.475,2155.985,2436.825,Beaver,gdd
+1974,Historical Emissions,2766.659,2157.435,2503.614,Beaver,gdd
+1975,Historical Emissions,2761.085,2370.323,2519.247,Beaver,gdd
+1976,Historical Emissions,2650.783,2381.318,2488.779,Beaver,gdd
+1977,Historical Emissions,2901.084,2363.474,2434.581,Beaver,gdd
+1978,Historical Emissions,2829.55,2302.845,2635.838,Beaver,gdd
+1979,Historical Emissions,2780.133,2393.279,2527.468,Beaver,gdd
+1980,Historical Emissions,2869.451,2332.008,2553.237,Beaver,gdd
+1981,Historical Emissions,2866.067,2304.184,2515.007,Beaver,gdd
+1982,Historical Emissions,2785.937,2366.511,2509.348,Beaver,gdd
+1983,Historical Emissions,2574.917,2251.674,2449.404,Beaver,gdd
+1984,Historical Emissions,2799.26,2345.474,2616.095,Beaver,gdd
+1985,Historical Emissions,2975.037,2456.311,2661.787,Beaver,gdd
+1986,Historical Emissions,2531.26,2297.725,2411.106,Beaver,gdd
+1987,Historical Emissions,2567.995,2235.688,2469.707,Beaver,gdd
+1988,Historical Emissions,2723.351,2200.076,2567.533,Beaver,gdd
+1989,Historical Emissions,2947.31,2355.532,2691.007,Beaver,gdd
+1990,Historical Emissions,3191.077,2392.401,2726.05,Beaver,gdd
+1991,Historical Emissions,2890.551,2329.947,2532.631,Beaver,gdd
+1992,Historical Emissions,2595.689,2297.267,2363.881,Beaver,gdd
+1993,Historical Emissions,2736.894,2306.854,2480.59,Beaver,gdd
+1994,Historical Emissions,2845.473,2293.651,2634.785,Beaver,gdd
+1995,Historical Emissions,3035.201,2484.688,2692.799,Beaver,gdd
+1996,Historical Emissions,3120.409,2567.03,2878.111,Beaver,gdd
+1997,Historical Emissions,2937.233,2418.278,2644.85,Beaver,gdd
+1998,Historical Emissions,2878.235,2428.441,2578.547,Beaver,gdd
+1999,Historical Emissions,2915.992,2491.388,2617.677,Beaver,gdd
+2000,Historical Emissions,2883.152,2484.074,2830.619,Beaver,gdd
+2001,Historical Emissions,2987.404,2466.059,2665.894,Beaver,gdd
+2002,Historical Emissions,3044.594,2658.26,2979.161,Beaver,gdd
+2003,Historical Emissions,3051.593,2529.79,2917.781,Beaver,gdd
+2004,Historical Emissions,3137.799,2629.631,2803.785,Beaver,gdd
+2005,Historical Emissions,3053.251,2665.032,2803.136,Beaver,gdd
+2006,Historical Emissions,3027.067,2592.64,2832.184,Beaver,gdd
+2007,Historical Emissions,2877.483,2676.166,2772.61,Beaver,gdd
+2008,Historical Emissions,2953.934,2457.029,2805.242,Beaver,gdd
+2009,Historical Emissions,2890.634,2544.014,2724.57,Beaver,gdd
+2010,Historical Emissions,3156.453,2623.785,2894.715,Beaver,gdd
+2011,Historical Emissions,3050.123,2587.805,2885.763,Beaver,gdd
+2012,Historical Emissions,3010.053,2813.924,2927.847,Beaver,gdd
+2013,Historical Emissions,3274.977,2713.352,3049.291,Beaver,gdd
+2014,Historical Emissions,3419.537,2746.41,2858.74,Beaver,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",3350.212,2837.304,2999.254,Beaver,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",3213.953,2546.367,2990.16,Beaver,gdd
+2015,"High Emissions
+(SSP3-7.0)",3276.914,2742.241,3043.622,Beaver,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",3119.199,2665.814,2960.472,Beaver,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",3176.695,2805.495,3005.251,Beaver,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",3082.41,2602.965,2806.278,Beaver,gdd
+2016,"High Emissions
+(SSP3-7.0)",3312.556,2685.744,2946.937,Beaver,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",3162.007,2694.788,2850.536,Beaver,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",3090.693,2825.851,2988.938,Beaver,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",3183.82,2631.417,3002.931,Beaver,gdd
+2017,"High Emissions
+(SSP3-7.0)",3048.129,2612.078,2948.713,Beaver,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",3148.224,2806.476,3069.098,Beaver,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",3163.647,2662.156,2866.878,Beaver,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",3215.123,2753.805,2899.24,Beaver,gdd
+2018,"High Emissions
+(SSP3-7.0)",3168.282,2565.574,2882.497,Beaver,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",3244.25,2618.75,2904.101,Beaver,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",3395.205,2940.101,3082.24,Beaver,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",3266.961,2680.632,2936.258,Beaver,gdd
+2019,"High Emissions
+(SSP3-7.0)",3291.914,2793.034,2897.4,Beaver,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",3576.542,2896.745,2950.366,Beaver,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",3354.7,2608.373,2880.33,Beaver,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",3228.546,2641.061,2994.07,Beaver,gdd
+2020,"High Emissions
+(SSP3-7.0)",3170.155,2685.97,2818.306,Beaver,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",3220.993,2748.606,3122.194,Beaver,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",3400.899,2813.592,3058.586,Beaver,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",3379.68,2667.28,2951.25,Beaver,gdd
+2021,"High Emissions
+(SSP3-7.0)",3345.738,2636.355,3193.362,Beaver,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",3249.5,2756.585,3012.432,Beaver,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",3213.405,2791.316,3036.058,Beaver,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",3233.014,2772.22,3029.767,Beaver,gdd
+2022,"High Emissions
+(SSP3-7.0)",3152.543,2706.331,2841.769,Beaver,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",3560.95,2701.069,3158.93,Beaver,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",3190.079,2657.001,2995.014,Beaver,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",3390.465,2688.032,3029.132,Beaver,gdd
+2023,"High Emissions
+(SSP3-7.0)",3395.006,2874.893,2972.7,Beaver,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",3198.578,2524.281,2870.98,Beaver,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",3215.937,2923.453,3071.843,Beaver,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",3401.854,2686.015,3029.474,Beaver,gdd
+2024,"High Emissions
+(SSP3-7.0)",3384.144,2800.093,3087.106,Beaver,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",3340.632,2705.352,3002.533,Beaver,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",3214.088,2944.739,3034.584,Beaver,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",3262.386,2678.669,2857.444,Beaver,gdd
+2025,"High Emissions
+(SSP3-7.0)",3402.396,2892.272,3053.196,Beaver,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",3399.245,2660.841,3218.392,Beaver,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",3329.214,2865.201,2990.532,Beaver,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",3405.21,2801.204,3147.405,Beaver,gdd
+2026,"High Emissions
+(SSP3-7.0)",3143.879,2904.366,3007.423,Beaver,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",3359.035,2744.851,2938.315,Beaver,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",3576.414,2674.287,2962.195,Beaver,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",3454.573,2703.721,3070.417,Beaver,gdd
+2027,"High Emissions
+(SSP3-7.0)",3359.187,2764.989,3002.324,Beaver,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",3320.816,2891.725,3183.21,Beaver,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",3080.5,2712.579,2853.063,Beaver,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",3085.616,2833.182,2922.75,Beaver,gdd
+2028,"High Emissions
+(SSP3-7.0)",3246.304,2858.862,3023.147,Beaver,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",3256.822,2841.981,3000.423,Beaver,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",3535.749,3049.636,3201.237,Beaver,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",3461.255,2848.489,3003.1,Beaver,gdd
+2029,"High Emissions
+(SSP3-7.0)",3278.515,2798.46,2936.361,Beaver,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",3376.676,3013.765,3114.404,Beaver,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",3397.133,2832.636,2990.324,Beaver,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",3588.4,2827.384,3269.736,Beaver,gdd
+2030,"High Emissions
+(SSP3-7.0)",3473.033,2709.211,3063.463,Beaver,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",3461.265,2764.128,2984.405,Beaver,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",3314.043,2923.464,3152.784,Beaver,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",3359.104,2815.6,3101.331,Beaver,gdd
+2031,"High Emissions
+(SSP3-7.0)",3457.865,2970.674,3201.238,Beaver,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",3541.129,3026.941,3267.091,Beaver,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",3249.37,2759.954,3066.868,Beaver,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",3240.834,2871.29,3059.891,Beaver,gdd
+2032,"High Emissions
+(SSP3-7.0)",3560.907,2802.775,3127.493,Beaver,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",3466.864,2766.577,3069.948,Beaver,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",3310.083,2852.248,2939.029,Beaver,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",3562.905,2868.956,3135.92,Beaver,gdd
+2033,"High Emissions
+(SSP3-7.0)",3309.693,2728.382,2947.002,Beaver,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",3479.61,2959.524,3184.596,Beaver,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",3393.081,2800.292,3016.847,Beaver,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",3429.644,2934.55,3081.907,Beaver,gdd
+2034,"High Emissions
+(SSP3-7.0)",3563.306,2844.506,3297.422,Beaver,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",3529.464,2837.45,3141.282,Beaver,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",3580.992,3004.16,3120.52,Beaver,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",3501.277,2985.985,3190.476,Beaver,gdd
+2035,"High Emissions
+(SSP3-7.0)",3277.552,2585.618,3133.08,Beaver,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",3488.253,2874.169,3218.666,Beaver,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",3261.405,2737.155,3068.354,Beaver,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",3193.234,2840.529,3173.405,Beaver,gdd
+2036,"High Emissions
+(SSP3-7.0)",3507.867,2755.174,3081.922,Beaver,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",3335.642,2703.947,3187.298,Beaver,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",3484.215,2897.418,3415.356,Beaver,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",3324.19,2761.512,3033.851,Beaver,gdd
+2037,"High Emissions
+(SSP3-7.0)",3269.254,2803.663,2993.337,Beaver,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",3377.34,2861.733,3205.745,Beaver,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",3470.14,2967.837,3118.905,Beaver,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",3180.074,2847.001,3087.729,Beaver,gdd
+2038,"High Emissions
+(SSP3-7.0)",3327.495,3073.808,3252.959,Beaver,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",3808.164,2709.246,3298.815,Beaver,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",3349.182,2754.786,3003.615,Beaver,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",3291.237,2761.051,3111.341,Beaver,gdd
+2039,"High Emissions
+(SSP3-7.0)",3359.016,3161.26,3249.114,Beaver,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",3592.474,2858.405,3056.83,Beaver,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",3453.999,2843.553,3199.258,Beaver,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",3615.64,2829.59,3197.008,Beaver,gdd
+2040,"High Emissions
+(SSP3-7.0)",3369.067,3094.877,3251.452,Beaver,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",3778.824,2905.882,3413.479,Beaver,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",3255.821,2634.498,3068.445,Beaver,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",3365.109,2995.813,3162.557,Beaver,gdd
+2041,"High Emissions
+(SSP3-7.0)",3514.08,2769.849,3122.651,Beaver,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",3465.062,2864.873,3242.708,Beaver,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",3531.783,2730.1,3064.623,Beaver,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",3429.152,2916.252,3082.716,Beaver,gdd
+2042,"High Emissions
+(SSP3-7.0)",3370.107,2971.95,3026.076,Beaver,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",3739.273,3027.837,3352.403,Beaver,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",3307.729,2874.303,3066.669,Beaver,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",3504.949,2995.948,3072.665,Beaver,gdd
+2043,"High Emissions
+(SSP3-7.0)",3321.332,2857.614,3070.203,Beaver,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",3501.785,3061.436,3235.161,Beaver,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",3486.114,2972.62,3180.614,Beaver,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",3834.761,2990.812,3222.366,Beaver,gdd
+2044,"High Emissions
+(SSP3-7.0)",3439.458,3033.275,3253.3,Beaver,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",3568.523,3012.975,3337.002,Beaver,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",3410.354,2761.995,3062.364,Beaver,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",3454.861,2846.199,3212.317,Beaver,gdd
+2045,"High Emissions
+(SSP3-7.0)",3462.89,3044.373,3242.225,Beaver,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",3360.671,3055.157,3252.824,Beaver,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",3652.69,2854.141,3261.093,Beaver,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",3415.753,2874.364,3232.484,Beaver,gdd
+2046,"High Emissions
+(SSP3-7.0)",3626.017,3244.148,3341.944,Beaver,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",3568.194,3016.176,3231.903,Beaver,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",3602.541,2956.888,3311.545,Beaver,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",3466.341,2938.486,3139.809,Beaver,gdd
+2047,"High Emissions
+(SSP3-7.0)",3324.385,3042.852,3194.118,Beaver,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",3691.818,2982.096,3536.097,Beaver,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",3432.276,3076.892,3231.04,Beaver,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",3591.66,2787.574,3240.006,Beaver,gdd
+2048,"High Emissions
+(SSP3-7.0)",3660.639,2976.831,3300.696,Beaver,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",4000.078,3045.057,3451.37,Beaver,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",3446.6,2868.636,3241.904,Beaver,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",3530.344,3022.762,3405.822,Beaver,gdd
+2049,"High Emissions
+(SSP3-7.0)",3499.59,3027.75,3194.551,Beaver,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",3693.798,3083.963,3367.795,Beaver,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",3494.844,2806.533,3091.64,Beaver,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",3797.407,3084.399,3400.226,Beaver,gdd
+2050,"High Emissions
+(SSP3-7.0)",3554.332,3026.487,3408.164,Beaver,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",3729.423,3118.747,3434.661,Beaver,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",3437.862,2940.601,3341.35,Beaver,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",3840.407,3040.086,3215.344,Beaver,gdd
+2051,"High Emissions
+(SSP3-7.0)",3761.854,3141.41,3325.264,Beaver,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",3746.753,3179.726,3435.258,Beaver,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",3552.194,3138.811,3283.836,Beaver,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",3448.741,2924.311,3368.845,Beaver,gdd
+2052,"High Emissions
+(SSP3-7.0)",3606.132,3005.606,3227.689,Beaver,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",3664.956,3220.018,3473.922,Beaver,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",3573.346,2954.844,3276.337,Beaver,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",3619.439,2846.469,3283.18,Beaver,gdd
+2053,"High Emissions
+(SSP3-7.0)",3637.746,3174.984,3500.299,Beaver,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",3948.707,2956.079,3562.134,Beaver,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",3697.538,3058.533,3314.06,Beaver,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",3566.773,2810.887,3165.456,Beaver,gdd
+2054,"High Emissions
+(SSP3-7.0)",3544.499,3097.398,3218.931,Beaver,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",3707.803,3059.973,3479.38,Beaver,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",3486.545,3113.539,3364.909,Beaver,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",3778.006,2832.595,3375.406,Beaver,gdd
+2055,"High Emissions
+(SSP3-7.0)",3672.598,3158.774,3317.832,Beaver,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",3888.275,3039.502,3584.093,Beaver,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",3415.465,2875.288,3299.445,Beaver,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",3502.452,3007.07,3347.474,Beaver,gdd
+2056,"High Emissions
+(SSP3-7.0)",3795.043,2900.081,3381.262,Beaver,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",3793.406,3327.131,3513.926,Beaver,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",3550.899,2735.606,3366.38,Beaver,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",3715.558,3079.359,3315.193,Beaver,gdd
+2057,"High Emissions
+(SSP3-7.0)",3810.209,3046.449,3299.086,Beaver,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",3783.85,3059.708,3282.574,Beaver,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",3341.776,2955.407,3217.605,Beaver,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",3826.778,3205.453,3414.012,Beaver,gdd
+2058,"High Emissions
+(SSP3-7.0)",3607.373,3010.59,3324.542,Beaver,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",3691.348,3081.942,3452.429,Beaver,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",3549.632,3113.534,3307.193,Beaver,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",3822.796,3021.835,3364.993,Beaver,gdd
+2059,"High Emissions
+(SSP3-7.0)",3966.676,3149.206,3397.109,Beaver,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",3840.821,3388.63,3679.521,Beaver,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",3511.31,2990.426,3126.943,Beaver,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",3844.155,2870.08,3329.647,Beaver,gdd
+2060,"High Emissions
+(SSP3-7.0)",3586.451,3166.82,3314.029,Beaver,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",3773.189,3285.745,3450.293,Beaver,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",3350.444,2869.367,3161.808,Beaver,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",3729.127,3106.345,3335.565,Beaver,gdd
+2061,"High Emissions
+(SSP3-7.0)",3692.791,3262.63,3426.927,Beaver,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",4020.073,3402.215,3711.317,Beaver,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",3833.209,2943.08,3215.595,Beaver,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",3514.922,3042.123,3274.892,Beaver,gdd
+2062,"High Emissions
+(SSP3-7.0)",3642.371,3262.797,3400.164,Beaver,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",3943.786,3395.574,3475.574,Beaver,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",3355.072,3066.446,3226.872,Beaver,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",3589.145,2968.48,3072.84,Beaver,gdd
+2063,"High Emissions
+(SSP3-7.0)",3784.044,3231.506,3544.624,Beaver,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",3945.069,3310.699,3562.061,Beaver,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",3690.747,2791.815,3138.835,Beaver,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",3419.798,2975.884,3073.486,Beaver,gdd
+2064,"High Emissions
+(SSP3-7.0)",3747.652,3009.105,3350.216,Beaver,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",3888.853,3395.366,3596.648,Beaver,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",3498.515,2677.676,2974.036,Beaver,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",3707.915,3011.143,3218.158,Beaver,gdd
+2065,"High Emissions
+(SSP3-7.0)",3767.893,3260.944,3633.507,Beaver,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",4189.254,3464.641,3596.131,Beaver,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",3499.043,3029.276,3124.315,Beaver,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",3643.726,3102.719,3444.254,Beaver,gdd
+2066,"High Emissions
+(SSP3-7.0)",3895.758,3382.291,3451.71,Beaver,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",4041.203,3284.288,3822.113,Beaver,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",3562.982,3187.358,3282.831,Beaver,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",3738.3,3108.201,3387.798,Beaver,gdd
+2067,"High Emissions
+(SSP3-7.0)",3992.848,3457.435,3537.059,Beaver,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",4126.76,3362.612,3650.672,Beaver,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",3520.955,2998.802,3278.919,Beaver,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",3583.634,2904.183,3226.021,Beaver,gdd
+2068,"High Emissions
+(SSP3-7.0)",3905.394,3192.746,3404.668,Beaver,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",4133.671,3420.879,3740.813,Beaver,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",3640.042,3069.347,3257.338,Beaver,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",3698.632,3046.149,3318.692,Beaver,gdd
+2069,"High Emissions
+(SSP3-7.0)",4088.645,3428.21,3635.274,Beaver,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",4403.336,3260.25,3851.108,Beaver,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",3465.088,3120.764,3284.747,Beaver,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",3631.979,2971.98,3169.281,Beaver,gdd
+2070,"High Emissions
+(SSP3-7.0)",4161.748,3423.018,3822.415,Beaver,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",4133.17,3511.565,3738.527,Beaver,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",3932.558,2944.486,3201.243,Beaver,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",3518.006,3253.934,3431.512,Beaver,gdd
+2071,"High Emissions
+(SSP3-7.0)",3998.172,3303.854,3648.224,Beaver,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",4332.82,3445.194,3911.329,Beaver,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",3770.274,3195.403,3386.03,Beaver,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",3577.994,3044.264,3194.291,Beaver,gdd
+2072,"High Emissions
+(SSP3-7.0)",4004.547,3298.296,3523.569,Beaver,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",4242.102,3481.943,3579.455,Beaver,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",3610.631,2939.085,3215.014,Beaver,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",3685.286,2917.574,3296.265,Beaver,gdd
+2073,"High Emissions
+(SSP3-7.0)",3781.969,3480.875,3564.635,Beaver,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",4107.772,3232.307,3778.444,Beaver,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",3588.253,2817.575,3128.212,Beaver,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",3629.983,3081.767,3331.385,Beaver,gdd
+2074,"High Emissions
+(SSP3-7.0)",3999.702,3367.862,3478.818,Beaver,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",4384.534,3474.012,3749.305,Beaver,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",3642.222,2860.488,3199.901,Beaver,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",3767.326,2981.574,3299.269,Beaver,gdd
+2075,"High Emissions
+(SSP3-7.0)",4144.977,3315.966,3482.991,Beaver,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",4244.595,3564.312,3963.607,Beaver,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",3547.033,2906.647,3038.053,Beaver,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",3421.066,3128.555,3265.363,Beaver,gdd
+2076,"High Emissions
+(SSP3-7.0)",4133.775,3512.114,3732.887,Beaver,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",4497.976,3467.751,4042.24,Beaver,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",3613.202,3009.921,3298.239,Beaver,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",3734.108,3272.765,3530.991,Beaver,gdd
+2077,"High Emissions
+(SSP3-7.0)",3847.379,3425.964,3654.154,Beaver,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",4321.868,3679.312,4013.791,Beaver,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",3592.523,3113.647,3453.991,Beaver,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",3761.793,3058.021,3366.679,Beaver,gdd
+2078,"High Emissions
+(SSP3-7.0)",4091.624,3321.075,3645.162,Beaver,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",3896.627,3512.468,3592.423,Beaver,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",3513.264,3014.115,3242.24,Beaver,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",3513.615,3198.081,3338.434,Beaver,gdd
+2079,"High Emissions
+(SSP3-7.0)",4054.667,3169.376,3636.652,Beaver,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",4262.852,3552.707,4060.436,Beaver,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",3501.056,2822.715,3167.1,Beaver,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",3823.172,3157.625,3448.521,Beaver,gdd
+2080,"High Emissions
+(SSP3-7.0)",3977.821,3467.445,3617.522,Beaver,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",4185.87,3754.026,4043.517,Beaver,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",3694.991,2757.416,3169.063,Beaver,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",3720.548,3111.718,3388.137,Beaver,gdd
+2081,"High Emissions
+(SSP3-7.0)",4210.082,3190.741,3438.184,Beaver,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",4319.984,3679.416,3933.486,Beaver,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",3713.622,3065.206,3430.464,Beaver,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",3829.803,3180.209,3486.594,Beaver,gdd
+2082,"High Emissions
+(SSP3-7.0)",4173.099,3391.288,3708.809,Beaver,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",4475.423,3720.593,3973.75,Beaver,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",3621.717,3209.864,3350.88,Beaver,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",3608.155,3337.037,3525.677,Beaver,gdd
+2083,"High Emissions
+(SSP3-7.0)",4132.364,3235.56,3812.526,Beaver,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",4487.923,3752.381,3869.139,Beaver,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",3648.445,2877.487,3249.521,Beaver,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",3863.831,3071.499,3539.397,Beaver,gdd
+2084,"High Emissions
+(SSP3-7.0)",4398.215,3518.326,3951.942,Beaver,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",4575.32,3621.239,4058.095,Beaver,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",3579.522,2854.629,3147.186,Beaver,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",3716.927,3098.271,3435.968,Beaver,gdd
+2085,"High Emissions
+(SSP3-7.0)",4099.269,3416.32,3679.742,Beaver,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",4340.631,3531.845,4171.394,Beaver,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",3508.391,3197.085,3396.609,Beaver,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",3729.409,3440.319,3503.627,Beaver,gdd
+2086,"High Emissions
+(SSP3-7.0)",4142.703,3423.008,3813.283,Beaver,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",4436.461,3661.1,4292.028,Beaver,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",3449.559,2996.499,3143.765,Beaver,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",4021.98,3369.959,3772.499,Beaver,gdd
+2087,"High Emissions
+(SSP3-7.0)",4402.912,3388.323,3818.203,Beaver,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",4622.507,3632.522,3731.478,Beaver,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",3511.679,3001.409,3194.585,Beaver,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",3854.426,3509.404,3655.673,Beaver,gdd
+2088,"High Emissions
+(SSP3-7.0)",4345.264,3623.379,3875.023,Beaver,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",4561.745,3778.659,4319.835,Beaver,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",3609.11,2885.3,3109.407,Beaver,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",3780.643,3327.058,3544.471,Beaver,gdd
+2089,"High Emissions
+(SSP3-7.0)",4365.384,3498.256,4112.134,Beaver,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",4688.245,3886.326,4452.966,Beaver,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",3490.876,3040.238,3342.584,Beaver,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",3730.552,3207.189,3410.081,Beaver,gdd
+2090,"High Emissions
+(SSP3-7.0)",4401.463,3817.359,4007.944,Beaver,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",4633.508,3905.179,4234.635,Beaver,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",3551.456,2938.5,3165.543,Beaver,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",3809.345,3293.527,3599.353,Beaver,gdd
+2091,"High Emissions
+(SSP3-7.0)",4382.468,3803.774,4004.237,Beaver,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",4918.018,3684.331,4305.652,Beaver,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",3681.145,2806.762,3304.231,Beaver,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",4041.385,3162.883,3660.74,Beaver,gdd
+2092,"High Emissions
+(SSP3-7.0)",4273.381,3721.474,4003.384,Beaver,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",4970.506,3795.174,4311.028,Beaver,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",3515.833,2843.216,3253.922,Beaver,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",3749.48,3171.868,3480.708,Beaver,gdd
+2093,"High Emissions
+(SSP3-7.0)",4364.144,3526.79,3755.869,Beaver,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",4778.442,4020.817,4304.395,Beaver,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",3432.88,2905.61,3199.057,Beaver,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",3990.208,2964.738,3659.396,Beaver,gdd
+2094,"High Emissions
+(SSP3-7.0)",4396.359,3643.944,3895.194,Beaver,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",4934.238,3844.236,4072.116,Beaver,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",3569.836,3096.758,3369.057,Beaver,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",4055.838,3423.801,3659.364,Beaver,gdd
+2095,"High Emissions
+(SSP3-7.0)",4442.41,3566.561,3988.737,Beaver,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",4806.796,3784.136,4300.914,Beaver,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",3533.341,2885.317,3263.821,Beaver,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",3917.118,3301.149,3797.487,Beaver,gdd
+2096,"High Emissions
+(SSP3-7.0)",4532.175,3774.264,3946.395,Beaver,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",4771.845,3979.897,4479.145,Beaver,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",3598.248,2970.358,3169.089,Beaver,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",4037.609,3273.513,3475.773,Beaver,gdd
+2097,"High Emissions
+(SSP3-7.0)",4860.754,3433.884,4068.52,Beaver,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",5268.668,3849.144,4226.478,Beaver,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",3445.449,2952.512,3207.545,Beaver,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",3849.949,3243.451,3497.486,Beaver,gdd
+2098,"High Emissions
+(SSP3-7.0)",4335.154,3653.768,3830.522,Beaver,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",4789.902,4083.603,4447.407,Beaver,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",3470.604,2701.486,3325.433,Beaver,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",3791.67,3093.788,3571.276,Beaver,gdd
+2099,"High Emissions
+(SSP3-7.0)",4659.181,3684.045,3995.485,Beaver,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",4883.367,3827.105,4391.665,Beaver,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",3539.999,2574.968,3036.968,Beaver,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",3945.055,3264.193,3514.289,Beaver,gdd
+2100,"High Emissions
+(SSP3-7.0)",4318.776,3718.387,4071.944,Beaver,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",4992.803,3914.2,4283.198,Beaver,gdd

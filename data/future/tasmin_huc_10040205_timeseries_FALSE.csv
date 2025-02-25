@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,33.923,30.608,32.325,Lower Musselshell,tasmin
+1951,Historical Emissions,33.422,30.992,32.44,Lower Musselshell,tasmin
+1952,Historical Emissions,33.878,30.4,32.038,Lower Musselshell,tasmin
+1953,Historical Emissions,33.102,29.57,31.957,Lower Musselshell,tasmin
+1954,Historical Emissions,34.347,28.463,31.139,Lower Musselshell,tasmin
+1955,Historical Emissions,34.26,31.242,32.959,Lower Musselshell,tasmin
+1956,Historical Emissions,33.677,31.283,32.785,Lower Musselshell,tasmin
+1957,Historical Emissions,34.394,31.472,33.062,Lower Musselshell,tasmin
+1958,Historical Emissions,33.711,30.814,32.133,Lower Musselshell,tasmin
+1959,Historical Emissions,32.958,28.6,31.259,Lower Musselshell,tasmin
+1960,Historical Emissions,33.917,28.975,31.469,Lower Musselshell,tasmin
+1961,Historical Emissions,34.224,30.109,33.312,Lower Musselshell,tasmin
+1962,Historical Emissions,33.258,29.527,31.534,Lower Musselshell,tasmin
+1963,Historical Emissions,32.56,30.715,32.065,Lower Musselshell,tasmin
+1964,Historical Emissions,33.657,30.712,32.841,Lower Musselshell,tasmin
+1965,Historical Emissions,32.84,30.113,32.566,Lower Musselshell,tasmin
+1966,Historical Emissions,34.929,31.024,32.009,Lower Musselshell,tasmin
+1967,Historical Emissions,32.426,30.335,31.914,Lower Musselshell,tasmin
+1968,Historical Emissions,32.819,28.787,31.126,Lower Musselshell,tasmin
+1969,Historical Emissions,33.433,29.942,32.041,Lower Musselshell,tasmin
+1970,Historical Emissions,33.73,31.234,32.315,Lower Musselshell,tasmin
+1971,Historical Emissions,35.689,31.736,33.593,Lower Musselshell,tasmin
+1972,Historical Emissions,33.177,30.385,31.967,Lower Musselshell,tasmin
+1973,Historical Emissions,33.037,31.211,32.575,Lower Musselshell,tasmin
+1974,Historical Emissions,34.653,30.674,32.504,Lower Musselshell,tasmin
+1975,Historical Emissions,33.91,28.764,32.833,Lower Musselshell,tasmin
+1976,Historical Emissions,33.095,29.81,32.258,Lower Musselshell,tasmin
+1977,Historical Emissions,35.241,31.817,33.049,Lower Musselshell,tasmin
+1978,Historical Emissions,34.407,30.121,32.15,Lower Musselshell,tasmin
+1979,Historical Emissions,35.355,30.98,33.254,Lower Musselshell,tasmin
+1980,Historical Emissions,33.11,30.915,32.727,Lower Musselshell,tasmin
+1981,Historical Emissions,34.505,31.981,33.434,Lower Musselshell,tasmin
+1982,Historical Emissions,34.131,31.299,33.146,Lower Musselshell,tasmin
+1983,Historical Emissions,34.522,31.143,32.275,Lower Musselshell,tasmin
+1984,Historical Emissions,34.057,31.305,32.577,Lower Musselshell,tasmin
+1985,Historical Emissions,34.29,31.362,33.568,Lower Musselshell,tasmin
+1986,Historical Emissions,33.532,31.111,32.582,Lower Musselshell,tasmin
+1987,Historical Emissions,34.083,28.848,31.018,Lower Musselshell,tasmin
+1988,Historical Emissions,34.312,31.073,31.431,Lower Musselshell,tasmin
+1989,Historical Emissions,33.978,31.114,32.831,Lower Musselshell,tasmin
+1990,Historical Emissions,35.306,32.621,33.737,Lower Musselshell,tasmin
+1991,Historical Emissions,34.662,30.518,31.988,Lower Musselshell,tasmin
+1992,Historical Emissions,34.247,31.028,32.036,Lower Musselshell,tasmin
+1993,Historical Emissions,35.019,30.549,32.78,Lower Musselshell,tasmin
+1994,Historical Emissions,35.32,31.975,33.056,Lower Musselshell,tasmin
+1995,Historical Emissions,34.612,31.193,32.467,Lower Musselshell,tasmin
+1996,Historical Emissions,35.326,30.6,33.379,Lower Musselshell,tasmin
+1997,Historical Emissions,35.671,32.014,33.88,Lower Musselshell,tasmin
+1998,Historical Emissions,35.399,30.894,32.922,Lower Musselshell,tasmin
+1999,Historical Emissions,35.281,32.081,34.085,Lower Musselshell,tasmin
+2000,Historical Emissions,34.625,31.941,33.16,Lower Musselshell,tasmin
+2001,Historical Emissions,35.445,31.934,33.488,Lower Musselshell,tasmin
+2002,Historical Emissions,35.822,32.26,34.181,Lower Musselshell,tasmin
+2003,Historical Emissions,35.95,33.273,33.484,Lower Musselshell,tasmin
+2004,Historical Emissions,35.45,33.402,34.714,Lower Musselshell,tasmin
+2005,Historical Emissions,37.514,32.496,34.322,Lower Musselshell,tasmin
+2006,Historical Emissions,35.306,31.471,33.274,Lower Musselshell,tasmin
+2007,Historical Emissions,35.522,33.168,34.698,Lower Musselshell,tasmin
+2008,Historical Emissions,36.018,32.936,34.186,Lower Musselshell,tasmin
+2009,Historical Emissions,34.781,33.408,33.67,Lower Musselshell,tasmin
+2010,Historical Emissions,35.086,33.305,34.254,Lower Musselshell,tasmin
+2011,Historical Emissions,36.791,34.079,34.812,Lower Musselshell,tasmin
+2012,Historical Emissions,35.772,32.297,34.394,Lower Musselshell,tasmin
+2013,Historical Emissions,36.433,32.064,34.057,Lower Musselshell,tasmin
+2014,Historical Emissions,36.75,33.601,35.197,Lower Musselshell,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",37.116,33.177,35.051,Lower Musselshell,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",36.275,32.803,34.047,Lower Musselshell,tasmin
+2015,"High Emissions
+(SSP3-7.0)",36.74,32.838,34.731,Lower Musselshell,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",35.574,33.088,34.211,Lower Musselshell,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",37.816,33.834,35.589,Lower Musselshell,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",37.359,32.884,34.486,Lower Musselshell,tasmin
+2016,"High Emissions
+(SSP3-7.0)",38.427,32.214,34.626,Lower Musselshell,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",35.778,33.104,34.893,Lower Musselshell,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",36.502,32.767,33.823,Lower Musselshell,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",37.685,33.211,34.793,Lower Musselshell,tasmin
+2017,"High Emissions
+(SSP3-7.0)",37.63,34.232,35.333,Lower Musselshell,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",36.876,33.158,34.642,Lower Musselshell,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",35.813,33.502,35.029,Lower Musselshell,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",36.659,33.946,35.022,Lower Musselshell,tasmin
+2018,"High Emissions
+(SSP3-7.0)",37.525,33.239,34.727,Lower Musselshell,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",37.66,32.947,34.551,Lower Musselshell,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",37.651,33.822,35.703,Lower Musselshell,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",36.438,32.346,34.264,Lower Musselshell,tasmin
+2019,"High Emissions
+(SSP3-7.0)",37.008,33.026,34.594,Lower Musselshell,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",37.683,34.064,35.538,Lower Musselshell,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",37.663,32.98,36.264,Lower Musselshell,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",36.704,33.128,33.971,Lower Musselshell,tasmin
+2020,"High Emissions
+(SSP3-7.0)",36.372,32.985,35.253,Lower Musselshell,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",37.03,33.965,35.639,Lower Musselshell,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",37.548,33.883,35.449,Lower Musselshell,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",36.721,33.932,35.467,Lower Musselshell,tasmin
+2021,"High Emissions
+(SSP3-7.0)",36.666,34.211,35.232,Lower Musselshell,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",36.91,33.069,35.657,Lower Musselshell,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",36.911,33.958,34.572,Lower Musselshell,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",37.26,34.037,35.114,Lower Musselshell,tasmin
+2022,"High Emissions
+(SSP3-7.0)",37.063,33.986,34.988,Lower Musselshell,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",38.338,33.842,35.863,Lower Musselshell,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",36.766,34.41,35.015,Lower Musselshell,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",37.232,34.095,35.544,Lower Musselshell,tasmin
+2023,"High Emissions
+(SSP3-7.0)",38.049,33.995,36.185,Lower Musselshell,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",35.549,32.362,33.768,Lower Musselshell,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",37.649,33.498,35.53,Lower Musselshell,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",36.305,33.719,34.515,Lower Musselshell,tasmin
+2024,"High Emissions
+(SSP3-7.0)",39.007,33.531,34.691,Lower Musselshell,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",38.596,33.97,36.341,Lower Musselshell,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",37.278,34.406,36.291,Lower Musselshell,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",37.197,33.534,35.306,Lower Musselshell,tasmin
+2025,"High Emissions
+(SSP3-7.0)",37.41,34.289,35.748,Lower Musselshell,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",38.402,34.155,36.515,Lower Musselshell,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",37.246,33.555,34.786,Lower Musselshell,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",37.13,33.254,35.722,Lower Musselshell,tasmin
+2026,"High Emissions
+(SSP3-7.0)",38.628,32.409,35.636,Lower Musselshell,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",37.253,34.127,36.17,Lower Musselshell,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",38.485,34.426,35.197,Lower Musselshell,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",37.798,34.896,36.644,Lower Musselshell,tasmin
+2027,"High Emissions
+(SSP3-7.0)",37.364,34.193,35.724,Lower Musselshell,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",36.912,34.983,35.703,Lower Musselshell,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",37.459,34.179,35.45,Lower Musselshell,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",38.183,32.951,35.561,Lower Musselshell,tasmin
+2028,"High Emissions
+(SSP3-7.0)",37.76,34.518,35.69,Lower Musselshell,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",38.347,34.35,36.233,Lower Musselshell,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",39.078,35.106,37.217,Lower Musselshell,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",38.971,33.205,36.451,Lower Musselshell,tasmin
+2029,"High Emissions
+(SSP3-7.0)",37.817,32.668,35.758,Lower Musselshell,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",37.152,35.579,36.584,Lower Musselshell,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",38.496,34.228,36.039,Lower Musselshell,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",38.209,34.567,36.242,Lower Musselshell,tasmin
+2030,"High Emissions
+(SSP3-7.0)",37.24,33.256,36.083,Lower Musselshell,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",38.877,33.938,36.238,Lower Musselshell,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",37.252,33.776,36.951,Lower Musselshell,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",38,34.364,36.529,Lower Musselshell,tasmin
+2031,"High Emissions
+(SSP3-7.0)",38.307,34.272,36.121,Lower Musselshell,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",39.631,36.541,37.228,Lower Musselshell,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",38.003,34.118,35.483,Lower Musselshell,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",36.945,34.441,35.409,Lower Musselshell,tasmin
+2032,"High Emissions
+(SSP3-7.0)",38.416,34.481,35.887,Lower Musselshell,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",39.188,34.89,36.154,Lower Musselshell,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",38.177,34.522,36.178,Lower Musselshell,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",38.272,34.666,36.717,Lower Musselshell,tasmin
+2033,"High Emissions
+(SSP3-7.0)",38.307,34.062,35.669,Lower Musselshell,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",37.591,34.405,36.104,Lower Musselshell,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",37.326,33.728,34.828,Lower Musselshell,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",38.541,34.912,36.06,Lower Musselshell,tasmin
+2034,"High Emissions
+(SSP3-7.0)",37.922,35.189,36.44,Lower Musselshell,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",38.434,32.057,36.272,Lower Musselshell,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",37.626,33.901,36.362,Lower Musselshell,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",38.612,33.699,36.713,Lower Musselshell,tasmin
+2035,"High Emissions
+(SSP3-7.0)",37.733,33.652,35.617,Lower Musselshell,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",39.017,34.14,36.495,Lower Musselshell,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",37.831,35.527,36.846,Lower Musselshell,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",37.674,34.445,36.371,Lower Musselshell,tasmin
+2036,"High Emissions
+(SSP3-7.0)",37.879,34.289,36.052,Lower Musselshell,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",39.642,35.187,37.332,Lower Musselshell,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",38.387,35.339,36.83,Lower Musselshell,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",38.91,33.131,36.177,Lower Musselshell,tasmin
+2037,"High Emissions
+(SSP3-7.0)",37.152,33.767,36.513,Lower Musselshell,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",38.679,35.767,36.518,Lower Musselshell,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",39.897,35.318,37.298,Lower Musselshell,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",37.864,34.346,36.289,Lower Musselshell,tasmin
+2038,"High Emissions
+(SSP3-7.0)",39.057,34.939,36.557,Lower Musselshell,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",39.884,35.137,38.696,Lower Musselshell,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",38.958,35.336,36.687,Lower Musselshell,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",38.273,35.031,35.976,Lower Musselshell,tasmin
+2039,"High Emissions
+(SSP3-7.0)",39.632,35.64,37.051,Lower Musselshell,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",40.17,33.653,37.749,Lower Musselshell,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",38.894,34.833,35.774,Lower Musselshell,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",37.74,35.077,36.672,Lower Musselshell,tasmin
+2040,"High Emissions
+(SSP3-7.0)",39.728,34.518,37.246,Lower Musselshell,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",41.268,36.182,37.604,Lower Musselshell,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",38.134,33.623,36.241,Lower Musselshell,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",37.391,35.678,36.369,Lower Musselshell,tasmin
+2041,"High Emissions
+(SSP3-7.0)",39.349,34.583,35.418,Lower Musselshell,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",38.015,35.224,37.083,Lower Musselshell,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",38.816,35.712,36.131,Lower Musselshell,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",37.171,33.304,34.602,Lower Musselshell,tasmin
+2042,"High Emissions
+(SSP3-7.0)",38.347,35.411,36.497,Lower Musselshell,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",39.852,36.051,37.232,Lower Musselshell,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",38.102,35.212,36.656,Lower Musselshell,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",38.685,34.142,36.986,Lower Musselshell,tasmin
+2043,"High Emissions
+(SSP3-7.0)",37.918,34.769,36.486,Lower Musselshell,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",38.534,36.512,37.382,Lower Musselshell,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",38.821,34.467,35.817,Lower Musselshell,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",39.761,35.406,37.608,Lower Musselshell,tasmin
+2044,"High Emissions
+(SSP3-7.0)",38.75,35.47,36.854,Lower Musselshell,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",40.296,35.38,37.864,Lower Musselshell,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",39.496,34.69,37.038,Lower Musselshell,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",39.85,34.538,37.793,Lower Musselshell,tasmin
+2045,"High Emissions
+(SSP3-7.0)",38.818,34.25,36.426,Lower Musselshell,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",38.045,34.998,37.283,Lower Musselshell,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",40.627,33.17,36.754,Lower Musselshell,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",38.476,34.956,37.113,Lower Musselshell,tasmin
+2046,"High Emissions
+(SSP3-7.0)",40.165,36.276,38.625,Lower Musselshell,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",39.529,35.078,36.16,Lower Musselshell,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",38.638,35.434,36.908,Lower Musselshell,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",38.822,32.413,36.618,Lower Musselshell,tasmin
+2047,"High Emissions
+(SSP3-7.0)",37.549,34.638,37.062,Lower Musselshell,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",40.722,35.926,37.888,Lower Musselshell,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",37.804,34.885,36.702,Lower Musselshell,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",39.675,35.371,37.355,Lower Musselshell,tasmin
+2048,"High Emissions
+(SSP3-7.0)",39.862,35.058,38.011,Lower Musselshell,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",40.645,36.488,38.636,Lower Musselshell,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",38.346,34.263,35.074,Lower Musselshell,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",38.993,36.477,37.756,Lower Musselshell,tasmin
+2049,"High Emissions
+(SSP3-7.0)",40.761,36.298,37.46,Lower Musselshell,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",38.837,36.599,37.885,Lower Musselshell,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",37.425,34.508,36.461,Lower Musselshell,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",40.196,35.054,37.248,Lower Musselshell,tasmin
+2050,"High Emissions
+(SSP3-7.0)",40.521,36.848,37.748,Lower Musselshell,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",40.083,37.257,38.455,Lower Musselshell,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",39.206,34.513,37.567,Lower Musselshell,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",40.008,35.882,36.977,Lower Musselshell,tasmin
+2051,"High Emissions
+(SSP3-7.0)",39.106,36.372,37.529,Lower Musselshell,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",39.625,36.554,37.765,Lower Musselshell,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",38.382,35.832,36.805,Lower Musselshell,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",39.777,35.575,36.847,Lower Musselshell,tasmin
+2052,"High Emissions
+(SSP3-7.0)",41.413,35.767,37.405,Lower Musselshell,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",39.268,37.211,38.534,Lower Musselshell,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",39.227,34.844,36.237,Lower Musselshell,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",38.752,34.457,37.045,Lower Musselshell,tasmin
+2053,"High Emissions
+(SSP3-7.0)",40.927,36.755,38.934,Lower Musselshell,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",41.442,36.966,38.205,Lower Musselshell,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",38.929,35.532,36.402,Lower Musselshell,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",37.961,35.132,36.371,Lower Musselshell,tasmin
+2054,"High Emissions
+(SSP3-7.0)",39.708,36.558,37.421,Lower Musselshell,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",41.031,37.389,38.441,Lower Musselshell,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",38.925,35.595,37.248,Lower Musselshell,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",38.418,35.413,37.091,Lower Musselshell,tasmin
+2055,"High Emissions
+(SSP3-7.0)",39.889,36.208,37.757,Lower Musselshell,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",42.022,37.633,38.639,Lower Musselshell,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",39.778,34.703,37.727,Lower Musselshell,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",40.431,35.354,36.725,Lower Musselshell,tasmin
+2056,"High Emissions
+(SSP3-7.0)",41.351,35.939,38.012,Lower Musselshell,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",41.148,36.595,39.222,Lower Musselshell,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",39.504,34.083,36.682,Lower Musselshell,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",40.888,36.397,37.685,Lower Musselshell,tasmin
+2057,"High Emissions
+(SSP3-7.0)",40.346,36.821,37.28,Lower Musselshell,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",40.099,35.796,39.408,Lower Musselshell,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",38.586,34.628,36.851,Lower Musselshell,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",41.138,36.036,37.691,Lower Musselshell,tasmin
+2058,"High Emissions
+(SSP3-7.0)",39.33,36.891,38.063,Lower Musselshell,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",40.416,36.415,38.533,Lower Musselshell,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",38.967,34.549,35.957,Lower Musselshell,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",41.736,36.392,38.264,Lower Musselshell,tasmin
+2059,"High Emissions
+(SSP3-7.0)",41.415,36.993,39.116,Lower Musselshell,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",41.297,37.849,40.293,Lower Musselshell,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",40.075,34.07,36.05,Lower Musselshell,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",39.625,35.142,36.986,Lower Musselshell,tasmin
+2060,"High Emissions
+(SSP3-7.0)",40.22,37.34,38.546,Lower Musselshell,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",41.042,37.752,39.932,Lower Musselshell,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",38.724,34.879,35.939,Lower Musselshell,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",39.85,35.74,37.642,Lower Musselshell,tasmin
+2061,"High Emissions
+(SSP3-7.0)",40.768,36.884,38.574,Lower Musselshell,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",42.881,37.641,39.659,Lower Musselshell,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",37.51,36.129,36.761,Lower Musselshell,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",40.519,35.64,36.87,Lower Musselshell,tasmin
+2062,"High Emissions
+(SSP3-7.0)",40.354,37.039,38.636,Lower Musselshell,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",41.859,37.957,39.02,Lower Musselshell,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",37.968,34.522,36.981,Lower Musselshell,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",39.596,36.191,37.823,Lower Musselshell,tasmin
+2063,"High Emissions
+(SSP3-7.0)",41.21,36.822,38.569,Lower Musselshell,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",41.544,37.245,39.922,Lower Musselshell,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",39.903,36.023,38.021,Lower Musselshell,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",38.062,35.519,36.935,Lower Musselshell,tasmin
+2064,"High Emissions
+(SSP3-7.0)",39.087,37.607,38.41,Lower Musselshell,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",41.807,37.592,39.131,Lower Musselshell,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",38.808,34.289,37.241,Lower Musselshell,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",40.031,35.22,37.451,Lower Musselshell,tasmin
+2065,"High Emissions
+(SSP3-7.0)",40.932,37.583,39.095,Lower Musselshell,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",44.114,36.62,40.506,Lower Musselshell,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",39.84,33.94,36.653,Lower Musselshell,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",40.918,37.172,39.148,Lower Musselshell,tasmin
+2066,"High Emissions
+(SSP3-7.0)",41.843,37.173,38.678,Lower Musselshell,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",41.921,37.923,40.165,Lower Musselshell,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",39.95,36.442,37.451,Lower Musselshell,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",40.687,35.877,37.269,Lower Musselshell,tasmin
+2067,"High Emissions
+(SSP3-7.0)",41.486,38.166,40.344,Lower Musselshell,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",44.231,37.696,38.665,Lower Musselshell,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",38.695,35.119,36.981,Lower Musselshell,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",39.351,36.014,37.1,Lower Musselshell,tasmin
+2068,"High Emissions
+(SSP3-7.0)",41.484,36.982,38.045,Lower Musselshell,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",42.919,39.116,39.517,Lower Musselshell,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",39.208,35.839,36.828,Lower Musselshell,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",38.469,35.584,37.536,Lower Musselshell,tasmin
+2069,"High Emissions
+(SSP3-7.0)",42.037,38.854,40.428,Lower Musselshell,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",44.057,38.858,40.802,Lower Musselshell,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",38.624,34.928,36.295,Lower Musselshell,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",40.021,35.175,37.368,Lower Musselshell,tasmin
+2070,"High Emissions
+(SSP3-7.0)",41.511,38.474,40.205,Lower Musselshell,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",44.549,39.002,40.424,Lower Musselshell,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",41.057,33.333,36.62,Lower Musselshell,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",41.022,36.721,37.838,Lower Musselshell,tasmin
+2071,"High Emissions
+(SSP3-7.0)",41.968,39.167,40.227,Lower Musselshell,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",43.214,37.855,40.209,Lower Musselshell,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",40.552,35.29,37.183,Lower Musselshell,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",41.69,36.214,37.61,Lower Musselshell,tasmin
+2072,"High Emissions
+(SSP3-7.0)",41.915,38.211,39.475,Lower Musselshell,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",43.018,38.926,40.057,Lower Musselshell,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",39.054,34.385,36.097,Lower Musselshell,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",40.868,36.198,37.984,Lower Musselshell,tasmin
+2073,"High Emissions
+(SSP3-7.0)",42.435,37.344,39.793,Lower Musselshell,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",43.433,37.917,41.397,Lower Musselshell,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",41.421,34.1,37.096,Lower Musselshell,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",39.778,37.105,38.597,Lower Musselshell,tasmin
+2074,"High Emissions
+(SSP3-7.0)",41.864,37.703,38.892,Lower Musselshell,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",42.938,38.54,40.672,Lower Musselshell,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",39.728,35.023,36.694,Lower Musselshell,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",41.146,35.882,36.692,Lower Musselshell,tasmin
+2075,"High Emissions
+(SSP3-7.0)",41.982,37.816,38.518,Lower Musselshell,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",43.411,37.848,41.936,Lower Musselshell,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",39.043,33.727,36.03,Lower Musselshell,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",40.298,37.031,38.015,Lower Musselshell,tasmin
+2076,"High Emissions
+(SSP3-7.0)",41.915,38.617,39.903,Lower Musselshell,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",44.017,38.705,40.266,Lower Musselshell,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",39.2,35.399,37.293,Lower Musselshell,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",41.699,37.2,38.081,Lower Musselshell,tasmin
+2077,"High Emissions
+(SSP3-7.0)",43.174,38.288,39.92,Lower Musselshell,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",44.704,39.141,41.283,Lower Musselshell,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",39.093,36.021,37.279,Lower Musselshell,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",40.052,37.174,37.781,Lower Musselshell,tasmin
+2078,"High Emissions
+(SSP3-7.0)",42.457,37.926,39.935,Lower Musselshell,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",42.08,39.54,40.102,Lower Musselshell,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",38.249,35.275,36.935,Lower Musselshell,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",41.087,36.661,38.357,Lower Musselshell,tasmin
+2079,"High Emissions
+(SSP3-7.0)",42.546,37.797,40.682,Lower Musselshell,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",43.855,39.108,42.167,Lower Musselshell,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",38.476,35.572,36.202,Lower Musselshell,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",39.944,36.276,38.071,Lower Musselshell,tasmin
+2080,"High Emissions
+(SSP3-7.0)",41.514,38.576,40.13,Lower Musselshell,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",45.241,39.868,42.583,Lower Musselshell,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",40.105,34.012,36.388,Lower Musselshell,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",40.788,37.356,38.023,Lower Musselshell,tasmin
+2081,"High Emissions
+(SSP3-7.0)",44.185,38.231,39.29,Lower Musselshell,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",45.19,40.757,42.62,Lower Musselshell,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",40.128,35.238,37.187,Lower Musselshell,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",41.494,37.357,39.159,Lower Musselshell,tasmin
+2082,"High Emissions
+(SSP3-7.0)",43.619,38.188,39.488,Lower Musselshell,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",45.324,40.164,42.495,Lower Musselshell,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",38.985,35.083,37.031,Lower Musselshell,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",41.837,36.081,38.139,Lower Musselshell,tasmin
+2083,"High Emissions
+(SSP3-7.0)",43.01,37.963,40.94,Lower Musselshell,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",45.673,40.497,42.628,Lower Musselshell,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",40.358,34.576,36.413,Lower Musselshell,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",41.411,37.403,39.489,Lower Musselshell,tasmin
+2084,"High Emissions
+(SSP3-7.0)",45.014,39.05,41.982,Lower Musselshell,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",44.801,40.354,42.039,Lower Musselshell,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",38.259,33.807,36.148,Lower Musselshell,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",40.652,36.526,39.671,Lower Musselshell,tasmin
+2085,"High Emissions
+(SSP3-7.0)",42.975,38.396,40.611,Lower Musselshell,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",45.15,40.948,42.152,Lower Musselshell,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",40.328,36.367,37.593,Lower Musselshell,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",40.062,37.669,39.042,Lower Musselshell,tasmin
+2086,"High Emissions
+(SSP3-7.0)",44.904,39.388,40.66,Lower Musselshell,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",45.708,40.465,43.717,Lower Musselshell,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",37.985,34.899,36.743,Lower Musselshell,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",42.72,36.847,39.419,Lower Musselshell,tasmin
+2087,"High Emissions
+(SSP3-7.0)",44.16,39.1,42.123,Lower Musselshell,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",46.025,41.036,41.603,Lower Musselshell,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",38.581,35.071,36.215,Lower Musselshell,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",40.813,37.104,38.576,Lower Musselshell,tasmin
+2088,"High Emissions
+(SSP3-7.0)",44.999,39.302,41.617,Lower Musselshell,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",45.317,41.396,42.513,Lower Musselshell,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",37.782,34.598,37.253,Lower Musselshell,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",41.044,37.254,38.522,Lower Musselshell,tasmin
+2089,"High Emissions
+(SSP3-7.0)",43.696,39.057,41.284,Lower Musselshell,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",46.711,41.877,45.106,Lower Musselshell,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",40.344,35.049,37.378,Lower Musselshell,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",41.03,37.287,39.669,Lower Musselshell,tasmin
+2090,"High Emissions
+(SSP3-7.0)",43.535,39.216,39.756,Lower Musselshell,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",47.071,42.356,43.792,Lower Musselshell,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",39.876,35.776,36.782,Lower Musselshell,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",40.849,37.377,39.855,Lower Musselshell,tasmin
+2091,"High Emissions
+(SSP3-7.0)",45.041,38.31,40.884,Lower Musselshell,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",47.756,40.529,42.97,Lower Musselshell,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",41.489,33.868,38.228,Lower Musselshell,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",41.148,36.54,38.833,Lower Musselshell,tasmin
+2092,"High Emissions
+(SSP3-7.0)",44.168,39.216,41.108,Lower Musselshell,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",46.863,41.927,43.118,Lower Musselshell,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",39.408,34.789,37.292,Lower Musselshell,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",42.123,35.753,39.007,Lower Musselshell,tasmin
+2093,"High Emissions
+(SSP3-7.0)",44.775,39.509,41.427,Lower Musselshell,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",47.755,41.571,43.847,Lower Musselshell,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",39.772,33.709,36.997,Lower Musselshell,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",41.89,35.456,38.112,Lower Musselshell,tasmin
+2094,"High Emissions
+(SSP3-7.0)",45.647,39.401,42.093,Lower Musselshell,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",48.335,41.746,44.67,Lower Musselshell,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",38.309,35.478,37.827,Lower Musselshell,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",42.646,37.62,39.811,Lower Musselshell,tasmin
+2095,"High Emissions
+(SSP3-7.0)",46.321,38,41.93,Lower Musselshell,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",46.948,40.919,41.891,Lower Musselshell,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",38.671,34.967,37.056,Lower Musselshell,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",41.936,38.275,39.304,Lower Musselshell,tasmin
+2096,"High Emissions
+(SSP3-7.0)",44.42,40.564,42.632,Lower Musselshell,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",46.989,41.078,44.745,Lower Musselshell,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",39.77,34.592,36.291,Lower Musselshell,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",41.743,37.953,39.428,Lower Musselshell,tasmin
+2097,"High Emissions
+(SSP3-7.0)",45.685,38.71,42.301,Lower Musselshell,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",49.779,40.58,44.642,Lower Musselshell,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",38.639,34.231,36.253,Lower Musselshell,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",41.397,37.274,38.461,Lower Musselshell,tasmin
+2098,"High Emissions
+(SSP3-7.0)",46.328,40.303,41.949,Lower Musselshell,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",47.085,41.902,44.2,Lower Musselshell,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",40.881,34.683,36.966,Lower Musselshell,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",41.426,37.479,38.365,Lower Musselshell,tasmin
+2099,"High Emissions
+(SSP3-7.0)",46.801,39.148,42.038,Lower Musselshell,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",48.021,41.493,45.188,Lower Musselshell,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",39.392,34.063,35.947,Lower Musselshell,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",42.263,37.732,40.078,Lower Musselshell,tasmin
+2100,"High Emissions
+(SSP3-7.0)",45.504,39.885,41.814,Lower Musselshell,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",48.203,41.374,43.739,Lower Musselshell,tasmin

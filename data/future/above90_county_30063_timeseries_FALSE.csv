@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,17.554,2.323,6.385,Missoula County,above90
+1951,Historical Emissions,22.246,1.892,10.231,Missoula County,above90
+1952,Historical Emissions,14.723,2.415,5.846,Missoula County,above90
+1953,Historical Emissions,11.292,5.154,7.538,Missoula County,above90
+1954,Historical Emissions,18.108,3.277,5.692,Missoula County,above90
+1955,Historical Emissions,14.723,3.769,9,Missoula County,above90
+1956,Historical Emissions,30.292,1.785,7.538,Missoula County,above90
+1957,Historical Emissions,16,4.4,6,Missoula County,above90
+1958,Historical Emissions,18.431,2.585,12.615,Missoula County,above90
+1959,Historical Emissions,9.431,1.169,4.538,Missoula County,above90
+1960,Historical Emissions,15.385,1.154,5.154,Missoula County,above90
+1961,Historical Emissions,10.6,1.892,8.308,Missoula County,above90
+1962,Historical Emissions,19.754,3.123,7.923,Missoula County,above90
+1963,Historical Emissions,10.492,1.969,4.231,Missoula County,above90
+1964,Historical Emissions,14.954,1.862,8.615,Missoula County,above90
+1965,Historical Emissions,11.8,2.046,4.462,Missoula County,above90
+1966,Historical Emissions,14.538,1.569,4.077,Missoula County,above90
+1967,Historical Emissions,9.738,1.985,5.923,Missoula County,above90
+1968,Historical Emissions,9.2,1.938,3.846,Missoula County,above90
+1969,Historical Emissions,10.215,1.785,5.077,Missoula County,above90
+1970,Historical Emissions,7.908,2.508,4.077,Missoula County,above90
+1971,Historical Emissions,17.692,2.646,5.462,Missoula County,above90
+1972,Historical Emissions,9.985,1.938,7.308,Missoula County,above90
+1973,Historical Emissions,20.646,2.754,8.154,Missoula County,above90
+1974,Historical Emissions,10.338,2.338,6.308,Missoula County,above90
+1975,Historical Emissions,12.538,3.415,6.769,Missoula County,above90
+1976,Historical Emissions,13.369,1.831,5.385,Missoula County,above90
+1977,Historical Emissions,10.877,0.692,2.615,Missoula County,above90
+1978,Historical Emissions,9.769,3.323,7.538,Missoula County,above90
+1979,Historical Emissions,14.8,2.123,9.385,Missoula County,above90
+1980,Historical Emissions,10.523,1.8,8.231,Missoula County,above90
+1981,Historical Emissions,11.862,3.938,8.615,Missoula County,above90
+1982,Historical Emissions,14.908,2.369,8.462,Missoula County,above90
+1983,Historical Emissions,8.938,0.954,2.615,Missoula County,above90
+1984,Historical Emissions,9.554,0.815,2.846,Missoula County,above90
+1985,Historical Emissions,13.677,3.108,4.462,Missoula County,above90
+1986,Historical Emissions,14.938,1.169,5.077,Missoula County,above90
+1987,Historical Emissions,21.077,0.538,8.154,Missoula County,above90
+1988,Historical Emissions,15.246,1.215,6.231,Missoula County,above90
+1989,Historical Emissions,13.369,1.354,4.385,Missoula County,above90
+1990,Historical Emissions,20.031,3.062,12.231,Missoula County,above90
+1991,Historical Emissions,12.477,2.508,5.692,Missoula County,above90
+1992,Historical Emissions,17.538,0.246,5.077,Missoula County,above90
+1993,Historical Emissions,8.554,2.969,4.846,Missoula County,above90
+1994,Historical Emissions,15.277,3.446,7.923,Missoula County,above90
+1995,Historical Emissions,17.538,2.031,8.846,Missoula County,above90
+1996,Historical Emissions,28.846,9.738,17.769,Missoula County,above90
+1997,Historical Emissions,14.323,6.754,9.308,Missoula County,above90
+1998,Historical Emissions,16.308,3.862,10.538,Missoula County,above90
+1999,Historical Emissions,15.615,3.354,7.769,Missoula County,above90
+2000,Historical Emissions,19.415,2.338,14.923,Missoula County,above90
+2001,Historical Emissions,17.846,7.062,11.538,Missoula County,above90
+2002,Historical Emissions,18.985,7.154,10.769,Missoula County,above90
+2003,Historical Emissions,22.6,6.615,19.923,Missoula County,above90
+2004,Historical Emissions,25.662,10.108,14.615,Missoula County,above90
+2005,Historical Emissions,25.185,8.338,15.462,Missoula County,above90
+2006,Historical Emissions,20.031,7.815,13.077,Missoula County,above90
+2007,Historical Emissions,17.354,6.554,9.769,Missoula County,above90
+2008,Historical Emissions,20.246,7.738,13.308,Missoula County,above90
+2009,Historical Emissions,16.4,5.4,9.769,Missoula County,above90
+2010,Historical Emissions,12.615,7.615,10.308,Missoula County,above90
+2011,Historical Emissions,20.185,3.646,14.615,Missoula County,above90
+2012,Historical Emissions,22.462,9.215,16.308,Missoula County,above90
+2013,Historical Emissions,28.123,10.015,19.077,Missoula County,above90
+2014,Historical Emissions,25.877,6.062,11.538,Missoula County,above90
+2015,"Moderating Emissions
+(SSP1-2.6)",22.831,10.338,16.308,Missoula County,above90
+2015,"Middle of the Road
+(SSP2-4.5)",26.154,9.8,15.538,Missoula County,above90
+2015,"High Emissions
+(SSP3-7.0)",25.8,8.785,19.846,Missoula County,above90
+2015,"Accelerating Emissions
+(SSP5-8.5)",23.554,11.292,18.462,Missoula County,above90
+2016,"Moderating Emissions
+(SSP1-2.6)",29.523,8.846,19.077,Missoula County,above90
+2016,"Middle of the Road
+(SSP2-4.5)",25.446,6.369,12.154,Missoula County,above90
+2016,"High Emissions
+(SSP3-7.0)",32.123,11.523,23.692,Missoula County,above90
+2016,"Accelerating Emissions
+(SSP5-8.5)",23.954,10.2,16.077,Missoula County,above90
+2017,"Moderating Emissions
+(SSP1-2.6)",34.569,9.477,19.923,Missoula County,above90
+2017,"Middle of the Road
+(SSP2-4.5)",21.108,7.154,15.385,Missoula County,above90
+2017,"High Emissions
+(SSP3-7.0)",25.815,6.415,14.538,Missoula County,above90
+2017,"Accelerating Emissions
+(SSP5-8.5)",30.538,9.969,13.615,Missoula County,above90
+2018,"Moderating Emissions
+(SSP1-2.6)",30.277,4,14.846,Missoula County,above90
+2018,"Middle of the Road
+(SSP2-4.5)",24.431,8.108,15,Missoula County,above90
+2018,"High Emissions
+(SSP3-7.0)",26.6,6.169,16.154,Missoula County,above90
+2018,"Accelerating Emissions
+(SSP5-8.5)",22.815,5.662,12.615,Missoula County,above90
+2019,"Moderating Emissions
+(SSP1-2.6)",28.154,12.4,23.692,Missoula County,above90
+2019,"Middle of the Road
+(SSP2-4.5)",26.692,6.754,15.692,Missoula County,above90
+2019,"High Emissions
+(SSP3-7.0)",28.015,6.277,13.462,Missoula County,above90
+2019,"Accelerating Emissions
+(SSP5-8.5)",28.415,6.738,13.538,Missoula County,above90
+2020,"Moderating Emissions
+(SSP1-2.6)",33.985,5.492,26.615,Missoula County,above90
+2020,"Middle of the Road
+(SSP2-4.5)",22.385,5.354,15.615,Missoula County,above90
+2020,"High Emissions
+(SSP3-7.0)",24.877,6.231,14.846,Missoula County,above90
+2020,"Accelerating Emissions
+(SSP5-8.5)",33.2,8.338,13.692,Missoula County,above90
+2021,"Moderating Emissions
+(SSP1-2.6)",41.708,12.354,20.462,Missoula County,above90
+2021,"Middle of the Road
+(SSP2-4.5)",35.015,9.877,17.769,Missoula County,above90
+2021,"High Emissions
+(SSP3-7.0)",34.062,10.908,18.308,Missoula County,above90
+2021,"Accelerating Emissions
+(SSP5-8.5)",21.738,8.738,14.846,Missoula County,above90
+2022,"Moderating Emissions
+(SSP1-2.6)",26.631,8.923,16.231,Missoula County,above90
+2022,"Middle of the Road
+(SSP2-4.5)",26.092,7.046,13.769,Missoula County,above90
+2022,"High Emissions
+(SSP3-7.0)",27.138,7.246,13.385,Missoula County,above90
+2022,"Accelerating Emissions
+(SSP5-8.5)",36.062,8.6,13.385,Missoula County,above90
+2023,"Moderating Emissions
+(SSP1-2.6)",26.369,9.323,17.615,Missoula County,above90
+2023,"Middle of the Road
+(SSP2-4.5)",29.954,11.062,18.538,Missoula County,above90
+2023,"High Emissions
+(SSP3-7.0)",28.892,14.692,21.077,Missoula County,above90
+2023,"Accelerating Emissions
+(SSP5-8.5)",25.769,5.815,12.308,Missoula County,above90
+2024,"Moderating Emissions
+(SSP1-2.6)",39.415,4.831,18.769,Missoula County,above90
+2024,"Middle of the Road
+(SSP2-4.5)",31.062,11.892,17,Missoula County,above90
+2024,"High Emissions
+(SSP3-7.0)",33.046,17.554,23.462,Missoula County,above90
+2024,"Accelerating Emissions
+(SSP5-8.5)",29.477,4.477,16.308,Missoula County,above90
+2025,"Moderating Emissions
+(SSP1-2.6)",30.523,11.708,21.692,Missoula County,above90
+2025,"Middle of the Road
+(SSP2-4.5)",19.938,5.462,13.538,Missoula County,above90
+2025,"High Emissions
+(SSP3-7.0)",36.892,12.538,17.077,Missoula County,above90
+2025,"Accelerating Emissions
+(SSP5-8.5)",34.708,11.431,19.692,Missoula County,above90
+2026,"Moderating Emissions
+(SSP1-2.6)",30.508,12.708,19.154,Missoula County,above90
+2026,"Middle of the Road
+(SSP2-4.5)",42.662,11.585,21.077,Missoula County,above90
+2026,"High Emissions
+(SSP3-7.0)",24.6,2.8,10.846,Missoula County,above90
+2026,"Accelerating Emissions
+(SSP5-8.5)",36.292,10.446,16.385,Missoula County,above90
+2027,"Moderating Emissions
+(SSP1-2.6)",30.523,9.308,22.385,Missoula County,above90
+2027,"Middle of the Road
+(SSP2-4.5)",38.338,8.754,14,Missoula County,above90
+2027,"High Emissions
+(SSP3-7.0)",39.277,10.415,25.692,Missoula County,above90
+2027,"Accelerating Emissions
+(SSP5-8.5)",44.262,20.369,26,Missoula County,above90
+2028,"Moderating Emissions
+(SSP1-2.6)",30.477,8.477,12.769,Missoula County,above90
+2028,"Middle of the Road
+(SSP2-4.5)",33.708,11.523,19.385,Missoula County,above90
+2028,"High Emissions
+(SSP3-7.0)",30.831,17,20.462,Missoula County,above90
+2028,"Accelerating Emissions
+(SSP5-8.5)",42.938,9.8,20.308,Missoula County,above90
+2029,"Moderating Emissions
+(SSP1-2.6)",32.308,7.262,21,Missoula County,above90
+2029,"Middle of the Road
+(SSP2-4.5)",34.954,6.677,15.077,Missoula County,above90
+2029,"High Emissions
+(SSP3-7.0)",35.446,7.738,16.923,Missoula County,above90
+2029,"Accelerating Emissions
+(SSP5-8.5)",31.323,9.938,24.923,Missoula County,above90
+2030,"Moderating Emissions
+(SSP1-2.6)",27.477,8.446,19.846,Missoula County,above90
+2030,"Middle of the Road
+(SSP2-4.5)",35.446,17.308,29.769,Missoula County,above90
+2030,"High Emissions
+(SSP3-7.0)",40.585,11.569,17,Missoula County,above90
+2030,"Accelerating Emissions
+(SSP5-8.5)",49.631,10.323,18.923,Missoula County,above90
+2031,"Moderating Emissions
+(SSP1-2.6)",33.431,13.369,22.462,Missoula County,above90
+2031,"Middle of the Road
+(SSP2-4.5)",35.415,14.508,18.385,Missoula County,above90
+2031,"High Emissions
+(SSP3-7.0)",42.923,9.677,29.769,Missoula County,above90
+2031,"Accelerating Emissions
+(SSP5-8.5)",28.185,15.185,22.769,Missoula County,above90
+2032,"Moderating Emissions
+(SSP1-2.6)",34.631,5.231,27.385,Missoula County,above90
+2032,"Middle of the Road
+(SSP2-4.5)",29.615,12.846,19.077,Missoula County,above90
+2032,"High Emissions
+(SSP3-7.0)",45.031,10.231,18.077,Missoula County,above90
+2032,"Accelerating Emissions
+(SSP5-8.5)",36.985,6.769,24.462,Missoula County,above90
+2033,"Moderating Emissions
+(SSP1-2.6)",28.308,18.785,22,Missoula County,above90
+2033,"Middle of the Road
+(SSP2-4.5)",48.446,17.385,34.615,Missoula County,above90
+2033,"High Emissions
+(SSP3-7.0)",38.815,6.554,15.462,Missoula County,above90
+2033,"Accelerating Emissions
+(SSP5-8.5)",35.754,13.908,30.846,Missoula County,above90
+2034,"Moderating Emissions
+(SSP1-2.6)",39.923,12.985,19.692,Missoula County,above90
+2034,"Middle of the Road
+(SSP2-4.5)",35.723,4.308,19.154,Missoula County,above90
+2034,"High Emissions
+(SSP3-7.0)",45.446,17.523,27.769,Missoula County,above90
+2034,"Accelerating Emissions
+(SSP5-8.5)",42.969,7.138,22.077,Missoula County,above90
+2035,"Moderating Emissions
+(SSP1-2.6)",40.785,16.462,21.769,Missoula County,above90
+2035,"Middle of the Road
+(SSP2-4.5)",35.385,8.385,16.846,Missoula County,above90
+2035,"High Emissions
+(SSP3-7.0)",35.862,8.338,21.077,Missoula County,above90
+2035,"Accelerating Emissions
+(SSP5-8.5)",30.646,13.631,19.769,Missoula County,above90
+2036,"Moderating Emissions
+(SSP1-2.6)",33.385,14.431,22.615,Missoula County,above90
+2036,"Middle of the Road
+(SSP2-4.5)",54.431,18.323,26.538,Missoula County,above90
+2036,"High Emissions
+(SSP3-7.0)",35.938,13.846,21.077,Missoula County,above90
+2036,"Accelerating Emissions
+(SSP5-8.5)",24.369,5.523,15.538,Missoula County,above90
+2037,"Moderating Emissions
+(SSP1-2.6)",37.831,11.769,21.154,Missoula County,above90
+2037,"Middle of the Road
+(SSP2-4.5)",28.877,16.415,21,Missoula County,above90
+2037,"High Emissions
+(SSP3-7.0)",27.077,3.846,11.769,Missoula County,above90
+2037,"Accelerating Emissions
+(SSP5-8.5)",44.062,9.108,23.615,Missoula County,above90
+2038,"Moderating Emissions
+(SSP1-2.6)",35.646,13.938,21.923,Missoula County,above90
+2038,"Middle of the Road
+(SSP2-4.5)",32.015,11.138,18.462,Missoula County,above90
+2038,"High Emissions
+(SSP3-7.0)",39.831,14.831,21.385,Missoula County,above90
+2038,"Accelerating Emissions
+(SSP5-8.5)",41.6,6.892,18.154,Missoula County,above90
+2039,"Moderating Emissions
+(SSP1-2.6)",49.585,9.862,25.692,Missoula County,above90
+2039,"Middle of the Road
+(SSP2-4.5)",32,14.354,19.385,Missoula County,above90
+2039,"High Emissions
+(SSP3-7.0)",36.877,20.908,25.692,Missoula County,above90
+2039,"Accelerating Emissions
+(SSP5-8.5)",44.769,7.8,17.923,Missoula County,above90
+2040,"Moderating Emissions
+(SSP1-2.6)",30.062,8.708,21.462,Missoula County,above90
+2040,"Middle of the Road
+(SSP2-4.5)",33.477,16.738,22.385,Missoula County,above90
+2040,"High Emissions
+(SSP3-7.0)",36.815,14.354,27.769,Missoula County,above90
+2040,"Accelerating Emissions
+(SSP5-8.5)",49.385,10.723,36.231,Missoula County,above90
+2041,"Moderating Emissions
+(SSP1-2.6)",38.031,9.8,17.308,Missoula County,above90
+2041,"Middle of the Road
+(SSP2-4.5)",41.938,15.892,22.769,Missoula County,above90
+2041,"High Emissions
+(SSP3-7.0)",42.292,11.246,26.077,Missoula County,above90
+2041,"Accelerating Emissions
+(SSP5-8.5)",36.062,11.738,18.231,Missoula County,above90
+2042,"Moderating Emissions
+(SSP1-2.6)",43.646,11.8,15.231,Missoula County,above90
+2042,"Middle of the Road
+(SSP2-4.5)",41.862,14.846,25.615,Missoula County,above90
+2042,"High Emissions
+(SSP3-7.0)",35.954,6.477,26,Missoula County,above90
+2042,"Accelerating Emissions
+(SSP5-8.5)",53.8,13.231,22.923,Missoula County,above90
+2043,"Moderating Emissions
+(SSP1-2.6)",34.908,15.6,23.846,Missoula County,above90
+2043,"Middle of the Road
+(SSP2-4.5)",43.062,13.462,28.154,Missoula County,above90
+2043,"High Emissions
+(SSP3-7.0)",32.708,7.446,24,Missoula County,above90
+2043,"Accelerating Emissions
+(SSP5-8.5)",48.292,11.815,24.923,Missoula County,above90
+2044,"Moderating Emissions
+(SSP1-2.6)",40.292,12.138,25.692,Missoula County,above90
+2044,"Middle of the Road
+(SSP2-4.5)",54.215,14.692,22.231,Missoula County,above90
+2044,"High Emissions
+(SSP3-7.0)",36.6,21.338,25.692,Missoula County,above90
+2044,"Accelerating Emissions
+(SSP5-8.5)",46.415,25.138,32,Missoula County,above90
+2045,"Moderating Emissions
+(SSP1-2.6)",29.415,11.677,22.077,Missoula County,above90
+2045,"Middle of the Road
+(SSP2-4.5)",60,17.585,28.385,Missoula County,above90
+2045,"High Emissions
+(SSP3-7.0)",39.4,12.123,33.077,Missoula County,above90
+2045,"Accelerating Emissions
+(SSP5-8.5)",40.954,11.477,25.538,Missoula County,above90
+2046,"Moderating Emissions
+(SSP1-2.6)",33.215,8.785,23.154,Missoula County,above90
+2046,"Middle of the Road
+(SSP2-4.5)",42.831,11.877,28.923,Missoula County,above90
+2046,"High Emissions
+(SSP3-7.0)",35.954,13.985,23.923,Missoula County,above90
+2046,"Accelerating Emissions
+(SSP5-8.5)",32.677,11.846,26.923,Missoula County,above90
+2047,"Moderating Emissions
+(SSP1-2.6)",46.754,10.569,27.692,Missoula County,above90
+2047,"Middle of the Road
+(SSP2-4.5)",37.308,6.815,22.077,Missoula County,above90
+2047,"High Emissions
+(SSP3-7.0)",39.077,22.892,28.615,Missoula County,above90
+2047,"Accelerating Emissions
+(SSP5-8.5)",49.477,16.062,36.846,Missoula County,above90
+2048,"Moderating Emissions
+(SSP1-2.6)",35.046,9.185,21.154,Missoula County,above90
+2048,"Middle of the Road
+(SSP2-4.5)",46,14.4,28.769,Missoula County,above90
+2048,"High Emissions
+(SSP3-7.0)",49.631,10.538,19.231,Missoula County,above90
+2048,"Accelerating Emissions
+(SSP5-8.5)",62.215,17,36.308,Missoula County,above90
+2049,"Moderating Emissions
+(SSP1-2.6)",36.738,11.415,24.385,Missoula County,above90
+2049,"Middle of the Road
+(SSP2-4.5)",32.938,11.708,15.769,Missoula County,above90
+2049,"High Emissions
+(SSP3-7.0)",38.785,19.615,25.308,Missoula County,above90
+2049,"Accelerating Emissions
+(SSP5-8.5)",45.354,14.462,38.692,Missoula County,above90
+2050,"Moderating Emissions
+(SSP1-2.6)",34.677,13.877,20.462,Missoula County,above90
+2050,"Middle of the Road
+(SSP2-4.5)",55.015,11.892,30.154,Missoula County,above90
+2050,"High Emissions
+(SSP3-7.0)",42.123,14.677,33.769,Missoula County,above90
+2050,"Accelerating Emissions
+(SSP5-8.5)",57.969,19.569,28.538,Missoula County,above90
+2051,"Moderating Emissions
+(SSP1-2.6)",37.046,11.677,20.077,Missoula County,above90
+2051,"Middle of the Road
+(SSP2-4.5)",55.492,8.769,34.231,Missoula County,above90
+2051,"High Emissions
+(SSP3-7.0)",42.846,25.923,35.615,Missoula County,above90
+2051,"Accelerating Emissions
+(SSP5-8.5)",47.138,25.462,34.462,Missoula County,above90
+2052,"Moderating Emissions
+(SSP1-2.6)",31.262,16.738,23.923,Missoula County,above90
+2052,"Middle of the Road
+(SSP2-4.5)",39.138,10.908,18.615,Missoula County,above90
+2052,"High Emissions
+(SSP3-7.0)",36.631,12.8,20.538,Missoula County,above90
+2052,"Accelerating Emissions
+(SSP5-8.5)",41.077,20.323,31.846,Missoula County,above90
+2053,"Moderating Emissions
+(SSP1-2.6)",41.708,8.954,18,Missoula County,above90
+2053,"Middle of the Road
+(SSP2-4.5)",34.969,11.723,20.385,Missoula County,above90
+2053,"High Emissions
+(SSP3-7.0)",45.015,28.415,37,Missoula County,above90
+2053,"Accelerating Emissions
+(SSP5-8.5)",54.846,20.6,27.769,Missoula County,above90
+2054,"Moderating Emissions
+(SSP1-2.6)",28.492,18.077,24.615,Missoula County,above90
+2054,"Middle of the Road
+(SSP2-4.5)",43.754,13.169,23.231,Missoula County,above90
+2054,"High Emissions
+(SSP3-7.0)",54.985,16.846,23.615,Missoula County,above90
+2054,"Accelerating Emissions
+(SSP5-8.5)",58.2,23.138,31.846,Missoula County,above90
+2055,"Moderating Emissions
+(SSP1-2.6)",44.369,20.277,30.231,Missoula County,above90
+2055,"Middle of the Road
+(SSP2-4.5)",48.908,13.477,34,Missoula County,above90
+2055,"High Emissions
+(SSP3-7.0)",57.385,14.708,26.846,Missoula County,above90
+2055,"Accelerating Emissions
+(SSP5-8.5)",65.431,19.785,41.308,Missoula County,above90
+2056,"Moderating Emissions
+(SSP1-2.6)",38.385,11.615,21,Missoula County,above90
+2056,"Middle of the Road
+(SSP2-4.5)",46.354,13.2,31.462,Missoula County,above90
+2056,"High Emissions
+(SSP3-7.0)",40.6,19.138,25.923,Missoula County,above90
+2056,"Accelerating Emissions
+(SSP5-8.5)",52.846,33.138,37.077,Missoula County,above90
+2057,"Moderating Emissions
+(SSP1-2.6)",27.369,10.6,15.308,Missoula County,above90
+2057,"Middle of the Road
+(SSP2-4.5)",40.738,21,31.154,Missoula County,above90
+2057,"High Emissions
+(SSP3-7.0)",45.831,16.354,22,Missoula County,above90
+2057,"Accelerating Emissions
+(SSP5-8.5)",57.769,23.215,35.385,Missoula County,above90
+2058,"Moderating Emissions
+(SSP1-2.6)",39.246,8.985,19.231,Missoula County,above90
+2058,"Middle of the Road
+(SSP2-4.5)",60.523,18.969,35.923,Missoula County,above90
+2058,"High Emissions
+(SSP3-7.0)",42.4,20.569,29.462,Missoula County,above90
+2058,"Accelerating Emissions
+(SSP5-8.5)",60.877,19.477,29.846,Missoula County,above90
+2059,"Moderating Emissions
+(SSP1-2.6)",44.015,16.985,27.385,Missoula County,above90
+2059,"Middle of the Road
+(SSP2-4.5)",59.462,12.815,32.538,Missoula County,above90
+2059,"High Emissions
+(SSP3-7.0)",60.538,15.815,34,Missoula County,above90
+2059,"Accelerating Emissions
+(SSP5-8.5)",54.677,17.462,40.385,Missoula County,above90
+2060,"Moderating Emissions
+(SSP1-2.6)",42.862,16.215,20,Missoula County,above90
+2060,"Middle of the Road
+(SSP2-4.5)",62.092,10.938,23.077,Missoula County,above90
+2060,"High Emissions
+(SSP3-7.0)",50.231,19.754,29.231,Missoula County,above90
+2060,"Accelerating Emissions
+(SSP5-8.5)",49.062,19.738,32.846,Missoula County,above90
+2061,"Moderating Emissions
+(SSP1-2.6)",39.185,9.354,18.462,Missoula County,above90
+2061,"Middle of the Road
+(SSP2-4.5)",54.846,17.692,21,Missoula County,above90
+2061,"High Emissions
+(SSP3-7.0)",41.615,24.646,35.846,Missoula County,above90
+2061,"Accelerating Emissions
+(SSP5-8.5)",65.108,36.4,42.692,Missoula County,above90
+2062,"Moderating Emissions
+(SSP1-2.6)",42.277,16.169,24.846,Missoula County,above90
+2062,"Middle of the Road
+(SSP2-4.5)",38.538,18.292,24.538,Missoula County,above90
+2062,"High Emissions
+(SSP3-7.0)",41.354,23.631,33.154,Missoula County,above90
+2062,"Accelerating Emissions
+(SSP5-8.5)",51.692,31.385,40.231,Missoula County,above90
+2063,"Moderating Emissions
+(SSP1-2.6)",38.631,16.077,26.308,Missoula County,above90
+2063,"Middle of the Road
+(SSP2-4.5)",51.646,8.462,20.923,Missoula County,above90
+2063,"High Emissions
+(SSP3-7.0)",56.231,18.046,31.231,Missoula County,above90
+2063,"Accelerating Emissions
+(SSP5-8.5)",75.308,35.231,46.769,Missoula County,above90
+2064,"Moderating Emissions
+(SSP1-2.6)",55.415,7.415,19.692,Missoula County,above90
+2064,"Middle of the Road
+(SSP2-4.5)",37.692,17.185,31.077,Missoula County,above90
+2064,"High Emissions
+(SSP3-7.0)",48.908,28,39.231,Missoula County,above90
+2064,"Accelerating Emissions
+(SSP5-8.5)",55.185,24.477,36.923,Missoula County,above90
+2065,"Moderating Emissions
+(SSP1-2.6)",33.277,10.692,20.769,Missoula County,above90
+2065,"Middle of the Road
+(SSP2-4.5)",40.523,16.8,27.462,Missoula County,above90
+2065,"High Emissions
+(SSP3-7.0)",48.277,20.8,28.846,Missoula County,above90
+2065,"Accelerating Emissions
+(SSP5-8.5)",68.108,36.831,41.923,Missoula County,above90
+2066,"Moderating Emissions
+(SSP1-2.6)",37.292,17.769,25.692,Missoula County,above90
+2066,"Middle of the Road
+(SSP2-4.5)",49.062,21,32,Missoula County,above90
+2066,"High Emissions
+(SSP3-7.0)",51.138,24.754,35.692,Missoula County,above90
+2066,"Accelerating Emissions
+(SSP5-8.5)",65.385,29.6,36.077,Missoula County,above90
+2067,"Moderating Emissions
+(SSP1-2.6)",39.615,15.185,20.462,Missoula County,above90
+2067,"Middle of the Road
+(SSP2-4.5)",46.215,19.569,26,Missoula County,above90
+2067,"High Emissions
+(SSP3-7.0)",63.277,23.031,36.308,Missoula County,above90
+2067,"Accelerating Emissions
+(SSP5-8.5)",55.338,17.354,36.846,Missoula County,above90
+2068,"Moderating Emissions
+(SSP1-2.6)",40.492,21.4,33.462,Missoula County,above90
+2068,"Middle of the Road
+(SSP2-4.5)",44.538,12.262,19.538,Missoula County,above90
+2068,"High Emissions
+(SSP3-7.0)",56.723,27.369,37.769,Missoula County,above90
+2068,"Accelerating Emissions
+(SSP5-8.5)",57,15.662,42.077,Missoula County,above90
+2069,"Moderating Emissions
+(SSP1-2.6)",46.662,24.108,29.615,Missoula County,above90
+2069,"Middle of the Road
+(SSP2-4.5)",48.508,22.446,34.308,Missoula County,above90
+2069,"High Emissions
+(SSP3-7.0)",64.138,30.092,42.308,Missoula County,above90
+2069,"Accelerating Emissions
+(SSP5-8.5)",80.969,25.415,52.154,Missoula County,above90
+2070,"Moderating Emissions
+(SSP1-2.6)",38.969,14.385,28,Missoula County,above90
+2070,"Middle of the Road
+(SSP2-4.5)",38.554,16.015,25.615,Missoula County,above90
+2070,"High Emissions
+(SSP3-7.0)",60.708,24.831,33.692,Missoula County,above90
+2070,"Accelerating Emissions
+(SSP5-8.5)",69.785,28.354,48.154,Missoula County,above90
+2071,"Moderating Emissions
+(SSP1-2.6)",51.338,9.862,38.154,Missoula County,above90
+2071,"Middle of the Road
+(SSP2-4.5)",46.062,20.862,29.769,Missoula County,above90
+2071,"High Emissions
+(SSP3-7.0)",59.785,24.969,45.615,Missoula County,above90
+2071,"Accelerating Emissions
+(SSP5-8.5)",73.246,30.123,48.231,Missoula County,above90
+2072,"Moderating Emissions
+(SSP1-2.6)",49.908,14.415,33.462,Missoula County,above90
+2072,"Middle of the Road
+(SSP2-4.5)",43.923,11.046,30.385,Missoula County,above90
+2072,"High Emissions
+(SSP3-7.0)",54.277,18.415,33.231,Missoula County,above90
+2072,"Accelerating Emissions
+(SSP5-8.5)",73.015,36.708,44.308,Missoula County,above90
+2073,"Moderating Emissions
+(SSP1-2.6)",44.508,15.892,21,Missoula County,above90
+2073,"Middle of the Road
+(SSP2-4.5)",55.4,13.677,24.846,Missoula County,above90
+2073,"High Emissions
+(SSP3-7.0)",54.877,29.2,42.077,Missoula County,above90
+2073,"Accelerating Emissions
+(SSP5-8.5)",61.154,24.369,45.154,Missoula County,above90
+2074,"Moderating Emissions
+(SSP1-2.6)",39.785,7.415,33.231,Missoula County,above90
+2074,"Middle of the Road
+(SSP2-4.5)",45.831,17.569,34.462,Missoula County,above90
+2074,"High Emissions
+(SSP3-7.0)",59.369,29.154,41.692,Missoula County,above90
+2074,"Accelerating Emissions
+(SSP5-8.5)",84.985,37.846,50.538,Missoula County,above90
+2075,"Moderating Emissions
+(SSP1-2.6)",52.492,11.677,27.846,Missoula County,above90
+2075,"Middle of the Road
+(SSP2-4.5)",64.692,19.538,37.154,Missoula County,above90
+2075,"High Emissions
+(SSP3-7.0)",70.385,27.969,43.385,Missoula County,above90
+2075,"Accelerating Emissions
+(SSP5-8.5)",75.185,26.908,52,Missoula County,above90
+2076,"Moderating Emissions
+(SSP1-2.6)",46.769,6.2,24.538,Missoula County,above90
+2076,"Middle of the Road
+(SSP2-4.5)",47.292,21.092,26,Missoula County,above90
+2076,"High Emissions
+(SSP3-7.0)",60.662,33.538,49.769,Missoula County,above90
+2076,"Accelerating Emissions
+(SSP5-8.5)",76.246,36.092,42.462,Missoula County,above90
+2077,"Moderating Emissions
+(SSP1-2.6)",50.646,9.985,24.538,Missoula County,above90
+2077,"Middle of the Road
+(SSP2-4.5)",47.846,11.785,27.769,Missoula County,above90
+2077,"High Emissions
+(SSP3-7.0)",64.554,31.754,44.923,Missoula County,above90
+2077,"Accelerating Emissions
+(SSP5-8.5)",72.338,30.138,49.385,Missoula County,above90
+2078,"Moderating Emissions
+(SSP1-2.6)",40.923,18.692,24.538,Missoula County,above90
+2078,"Middle of the Road
+(SSP2-4.5)",55.862,15.108,35.923,Missoula County,above90
+2078,"High Emissions
+(SSP3-7.0)",83.877,28,36.538,Missoula County,above90
+2078,"Accelerating Emissions
+(SSP5-8.5)",67.754,30.585,45.538,Missoula County,above90
+2079,"Moderating Emissions
+(SSP1-2.6)",40.954,15.862,25.308,Missoula County,above90
+2079,"Middle of the Road
+(SSP2-4.5)",53.262,23.769,33.692,Missoula County,above90
+2079,"High Emissions
+(SSP3-7.0)",72.123,32.785,40.692,Missoula County,above90
+2079,"Accelerating Emissions
+(SSP5-8.5)",87.985,39.908,56.923,Missoula County,above90
+2080,"Moderating Emissions
+(SSP1-2.6)",37.185,13.231,26.231,Missoula County,above90
+2080,"Middle of the Road
+(SSP2-4.5)",51,10.985,29.692,Missoula County,above90
+2080,"High Emissions
+(SSP3-7.0)",72.185,26.677,49.308,Missoula County,above90
+2080,"Accelerating Emissions
+(SSP5-8.5)",89.262,41.538,52.923,Missoula County,above90
+2081,"Moderating Emissions
+(SSP1-2.6)",40.908,20.538,25.308,Missoula County,above90
+2081,"Middle of the Road
+(SSP2-4.5)",52.738,26.338,31.769,Missoula County,above90
+2081,"High Emissions
+(SSP3-7.0)",76.554,27.031,42.154,Missoula County,above90
+2081,"Accelerating Emissions
+(SSP5-8.5)",82.154,43.831,73.462,Missoula County,above90
+2082,"Moderating Emissions
+(SSP1-2.6)",46.769,11.523,28.769,Missoula County,above90
+2082,"Middle of the Road
+(SSP2-4.5)",55.677,18.892,31.538,Missoula County,above90
+2082,"High Emissions
+(SSP3-7.0)",73.369,23.354,38.308,Missoula County,above90
+2082,"Accelerating Emissions
+(SSP5-8.5)",85.677,47.062,57.923,Missoula County,above90
+2083,"Moderating Emissions
+(SSP1-2.6)",51.308,15.892,32.154,Missoula County,above90
+2083,"Middle of the Road
+(SSP2-4.5)",55.154,13.892,37.615,Missoula County,above90
+2083,"High Emissions
+(SSP3-7.0)",67.554,20.277,50.538,Missoula County,above90
+2083,"Accelerating Emissions
+(SSP5-8.5)",79.569,30.323,52,Missoula County,above90
+2084,"Moderating Emissions
+(SSP1-2.6)",46.415,9.646,24.154,Missoula County,above90
+2084,"Middle of the Road
+(SSP2-4.5)",53.785,19.446,36.692,Missoula County,above90
+2084,"High Emissions
+(SSP3-7.0)",80.538,40.292,56.692,Missoula County,above90
+2084,"Accelerating Emissions
+(SSP5-8.5)",85.108,37.938,55.308,Missoula County,above90
+2085,"Moderating Emissions
+(SSP1-2.6)",48.123,8.508,21.308,Missoula County,above90
+2085,"Middle of the Road
+(SSP2-4.5)",50.538,25.908,40.077,Missoula County,above90
+2085,"High Emissions
+(SSP3-7.0)",72.585,22.708,43.077,Missoula County,above90
+2085,"Accelerating Emissions
+(SSP5-8.5)",82.185,35.8,64.769,Missoula County,above90
+2086,"Moderating Emissions
+(SSP1-2.6)",44.246,17.785,26.077,Missoula County,above90
+2086,"Middle of the Road
+(SSP2-4.5)",45.554,17.815,31.538,Missoula County,above90
+2086,"High Emissions
+(SSP3-7.0)",77.615,33.092,47.692,Missoula County,above90
+2086,"Accelerating Emissions
+(SSP5-8.5)",81.415,50.523,63.154,Missoula County,above90
+2087,"Moderating Emissions
+(SSP1-2.6)",34.169,11.923,21.769,Missoula County,above90
+2087,"Middle of the Road
+(SSP2-4.5)",46.985,23.831,36.538,Missoula County,above90
+2087,"High Emissions
+(SSP3-7.0)",86.492,29.908,46.308,Missoula County,above90
+2087,"Accelerating Emissions
+(SSP5-8.5)",85.754,38.4,48.615,Missoula County,above90
+2088,"Moderating Emissions
+(SSP1-2.6)",40.631,18.108,25.692,Missoula County,above90
+2088,"Middle of the Road
+(SSP2-4.5)",68.662,24.262,45.538,Missoula County,above90
+2088,"High Emissions
+(SSP3-7.0)",80.6,34.723,51.231,Missoula County,above90
+2088,"Accelerating Emissions
+(SSP5-8.5)",96.123,38.215,59.308,Missoula County,above90
+2089,"Moderating Emissions
+(SSP1-2.6)",43.446,15.738,31.692,Missoula County,above90
+2089,"Middle of the Road
+(SSP2-4.5)",51.4,15.662,35.154,Missoula County,above90
+2089,"High Emissions
+(SSP3-7.0)",79.969,39.862,70.154,Missoula County,above90
+2089,"Accelerating Emissions
+(SSP5-8.5)",91.046,46.677,71.462,Missoula County,above90
+2090,"Moderating Emissions
+(SSP1-2.6)",38.185,14.815,21.846,Missoula County,above90
+2090,"Middle of the Road
+(SSP2-4.5)",48.415,18.877,39.538,Missoula County,above90
+2090,"High Emissions
+(SSP3-7.0)",85.954,41.369,59.077,Missoula County,above90
+2090,"Accelerating Emissions
+(SSP5-8.5)",94.923,37.092,76.462,Missoula County,above90
+2091,"Moderating Emissions
+(SSP1-2.6)",40.8,11.046,18.308,Missoula County,above90
+2091,"Middle of the Road
+(SSP2-4.5)",61.569,15.877,35.308,Missoula County,above90
+2091,"High Emissions
+(SSP3-7.0)",72.415,39.8,47.231,Missoula County,above90
+2091,"Accelerating Emissions
+(SSP5-8.5)",85.615,37.508,67.538,Missoula County,above90
+2092,"Moderating Emissions
+(SSP1-2.6)",48.231,9.8,28.077,Missoula County,above90
+2092,"Middle of the Road
+(SSP2-4.5)",59.538,28.738,38.538,Missoula County,above90
+2092,"High Emissions
+(SSP3-7.0)",64.6,39.031,51.308,Missoula County,above90
+2092,"Accelerating Emissions
+(SSP5-8.5)",95.138,52.477,59.154,Missoula County,above90
+2093,"Moderating Emissions
+(SSP1-2.6)",32.985,11.492,19.538,Missoula County,above90
+2093,"Middle of the Road
+(SSP2-4.5)",53.985,24.738,42.462,Missoula County,above90
+2093,"High Emissions
+(SSP3-7.0)",73.954,45.646,50.615,Missoula County,above90
+2093,"Accelerating Emissions
+(SSP5-8.5)",99.246,47.877,69.462,Missoula County,above90
+2094,"Moderating Emissions
+(SSP1-2.6)",53.477,11.154,13.154,Missoula County,above90
+2094,"Middle of the Road
+(SSP2-4.5)",67.431,14.523,39.385,Missoula County,above90
+2094,"High Emissions
+(SSP3-7.0)",73.308,34.215,59.231,Missoula County,above90
+2094,"Accelerating Emissions
+(SSP5-8.5)",96.215,50.985,68.308,Missoula County,above90
+2095,"Moderating Emissions
+(SSP1-2.6)",49.985,13.385,31.154,Missoula County,above90
+2095,"Middle of the Road
+(SSP2-4.5)",61.8,29.846,39.231,Missoula County,above90
+2095,"High Emissions
+(SSP3-7.0)",80.492,37.369,67.846,Missoula County,above90
+2095,"Accelerating Emissions
+(SSP5-8.5)",88.385,48.477,57.846,Missoula County,above90
+2096,"Moderating Emissions
+(SSP1-2.6)",52.169,11.554,20.923,Missoula County,above90
+2096,"Middle of the Road
+(SSP2-4.5)",60.354,20.446,37.615,Missoula County,above90
+2096,"High Emissions
+(SSP3-7.0)",82.246,26.477,64.154,Missoula County,above90
+2096,"Accelerating Emissions
+(SSP5-8.5)",97.662,41.046,56,Missoula County,above90
+2097,"Moderating Emissions
+(SSP1-2.6)",45.338,19.338,33.769,Missoula County,above90
+2097,"Middle of the Road
+(SSP2-4.5)",75.154,27.323,36.923,Missoula County,above90
+2097,"High Emissions
+(SSP3-7.0)",97.8,41.692,62.308,Missoula County,above90
+2097,"Accelerating Emissions
+(SSP5-8.5)",88.785,48.815,64.385,Missoula County,above90
+2098,"Moderating Emissions
+(SSP1-2.6)",44.708,14.154,26.692,Missoula County,above90
+2098,"Middle of the Road
+(SSP2-4.5)",51.815,24.585,39.846,Missoula County,above90
+2098,"High Emissions
+(SSP3-7.0)",81.646,43.231,61.462,Missoula County,above90
+2098,"Accelerating Emissions
+(SSP5-8.5)",79.462,55.923,70.462,Missoula County,above90
+2099,"Moderating Emissions
+(SSP1-2.6)",47.015,8.754,25.615,Missoula County,above90
+2099,"Middle of the Road
+(SSP2-4.5)",56.077,23.4,33,Missoula County,above90
+2099,"High Emissions
+(SSP3-7.0)",78.431,38.923,61.769,Missoula County,above90
+2099,"Accelerating Emissions
+(SSP5-8.5)",91.492,61.046,71.462,Missoula County,above90
+2100,"Moderating Emissions
+(SSP1-2.6)",35.785,9.938,18.846,Missoula County,above90
+2100,"Middle of the Road
+(SSP2-4.5)",61.077,15.492,29.615,Missoula County,above90
+2100,"High Emissions
+(SSP3-7.0)",76.615,50.123,55.692,Missoula County,above90
+2100,"Accelerating Emissions
+(SSP5-8.5)",94.892,54.523,72.154,Missoula County,above90

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,31.6,13.514,21,Flint-Rock,con-dry
+1951,Historical Emissions,33.257,14.743,18.857,Flint-Rock,con-dry
+1952,Historical Emissions,22,14.657,17,Flint-Rock,con-dry
+1953,Historical Emissions,31.429,16.629,23.143,Flint-Rock,con-dry
+1954,Historical Emissions,25.4,13.8,16.714,Flint-Rock,con-dry
+1955,Historical Emissions,32.4,16,24.571,Flint-Rock,con-dry
+1956,Historical Emissions,30.857,14.8,20.857,Flint-Rock,con-dry
+1957,Historical Emissions,25.857,13.143,15,Flint-Rock,con-dry
+1958,Historical Emissions,23.371,11.514,18.714,Flint-Rock,con-dry
+1959,Historical Emissions,16.572,11.971,14,Flint-Rock,con-dry
+1960,Historical Emissions,22.857,12,17.143,Flint-Rock,con-dry
+1961,Historical Emissions,28.514,13.543,19,Flint-Rock,con-dry
+1962,Historical Emissions,46.057,12.229,19.143,Flint-Rock,con-dry
+1963,Historical Emissions,20.943,14.257,16.143,Flint-Rock,con-dry
+1964,Historical Emissions,22.429,15.943,18.857,Flint-Rock,con-dry
+1965,Historical Emissions,28.914,15.943,26.143,Flint-Rock,con-dry
+1966,Historical Emissions,33.657,13.514,21.857,Flint-Rock,con-dry
+1967,Historical Emissions,27.6,14.086,25.143,Flint-Rock,con-dry
+1968,Historical Emissions,24.171,16.686,20,Flint-Rock,con-dry
+1969,Historical Emissions,27.257,14.286,18.571,Flint-Rock,con-dry
+1970,Historical Emissions,21.514,15.857,17.857,Flint-Rock,con-dry
+1971,Historical Emissions,28.714,13.8,18.429,Flint-Rock,con-dry
+1972,Historical Emissions,25.829,15.115,20,Flint-Rock,con-dry
+1973,Historical Emissions,36.743,17.657,18.857,Flint-Rock,con-dry
+1974,Historical Emissions,38.4,14.257,18,Flint-Rock,con-dry
+1975,Historical Emissions,23.6,16.114,20,Flint-Rock,con-dry
+1976,Historical Emissions,37.2,17.914,21.286,Flint-Rock,con-dry
+1977,Historical Emissions,29.914,13.171,18.714,Flint-Rock,con-dry
+1978,Historical Emissions,21.629,13.4,18,Flint-Rock,con-dry
+1979,Historical Emissions,31.286,16.371,18,Flint-Rock,con-dry
+1980,Historical Emissions,26.943,12.886,20,Flint-Rock,con-dry
+1981,Historical Emissions,24,14.4,18.857,Flint-Rock,con-dry
+1982,Historical Emissions,20.029,12.8,18,Flint-Rock,con-dry
+1983,Historical Emissions,27.2,16.4,20.143,Flint-Rock,con-dry
+1984,Historical Emissions,25.172,15.2,18,Flint-Rock,con-dry
+1985,Historical Emissions,24.686,14.771,17,Flint-Rock,con-dry
+1986,Historical Emissions,26.257,13,19,Flint-Rock,con-dry
+1987,Historical Emissions,26.4,15.286,20.714,Flint-Rock,con-dry
+1988,Historical Emissions,31.314,13.629,20,Flint-Rock,con-dry
+1989,Historical Emissions,29.486,12.343,16.286,Flint-Rock,con-dry
+1990,Historical Emissions,31.371,13.4,18,Flint-Rock,con-dry
+1991,Historical Emissions,33.771,13.628,21.714,Flint-Rock,con-dry
+1992,Historical Emissions,39.971,16.943,23,Flint-Rock,con-dry
+1993,Historical Emissions,21.743,16.314,17.571,Flint-Rock,con-dry
+1994,Historical Emissions,22.886,16.029,19,Flint-Rock,con-dry
+1995,Historical Emissions,23.314,16.343,19.571,Flint-Rock,con-dry
+1996,Historical Emissions,49.315,14,29,Flint-Rock,con-dry
+1997,Historical Emissions,25.4,13.943,19.571,Flint-Rock,con-dry
+1998,Historical Emissions,32.772,12.8,20,Flint-Rock,con-dry
+1999,Historical Emissions,23.2,15.314,19.857,Flint-Rock,con-dry
+2000,Historical Emissions,31.857,15.657,20.286,Flint-Rock,con-dry
+2001,Historical Emissions,23.486,12.943,18.143,Flint-Rock,con-dry
+2002,Historical Emissions,27.343,13.514,16.143,Flint-Rock,con-dry
+2003,Historical Emissions,29.2,11.857,17.857,Flint-Rock,con-dry
+2004,Historical Emissions,32,14.114,21,Flint-Rock,con-dry
+2005,Historical Emissions,42.6,12.543,19.857,Flint-Rock,con-dry
+2006,Historical Emissions,26.515,16.057,20,Flint-Rock,con-dry
+2007,Historical Emissions,23.829,16.286,20.286,Flint-Rock,con-dry
+2008,Historical Emissions,30.029,16.657,23.286,Flint-Rock,con-dry
+2009,Historical Emissions,22.486,13,19,Flint-Rock,con-dry
+2010,Historical Emissions,27.114,16.914,23.571,Flint-Rock,con-dry
+2011,Historical Emissions,23.114,13.371,17.429,Flint-Rock,con-dry
+2012,Historical Emissions,23.514,14.628,16.857,Flint-Rock,con-dry
+2013,Historical Emissions,23.943,14.629,21,Flint-Rock,con-dry
+2014,Historical Emissions,46,15.8,19,Flint-Rock,con-dry
+2015,"Moderating Emissions
+(SSP1-2.6)",32.143,15.771,22.714,Flint-Rock,con-dry
+2015,"Middle of the Road
+(SSP2-4.5)",38.943,17.086,26.857,Flint-Rock,con-dry
+2015,"High Emissions
+(SSP3-7.0)",24.2,15.857,22,Flint-Rock,con-dry
+2015,"Accelerating Emissions
+(SSP5-8.5)",29.371,15.657,19,Flint-Rock,con-dry
+2016,"Moderating Emissions
+(SSP1-2.6)",30.6,13.372,18.714,Flint-Rock,con-dry
+2016,"Middle of the Road
+(SSP2-4.5)",24.171,16.714,19.429,Flint-Rock,con-dry
+2016,"High Emissions
+(SSP3-7.0)",33.028,14.829,18.857,Flint-Rock,con-dry
+2016,"Accelerating Emissions
+(SSP5-8.5)",37.943,16.714,21.571,Flint-Rock,con-dry
+2017,"Moderating Emissions
+(SSP1-2.6)",28.286,13.257,17.429,Flint-Rock,con-dry
+2017,"Middle of the Road
+(SSP2-4.5)",35.286,16.257,22.286,Flint-Rock,con-dry
+2017,"High Emissions
+(SSP3-7.0)",34.8,18.115,27,Flint-Rock,con-dry
+2017,"Accelerating Emissions
+(SSP5-8.5)",25.115,15.857,22,Flint-Rock,con-dry
+2018,"Moderating Emissions
+(SSP1-2.6)",27.4,16.086,21,Flint-Rock,con-dry
+2018,"Middle of the Road
+(SSP2-4.5)",27.457,14.2,19.429,Flint-Rock,con-dry
+2018,"High Emissions
+(SSP3-7.0)",28.143,12.6,19.286,Flint-Rock,con-dry
+2018,"Accelerating Emissions
+(SSP5-8.5)",27.2,14.4,22.286,Flint-Rock,con-dry
+2019,"Moderating Emissions
+(SSP1-2.6)",36.228,19.2,28.429,Flint-Rock,con-dry
+2019,"Middle of the Road
+(SSP2-4.5)",25.314,13.914,17,Flint-Rock,con-dry
+2019,"High Emissions
+(SSP3-7.0)",29.143,13.772,26.143,Flint-Rock,con-dry
+2019,"Accelerating Emissions
+(SSP5-8.5)",31.086,12.943,20.714,Flint-Rock,con-dry
+2020,"Moderating Emissions
+(SSP1-2.6)",29.457,19.086,24,Flint-Rock,con-dry
+2020,"Middle of the Road
+(SSP2-4.5)",21.743,14.6,18,Flint-Rock,con-dry
+2020,"High Emissions
+(SSP3-7.0)",30.057,13.857,18.429,Flint-Rock,con-dry
+2020,"Accelerating Emissions
+(SSP5-8.5)",23.057,13.285,17.714,Flint-Rock,con-dry
+2021,"Moderating Emissions
+(SSP1-2.6)",45.172,17.543,23,Flint-Rock,con-dry
+2021,"Middle of the Road
+(SSP2-4.5)",33.485,16.657,25,Flint-Rock,con-dry
+2021,"High Emissions
+(SSP3-7.0)",35.829,14.486,21.857,Flint-Rock,con-dry
+2021,"Accelerating Emissions
+(SSP5-8.5)",27.514,15.857,19.286,Flint-Rock,con-dry
+2022,"Moderating Emissions
+(SSP1-2.6)",28.343,14.6,19.571,Flint-Rock,con-dry
+2022,"Middle of the Road
+(SSP2-4.5)",26.714,14.029,19,Flint-Rock,con-dry
+2022,"High Emissions
+(SSP3-7.0)",26.057,13.086,19,Flint-Rock,con-dry
+2022,"Accelerating Emissions
+(SSP5-8.5)",26.457,12.8,17,Flint-Rock,con-dry
+2023,"Moderating Emissions
+(SSP1-2.6)",24.343,13.629,19.571,Flint-Rock,con-dry
+2023,"Middle of the Road
+(SSP2-4.5)",26.743,14.8,21.429,Flint-Rock,con-dry
+2023,"High Emissions
+(SSP3-7.0)",25.486,16.314,21,Flint-Rock,con-dry
+2023,"Accelerating Emissions
+(SSP5-8.5)",22.257,15.457,17.429,Flint-Rock,con-dry
+2024,"Moderating Emissions
+(SSP1-2.6)",31.714,14.6,20.429,Flint-Rock,con-dry
+2024,"Middle of the Road
+(SSP2-4.5)",31.029,13,18,Flint-Rock,con-dry
+2024,"High Emissions
+(SSP3-7.0)",27.971,16.657,21.571,Flint-Rock,con-dry
+2024,"Accelerating Emissions
+(SSP5-8.5)",36.714,14.086,19.714,Flint-Rock,con-dry
+2025,"Moderating Emissions
+(SSP1-2.6)",25.429,16.457,19.714,Flint-Rock,con-dry
+2025,"Middle of the Road
+(SSP2-4.5)",20.372,15.8,17.857,Flint-Rock,con-dry
+2025,"High Emissions
+(SSP3-7.0)",40.171,16.114,23.714,Flint-Rock,con-dry
+2025,"Accelerating Emissions
+(SSP5-8.5)",30.628,16.371,22,Flint-Rock,con-dry
+2026,"Moderating Emissions
+(SSP1-2.6)",28.714,11.743,18.286,Flint-Rock,con-dry
+2026,"Middle of the Road
+(SSP2-4.5)",25.657,13.429,19.143,Flint-Rock,con-dry
+2026,"High Emissions
+(SSP3-7.0)",26,16.429,19,Flint-Rock,con-dry
+2026,"Accelerating Emissions
+(SSP5-8.5)",23.8,15.229,19,Flint-Rock,con-dry
+2027,"Moderating Emissions
+(SSP1-2.6)",33.685,15.571,19.286,Flint-Rock,con-dry
+2027,"Middle of the Road
+(SSP2-4.5)",37.372,11.685,20.571,Flint-Rock,con-dry
+2027,"High Emissions
+(SSP3-7.0)",26.486,14.2,19.286,Flint-Rock,con-dry
+2027,"Accelerating Emissions
+(SSP5-8.5)",26.886,13.915,21.429,Flint-Rock,con-dry
+2028,"Moderating Emissions
+(SSP1-2.6)",25.486,14.686,17.857,Flint-Rock,con-dry
+2028,"Middle of the Road
+(SSP2-4.5)",24.229,13.457,19.571,Flint-Rock,con-dry
+2028,"High Emissions
+(SSP3-7.0)",30.457,16.628,20.143,Flint-Rock,con-dry
+2028,"Accelerating Emissions
+(SSP5-8.5)",25.571,13.486,15.857,Flint-Rock,con-dry
+2029,"Moderating Emissions
+(SSP1-2.6)",29.171,14.086,22.714,Flint-Rock,con-dry
+2029,"Middle of the Road
+(SSP2-4.5)",32.171,16.086,18.429,Flint-Rock,con-dry
+2029,"High Emissions
+(SSP3-7.0)",29.171,14.6,22.286,Flint-Rock,con-dry
+2029,"Accelerating Emissions
+(SSP5-8.5)",22.057,13.829,17,Flint-Rock,con-dry
+2030,"Moderating Emissions
+(SSP1-2.6)",34.029,17.171,20.143,Flint-Rock,con-dry
+2030,"Middle of the Road
+(SSP2-4.5)",27.943,15.029,23,Flint-Rock,con-dry
+2030,"High Emissions
+(SSP3-7.0)",30.628,13.086,21.429,Flint-Rock,con-dry
+2030,"Accelerating Emissions
+(SSP5-8.5)",30.086,16.171,20,Flint-Rock,con-dry
+2031,"Moderating Emissions
+(SSP1-2.6)",35.571,18.143,21.714,Flint-Rock,con-dry
+2031,"Middle of the Road
+(SSP2-4.5)",23.429,16.257,18,Flint-Rock,con-dry
+2031,"High Emissions
+(SSP3-7.0)",34.857,14.914,23.714,Flint-Rock,con-dry
+2031,"Accelerating Emissions
+(SSP5-8.5)",23.228,16,19.571,Flint-Rock,con-dry
+2032,"Moderating Emissions
+(SSP1-2.6)",32.371,16.8,17.857,Flint-Rock,con-dry
+2032,"Middle of the Road
+(SSP2-4.5)",26.143,15.029,18,Flint-Rock,con-dry
+2032,"High Emissions
+(SSP3-7.0)",26.2,12.915,19.857,Flint-Rock,con-dry
+2032,"Accelerating Emissions
+(SSP5-8.5)",30,17.714,21.857,Flint-Rock,con-dry
+2033,"Moderating Emissions
+(SSP1-2.6)",29.371,15.686,19.429,Flint-Rock,con-dry
+2033,"Middle of the Road
+(SSP2-4.5)",41.771,14.428,18,Flint-Rock,con-dry
+2033,"High Emissions
+(SSP3-7.0)",24.457,13.029,19,Flint-Rock,con-dry
+2033,"Accelerating Emissions
+(SSP5-8.5)",25.943,15.229,18.286,Flint-Rock,con-dry
+2034,"Moderating Emissions
+(SSP1-2.6)",38.229,16.2,21.571,Flint-Rock,con-dry
+2034,"Middle of the Road
+(SSP2-4.5)",27.886,16,20.286,Flint-Rock,con-dry
+2034,"High Emissions
+(SSP3-7.0)",34.571,14.657,29.429,Flint-Rock,con-dry
+2034,"Accelerating Emissions
+(SSP5-8.5)",22.314,12.685,16,Flint-Rock,con-dry
+2035,"Moderating Emissions
+(SSP1-2.6)",28.772,14.514,21,Flint-Rock,con-dry
+2035,"Middle of the Road
+(SSP2-4.5)",28.086,16.657,20,Flint-Rock,con-dry
+2035,"High Emissions
+(SSP3-7.0)",31.457,15.2,20,Flint-Rock,con-dry
+2035,"Accelerating Emissions
+(SSP5-8.5)",23.857,16.257,19,Flint-Rock,con-dry
+2036,"Moderating Emissions
+(SSP1-2.6)",31.657,14.371,22,Flint-Rock,con-dry
+2036,"Middle of the Road
+(SSP2-4.5)",32.743,20.771,23.571,Flint-Rock,con-dry
+2036,"High Emissions
+(SSP3-7.0)",29.286,14.285,20.143,Flint-Rock,con-dry
+2036,"Accelerating Emissions
+(SSP5-8.5)",33.915,13.229,22.143,Flint-Rock,con-dry
+2037,"Moderating Emissions
+(SSP1-2.6)",24.286,13.343,18,Flint-Rock,con-dry
+2037,"Middle of the Road
+(SSP2-4.5)",25.2,13.886,19.714,Flint-Rock,con-dry
+2037,"High Emissions
+(SSP3-7.0)",25.171,15.457,19,Flint-Rock,con-dry
+2037,"Accelerating Emissions
+(SSP5-8.5)",34.257,13.4,23.286,Flint-Rock,con-dry
+2038,"Moderating Emissions
+(SSP1-2.6)",34.771,16.428,18.143,Flint-Rock,con-dry
+2038,"Middle of the Road
+(SSP2-4.5)",39.628,13.543,24,Flint-Rock,con-dry
+2038,"High Emissions
+(SSP3-7.0)",27.971,14.8,21.857,Flint-Rock,con-dry
+2038,"Accelerating Emissions
+(SSP5-8.5)",29.429,14.457,23,Flint-Rock,con-dry
+2039,"Moderating Emissions
+(SSP1-2.6)",30.114,18.228,21.571,Flint-Rock,con-dry
+2039,"Middle of the Road
+(SSP2-4.5)",28.543,16.114,22.571,Flint-Rock,con-dry
+2039,"High Emissions
+(SSP3-7.0)",25.686,15,20,Flint-Rock,con-dry
+2039,"Accelerating Emissions
+(SSP5-8.5)",29.685,12.886,21.143,Flint-Rock,con-dry
+2040,"Moderating Emissions
+(SSP1-2.6)",19.428,14.829,17.143,Flint-Rock,con-dry
+2040,"Middle of the Road
+(SSP2-4.5)",36.514,16.314,18,Flint-Rock,con-dry
+2040,"High Emissions
+(SSP3-7.0)",22.6,14.714,21,Flint-Rock,con-dry
+2040,"Accelerating Emissions
+(SSP5-8.5)",64.857,14.371,20,Flint-Rock,con-dry
+2041,"Moderating Emissions
+(SSP1-2.6)",33.829,16.686,22.429,Flint-Rock,con-dry
+2041,"Middle of the Road
+(SSP2-4.5)",26.114,16.229,21.571,Flint-Rock,con-dry
+2041,"High Emissions
+(SSP3-7.0)",30.914,15.943,20,Flint-Rock,con-dry
+2041,"Accelerating Emissions
+(SSP5-8.5)",22.743,12.6,15.429,Flint-Rock,con-dry
+2042,"Moderating Emissions
+(SSP1-2.6)",26.229,14.685,18.571,Flint-Rock,con-dry
+2042,"Middle of the Road
+(SSP2-4.5)",31.057,15.8,19.143,Flint-Rock,con-dry
+2042,"High Emissions
+(SSP3-7.0)",25.457,16.943,20,Flint-Rock,con-dry
+2042,"Accelerating Emissions
+(SSP5-8.5)",29.886,16.343,20.571,Flint-Rock,con-dry
+2043,"Moderating Emissions
+(SSP1-2.6)",35.057,14.743,20.143,Flint-Rock,con-dry
+2043,"Middle of the Road
+(SSP2-4.5)",37.457,17.229,18.857,Flint-Rock,con-dry
+2043,"High Emissions
+(SSP3-7.0)",30.371,13.8,17.714,Flint-Rock,con-dry
+2043,"Accelerating Emissions
+(SSP5-8.5)",31.657,18.257,23,Flint-Rock,con-dry
+2044,"Moderating Emissions
+(SSP1-2.6)",27.943,15.4,24,Flint-Rock,con-dry
+2044,"Middle of the Road
+(SSP2-4.5)",29.286,16.2,23,Flint-Rock,con-dry
+2044,"High Emissions
+(SSP3-7.0)",26.086,14.686,23,Flint-Rock,con-dry
+2044,"Accelerating Emissions
+(SSP5-8.5)",35.857,15.315,23.857,Flint-Rock,con-dry
+2045,"Moderating Emissions
+(SSP1-2.6)",26.714,14,17.571,Flint-Rock,con-dry
+2045,"Middle of the Road
+(SSP2-4.5)",27.629,14.515,20,Flint-Rock,con-dry
+2045,"High Emissions
+(SSP3-7.0)",26.343,15.114,18.571,Flint-Rock,con-dry
+2045,"Accelerating Emissions
+(SSP5-8.5)",31.029,13.086,22.286,Flint-Rock,con-dry
+2046,"Moderating Emissions
+(SSP1-2.6)",30.028,20.143,22.714,Flint-Rock,con-dry
+2046,"Middle of the Road
+(SSP2-4.5)",23.657,14.143,18.857,Flint-Rock,con-dry
+2046,"High Emissions
+(SSP3-7.0)",28.915,16.914,24.857,Flint-Rock,con-dry
+2046,"Accelerating Emissions
+(SSP5-8.5)",26.343,15.829,22,Flint-Rock,con-dry
+2047,"Moderating Emissions
+(SSP1-2.6)",26.914,17.971,20.429,Flint-Rock,con-dry
+2047,"Middle of the Road
+(SSP2-4.5)",29.743,17.172,19,Flint-Rock,con-dry
+2047,"High Emissions
+(SSP3-7.0)",27.743,17.4,20.571,Flint-Rock,con-dry
+2047,"Accelerating Emissions
+(SSP5-8.5)",26,17.829,22.429,Flint-Rock,con-dry
+2048,"Moderating Emissions
+(SSP1-2.6)",24.971,14.886,18,Flint-Rock,con-dry
+2048,"Middle of the Road
+(SSP2-4.5)",26.714,14.829,16.571,Flint-Rock,con-dry
+2048,"High Emissions
+(SSP3-7.0)",22.143,14.486,16.571,Flint-Rock,con-dry
+2048,"Accelerating Emissions
+(SSP5-8.5)",36.8,16.914,23,Flint-Rock,con-dry
+2049,"Moderating Emissions
+(SSP1-2.6)",31.257,13.143,15.857,Flint-Rock,con-dry
+2049,"Middle of the Road
+(SSP2-4.5)",32.8,17.086,23,Flint-Rock,con-dry
+2049,"High Emissions
+(SSP3-7.0)",31.486,19.914,23.571,Flint-Rock,con-dry
+2049,"Accelerating Emissions
+(SSP5-8.5)",34.743,14.343,18,Flint-Rock,con-dry
+2050,"Moderating Emissions
+(SSP1-2.6)",36.172,14.486,20.286,Flint-Rock,con-dry
+2050,"Middle of the Road
+(SSP2-4.5)",34.572,18.6,24.714,Flint-Rock,con-dry
+2050,"High Emissions
+(SSP3-7.0)",37.657,17.315,25.429,Flint-Rock,con-dry
+2050,"Accelerating Emissions
+(SSP5-8.5)",33.314,19.6,23.857,Flint-Rock,con-dry
+2051,"Moderating Emissions
+(SSP1-2.6)",26.143,12.171,16.286,Flint-Rock,con-dry
+2051,"Middle of the Road
+(SSP2-4.5)",34.829,13.772,22.143,Flint-Rock,con-dry
+2051,"High Emissions
+(SSP3-7.0)",34.543,13.457,23.857,Flint-Rock,con-dry
+2051,"Accelerating Emissions
+(SSP5-8.5)",29.657,17.6,22.714,Flint-Rock,con-dry
+2052,"Moderating Emissions
+(SSP1-2.6)",24.029,15.771,17.714,Flint-Rock,con-dry
+2052,"Middle of the Road
+(SSP2-4.5)",30.428,14.629,23.286,Flint-Rock,con-dry
+2052,"High Emissions
+(SSP3-7.0)",31.315,17.428,19,Flint-Rock,con-dry
+2052,"Accelerating Emissions
+(SSP5-8.5)",26.2,18.029,20.571,Flint-Rock,con-dry
+2053,"Moderating Emissions
+(SSP1-2.6)",30,17.229,24.714,Flint-Rock,con-dry
+2053,"Middle of the Road
+(SSP2-4.5)",31.285,16.543,20,Flint-Rock,con-dry
+2053,"High Emissions
+(SSP3-7.0)",52.743,16.8,21.429,Flint-Rock,con-dry
+2053,"Accelerating Emissions
+(SSP5-8.5)",22.943,11.886,15.429,Flint-Rock,con-dry
+2054,"Moderating Emissions
+(SSP1-2.6)",31.771,14.8,21,Flint-Rock,con-dry
+2054,"Middle of the Road
+(SSP2-4.5)",29.628,14.086,18,Flint-Rock,con-dry
+2054,"High Emissions
+(SSP3-7.0)",28.485,18.686,21.571,Flint-Rock,con-dry
+2054,"Accelerating Emissions
+(SSP5-8.5)",26.514,14,20.429,Flint-Rock,con-dry
+2055,"Moderating Emissions
+(SSP1-2.6)",36,11.971,24.286,Flint-Rock,con-dry
+2055,"Middle of the Road
+(SSP2-4.5)",32,14.6,19.714,Flint-Rock,con-dry
+2055,"High Emissions
+(SSP3-7.0)",37.714,12.857,16,Flint-Rock,con-dry
+2055,"Accelerating Emissions
+(SSP5-8.5)",33.257,14.972,22.429,Flint-Rock,con-dry
+2056,"Moderating Emissions
+(SSP1-2.6)",32.629,15.629,20.571,Flint-Rock,con-dry
+2056,"Middle of the Road
+(SSP2-4.5)",30.143,17.2,22,Flint-Rock,con-dry
+2056,"High Emissions
+(SSP3-7.0)",23.514,16.2,18.143,Flint-Rock,con-dry
+2056,"Accelerating Emissions
+(SSP5-8.5)",28.8,14.686,21,Flint-Rock,con-dry
+2057,"Moderating Emissions
+(SSP1-2.6)",28.771,13.515,23,Flint-Rock,con-dry
+2057,"Middle of the Road
+(SSP2-4.5)",27.657,14.686,23,Flint-Rock,con-dry
+2057,"High Emissions
+(SSP3-7.0)",24.457,16.143,20.714,Flint-Rock,con-dry
+2057,"Accelerating Emissions
+(SSP5-8.5)",27.229,15.086,19.714,Flint-Rock,con-dry
+2058,"Moderating Emissions
+(SSP1-2.6)",30.086,18.686,23.286,Flint-Rock,con-dry
+2058,"Middle of the Road
+(SSP2-4.5)",33.143,13.771,22.286,Flint-Rock,con-dry
+2058,"High Emissions
+(SSP3-7.0)",26.857,13.514,19.143,Flint-Rock,con-dry
+2058,"Accelerating Emissions
+(SSP5-8.5)",39.514,14.343,19,Flint-Rock,con-dry
+2059,"Moderating Emissions
+(SSP1-2.6)",40.228,15.114,20.857,Flint-Rock,con-dry
+2059,"Middle of the Road
+(SSP2-4.5)",28.086,13.657,16.429,Flint-Rock,con-dry
+2059,"High Emissions
+(SSP3-7.0)",35.657,14.686,23.143,Flint-Rock,con-dry
+2059,"Accelerating Emissions
+(SSP5-8.5)",25.885,14.714,24,Flint-Rock,con-dry
+2060,"Moderating Emissions
+(SSP1-2.6)",24.286,13.914,21,Flint-Rock,con-dry
+2060,"Middle of the Road
+(SSP2-4.5)",41.057,16.543,22.857,Flint-Rock,con-dry
+2060,"High Emissions
+(SSP3-7.0)",24.143,15.143,17.571,Flint-Rock,con-dry
+2060,"Accelerating Emissions
+(SSP5-8.5)",27,10.514,13.857,Flint-Rock,con-dry
+2061,"Moderating Emissions
+(SSP1-2.6)",41.115,16,20.429,Flint-Rock,con-dry
+2061,"Middle of the Road
+(SSP2-4.5)",35.171,13.714,17.286,Flint-Rock,con-dry
+2061,"High Emissions
+(SSP3-7.0)",21.343,13.914,18.571,Flint-Rock,con-dry
+2061,"Accelerating Emissions
+(SSP5-8.5)",34.4,14.085,25.143,Flint-Rock,con-dry
+2062,"Moderating Emissions
+(SSP1-2.6)",40.143,12.686,17.714,Flint-Rock,con-dry
+2062,"Middle of the Road
+(SSP2-4.5)",24.771,13.257,18,Flint-Rock,con-dry
+2062,"High Emissions
+(SSP3-7.0)",25.486,17.314,23.143,Flint-Rock,con-dry
+2062,"Accelerating Emissions
+(SSP5-8.5)",25.143,15.4,22.286,Flint-Rock,con-dry
+2063,"Moderating Emissions
+(SSP1-2.6)",34.743,14.714,20,Flint-Rock,con-dry
+2063,"Middle of the Road
+(SSP2-4.5)",29.8,13.972,21.143,Flint-Rock,con-dry
+2063,"High Emissions
+(SSP3-7.0)",26.343,11.371,21,Flint-Rock,con-dry
+2063,"Accelerating Emissions
+(SSP5-8.5)",26.943,11.657,20.571,Flint-Rock,con-dry
+2064,"Moderating Emissions
+(SSP1-2.6)",33.829,14.543,23,Flint-Rock,con-dry
+2064,"Middle of the Road
+(SSP2-4.5)",24.086,17.115,20,Flint-Rock,con-dry
+2064,"High Emissions
+(SSP3-7.0)",41.314,16.943,20.714,Flint-Rock,con-dry
+2064,"Accelerating Emissions
+(SSP5-8.5)",35.743,16.371,20.571,Flint-Rock,con-dry
+2065,"Moderating Emissions
+(SSP1-2.6)",25.771,14.6,16.286,Flint-Rock,con-dry
+2065,"Middle of the Road
+(SSP2-4.5)",33.857,15.571,21.857,Flint-Rock,con-dry
+2065,"High Emissions
+(SSP3-7.0)",37.314,12.943,25,Flint-Rock,con-dry
+2065,"Accelerating Emissions
+(SSP5-8.5)",41.4,16,26.143,Flint-Rock,con-dry
+2066,"Moderating Emissions
+(SSP1-2.6)",37.571,17.8,24.714,Flint-Rock,con-dry
+2066,"Middle of the Road
+(SSP2-4.5)",37.857,16.943,19.857,Flint-Rock,con-dry
+2066,"High Emissions
+(SSP3-7.0)",34.314,15.514,24.286,Flint-Rock,con-dry
+2066,"Accelerating Emissions
+(SSP5-8.5)",40.2,16.6,21.286,Flint-Rock,con-dry
+2067,"Moderating Emissions
+(SSP1-2.6)",21.343,13.114,18.143,Flint-Rock,con-dry
+2067,"Middle of the Road
+(SSP2-4.5)",27.571,15.628,19.143,Flint-Rock,con-dry
+2067,"High Emissions
+(SSP3-7.0)",42.143,16.571,22,Flint-Rock,con-dry
+2067,"Accelerating Emissions
+(SSP5-8.5)",29.543,16.657,21.857,Flint-Rock,con-dry
+2068,"Moderating Emissions
+(SSP1-2.6)",37.057,13.886,20,Flint-Rock,con-dry
+2068,"Middle of the Road
+(SSP2-4.5)",24.457,14.086,19.571,Flint-Rock,con-dry
+2068,"High Emissions
+(SSP3-7.0)",28.486,12.743,18,Flint-Rock,con-dry
+2068,"Accelerating Emissions
+(SSP5-8.5)",22.657,13.571,16.571,Flint-Rock,con-dry
+2069,"Moderating Emissions
+(SSP1-2.6)",39.857,12.657,18.286,Flint-Rock,con-dry
+2069,"Middle of the Road
+(SSP2-4.5)",31.371,11.8,16,Flint-Rock,con-dry
+2069,"High Emissions
+(SSP3-7.0)",27,18.543,22,Flint-Rock,con-dry
+2069,"Accelerating Emissions
+(SSP5-8.5)",29.6,14.857,20.286,Flint-Rock,con-dry
+2070,"Moderating Emissions
+(SSP1-2.6)",38.057,14.629,24.857,Flint-Rock,con-dry
+2070,"Middle of the Road
+(SSP2-4.5)",33.314,18.114,26,Flint-Rock,con-dry
+2070,"High Emissions
+(SSP3-7.0)",28.685,13.743,18,Flint-Rock,con-dry
+2070,"Accelerating Emissions
+(SSP5-8.5)",30.314,14.972,22,Flint-Rock,con-dry
+2071,"Moderating Emissions
+(SSP1-2.6)",36.857,16.257,26,Flint-Rock,con-dry
+2071,"Middle of the Road
+(SSP2-4.5)",25.229,15.771,20.714,Flint-Rock,con-dry
+2071,"High Emissions
+(SSP3-7.0)",36.143,16.886,22.429,Flint-Rock,con-dry
+2071,"Accelerating Emissions
+(SSP5-8.5)",34.314,19.686,26.714,Flint-Rock,con-dry
+2072,"Moderating Emissions
+(SSP1-2.6)",29.257,17.543,20.286,Flint-Rock,con-dry
+2072,"Middle of the Road
+(SSP2-4.5)",32.257,15.086,24.143,Flint-Rock,con-dry
+2072,"High Emissions
+(SSP3-7.0)",25.257,15.857,21.857,Flint-Rock,con-dry
+2072,"Accelerating Emissions
+(SSP5-8.5)",28.057,15.572,20.571,Flint-Rock,con-dry
+2073,"Moderating Emissions
+(SSP1-2.6)",28.514,15.4,21.857,Flint-Rock,con-dry
+2073,"Middle of the Road
+(SSP2-4.5)",24.285,14.143,17.286,Flint-Rock,con-dry
+2073,"High Emissions
+(SSP3-7.0)",33.971,13.686,24,Flint-Rock,con-dry
+2073,"Accelerating Emissions
+(SSP5-8.5)",20.743,14.629,17.286,Flint-Rock,con-dry
+2074,"Moderating Emissions
+(SSP1-2.6)",25.429,12.8,17.143,Flint-Rock,con-dry
+2074,"Middle of the Road
+(SSP2-4.5)",31.743,14.8,19,Flint-Rock,con-dry
+2074,"High Emissions
+(SSP3-7.0)",25.714,15,20.571,Flint-Rock,con-dry
+2074,"Accelerating Emissions
+(SSP5-8.5)",31.371,20.143,23.286,Flint-Rock,con-dry
+2075,"Moderating Emissions
+(SSP1-2.6)",34.743,14.343,21.571,Flint-Rock,con-dry
+2075,"Middle of the Road
+(SSP2-4.5)",24.685,11,19,Flint-Rock,con-dry
+2075,"High Emissions
+(SSP3-7.0)",28.771,13.457,23,Flint-Rock,con-dry
+2075,"Accelerating Emissions
+(SSP5-8.5)",34.286,15.085,20.857,Flint-Rock,con-dry
+2076,"Moderating Emissions
+(SSP1-2.6)",25.314,13.943,18,Flint-Rock,con-dry
+2076,"Middle of the Road
+(SSP2-4.5)",22.629,15.029,18,Flint-Rock,con-dry
+2076,"High Emissions
+(SSP3-7.0)",31.343,15.543,24,Flint-Rock,con-dry
+2076,"Accelerating Emissions
+(SSP5-8.5)",42.485,15.543,20,Flint-Rock,con-dry
+2077,"Moderating Emissions
+(SSP1-2.6)",26.629,14.2,22.571,Flint-Rock,con-dry
+2077,"Middle of the Road
+(SSP2-4.5)",30.6,15.943,18.286,Flint-Rock,con-dry
+2077,"High Emissions
+(SSP3-7.0)",26.171,16.914,20.429,Flint-Rock,con-dry
+2077,"Accelerating Emissions
+(SSP5-8.5)",23.743,17.657,18.714,Flint-Rock,con-dry
+2078,"Moderating Emissions
+(SSP1-2.6)",32.2,15.4,20.286,Flint-Rock,con-dry
+2078,"Middle of the Road
+(SSP2-4.5)",25.057,14.6,19.571,Flint-Rock,con-dry
+2078,"High Emissions
+(SSP3-7.0)",25.543,19.086,21,Flint-Rock,con-dry
+2078,"Accelerating Emissions
+(SSP5-8.5)",37.686,14.457,23,Flint-Rock,con-dry
+2079,"Moderating Emissions
+(SSP1-2.6)",26.257,14.6,21.429,Flint-Rock,con-dry
+2079,"Middle of the Road
+(SSP2-4.5)",25.657,17.086,22.286,Flint-Rock,con-dry
+2079,"High Emissions
+(SSP3-7.0)",33.943,13.171,19.286,Flint-Rock,con-dry
+2079,"Accelerating Emissions
+(SSP5-8.5)",30.971,15.086,19.714,Flint-Rock,con-dry
+2080,"Moderating Emissions
+(SSP1-2.6)",25.971,13.229,17.429,Flint-Rock,con-dry
+2080,"Middle of the Road
+(SSP2-4.5)",27.143,12.829,19.429,Flint-Rock,con-dry
+2080,"High Emissions
+(SSP3-7.0)",42.2,13.057,22.429,Flint-Rock,con-dry
+2080,"Accelerating Emissions
+(SSP5-8.5)",26.8,14.4,20.857,Flint-Rock,con-dry
+2081,"Moderating Emissions
+(SSP1-2.6)",30.857,12.943,21.571,Flint-Rock,con-dry
+2081,"Middle of the Road
+(SSP2-4.5)",25.571,17.543,20.143,Flint-Rock,con-dry
+2081,"High Emissions
+(SSP3-7.0)",33.8,13.771,24.714,Flint-Rock,con-dry
+2081,"Accelerating Emissions
+(SSP5-8.5)",38.029,17.285,26.143,Flint-Rock,con-dry
+2082,"Moderating Emissions
+(SSP1-2.6)",35.4,15.743,22.571,Flint-Rock,con-dry
+2082,"Middle of the Road
+(SSP2-4.5)",31.8,14.686,20,Flint-Rock,con-dry
+2082,"High Emissions
+(SSP3-7.0)",30.486,17.857,20.143,Flint-Rock,con-dry
+2082,"Accelerating Emissions
+(SSP5-8.5)",30.429,13.6,22.571,Flint-Rock,con-dry
+2083,"Moderating Emissions
+(SSP1-2.6)",34.629,16.229,21.143,Flint-Rock,con-dry
+2083,"Middle of the Road
+(SSP2-4.5)",37.315,12.8,24,Flint-Rock,con-dry
+2083,"High Emissions
+(SSP3-7.0)",30.543,12.057,19.429,Flint-Rock,con-dry
+2083,"Accelerating Emissions
+(SSP5-8.5)",28.086,16.886,21,Flint-Rock,con-dry
+2084,"Moderating Emissions
+(SSP1-2.6)",37.457,17.743,20.143,Flint-Rock,con-dry
+2084,"Middle of the Road
+(SSP2-4.5)",36.286,16.457,24.857,Flint-Rock,con-dry
+2084,"High Emissions
+(SSP3-7.0)",35.372,18.029,20,Flint-Rock,con-dry
+2084,"Accelerating Emissions
+(SSP5-8.5)",40.486,15.943,20.429,Flint-Rock,con-dry
+2085,"Moderating Emissions
+(SSP1-2.6)",27.4,15,21.857,Flint-Rock,con-dry
+2085,"Middle of the Road
+(SSP2-4.5)",29.572,14.4,20.429,Flint-Rock,con-dry
+2085,"High Emissions
+(SSP3-7.0)",25.6,14.914,20,Flint-Rock,con-dry
+2085,"Accelerating Emissions
+(SSP5-8.5)",32.857,20.514,25.714,Flint-Rock,con-dry
+2086,"Moderating Emissions
+(SSP1-2.6)",30.429,17.057,22.857,Flint-Rock,con-dry
+2086,"Middle of the Road
+(SSP2-4.5)",32.885,15.828,18,Flint-Rock,con-dry
+2086,"High Emissions
+(SSP3-7.0)",29.6,16.571,22,Flint-Rock,con-dry
+2086,"Accelerating Emissions
+(SSP5-8.5)",39.914,14.229,19.571,Flint-Rock,con-dry
+2087,"Moderating Emissions
+(SSP1-2.6)",33.743,13.857,18.857,Flint-Rock,con-dry
+2087,"Middle of the Road
+(SSP2-4.5)",25.286,13.114,16.286,Flint-Rock,con-dry
+2087,"High Emissions
+(SSP3-7.0)",37.571,16.6,23.857,Flint-Rock,con-dry
+2087,"Accelerating Emissions
+(SSP5-8.5)",52.4,17.571,23,Flint-Rock,con-dry
+2088,"Moderating Emissions
+(SSP1-2.6)",31.6,16.257,20.286,Flint-Rock,con-dry
+2088,"Middle of the Road
+(SSP2-4.5)",29.914,16.743,19.571,Flint-Rock,con-dry
+2088,"High Emissions
+(SSP3-7.0)",37.2,16.2,22.143,Flint-Rock,con-dry
+2088,"Accelerating Emissions
+(SSP5-8.5)",37.343,19.4,24.714,Flint-Rock,con-dry
+2089,"Moderating Emissions
+(SSP1-2.6)",37.2,13.943,19,Flint-Rock,con-dry
+2089,"Middle of the Road
+(SSP2-4.5)",28.4,13,19,Flint-Rock,con-dry
+2089,"High Emissions
+(SSP3-7.0)",39.114,15.543,23.571,Flint-Rock,con-dry
+2089,"Accelerating Emissions
+(SSP5-8.5)",30.057,13.457,21,Flint-Rock,con-dry
+2090,"Moderating Emissions
+(SSP1-2.6)",22.4,14.828,18.286,Flint-Rock,con-dry
+2090,"Middle of the Road
+(SSP2-4.5)",32.171,13.828,18.571,Flint-Rock,con-dry
+2090,"High Emissions
+(SSP3-7.0)",40.2,18.885,25.571,Flint-Rock,con-dry
+2090,"Accelerating Emissions
+(SSP5-8.5)",29.6,19.343,23,Flint-Rock,con-dry
+2091,"Moderating Emissions
+(SSP1-2.6)",28.457,13.971,18,Flint-Rock,con-dry
+2091,"Middle of the Road
+(SSP2-4.5)",53.343,13.514,22,Flint-Rock,con-dry
+2091,"High Emissions
+(SSP3-7.0)",38.457,18.2,28,Flint-Rock,con-dry
+2091,"Accelerating Emissions
+(SSP5-8.5)",41.771,15.2,21,Flint-Rock,con-dry
+2092,"Moderating Emissions
+(SSP1-2.6)",26.057,13.515,17.857,Flint-Rock,con-dry
+2092,"Middle of the Road
+(SSP2-4.5)",34.829,12.229,19.857,Flint-Rock,con-dry
+2092,"High Emissions
+(SSP3-7.0)",32.514,14.771,21,Flint-Rock,con-dry
+2092,"Accelerating Emissions
+(SSP5-8.5)",47.6,16.685,22,Flint-Rock,con-dry
+2093,"Moderating Emissions
+(SSP1-2.6)",32.743,18.543,21.571,Flint-Rock,con-dry
+2093,"Middle of the Road
+(SSP2-4.5)",28.086,18.543,23,Flint-Rock,con-dry
+2093,"High Emissions
+(SSP3-7.0)",33.828,15,21,Flint-Rock,con-dry
+2093,"Accelerating Emissions
+(SSP5-8.5)",30.486,15,21.714,Flint-Rock,con-dry
+2094,"Moderating Emissions
+(SSP1-2.6)",31.715,17.257,23,Flint-Rock,con-dry
+2094,"Middle of the Road
+(SSP2-4.5)",32.2,17.457,22.286,Flint-Rock,con-dry
+2094,"High Emissions
+(SSP3-7.0)",35.943,14.514,22.286,Flint-Rock,con-dry
+2094,"Accelerating Emissions
+(SSP5-8.5)",30.686,15.057,21,Flint-Rock,con-dry
+2095,"Moderating Emissions
+(SSP1-2.6)",45.257,19.914,22,Flint-Rock,con-dry
+2095,"Middle of the Road
+(SSP2-4.5)",26.657,12.686,17.857,Flint-Rock,con-dry
+2095,"High Emissions
+(SSP3-7.0)",44.314,14,23,Flint-Rock,con-dry
+2095,"Accelerating Emissions
+(SSP5-8.5)",30.943,18.229,24.429,Flint-Rock,con-dry
+2096,"Moderating Emissions
+(SSP1-2.6)",31.686,15.057,20,Flint-Rock,con-dry
+2096,"Middle of the Road
+(SSP2-4.5)",35.143,17.343,25,Flint-Rock,con-dry
+2096,"High Emissions
+(SSP3-7.0)",23.514,15.4,21.143,Flint-Rock,con-dry
+2096,"Accelerating Emissions
+(SSP5-8.5)",36.257,16.343,21,Flint-Rock,con-dry
+2097,"Moderating Emissions
+(SSP1-2.6)",44.943,21.686,27.286,Flint-Rock,con-dry
+2097,"Middle of the Road
+(SSP2-4.5)",34.057,13.914,25.857,Flint-Rock,con-dry
+2097,"High Emissions
+(SSP3-7.0)",29.971,16.971,25.143,Flint-Rock,con-dry
+2097,"Accelerating Emissions
+(SSP5-8.5)",33.6,18.457,23,Flint-Rock,con-dry
+2098,"Moderating Emissions
+(SSP1-2.6)",30.914,12.286,17.571,Flint-Rock,con-dry
+2098,"Middle of the Road
+(SSP2-4.5)",29.143,14.771,23.286,Flint-Rock,con-dry
+2098,"High Emissions
+(SSP3-7.0)",24.171,12.8,18,Flint-Rock,con-dry
+2098,"Accelerating Emissions
+(SSP5-8.5)",45.772,16.314,28.286,Flint-Rock,con-dry
+2099,"Moderating Emissions
+(SSP1-2.6)",32.829,16.857,22.286,Flint-Rock,con-dry
+2099,"Middle of the Road
+(SSP2-4.5)",43.371,16.771,24.714,Flint-Rock,con-dry
+2099,"High Emissions
+(SSP3-7.0)",33.829,13.943,19.429,Flint-Rock,con-dry
+2099,"Accelerating Emissions
+(SSP5-8.5)",29.428,19.457,22,Flint-Rock,con-dry
+2100,"Moderating Emissions
+(SSP1-2.6)",28.257,11.972,15.571,Flint-Rock,con-dry
+2100,"Middle of the Road
+(SSP2-4.5)",31,15.2,21.714,Flint-Rock,con-dry
+2100,"High Emissions
+(SSP3-7.0)",26,15.857,22.429,Flint-Rock,con-dry
+2100,"Accelerating Emissions
+(SSP5-8.5)",32.571,12.971,22.714,Flint-Rock,con-dry

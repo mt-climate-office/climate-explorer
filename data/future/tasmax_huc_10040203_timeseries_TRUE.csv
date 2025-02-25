@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,58.24,55.435,56.573,Flatwillow,tasmax
+1951,Historical Emissions,58.107,54.465,56.662,Flatwillow,tasmax
+1952,Historical Emissions,57.951,53.438,55.712,Flatwillow,tasmax
+1953,Historical Emissions,57.497,53.375,56.244,Flatwillow,tasmax
+1954,Historical Emissions,57.396,53.185,55.215,Flatwillow,tasmax
+1955,Historical Emissions,59.27,54.064,54.447,Flatwillow,tasmax
+1956,Historical Emissions,59.356,54.84,56.855,Flatwillow,tasmax
+1957,Historical Emissions,60.591,53.551,56.543,Flatwillow,tasmax
+1958,Historical Emissions,57.3,54.781,55.123,Flatwillow,tasmax
+1959,Historical Emissions,55.643,53.041,54.421,Flatwillow,tasmax
+1960,Historical Emissions,57.439,53.028,54.794,Flatwillow,tasmax
+1961,Historical Emissions,58.014,53.954,55.839,Flatwillow,tasmax
+1962,Historical Emissions,56.669,52.451,55.145,Flatwillow,tasmax
+1963,Historical Emissions,55.82,52.86,54.534,Flatwillow,tasmax
+1964,Historical Emissions,56.647,53.198,56.142,Flatwillow,tasmax
+1965,Historical Emissions,57.066,53.44,55.238,Flatwillow,tasmax
+1966,Historical Emissions,58.293,53.221,55.481,Flatwillow,tasmax
+1967,Historical Emissions,56.876,53.661,55.025,Flatwillow,tasmax
+1968,Historical Emissions,55.901,52.236,53.618,Flatwillow,tasmax
+1969,Historical Emissions,56.474,53.465,55.007,Flatwillow,tasmax
+1970,Historical Emissions,56.99,53.941,55.813,Flatwillow,tasmax
+1971,Historical Emissions,58.916,54.774,56.789,Flatwillow,tasmax
+1972,Historical Emissions,56.699,53.643,55.672,Flatwillow,tasmax
+1973,Historical Emissions,57.658,53.017,54.883,Flatwillow,tasmax
+1974,Historical Emissions,57.118,53.184,56.195,Flatwillow,tasmax
+1975,Historical Emissions,57.205,52.916,55.926,Flatwillow,tasmax
+1976,Historical Emissions,56.196,53.6,55.517,Flatwillow,tasmax
+1977,Historical Emissions,57.994,54.294,56.285,Flatwillow,tasmax
+1978,Historical Emissions,57.678,53.745,54.979,Flatwillow,tasmax
+1979,Historical Emissions,58.244,53.486,56.861,Flatwillow,tasmax
+1980,Historical Emissions,56.956,53.927,55.309,Flatwillow,tasmax
+1981,Historical Emissions,57.922,54.884,56.551,Flatwillow,tasmax
+1982,Historical Emissions,57.442,54.692,55.362,Flatwillow,tasmax
+1983,Historical Emissions,57.345,53.939,55.273,Flatwillow,tasmax
+1984,Historical Emissions,57.888,54.077,55.699,Flatwillow,tasmax
+1985,Historical Emissions,57.888,54.453,55.563,Flatwillow,tasmax
+1986,Historical Emissions,54.857,53.359,53.749,Flatwillow,tasmax
+1987,Historical Emissions,56.875,52.265,53.662,Flatwillow,tasmax
+1988,Historical Emissions,57.495,53.597,55.323,Flatwillow,tasmax
+1989,Historical Emissions,57.77,54.268,56.147,Flatwillow,tasmax
+1990,Historical Emissions,59.54,54.112,56.755,Flatwillow,tasmax
+1991,Historical Emissions,57.545,53.84,54.671,Flatwillow,tasmax
+1992,Historical Emissions,56.836,53.592,54.896,Flatwillow,tasmax
+1993,Historical Emissions,57.168,53.532,54.891,Flatwillow,tasmax
+1994,Historical Emissions,58.749,54.151,55.35,Flatwillow,tasmax
+1995,Historical Emissions,58.932,54.501,55.638,Flatwillow,tasmax
+1996,Historical Emissions,59.229,56.099,57.097,Flatwillow,tasmax
+1997,Historical Emissions,59.14,53.37,55.883,Flatwillow,tasmax
+1998,Historical Emissions,57.765,53.617,56.304,Flatwillow,tasmax
+1999,Historical Emissions,58.157,55.532,56.031,Flatwillow,tasmax
+2000,Historical Emissions,57.692,54.674,56.337,Flatwillow,tasmax
+2001,Historical Emissions,57.684,55.037,56.028,Flatwillow,tasmax
+2002,Historical Emissions,59.932,55.107,56.571,Flatwillow,tasmax
+2003,Historical Emissions,58.861,55.455,57.185,Flatwillow,tasmax
+2004,Historical Emissions,58.691,57.182,57.911,Flatwillow,tasmax
+2005,Historical Emissions,60.164,56.105,58.21,Flatwillow,tasmax
+2006,Historical Emissions,59.036,54.02,56.025,Flatwillow,tasmax
+2007,Historical Emissions,58.758,55.582,57.486,Flatwillow,tasmax
+2008,Historical Emissions,58.418,55.625,57.163,Flatwillow,tasmax
+2009,Historical Emissions,58.044,55.083,56.83,Flatwillow,tasmax
+2010,Historical Emissions,58.466,56.152,58.098,Flatwillow,tasmax
+2011,Historical Emissions,59.49,56.428,57.334,Flatwillow,tasmax
+2012,Historical Emissions,59.081,55.868,58.266,Flatwillow,tasmax
+2013,Historical Emissions,60.344,55.591,57.242,Flatwillow,tasmax
+2014,Historical Emissions,60.163,56.826,58.383,Flatwillow,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",61.007,56.777,58.106,Flatwillow,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",60.764,55.818,57.631,Flatwillow,tasmax
+2015,"High Emissions
+(SSP3-7.0)",59.916,56.373,57.959,Flatwillow,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",59.61,56.404,57.727,Flatwillow,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",60.185,57.993,58.809,Flatwillow,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",59.087,55.994,58.158,Flatwillow,tasmax
+2016,"High Emissions
+(SSP3-7.0)",61.319,55.788,59.05,Flatwillow,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",59.688,56.491,58.373,Flatwillow,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",59.562,56.821,57.542,Flatwillow,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",60.592,56.37,57.757,Flatwillow,tasmax
+2017,"High Emissions
+(SSP3-7.0)",59.277,56.853,57.714,Flatwillow,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",60.294,56.893,58.596,Flatwillow,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",58.971,56.481,57.731,Flatwillow,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",60.543,56.516,58.133,Flatwillow,tasmax
+2018,"High Emissions
+(SSP3-7.0)",59.631,54.826,57.44,Flatwillow,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",59.14,56.32,57.858,Flatwillow,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",61.394,58.425,59.572,Flatwillow,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",59.976,56.004,57.345,Flatwillow,tasmax
+2019,"High Emissions
+(SSP3-7.0)",60.723,55.246,57.121,Flatwillow,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",62.693,57.078,58.635,Flatwillow,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",62.638,56.115,57.424,Flatwillow,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",60.264,56.515,58.183,Flatwillow,tasmax
+2020,"High Emissions
+(SSP3-7.0)",59.821,56.166,57.401,Flatwillow,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",59.802,56.742,58.446,Flatwillow,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",60.76,56.798,58.647,Flatwillow,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",60.549,56.489,59.223,Flatwillow,tasmax
+2021,"High Emissions
+(SSP3-7.0)",60.377,57.401,58.639,Flatwillow,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",60.351,57.176,58.762,Flatwillow,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",60.366,57.053,58.209,Flatwillow,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",61.416,56.409,58.755,Flatwillow,tasmax
+2022,"High Emissions
+(SSP3-7.0)",59.492,55.898,57.776,Flatwillow,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",61.223,56.161,59.353,Flatwillow,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",59.391,57.798,58.482,Flatwillow,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",60.689,57.028,58.059,Flatwillow,tasmax
+2023,"High Emissions
+(SSP3-7.0)",60.804,56.181,58.103,Flatwillow,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",58.669,55.118,57.104,Flatwillow,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",60.64,57.257,59.012,Flatwillow,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",59.71,56.432,57.951,Flatwillow,tasmax
+2024,"High Emissions
+(SSP3-7.0)",61.154,57.098,58.853,Flatwillow,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",61.221,55.929,58.31,Flatwillow,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",60.493,58.246,59.777,Flatwillow,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",60.641,55.66,57.816,Flatwillow,tasmax
+2025,"High Emissions
+(SSP3-7.0)",61.269,58.671,59.66,Flatwillow,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",61.387,57.955,59.031,Flatwillow,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",61.8,56.487,58.039,Flatwillow,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",61.192,56.785,59.352,Flatwillow,tasmax
+2026,"High Emissions
+(SSP3-7.0)",60.298,55.38,57.933,Flatwillow,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",61.69,56.513,58.188,Flatwillow,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",60.649,56.749,58.124,Flatwillow,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",61.713,56.903,59.121,Flatwillow,tasmax
+2027,"High Emissions
+(SSP3-7.0)",60.83,56.487,57.836,Flatwillow,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",60.925,57.442,59.119,Flatwillow,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",60.145,56.623,58.698,Flatwillow,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",59.428,55.791,57.719,Flatwillow,tasmax
+2028,"High Emissions
+(SSP3-7.0)",59.668,58.118,59.25,Flatwillow,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",60.708,57.578,58.19,Flatwillow,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",62.588,58.782,60.262,Flatwillow,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",60.68,56.313,58.616,Flatwillow,tasmax
+2029,"High Emissions
+(SSP3-7.0)",60.575,55.683,57.695,Flatwillow,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",61.142,57.777,59.284,Flatwillow,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",61.969,57.201,59.249,Flatwillow,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",61.646,58.414,59.206,Flatwillow,tasmax
+2030,"High Emissions
+(SSP3-7.0)",61.92,56.89,58.613,Flatwillow,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",62.424,56.915,59.38,Flatwillow,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",61.216,57.38,59.576,Flatwillow,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",61.919,57.177,59.354,Flatwillow,tasmax
+2031,"High Emissions
+(SSP3-7.0)",62.069,57.352,60.816,Flatwillow,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",62.654,58.714,60.672,Flatwillow,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",60.58,56.461,59.119,Flatwillow,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",60.245,56.769,58.03,Flatwillow,tasmax
+2032,"High Emissions
+(SSP3-7.0)",62.191,57.469,58.523,Flatwillow,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",62.108,56.046,59.155,Flatwillow,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",61.601,57.92,58.905,Flatwillow,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",61.991,56.95,60.102,Flatwillow,tasmax
+2033,"High Emissions
+(SSP3-7.0)",60.215,56.181,58.885,Flatwillow,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",61.71,57.622,60.076,Flatwillow,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",62.087,56.685,58.637,Flatwillow,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",61.161,57.776,59.534,Flatwillow,tasmax
+2034,"High Emissions
+(SSP3-7.0)",62.003,58.093,60.721,Flatwillow,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",62.221,57.019,59.072,Flatwillow,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",62.311,57.562,59.699,Flatwillow,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",61.754,57.794,60.302,Flatwillow,tasmax
+2035,"High Emissions
+(SSP3-7.0)",60.15,56.619,58.658,Flatwillow,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",62.607,57.301,60.806,Flatwillow,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",61.034,57.795,60.322,Flatwillow,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",60.339,56.958,59.424,Flatwillow,tasmax
+2036,"High Emissions
+(SSP3-7.0)",60.616,57.123,59.696,Flatwillow,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",62.483,55.369,60.662,Flatwillow,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",61.893,58.108,60.319,Flatwillow,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",62.192,56.198,59.183,Flatwillow,tasmax
+2037,"High Emissions
+(SSP3-7.0)",61.167,56.707,57.293,Flatwillow,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",62.102,57.725,59.603,Flatwillow,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",61.545,58.329,59.866,Flatwillow,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",60.99,57.494,58.918,Flatwillow,tasmax
+2038,"High Emissions
+(SSP3-7.0)",62.208,58.314,60.054,Flatwillow,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",63.465,56.929,60.74,Flatwillow,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",62.226,56.877,60.324,Flatwillow,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",61.027,57.39,59.109,Flatwillow,tasmax
+2039,"High Emissions
+(SSP3-7.0)",61.814,59.383,60.074,Flatwillow,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",63.2,57.431,59.024,Flatwillow,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",61.775,57.21,60.187,Flatwillow,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",61.97,58.415,60.504,Flatwillow,tasmax
+2040,"High Emissions
+(SSP3-7.0)",61.502,58.863,60.454,Flatwillow,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",64.234,58.981,60.726,Flatwillow,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",61.1,56.816,59.036,Flatwillow,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",61.17,58.115,59.954,Flatwillow,tasmax
+2041,"High Emissions
+(SSP3-7.0)",61.412,57.464,58.899,Flatwillow,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",60.597,58.426,59.703,Flatwillow,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",63.332,58.113,59.046,Flatwillow,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",60.455,56.498,59.547,Flatwillow,tasmax
+2042,"High Emissions
+(SSP3-7.0)",60.876,57.794,59.454,Flatwillow,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",62.925,58.954,60.666,Flatwillow,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",60.618,57.731,59.366,Flatwillow,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",62.775,57.633,59.961,Flatwillow,tasmax
+2043,"High Emissions
+(SSP3-7.0)",61.431,56.153,60.492,Flatwillow,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",61.993,58.397,60.357,Flatwillow,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",61.994,58.388,58.979,Flatwillow,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",64.081,58.793,60.903,Flatwillow,tasmax
+2044,"High Emissions
+(SSP3-7.0)",61.202,59.257,59.75,Flatwillow,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",63.473,57.32,60.05,Flatwillow,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",61.518,57.569,60.231,Flatwillow,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",63.077,58.31,60.93,Flatwillow,tasmax
+2045,"High Emissions
+(SSP3-7.0)",61.735,58.034,60.088,Flatwillow,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",61.715,58.01,59.635,Flatwillow,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",64.213,57.698,60.2,Flatwillow,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",62.011,57.295,60.7,Flatwillow,tasmax
+2046,"High Emissions
+(SSP3-7.0)",61.994,58.939,60.913,Flatwillow,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",62.46,58.065,59.164,Flatwillow,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",62.726,59.199,59.801,Flatwillow,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",62.041,56.123,59.396,Flatwillow,tasmax
+2047,"High Emissions
+(SSP3-7.0)",60.753,58.467,59.57,Flatwillow,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",65.132,58.591,61.608,Flatwillow,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",61.009,58.914,59.716,Flatwillow,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",62.893,57.762,60.615,Flatwillow,tasmax
+2048,"High Emissions
+(SSP3-7.0)",63.041,57.713,61.125,Flatwillow,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",67.387,58.703,63.005,Flatwillow,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",61.777,57.971,58.705,Flatwillow,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",63.359,59.055,61.068,Flatwillow,tasmax
+2049,"High Emissions
+(SSP3-7.0)",63.343,58.877,61.191,Flatwillow,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",62.684,58.913,60.733,Flatwillow,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",62.75,56.67,59.939,Flatwillow,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",62.994,59.193,61.673,Flatwillow,tasmax
+2050,"High Emissions
+(SSP3-7.0)",63.198,58.799,60.518,Flatwillow,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",63.062,59.32,61.258,Flatwillow,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",62.091,57.014,60.456,Flatwillow,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",63.808,58.856,61.082,Flatwillow,tasmax
+2051,"High Emissions
+(SSP3-7.0)",62.019,59.583,60.759,Flatwillow,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",63.089,59.512,61.643,Flatwillow,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",61.884,58.548,59.998,Flatwillow,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",62.774,58.649,59.536,Flatwillow,tasmax
+2052,"High Emissions
+(SSP3-7.0)",63.207,57.106,59.872,Flatwillow,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",62.234,59.945,61.914,Flatwillow,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",62.609,57.242,59.123,Flatwillow,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",61.996,57.621,61.189,Flatwillow,tasmax
+2053,"High Emissions
+(SSP3-7.0)",64.066,59.644,63.481,Flatwillow,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",64.767,58.92,61.839,Flatwillow,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",62.429,58.722,61.386,Flatwillow,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",62.082,57.142,59.574,Flatwillow,tasmax
+2054,"High Emissions
+(SSP3-7.0)",63.546,58.556,59.705,Flatwillow,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",64.487,59.832,62.024,Flatwillow,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",61.769,59.478,61.116,Flatwillow,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",63.42,57.411,60.89,Flatwillow,tasmax
+2055,"High Emissions
+(SSP3-7.0)",63.49,59.65,61.187,Flatwillow,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",64.443,59.722,62.991,Flatwillow,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",61.764,59.306,61.204,Flatwillow,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",62.668,58.8,60.572,Flatwillow,tasmax
+2056,"High Emissions
+(SSP3-7.0)",63.738,58.696,60.355,Flatwillow,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",63.695,60.029,62.237,Flatwillow,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",62.677,57.321,60.551,Flatwillow,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",63.08,60.263,61.466,Flatwillow,tasmax
+2057,"High Emissions
+(SSP3-7.0)",62.349,58.55,59.509,Flatwillow,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",63.181,57.834,60.992,Flatwillow,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",62.381,57.932,60.058,Flatwillow,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",64.373,58.855,62.643,Flatwillow,tasmax
+2058,"High Emissions
+(SSP3-7.0)",62.736,58.458,61.059,Flatwillow,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",63.242,59.245,60.5,Flatwillow,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",63.004,58.831,61.475,Flatwillow,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",65.479,58.293,61.976,Flatwillow,tasmax
+2059,"High Emissions
+(SSP3-7.0)",65.614,59.685,61.806,Flatwillow,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",64.696,61.583,63.593,Flatwillow,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",62.813,58.393,60.148,Flatwillow,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",64.387,59.102,60.065,Flatwillow,tasmax
+2060,"High Emissions
+(SSP3-7.0)",62.86,59.049,60.931,Flatwillow,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",63.564,60.265,61.905,Flatwillow,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",62.165,58.078,59.414,Flatwillow,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",63.569,58.495,61.143,Flatwillow,tasmax
+2061,"High Emissions
+(SSP3-7.0)",63.378,59.258,61.53,Flatwillow,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",66.894,61.605,63.222,Flatwillow,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",62.252,58.455,59.793,Flatwillow,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",62.408,58.423,60.093,Flatwillow,tasmax
+2062,"High Emissions
+(SSP3-7.0)",62.564,60.049,61.567,Flatwillow,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",63.725,61.032,63.127,Flatwillow,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",62.397,58.165,59.573,Flatwillow,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",62.132,58.738,60.299,Flatwillow,tasmax
+2063,"High Emissions
+(SSP3-7.0)",64.9,59.385,61.863,Flatwillow,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",65.541,60.036,63.292,Flatwillow,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",63.165,58.226,60.679,Flatwillow,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",61.555,58.951,60.091,Flatwillow,tasmax
+2064,"High Emissions
+(SSP3-7.0)",62.745,59.083,60.377,Flatwillow,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",64.494,60.932,62.436,Flatwillow,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",63.017,56.337,59.254,Flatwillow,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",63.253,58.31,60.128,Flatwillow,tasmax
+2065,"High Emissions
+(SSP3-7.0)",63.997,60.755,61.525,Flatwillow,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",66.244,60.649,63.451,Flatwillow,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",63.073,58.505,60.349,Flatwillow,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",63.321,58.978,62.476,Flatwillow,tasmax
+2066,"High Emissions
+(SSP3-7.0)",64.127,60.123,61.125,Flatwillow,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",66.595,60.178,63.71,Flatwillow,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",62.589,59.522,61.652,Flatwillow,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",63.265,59.666,60.962,Flatwillow,tasmax
+2067,"High Emissions
+(SSP3-7.0)",66.113,62.176,63.022,Flatwillow,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",65.847,61.303,62.807,Flatwillow,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",62.91,58.183,59.85,Flatwillow,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",62.629,58.532,60.995,Flatwillow,tasmax
+2068,"High Emissions
+(SSP3-7.0)",64.555,59.415,62.078,Flatwillow,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",65.566,61.95,62.873,Flatwillow,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",64.233,58.836,61.005,Flatwillow,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",62.155,58.81,60.125,Flatwillow,tasmax
+2069,"High Emissions
+(SSP3-7.0)",66.983,61.976,63.579,Flatwillow,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",68.031,60.63,64.362,Flatwillow,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",61.592,57.746,60.944,Flatwillow,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",63.715,58.076,60.616,Flatwillow,tasmax
+2070,"High Emissions
+(SSP3-7.0)",65.524,61.729,63.224,Flatwillow,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",67.742,62.482,63.885,Flatwillow,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",66.009,57.395,59.987,Flatwillow,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",63.141,59.596,60.758,Flatwillow,tasmax
+2071,"High Emissions
+(SSP3-7.0)",64.926,61.531,63.578,Flatwillow,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",66.685,62.321,63.149,Flatwillow,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",64.255,59.603,60.938,Flatwillow,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",63.249,57.627,61.076,Flatwillow,tasmax
+2072,"High Emissions
+(SSP3-7.0)",65.561,60.69,62.336,Flatwillow,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",65.642,62.076,63.315,Flatwillow,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",62.128,57.688,60.728,Flatwillow,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",63.323,57.324,60.719,Flatwillow,tasmax
+2073,"High Emissions
+(SSP3-7.0)",64.449,61.219,63.623,Flatwillow,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",66.156,60.67,64.034,Flatwillow,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",62.943,57.271,60.559,Flatwillow,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",64.178,59.359,61.236,Flatwillow,tasmax
+2074,"High Emissions
+(SSP3-7.0)",64.47,60.077,61.384,Flatwillow,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",68.075,61.536,63.452,Flatwillow,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",64.055,56.321,59.982,Flatwillow,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",65.083,58.85,60.022,Flatwillow,tasmax
+2075,"High Emissions
+(SSP3-7.0)",66.345,59.248,61.652,Flatwillow,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",67.154,62.077,63.529,Flatwillow,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",62.33,56.754,59.235,Flatwillow,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",61.666,59.198,60.195,Flatwillow,tasmax
+2076,"High Emissions
+(SSP3-7.0)",66.513,61.083,62.691,Flatwillow,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",67.812,61.415,64.742,Flatwillow,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",63.07,58.599,61.058,Flatwillow,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",63.453,60.369,61.188,Flatwillow,tasmax
+2077,"High Emissions
+(SSP3-7.0)",65.018,60.399,63.577,Flatwillow,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",67.891,62.452,65.738,Flatwillow,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",63.048,59.086,59.683,Flatwillow,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",63.583,60.085,62.018,Flatwillow,tasmax
+2078,"High Emissions
+(SSP3-7.0)",66.595,60.51,63.22,Flatwillow,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",64.576,61.618,62.497,Flatwillow,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",63.118,59.176,60.297,Flatwillow,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",63.854,59.198,61.138,Flatwillow,tasmax
+2079,"High Emissions
+(SSP3-7.0)",64.219,59.405,63.36,Flatwillow,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",67.526,61.506,64.761,Flatwillow,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",61.671,57.803,59.446,Flatwillow,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",63.364,58.881,61.752,Flatwillow,tasmax
+2080,"High Emissions
+(SSP3-7.0)",66.592,60.78,62.34,Flatwillow,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",67.842,63.313,65.739,Flatwillow,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",64.325,57.893,59.271,Flatwillow,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",64.046,59.954,61.543,Flatwillow,tasmax
+2081,"High Emissions
+(SSP3-7.0)",67.702,59.04,61.384,Flatwillow,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",68.091,63.62,65.44,Flatwillow,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",63.661,58.958,61.291,Flatwillow,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",64.884,59.478,61.378,Flatwillow,tasmax
+2082,"High Emissions
+(SSP3-7.0)",66.18,59.566,62.301,Flatwillow,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",69.05,62.933,67.055,Flatwillow,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",63.54,59.637,61.966,Flatwillow,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",64.865,58.96,61.178,Flatwillow,tasmax
+2083,"High Emissions
+(SSP3-7.0)",65.681,59.952,63.939,Flatwillow,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",69.343,62.918,67.056,Flatwillow,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",64.077,57.888,59.48,Flatwillow,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",66.274,60.694,62.686,Flatwillow,tasmax
+2084,"High Emissions
+(SSP3-7.0)",68.427,61.952,65.371,Flatwillow,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",69.103,63.509,66,Flatwillow,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",62.937,57.468,59.491,Flatwillow,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",63.25,59.194,61.089,Flatwillow,tasmax
+2085,"High Emissions
+(SSP3-7.0)",65.403,61.497,63.2,Flatwillow,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",69.321,62.052,66.861,Flatwillow,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",63.026,59.307,61.107,Flatwillow,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",64.575,60.271,61.711,Flatwillow,tasmax
+2086,"High Emissions
+(SSP3-7.0)",66.821,61.445,64.211,Flatwillow,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",68.276,62.269,67.156,Flatwillow,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",61.759,58.19,59.282,Flatwillow,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",64.517,60.794,62.378,Flatwillow,tasmax
+2087,"High Emissions
+(SSP3-7.0)",68.8,61.871,64.217,Flatwillow,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",68.576,62.606,65.292,Flatwillow,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",63.502,57.659,58.654,Flatwillow,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",64.311,60.329,63.012,Flatwillow,tasmax
+2088,"High Emissions
+(SSP3-7.0)",67.555,61.745,63.625,Flatwillow,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",68.025,63.813,66.315,Flatwillow,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",60.849,57.872,59.377,Flatwillow,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",64.444,59.385,61.744,Flatwillow,tasmax
+2089,"High Emissions
+(SSP3-7.0)",67.039,60.789,65.116,Flatwillow,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",68.775,64.726,67.544,Flatwillow,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",61.438,58.798,60.464,Flatwillow,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",63.521,59.774,61.682,Flatwillow,tasmax
+2090,"High Emissions
+(SSP3-7.0)",69.296,63.856,65.432,Flatwillow,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",69.406,65.112,66.871,Flatwillow,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",62.005,58.099,60.694,Flatwillow,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",64.009,59.28,62.246,Flatwillow,tasmax
+2091,"High Emissions
+(SSP3-7.0)",66.911,64.035,66.126,Flatwillow,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",70.699,62.939,65.831,Flatwillow,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",63.628,57.352,61.014,Flatwillow,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",65.286,58.588,63.291,Flatwillow,tasmax
+2092,"High Emissions
+(SSP3-7.0)",66.52,61.941,65.024,Flatwillow,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",71.104,63.978,66.8,Flatwillow,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",63.463,56.452,60.499,Flatwillow,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",64.9,58.043,61.807,Flatwillow,tasmax
+2093,"High Emissions
+(SSP3-7.0)",67.416,62.551,63.17,Flatwillow,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",70.35,65.128,66.634,Flatwillow,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",63.043,57.601,59.174,Flatwillow,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",66.539,58.177,62.077,Flatwillow,tasmax
+2094,"High Emissions
+(SSP3-7.0)",67.462,62.684,64.922,Flatwillow,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",71.846,64.879,68.579,Flatwillow,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",62.544,58.078,61.131,Flatwillow,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",65.71,61.09,63.934,Flatwillow,tasmax
+2095,"High Emissions
+(SSP3-7.0)",69.512,62.262,65.922,Flatwillow,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",69.924,63.975,65.64,Flatwillow,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",62.227,58.049,60.576,Flatwillow,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",64.38,61.476,62.76,Flatwillow,tasmax
+2096,"High Emissions
+(SSP3-7.0)",67.33,62.599,66.589,Flatwillow,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",69.878,64.105,66.945,Flatwillow,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",63.966,58.329,59.397,Flatwillow,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",66.274,60.916,62.803,Flatwillow,tasmax
+2097,"High Emissions
+(SSP3-7.0)",70.74,61.614,66.707,Flatwillow,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",72.326,64.372,66.394,Flatwillow,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",62.409,57.27,59.627,Flatwillow,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",64.527,60.286,62.457,Flatwillow,tasmax
+2098,"High Emissions
+(SSP3-7.0)",67.99,62.461,64.956,Flatwillow,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",69.515,65.149,67.719,Flatwillow,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",63.681,56.574,60.971,Flatwillow,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",64.78,59.606,61.739,Flatwillow,tasmax
+2099,"High Emissions
+(SSP3-7.0)",69.272,62.198,63.745,Flatwillow,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",71.587,64.718,68.58,Flatwillow,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",62.638,56.442,59.238,Flatwillow,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",66.651,59.65,62.711,Flatwillow,tasmax
+2100,"High Emissions
+(SSP3-7.0)",67.698,61.821,66.387,Flatwillow,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",71.446,64.132,66.686,Flatwillow,tasmax

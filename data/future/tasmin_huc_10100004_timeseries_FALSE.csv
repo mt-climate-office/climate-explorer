@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,32.385,28.698,30.936,Lower Yellowstone,tasmin
+1951,Historical Emissions,32.307,28.951,30.433,Lower Yellowstone,tasmin
+1952,Historical Emissions,32.55,28.95,30.752,Lower Yellowstone,tasmin
+1953,Historical Emissions,31.536,28.139,30.482,Lower Yellowstone,tasmin
+1954,Historical Emissions,33.482,27.161,30.011,Lower Yellowstone,tasmin
+1955,Historical Emissions,33.046,30.073,30.576,Lower Yellowstone,tasmin
+1956,Historical Emissions,32.498,30.103,31.392,Lower Yellowstone,tasmin
+1957,Historical Emissions,33.312,30.425,31.399,Lower Yellowstone,tasmin
+1958,Historical Emissions,33.762,29.088,30.67,Lower Yellowstone,tasmin
+1959,Historical Emissions,31,27.941,29.757,Lower Yellowstone,tasmin
+1960,Historical Emissions,33.248,27.095,30.674,Lower Yellowstone,tasmin
+1961,Historical Emissions,32.605,29.089,31.851,Lower Yellowstone,tasmin
+1962,Historical Emissions,31.656,28.784,30.386,Lower Yellowstone,tasmin
+1963,Historical Emissions,31.289,29.562,30.443,Lower Yellowstone,tasmin
+1964,Historical Emissions,32.252,28.931,31.565,Lower Yellowstone,tasmin
+1965,Historical Emissions,31.575,28.757,30.959,Lower Yellowstone,tasmin
+1966,Historical Emissions,33.558,29.238,30.748,Lower Yellowstone,tasmin
+1967,Historical Emissions,31.39,28.855,30.58,Lower Yellowstone,tasmin
+1968,Historical Emissions,30.438,27.606,29.906,Lower Yellowstone,tasmin
+1969,Historical Emissions,32.055,28.135,30.538,Lower Yellowstone,tasmin
+1970,Historical Emissions,32.814,29.787,30.443,Lower Yellowstone,tasmin
+1971,Historical Emissions,34.328,30.977,32.167,Lower Yellowstone,tasmin
+1972,Historical Emissions,32.259,29.102,31.086,Lower Yellowstone,tasmin
+1973,Historical Emissions,31.996,29.035,31.275,Lower Yellowstone,tasmin
+1974,Historical Emissions,33.446,28.28,31.978,Lower Yellowstone,tasmin
+1975,Historical Emissions,32.118,27.141,31.492,Lower Yellowstone,tasmin
+1976,Historical Emissions,32.04,27.946,31.085,Lower Yellowstone,tasmin
+1977,Historical Emissions,33.461,30.011,31.895,Lower Yellowstone,tasmin
+1978,Historical Emissions,32.953,29.226,30.612,Lower Yellowstone,tasmin
+1979,Historical Emissions,34.335,29.8,31.811,Lower Yellowstone,tasmin
+1980,Historical Emissions,32.117,29.124,30.633,Lower Yellowstone,tasmin
+1981,Historical Emissions,32.719,30.653,31.347,Lower Yellowstone,tasmin
+1982,Historical Emissions,32.619,30.207,31.156,Lower Yellowstone,tasmin
+1983,Historical Emissions,33.135,29.014,31.257,Lower Yellowstone,tasmin
+1984,Historical Emissions,33.145,29.957,31.307,Lower Yellowstone,tasmin
+1985,Historical Emissions,33.256,30.176,32.021,Lower Yellowstone,tasmin
+1986,Historical Emissions,31.728,29.234,31.136,Lower Yellowstone,tasmin
+1987,Historical Emissions,32.898,27.208,29.665,Lower Yellowstone,tasmin
+1988,Historical Emissions,32.488,28.779,31.276,Lower Yellowstone,tasmin
+1989,Historical Emissions,32.791,30.013,31.889,Lower Yellowstone,tasmin
+1990,Historical Emissions,34.475,30.978,33.057,Lower Yellowstone,tasmin
+1991,Historical Emissions,32.967,29.454,30.737,Lower Yellowstone,tasmin
+1992,Historical Emissions,32.934,29.628,30.316,Lower Yellowstone,tasmin
+1993,Historical Emissions,33.773,29.745,31.546,Lower Yellowstone,tasmin
+1994,Historical Emissions,33.405,30.596,31.858,Lower Yellowstone,tasmin
+1995,Historical Emissions,33.739,29.808,31.601,Lower Yellowstone,tasmin
+1996,Historical Emissions,33.957,29.269,31.517,Lower Yellowstone,tasmin
+1997,Historical Emissions,34.82,30.442,32.023,Lower Yellowstone,tasmin
+1998,Historical Emissions,33.906,29.44,30.741,Lower Yellowstone,tasmin
+1999,Historical Emissions,34.211,31.336,33.294,Lower Yellowstone,tasmin
+2000,Historical Emissions,33.525,30.486,31.731,Lower Yellowstone,tasmin
+2001,Historical Emissions,33.877,30.43,32.07,Lower Yellowstone,tasmin
+2002,Historical Emissions,34.334,31.182,33.457,Lower Yellowstone,tasmin
+2003,Historical Emissions,34.792,31.702,32.314,Lower Yellowstone,tasmin
+2004,Historical Emissions,34.364,31.8,32.949,Lower Yellowstone,tasmin
+2005,Historical Emissions,35.923,30.794,33.283,Lower Yellowstone,tasmin
+2006,Historical Emissions,34.667,30.176,32.503,Lower Yellowstone,tasmin
+2007,Historical Emissions,33.728,32.674,33.427,Lower Yellowstone,tasmin
+2008,Historical Emissions,34.1,31.2,33.313,Lower Yellowstone,tasmin
+2009,Historical Emissions,33.581,32.155,32.89,Lower Yellowstone,tasmin
+2010,Historical Emissions,34.37,31.858,32.603,Lower Yellowstone,tasmin
+2011,Historical Emissions,35.278,32.875,33.328,Lower Yellowstone,tasmin
+2012,Historical Emissions,34.427,31.991,32.908,Lower Yellowstone,tasmin
+2013,Historical Emissions,35.543,31.398,32.413,Lower Yellowstone,tasmin
+2014,Historical Emissions,35.946,32.411,33.323,Lower Yellowstone,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",36.683,31.964,33.675,Lower Yellowstone,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",34.805,31.018,32.963,Lower Yellowstone,tasmin
+2015,"High Emissions
+(SSP3-7.0)",35.235,31.817,33.545,Lower Yellowstone,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",34.556,31.982,32.43,Lower Yellowstone,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",36.616,33.144,34.683,Lower Yellowstone,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",36.467,31.58,33.356,Lower Yellowstone,tasmin
+2016,"High Emissions
+(SSP3-7.0)",37.033,30.489,33.006,Lower Yellowstone,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",34.772,31.979,33.998,Lower Yellowstone,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",35.969,31.749,32.594,Lower Yellowstone,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",36.275,31.232,33.056,Lower Yellowstone,tasmin
+2017,"High Emissions
+(SSP3-7.0)",35.976,32.944,33.733,Lower Yellowstone,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",35.075,31.786,33.716,Lower Yellowstone,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",34.871,31.707,33.373,Lower Yellowstone,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",35.261,32.305,33.138,Lower Yellowstone,tasmin
+2018,"High Emissions
+(SSP3-7.0)",36.721,31.943,32.566,Lower Yellowstone,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",36.186,31.336,33.482,Lower Yellowstone,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",36.15,32.236,34.642,Lower Yellowstone,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",34.836,30.873,32.142,Lower Yellowstone,tasmin
+2019,"High Emissions
+(SSP3-7.0)",36.093,31.641,33.556,Lower Yellowstone,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",36.663,32.884,35.059,Lower Yellowstone,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",35.924,30.981,34.869,Lower Yellowstone,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",35.303,31.702,32.727,Lower Yellowstone,tasmin
+2020,"High Emissions
+(SSP3-7.0)",35.161,31.803,33.458,Lower Yellowstone,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",36.104,32.867,34.397,Lower Yellowstone,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",36.33,32.625,34.027,Lower Yellowstone,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",35.594,32.087,33.875,Lower Yellowstone,tasmin
+2021,"High Emissions
+(SSP3-7.0)",36.439,32.485,33.94,Lower Yellowstone,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",35.652,32.122,34.164,Lower Yellowstone,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",35.63,33.038,33.728,Lower Yellowstone,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",36.03,32.64,34.232,Lower Yellowstone,tasmin
+2022,"High Emissions
+(SSP3-7.0)",35.796,33.263,33.792,Lower Yellowstone,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",37.113,32.809,34.428,Lower Yellowstone,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",35.739,32.767,34.122,Lower Yellowstone,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",35.908,33.354,34.621,Lower Yellowstone,tasmin
+2023,"High Emissions
+(SSP3-7.0)",38.325,32.483,34.434,Lower Yellowstone,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",34.992,30.964,32.438,Lower Yellowstone,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",36.865,32.236,34.859,Lower Yellowstone,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",35.138,32.351,33.717,Lower Yellowstone,tasmin
+2024,"High Emissions
+(SSP3-7.0)",37.772,32.361,33.448,Lower Yellowstone,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",37.607,32.482,34.88,Lower Yellowstone,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",35.758,32.509,35.106,Lower Yellowstone,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",36.298,32.242,34.125,Lower Yellowstone,tasmin
+2025,"High Emissions
+(SSP3-7.0)",36.21,33.26,34.829,Lower Yellowstone,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",37.773,33.197,34.825,Lower Yellowstone,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",36.082,32.591,33.776,Lower Yellowstone,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",36.521,32.12,35.102,Lower Yellowstone,tasmin
+2026,"High Emissions
+(SSP3-7.0)",37.905,31.385,34.381,Lower Yellowstone,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",36.821,32.803,34.752,Lower Yellowstone,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",37.422,32.068,34.238,Lower Yellowstone,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",36.901,33.709,35.327,Lower Yellowstone,tasmin
+2027,"High Emissions
+(SSP3-7.0)",35.956,32.263,34.47,Lower Yellowstone,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",35.752,33.715,34.298,Lower Yellowstone,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",36.493,32.968,35.254,Lower Yellowstone,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",36.76,32.348,34.335,Lower Yellowstone,tasmin
+2028,"High Emissions
+(SSP3-7.0)",36.552,33.311,34.374,Lower Yellowstone,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",37.74,32.649,35.042,Lower Yellowstone,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",38.219,33.66,35.541,Lower Yellowstone,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",37.889,31.886,34.893,Lower Yellowstone,tasmin
+2029,"High Emissions
+(SSP3-7.0)",36.828,31.568,34.509,Lower Yellowstone,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",36.088,33.743,34.809,Lower Yellowstone,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",37.696,33.384,34.688,Lower Yellowstone,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",36.98,33.491,34.992,Lower Yellowstone,tasmin
+2030,"High Emissions
+(SSP3-7.0)",36.855,31.855,34.774,Lower Yellowstone,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",38.128,31.668,34.838,Lower Yellowstone,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",36.442,32.331,35.246,Lower Yellowstone,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",36.58,33.43,35.125,Lower Yellowstone,tasmin
+2031,"High Emissions
+(SSP3-7.0)",37.553,32.266,35.376,Lower Yellowstone,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",38.482,35.764,36.295,Lower Yellowstone,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",36.194,33.258,34.39,Lower Yellowstone,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",36.063,33.28,34.767,Lower Yellowstone,tasmin
+2032,"High Emissions
+(SSP3-7.0)",36.877,33.078,34.93,Lower Yellowstone,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",37.933,34.038,35.333,Lower Yellowstone,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",37.065,33.778,35.095,Lower Yellowstone,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",38.159,33.685,35.891,Lower Yellowstone,tasmin
+2033,"High Emissions
+(SSP3-7.0)",36.466,32.759,34.505,Lower Yellowstone,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",36.298,33.817,34.847,Lower Yellowstone,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",35.819,32.061,33.776,Lower Yellowstone,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",37.365,34.319,34.653,Lower Yellowstone,tasmin
+2034,"High Emissions
+(SSP3-7.0)",36.488,34.404,35.831,Lower Yellowstone,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",37.483,31.325,35.529,Lower Yellowstone,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",36.579,33.03,35.135,Lower Yellowstone,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",37.388,33.378,36.034,Lower Yellowstone,tasmin
+2035,"High Emissions
+(SSP3-7.0)",35.811,32.368,35.051,Lower Yellowstone,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",37.858,32.898,35.414,Lower Yellowstone,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",36.931,34.201,35.279,Lower Yellowstone,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",36.285,32.797,35.31,Lower Yellowstone,tasmin
+2036,"High Emissions
+(SSP3-7.0)",36.632,32.816,34.663,Lower Yellowstone,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",38.259,34.072,36.072,Lower Yellowstone,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",37.277,34.464,36.45,Lower Yellowstone,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",37.515,31.959,35.145,Lower Yellowstone,tasmin
+2037,"High Emissions
+(SSP3-7.0)",36.171,32.867,34.887,Lower Yellowstone,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",37.6,34.448,35.441,Lower Yellowstone,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",38.91,33.945,35.504,Lower Yellowstone,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",37.258,33.753,35.362,Lower Yellowstone,tasmin
+2038,"High Emissions
+(SSP3-7.0)",37.76,33.91,35.271,Lower Yellowstone,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",39.688,33.592,37.361,Lower Yellowstone,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",38.501,34.281,36.274,Lower Yellowstone,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",36.985,33.882,34.897,Lower Yellowstone,tasmin
+2039,"High Emissions
+(SSP3-7.0)",38.593,34.102,36.094,Lower Yellowstone,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",39.253,32.467,36.83,Lower Yellowstone,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",38.633,34.124,35.274,Lower Yellowstone,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",36.775,34.414,35.962,Lower Yellowstone,tasmin
+2040,"High Emissions
+(SSP3-7.0)",38.086,33.945,36.656,Lower Yellowstone,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",39.497,34.817,36.623,Lower Yellowstone,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",37.616,31.618,34.816,Lower Yellowstone,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",36.574,33.889,34.998,Lower Yellowstone,tasmin
+2041,"High Emissions
+(SSP3-7.0)",37.67,33.498,34.015,Lower Yellowstone,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",37.01,34.208,35.826,Lower Yellowstone,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",38.084,34.464,35.235,Lower Yellowstone,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",36.213,32.548,33.194,Lower Yellowstone,tasmin
+2042,"High Emissions
+(SSP3-7.0)",36.684,34.715,35.554,Lower Yellowstone,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",39.038,34.876,35.939,Lower Yellowstone,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",37.986,34.171,35.228,Lower Yellowstone,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",38.064,33.505,35.375,Lower Yellowstone,tasmin
+2043,"High Emissions
+(SSP3-7.0)",37.092,34.059,35.131,Lower Yellowstone,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",37.076,35.796,36.119,Lower Yellowstone,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",37.696,33.22,34.791,Lower Yellowstone,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",39.189,34.534,36.818,Lower Yellowstone,tasmin
+2044,"High Emissions
+(SSP3-7.0)",37.394,34.401,35.628,Lower Yellowstone,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",39.734,34.838,36.893,Lower Yellowstone,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",38.421,33.732,35.785,Lower Yellowstone,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",38.325,32.757,37.016,Lower Yellowstone,tasmin
+2045,"High Emissions
+(SSP3-7.0)",37.406,32.661,34.756,Lower Yellowstone,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",37.023,33.184,36.223,Lower Yellowstone,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",38.634,31.646,36.66,Lower Yellowstone,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",37.907,33.944,36.263,Lower Yellowstone,tasmin
+2046,"High Emissions
+(SSP3-7.0)",39.267,35.46,37.719,Lower Yellowstone,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",38.705,33.833,35.321,Lower Yellowstone,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",37.528,33.956,35.079,Lower Yellowstone,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",38.839,31.987,35.481,Lower Yellowstone,tasmin
+2047,"High Emissions
+(SSP3-7.0)",37.595,33.451,34.878,Lower Yellowstone,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",38.707,34.446,36.293,Lower Yellowstone,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",37.149,33.88,35.358,Lower Yellowstone,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",38.765,33.69,35.17,Lower Yellowstone,tasmin
+2048,"High Emissions
+(SSP3-7.0)",39.245,34.056,36.619,Lower Yellowstone,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",39.437,35.813,37.96,Lower Yellowstone,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",37.695,32.694,34.098,Lower Yellowstone,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",38.258,35.617,36.55,Lower Yellowstone,tasmin
+2049,"High Emissions
+(SSP3-7.0)",40.084,35.17,36.647,Lower Yellowstone,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",38.14,35.894,36.87,Lower Yellowstone,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",36.398,33.557,35.079,Lower Yellowstone,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",39.773,33.95,36.275,Lower Yellowstone,tasmin
+2050,"High Emissions
+(SSP3-7.0)",39.31,35.604,36.534,Lower Yellowstone,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",38.17,36.305,37.461,Lower Yellowstone,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",38.443,34.325,36.057,Lower Yellowstone,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",39.733,34.82,35.927,Lower Yellowstone,tasmin
+2051,"High Emissions
+(SSP3-7.0)",38.139,35.566,36.155,Lower Yellowstone,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",38.796,35.411,36.444,Lower Yellowstone,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",37.505,34.985,35.558,Lower Yellowstone,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",39.157,34.412,35.877,Lower Yellowstone,tasmin
+2052,"High Emissions
+(SSP3-7.0)",40.174,34.957,36.124,Lower Yellowstone,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",38.671,35.985,37.939,Lower Yellowstone,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",37.63,34.166,35.744,Lower Yellowstone,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",37.84,33.653,36.554,Lower Yellowstone,tasmin
+2053,"High Emissions
+(SSP3-7.0)",39.478,36.437,38.067,Lower Yellowstone,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",41.344,35.777,36.973,Lower Yellowstone,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",37.643,34.497,35.023,Lower Yellowstone,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",36.673,34.164,35.427,Lower Yellowstone,tasmin
+2054,"High Emissions
+(SSP3-7.0)",39.071,35.489,36.34,Lower Yellowstone,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",40.474,36.274,37.124,Lower Yellowstone,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",38.173,34.798,36.05,Lower Yellowstone,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",37.367,34.416,35.836,Lower Yellowstone,tasmin
+2055,"High Emissions
+(SSP3-7.0)",38.497,35.303,37.789,Lower Yellowstone,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",41.266,36.883,38.504,Lower Yellowstone,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",38.825,33.859,36.665,Lower Yellowstone,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",38.904,34.796,35.558,Lower Yellowstone,tasmin
+2056,"High Emissions
+(SSP3-7.0)",40.309,34.929,37.759,Lower Yellowstone,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",40.859,35.43,37.799,Lower Yellowstone,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",38.664,33.691,35.264,Lower Yellowstone,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",40.195,34.378,36.834,Lower Yellowstone,tasmin
+2057,"High Emissions
+(SSP3-7.0)",39.102,35.929,36.787,Lower Yellowstone,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",40.123,34.186,37.665,Lower Yellowstone,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",37.951,33.382,36.105,Lower Yellowstone,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",39.48,34.627,36.793,Lower Yellowstone,tasmin
+2058,"High Emissions
+(SSP3-7.0)",38.119,35.656,37.305,Lower Yellowstone,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",39.373,35.647,36.886,Lower Yellowstone,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",38.047,33.468,36.113,Lower Yellowstone,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",41.176,36.09,37.604,Lower Yellowstone,tasmin
+2059,"High Emissions
+(SSP3-7.0)",40.817,36.434,38.199,Lower Yellowstone,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",40.339,36.849,38.971,Lower Yellowstone,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",38.874,33.215,34.945,Lower Yellowstone,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",38.656,34.181,36.102,Lower Yellowstone,tasmin
+2060,"High Emissions
+(SSP3-7.0)",39.177,36.49,37.51,Lower Yellowstone,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",39.779,37.499,38.827,Lower Yellowstone,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",37.571,33.993,34.887,Lower Yellowstone,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",39.498,35.268,36.66,Lower Yellowstone,tasmin
+2061,"High Emissions
+(SSP3-7.0)",40.491,36.349,38.166,Lower Yellowstone,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",41.848,36.894,39.503,Lower Yellowstone,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",36.746,34.869,35.859,Lower Yellowstone,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",39.878,34.048,36.155,Lower Yellowstone,tasmin
+2062,"High Emissions
+(SSP3-7.0)",39.252,36.794,38.145,Lower Yellowstone,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",41.05,36.843,38.555,Lower Yellowstone,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",36.948,33.634,35.94,Lower Yellowstone,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",38.511,34.907,37.221,Lower Yellowstone,tasmin
+2063,"High Emissions
+(SSP3-7.0)",40.322,35.9,37.134,Lower Yellowstone,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",40.383,36.218,38.366,Lower Yellowstone,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",39.301,35.064,36.778,Lower Yellowstone,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",37.483,34.827,35.849,Lower Yellowstone,tasmin
+2064,"High Emissions
+(SSP3-7.0)",38.668,36.145,37.14,Lower Yellowstone,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",41.271,37.007,37.439,Lower Yellowstone,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",37.352,33.28,36.511,Lower Yellowstone,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",39.309,34.343,35.962,Lower Yellowstone,tasmin
+2065,"High Emissions
+(SSP3-7.0)",40.179,36.251,37.85,Lower Yellowstone,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",43.247,36.668,39.984,Lower Yellowstone,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",38.62,32.654,36.326,Lower Yellowstone,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",40.194,35.9,37.648,Lower Yellowstone,tasmin
+2066,"High Emissions
+(SSP3-7.0)",40.53,36.911,37.703,Lower Yellowstone,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",41.538,37.035,40.116,Lower Yellowstone,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",38.933,34.892,36.359,Lower Yellowstone,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",39.346,35.004,36.244,Lower Yellowstone,tasmin
+2067,"High Emissions
+(SSP3-7.0)",40.827,37.506,38.675,Lower Yellowstone,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",43.5,37.103,38.819,Lower Yellowstone,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",37.287,34.848,36.454,Lower Yellowstone,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",38.835,35.34,35.942,Lower Yellowstone,tasmin
+2068,"High Emissions
+(SSP3-7.0)",39.827,35.788,37.039,Lower Yellowstone,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",41.534,38.06,38.874,Lower Yellowstone,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",38.9,34.701,35.367,Lower Yellowstone,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",37.523,34.425,36.309,Lower Yellowstone,tasmin
+2069,"High Emissions
+(SSP3-7.0)",40.759,37.574,39.951,Lower Yellowstone,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",42.599,38.292,39.243,Lower Yellowstone,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",38.028,33.813,35.405,Lower Yellowstone,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",38.744,34.014,35.823,Lower Yellowstone,tasmin
+2070,"High Emissions
+(SSP3-7.0)",41.933,37.498,38.985,Lower Yellowstone,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",43.377,37.318,39.446,Lower Yellowstone,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",40.965,32.658,36.214,Lower Yellowstone,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",40.549,35.324,37.293,Lower Yellowstone,tasmin
+2071,"High Emissions
+(SSP3-7.0)",41.928,38.207,38.951,Lower Yellowstone,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",42.367,36.83,39.275,Lower Yellowstone,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",39.946,34.185,35.979,Lower Yellowstone,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",40.967,34.951,37.121,Lower Yellowstone,tasmin
+2072,"High Emissions
+(SSP3-7.0)",41.396,37.923,38.472,Lower Yellowstone,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",41.802,38.459,39.384,Lower Yellowstone,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",38.51,33.199,36.081,Lower Yellowstone,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",41.136,35.339,37.01,Lower Yellowstone,tasmin
+2073,"High Emissions
+(SSP3-7.0)",40.771,36.917,38.939,Lower Yellowstone,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",42.725,36.388,40.96,Lower Yellowstone,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",40.587,33.291,36.386,Lower Yellowstone,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",38.99,36.373,37.711,Lower Yellowstone,tasmin
+2074,"High Emissions
+(SSP3-7.0)",41.604,37.41,38.249,Lower Yellowstone,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",41.589,37.408,39.584,Lower Yellowstone,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",38.254,33.969,36.035,Lower Yellowstone,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",40.335,34.864,35.92,Lower Yellowstone,tasmin
+2075,"High Emissions
+(SSP3-7.0)",41.531,36.725,38.849,Lower Yellowstone,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",43.03,38.021,41.495,Lower Yellowstone,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",38.141,33.059,35.222,Lower Yellowstone,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",39.932,36.47,37.319,Lower Yellowstone,tasmin
+2076,"High Emissions
+(SSP3-7.0)",40.555,37.482,38.77,Lower Yellowstone,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",43.255,38.111,39.853,Lower Yellowstone,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",38.153,34.036,35.943,Lower Yellowstone,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",41.024,36.534,37.423,Lower Yellowstone,tasmin
+2077,"High Emissions
+(SSP3-7.0)",41.809,37.221,39.506,Lower Yellowstone,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",43.425,38.076,40.899,Lower Yellowstone,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",37.927,34.945,36.587,Lower Yellowstone,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",39.736,35.408,36.754,Lower Yellowstone,tasmin
+2078,"High Emissions
+(SSP3-7.0)",42.159,37.357,39.298,Lower Yellowstone,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",41.551,38.483,39.619,Lower Yellowstone,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",37.126,34.478,36.475,Lower Yellowstone,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",39.749,35.458,37.231,Lower Yellowstone,tasmin
+2079,"High Emissions
+(SSP3-7.0)",41.82,37.262,40.039,Lower Yellowstone,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",44.08,38.3,41.289,Lower Yellowstone,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",37.882,34.472,35.069,Lower Yellowstone,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",39.632,35.34,37.669,Lower Yellowstone,tasmin
+2080,"High Emissions
+(SSP3-7.0)",40.415,38.582,39.467,Lower Yellowstone,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",44.612,38.682,41.975,Lower Yellowstone,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",38.744,32.687,35.726,Lower Yellowstone,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",40.05,36.188,37.071,Lower Yellowstone,tasmin
+2081,"High Emissions
+(SSP3-7.0)",42.543,37.641,38.595,Lower Yellowstone,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",44.362,40.177,41.666,Lower Yellowstone,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",39.793,34.056,36.577,Lower Yellowstone,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",40.884,36.304,37.52,Lower Yellowstone,tasmin
+2082,"High Emissions
+(SSP3-7.0)",42.59,37.272,38.55,Lower Yellowstone,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",44.927,39.428,42.674,Lower Yellowstone,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",38.209,34.376,35.795,Lower Yellowstone,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",41.11,35.644,37.698,Lower Yellowstone,tasmin
+2083,"High Emissions
+(SSP3-7.0)",42.834,37.217,39.705,Lower Yellowstone,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",45.02,40.422,42.292,Lower Yellowstone,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",38.746,33.736,35.049,Lower Yellowstone,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",40.228,36.276,38.448,Lower Yellowstone,tasmin
+2084,"High Emissions
+(SSP3-7.0)",45.033,37.945,41.223,Lower Yellowstone,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",44.037,40.283,42.081,Lower Yellowstone,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",36.946,31.829,35.123,Lower Yellowstone,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",39.934,36.025,37.893,Lower Yellowstone,tasmin
+2085,"High Emissions
+(SSP3-7.0)",41.959,38.708,39.222,Lower Yellowstone,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",45.399,40.037,41.738,Lower Yellowstone,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",39.25,35.325,36.511,Lower Yellowstone,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",38.926,36.908,37.876,Lower Yellowstone,tasmin
+2086,"High Emissions
+(SSP3-7.0)",44.005,38.458,40.465,Lower Yellowstone,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",45.155,38.904,43.172,Lower Yellowstone,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",37.489,33.538,36.321,Lower Yellowstone,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",41.826,35.407,38.69,Lower Yellowstone,tasmin
+2087,"High Emissions
+(SSP3-7.0)",43.344,38.798,40.685,Lower Yellowstone,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",45.425,40.142,41.405,Lower Yellowstone,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",37.645,33.15,35.964,Lower Yellowstone,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",39.714,35.384,37.836,Lower Yellowstone,tasmin
+2088,"High Emissions
+(SSP3-7.0)",44.367,38.931,39.79,Lower Yellowstone,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",45.096,40.693,41.353,Lower Yellowstone,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",36.383,33.914,35.43,Lower Yellowstone,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",39.871,36.389,38.034,Lower Yellowstone,tasmin
+2089,"High Emissions
+(SSP3-7.0)",43.309,38.668,40.498,Lower Yellowstone,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",46.564,40.206,43.936,Lower Yellowstone,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",38.581,34.074,35.6,Lower Yellowstone,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",40.28,36.248,38.921,Lower Yellowstone,tasmin
+2090,"High Emissions
+(SSP3-7.0)",42.731,38.512,39.881,Lower Yellowstone,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",46.257,41.235,43.137,Lower Yellowstone,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",38.273,34.018,35.879,Lower Yellowstone,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",40.933,36.087,38.509,Lower Yellowstone,tasmin
+2091,"High Emissions
+(SSP3-7.0)",43.727,38.52,40.341,Lower Yellowstone,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",47.44,40.06,42.81,Lower Yellowstone,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",40.104,33.095,36.645,Lower Yellowstone,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",40.455,36.127,37.855,Lower Yellowstone,tasmin
+2092,"High Emissions
+(SSP3-7.0)",43.563,38.313,41.177,Lower Yellowstone,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",46.411,40.974,42.053,Lower Yellowstone,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",38.63,33.191,36.116,Lower Yellowstone,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",40.846,35.522,38.009,Lower Yellowstone,tasmin
+2093,"High Emissions
+(SSP3-7.0)",45,38.674,39.854,Lower Yellowstone,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",47.72,40.296,43.063,Lower Yellowstone,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",38.731,32.564,35.473,Lower Yellowstone,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",41.305,34.231,36.452,Lower Yellowstone,tasmin
+2094,"High Emissions
+(SSP3-7.0)",44.919,38.825,41.044,Lower Yellowstone,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",48.149,41.342,43.79,Lower Yellowstone,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",38.147,34.385,36.482,Lower Yellowstone,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",42.426,36.165,38.25,Lower Yellowstone,tasmin
+2095,"High Emissions
+(SSP3-7.0)",45.428,38.286,41.091,Lower Yellowstone,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",45.523,40.629,41.564,Lower Yellowstone,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",38.082,35.014,35.723,Lower Yellowstone,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",41.03,37.469,38.704,Lower Yellowstone,tasmin
+2096,"High Emissions
+(SSP3-7.0)",42.87,39.721,41.911,Lower Yellowstone,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",46.835,40.616,43.596,Lower Yellowstone,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",38.661,33.519,35.371,Lower Yellowstone,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",40.526,37.547,38.107,Lower Yellowstone,tasmin
+2097,"High Emissions
+(SSP3-7.0)",45.034,39.334,41.728,Lower Yellowstone,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",48.561,40.237,43.914,Lower Yellowstone,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",37.875,32.885,35.788,Lower Yellowstone,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",40.372,35.571,37.911,Lower Yellowstone,tasmin
+2098,"High Emissions
+(SSP3-7.0)",45.266,40.114,41.006,Lower Yellowstone,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",46.461,41.289,44.417,Lower Yellowstone,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",40.477,33.25,35.317,Lower Yellowstone,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",40.395,36.068,37.894,Lower Yellowstone,tasmin
+2099,"High Emissions
+(SSP3-7.0)",45.862,38.628,41.364,Lower Yellowstone,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",47.32,41.424,43.853,Lower Yellowstone,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",38.555,33.641,35.098,Lower Yellowstone,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",41.157,37.297,38.704,Lower Yellowstone,tasmin
+2100,"High Emissions
+(SSP3-7.0)",45.499,39.381,41.546,Lower Yellowstone,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",48.084,40.564,43.525,Lower Yellowstone,tasmin

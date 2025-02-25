@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,57.614,55.381,56.898,Wheatland County,tasmax
+1951,Historical Emissions,57.658,54.647,56.555,Wheatland County,tasmax
+1952,Historical Emissions,57.494,53.578,55.643,Wheatland County,tasmax
+1953,Historical Emissions,57.268,54.006,55.907,Wheatland County,tasmax
+1954,Historical Emissions,57.432,53.155,54.936,Wheatland County,tasmax
+1955,Historical Emissions,58.733,54.006,54.907,Wheatland County,tasmax
+1956,Historical Emissions,58.404,54.945,56.508,Wheatland County,tasmax
+1957,Historical Emissions,59.853,53.754,56.392,Wheatland County,tasmax
+1958,Historical Emissions,57.374,54.945,55.36,Wheatland County,tasmax
+1959,Historical Emissions,55.745,53.341,54.519,Wheatland County,tasmax
+1960,Historical Emissions,57.078,53.292,54.606,Wheatland County,tasmax
+1961,Historical Emissions,57.768,54.16,56.102,Wheatland County,tasmax
+1962,Historical Emissions,56.536,52.745,54.835,Wheatland County,tasmax
+1963,Historical Emissions,55.916,53.243,54.809,Wheatland County,tasmax
+1964,Historical Emissions,56.438,53.201,55.573,Wheatland County,tasmax
+1965,Historical Emissions,56.818,53.71,55.47,Wheatland County,tasmax
+1966,Historical Emissions,57.865,53.889,54.776,Wheatland County,tasmax
+1967,Historical Emissions,56.671,54.448,54.956,Wheatland County,tasmax
+1968,Historical Emissions,55.849,52.504,54.134,Wheatland County,tasmax
+1969,Historical Emissions,56.281,53.688,55.22,Wheatland County,tasmax
+1970,Historical Emissions,56.57,54.378,56.076,Wheatland County,tasmax
+1971,Historical Emissions,58.616,54.893,56.972,Wheatland County,tasmax
+1972,Historical Emissions,56.765,53.942,55.584,Wheatland County,tasmax
+1973,Historical Emissions,57.199,53.675,55.362,Wheatland County,tasmax
+1974,Historical Emissions,56.901,53.184,56.229,Wheatland County,tasmax
+1975,Historical Emissions,57.066,53.407,55.845,Wheatland County,tasmax
+1976,Historical Emissions,56.471,53.983,55.441,Wheatland County,tasmax
+1977,Historical Emissions,57.81,54.448,56.323,Wheatland County,tasmax
+1978,Historical Emissions,57.487,53.865,55.079,Wheatland County,tasmax
+1979,Historical Emissions,58.257,53.65,57.129,Wheatland County,tasmax
+1980,Historical Emissions,57.258,54.036,55.626,Wheatland County,tasmax
+1981,Historical Emissions,58.022,54.763,56.56,Wheatland County,tasmax
+1982,Historical Emissions,57.395,54.554,55.69,Wheatland County,tasmax
+1983,Historical Emissions,57.194,54.044,55.242,Wheatland County,tasmax
+1984,Historical Emissions,57.534,54.068,56.147,Wheatland County,tasmax
+1985,Historical Emissions,57.226,54.701,56.016,Wheatland County,tasmax
+1986,Historical Emissions,55.317,53.596,54.006,Wheatland County,tasmax
+1987,Historical Emissions,56.569,52.891,54.662,Wheatland County,tasmax
+1988,Historical Emissions,57.28,53.927,55.76,Wheatland County,tasmax
+1989,Historical Emissions,57.418,54.594,55.623,Wheatland County,tasmax
+1990,Historical Emissions,58.96,54.701,56.861,Wheatland County,tasmax
+1991,Historical Emissions,57.97,54.148,55.008,Wheatland County,tasmax
+1992,Historical Emissions,56.304,53.706,54.912,Wheatland County,tasmax
+1993,Historical Emissions,56.972,53.855,55.228,Wheatland County,tasmax
+1994,Historical Emissions,58.688,54.015,55.619,Wheatland County,tasmax
+1995,Historical Emissions,58.246,54.339,55.411,Wheatland County,tasmax
+1996,Historical Emissions,59.052,56.368,57.66,Wheatland County,tasmax
+1997,Historical Emissions,58.451,53.831,55.81,Wheatland County,tasmax
+1998,Historical Emissions,58.686,53.722,56.481,Wheatland County,tasmax
+1999,Historical Emissions,58.151,55.37,56.438,Wheatland County,tasmax
+2000,Historical Emissions,57.558,54.594,56.567,Wheatland County,tasmax
+2001,Historical Emissions,57.73,55.163,56.633,Wheatland County,tasmax
+2002,Historical Emissions,60.004,55.675,56.383,Wheatland County,tasmax
+2003,Historical Emissions,59.323,55.94,57.133,Wheatland County,tasmax
+2004,Historical Emissions,58.962,57.238,58.06,Wheatland County,tasmax
+2005,Historical Emissions,60.578,55.884,58.51,Wheatland County,tasmax
+2006,Historical Emissions,59.281,54.805,56.07,Wheatland County,tasmax
+2007,Historical Emissions,58.613,56.109,57.039,Wheatland County,tasmax
+2008,Historical Emissions,58.162,55.938,57.369,Wheatland County,tasmax
+2009,Historical Emissions,58.263,55.475,57.03,Wheatland County,tasmax
+2010,Historical Emissions,58.455,56.161,57.577,Wheatland County,tasmax
+2011,Historical Emissions,59.465,56.351,57.359,Wheatland County,tasmax
+2012,Historical Emissions,58.728,55.927,58.083,Wheatland County,tasmax
+2013,Historical Emissions,60.386,55.745,57.44,Wheatland County,tasmax
+2014,Historical Emissions,60.201,56.737,58.392,Wheatland County,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",60.6,57.48,58.329,Wheatland County,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",59.994,56.124,57.902,Wheatland County,tasmax
+2015,"High Emissions
+(SSP3-7.0)",59.329,56.178,57.805,Wheatland County,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",59.015,56.475,57.826,Wheatland County,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",60.01,58.093,58.546,Wheatland County,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",59.253,56.263,57.705,Wheatland County,tasmax
+2016,"High Emissions
+(SSP3-7.0)",60.853,56.164,59.148,Wheatland County,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",59.449,56.377,58.659,Wheatland County,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",59.915,57.034,57.639,Wheatland County,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",60.282,56.737,58.089,Wheatland County,tasmax
+2017,"High Emissions
+(SSP3-7.0)",58.699,57.675,58.151,Wheatland County,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",60.171,56.919,58.394,Wheatland County,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",58.972,56.534,57.261,Wheatland County,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",60.243,56.607,58.134,Wheatland County,tasmax
+2018,"High Emissions
+(SSP3-7.0)",59.434,55.536,57.276,Wheatland County,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",58.704,56.834,58.032,Wheatland County,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",60.795,58.156,59.541,Wheatland County,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",59.986,55.668,57.429,Wheatland County,tasmax
+2019,"High Emissions
+(SSP3-7.0)",60.536,55.614,57.309,Wheatland County,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",61.856,57.138,58.371,Wheatland County,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",61.688,56.688,57.867,Wheatland County,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",59.831,56.511,58.282,Wheatland County,tasmax
+2020,"High Emissions
+(SSP3-7.0)",59.763,56.287,57.354,Wheatland County,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",59.672,56.64,58.598,Wheatland County,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",60.235,57.074,58.482,Wheatland County,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",60.432,56.906,59.345,Wheatland County,tasmax
+2021,"High Emissions
+(SSP3-7.0)",59.951,57.486,58.322,Wheatland County,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",60.155,57.55,58.731,Wheatland County,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",60.564,57.065,58.185,Wheatland County,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",61.021,57.223,58.155,Wheatland County,tasmax
+2022,"High Emissions
+(SSP3-7.0)",59.271,56.64,58.183,Wheatland County,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",61.248,56.681,59.302,Wheatland County,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",59.454,57.823,58.371,Wheatland County,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",60.766,57.286,57.927,Wheatland County,tasmax
+2023,"High Emissions
+(SSP3-7.0)",60.434,56.35,58.162,Wheatland County,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",58.826,55.43,56.995,Wheatland County,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",60.114,57.382,59.142,Wheatland County,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",60.009,56.751,58.51,Wheatland County,tasmax
+2024,"High Emissions
+(SSP3-7.0)",60.962,57.257,58.682,Wheatland County,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",61.319,56.073,58.295,Wheatland County,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",60.246,58.231,59.327,Wheatland County,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",60.654,56.196,57.56,Wheatland County,tasmax
+2025,"High Emissions
+(SSP3-7.0)",61.167,58.463,59.824,Wheatland County,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",61.195,58.184,58.502,Wheatland County,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",61.177,56.613,58.541,Wheatland County,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",61.161,57.089,58.927,Wheatland County,tasmax
+2026,"High Emissions
+(SSP3-7.0)",60.265,55.671,58.124,Wheatland County,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",61.331,56.956,58.421,Wheatland County,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",60.469,56.625,57.963,Wheatland County,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",62.123,56.871,58.943,Wheatland County,tasmax
+2027,"High Emissions
+(SSP3-7.0)",60.709,57.252,57.899,Wheatland County,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",60.523,57.52,59.106,Wheatland County,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",60.352,56.878,58.685,Wheatland County,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",59.541,55.899,58.144,Wheatland County,tasmax
+2028,"High Emissions
+(SSP3-7.0)",59.616,58.222,59.352,Wheatland County,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",60.589,57.829,58.685,Wheatland County,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",62.413,58.795,60.377,Wheatland County,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",60.931,56.94,58.756,Wheatland County,tasmax
+2029,"High Emissions
+(SSP3-7.0)",60.408,55.957,58.274,Wheatland County,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",61.01,57.96,59.368,Wheatland County,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",61.675,57.552,58.665,Wheatland County,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",61.613,58.285,59.365,Wheatland County,tasmax
+2030,"High Emissions
+(SSP3-7.0)",61.657,57.294,58.707,Wheatland County,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",62.345,57.475,59.172,Wheatland County,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",61.157,57.307,59.385,Wheatland County,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",61.989,57.409,59.419,Wheatland County,tasmax
+2031,"High Emissions
+(SSP3-7.0)",62.372,57.435,60.254,Wheatland County,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",61.982,59.105,60.371,Wheatland County,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",60.399,56.789,59.176,Wheatland County,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",59.828,56.975,58.368,Wheatland County,tasmax
+2032,"High Emissions
+(SSP3-7.0)",61.731,57.238,58.694,Wheatland County,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",61.485,56.607,58.623,Wheatland County,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",61.368,57.971,58.824,Wheatland County,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",61.423,57.784,60.035,Wheatland County,tasmax
+2033,"High Emissions
+(SSP3-7.0)",60.565,56.659,59.171,Wheatland County,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",61.641,57.752,60.416,Wheatland County,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",61.585,57.128,58.496,Wheatland County,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",61.086,57.464,59.427,Wheatland County,tasmax
+2034,"High Emissions
+(SSP3-7.0)",61.83,58.266,60.337,Wheatland County,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",62.091,56.998,59.411,Wheatland County,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",61.913,57.689,59.696,Wheatland County,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",61.893,58.221,59.624,Wheatland County,tasmax
+2035,"High Emissions
+(SSP3-7.0)",60.164,56.908,59.101,Wheatland County,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",61.796,57.651,60.73,Wheatland County,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",60.873,58.631,59.907,Wheatland County,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",60.469,57.454,59.393,Wheatland County,tasmax
+2036,"High Emissions
+(SSP3-7.0)",60.515,57.532,59.664,Wheatland County,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",62.278,55.422,60.653,Wheatland County,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",61.319,58.087,60.209,Wheatland County,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",62.333,56.598,59.174,Wheatland County,tasmax
+2037,"High Emissions
+(SSP3-7.0)",61.357,56.814,58.106,Wheatland County,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",61.769,57.9,60.274,Wheatland County,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",61.593,58.235,59.394,Wheatland County,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",60.889,57.259,58.804,Wheatland County,tasmax
+2038,"High Emissions
+(SSP3-7.0)",61.745,58.327,59.916,Wheatland County,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",62.857,56.965,60.845,Wheatland County,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",61.84,57.038,60.396,Wheatland County,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",60.33,57.684,59.156,Wheatland County,tasmax
+2039,"High Emissions
+(SSP3-7.0)",61.39,59.47,59.909,Wheatland County,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",63.189,57.46,59.381,Wheatland County,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",62.085,57.389,60.08,Wheatland County,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",61.41,58.643,60.17,Wheatland County,tasmax
+2040,"High Emissions
+(SSP3-7.0)",61.452,59.132,60.097,Wheatland County,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",64.109,58.728,60.567,Wheatland County,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",61.566,57.09,59.45,Wheatland County,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",61.103,58.346,60.282,Wheatland County,tasmax
+2041,"High Emissions
+(SSP3-7.0)",61.128,57.623,59.101,Wheatland County,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",60.588,58.662,60.169,Wheatland County,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",63.182,58.453,59.075,Wheatland County,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",60.193,56.873,59.746,Wheatland County,tasmax
+2042,"High Emissions
+(SSP3-7.0)",61.01,57.753,59.631,Wheatland County,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",63.038,58.923,60.261,Wheatland County,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",60.899,57.79,59.704,Wheatland County,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",62.283,57.996,59.979,Wheatland County,tasmax
+2043,"High Emissions
+(SSP3-7.0)",61.152,56.569,60.074,Wheatland County,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",61.978,58.695,59.996,Wheatland County,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",61.813,58.526,59.563,Wheatland County,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",63.547,59.012,60.925,Wheatland County,tasmax
+2044,"High Emissions
+(SSP3-7.0)",61.494,59.077,59.746,Wheatland County,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",63.781,58.055,60.394,Wheatland County,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",61.315,57.837,60.502,Wheatland County,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",62.836,58.529,60.965,Wheatland County,tasmax
+2045,"High Emissions
+(SSP3-7.0)",61.921,57.823,60.635,Wheatland County,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",61.784,58.952,59.896,Wheatland County,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",63.635,57.893,59.793,Wheatland County,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",61.757,57.462,60.886,Wheatland County,tasmax
+2046,"High Emissions
+(SSP3-7.0)",61.916,59.387,60.441,Wheatland County,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",62.073,58.063,59.259,Wheatland County,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",62.119,59.124,60.63,Wheatland County,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",62.02,56.223,60.195,Wheatland County,tasmax
+2047,"High Emissions
+(SSP3-7.0)",60.955,59.213,59.957,Wheatland County,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",65.032,58.36,61.907,Wheatland County,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",61.02,59.004,59.642,Wheatland County,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",62.81,57.817,60.647,Wheatland County,tasmax
+2048,"High Emissions
+(SSP3-7.0)",62.701,57.541,60.936,Wheatland County,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",66.953,58.78,62.566,Wheatland County,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",61.609,57.975,58.748,Wheatland County,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",62.95,58.514,60.772,Wheatland County,tasmax
+2049,"High Emissions
+(SSP3-7.0)",62.539,58.963,61.047,Wheatland County,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",62.49,59.614,60.779,Wheatland County,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",62.773,57.435,60.083,Wheatland County,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",62.421,59.171,61.436,Wheatland County,tasmax
+2050,"High Emissions
+(SSP3-7.0)",62.58,58.97,60.651,Wheatland County,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",63.103,59.139,61.254,Wheatland County,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",61.784,57.628,60.789,Wheatland County,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",62.963,58.565,60.842,Wheatland County,tasmax
+2051,"High Emissions
+(SSP3-7.0)",62.213,59.542,60.362,Wheatland County,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",63.29,59.279,61.782,Wheatland County,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",61.365,58.907,59.907,Wheatland County,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",62.379,58.655,59.419,Wheatland County,tasmax
+2052,"High Emissions
+(SSP3-7.0)",62.571,57.014,60.121,Wheatland County,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",61.62,60.124,61.306,Wheatland County,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",61.997,57.283,59.928,Wheatland County,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",62.247,57.471,60.608,Wheatland County,tasmax
+2053,"High Emissions
+(SSP3-7.0)",64.094,59.75,63.564,Wheatland County,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",64.339,59.02,61.814,Wheatland County,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",62.354,58.703,61.155,Wheatland County,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",61.862,58.402,59.771,Wheatland County,tasmax
+2054,"High Emissions
+(SSP3-7.0)",63.679,58.665,60.045,Wheatland County,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",64.358,59.727,62.093,Wheatland County,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",61.762,59.462,60.554,Wheatland County,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",63.047,57.693,60.603,Wheatland County,tasmax
+2055,"High Emissions
+(SSP3-7.0)",62.959,59.751,60.841,Wheatland County,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",64.037,59.881,62.997,Wheatland County,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",61.623,59.243,61.239,Wheatland County,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",62.886,58.911,60.82,Wheatland County,tasmax
+2056,"High Emissions
+(SSP3-7.0)",63.499,59.032,60.639,Wheatland County,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",63.718,60.398,62.313,Wheatland County,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",61.573,57.356,60.66,Wheatland County,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",62.791,59.967,61.22,Wheatland County,tasmax
+2057,"High Emissions
+(SSP3-7.0)",62.695,58.893,59.245,Wheatland County,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",63.556,58.276,61.408,Wheatland County,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",62.091,58.038,59.987,Wheatland County,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",64.246,58.86,62.217,Wheatland County,tasmax
+2058,"High Emissions
+(SSP3-7.0)",62.279,59.243,61.013,Wheatland County,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",63.835,59.021,60.884,Wheatland County,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",62.348,58.906,61.096,Wheatland County,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",64.839,58.667,61.781,Wheatland County,tasmax
+2059,"High Emissions
+(SSP3-7.0)",65.23,59.428,61.851,Wheatland County,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",64.395,61.048,63.49,Wheatland County,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",62.233,58.512,60.042,Wheatland County,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",64.016,59.238,60.141,Wheatland County,tasmax
+2060,"High Emissions
+(SSP3-7.0)",62.734,58.879,60.82,Wheatland County,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",63.711,60.106,61.743,Wheatland County,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",61.812,58.479,59.412,Wheatland County,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",63.125,58.641,60.75,Wheatland County,tasmax
+2061,"High Emissions
+(SSP3-7.0)",62.888,59.732,61.714,Wheatland County,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",66.293,61.61,63.014,Wheatland County,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",62.083,58.655,60.016,Wheatland County,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",62.131,58.582,60.338,Wheatland County,tasmax
+2062,"High Emissions
+(SSP3-7.0)",62.169,60.451,61.555,Wheatland County,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",63.822,61.054,62.996,Wheatland County,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",62.252,58.136,59.549,Wheatland County,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",62.272,58.434,60.073,Wheatland County,tasmax
+2063,"High Emissions
+(SSP3-7.0)",64.557,59.813,61.648,Wheatland County,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",65.137,60.208,63.075,Wheatland County,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",63.061,58.318,60.144,Wheatland County,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",61.67,58.99,60.319,Wheatland County,tasmax
+2064,"High Emissions
+(SSP3-7.0)",62.465,59.742,60.871,Wheatland County,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",63.954,61.153,62.543,Wheatland County,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",62.588,56.75,59.457,Wheatland County,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",62.816,58.154,61.01,Wheatland County,tasmax
+2065,"High Emissions
+(SSP3-7.0)",63.997,60.435,61.612,Wheatland County,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",66.022,61.053,63.397,Wheatland County,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",63.047,58.575,59.935,Wheatland County,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",63.111,59.591,62.39,Wheatland County,tasmax
+2066,"High Emissions
+(SSP3-7.0)",63.704,59.875,61.278,Wheatland County,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",66.226,60.573,63.706,Wheatland County,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",62.194,59.688,61.261,Wheatland County,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",62.818,59.697,60.556,Wheatland County,tasmax
+2067,"High Emissions
+(SSP3-7.0)",65.849,61.813,62.88,Wheatland County,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",65.417,61.229,63.001,Wheatland County,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",63.001,58.748,59.912,Wheatland County,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",62.348,58.494,60.943,Wheatland County,tasmax
+2068,"High Emissions
+(SSP3-7.0)",64.212,59.545,61.345,Wheatland County,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",65.176,61.961,63.322,Wheatland County,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",63.501,58.999,60.973,Wheatland County,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",62.731,59.17,60.302,Wheatland County,tasmax
+2069,"High Emissions
+(SSP3-7.0)",67.02,61.587,63.282,Wheatland County,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",67.788,60.768,64.128,Wheatland County,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",61.422,58.221,60.706,Wheatland County,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",63.394,57.996,60.822,Wheatland County,tasmax
+2070,"High Emissions
+(SSP3-7.0)",65.414,62.082,62.691,Wheatland County,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",67.281,62.225,63.578,Wheatland County,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",64.693,57.8,59.984,Wheatland County,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",62.945,59.281,60.884,Wheatland County,tasmax
+2071,"High Emissions
+(SSP3-7.0)",64.711,61.792,63.268,Wheatland County,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",66.551,62.115,62.988,Wheatland County,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",64.119,59.868,60.525,Wheatland County,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",63.142,57.485,60.965,Wheatland County,tasmax
+2072,"High Emissions
+(SSP3-7.0)",65.298,60.295,61.804,Wheatland County,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",65.6,61.928,63.837,Wheatland County,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",61.784,58.039,60.455,Wheatland County,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",63.112,57.566,61.97,Wheatland County,tasmax
+2073,"High Emissions
+(SSP3-7.0)",64.39,61.362,63.533,Wheatland County,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",65.92,60.895,63.512,Wheatland County,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",63.15,57.556,60.376,Wheatland County,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",64.117,59.364,61.216,Wheatland County,tasmax
+2074,"High Emissions
+(SSP3-7.0)",64.276,60.429,61.468,Wheatland County,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",67.665,61.887,63.462,Wheatland County,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",63.605,56.802,60.399,Wheatland County,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",64.707,58.747,59.862,Wheatland County,tasmax
+2075,"High Emissions
+(SSP3-7.0)",66.315,59.489,60.996,Wheatland County,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",66.632,61.894,64.212,Wheatland County,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",62.496,56.918,59.445,Wheatland County,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",62.11,59.513,60.196,Wheatland County,tasmax
+2076,"High Emissions
+(SSP3-7.0)",66.539,61.276,63.002,Wheatland County,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",67.56,61.535,64.633,Wheatland County,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",62.904,58.792,61.245,Wheatland County,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",63.758,60.086,61.489,Wheatland County,tasmax
+2077,"High Emissions
+(SSP3-7.0)",65.396,60.212,63.118,Wheatland County,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",67.728,62.642,65.301,Wheatland County,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",62.988,59.216,59.779,Wheatland County,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",63.535,60.305,61.995,Wheatland County,tasmax
+2078,"High Emissions
+(SSP3-7.0)",65.975,60.688,63.354,Wheatland County,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",64.243,62.038,62.709,Wheatland County,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",62.641,58.875,60.156,Wheatland County,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",64.168,59.482,60.957,Wheatland County,tasmax
+2079,"High Emissions
+(SSP3-7.0)",64.321,60.031,63.049,Wheatland County,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",67.336,61.377,64.602,Wheatland County,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",60.907,58.128,58.991,Wheatland County,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",63.128,59.046,61.648,Wheatland County,tasmax
+2080,"High Emissions
+(SSP3-7.0)",66.721,61.279,62.671,Wheatland County,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",67.365,63.177,64.991,Wheatland County,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",63.827,58.031,59.441,Wheatland County,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",63.802,59.956,61.556,Wheatland County,tasmax
+2081,"High Emissions
+(SSP3-7.0)",67.267,59.333,62.002,Wheatland County,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",68.462,63.167,65.332,Wheatland County,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",63.443,59.063,61.305,Wheatland County,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",64.782,59.645,61.07,Wheatland County,tasmax
+2082,"High Emissions
+(SSP3-7.0)",66.472,59.772,62.444,Wheatland County,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",68.577,63.155,66.8,Wheatland County,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",63.063,59.241,61.854,Wheatland County,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",64.746,58.634,61.874,Wheatland County,tasmax
+2083,"High Emissions
+(SSP3-7.0)",65.667,60.479,63.459,Wheatland County,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",68.402,62.927,66.628,Wheatland County,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",63.765,57.686,59.038,Wheatland County,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",65.896,60.599,62.663,Wheatland County,tasmax
+2084,"High Emissions
+(SSP3-7.0)",68.434,61.946,64.815,Wheatland County,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",68.885,63.703,65.543,Wheatland County,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",62.516,57.435,59.343,Wheatland County,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",63.619,59.562,61.283,Wheatland County,tasmax
+2085,"High Emissions
+(SSP3-7.0)",65.487,61.212,63.048,Wheatland County,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",68.559,62.014,66.591,Wheatland County,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",62.454,59.356,61.003,Wheatland County,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",64.221,60.626,61.731,Wheatland County,tasmax
+2086,"High Emissions
+(SSP3-7.0)",67.024,61.59,63.809,Wheatland County,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",68.392,62.31,67.407,Wheatland County,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",61.618,58.237,59.635,Wheatland County,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",63.922,60.907,62.325,Wheatland County,tasmax
+2087,"High Emissions
+(SSP3-7.0)",67.95,61.599,63.939,Wheatland County,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",68.385,62.857,65.529,Wheatland County,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",63.477,57.956,59.259,Wheatland County,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",63.891,60.425,62.617,Wheatland County,tasmax
+2088,"High Emissions
+(SSP3-7.0)",67.006,61.703,63.81,Wheatland County,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",68.187,64.199,65.92,Wheatland County,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",60.904,58.511,59.625,Wheatland County,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",64.403,59.371,62.03,Wheatland County,tasmax
+2089,"High Emissions
+(SSP3-7.0)",66.824,61.331,64.929,Wheatland County,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",68.626,64.938,67.023,Wheatland County,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",61.377,58.991,60.289,Wheatland County,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",62.966,59.566,61.907,Wheatland County,tasmax
+2090,"High Emissions
+(SSP3-7.0)",68.984,63.729,65.315,Wheatland County,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",69.354,65.511,66.753,Wheatland County,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",61.921,57.996,60.419,Wheatland County,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",63.869,59.843,62.043,Wheatland County,tasmax
+2091,"High Emissions
+(SSP3-7.0)",66.718,63.631,65.858,Wheatland County,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",70.112,63.239,65.643,Wheatland County,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",62.595,57.288,60.817,Wheatland County,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",65.525,58.735,63.348,Wheatland County,tasmax
+2092,"High Emissions
+(SSP3-7.0)",66.265,62.322,64.924,Wheatland County,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",70.262,63.75,66.587,Wheatland County,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",62.876,56.537,60.54,Wheatland County,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",64.504,58.253,61.878,Wheatland County,tasmax
+2093,"High Emissions
+(SSP3-7.0)",67.272,62.568,63.332,Wheatland County,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",70.056,64.9,66.901,Wheatland County,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",63.12,58.116,58.899,Wheatland County,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",66.04,58.346,62.429,Wheatland County,tasmax
+2094,"High Emissions
+(SSP3-7.0)",67.406,62.468,64.458,Wheatland County,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",71.614,64.458,68.001,Wheatland County,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",62.574,58.506,61.29,Wheatland County,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",65.544,61.267,63.124,Wheatland County,tasmax
+2095,"High Emissions
+(SSP3-7.0)",68.89,63.116,65.448,Wheatland County,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",69.228,63.804,65.426,Wheatland County,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",62.073,58.129,60.362,Wheatland County,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",64.461,61.497,62.751,Wheatland County,tasmax
+2096,"High Emissions
+(SSP3-7.0)",66.918,62.676,66.231,Wheatland County,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",69.577,64.219,66.817,Wheatland County,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",63.43,58.217,59.31,Wheatland County,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",66.137,60.47,62.787,Wheatland County,tasmax
+2097,"High Emissions
+(SSP3-7.0)",70.034,61.726,66.013,Wheatland County,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",72.148,63.704,66.117,Wheatland County,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",62.036,57.563,59.662,Wheatland County,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",63.882,60.339,62.461,Wheatland County,tasmax
+2098,"High Emissions
+(SSP3-7.0)",67.966,62.165,64.586,Wheatland County,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",69.901,65.222,67.197,Wheatland County,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",63.766,57.254,60.58,Wheatland County,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",64.12,59.683,62.267,Wheatland County,tasmax
+2099,"High Emissions
+(SSP3-7.0)",69.344,62.647,63.898,Wheatland County,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",71.568,64.561,68.35,Wheatland County,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",62.266,57.067,59.391,Wheatland County,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",66.04,60.315,62.323,Wheatland County,tasmax
+2100,"High Emissions
+(SSP3-7.0)",66.962,61.664,65.935,Wheatland County,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",70.904,64.391,66.187,Wheatland County,tasmax

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,9.092,8.43,8.747,Lower Powder,sfcWind
+1951,Historical Emissions,9.006,8.571,8.675,Lower Powder,sfcWind
+1952,Historical Emissions,9.266,8.294,9.027,Lower Powder,sfcWind
+1953,Historical Emissions,9.239,8.521,8.875,Lower Powder,sfcWind
+1954,Historical Emissions,9.324,8.492,8.945,Lower Powder,sfcWind
+1955,Historical Emissions,9.112,8.394,8.763,Lower Powder,sfcWind
+1956,Historical Emissions,9.327,8.457,8.945,Lower Powder,sfcWind
+1957,Historical Emissions,9.281,8.574,8.979,Lower Powder,sfcWind
+1958,Historical Emissions,8.933,8.544,8.678,Lower Powder,sfcWind
+1959,Historical Emissions,9.258,8.341,8.91,Lower Powder,sfcWind
+1960,Historical Emissions,9.282,8.881,9.081,Lower Powder,sfcWind
+1961,Historical Emissions,9.273,8.463,8.92,Lower Powder,sfcWind
+1962,Historical Emissions,9.095,8.544,8.777,Lower Powder,sfcWind
+1963,Historical Emissions,9.067,8.443,8.817,Lower Powder,sfcWind
+1964,Historical Emissions,9.153,8.66,8.955,Lower Powder,sfcWind
+1965,Historical Emissions,9.134,8.531,8.7,Lower Powder,sfcWind
+1966,Historical Emissions,9.391,8.599,8.859,Lower Powder,sfcWind
+1967,Historical Emissions,9.289,8.378,8.912,Lower Powder,sfcWind
+1968,Historical Emissions,9.339,8.428,8.824,Lower Powder,sfcWind
+1969,Historical Emissions,9.122,8.445,8.594,Lower Powder,sfcWind
+1970,Historical Emissions,9.236,8.643,8.779,Lower Powder,sfcWind
+1971,Historical Emissions,9.187,8.438,8.817,Lower Powder,sfcWind
+1972,Historical Emissions,8.993,8.487,8.837,Lower Powder,sfcWind
+1973,Historical Emissions,9.135,8.56,8.68,Lower Powder,sfcWind
+1974,Historical Emissions,9.208,8.279,8.91,Lower Powder,sfcWind
+1975,Historical Emissions,9.115,8.464,8.715,Lower Powder,sfcWind
+1976,Historical Emissions,9.183,8.453,8.852,Lower Powder,sfcWind
+1977,Historical Emissions,9.039,8.381,8.624,Lower Powder,sfcWind
+1978,Historical Emissions,8.874,8.343,8.67,Lower Powder,sfcWind
+1979,Historical Emissions,8.897,8.556,8.692,Lower Powder,sfcWind
+1980,Historical Emissions,9.125,8.56,8.73,Lower Powder,sfcWind
+1981,Historical Emissions,9.002,8.676,8.754,Lower Powder,sfcWind
+1982,Historical Emissions,9.189,8.349,8.799,Lower Powder,sfcWind
+1983,Historical Emissions,9.169,8.366,8.628,Lower Powder,sfcWind
+1984,Historical Emissions,9.149,8.263,8.694,Lower Powder,sfcWind
+1985,Historical Emissions,9.115,8.397,8.769,Lower Powder,sfcWind
+1986,Historical Emissions,9.026,8.274,8.937,Lower Powder,sfcWind
+1987,Historical Emissions,8.982,8.29,8.634,Lower Powder,sfcWind
+1988,Historical Emissions,8.926,8.531,8.871,Lower Powder,sfcWind
+1989,Historical Emissions,8.969,8.472,8.687,Lower Powder,sfcWind
+1990,Historical Emissions,9.202,8.272,8.931,Lower Powder,sfcWind
+1991,Historical Emissions,8.958,8.321,8.79,Lower Powder,sfcWind
+1992,Historical Emissions,9.259,8.529,8.845,Lower Powder,sfcWind
+1993,Historical Emissions,9.022,8.478,8.557,Lower Powder,sfcWind
+1994,Historical Emissions,9.079,8.212,8.72,Lower Powder,sfcWind
+1995,Historical Emissions,9.468,8.447,8.75,Lower Powder,sfcWind
+1996,Historical Emissions,9.38,8.493,8.985,Lower Powder,sfcWind
+1997,Historical Emissions,9.264,8.276,8.498,Lower Powder,sfcWind
+1998,Historical Emissions,9.151,8.379,8.929,Lower Powder,sfcWind
+1999,Historical Emissions,8.93,8.463,8.595,Lower Powder,sfcWind
+2000,Historical Emissions,8.881,8.517,8.737,Lower Powder,sfcWind
+2001,Historical Emissions,8.934,8.255,8.695,Lower Powder,sfcWind
+2002,Historical Emissions,9.152,8.347,8.661,Lower Powder,sfcWind
+2003,Historical Emissions,8.896,8.414,8.597,Lower Powder,sfcWind
+2004,Historical Emissions,9.038,8.641,8.737,Lower Powder,sfcWind
+2005,Historical Emissions,9.228,8.314,8.731,Lower Powder,sfcWind
+2006,Historical Emissions,9.049,8.441,8.759,Lower Powder,sfcWind
+2007,Historical Emissions,9.082,8.331,8.676,Lower Powder,sfcWind
+2008,Historical Emissions,8.938,8.311,8.704,Lower Powder,sfcWind
+2009,Historical Emissions,8.918,8.416,8.733,Lower Powder,sfcWind
+2010,Historical Emissions,9.016,8.41,8.809,Lower Powder,sfcWind
+2011,Historical Emissions,8.996,8.47,8.624,Lower Powder,sfcWind
+2012,Historical Emissions,8.97,8.4,8.644,Lower Powder,sfcWind
+2013,Historical Emissions,9.038,8.41,8.598,Lower Powder,sfcWind
+2014,Historical Emissions,9.14,8.498,8.703,Lower Powder,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",9.089,8.073,8.536,Lower Powder,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",9.162,7.987,8.872,Lower Powder,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",9.288,8.131,8.528,Lower Powder,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",9.005,8.274,8.684,Lower Powder,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",8.963,7.964,8.669,Lower Powder,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",8.978,8.007,8.726,Lower Powder,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",9.228,8.278,8.587,Lower Powder,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",9.25,8.132,8.524,Lower Powder,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",9.041,7.642,8.774,Lower Powder,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",9.062,8.142,8.614,Lower Powder,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",8.983,7.883,8.293,Lower Powder,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",8.935,8.194,8.769,Lower Powder,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",9.092,7.942,8.666,Lower Powder,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",8.882,7.445,8.634,Lower Powder,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",8.888,7.751,8.461,Lower Powder,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",8.859,8.104,8.485,Lower Powder,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",8.645,7.65,8.364,Lower Powder,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",9.133,8.019,8.811,Lower Powder,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",8.996,7.576,8.382,Lower Powder,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",8.86,8.03,8.694,Lower Powder,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",8.864,7.799,8.69,Lower Powder,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",8.952,8.076,8.802,Lower Powder,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",8.887,8.233,8.729,Lower Powder,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",8.841,8.013,8.465,Lower Powder,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",8.883,8.224,8.414,Lower Powder,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",8.934,8.311,8.705,Lower Powder,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",9.061,8.222,8.829,Lower Powder,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",8.821,7.98,8.632,Lower Powder,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",9.061,8.296,8.682,Lower Powder,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",8.8,8.148,8.645,Lower Powder,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",8.708,8.096,8.475,Lower Powder,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",9.062,8.085,8.523,Lower Powder,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",8.924,8.187,8.606,Lower Powder,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",8.991,8.071,8.639,Lower Powder,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",8.819,8.096,8.538,Lower Powder,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",9.016,8.243,8.646,Lower Powder,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",9.094,8.116,8.425,Lower Powder,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",8.815,8.008,8.519,Lower Powder,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",8.953,8.136,8.615,Lower Powder,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",8.899,8.244,8.725,Lower Powder,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",9.04,8.171,8.768,Lower Powder,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",9.143,7.993,8.543,Lower Powder,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",8.969,7.86,8.599,Lower Powder,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",8.94,8.124,8.799,Lower Powder,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",9.143,8.041,8.707,Lower Powder,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",8.883,8.379,8.71,Lower Powder,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",8.545,7.977,8.31,Lower Powder,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",8.876,8.128,8.401,Lower Powder,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",9.021,7.961,8.76,Lower Powder,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",8.959,8.206,8.749,Lower Powder,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",8.895,8.041,8.322,Lower Powder,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",9.008,7.905,8.594,Lower Powder,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",8.923,8.025,8.785,Lower Powder,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",8.908,7.816,8.298,Lower Powder,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",8.936,8.016,8.557,Lower Powder,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",8.739,8.17,8.629,Lower Powder,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",8.704,8.035,8.355,Lower Powder,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",8.838,7.801,8.715,Lower Powder,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",8.78,8.097,8.653,Lower Powder,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",8.731,7.863,8.401,Lower Powder,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",8.946,8.046,8.518,Lower Powder,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",9.032,8.122,8.863,Lower Powder,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",8.94,8.157,8.523,Lower Powder,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",8.794,8.082,8.397,Lower Powder,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",9.148,8.274,8.604,Lower Powder,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",8.899,8.246,8.684,Lower Powder,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",8.907,8.076,8.606,Lower Powder,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",8.879,8.092,8.625,Lower Powder,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",8.88,7.888,8.561,Lower Powder,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",9.095,8.142,8.597,Lower Powder,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",8.881,8.344,8.647,Lower Powder,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",9.073,7.975,8.738,Lower Powder,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",9.003,8.069,8.798,Lower Powder,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",8.742,8.083,8.591,Lower Powder,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",8.948,7.852,8.301,Lower Powder,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",8.853,7.915,8.536,Lower Powder,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",8.942,8.016,8.655,Lower Powder,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",8.696,7.777,8.478,Lower Powder,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",8.895,7.949,8.539,Lower Powder,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",9.208,8.182,8.775,Lower Powder,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",8.995,8.119,8.729,Lower Powder,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",9.001,8.115,8.76,Lower Powder,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",8.991,8.194,8.556,Lower Powder,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",9.103,8.036,8.68,Lower Powder,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",8.767,7.973,8.472,Lower Powder,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",8.993,8.545,8.812,Lower Powder,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",8.745,7.896,8.415,Lower Powder,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",8.75,8.035,8.406,Lower Powder,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",8.852,7.962,8.356,Lower Powder,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",9.067,8.123,8.618,Lower Powder,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",8.786,7.985,8.383,Lower Powder,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",9.162,8.118,8.639,Lower Powder,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",9.101,8.125,8.682,Lower Powder,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",8.912,8.014,8.659,Lower Powder,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",8.928,8.255,8.693,Lower Powder,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",8.726,8.182,8.358,Lower Powder,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",8.88,8.134,8.55,Lower Powder,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",8.963,8.402,8.802,Lower Powder,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",9.001,7.986,8.437,Lower Powder,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",8.818,8.185,8.527,Lower Powder,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",8.971,7.892,8.504,Lower Powder,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",8.988,8.174,8.626,Lower Powder,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",8.845,8.091,8.373,Lower Powder,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",8.872,7.849,8.452,Lower Powder,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",8.741,8.183,8.61,Lower Powder,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",8.815,8.097,8.594,Lower Powder,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",8.609,7.993,8.357,Lower Powder,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",8.838,7.928,8.578,Lower Powder,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",9.029,8.288,8.549,Lower Powder,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",8.843,8.136,8.49,Lower Powder,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",9.096,8.025,8.898,Lower Powder,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",8.841,8.18,8.638,Lower Powder,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",8.83,8.024,8.716,Lower Powder,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",9.025,8.22,8.673,Lower Powder,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",8.913,8.021,8.812,Lower Powder,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",8.952,8.202,8.586,Lower Powder,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",8.823,7.857,8.572,Lower Powder,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",9.056,8.069,8.718,Lower Powder,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",8.877,8.343,8.608,Lower Powder,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",8.81,7.753,8.371,Lower Powder,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",8.569,7.998,8.219,Lower Powder,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",9.077,8.072,8.674,Lower Powder,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",9.104,7.913,8.505,Lower Powder,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",8.547,7.757,8.433,Lower Powder,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",9.035,7.89,8.678,Lower Powder,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",8.94,8.378,8.731,Lower Powder,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",8.735,8.032,8.462,Lower Powder,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",9.114,7.361,8.682,Lower Powder,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",9.006,7.53,8.522,Lower Powder,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",8.964,7.892,8.553,Lower Powder,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",8.675,7.92,8.407,Lower Powder,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",9.195,7.761,8.902,Lower Powder,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",8.885,8.016,8.548,Lower Powder,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",8.802,7.628,8.427,Lower Powder,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",8.904,8.232,8.694,Lower Powder,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",9.058,8.104,8.614,Lower Powder,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",9.097,8.177,8.733,Lower Powder,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",9.289,8.225,8.666,Lower Powder,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",8.805,8.207,8.503,Lower Powder,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",9.002,8.124,8.372,Lower Powder,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",8.802,7.903,8.355,Lower Powder,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",9.198,8.132,8.672,Lower Powder,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",8.782,8.153,8.553,Lower Powder,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",8.903,7.753,8.462,Lower Powder,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",8.812,8.111,8.589,Lower Powder,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",9.485,8.08,9.036,Lower Powder,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",8.712,7.931,8.334,Lower Powder,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",9.067,8.268,8.793,Lower Powder,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",8.981,7.789,8.457,Lower Powder,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",8.962,8.25,8.721,Lower Powder,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",8.781,8.12,8.387,Lower Powder,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",8.864,7.561,8.439,Lower Powder,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",9.022,7.864,8.753,Lower Powder,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",8.917,8.147,8.626,Lower Powder,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",8.811,7.563,8.464,Lower Powder,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",8.857,8.407,8.74,Lower Powder,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",9.025,7.73,8.659,Lower Powder,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",8.835,7.901,8.742,Lower Powder,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",8.621,7.904,8.4,Lower Powder,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",8.967,7.891,8.432,Lower Powder,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",8.886,8.021,8.652,Lower Powder,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",9.06,8.102,8.575,Lower Powder,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",9.005,8.192,8.559,Lower Powder,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",8.842,7.872,8.447,Lower Powder,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",8.997,8.267,8.622,Lower Powder,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",9.075,8.209,8.636,Lower Powder,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",8.856,8.079,8.617,Lower Powder,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",8.73,7.889,8.226,Lower Powder,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",8.776,7.969,8.638,Lower Powder,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",9.253,8.108,8.615,Lower Powder,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",8.725,7.684,8.484,Lower Powder,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",8.816,8.034,8.422,Lower Powder,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",9.143,8.051,8.869,Lower Powder,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",9.285,7.917,8.507,Lower Powder,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",8.935,7.713,8.342,Lower Powder,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",8.854,8.089,8.409,Lower Powder,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",9.043,8.156,8.78,Lower Powder,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",9.179,7.907,8.54,Lower Powder,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",8.945,8.082,8.594,Lower Powder,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",8.747,7.604,8.468,Lower Powder,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",8.892,8.007,8.518,Lower Powder,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",9.006,7.707,8.673,Lower Powder,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",8.802,7.967,8.544,Lower Powder,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",9.071,7.666,8.508,Lower Powder,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",8.884,7.946,8.736,Lower Powder,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",9.065,8.262,8.847,Lower Powder,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",8.736,7.922,8.295,Lower Powder,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",8.968,7.986,8.558,Lower Powder,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",9.15,8.178,8.696,Lower Powder,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",8.866,8.319,8.69,Lower Powder,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",8.688,8.068,8.484,Lower Powder,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",9.037,7.955,8.521,Lower Powder,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",8.97,8.258,8.545,Lower Powder,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",8.915,8.236,8.777,Lower Powder,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",8.936,7.977,8.722,Lower Powder,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",8.741,7.872,8.426,Lower Powder,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",9.075,8.075,8.64,Lower Powder,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",8.77,8.233,8.564,Lower Powder,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",8.705,7.826,8.327,Lower Powder,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",8.745,8.086,8.48,Lower Powder,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",8.888,7.962,8.612,Lower Powder,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",8.801,7.903,8.68,Lower Powder,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",8.985,8.068,8.706,Lower Powder,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",8.811,7.68,8.413,Lower Powder,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",8.913,7.858,8.45,Lower Powder,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",8.956,7.998,8.507,Lower Powder,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",9.022,8.002,8.315,Lower Powder,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",8.844,8.169,8.563,Lower Powder,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",8.714,7.935,8.382,Lower Powder,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",8.981,8.227,8.758,Lower Powder,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",9.152,8.112,8.425,Lower Powder,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",8.775,7.572,8.51,Lower Powder,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",8.825,8.357,8.623,Lower Powder,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",8.938,8.311,8.709,Lower Powder,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",9.013,8.067,8.643,Lower Powder,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",8.946,7.828,8.655,Lower Powder,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",8.992,8.122,8.44,Lower Powder,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",9.213,8.178,8.727,Lower Powder,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",9.132,7.784,8.457,Lower Powder,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",8.82,7.885,8.389,Lower Powder,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",8.721,7.953,8.457,Lower Powder,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",9.089,7.944,8.547,Lower Powder,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",8.998,8.05,8.471,Lower Powder,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",8.885,7.761,8.464,Lower Powder,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",9.091,7.971,8.569,Lower Powder,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",9.137,8.13,8.716,Lower Powder,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",9.381,7.832,8.585,Lower Powder,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",9.106,8.053,8.725,Lower Powder,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",8.965,7.929,8.567,Lower Powder,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",9.131,7.983,8.785,Lower Powder,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",8.959,8.198,8.757,Lower Powder,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",8.998,7.971,8.464,Lower Powder,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",8.854,8.049,8.617,Lower Powder,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",8.88,7.875,8.633,Lower Powder,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",8.838,8.057,8.699,Lower Powder,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",8.785,8.015,8.398,Lower Powder,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",8.758,7.822,8.556,Lower Powder,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",9.168,8.023,8.706,Lower Powder,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",8.564,7.862,8.332,Lower Powder,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",9.081,7.589,8.291,Lower Powder,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",8.898,8.111,8.504,Lower Powder,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",9.106,8.371,8.971,Lower Powder,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",9.171,7.936,8.528,Lower Powder,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",8.76,7.743,8.319,Lower Powder,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",9.246,8.075,8.484,Lower Powder,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",9.084,8.044,8.608,Lower Powder,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",8.987,7.957,8.607,Lower Powder,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",9.21,7.945,8.605,Lower Powder,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",8.869,7.936,8.595,Lower Powder,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",8.911,8.121,8.6,Lower Powder,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",9.132,7.89,8.494,Lower Powder,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",9.257,8.205,8.456,Lower Powder,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",9.147,8.116,8.536,Lower Powder,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",9.054,8.287,8.787,Lower Powder,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",8.954,7.775,8.542,Lower Powder,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",8.94,7.924,8.506,Lower Powder,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",9.172,7.978,8.758,Lower Powder,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",9.038,7.915,8.444,Lower Powder,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",9.025,7.588,8.517,Lower Powder,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",8.737,8.043,8.423,Lower Powder,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",8.781,8.11,8.522,Lower Powder,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",8.927,8.045,8.504,Lower Powder,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",8.822,7.761,8.328,Lower Powder,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",8.895,7.852,8.696,Lower Powder,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",9.097,8.092,8.618,Lower Powder,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",9.288,8.133,8.867,Lower Powder,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",8.821,8.007,8.391,Lower Powder,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",8.907,7.619,8.362,Lower Powder,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",8.943,7.942,8.517,Lower Powder,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",8.775,7.729,8.508,Lower Powder,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",8.78,7.91,8.408,Lower Powder,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",8.853,7.774,8.393,Lower Powder,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",9.395,8.005,8.814,Lower Powder,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",9.182,8.022,8.652,Lower Powder,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",8.842,7.769,8.195,Lower Powder,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",8.775,7.991,8.436,Lower Powder,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",9.187,8.058,8.555,Lower Powder,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",9.384,8.19,8.849,Lower Powder,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",8.745,7.77,8.517,Lower Powder,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",8.918,7.998,8.557,Lower Powder,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",9.319,7.994,8.57,Lower Powder,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",8.719,8.123,8.493,Lower Powder,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",8.858,7.843,8.34,Lower Powder,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",8.854,7.836,8.441,Lower Powder,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",8.958,8.045,8.326,Lower Powder,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",9.093,8.24,8.665,Lower Powder,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",8.68,7.852,8.519,Lower Powder,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",9.152,7.619,8.455,Lower Powder,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",8.928,7.901,8.575,Lower Powder,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",9.57,7.79,8.599,Lower Powder,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",9.088,7.651,8.473,Lower Powder,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",8.848,7.988,8.505,Lower Powder,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",8.851,7.883,8.703,Lower Powder,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",9.121,8.036,8.785,Lower Powder,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",8.874,7.569,8.61,Lower Powder,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",8.805,7.983,8.465,Lower Powder,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",8.848,7.978,8.483,Lower Powder,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",8.856,7.867,8.662,Lower Powder,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",9.049,8.074,8.78,Lower Powder,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",8.833,7.86,8.353,Lower Powder,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",8.782,7.98,8.422,Lower Powder,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",8.812,8.114,8.681,Lower Powder,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",8.836,8.049,8.647,Lower Powder,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",8.936,7.882,8.233,Lower Powder,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",8.932,8.041,8.623,Lower Powder,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",9.27,8.265,8.658,Lower Powder,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",8.948,7.882,8.476,Lower Powder,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",8.924,7.653,8.38,Lower Powder,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",8.994,8.148,8.8,Lower Powder,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",8.798,7.893,8.522,Lower Powder,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",8.953,7.874,8.454,Lower Powder,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",9.183,7.958,8.328,Lower Powder,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",8.999,8.171,8.557,Lower Powder,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",8.96,8.023,8.399,Lower Powder,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",8.798,7.728,8.034,Lower Powder,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",9.042,7.928,8.338,Lower Powder,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",9.272,7.92,8.559,Lower Powder,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",8.996,8.1,8.597,Lower Powder,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",8.854,7.734,8.403,Lower Powder,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",9.042,7.911,8.327,Lower Powder,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",8.969,8.18,8.579,Lower Powder,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",9.245,7.655,8.572,Lower Powder,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",9.032,8.047,8.38,Lower Powder,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",8.946,7.901,8.287,Lower Powder,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",9.422,8.017,8.625,Lower Powder,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",9.229,8.062,8.745,Lower Powder,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",8.866,7.914,8.594,Lower Powder,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",9.059,8.091,8.595,Lower Powder,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",9.019,7.972,8.627,Lower Powder,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",9.018,8.016,8.535,Lower Powder,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",8.955,7.924,8.475,Lower Powder,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",9.251,7.884,8.383,Lower Powder,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",8.997,8.237,8.756,Lower Powder,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",9.367,8.034,8.762,Lower Powder,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",8.961,7.715,8.58,Lower Powder,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",9.019,7.519,8.187,Lower Powder,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",8.758,8.021,8.583,Lower Powder,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",9.084,8.149,8.749,Lower Powder,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",8.512,7.989,8.204,Lower Powder,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",8.832,7.68,8.332,Lower Powder,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",9.126,8.038,8.678,Lower Powder,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",9.28,7.904,8.579,Lower Powder,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",9.09,8.08,8.288,Lower Powder,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",9.532,7.868,8.298,Lower Powder,sfcWind

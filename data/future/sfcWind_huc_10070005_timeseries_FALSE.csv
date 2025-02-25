@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,7.458,6.907,7.051,Stillwater,sfcWind
+1951,Historical Emissions,7.369,6.853,7.185,Stillwater,sfcWind
+1952,Historical Emissions,7.363,6.884,7.124,Stillwater,sfcWind
+1953,Historical Emissions,7.56,6.814,7.2,Stillwater,sfcWind
+1954,Historical Emissions,7.675,6.801,7.346,Stillwater,sfcWind
+1955,Historical Emissions,7.302,6.76,7.184,Stillwater,sfcWind
+1956,Historical Emissions,7.813,6.943,7.354,Stillwater,sfcWind
+1957,Historical Emissions,7.864,7.075,7.293,Stillwater,sfcWind
+1958,Historical Emissions,7.586,6.865,6.997,Stillwater,sfcWind
+1959,Historical Emissions,7.507,6.851,7.236,Stillwater,sfcWind
+1960,Historical Emissions,7.595,7.126,7.432,Stillwater,sfcWind
+1961,Historical Emissions,7.571,7.044,7.263,Stillwater,sfcWind
+1962,Historical Emissions,7.339,6.939,7.256,Stillwater,sfcWind
+1963,Historical Emissions,7.422,6.788,7.152,Stillwater,sfcWind
+1964,Historical Emissions,7.624,6.992,7.151,Stillwater,sfcWind
+1965,Historical Emissions,7.631,7.024,7.171,Stillwater,sfcWind
+1966,Historical Emissions,7.619,7.121,7.24,Stillwater,sfcWind
+1967,Historical Emissions,7.533,6.868,7.283,Stillwater,sfcWind
+1968,Historical Emissions,7.638,6.789,7.153,Stillwater,sfcWind
+1969,Historical Emissions,7.603,6.859,7.161,Stillwater,sfcWind
+1970,Historical Emissions,7.504,6.99,7.172,Stillwater,sfcWind
+1971,Historical Emissions,7.559,7.009,7.215,Stillwater,sfcWind
+1972,Historical Emissions,7.42,7.121,7.325,Stillwater,sfcWind
+1973,Historical Emissions,7.443,6.802,7.211,Stillwater,sfcWind
+1974,Historical Emissions,7.544,6.626,7.255,Stillwater,sfcWind
+1975,Historical Emissions,7.557,6.81,7.197,Stillwater,sfcWind
+1976,Historical Emissions,7.47,7.04,7.319,Stillwater,sfcWind
+1977,Historical Emissions,7.401,6.774,6.975,Stillwater,sfcWind
+1978,Historical Emissions,7.264,6.936,7.124,Stillwater,sfcWind
+1979,Historical Emissions,7.406,7.014,7.275,Stillwater,sfcWind
+1980,Historical Emissions,7.752,6.837,7.271,Stillwater,sfcWind
+1981,Historical Emissions,7.497,6.961,7.229,Stillwater,sfcWind
+1982,Historical Emissions,7.521,6.698,7.269,Stillwater,sfcWind
+1983,Historical Emissions,7.777,6.825,7.044,Stillwater,sfcWind
+1984,Historical Emissions,7.409,6.813,7.222,Stillwater,sfcWind
+1985,Historical Emissions,7.295,6.941,7.096,Stillwater,sfcWind
+1986,Historical Emissions,7.472,6.741,7.172,Stillwater,sfcWind
+1987,Historical Emissions,7.502,6.669,7.118,Stillwater,sfcWind
+1988,Historical Emissions,7.399,7.024,7.243,Stillwater,sfcWind
+1989,Historical Emissions,7.283,6.839,7.1,Stillwater,sfcWind
+1990,Historical Emissions,7.492,6.415,7.195,Stillwater,sfcWind
+1991,Historical Emissions,7.439,6.685,7.245,Stillwater,sfcWind
+1992,Historical Emissions,7.491,7.124,7.184,Stillwater,sfcWind
+1993,Historical Emissions,7.18,6.677,7.015,Stillwater,sfcWind
+1994,Historical Emissions,7.481,6.772,6.954,Stillwater,sfcWind
+1995,Historical Emissions,7.542,6.906,7.271,Stillwater,sfcWind
+1996,Historical Emissions,7.497,6.671,7.28,Stillwater,sfcWind
+1997,Historical Emissions,7.38,6.684,7.13,Stillwater,sfcWind
+1998,Historical Emissions,7.303,6.683,7.034,Stillwater,sfcWind
+1999,Historical Emissions,7.169,6.829,6.996,Stillwater,sfcWind
+2000,Historical Emissions,7.142,6.959,7.007,Stillwater,sfcWind
+2001,Historical Emissions,7.508,6.707,6.937,Stillwater,sfcWind
+2002,Historical Emissions,7.574,6.789,7.088,Stillwater,sfcWind
+2003,Historical Emissions,7.162,6.71,6.895,Stillwater,sfcWind
+2004,Historical Emissions,7.472,6.863,7.225,Stillwater,sfcWind
+2005,Historical Emissions,7.404,6.65,7.122,Stillwater,sfcWind
+2006,Historical Emissions,7.527,6.774,7.107,Stillwater,sfcWind
+2007,Historical Emissions,7.51,6.718,7.131,Stillwater,sfcWind
+2008,Historical Emissions,7.286,6.579,6.948,Stillwater,sfcWind
+2009,Historical Emissions,7.49,6.858,7.203,Stillwater,sfcWind
+2010,Historical Emissions,7.348,6.846,7.056,Stillwater,sfcWind
+2011,Historical Emissions,7.294,6.864,6.959,Stillwater,sfcWind
+2012,Historical Emissions,7.279,6.725,7.003,Stillwater,sfcWind
+2013,Historical Emissions,7.337,6.687,7.068,Stillwater,sfcWind
+2014,Historical Emissions,7.358,6.85,7.09,Stillwater,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",7.482,6.499,7.155,Stillwater,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",7.44,6.266,7.083,Stillwater,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",7.418,6.602,6.967,Stillwater,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",7.449,6.713,6.985,Stillwater,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",7.512,6.39,6.945,Stillwater,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",7.356,6.689,6.91,Stillwater,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",7.518,6.424,7.045,Stillwater,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",7.98,6.521,6.817,Stillwater,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",7.447,6.28,7.258,Stillwater,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",7.168,6.649,6.96,Stillwater,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",7.276,6.458,6.694,Stillwater,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",7.344,6.689,6.987,Stillwater,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",7.632,6.556,7.119,Stillwater,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",7.283,6.269,6.92,Stillwater,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",7.149,6.424,6.956,Stillwater,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",7.191,6.436,7.001,Stillwater,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",7.092,6.404,6.662,Stillwater,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",7.75,6.572,7.004,Stillwater,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",7.259,6.362,6.913,Stillwater,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",7.44,6.552,6.858,Stillwater,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",7.05,6.473,6.759,Stillwater,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",7.505,6.62,7.342,Stillwater,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",7.321,6.734,7.03,Stillwater,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",7.181,6.454,6.909,Stillwater,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",7.334,6.586,6.896,Stillwater,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",7.298,6.465,7.057,Stillwater,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",7.412,6.471,6.994,Stillwater,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",7.17,6.541,6.959,Stillwater,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",7.579,6.608,6.897,Stillwater,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",7,6.509,6.903,Stillwater,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",7.207,6.374,6.725,Stillwater,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",7.38,6.481,6.753,Stillwater,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",7.395,6.602,7.1,Stillwater,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",7.301,6.69,6.977,Stillwater,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",7.429,6.611,7.168,Stillwater,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",7.568,6.504,7.019,Stillwater,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",7.397,6.483,6.898,Stillwater,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",7.141,6.566,6.781,Stillwater,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",7.472,6.574,7.054,Stillwater,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",7.416,6.527,6.956,Stillwater,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",7.281,6.441,6.901,Stillwater,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",7.628,6.268,6.981,Stillwater,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",7.459,6.346,6.934,Stillwater,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",7.293,6.596,7.089,Stillwater,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",7.378,6.649,6.886,Stillwater,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",7.335,6.75,6.989,Stillwater,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",7.083,6.17,6.804,Stillwater,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",7.416,6.704,6.996,Stillwater,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",7.486,6.531,6.952,Stillwater,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",7.375,6.297,7.094,Stillwater,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",7.254,6.594,6.908,Stillwater,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",7.336,6.604,6.986,Stillwater,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",7.214,6.351,7.064,Stillwater,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",7.142,6.287,6.907,Stillwater,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",7.341,6.521,7.097,Stillwater,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",7.067,6.565,6.869,Stillwater,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",7.255,6.547,6.91,Stillwater,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",7.247,6.26,7.088,Stillwater,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",7.379,6.506,7.192,Stillwater,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",7.15,6.325,6.721,Stillwater,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",7.236,6.351,6.998,Stillwater,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",7.705,6.534,7.094,Stillwater,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",7.317,6.68,7.096,Stillwater,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",7.163,6.459,6.857,Stillwater,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",7.459,6.595,6.955,Stillwater,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",7.512,6.598,7.113,Stillwater,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",7.376,6.609,6.945,Stillwater,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",7.158,6.519,6.809,Stillwater,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",7.167,6.395,6.997,Stillwater,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",7.47,6.509,6.967,Stillwater,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",7.314,6.736,7.094,Stillwater,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",7.309,6.532,7.138,Stillwater,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",7.547,6.721,7.022,Stillwater,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",7.257,6.503,7.162,Stillwater,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",7.203,6.297,6.688,Stillwater,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",7.233,6.44,6.974,Stillwater,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",7.416,6.606,7.122,Stillwater,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",7.266,6.345,6.847,Stillwater,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",7.295,6.421,7.031,Stillwater,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",7.458,6.71,7.217,Stillwater,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",7.44,6.689,6.885,Stillwater,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",7.257,6.505,6.987,Stillwater,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",7.249,6.611,7.04,Stillwater,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",7.531,6.538,7.166,Stillwater,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",6.969,6.303,6.823,Stillwater,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",7.404,6.688,7.084,Stillwater,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",7.111,6.463,6.987,Stillwater,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",7.236,6.25,6.997,Stillwater,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",7.224,6.219,6.816,Stillwater,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",7.288,6.427,6.99,Stillwater,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",7.145,6.62,6.827,Stillwater,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",7.648,6.673,6.982,Stillwater,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",7.472,6.769,6.894,Stillwater,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",7.326,6.51,7.022,Stillwater,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",7.222,6.714,6.971,Stillwater,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",7.203,6.592,6.965,Stillwater,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",7.063,6.597,6.956,Stillwater,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",7.176,6.457,7.046,Stillwater,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",7.415,6.397,7.212,Stillwater,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",7.157,6.359,6.849,Stillwater,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",7.378,6.353,6.96,Stillwater,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",7.328,6.451,7.019,Stillwater,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",7.57,6.509,6.982,Stillwater,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",7.148,6.242,6.852,Stillwater,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",7.249,6.619,7.022,Stillwater,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",7.222,6.618,6.905,Stillwater,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",7.08,6.441,6.859,Stillwater,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",7.325,6.447,6.911,Stillwater,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",7.268,6.546,6.974,Stillwater,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",7.23,6.644,6.967,Stillwater,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",7.248,6.49,6.949,Stillwater,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",7.438,6.4,6.87,Stillwater,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",7.26,6.297,7.048,Stillwater,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",7.553,6.268,7.187,Stillwater,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",7.5,6.482,7.258,Stillwater,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",7.16,6.636,7.007,Stillwater,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",7.43,6.255,6.897,Stillwater,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",7.309,6.476,6.953,Stillwater,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",7.405,6.747,7.069,Stillwater,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",7.158,6.472,6.849,Stillwater,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",6.968,6.56,6.703,Stillwater,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",7.334,6.479,7.074,Stillwater,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",7.591,6.449,6.833,Stillwater,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",7.01,6.369,6.823,Stillwater,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",7.066,6.386,6.863,Stillwater,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",7.152,6.182,7.058,Stillwater,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",7.07,6.683,6.935,Stillwater,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",7.291,5.958,7.061,Stillwater,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",7.13,6.194,6.992,Stillwater,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",7.107,6.362,7.019,Stillwater,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",7.462,6.541,6.866,Stillwater,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",7.613,6.29,7.056,Stillwater,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",7.278,6.555,6.924,Stillwater,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",6.873,6.195,6.66,Stillwater,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",7.382,6.537,6.877,Stillwater,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",7.402,6.539,6.937,Stillwater,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",7.358,6.414,6.912,Stillwater,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",7.37,6.736,6.909,Stillwater,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",7.5,6.468,6.838,Stillwater,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",7.148,6.39,6.73,Stillwater,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",7.123,6.412,6.764,Stillwater,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",7.35,6.403,7.09,Stillwater,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",7.389,6.661,7.026,Stillwater,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",7.17,6.317,6.935,Stillwater,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",7.056,6.615,6.976,Stillwater,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",7.683,6.599,7.106,Stillwater,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",7.152,6.454,6.89,Stillwater,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",7.414,6.698,6.947,Stillwater,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",7.232,6.476,6.771,Stillwater,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",7.242,6.499,6.86,Stillwater,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",7.181,6.344,6.74,Stillwater,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",7.177,6.036,6.846,Stillwater,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",7.306,6.453,7.04,Stillwater,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",7.507,6.416,6.877,Stillwater,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",7.374,6.367,6.96,Stillwater,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",7.123,6.475,7.078,Stillwater,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",7.266,6.057,6.847,Stillwater,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",7.41,6.209,7.085,Stillwater,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",7.366,6.497,6.863,Stillwater,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",7.191,6.624,6.955,Stillwater,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",7.27,6.657,7.023,Stillwater,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",7.174,6.563,6.796,Stillwater,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",7.252,6.595,6.959,Stillwater,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",7.172,6.219,6.788,Stillwater,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",7.2,6.72,7.092,Stillwater,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",7.117,6.509,6.793,Stillwater,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",6.94,6.501,6.766,Stillwater,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",6.864,6.322,6.687,Stillwater,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",7.186,6.362,6.967,Stillwater,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",7.35,6.541,7.151,Stillwater,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",7.223,6.313,6.96,Stillwater,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",7.01,6.262,6.643,Stillwater,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",7.236,6.473,7.019,Stillwater,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",7.345,6.361,6.871,Stillwater,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",7.456,6.204,6.85,Stillwater,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",7.213,6.396,6.857,Stillwater,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",7.252,6.465,7.068,Stillwater,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",7.207,6.288,6.894,Stillwater,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",7.218,6.581,7.128,Stillwater,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",7.139,6.386,6.749,Stillwater,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",7.215,6.545,6.97,Stillwater,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",7.358,6.192,6.974,Stillwater,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",7.201,6.526,6.816,Stillwater,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",7.188,6.315,6.693,Stillwater,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",7.303,6.449,6.863,Stillwater,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",7.318,6.281,7.075,Stillwater,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",7.287,6.376,6.808,Stillwater,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",7.251,6.424,6.856,Stillwater,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",7.297,6.656,6.87,Stillwater,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",7.517,6.179,6.998,Stillwater,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",7.182,6.439,6.78,Stillwater,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",7.228,6.291,6.904,Stillwater,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",7.324,6.614,6.977,Stillwater,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",7.261,6.28,6.998,Stillwater,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",7.248,6.464,6.91,Stillwater,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",7.323,6.379,6.925,Stillwater,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",7.394,6.377,6.915,Stillwater,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",7.146,6.332,6.874,Stillwater,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",7.403,6.328,6.693,Stillwater,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",7.155,6.457,6.921,Stillwater,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",7.694,6.292,6.938,Stillwater,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",7.082,6.349,6.643,Stillwater,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",7.349,6.657,7.053,Stillwater,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",7.372,6.329,6.839,Stillwater,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",7.045,6.374,6.792,Stillwater,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",7.12,6.566,7.021,Stillwater,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",7.631,6.264,6.931,Stillwater,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",7.065,6.55,6.987,Stillwater,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",6.903,6.488,6.77,Stillwater,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",7.441,6.65,7.143,Stillwater,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",7.329,6.264,6.93,Stillwater,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",7.05,6.124,6.8,Stillwater,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",7.252,6.643,7.051,Stillwater,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",7.276,6.338,7.051,Stillwater,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",7.572,6.743,6.921,Stillwater,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",7.146,6.18,6.958,Stillwater,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",7.233,6.462,7.029,Stillwater,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",7.13,6.55,6.991,Stillwater,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",7.267,6.203,6.776,Stillwater,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",7.137,6.169,6.721,Stillwater,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",7.178,6.487,6.883,Stillwater,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",7.25,6.107,6.866,Stillwater,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",7.778,6.488,6.889,Stillwater,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",6.892,6.379,6.797,Stillwater,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",7.405,6.417,7.001,Stillwater,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",7.258,6.611,7.015,Stillwater,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",7.627,6.343,6.909,Stillwater,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",7.377,6.336,6.795,Stillwater,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",7.293,6.357,6.904,Stillwater,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",7.13,6.228,6.814,Stillwater,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",7.195,6.699,7.002,Stillwater,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",7.094,6.401,6.818,Stillwater,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",7.189,6.494,7.01,Stillwater,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",7.395,6.195,6.947,Stillwater,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",7.211,6.488,6.906,Stillwater,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",6.899,6.419,6.725,Stillwater,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",7.163,6.165,6.999,Stillwater,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",7.316,6.422,6.902,Stillwater,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",7.026,6.268,6.87,Stillwater,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",7.129,6.107,6.689,Stillwater,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",7.095,6.34,6.904,Stillwater,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",7.34,6.633,7.143,Stillwater,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",7.507,6.553,7.073,Stillwater,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",7.125,6.049,6.656,Stillwater,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",7.554,6.49,7.01,Stillwater,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",7.268,6.291,7.001,Stillwater,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",7.344,6.601,6.889,Stillwater,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",7.459,6.385,6.979,Stillwater,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",7.074,6.359,6.939,Stillwater,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",6.966,6.22,6.822,Stillwater,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",7.261,6.086,7.027,Stillwater,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",7.259,6.641,7.028,Stillwater,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",7.266,6.603,6.91,Stillwater,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",7.376,6.611,7.105,Stillwater,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",7.301,6.137,6.724,Stillwater,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",7.354,6.206,6.815,Stillwater,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",7.43,6.468,7.082,Stillwater,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",7.12,6.514,6.855,Stillwater,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",7.099,6.398,6.786,Stillwater,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",7.103,6.313,6.882,Stillwater,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",7.15,6.655,6.928,Stillwater,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",7.422,6.093,7.161,Stillwater,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",6.923,6.386,6.794,Stillwater,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",7.047,5.935,6.634,Stillwater,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",7.097,6.466,6.911,Stillwater,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",7.331,6.368,6.961,Stillwater,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",7.514,6.547,6.798,Stillwater,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",7.194,6.118,6.582,Stillwater,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",7.277,6.486,6.889,Stillwater,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",7.241,6.271,6.765,Stillwater,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",7.422,6.284,6.709,Stillwater,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",7.106,6.205,6.946,Stillwater,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",7.344,6.512,6.981,Stillwater,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",7.387,6.266,6.98,Stillwater,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",7.098,6.383,6.757,Stillwater,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",7.071,6.263,6.753,Stillwater,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",7.372,6.371,7.115,Stillwater,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",7.401,6.573,7.051,Stillwater,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",7.146,6.48,6.905,Stillwater,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",7.037,6.244,6.992,Stillwater,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",7.401,6.501,6.858,Stillwater,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",7.296,6.28,6.779,Stillwater,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",7.458,6.221,6.995,Stillwater,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",7.133,6.302,6.759,Stillwater,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",6.978,6.453,6.786,Stillwater,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",7.182,6.441,6.878,Stillwater,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",7.251,6.265,6.641,Stillwater,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",7.253,5.905,6.635,Stillwater,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",7.364,6.326,6.89,Stillwater,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",7.168,6.41,6.977,Stillwater,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",7.477,6.277,7.064,Stillwater,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",6.969,6.323,6.774,Stillwater,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",7.419,6.48,6.982,Stillwater,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",7.233,6.352,6.859,Stillwater,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",7.072,6.536,6.682,Stillwater,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",6.909,6.358,6.638,Stillwater,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",7.134,6.659,7.074,Stillwater,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",7.314,6.297,6.664,Stillwater,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",7.333,6.323,6.874,Stillwater,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",7.111,6.324,6.807,Stillwater,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",7.098,6.31,6.829,Stillwater,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",7.247,6.125,6.948,Stillwater,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",7.508,6.534,6.873,Stillwater,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",6.885,6.012,6.596,Stillwater,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",7.253,6.309,6.987,Stillwater,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",7.269,6.477,7.117,Stillwater,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",7.169,6.261,6.895,Stillwater,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",6.97,6.278,6.785,Stillwater,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",7.135,6.499,6.877,Stillwater,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",7.086,6.367,6.775,Stillwater,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",7.375,6.392,6.773,Stillwater,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",7.199,6.464,6.892,Stillwater,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",7.421,6.503,7.149,Stillwater,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",6.935,6.387,6.782,Stillwater,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",7.206,6.048,6.612,Stillwater,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",7.015,6.112,6.872,Stillwater,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",7.39,6.639,6.877,Stillwater,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",7.392,6.67,6.946,Stillwater,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",7.332,6.12,6.832,Stillwater,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",7.098,6.184,6.664,Stillwater,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",7.287,6.335,7.02,Stillwater,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",7.336,6.163,6.761,Stillwater,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",7.139,6.467,6.809,Stillwater,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",7.049,6.28,6.74,Stillwater,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",7.232,6.269,7.038,Stillwater,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",7.377,6.133,7.104,Stillwater,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",7.063,6.32,6.855,Stillwater,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",7.056,6.248,6.769,Stillwater,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",7.438,6.33,7.04,Stillwater,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",7.14,6.363,6.864,Stillwater,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",7.268,6.269,6.842,Stillwater,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",7.225,6.425,6.88,Stillwater,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",7.151,6.665,6.923,Stillwater,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",7.314,6.474,7.201,Stillwater,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",7.281,6.478,6.813,Stillwater,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",7.163,6.029,6.332,Stillwater,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",7.069,6.458,6.799,Stillwater,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",7.444,6.28,6.981,Stillwater,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",7.293,6.503,6.976,Stillwater,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",6.972,5.776,6.68,Stillwater,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",7.413,6.444,7.02,Stillwater,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",7.265,6.211,6.727,Stillwater,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",7.118,6.486,6.844,Stillwater,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",7.384,6.395,6.671,Stillwater,sfcWind

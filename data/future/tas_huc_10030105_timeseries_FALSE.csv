@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,44.26,42.575,42.891,Belt,tas
+1951,Historical Emissions,43.957,41.418,43.534,Belt,tas
+1952,Historical Emissions,43.753,40.528,42.34,Belt,tas
+1953,Historical Emissions,43.479,40.864,42.045,Belt,tas
+1954,Historical Emissions,44.668,40.27,41.909,Belt,tas
+1955,Historical Emissions,44.895,40.74,42.481,Belt,tas
+1956,Historical Emissions,44.165,41.872,43.407,Belt,tas
+1957,Historical Emissions,45.214,41.386,43.23,Belt,tas
+1958,Historical Emissions,43.88,41.306,42.44,Belt,tas
+1959,Historical Emissions,42.251,39.454,41.126,Belt,tas
+1960,Historical Emissions,43.862,39.68,41.252,Belt,tas
+1961,Historical Emissions,44.293,41.249,42.965,Belt,tas
+1962,Historical Emissions,43.064,40.313,41.553,Belt,tas
+1963,Historical Emissions,42.51,41.181,41.589,Belt,tas
+1964,Historical Emissions,43.738,40.502,42.298,Belt,tas
+1965,Historical Emissions,43.182,41.313,41.815,Belt,tas
+1966,Historical Emissions,45.014,41.291,42.304,Belt,tas
+1967,Historical Emissions,43.175,41.087,42.122,Belt,tas
+1968,Historical Emissions,42.867,39.098,41.73,Belt,tas
+1969,Historical Emissions,43.254,40.526,42.387,Belt,tas
+1970,Historical Emissions,43.914,41.818,42.893,Belt,tas
+1971,Historical Emissions,45.854,42.12,43.998,Belt,tas
+1972,Historical Emissions,43.347,41.024,42.501,Belt,tas
+1973,Historical Emissions,43.706,41.027,42.467,Belt,tas
+1974,Historical Emissions,44.066,40.635,43.246,Belt,tas
+1975,Historical Emissions,43.749,40.075,43.129,Belt,tas
+1976,Historical Emissions,43.328,40.569,42.648,Belt,tas
+1977,Historical Emissions,44.513,41.937,43.606,Belt,tas
+1978,Historical Emissions,45.043,40.405,42.168,Belt,tas
+1979,Historical Emissions,44.724,41.511,43.596,Belt,tas
+1980,Historical Emissions,43.535,41.389,42.407,Belt,tas
+1981,Historical Emissions,44.839,42.022,43.194,Belt,tas
+1982,Historical Emissions,44.062,41.662,43.082,Belt,tas
+1983,Historical Emissions,44.555,41.459,42.208,Belt,tas
+1984,Historical Emissions,43.922,41.675,43.285,Belt,tas
+1985,Historical Emissions,44.066,41.48,43.119,Belt,tas
+1986,Historical Emissions,42.843,40.416,41.516,Belt,tas
+1987,Historical Emissions,44.206,39.99,41.541,Belt,tas
+1988,Historical Emissions,44.036,41.238,42.59,Belt,tas
+1989,Historical Emissions,44.184,41.614,42.762,Belt,tas
+1990,Historical Emissions,46.033,42.117,43.68,Belt,tas
+1991,Historical Emissions,44.781,40.927,42.06,Belt,tas
+1992,Historical Emissions,43.99,40.836,41.652,Belt,tas
+1993,Historical Emissions,44.638,40.924,42.154,Belt,tas
+1994,Historical Emissions,45.485,41.404,42.933,Belt,tas
+1995,Historical Emissions,44.536,41.383,41.92,Belt,tas
+1996,Historical Emissions,45.859,42.534,44.122,Belt,tas
+1997,Historical Emissions,45.08,41.138,43.26,Belt,tas
+1998,Historical Emissions,45.321,40.387,44.016,Belt,tas
+1999,Historical Emissions,45.007,41.898,44.039,Belt,tas
+2000,Historical Emissions,44.347,41.518,42.963,Belt,tas
+2001,Historical Emissions,45.22,42.237,43.577,Belt,tas
+2002,Historical Emissions,46.7,42.189,43.523,Belt,tas
+2003,Historical Emissions,46.024,43.347,43.819,Belt,tas
+2004,Historical Emissions,45.876,44.05,44.621,Belt,tas
+2005,Historical Emissions,47.157,43.009,46.106,Belt,tas
+2006,Historical Emissions,45.409,41.428,43.479,Belt,tas
+2007,Historical Emissions,45.646,43.264,43.784,Belt,tas
+2008,Historical Emissions,45.722,43.026,44.413,Belt,tas
+2009,Historical Emissions,44.6,43.049,44.168,Belt,tas
+2010,Historical Emissions,45.106,43.076,44.861,Belt,tas
+2011,Historical Emissions,46.426,43.58,44.208,Belt,tas
+2012,Historical Emissions,45.708,42.79,44.763,Belt,tas
+2013,Historical Emissions,46.612,42.648,43.928,Belt,tas
+2014,Historical Emissions,46.763,43.422,45.239,Belt,tas
+2015,"Moderating Emissions
+(SSP1-2.6)",47.356,44.166,45.299,Belt,tas
+2015,"Middle of the Road
+(SSP2-4.5)",46.908,42.828,44.415,Belt,tas
+2015,"High Emissions
+(SSP3-7.0)",46.502,42.795,44.853,Belt,tas
+2015,"Accelerating Emissions
+(SSP5-8.5)",45.236,43.979,44.649,Belt,tas
+2016,"Moderating Emissions
+(SSP1-2.6)",47.257,44.103,45.723,Belt,tas
+2016,"Middle of the Road
+(SSP2-4.5)",46.105,43.141,44.547,Belt,tas
+2016,"High Emissions
+(SSP3-7.0)",47.813,42.861,45.257,Belt,tas
+2016,"Accelerating Emissions
+(SSP5-8.5)",45.996,43.266,45.342,Belt,tas
+2017,"Moderating Emissions
+(SSP1-2.6)",46.7,43.63,44.53,Belt,tas
+2017,"Middle of the Road
+(SSP2-4.5)",47.581,43.857,44.532,Belt,tas
+2017,"High Emissions
+(SSP3-7.0)",46.722,44.481,45.072,Belt,tas
+2017,"Accelerating Emissions
+(SSP5-8.5)",46.895,43.944,45.543,Belt,tas
+2018,"Moderating Emissions
+(SSP1-2.6)",45.708,43.998,44.648,Belt,tas
+2018,"Middle of the Road
+(SSP2-4.5)",47.047,43.798,44.765,Belt,tas
+2018,"High Emissions
+(SSP3-7.0)",46.741,43.019,44.808,Belt,tas
+2018,"Accelerating Emissions
+(SSP5-8.5)",46.451,43.572,44.963,Belt,tas
+2019,"Moderating Emissions
+(SSP1-2.6)",47.66,44.626,46.699,Belt,tas
+2019,"Middle of the Road
+(SSP2-4.5)",46.732,42.48,44.006,Belt,tas
+2019,"High Emissions
+(SSP3-7.0)",47.157,42.845,44.116,Belt,tas
+2019,"Accelerating Emissions
+(SSP5-8.5)",47.354,44.672,45.485,Belt,tas
+2020,"Moderating Emissions
+(SSP1-2.6)",48.147,43.734,45.363,Belt,tas
+2020,"Middle of the Road
+(SSP2-4.5)",46.539,43.324,44.825,Belt,tas
+2020,"High Emissions
+(SSP3-7.0)",46.611,43.542,45.376,Belt,tas
+2020,"Accelerating Emissions
+(SSP5-8.5)",46.394,43.72,45.293,Belt,tas
+2021,"Moderating Emissions
+(SSP1-2.6)",47.349,43.866,45.786,Belt,tas
+2021,"Middle of the Road
+(SSP2-4.5)",46.903,44.388,45.887,Belt,tas
+2021,"High Emissions
+(SSP3-7.0)",46.131,44.838,45.593,Belt,tas
+2021,"Accelerating Emissions
+(SSP5-8.5)",46.807,43.558,45.803,Belt,tas
+2022,"Moderating Emissions
+(SSP1-2.6)",47.056,44.195,44.787,Belt,tas
+2022,"Middle of the Road
+(SSP2-4.5)",47.723,43.927,45.189,Belt,tas
+2022,"High Emissions
+(SSP3-7.0)",46.439,44.399,45.018,Belt,tas
+2022,"Accelerating Emissions
+(SSP5-8.5)",47.641,43.912,46.115,Belt,tas
+2023,"Moderating Emissions
+(SSP1-2.6)",46.075,45.09,45.45,Belt,tas
+2023,"Middle of the Road
+(SSP2-4.5)",47.323,44.29,45.382,Belt,tas
+2023,"High Emissions
+(SSP3-7.0)",47.436,43.937,45.567,Belt,tas
+2023,"Accelerating Emissions
+(SSP5-8.5)",45.707,42.636,43.824,Belt,tas
+2024,"Moderating Emissions
+(SSP1-2.6)",46.967,44.246,45.997,Belt,tas
+2024,"Middle of the Road
+(SSP2-4.5)",46.375,43.96,44.985,Belt,tas
+2024,"High Emissions
+(SSP3-7.0)",48.266,44.176,45.077,Belt,tas
+2024,"Accelerating Emissions
+(SSP5-8.5)",48.887,43.946,45.513,Belt,tas
+2025,"Moderating Emissions
+(SSP1-2.6)",47.278,44.727,46.64,Belt,tas
+2025,"Middle of the Road
+(SSP2-4.5)",47.569,43.245,44.826,Belt,tas
+2025,"High Emissions
+(SSP3-7.0)",48.17,45.039,46.149,Belt,tas
+2025,"Accelerating Emissions
+(SSP5-8.5)",48.08,45.14,46.213,Belt,tas
+2026,"Moderating Emissions
+(SSP1-2.6)",47.255,44.024,44.571,Belt,tas
+2026,"Middle of the Road
+(SSP2-4.5)",47.393,43.781,45.558,Belt,tas
+2026,"High Emissions
+(SSP3-7.0)",47.646,42.356,45.591,Belt,tas
+2026,"Accelerating Emissions
+(SSP5-8.5)",47.801,44.231,46.002,Belt,tas
+2027,"Moderating Emissions
+(SSP1-2.6)",47.569,43.721,46.158,Belt,tas
+2027,"Middle of the Road
+(SSP2-4.5)",48.257,44.306,46.322,Belt,tas
+2027,"High Emissions
+(SSP3-7.0)",47.693,44.574,45.433,Belt,tas
+2027,"Accelerating Emissions
+(SSP5-8.5)",47.274,44.845,45.854,Belt,tas
+2028,"Moderating Emissions
+(SSP1-2.6)",46.986,44.318,46.383,Belt,tas
+2028,"Middle of the Road
+(SSP2-4.5)",47.352,42.688,45.411,Belt,tas
+2028,"High Emissions
+(SSP3-7.0)",46.795,45.252,45.997,Belt,tas
+2028,"Accelerating Emissions
+(SSP5-8.5)",47.861,44.967,45.949,Belt,tas
+2029,"Moderating Emissions
+(SSP1-2.6)",48.919,45.566,47.318,Belt,tas
+2029,"Middle of the Road
+(SSP2-4.5)",48.399,43.985,46.2,Belt,tas
+2029,"High Emissions
+(SSP3-7.0)",47.544,42.959,45.761,Belt,tas
+2029,"Accelerating Emissions
+(SSP5-8.5)",47.637,45.175,46.184,Belt,tas
+2030,"Moderating Emissions
+(SSP1-2.6)",48.018,44.495,45.406,Belt,tas
+2030,"Middle of the Road
+(SSP2-4.5)",48.029,45.098,46.752,Belt,tas
+2030,"High Emissions
+(SSP3-7.0)",48.077,44.111,45.739,Belt,tas
+2030,"Accelerating Emissions
+(SSP5-8.5)",48.666,44.38,46.666,Belt,tas
+2031,"Moderating Emissions
+(SSP1-2.6)",47.556,44.174,46.203,Belt,tas
+2031,"Middle of the Road
+(SSP2-4.5)",48.667,44.471,46.77,Belt,tas
+2031,"High Emissions
+(SSP3-7.0)",49.006,44.534,46.891,Belt,tas
+2031,"Accelerating Emissions
+(SSP5-8.5)",48.978,46.404,47.289,Belt,tas
+2032,"Moderating Emissions
+(SSP1-2.6)",47.444,43.794,45.731,Belt,tas
+2032,"Middle of the Road
+(SSP2-4.5)",47.127,44.356,45.181,Belt,tas
+2032,"High Emissions
+(SSP3-7.0)",48.401,44.259,45.235,Belt,tas
+2032,"Accelerating Emissions
+(SSP5-8.5)",48.563,44.295,45.745,Belt,tas
+2033,"Moderating Emissions
+(SSP1-2.6)",48.195,45.007,45.763,Belt,tas
+2033,"Middle of the Road
+(SSP2-4.5)",48.185,45.259,46.642,Belt,tas
+2033,"High Emissions
+(SSP3-7.0)",47.884,44.586,45.437,Belt,tas
+2033,"Accelerating Emissions
+(SSP5-8.5)",47.654,44.522,47.045,Belt,tas
+2034,"Moderating Emissions
+(SSP1-2.6)",47.892,44.224,45.066,Belt,tas
+2034,"Middle of the Road
+(SSP2-4.5)",48.764,45.281,46.197,Belt,tas
+2034,"High Emissions
+(SSP3-7.0)",48.493,45.632,46.469,Belt,tas
+2034,"Accelerating Emissions
+(SSP5-8.5)",47.891,43.932,45.716,Belt,tas
+2035,"Moderating Emissions
+(SSP1-2.6)",48.07,44.013,46.724,Belt,tas
+2035,"Middle of the Road
+(SSP2-4.5)",48.525,44.441,46.56,Belt,tas
+2035,"High Emissions
+(SSP3-7.0)",47.544,44.052,45.639,Belt,tas
+2035,"Accelerating Emissions
+(SSP5-8.5)",48.553,44.416,46.953,Belt,tas
+2036,"Moderating Emissions
+(SSP1-2.6)",48.162,46.065,47.106,Belt,tas
+2036,"Middle of the Road
+(SSP2-4.5)",47.506,44.738,46.286,Belt,tas
+2036,"High Emissions
+(SSP3-7.0)",47.657,44.772,46.56,Belt,tas
+2036,"Accelerating Emissions
+(SSP5-8.5)",49.028,43.765,48.073,Belt,tas
+2037,"Moderating Emissions
+(SSP1-2.6)",48.708,45.85,47.333,Belt,tas
+2037,"Middle of the Road
+(SSP2-4.5)",48.776,43.735,46.671,Belt,tas
+2037,"High Emissions
+(SSP3-7.0)",48.323,43.775,45.433,Belt,tas
+2037,"Accelerating Emissions
+(SSP5-8.5)",48.728,45.301,46.977,Belt,tas
+2038,"Moderating Emissions
+(SSP1-2.6)",48.83,45.456,47.054,Belt,tas
+2038,"Middle of the Road
+(SSP2-4.5)",47.427,44.725,46.229,Belt,tas
+2038,"High Emissions
+(SSP3-7.0)",47.958,45.074,47.065,Belt,tas
+2038,"Accelerating Emissions
+(SSP5-8.5)",49.809,44.52,48.26,Belt,tas
+2039,"Moderating Emissions
+(SSP1-2.6)",48.377,44.811,47.251,Belt,tas
+2039,"Middle of the Road
+(SSP2-4.5)",47.441,45.266,46.407,Belt,tas
+2039,"High Emissions
+(SSP3-7.0)",48.828,46.559,46.786,Belt,tas
+2039,"Accelerating Emissions
+(SSP5-8.5)",49.477,43.947,46.793,Belt,tas
+2040,"Moderating Emissions
+(SSP1-2.6)",48.111,44.791,46.787,Belt,tas
+2040,"Middle of the Road
+(SSP2-4.5)",47.569,45.562,47.186,Belt,tas
+2040,"High Emissions
+(SSP3-7.0)",48.876,45.552,47.105,Belt,tas
+2040,"Accelerating Emissions
+(SSP5-8.5)",51.163,46.024,47.261,Belt,tas
+2041,"Moderating Emissions
+(SSP1-2.6)",48.157,43.804,46.274,Belt,tas
+2041,"Middle of the Road
+(SSP2-4.5)",47.443,45.684,46.993,Belt,tas
+2041,"High Emissions
+(SSP3-7.0)",48.067,45.006,46.245,Belt,tas
+2041,"Accelerating Emissions
+(SSP5-8.5)",47.789,45.665,47.065,Belt,tas
+2042,"Moderating Emissions
+(SSP1-2.6)",48.883,45.623,46.679,Belt,tas
+2042,"Middle of the Road
+(SSP2-4.5)",47.427,43.809,45.885,Belt,tas
+2042,"High Emissions
+(SSP3-7.0)",47.888,45.259,46.566,Belt,tas
+2042,"Accelerating Emissions
+(SSP5-8.5)",49.673,46.005,47.851,Belt,tas
+2043,"Moderating Emissions
+(SSP1-2.6)",48.08,44.642,46.878,Belt,tas
+2043,"Middle of the Road
+(SSP2-4.5)",48.728,44.987,47.114,Belt,tas
+2043,"High Emissions
+(SSP3-7.0)",47.914,44.364,46.761,Belt,tas
+2043,"Accelerating Emissions
+(SSP5-8.5)",48.857,46.099,47.334,Belt,tas
+2044,"Moderating Emissions
+(SSP1-2.6)",48.491,45.307,46.224,Belt,tas
+2044,"Middle of the Road
+(SSP2-4.5)",49.813,45.903,47.678,Belt,tas
+2044,"High Emissions
+(SSP3-7.0)",48.837,45.913,46.885,Belt,tas
+2044,"Accelerating Emissions
+(SSP5-8.5)",50.708,45.515,46.947,Belt,tas
+2045,"Moderating Emissions
+(SSP1-2.6)",48.698,45.565,47.012,Belt,tas
+2045,"Middle of the Road
+(SSP2-4.5)",49.776,44.919,47.864,Belt,tas
+2045,"High Emissions
+(SSP3-7.0)",48.838,45.155,46.819,Belt,tas
+2045,"Accelerating Emissions
+(SSP5-8.5)",48.375,45.951,47.306,Belt,tas
+2046,"Moderating Emissions
+(SSP1-2.6)",50.131,43.395,47.39,Belt,tas
+2046,"Middle of the Road
+(SSP2-4.5)",48.729,44.745,46.928,Belt,tas
+2046,"High Emissions
+(SSP3-7.0)",48.706,46.967,47.543,Belt,tas
+2046,"Accelerating Emissions
+(SSP5-8.5)",49.386,44.905,46.392,Belt,tas
+2047,"Moderating Emissions
+(SSP1-2.6)",48.473,46.089,47.432,Belt,tas
+2047,"Middle of the Road
+(SSP2-4.5)",48.542,42.398,47.26,Belt,tas
+2047,"High Emissions
+(SSP3-7.0)",47.758,45.641,47.302,Belt,tas
+2047,"Accelerating Emissions
+(SSP5-8.5)",50.095,45.402,49.031,Belt,tas
+2048,"Moderating Emissions
+(SSP1-2.6)",47.697,45.301,46.206,Belt,tas
+2048,"Middle of the Road
+(SSP2-4.5)",49.856,44.825,47.614,Belt,tas
+2048,"High Emissions
+(SSP3-7.0)",49.575,45.038,47.64,Belt,tas
+2048,"Accelerating Emissions
+(SSP5-8.5)",51.956,46.31,49.265,Belt,tas
+2049,"Moderating Emissions
+(SSP1-2.6)",48.25,44.888,45.367,Belt,tas
+2049,"Middle of the Road
+(SSP2-4.5)",49.559,46.311,47.085,Belt,tas
+2049,"High Emissions
+(SSP3-7.0)",49.952,46.05,48.244,Belt,tas
+2049,"Accelerating Emissions
+(SSP5-8.5)",48.815,46.605,48.473,Belt,tas
+2050,"Moderating Emissions
+(SSP1-2.6)",48.766,44.169,47.209,Belt,tas
+2050,"Middle of the Road
+(SSP2-4.5)",49.811,45.935,47.498,Belt,tas
+2050,"High Emissions
+(SSP3-7.0)",49.67,46.484,47.609,Belt,tas
+2050,"Accelerating Emissions
+(SSP5-8.5)",49.767,46.485,48.243,Belt,tas
+2051,"Moderating Emissions
+(SSP1-2.6)",49.106,45.248,47.295,Belt,tas
+2051,"Middle of the Road
+(SSP2-4.5)",49.667,46.296,48.033,Belt,tas
+2051,"High Emissions
+(SSP3-7.0)",49.512,46.8,47.568,Belt,tas
+2051,"Accelerating Emissions
+(SSP5-8.5)",49.424,46.466,48.324,Belt,tas
+2052,"Moderating Emissions
+(SSP1-2.6)",48.174,45.783,46.937,Belt,tas
+2052,"Middle of the Road
+(SSP2-4.5)",49.296,45.781,46.565,Belt,tas
+2052,"High Emissions
+(SSP3-7.0)",50.362,44.863,47.34,Belt,tas
+2052,"Accelerating Emissions
+(SSP5-8.5)",49.009,47.001,48.222,Belt,tas
+2053,"Moderating Emissions
+(SSP1-2.6)",48.431,44.885,47.3,Belt,tas
+2053,"Middle of the Road
+(SSP2-4.5)",48.828,45.315,47.52,Belt,tas
+2053,"High Emissions
+(SSP3-7.0)",51.003,46.892,49.974,Belt,tas
+2053,"Accelerating Emissions
+(SSP5-8.5)",51.091,46.97,47.788,Belt,tas
+2054,"Moderating Emissions
+(SSP1-2.6)",49.285,46.158,47.236,Belt,tas
+2054,"Middle of the Road
+(SSP2-4.5)",48.465,45.678,46.337,Belt,tas
+2054,"High Emissions
+(SSP3-7.0)",49.346,46.001,47.239,Belt,tas
+2054,"Accelerating Emissions
+(SSP5-8.5)",50.943,47.615,48.384,Belt,tas
+2055,"Moderating Emissions
+(SSP1-2.6)",49.106,46.601,47.038,Belt,tas
+2055,"Middle of the Road
+(SSP2-4.5)",49.222,44.905,47.584,Belt,tas
+2055,"High Emissions
+(SSP3-7.0)",49.5,46.732,47.897,Belt,tas
+2055,"Accelerating Emissions
+(SSP5-8.5)",51.029,47.196,49.79,Belt,tas
+2056,"Moderating Emissions
+(SSP1-2.6)",49.073,46.306,47.931,Belt,tas
+2056,"Middle of the Road
+(SSP2-4.5)",50.124,46.111,47.554,Belt,tas
+2056,"High Emissions
+(SSP3-7.0)",50.461,46.295,47.196,Belt,tas
+2056,"Accelerating Emissions
+(SSP5-8.5)",50.838,47.187,49.738,Belt,tas
+2057,"Moderating Emissions
+(SSP1-2.6)",48.522,44.448,47.054,Belt,tas
+2057,"Middle of the Road
+(SSP2-4.5)",49.98,46.848,47.955,Belt,tas
+2057,"High Emissions
+(SSP3-7.0)",50.057,46.251,46.958,Belt,tas
+2057,"Accelerating Emissions
+(SSP5-8.5)",50.423,45.456,48.808,Belt,tas
+2058,"Moderating Emissions
+(SSP1-2.6)",49.192,45.207,47.24,Belt,tas
+2058,"Middle of the Road
+(SSP2-4.5)",51.167,46.493,48.482,Belt,tas
+2058,"High Emissions
+(SSP3-7.0)",49.66,46.904,48.145,Belt,tas
+2058,"Accelerating Emissions
+(SSP5-8.5)",50.641,46.383,47.973,Belt,tas
+2059,"Moderating Emissions
+(SSP1-2.6)",49.117,45.443,46.965,Belt,tas
+2059,"Middle of the Road
+(SSP2-4.5)",51.755,46.769,49.207,Belt,tas
+2059,"High Emissions
+(SSP3-7.0)",51.512,46.969,49.391,Belt,tas
+2059,"Accelerating Emissions
+(SSP5-8.5)",51.291,48.343,49.719,Belt,tas
+2060,"Moderating Emissions
+(SSP1-2.6)",49.754,44.925,46.66,Belt,tas
+2060,"Middle of the Road
+(SSP2-4.5)",50.02,46.465,47.373,Belt,tas
+2060,"High Emissions
+(SSP3-7.0)",49.942,46.886,48.583,Belt,tas
+2060,"Accelerating Emissions
+(SSP5-8.5)",50.38,47.767,49.736,Belt,tas
+2061,"Moderating Emissions
+(SSP1-2.6)",48.676,45.774,46.153,Belt,tas
+2061,"Middle of the Road
+(SSP2-4.5)",50.158,45.687,47.79,Belt,tas
+2061,"High Emissions
+(SSP3-7.0)",50.015,47.178,48.623,Belt,tas
+2061,"Accelerating Emissions
+(SSP5-8.5)",52.479,48.535,49.389,Belt,tas
+2062,"Moderating Emissions
+(SSP1-2.6)",48.22,46.2,46.965,Belt,tas
+2062,"Middle of the Road
+(SSP2-4.5)",50.036,45.897,47.192,Belt,tas
+2062,"High Emissions
+(SSP3-7.0)",49.428,46.762,48.799,Belt,tas
+2062,"Accelerating Emissions
+(SSP5-8.5)",51.855,48.155,49.562,Belt,tas
+2063,"Moderating Emissions
+(SSP1-2.6)",48.426,45.199,47.127,Belt,tas
+2063,"Middle of the Road
+(SSP2-4.5)",49.739,46.051,47.577,Belt,tas
+2063,"High Emissions
+(SSP3-7.0)",50.929,47.005,48.224,Belt,tas
+2063,"Accelerating Emissions
+(SSP5-8.5)",51.326,47.385,50.146,Belt,tas
+2064,"Moderating Emissions
+(SSP1-2.6)",49.632,45.621,47.795,Belt,tas
+2064,"Middle of the Road
+(SSP2-4.5)",48.092,46.145,47.339,Belt,tas
+2064,"High Emissions
+(SSP3-7.0)",49.228,47.737,48.295,Belt,tas
+2064,"Accelerating Emissions
+(SSP5-8.5)",50.546,48.151,49.336,Belt,tas
+2065,"Moderating Emissions
+(SSP1-2.6)",49.165,44.922,46.283,Belt,tas
+2065,"Middle of the Road
+(SSP2-4.5)",50.09,45.742,47.589,Belt,tas
+2065,"High Emissions
+(SSP3-7.0)",51.4,47.562,48.484,Belt,tas
+2065,"Accelerating Emissions
+(SSP5-8.5)",53.396,48.209,50.686,Belt,tas
+2066,"Moderating Emissions
+(SSP1-2.6)",49.891,45.454,47.801,Belt,tas
+2066,"Middle of the Road
+(SSP2-4.5)",50.798,47.354,49.059,Belt,tas
+2066,"High Emissions
+(SSP3-7.0)",50.678,46.765,48.383,Belt,tas
+2066,"Accelerating Emissions
+(SSP5-8.5)",52.544,48.178,50.291,Belt,tas
+2067,"Moderating Emissions
+(SSP1-2.6)",49.14,47.176,48.029,Belt,tas
+2067,"Middle of the Road
+(SSP2-4.5)",49.922,46.804,47.537,Belt,tas
+2067,"High Emissions
+(SSP3-7.0)",51.58,48.633,49.624,Belt,tas
+2067,"Accelerating Emissions
+(SSP5-8.5)",52.787,48.47,48.972,Belt,tas
+2068,"Moderating Emissions
+(SSP1-2.6)",49.758,45.736,47.367,Belt,tas
+2068,"Middle of the Road
+(SSP2-4.5)",48.914,46.716,48.165,Belt,tas
+2068,"High Emissions
+(SSP3-7.0)",50.941,47.061,48.009,Belt,tas
+2068,"Accelerating Emissions
+(SSP5-8.5)",52.402,49.313,50.081,Belt,tas
+2069,"Moderating Emissions
+(SSP1-2.6)",49.581,46.162,48.101,Belt,tas
+2069,"Middle of the Road
+(SSP2-4.5)",49.182,45.907,47.422,Belt,tas
+2069,"High Emissions
+(SSP3-7.0)",52.957,48.601,50.052,Belt,tas
+2069,"Accelerating Emissions
+(SSP5-8.5)",54.421,49.025,50.834,Belt,tas
+2070,"Moderating Emissions
+(SSP1-2.6)",48.507,45.883,47,Belt,tas
+2070,"Middle of the Road
+(SSP2-4.5)",50.405,45.164,48.068,Belt,tas
+2070,"High Emissions
+(SSP3-7.0)",52.172,48.832,50.182,Belt,tas
+2070,"Accelerating Emissions
+(SSP5-8.5)",55.174,49.444,50.502,Belt,tas
+2071,"Moderating Emissions
+(SSP1-2.6)",50.868,44.606,46.865,Belt,tas
+2071,"Middle of the Road
+(SSP2-4.5)",50.349,46.256,48.29,Belt,tas
+2071,"High Emissions
+(SSP3-7.0)",51.718,49.209,49.644,Belt,tas
+2071,"Accelerating Emissions
+(SSP5-8.5)",53.333,48.544,50.094,Belt,tas
+2072,"Moderating Emissions
+(SSP1-2.6)",50.498,46.281,47.425,Belt,tas
+2072,"Middle of the Road
+(SSP2-4.5)",50.673,45.329,47.862,Belt,tas
+2072,"High Emissions
+(SSP3-7.0)",51.786,47.989,49.182,Belt,tas
+2072,"Accelerating Emissions
+(SSP5-8.5)",52.362,49.344,50.358,Belt,tas
+2073,"Moderating Emissions
+(SSP1-2.6)",48.663,44.972,46.768,Belt,tas
+2073,"Middle of the Road
+(SSP2-4.5)",50.384,45.558,48.436,Belt,tas
+2073,"High Emissions
+(SSP3-7.0)",51.691,48.154,50.186,Belt,tas
+2073,"Accelerating Emissions
+(SSP5-8.5)",52.971,48.318,50.747,Belt,tas
+2074,"Moderating Emissions
+(SSP1-2.6)",50.607,44.247,47.561,Belt,tas
+2074,"Middle of the Road
+(SSP2-4.5)",50.521,46.931,48.278,Belt,tas
+2074,"High Emissions
+(SSP3-7.0)",51.131,47.335,48.844,Belt,tas
+2074,"Accelerating Emissions
+(SSP5-8.5)",53.701,48.958,49.929,Belt,tas
+2075,"Moderating Emissions
+(SSP1-2.6)",49.779,44.056,46.847,Belt,tas
+2075,"Middle of the Road
+(SSP2-4.5)",50.975,46.03,46.789,Belt,tas
+2075,"High Emissions
+(SSP3-7.0)",52.139,47.246,48.63,Belt,tas
+2075,"Accelerating Emissions
+(SSP5-8.5)",52.993,48.943,51.784,Belt,tas
+2076,"Moderating Emissions
+(SSP1-2.6)",49.367,44.116,46.457,Belt,tas
+2076,"Middle of the Road
+(SSP2-4.5)",49.075,46.669,48.121,Belt,tas
+2076,"High Emissions
+(SSP3-7.0)",52.269,48.896,50.019,Belt,tas
+2076,"Accelerating Emissions
+(SSP5-8.5)",53.733,48.797,50.953,Belt,tas
+2077,"Moderating Emissions
+(SSP1-2.6)",49.569,45.728,47.379,Belt,tas
+2077,"Middle of the Road
+(SSP2-4.5)",50.994,47.125,48.227,Belt,tas
+2077,"High Emissions
+(SSP3-7.0)",53.277,47.772,50.517,Belt,tas
+2077,"Accelerating Emissions
+(SSP5-8.5)",54.267,49.355,51.35,Belt,tas
+2078,"Moderating Emissions
+(SSP1-2.6)",49.478,46.261,47.006,Belt,tas
+2078,"Middle of the Road
+(SSP2-4.5)",49.976,47.514,48.145,Belt,tas
+2078,"High Emissions
+(SSP3-7.0)",52.092,48.538,50.006,Belt,tas
+2078,"Accelerating Emissions
+(SSP5-8.5)",51.502,49.646,50.002,Belt,tas
+2079,"Moderating Emissions
+(SSP1-2.6)",49.078,45.856,47.262,Belt,tas
+2079,"Middle of the Road
+(SSP2-4.5)",50.582,47.174,48.089,Belt,tas
+2079,"High Emissions
+(SSP3-7.0)",51.857,47.974,50.497,Belt,tas
+2079,"Accelerating Emissions
+(SSP5-8.5)",54.027,49.734,51.534,Belt,tas
+2080,"Moderating Emissions
+(SSP1-2.6)",48.519,45.436,46.101,Belt,tas
+2080,"Middle of the Road
+(SSP2-4.5)",49.666,46.637,48.803,Belt,tas
+2080,"High Emissions
+(SSP3-7.0)",53.073,48.863,49.617,Belt,tas
+2080,"Accelerating Emissions
+(SSP5-8.5)",54.322,50.528,52.28,Belt,tas
+2081,"Moderating Emissions
+(SSP1-2.6)",50.921,44.886,46.841,Belt,tas
+2081,"Middle of the Road
+(SSP2-4.5)",50.921,47.401,48.547,Belt,tas
+2081,"High Emissions
+(SSP3-7.0)",54.048,47.588,49.403,Belt,tas
+2081,"Accelerating Emissions
+(SSP5-8.5)",55.619,50.749,53.138,Belt,tas
+2082,"Moderating Emissions
+(SSP1-2.6)",49.988,45.561,47.958,Belt,tas
+2082,"Middle of the Road
+(SSP2-4.5)",51.651,47.582,48.85,Belt,tas
+2082,"High Emissions
+(SSP3-7.0)",53.533,48.025,49.59,Belt,tas
+2082,"Accelerating Emissions
+(SSP5-8.5)",54.811,50.206,53.009,Belt,tas
+2083,"Moderating Emissions
+(SSP1-2.6)",49.369,45.508,47.845,Belt,tas
+2083,"Middle of the Road
+(SSP2-4.5)",51.708,45.814,48.613,Belt,tas
+2083,"High Emissions
+(SSP3-7.0)",52.933,47.273,50.985,Belt,tas
+2083,"Accelerating Emissions
+(SSP5-8.5)",55.086,50.645,53.854,Belt,tas
+2084,"Moderating Emissions
+(SSP1-2.6)",50.394,44.968,46.412,Belt,tas
+2084,"Middle of the Road
+(SSP2-4.5)",52.05,47.22,49.488,Belt,tas
+2084,"High Emissions
+(SSP3-7.0)",55.04,49.511,51.764,Belt,tas
+2084,"Accelerating Emissions
+(SSP5-8.5)",55.356,50.838,52.354,Belt,tas
+2085,"Moderating Emissions
+(SSP1-2.6)",48.663,44.363,46.652,Belt,tas
+2085,"Middle of the Road
+(SSP2-4.5)",50.577,46.497,48.807,Belt,tas
+2085,"High Emissions
+(SSP3-7.0)",52.373,48.641,49.944,Belt,tas
+2085,"Accelerating Emissions
+(SSP5-8.5)",55.181,50.511,53.446,Belt,tas
+2086,"Moderating Emissions
+(SSP1-2.6)",50.197,46.914,48.15,Belt,tas
+2086,"Middle of the Road
+(SSP2-4.5)",51.151,47.925,48.89,Belt,tas
+2086,"High Emissions
+(SSP3-7.0)",54.284,48.664,51.386,Belt,tas
+2086,"Accelerating Emissions
+(SSP5-8.5)",55.296,50.849,53.363,Belt,tas
+2087,"Moderating Emissions
+(SSP1-2.6)",47.902,45.726,46.461,Belt,tas
+2087,"Middle of the Road
+(SSP2-4.5)",51.682,48.144,49.712,Belt,tas
+2087,"High Emissions
+(SSP3-7.0)",54.338,49.234,50.845,Belt,tas
+2087,"Accelerating Emissions
+(SSP5-8.5)",55.239,50.792,52.526,Belt,tas
+2088,"Moderating Emissions
+(SSP1-2.6)",50.005,44.881,47.145,Belt,tas
+2088,"Middle of the Road
+(SSP2-4.5)",50.617,48.409,49.041,Belt,tas
+2088,"High Emissions
+(SSP3-7.0)",54.422,49.306,50.302,Belt,tas
+2088,"Accelerating Emissions
+(SSP5-8.5)",54.937,51.634,52.991,Belt,tas
+2089,"Moderating Emissions
+(SSP1-2.6)",47.819,45.551,46.736,Belt,tas
+2089,"Middle of the Road
+(SSP2-4.5)",51.376,47.251,48.698,Belt,tas
+2089,"High Emissions
+(SSP3-7.0)",53.478,49.155,51.561,Belt,tas
+2089,"Accelerating Emissions
+(SSP5-8.5)",55.722,51.798,54.169,Belt,tas
+2090,"Moderating Emissions
+(SSP1-2.6)",49.394,45.776,47.162,Belt,tas
+2090,"Middle of the Road
+(SSP2-4.5)",50.012,47.132,49.636,Belt,tas
+2090,"High Emissions
+(SSP3-7.0)",54.591,49.867,51.362,Belt,tas
+2090,"Accelerating Emissions
+(SSP5-8.5)",56.314,52.564,53.79,Belt,tas
+2091,"Moderating Emissions
+(SSP1-2.6)",49.431,44.768,47.473,Belt,tas
+2091,"Middle of the Road
+(SSP2-4.5)",50.204,47.316,49.257,Belt,tas
+2091,"High Emissions
+(SSP3-7.0)",54.543,49.947,52.116,Belt,tas
+2091,"Accelerating Emissions
+(SSP5-8.5)",55.895,50.611,52.505,Belt,tas
+2092,"Moderating Emissions
+(SSP1-2.6)",49.862,44.772,48.234,Belt,tas
+2092,"Middle of the Road
+(SSP2-4.5)",52.129,47.108,49.537,Belt,tas
+2092,"High Emissions
+(SSP3-7.0)",53.279,48.917,51.853,Belt,tas
+2092,"Accelerating Emissions
+(SSP5-8.5)",56.523,51.435,52.963,Belt,tas
+2093,"Moderating Emissions
+(SSP1-2.6)",49.163,44.913,47.607,Belt,tas
+2093,"Middle of the Road
+(SSP2-4.5)",51.467,46.2,48.66,Belt,tas
+2093,"High Emissions
+(SSP3-7.0)",54.412,49.589,51.045,Belt,tas
+2093,"Accelerating Emissions
+(SSP5-8.5)",57.072,51.508,53.112,Belt,tas
+2094,"Moderating Emissions
+(SSP1-2.6)",49.704,44.178,46.179,Belt,tas
+2094,"Middle of the Road
+(SSP2-4.5)",52.401,46.306,49.195,Belt,tas
+2094,"High Emissions
+(SSP3-7.0)",54.937,49.87,51.652,Belt,tas
+2094,"Accelerating Emissions
+(SSP5-8.5)",57.643,52.125,55.223,Belt,tas
+2095,"Moderating Emissions
+(SSP1-2.6)",49.108,45.791,48.11,Belt,tas
+2095,"Middle of the Road
+(SSP2-4.5)",52.58,48.009,50.16,Belt,tas
+2095,"High Emissions
+(SSP3-7.0)",55.711,49.813,52.274,Belt,tas
+2095,"Accelerating Emissions
+(SSP5-8.5)",55.847,51.273,52.262,Belt,tas
+2096,"Moderating Emissions
+(SSP1-2.6)",48.575,44.859,47.478,Belt,tas
+2096,"Middle of the Road
+(SSP2-4.5)",51.407,48.517,50.246,Belt,tas
+2096,"High Emissions
+(SSP3-7.0)",53.951,50.618,52.261,Belt,tas
+2096,"Accelerating Emissions
+(SSP5-8.5)",55.606,51.335,54.075,Belt,tas
+2097,"Moderating Emissions
+(SSP1-2.6)",50.048,45.298,46.433,Belt,tas
+2097,"Middle of the Road
+(SSP2-4.5)",52.352,48.283,49.355,Belt,tas
+2097,"High Emissions
+(SSP3-7.0)",56.156,49.203,52.146,Belt,tas
+2097,"Accelerating Emissions
+(SSP5-8.5)",60.194,51.127,54.116,Belt,tas
+2098,"Moderating Emissions
+(SSP1-2.6)",48.313,44.402,46.611,Belt,tas
+2098,"Middle of the Road
+(SSP2-4.5)",50.513,47.617,48.659,Belt,tas
+2098,"High Emissions
+(SSP3-7.0)",55.428,50.385,51.613,Belt,tas
+2098,"Accelerating Emissions
+(SSP5-8.5)",56.422,52.138,54.869,Belt,tas
+2099,"Moderating Emissions
+(SSP1-2.6)",51.084,44.832,47.485,Belt,tas
+2099,"Middle of the Road
+(SSP2-4.5)",51.438,47.281,49.494,Belt,tas
+2099,"High Emissions
+(SSP3-7.0)",56.99,49.977,51.226,Belt,tas
+2099,"Accelerating Emissions
+(SSP5-8.5)",58.464,51.846,54.957,Belt,tas
+2100,"Moderating Emissions
+(SSP1-2.6)",48.703,44.559,45.531,Belt,tas
+2100,"Middle of the Road
+(SSP2-4.5)",52.661,47.837,49.592,Belt,tas
+2100,"High Emissions
+(SSP3-7.0)",54.296,49.556,52.274,Belt,tas
+2100,"Accelerating Emissions
+(SSP5-8.5)",58.171,51.216,53.768,Belt,tas

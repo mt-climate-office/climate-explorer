@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),0.97,0.124,0.565,Miles City,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),0.97,0.124,0.565,Miles City,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.011,0.26,0.709,Miles City,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.09,0.184,0.635,Miles City,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.309,0.346,0.627,Miles City,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.04,0.169,0.649,Miles City,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.106,0.228,0.721,Miles City,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.076,0.274,0.662,Miles City,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.179,0.029,0.44,Miles City,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.067,0.214,0.659,Miles City,con-wet

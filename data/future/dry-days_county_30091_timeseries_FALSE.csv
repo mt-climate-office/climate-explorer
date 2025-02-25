@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,280.625,248.6,269,Sheridan County,dry-days
+1951,Historical Emissions,279.45,255.925,263.375,Sheridan County,dry-days
+1952,Historical Emissions,282,257.7,263.625,Sheridan County,dry-days
+1953,Historical Emissions,288.65,234.075,260,Sheridan County,dry-days
+1954,Historical Emissions,268.225,230.45,248.625,Sheridan County,dry-days
+1955,Historical Emissions,290.475,239.225,253.625,Sheridan County,dry-days
+1956,Historical Emissions,278.65,249,267.75,Sheridan County,dry-days
+1957,Historical Emissions,287.6,236.875,262.375,Sheridan County,dry-days
+1958,Historical Emissions,266.6,243.8,254.125,Sheridan County,dry-days
+1959,Historical Emissions,273.95,240.45,256.75,Sheridan County,dry-days
+1960,Historical Emissions,268.2,241.3,258.375,Sheridan County,dry-days
+1961,Historical Emissions,270.225,246.625,257.375,Sheridan County,dry-days
+1962,Historical Emissions,282,232.275,250.25,Sheridan County,dry-days
+1963,Historical Emissions,277.7,240.375,264,Sheridan County,dry-days
+1964,Historical Emissions,272.675,259.2,264.75,Sheridan County,dry-days
+1965,Historical Emissions,279.375,251.875,265.125,Sheridan County,dry-days
+1966,Historical Emissions,278.8,234.475,260.375,Sheridan County,dry-days
+1967,Historical Emissions,273.525,241.25,258.5,Sheridan County,dry-days
+1968,Historical Emissions,272.3,246.875,250,Sheridan County,dry-days
+1969,Historical Emissions,281,248.325,261.625,Sheridan County,dry-days
+1970,Historical Emissions,271.1,238.25,254.875,Sheridan County,dry-days
+1971,Historical Emissions,275.65,238.4,268.25,Sheridan County,dry-days
+1972,Historical Emissions,269.625,249.775,264,Sheridan County,dry-days
+1973,Historical Emissions,277.75,235.65,259.875,Sheridan County,dry-days
+1974,Historical Emissions,278.65,236.875,262.625,Sheridan County,dry-days
+1975,Historical Emissions,274.8,252.35,264.75,Sheridan County,dry-days
+1976,Historical Emissions,271.575,247.275,254.75,Sheridan County,dry-days
+1977,Historical Emissions,275.85,241.8,257.5,Sheridan County,dry-days
+1978,Historical Emissions,266.175,238.825,246.875,Sheridan County,dry-days
+1979,Historical Emissions,283,228.775,258,Sheridan County,dry-days
+1980,Historical Emissions,289.75,231.6,256.625,Sheridan County,dry-days
+1981,Historical Emissions,281.125,238.025,250.25,Sheridan County,dry-days
+1982,Historical Emissions,277.8,253.575,259.625,Sheridan County,dry-days
+1983,Historical Emissions,276.075,240.275,256.875,Sheridan County,dry-days
+1984,Historical Emissions,295.775,238.4,265.375,Sheridan County,dry-days
+1985,Historical Emissions,272.375,240.5,262.25,Sheridan County,dry-days
+1986,Historical Emissions,267.025,245.275,257.125,Sheridan County,dry-days
+1987,Historical Emissions,260.425,243.3,250.625,Sheridan County,dry-days
+1988,Historical Emissions,270.5,240.725,257.75,Sheridan County,dry-days
+1989,Historical Emissions,279.65,243.125,268.75,Sheridan County,dry-days
+1990,Historical Emissions,294.225,243.675,258,Sheridan County,dry-days
+1991,Historical Emissions,285.325,234.15,272.375,Sheridan County,dry-days
+1992,Historical Emissions,293.725,248.6,266.5,Sheridan County,dry-days
+1993,Historical Emissions,278.525,239.8,263.125,Sheridan County,dry-days
+1994,Historical Emissions,268.65,250.825,261.25,Sheridan County,dry-days
+1995,Historical Emissions,280,248.025,261.375,Sheridan County,dry-days
+1996,Historical Emissions,298.65,246.3,264.75,Sheridan County,dry-days
+1997,Historical Emissions,277.45,248.875,256.125,Sheridan County,dry-days
+1998,Historical Emissions,277.125,243.8,254,Sheridan County,dry-days
+1999,Historical Emissions,275.525,242.7,259.25,Sheridan County,dry-days
+2000,Historical Emissions,290.825,248.525,261.875,Sheridan County,dry-days
+2001,Historical Emissions,275.35,244.925,265,Sheridan County,dry-days
+2002,Historical Emissions,278.675,252.95,260.125,Sheridan County,dry-days
+2003,Historical Emissions,281.075,249.075,260.75,Sheridan County,dry-days
+2004,Historical Emissions,283.625,248.025,264.875,Sheridan County,dry-days
+2005,Historical Emissions,281.6,242.325,264.25,Sheridan County,dry-days
+2006,Historical Emissions,278.225,243.175,250.25,Sheridan County,dry-days
+2007,Historical Emissions,269.025,245.6,258.625,Sheridan County,dry-days
+2008,Historical Emissions,275.8,241.95,262,Sheridan County,dry-days
+2009,Historical Emissions,264.275,233.75,252.125,Sheridan County,dry-days
+2010,Historical Emissions,271.35,242.325,261.125,Sheridan County,dry-days
+2011,Historical Emissions,267.125,247.25,256.125,Sheridan County,dry-days
+2012,Historical Emissions,283.45,253.475,265.375,Sheridan County,dry-days
+2013,Historical Emissions,278.375,258.125,271,Sheridan County,dry-days
+2014,Historical Emissions,273.175,249.25,259.375,Sheridan County,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",275.3,251.8,259.5,Sheridan County,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",284.025,244.95,256,Sheridan County,dry-days
+2015,"High Emissions
+(SSP3-7.0)",280.5,245.3,261.25,Sheridan County,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",272.15,255.3,260.5,Sheridan County,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",284.325,238.375,254.75,Sheridan County,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",269.875,247.875,256.875,Sheridan County,dry-days
+2016,"High Emissions
+(SSP3-7.0)",285.525,249.8,266,Sheridan County,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",260.775,238.35,252.125,Sheridan County,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",275.025,249.1,259.375,Sheridan County,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",276.675,234.85,258.125,Sheridan County,dry-days
+2017,"High Emissions
+(SSP3-7.0)",272.05,243.025,255,Sheridan County,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",268.95,252.6,263.125,Sheridan County,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",270.1,239.425,262,Sheridan County,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",281.925,255.925,261.5,Sheridan County,dry-days
+2018,"High Emissions
+(SSP3-7.0)",268.5,243.5,256.125,Sheridan County,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",279.275,242.2,254.375,Sheridan County,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",281.575,262.75,273.875,Sheridan County,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",271,238.45,256.125,Sheridan County,dry-days
+2019,"High Emissions
+(SSP3-7.0)",276.85,240.15,254.875,Sheridan County,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",274.25,242.725,263.125,Sheridan County,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",277.6,231.675,262.75,Sheridan County,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",283.675,245.175,259.5,Sheridan County,dry-days
+2020,"High Emissions
+(SSP3-7.0)",273.3,242.9,259.25,Sheridan County,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",284.45,245.625,263.25,Sheridan County,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",272.225,247,267.375,Sheridan County,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",285.475,244.25,260.5,Sheridan County,dry-days
+2021,"High Emissions
+(SSP3-7.0)",289.975,239.125,266.375,Sheridan County,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",283.175,239.175,261.375,Sheridan County,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",271.025,240.375,255.75,Sheridan County,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",276.525,233.15,257.625,Sheridan County,dry-days
+2022,"High Emissions
+(SSP3-7.0)",275.625,243.425,257.875,Sheridan County,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",286.875,239.725,255.875,Sheridan County,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",268.25,242.325,252.625,Sheridan County,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",276.825,238.875,255.625,Sheridan County,dry-days
+2023,"High Emissions
+(SSP3-7.0)",286.125,246.725,260.125,Sheridan County,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",268.775,242.725,260.125,Sheridan County,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",277.475,240.85,260.625,Sheridan County,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",290.975,250.3,257.25,Sheridan County,dry-days
+2024,"High Emissions
+(SSP3-7.0)",283.125,257.95,264.75,Sheridan County,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",265.95,232.35,250,Sheridan County,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",273.4,250.525,266.75,Sheridan County,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",274.075,237.15,257.625,Sheridan County,dry-days
+2025,"High Emissions
+(SSP3-7.0)",288.6,249.6,267.25,Sheridan County,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",269.1,250.275,262.25,Sheridan County,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",270.2,246.65,258.75,Sheridan County,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",283.325,245.7,258.375,Sheridan County,dry-days
+2026,"High Emissions
+(SSP3-7.0)",272.075,231.725,252.75,Sheridan County,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",269.775,242.2,257.75,Sheridan County,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",274.55,220.75,246.5,Sheridan County,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",279.4,240.6,245.375,Sheridan County,dry-days
+2027,"High Emissions
+(SSP3-7.0)",269.925,234.825,255.125,Sheridan County,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",270.15,245.375,255.375,Sheridan County,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",279.05,241.25,255.5,Sheridan County,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",263.325,241.75,255.875,Sheridan County,dry-days
+2028,"High Emissions
+(SSP3-7.0)",280.075,245.425,264.625,Sheridan County,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",276.175,235.3,249.5,Sheridan County,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",274.275,234.45,260.625,Sheridan County,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",272.3,246.275,259.875,Sheridan County,dry-days
+2029,"High Emissions
+(SSP3-7.0)",280.075,246.375,260.75,Sheridan County,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",278.1,251.825,262.25,Sheridan County,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",274.425,237.775,258.25,Sheridan County,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",280.35,252.5,258.875,Sheridan County,dry-days
+2030,"High Emissions
+(SSP3-7.0)",279.8,242.825,263.625,Sheridan County,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",282.875,248.825,256.125,Sheridan County,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",292.475,253.375,265.5,Sheridan County,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",274.075,247.55,255.875,Sheridan County,dry-days
+2031,"High Emissions
+(SSP3-7.0)",286.45,250.075,264.125,Sheridan County,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",270.05,226.875,256.5,Sheridan County,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",266.325,245.8,256.25,Sheridan County,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",280.675,234.85,267.75,Sheridan County,dry-days
+2032,"High Emissions
+(SSP3-7.0)",281.425,246.65,267.125,Sheridan County,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",276.6,245.5,258,Sheridan County,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",269.25,235.775,253.25,Sheridan County,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",290.25,241.45,260.25,Sheridan County,dry-days
+2033,"High Emissions
+(SSP3-7.0)",281.9,244.175,263.75,Sheridan County,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",266.35,246.15,257.5,Sheridan County,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",270.975,245.775,263.625,Sheridan County,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",275.575,251.125,267.5,Sheridan County,dry-days
+2034,"High Emissions
+(SSP3-7.0)",276.05,245.975,265.375,Sheridan County,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",272.575,229.15,243.125,Sheridan County,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",297.8,231.125,255.5,Sheridan County,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",274.15,227.05,259.5,Sheridan County,dry-days
+2035,"High Emissions
+(SSP3-7.0)",262.55,236.25,248.625,Sheridan County,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",264.375,245.5,253.875,Sheridan County,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",281.25,242.35,264.875,Sheridan County,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",269.05,242.375,257.125,Sheridan County,dry-days
+2036,"High Emissions
+(SSP3-7.0)",283.225,237.375,259.125,Sheridan County,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",273.65,238.275,257.625,Sheridan County,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",273.5,238.025,258.625,Sheridan County,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",266.825,244.35,256.25,Sheridan County,dry-days
+2037,"High Emissions
+(SSP3-7.0)",260.525,237.575,254.375,Sheridan County,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",271.6,235.65,265.5,Sheridan County,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",283.95,236.05,249.5,Sheridan County,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",274.925,247.375,253.25,Sheridan County,dry-days
+2038,"High Emissions
+(SSP3-7.0)",277.675,242.925,254.25,Sheridan County,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",281.925,247.8,254.625,Sheridan County,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",272.475,234,257.375,Sheridan County,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",269.2,236.725,248.125,Sheridan County,dry-days
+2039,"High Emissions
+(SSP3-7.0)",293.95,239.5,261,Sheridan County,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",278.925,246.175,264.875,Sheridan County,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",268.675,234.725,249.75,Sheridan County,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",279.15,247.05,256.125,Sheridan County,dry-days
+2040,"High Emissions
+(SSP3-7.0)",279.825,243.6,257,Sheridan County,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",286.5,243.625,254.125,Sheridan County,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",265.65,236.925,253.625,Sheridan County,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",280.2,249.85,256.125,Sheridan County,dry-days
+2041,"High Emissions
+(SSP3-7.0)",275.7,249.05,265.75,Sheridan County,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",267.1,244.25,250,Sheridan County,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",269.5,240.8,256.625,Sheridan County,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",277.95,246.85,257.75,Sheridan County,dry-days
+2042,"High Emissions
+(SSP3-7.0)",262.6,239.925,255,Sheridan County,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",278.95,232.75,255.875,Sheridan County,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",278.95,245.45,254,Sheridan County,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",272.575,244.55,258.125,Sheridan County,dry-days
+2043,"High Emissions
+(SSP3-7.0)",267.425,236.575,249.125,Sheridan County,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",264.6,244.6,254.5,Sheridan County,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",268.275,243.925,261.375,Sheridan County,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",279.625,253.3,260.75,Sheridan County,dry-days
+2044,"High Emissions
+(SSP3-7.0)",278.725,235.675,262,Sheridan County,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",277.875,243.15,260.875,Sheridan County,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",272.15,247.75,254.125,Sheridan County,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",269.475,239.525,254.875,Sheridan County,dry-days
+2045,"High Emissions
+(SSP3-7.0)",277.125,251.275,267.375,Sheridan County,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",267.975,243.325,261.125,Sheridan County,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",273.275,248.125,259.5,Sheridan County,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",267.925,228.65,245.625,Sheridan County,dry-days
+2046,"High Emissions
+(SSP3-7.0)",273.65,245.75,257.25,Sheridan County,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",270.35,245.525,259,Sheridan County,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",271.725,250.525,257.625,Sheridan County,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",270.825,240.425,258,Sheridan County,dry-days
+2047,"High Emissions
+(SSP3-7.0)",278.1,238,253.125,Sheridan County,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",279.825,248.05,255.875,Sheridan County,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",275.275,237.925,263,Sheridan County,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",279.325,247.975,265.625,Sheridan County,dry-days
+2048,"High Emissions
+(SSP3-7.0)",276.1,250.55,260.375,Sheridan County,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",282.6,238.425,266.25,Sheridan County,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",259.9,241.575,255.375,Sheridan County,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",272.05,237.35,259.5,Sheridan County,dry-days
+2049,"High Emissions
+(SSP3-7.0)",270.25,247.05,260.5,Sheridan County,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",281.8,241.325,255.875,Sheridan County,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",268.45,235.825,257.125,Sheridan County,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",281.975,241.45,258.5,Sheridan County,dry-days
+2050,"High Emissions
+(SSP3-7.0)",269.475,253.55,263.75,Sheridan County,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",273.95,246.95,261.125,Sheridan County,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",278.75,235.475,262.625,Sheridan County,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",273.975,242,255.375,Sheridan County,dry-days
+2051,"High Emissions
+(SSP3-7.0)",287.225,250.5,266,Sheridan County,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",270.725,238.875,257.375,Sheridan County,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",287.975,248.65,258.375,Sheridan County,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",267.55,235.95,255.75,Sheridan County,dry-days
+2052,"High Emissions
+(SSP3-7.0)",268.975,236.6,263.875,Sheridan County,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",284.675,244.15,267.625,Sheridan County,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",272.95,239.25,254.25,Sheridan County,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",274.05,249.575,260.75,Sheridan County,dry-days
+2053,"High Emissions
+(SSP3-7.0)",272.65,247.45,264,Sheridan County,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",265.85,239.725,258.5,Sheridan County,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",280.25,251.8,261.625,Sheridan County,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",272.825,242.875,262.75,Sheridan County,dry-days
+2054,"High Emissions
+(SSP3-7.0)",275.775,235.2,259.625,Sheridan County,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",286.8,242.875,266.625,Sheridan County,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",277.325,233.85,265.5,Sheridan County,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",277.325,252.625,264.125,Sheridan County,dry-days
+2055,"High Emissions
+(SSP3-7.0)",271.275,241.75,260,Sheridan County,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",271.75,241.025,256.875,Sheridan County,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",260.925,246.125,250.75,Sheridan County,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",275.075,248.375,254.75,Sheridan County,dry-days
+2056,"High Emissions
+(SSP3-7.0)",287.85,241.85,258,Sheridan County,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",274.7,248.3,259.875,Sheridan County,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",276.65,240.45,255.875,Sheridan County,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",270.5,247.125,263.125,Sheridan County,dry-days
+2057,"High Emissions
+(SSP3-7.0)",271.05,242.325,252.5,Sheridan County,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",255.05,241.2,245.375,Sheridan County,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",272.325,249.325,264.875,Sheridan County,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",275.3,245.55,261.5,Sheridan County,dry-days
+2058,"High Emissions
+(SSP3-7.0)",277.05,238.975,250.5,Sheridan County,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",266.725,242.175,253.75,Sheridan County,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",272.5,255,266.25,Sheridan County,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",275.775,246.3,259,Sheridan County,dry-days
+2059,"High Emissions
+(SSP3-7.0)",276.9,240.175,254.625,Sheridan County,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",278.875,245.925,261.625,Sheridan County,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",275.175,240.475,266.375,Sheridan County,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",272.75,242.675,258.25,Sheridan County,dry-days
+2060,"High Emissions
+(SSP3-7.0)",270.075,241.925,250.25,Sheridan County,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",268.2,248.15,258.5,Sheridan County,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",277.725,233.025,269.625,Sheridan County,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",279.325,250.95,258.875,Sheridan County,dry-days
+2061,"High Emissions
+(SSP3-7.0)",281.075,247.975,263.375,Sheridan County,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",278.625,243.65,261.625,Sheridan County,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",277.075,237.775,259.375,Sheridan County,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",267.5,232.575,260.5,Sheridan County,dry-days
+2062,"High Emissions
+(SSP3-7.0)",271.775,240.75,255.625,Sheridan County,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",269.125,242.225,259.625,Sheridan County,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",276.675,245.7,266.25,Sheridan County,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",265.625,240.55,255.5,Sheridan County,dry-days
+2063,"High Emissions
+(SSP3-7.0)",280.75,246.35,264.375,Sheridan County,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",272.925,256.05,266.125,Sheridan County,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",270.5,244.3,257.5,Sheridan County,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",271.675,236.775,258.125,Sheridan County,dry-days
+2064,"High Emissions
+(SSP3-7.0)",271.5,229.475,259.375,Sheridan County,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",278.05,248.125,258.75,Sheridan County,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",269.35,231.75,255.75,Sheridan County,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",276.5,243.675,269.25,Sheridan County,dry-days
+2065,"High Emissions
+(SSP3-7.0)",269.55,243.55,263.75,Sheridan County,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",276.4,252.95,265.375,Sheridan County,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",282.85,244.125,264.875,Sheridan County,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",274.9,239.05,256.375,Sheridan County,dry-days
+2066,"High Emissions
+(SSP3-7.0)",275.05,244.625,257.875,Sheridan County,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",281.875,229.325,259,Sheridan County,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",283.15,243.675,262.625,Sheridan County,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",289.875,240.5,254.5,Sheridan County,dry-days
+2067,"High Emissions
+(SSP3-7.0)",292.95,248.05,256.125,Sheridan County,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",288.275,240.45,265.625,Sheridan County,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",277.95,242.925,253.5,Sheridan County,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",271.5,233.05,246.875,Sheridan County,dry-days
+2068,"High Emissions
+(SSP3-7.0)",260.575,230.975,254.125,Sheridan County,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",276.825,242.075,253.375,Sheridan County,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",278.55,229.2,251.875,Sheridan County,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",273.875,246.925,255.625,Sheridan County,dry-days
+2069,"High Emissions
+(SSP3-7.0)",281.975,247.675,270.625,Sheridan County,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",275.85,237.775,255.625,Sheridan County,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",270.025,239.275,254.5,Sheridan County,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",280.85,240.65,252.875,Sheridan County,dry-days
+2070,"High Emissions
+(SSP3-7.0)",275.45,248.975,258,Sheridan County,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",267.45,239.075,263,Sheridan County,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",298.925,236.25,251.5,Sheridan County,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",274.875,246.55,257.375,Sheridan County,dry-days
+2071,"High Emissions
+(SSP3-7.0)",272.15,242.8,263,Sheridan County,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",281.8,239.65,256.375,Sheridan County,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",277.6,246.55,257.125,Sheridan County,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",279.05,234.5,262,Sheridan County,dry-days
+2072,"High Emissions
+(SSP3-7.0)",267.5,248.825,255.875,Sheridan County,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",271.275,227.1,254.875,Sheridan County,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",276.375,247.075,267.125,Sheridan County,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",275.6,239.3,260.875,Sheridan County,dry-days
+2073,"High Emissions
+(SSP3-7.0)",273.8,245.2,265.125,Sheridan County,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",273.65,240.95,256.25,Sheridan County,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",280.975,238.55,254.75,Sheridan County,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",270.775,243.875,251.25,Sheridan County,dry-days
+2074,"High Emissions
+(SSP3-7.0)",265.85,245.025,255.875,Sheridan County,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",273.675,245.025,260.375,Sheridan County,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",281.075,244.575,247.625,Sheridan County,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",283.575,240.85,258.5,Sheridan County,dry-days
+2075,"High Emissions
+(SSP3-7.0)",270.8,237.725,253.5,Sheridan County,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",276.975,256.825,266.125,Sheridan County,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",266.025,251.05,262.25,Sheridan County,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",269.775,238.625,259.125,Sheridan County,dry-days
+2076,"High Emissions
+(SSP3-7.0)",266.875,248.2,256.25,Sheridan County,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",279.5,239.5,261.5,Sheridan County,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",274.3,248.55,262.625,Sheridan County,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",271.95,241.675,257.125,Sheridan County,dry-days
+2077,"High Emissions
+(SSP3-7.0)",275.575,248.275,259.75,Sheridan County,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",269.05,243.575,249,Sheridan County,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",278.15,244.875,264.25,Sheridan County,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",269.975,240.55,257.75,Sheridan County,dry-days
+2078,"High Emissions
+(SSP3-7.0)",275.525,249.175,264.375,Sheridan County,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",264.325,230.575,244.5,Sheridan County,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",272.725,245.425,261,Sheridan County,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",271.35,237.55,263,Sheridan County,dry-days
+2079,"High Emissions
+(SSP3-7.0)",265.975,231.425,250.75,Sheridan County,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",276.3,246.6,263.75,Sheridan County,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",275.25,245.275,255.875,Sheridan County,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",279.3,230.05,255.25,Sheridan County,dry-days
+2080,"High Emissions
+(SSP3-7.0)",263.175,237.425,257.25,Sheridan County,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",277.85,246.325,262.25,Sheridan County,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",274,247.7,259.25,Sheridan County,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",270.4,247.15,262.25,Sheridan County,dry-days
+2081,"High Emissions
+(SSP3-7.0)",271.275,235.025,254,Sheridan County,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",282.6,247,252.5,Sheridan County,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",280.25,245.9,275.25,Sheridan County,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",275.825,245.775,265.5,Sheridan County,dry-days
+2082,"High Emissions
+(SSP3-7.0)",275.6,239.4,266.875,Sheridan County,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",277.625,244.125,258,Sheridan County,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",289.625,255.55,261,Sheridan County,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",277.425,236.55,266.5,Sheridan County,dry-days
+2083,"High Emissions
+(SSP3-7.0)",277.975,233.525,261.25,Sheridan County,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",276.725,240.575,255.375,Sheridan County,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",271.65,233.75,250.375,Sheridan County,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",276.775,230.275,263.375,Sheridan County,dry-days
+2084,"High Emissions
+(SSP3-7.0)",284.875,244.95,268.5,Sheridan County,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",274.55,237.05,258.5,Sheridan County,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",267.525,241.25,257.625,Sheridan County,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",276,236.475,247.875,Sheridan County,dry-days
+2085,"High Emissions
+(SSP3-7.0)",274.95,247.95,262.25,Sheridan County,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",278.925,249.75,256.75,Sheridan County,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",275.175,231.75,263.875,Sheridan County,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",292.7,233.15,256,Sheridan County,dry-days
+2086,"High Emissions
+(SSP3-7.0)",284.4,243,264,Sheridan County,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",282.65,240.7,265,Sheridan County,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",272.35,240.525,261.25,Sheridan County,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",281.675,236.575,263.875,Sheridan County,dry-days
+2087,"High Emissions
+(SSP3-7.0)",278.35,246.275,258.375,Sheridan County,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",271.85,231.55,245,Sheridan County,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",274.625,238.75,258.375,Sheridan County,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",281.35,246.15,260.875,Sheridan County,dry-days
+2088,"High Emissions
+(SSP3-7.0)",264.75,246.625,254,Sheridan County,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",297.7,235.4,264.125,Sheridan County,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",267.85,234.175,247.625,Sheridan County,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",273.575,254.05,259.25,Sheridan County,dry-days
+2089,"High Emissions
+(SSP3-7.0)",273.95,248.175,259.625,Sheridan County,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",291.425,238.475,254.875,Sheridan County,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",272.225,245.3,259.5,Sheridan County,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",267.25,240.075,256.375,Sheridan County,dry-days
+2090,"High Emissions
+(SSP3-7.0)",285.65,247.4,272.25,Sheridan County,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",272.5,245.55,254.5,Sheridan County,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",268.575,241.2,259.125,Sheridan County,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",272.075,244.5,249.625,Sheridan County,dry-days
+2091,"High Emissions
+(SSP3-7.0)",279.5,259.325,267,Sheridan County,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",286.125,239.05,257.5,Sheridan County,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",274.75,236.925,259.75,Sheridan County,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",280.75,245.55,250.875,Sheridan County,dry-days
+2092,"High Emissions
+(SSP3-7.0)",271.275,240.975,253.625,Sheridan County,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",276.375,240.7,267.25,Sheridan County,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",273.75,241.975,258.75,Sheridan County,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",275.625,245.15,254.625,Sheridan County,dry-days
+2093,"High Emissions
+(SSP3-7.0)",266.65,240.725,254.75,Sheridan County,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",283.975,232.025,268.875,Sheridan County,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",267.325,237.025,256.5,Sheridan County,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",266.8,244.55,259.5,Sheridan County,dry-days
+2094,"High Emissions
+(SSP3-7.0)",275.4,249.175,259.125,Sheridan County,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",272.2,248.55,260.5,Sheridan County,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",289.675,248.225,266.5,Sheridan County,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",273.825,243.45,267.625,Sheridan County,dry-days
+2095,"High Emissions
+(SSP3-7.0)",282,243.25,258.5,Sheridan County,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",284.65,243.075,268.625,Sheridan County,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",273.475,236.725,261.125,Sheridan County,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",268.3,243.275,252,Sheridan County,dry-days
+2096,"High Emissions
+(SSP3-7.0)",268.8,254.675,260.625,Sheridan County,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",272.775,239.55,254.375,Sheridan County,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",283.825,255.825,270.5,Sheridan County,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",267.85,242.35,262.375,Sheridan County,dry-days
+2097,"High Emissions
+(SSP3-7.0)",282.825,231.4,271.375,Sheridan County,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",271.2,253.2,258.75,Sheridan County,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",271.95,246.3,260.875,Sheridan County,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",273.125,250.675,257.375,Sheridan County,dry-days
+2098,"High Emissions
+(SSP3-7.0)",270.025,238.875,255.875,Sheridan County,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",293.5,247.775,267.25,Sheridan County,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",262.35,246.25,254.625,Sheridan County,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",276.525,237.025,265.875,Sheridan County,dry-days
+2099,"High Emissions
+(SSP3-7.0)",289.3,242.45,258.125,Sheridan County,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",289.7,239.775,262.5,Sheridan County,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",269.05,246.15,250.5,Sheridan County,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",279.4,242.05,258.875,Sheridan County,dry-days
+2100,"High Emissions
+(SSP3-7.0)",270.175,241.9,256.75,Sheridan County,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",278.95,251.8,260,Sheridan County,dry-days

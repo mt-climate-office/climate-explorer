@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,3012.495,2549.164,2681.935,Miles City,gdd
+1951,Historical Emissions,2951.218,2493.005,2838.892,Miles City,gdd
+1952,Historical Emissions,2967.5,2493.535,2670.042,Miles City,gdd
+1953,Historical Emissions,2893.674,2326.123,2737.936,Miles City,gdd
+1954,Historical Emissions,2868.022,2213.032,2520.766,Miles City,gdd
+1955,Historical Emissions,3030.625,2461.482,2642.468,Miles City,gdd
+1956,Historical Emissions,3048.8,2482.132,2786.831,Miles City,gdd
+1957,Historical Emissions,3216.75,2311.02,2682.809,Miles City,gdd
+1958,Historical Emissions,2910.111,2344.315,2621.95,Miles City,gdd
+1959,Historical Emissions,2730.133,2318.41,2440.801,Miles City,gdd
+1960,Historical Emissions,2797.243,2563.311,2625.456,Miles City,gdd
+1961,Historical Emissions,2771.538,2467.609,2689.397,Miles City,gdd
+1962,Historical Emissions,2751.114,2267.39,2615.701,Miles City,gdd
+1963,Historical Emissions,2640.92,2348.913,2555.094,Miles City,gdd
+1964,Historical Emissions,2805.146,2406.277,2602.364,Miles City,gdd
+1965,Historical Emissions,2814.584,2345.788,2716.767,Miles City,gdd
+1966,Historical Emissions,2994.001,2279.377,2492.104,Miles City,gdd
+1967,Historical Emissions,2848.566,2394.643,2539.318,Miles City,gdd
+1968,Historical Emissions,2628.578,2246.679,2436.13,Miles City,gdd
+1969,Historical Emissions,2816.069,2161.554,2617.444,Miles City,gdd
+1970,Historical Emissions,2764.455,2343.694,2583.341,Miles City,gdd
+1971,Historical Emissions,2901.184,2442.54,2687.738,Miles City,gdd
+1972,Historical Emissions,2867.773,2369.605,2601.837,Miles City,gdd
+1973,Historical Emissions,2935.034,2251.186,2487.39,Miles City,gdd
+1974,Historical Emissions,2832.875,2225.246,2690.127,Miles City,gdd
+1975,Historical Emissions,2884.732,2450.109,2683.547,Miles City,gdd
+1976,Historical Emissions,2732.976,2473.354,2573.757,Miles City,gdd
+1977,Historical Emissions,3028.94,2434.231,2568.151,Miles City,gdd
+1978,Historical Emissions,2892.457,2355.013,2676.375,Miles City,gdd
+1979,Historical Emissions,2868.757,2467.482,2640.055,Miles City,gdd
+1980,Historical Emissions,2948.1,2438.401,2662.206,Miles City,gdd
+1981,Historical Emissions,2938.888,2368.778,2583.472,Miles City,gdd
+1982,Historical Emissions,2877.672,2469.428,2642.429,Miles City,gdd
+1983,Historical Emissions,2721.78,2391.986,2550.142,Miles City,gdd
+1984,Historical Emissions,2874.157,2430.294,2623.327,Miles City,gdd
+1985,Historical Emissions,3025.32,2551.795,2716.585,Miles City,gdd
+1986,Historical Emissions,2630.001,2356.647,2490.499,Miles City,gdd
+1987,Historical Emissions,2753.995,2320.765,2520.183,Miles City,gdd
+1988,Historical Emissions,2780.45,2327.182,2627.326,Miles City,gdd
+1989,Historical Emissions,2957.425,2473.457,2789.633,Miles City,gdd
+1990,Historical Emissions,3242.893,2477.524,2805.211,Miles City,gdd
+1991,Historical Emissions,2917.774,2436.831,2671.699,Miles City,gdd
+1992,Historical Emissions,2663.727,2388.502,2494.416,Miles City,gdd
+1993,Historical Emissions,2807.007,2381.999,2584.386,Miles City,gdd
+1994,Historical Emissions,3013.12,2391.156,2712.428,Miles City,gdd
+1995,Historical Emissions,3108.171,2572.996,2801.799,Miles City,gdd
+1996,Historical Emissions,3201.37,2675.06,2939.253,Miles City,gdd
+1997,Historical Emissions,3006.036,2538.773,2716.048,Miles City,gdd
+1998,Historical Emissions,2974.704,2544.857,2692.273,Miles City,gdd
+1999,Historical Emissions,2937.749,2558.361,2810.533,Miles City,gdd
+2000,Historical Emissions,3031.076,2613.526,2907.575,Miles City,gdd
+2001,Historical Emissions,3077.575,2560.819,2759.762,Miles City,gdd
+2002,Historical Emissions,3167.638,2754.082,2952.092,Miles City,gdd
+2003,Historical Emissions,3139.402,2629.725,2927.799,Miles City,gdd
+2004,Historical Emissions,3209.58,2778.373,2907.001,Miles City,gdd
+2005,Historical Emissions,3172.625,2792.786,2934.758,Miles City,gdd
+2006,Historical Emissions,3070.773,2689.331,2903.452,Miles City,gdd
+2007,Historical Emissions,3017.494,2799.533,2843.484,Miles City,gdd
+2008,Historical Emissions,3105.294,2632.892,2926.034,Miles City,gdd
+2009,Historical Emissions,3018.317,2678.107,2767.37,Miles City,gdd
+2010,Historical Emissions,3188.657,2745.844,2918.13,Miles City,gdd
+2011,Historical Emissions,3110.01,2703.084,2978.98,Miles City,gdd
+2012,Historical Emissions,3085.718,2923.903,2994.576,Miles City,gdd
+2013,Historical Emissions,3370.56,2863.251,3122.669,Miles City,gdd
+2014,Historical Emissions,3454.403,2859.317,2951.002,Miles City,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",3422.009,2908.446,3086.616,Miles City,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",3308.748,2641.373,3095.02,Miles City,gdd
+2015,"High Emissions
+(SSP3-7.0)",3287.461,2758.437,3120.475,Miles City,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",3214.436,2737.203,3025.795,Miles City,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",3266.244,2949.926,3145.022,Miles City,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",3199.545,2739.114,2912.173,Miles City,gdd
+2016,"High Emissions
+(SSP3-7.0)",3389.428,2747.919,3072.634,Miles City,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",3214.308,2807.425,2972.642,Miles City,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",3157.496,2869.759,2978.346,Miles City,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",3284.769,2740.275,3050.601,Miles City,gdd
+2017,"High Emissions
+(SSP3-7.0)",3155.529,2738.712,3009.66,Miles City,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",3301.296,2880.574,3101.192,Miles City,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",3219.046,2732.447,2917.309,Miles City,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",3263.14,2869.309,3040.962,Miles City,gdd
+2018,"High Emissions
+(SSP3-7.0)",3203.468,2649.005,2981.258,Miles City,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",3230.111,2764.222,2955.579,Miles City,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",3498.623,3007.227,3161.257,Miles City,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",3389.491,2774.802,3093.89,Miles City,gdd
+2019,"High Emissions
+(SSP3-7.0)",3397.995,2888.832,3018.458,Miles City,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",3594.304,2940.013,3065.151,Miles City,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",3427.664,2739.007,2973.059,Miles City,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",3307.739,2782.238,3067.189,Miles City,gdd
+2020,"High Emissions
+(SSP3-7.0)",3280.519,2789.297,2877.695,Miles City,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",3271.937,2885.986,3165.813,Miles City,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",3457.761,2884.854,3146.8,Miles City,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",3476.703,2738.898,3121.116,Miles City,gdd
+2021,"High Emissions
+(SSP3-7.0)",3431.623,2769.532,3256.139,Miles City,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",3313.16,2868.341,3064.94,Miles City,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",3265.942,2948.565,3100.695,Miles City,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",3270.058,2891.569,3132.82,Miles City,gdd
+2022,"High Emissions
+(SSP3-7.0)",3244.978,2779.731,2986.5,Miles City,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",3573.527,2826.113,3304.75,Miles City,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",3232.412,2777.666,3098.723,Miles City,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",3482.56,2769.403,3085.506,Miles City,gdd
+2023,"High Emissions
+(SSP3-7.0)",3434.484,2922.224,3075.863,Miles City,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",3237.434,2652.242,2913.341,Miles City,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",3333.59,2985.827,3106.624,Miles City,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",3496.981,2776.589,3082.163,Miles City,gdd
+2024,"High Emissions
+(SSP3-7.0)",3477.999,2876.34,3240.065,Miles City,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",3409.337,2821.121,3062.189,Miles City,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",3311.422,3054.705,3095.096,Miles City,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",3375.701,2804.962,2971.208,Miles City,gdd
+2025,"High Emissions
+(SSP3-7.0)",3489.909,3017.265,3169.313,Miles City,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",3467.401,2798.354,3315.577,Miles City,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",3373.86,2945.279,3068.129,Miles City,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",3500.028,2896.167,3178.498,Miles City,gdd
+2026,"High Emissions
+(SSP3-7.0)",3246.472,2920.406,3044.909,Miles City,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",3438.174,2831.194,3033.384,Miles City,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",3637.085,2807.622,3041.529,Miles City,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",3474.876,2800.559,3154.385,Miles City,gdd
+2027,"High Emissions
+(SSP3-7.0)",3446.831,2844.97,3082.368,Miles City,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",3379.684,2986.162,3229.803,Miles City,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",3180.619,2870.016,2974.698,Miles City,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",3162.294,2884.94,3014.605,Miles City,gdd
+2028,"High Emissions
+(SSP3-7.0)",3323.474,2963.389,3117.302,Miles City,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",3357.992,2908.401,3136.934,Miles City,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",3617.751,3184.43,3314.763,Miles City,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",3464.721,2885.278,3085.325,Miles City,gdd
+2029,"High Emissions
+(SSP3-7.0)",3398.678,2848.667,3038.699,Miles City,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",3478.384,3113.525,3207.147,Miles City,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",3471.39,2934.39,3130.947,Miles City,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",3721.227,2956.613,3357.284,Miles City,gdd
+2030,"High Emissions
+(SSP3-7.0)",3542.726,2802.784,3193.533,Miles City,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",3579.567,2879.818,3039.837,Miles City,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",3421.688,3013.277,3258.612,Miles City,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",3398.405,2945.465,3172.539,Miles City,gdd
+2031,"High Emissions
+(SSP3-7.0)",3506.129,3022.691,3292.05,Miles City,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",3663.642,3149.753,3352.484,Miles City,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",3360.621,2864.145,3164.705,Miles City,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",3334.427,2958.242,3184.494,Miles City,gdd
+2032,"High Emissions
+(SSP3-7.0)",3588.409,2898.097,3287.11,Miles City,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",3555.007,2858.449,3200.104,Miles City,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",3402.924,2952.835,3025.598,Miles City,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",3687.761,2933.583,3277.338,Miles City,gdd
+2033,"High Emissions
+(SSP3-7.0)",3408.469,2795.439,3137.946,Miles City,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",3545.093,3094.248,3218.333,Miles City,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",3454.615,2888.69,3139.856,Miles City,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",3564.403,2986.606,3141.953,Miles City,gdd
+2034,"High Emissions
+(SSP3-7.0)",3630.487,2937.466,3401.993,Miles City,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",3596.566,2906.478,3246.307,Miles City,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",3628.857,3091.701,3207.008,Miles City,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",3607.67,3015.308,3242.808,Miles City,gdd
+2035,"High Emissions
+(SSP3-7.0)",3400.957,2661.825,3184.96,Miles City,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",3593.292,3036.314,3350.785,Miles City,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",3391.164,2916.897,3226.125,Miles City,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",3306.853,2891.122,3234.65,Miles City,gdd
+2036,"High Emissions
+(SSP3-7.0)",3638.096,2869.788,3230.788,Miles City,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",3457.684,2783.053,3354.434,Miles City,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",3541.756,2994.058,3476.469,Miles City,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",3514.914,2862.539,3070.132,Miles City,gdd
+2037,"High Emissions
+(SSP3-7.0)",3407.532,2851.11,3130.636,Miles City,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",3457.395,2968.38,3364.564,Miles City,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",3506.152,3045.863,3185.598,Miles City,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",3280.016,2960.305,3158.43,Miles City,gdd
+2038,"High Emissions
+(SSP3-7.0)",3458.033,3110.118,3372.612,Miles City,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",3869.967,2894.007,3337.316,Miles City,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",3433.834,2827.5,3166.94,Miles City,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",3360.03,2898.62,3240.431,Miles City,gdd
+2039,"High Emissions
+(SSP3-7.0)",3495.92,3250.706,3358.675,Miles City,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",3662.686,2951.519,3084.153,Miles City,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",3523.766,2935.588,3300.638,Miles City,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",3645.952,2914.797,3320.1,Miles City,gdd
+2040,"High Emissions
+(SSP3-7.0)",3447.988,3128.582,3368.818,Miles City,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",3916.91,3018.896,3506.097,Miles City,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",3393.66,2748.334,3175.716,Miles City,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",3444.98,3073.423,3286.469,Miles City,gdd
+2041,"High Emissions
+(SSP3-7.0)",3617.169,2906.35,3137.603,Miles City,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",3594.151,3006.986,3277.19,Miles City,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",3685.854,2880.628,3223.461,Miles City,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",3528.134,2902.663,3206.215,Miles City,gdd
+2042,"High Emissions
+(SSP3-7.0)",3458.672,3083.502,3218.178,Miles City,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",3832.858,3137.309,3451.284,Miles City,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",3424.734,3009.235,3165.042,Miles City,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",3571.621,3016.008,3176.968,Miles City,gdd
+2043,"High Emissions
+(SSP3-7.0)",3387.993,2978.336,3172.02,Miles City,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",3589.957,3152.848,3327.334,Miles City,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",3547.024,3085.027,3292.731,Miles City,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",3825.852,3084.906,3327.52,Miles City,gdd
+2044,"High Emissions
+(SSP3-7.0)",3514.04,3172.728,3331.454,Miles City,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",3642.552,3126.912,3395.8,Miles City,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",3443.893,2878.276,3149.687,Miles City,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",3554.065,2984.572,3329.963,Miles City,gdd
+2045,"High Emissions
+(SSP3-7.0)",3583.263,3149.56,3269.772,Miles City,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",3508.841,3147.833,3378.328,Miles City,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",3751.754,2976.509,3360.188,Miles City,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",3521.708,2946.726,3308.587,Miles City,gdd
+2046,"High Emissions
+(SSP3-7.0)",3656.72,3304.719,3452.972,Miles City,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",3701.935,3072.978,3250.002,Miles City,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",3672.702,3075.729,3404.654,Miles City,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",3570.764,3025.569,3241.096,Miles City,gdd
+2047,"High Emissions
+(SSP3-7.0)",3418.468,3120.898,3254.7,Miles City,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",3802.804,3043.018,3599.057,Miles City,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",3460.805,3160.174,3253.983,Miles City,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",3643.135,2937.528,3386.088,Miles City,gdd
+2048,"High Emissions
+(SSP3-7.0)",3764.3,2997.17,3345.645,Miles City,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",4111.895,3143.561,3556.239,Miles City,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",3501.829,2973.597,3363.255,Miles City,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",3675.58,3125.768,3473.666,Miles City,gdd
+2049,"High Emissions
+(SSP3-7.0)",3533.102,3147.871,3297.169,Miles City,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",3761.001,3149.25,3493.663,Miles City,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",3551.36,2966.267,3191.665,Miles City,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",3909.539,3128.628,3529.843,Miles City,gdd
+2050,"High Emissions
+(SSP3-7.0)",3620.755,3057.511,3455.191,Miles City,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",3817.031,3229.733,3489.965,Miles City,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",3515.172,2982.387,3390.107,Miles City,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",3850.911,3138.062,3320.056,Miles City,gdd
+2051,"High Emissions
+(SSP3-7.0)",3792.323,3234.906,3421.561,Miles City,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",3791.493,3229.047,3470.059,Miles City,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",3571.31,3218.493,3306.501,Miles City,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",3555.192,3029.597,3430.407,Miles City,gdd
+2052,"High Emissions
+(SSP3-7.0)",3764.989,3080.133,3317.089,Miles City,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",3715.338,3299.99,3607.135,Miles City,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",3658.912,3004.763,3371.82,Miles City,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",3662.509,2918.31,3353.55,Miles City,gdd
+2053,"High Emissions
+(SSP3-7.0)",3776.838,3316.272,3534.405,Miles City,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",3975.604,3044.284,3687.489,Miles City,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",3764.848,3099.227,3375.797,Miles City,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",3641.241,2928.549,3286.504,Miles City,gdd
+2054,"High Emissions
+(SSP3-7.0)",3631.645,3198.14,3289.418,Miles City,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",3781.709,3186.724,3596.63,Miles City,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",3520.448,3226.837,3442.945,Miles City,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",3814.522,2897.325,3423.357,Miles City,gdd
+2055,"High Emissions
+(SSP3-7.0)",3733.397,3260.937,3464.775,Miles City,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",3956.339,3147.878,3708.765,Miles City,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",3470.715,2960.537,3378.759,Miles City,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",3611.461,3103.41,3462.186,Miles City,gdd
+2056,"High Emissions
+(SSP3-7.0)",3929.631,2963.51,3454.063,Miles City,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",3871.849,3421.683,3581.655,Miles City,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",3641.783,2853.055,3439.183,Miles City,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",3814.806,3212.535,3429.547,Miles City,gdd
+2057,"High Emissions
+(SSP3-7.0)",3883.199,3152.838,3332.048,Miles City,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",3880.813,3157.987,3393.595,Miles City,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",3461.468,3031.609,3296.985,Miles City,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",3912.004,3343.956,3505.153,Miles City,gdd
+2058,"High Emissions
+(SSP3-7.0)",3706.856,3135.142,3422.114,Miles City,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",3778.576,3171.318,3498.016,Miles City,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",3670.735,3195.398,3426.702,Miles City,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",3918.771,3118.371,3432.026,Miles City,gdd
+2059,"High Emissions
+(SSP3-7.0)",4039.493,3234.569,3530.566,Miles City,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",3985.12,3504.399,3700.125,Miles City,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",3543.564,3073.318,3225.407,Miles City,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",3945.755,3036.995,3378.5,Miles City,gdd
+2060,"High Emissions
+(SSP3-7.0)",3736.449,3271.064,3358.515,Miles City,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",3850.157,3336.831,3607.371,Miles City,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",3484.911,2929.652,3339.134,Miles City,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",3852.933,3134.289,3461.815,Miles City,gdd
+2061,"High Emissions
+(SSP3-7.0)",3799.439,3363.195,3553.164,Miles City,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",4112.459,3525.581,3830.365,Miles City,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",3850.264,3017.536,3304.097,Miles City,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",3565.508,3174.177,3369.549,Miles City,gdd
+2062,"High Emissions
+(SSP3-7.0)",3698.258,3346.347,3480.763,Miles City,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",4023.3,3517.09,3670.932,Miles City,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",3421.808,3154.322,3289.634,Miles City,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",3648.071,3068.917,3165.041,Miles City,gdd
+2063,"High Emissions
+(SSP3-7.0)",3845.833,3365.711,3642.404,Miles City,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",4007.624,3435.914,3726.828,Miles City,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",3754.803,2850.697,3255.037,Miles City,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",3560.138,3043.271,3268.629,Miles City,gdd
+2064,"High Emissions
+(SSP3-7.0)",3804.505,3076.328,3475.208,Miles City,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",3936.035,3498.912,3728.369,Miles City,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",3651.998,2803.254,3089.049,Miles City,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",3749.527,3093.835,3343.587,Miles City,gdd
+2065,"High Emissions
+(SSP3-7.0)",3868.009,3326.063,3686.13,Miles City,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",4291.71,3604.967,3662.861,Miles City,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",3661.541,3150.242,3245.868,Miles City,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",3721.273,3181.112,3561.303,Miles City,gdd
+2066,"High Emissions
+(SSP3-7.0)",3977.029,3421.948,3543.597,Miles City,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",4113.636,3370.7,3904.423,Miles City,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",3680.661,3282.823,3395.271,Miles City,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",3793.957,3136.23,3465.196,Miles City,gdd
+2067,"High Emissions
+(SSP3-7.0)",4120.22,3571.364,3632.669,Miles City,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",4201.791,3427.223,3665.693,Miles City,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",3601.501,3095.979,3356.828,Miles City,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",3702.336,3042.351,3293.57,Miles City,gdd
+2068,"High Emissions
+(SSP3-7.0)",4051.162,3311.393,3500.209,Miles City,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",4200.04,3553.148,3871.069,Miles City,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",3773.464,3147.601,3350.978,Miles City,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",3753.101,3114.363,3405.032,Miles City,gdd
+2069,"High Emissions
+(SSP3-7.0)",4198.729,3578.028,3691.348,Miles City,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",4513.08,3396.95,4004.302,Miles City,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",3513.633,3221.201,3407.251,Miles City,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",3741.157,3053.894,3297.181,Miles City,gdd
+2070,"High Emissions
+(SSP3-7.0)",4213.623,3574.907,3922.149,Miles City,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",4314.521,3650.743,3833.249,Miles City,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",3970.017,3033.365,3345.213,Miles City,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",3598.612,3393.94,3519.925,Miles City,gdd
+2071,"High Emissions
+(SSP3-7.0)",4040.842,3439.064,3783.614,Miles City,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",4324.633,3573.155,3868.684,Miles City,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",3805.31,3262.885,3430.626,Miles City,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",3702.108,3170.804,3328.685,Miles City,gdd
+2072,"High Emissions
+(SSP3-7.0)",4059.95,3344.663,3643.444,Miles City,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",4332.281,3600.506,3711.647,Miles City,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",3634.855,3007.704,3331.896,Miles City,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",3757.479,3009.126,3413.47,Miles City,gdd
+2073,"High Emissions
+(SSP3-7.0)",3886.126,3563.309,3718.122,Miles City,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",4239.048,3361.405,3871.136,Miles City,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",3661.923,2916.526,3254.265,Miles City,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",3759.608,3186.451,3444.343,Miles City,gdd
+2074,"High Emissions
+(SSP3-7.0)",4063.737,3425.85,3560.586,Miles City,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",4516.573,3588.414,3857.127,Miles City,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",3713.574,2931.024,3321.3,Miles City,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",3879.196,3146.909,3380.464,Miles City,gdd
+2075,"High Emissions
+(SSP3-7.0)",4176.901,3388.078,3546.722,Miles City,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",4301.102,3662.174,4077.329,Miles City,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",3654.4,2998.889,3165.254,Miles City,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",3555.272,3175.141,3364.028,Miles City,gdd
+2076,"High Emissions
+(SSP3-7.0)",4254.539,3593.93,3845.998,Miles City,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",4586.857,3583.148,4075.784,Miles City,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",3735.656,3116.746,3481.304,Miles City,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",3833.063,3390.334,3627.147,Miles City,gdd
+2077,"High Emissions
+(SSP3-7.0)",3982.378,3531.354,3714.257,Miles City,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",4392.117,3789.118,4109.045,Miles City,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",3686.509,3215.809,3477.604,Miles City,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",3805.212,3169.614,3516.398,Miles City,gdd
+2078,"High Emissions
+(SSP3-7.0)",4216.497,3411.237,3775.538,Miles City,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",4031.874,3634.751,3737.749,Miles City,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",3616.298,3145.141,3322.156,Miles City,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",3649.526,3330.358,3477.275,Miles City,gdd
+2079,"High Emissions
+(SSP3-7.0)",4083.678,3308.295,3731.348,Miles City,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",4346.989,3624.92,4147.957,Miles City,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",3534.619,2877.971,3262.78,Miles City,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",3851.482,3208.804,3605.779,Miles City,gdd
+2080,"High Emissions
+(SSP3-7.0)",4119.986,3539.321,3694.759,Miles City,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",4314.094,3856.604,4131.015,Miles City,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",3773.964,2854.481,3267.398,Miles City,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",3850.194,3204.009,3440.413,Miles City,gdd
+2081,"High Emissions
+(SSP3-7.0)",4322.511,3338.665,3581.71,Miles City,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",4467.594,3790.31,3997.583,Miles City,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",3779.098,3194.939,3506.611,Miles City,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",3887.03,3234.941,3522.777,Miles City,gdd
+2082,"High Emissions
+(SSP3-7.0)",4287.266,3517.599,3751.483,Miles City,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",4537.129,3851.308,4133.279,Miles City,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",3677.042,3273.845,3490.95,Miles City,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",3737.254,3359.14,3606.901,Miles City,gdd
+2083,"High Emissions
+(SSP3-7.0)",4255.167,3309.354,3870.376,Miles City,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",4633.358,3848.432,4135.18,Miles City,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",3753.12,2930.071,3254.4,Miles City,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",3983.57,3195.266,3751.936,Miles City,gdd
+2084,"High Emissions
+(SSP3-7.0)",4494.688,3627.873,4060.327,Miles City,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",4697.379,3752.845,4150.286,Miles City,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",3675.216,2972.138,3222.01,Miles City,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",3820.816,3224.714,3508.38,Miles City,gdd
+2085,"High Emissions
+(SSP3-7.0)",4219.584,3574.932,3772.507,Miles City,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",4441.579,3612.268,4254.773,Miles City,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",3598.178,3322.082,3422.616,Miles City,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",3772.914,3525.736,3631.09,Miles City,gdd
+2086,"High Emissions
+(SSP3-7.0)",4315.729,3509.763,3907.582,Miles City,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",4568.139,3750.884,4381.977,Miles City,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",3521.269,3037.774,3259.18,Miles City,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",4043.158,3449.346,3834.979,Miles City,gdd
+2087,"High Emissions
+(SSP3-7.0)",4476.59,3498.168,3860.336,Miles City,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",4736.407,3757.407,3821.304,Miles City,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",3640.293,3089.86,3227.532,Miles City,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",3978.734,3547.256,3735.366,Miles City,gdd
+2088,"High Emissions
+(SSP3-7.0)",4478.335,3669.307,3950.347,Miles City,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",4627.081,3866.571,4398.676,Miles City,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",3661.157,2967.072,3167.834,Miles City,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",3909.046,3380.79,3629.375,Miles City,gdd
+2089,"High Emissions
+(SSP3-7.0)",4419.539,3597.318,4151.58,Miles City,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",4768.091,4037.458,4505.618,Miles City,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",3601.109,3152.467,3393.183,Miles City,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",3816.861,3280.511,3544.237,Miles City,gdd
+2090,"High Emissions
+(SSP3-7.0)",4468.028,3868.655,4084.638,Miles City,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",4770.614,4061.978,4384.273,Miles City,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",3668.959,3068.15,3265.805,Miles City,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",3824.128,3367.992,3674.84,Miles City,gdd
+2091,"High Emissions
+(SSP3-7.0)",4421.966,3881.722,4118.29,Miles City,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",4984.596,3812.105,4422.541,Miles City,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",3709.067,2894.454,3439.564,Miles City,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",4072.91,3247.57,3789.916,Miles City,gdd
+2092,"High Emissions
+(SSP3-7.0)",4316.171,3788.698,4142.089,Miles City,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",4981.878,3887.128,4409.945,Miles City,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",3660.478,3009.26,3337.296,Miles City,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",3815.811,3199.474,3678.89,Miles City,gdd
+2093,"High Emissions
+(SSP3-7.0)",4587.64,3628.511,3784.36,Miles City,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",4880.266,4120.038,4416.083,Miles City,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",3601.05,2995.752,3318.995,Miles City,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",4073.137,3095.286,3766.372,Miles City,gdd
+2094,"High Emissions
+(SSP3-7.0)",4546.955,3769.833,4049.345,Miles City,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",4981.186,3929.343,4210.154,Miles City,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",3643.256,3175.439,3417.386,Miles City,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",4140.348,3547.708,3808.899,Miles City,gdd
+2095,"High Emissions
+(SSP3-7.0)",4474.398,3720.902,4005.026,Miles City,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",4887.894,3900.237,4451.361,Miles City,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",3597.317,3022.581,3391.331,Miles City,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",4039.266,3444.149,3855.638,Miles City,gdd
+2096,"High Emissions
+(SSP3-7.0)",4563.496,3899.212,4031.118,Miles City,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",4882.878,4095.065,4551.696,Miles City,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",3722.599,2974.222,3249.239,Miles City,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",4144.579,3340.727,3663.378,Miles City,gdd
+2097,"High Emissions
+(SSP3-7.0)",4952.551,3553.539,4157.355,Miles City,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",5375.145,3948.017,4333.143,Miles City,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",3556.292,3064.062,3310.262,Miles City,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",3933.241,3351.75,3657.344,Miles City,gdd
+2098,"High Emissions
+(SSP3-7.0)",4433.547,3778.633,3988.478,Miles City,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",4874.514,4161.883,4493.426,Miles City,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",3571.729,2830.525,3407.627,Miles City,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",3915.167,3219.881,3653.227,Miles City,gdd
+2099,"High Emissions
+(SSP3-7.0)",4751.73,3791.774,4078.743,Miles City,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",5008.068,4016.61,4535.13,Miles City,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",3635.573,2709.589,3119.074,Miles City,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",3988.102,3348.949,3704.046,Miles City,gdd
+2100,"High Emissions
+(SSP3-7.0)",4398.262,3823.483,4163.267,Miles City,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",5084.601,4020.145,4359.171,Miles City,gdd

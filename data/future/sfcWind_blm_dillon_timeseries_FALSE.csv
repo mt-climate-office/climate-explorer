@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,6.339,5.682,6.015,Dillon,sfcWind
+1951,Historical Emissions,6.218,5.732,5.948,Dillon,sfcWind
+1952,Historical Emissions,6.135,5.667,6.025,Dillon,sfcWind
+1953,Historical Emissions,6.277,5.781,6.093,Dillon,sfcWind
+1954,Historical Emissions,6.382,5.578,5.965,Dillon,sfcWind
+1955,Historical Emissions,6.114,5.613,5.862,Dillon,sfcWind
+1956,Historical Emissions,6.504,5.846,6.014,Dillon,sfcWind
+1957,Historical Emissions,6.537,5.858,6.057,Dillon,sfcWind
+1958,Historical Emissions,6.376,5.712,5.997,Dillon,sfcWind
+1959,Historical Emissions,6.13,5.837,6.048,Dillon,sfcWind
+1960,Historical Emissions,6.402,5.826,6.133,Dillon,sfcWind
+1961,Historical Emissions,6.277,5.749,6.112,Dillon,sfcWind
+1962,Historical Emissions,6.138,5.73,6.004,Dillon,sfcWind
+1963,Historical Emissions,6.181,5.698,5.945,Dillon,sfcWind
+1964,Historical Emissions,6.26,5.835,6.016,Dillon,sfcWind
+1965,Historical Emissions,6.39,5.761,5.957,Dillon,sfcWind
+1966,Historical Emissions,6.442,5.848,5.969,Dillon,sfcWind
+1967,Historical Emissions,6.215,5.688,5.966,Dillon,sfcWind
+1968,Historical Emissions,6.176,5.639,5.878,Dillon,sfcWind
+1969,Historical Emissions,6.21,5.682,6.003,Dillon,sfcWind
+1970,Historical Emissions,6.181,5.818,6.025,Dillon,sfcWind
+1971,Historical Emissions,6.142,5.768,6.043,Dillon,sfcWind
+1972,Historical Emissions,6.171,5.904,6.026,Dillon,sfcWind
+1973,Historical Emissions,6.13,5.744,5.965,Dillon,sfcWind
+1974,Historical Emissions,6.305,5.648,5.922,Dillon,sfcWind
+1975,Historical Emissions,6.181,5.723,6.003,Dillon,sfcWind
+1976,Historical Emissions,6.099,5.802,5.973,Dillon,sfcWind
+1977,Historical Emissions,6.104,5.667,5.888,Dillon,sfcWind
+1978,Historical Emissions,6.081,5.783,5.883,Dillon,sfcWind
+1979,Historical Emissions,6.189,5.903,6.006,Dillon,sfcWind
+1980,Historical Emissions,6.408,5.619,6.13,Dillon,sfcWind
+1981,Historical Emissions,6.301,5.73,5.936,Dillon,sfcWind
+1982,Historical Emissions,6.281,5.661,5.94,Dillon,sfcWind
+1983,Historical Emissions,6.434,5.743,5.91,Dillon,sfcWind
+1984,Historical Emissions,6.159,5.739,5.944,Dillon,sfcWind
+1985,Historical Emissions,6.071,5.797,5.872,Dillon,sfcWind
+1986,Historical Emissions,6.135,5.63,6.011,Dillon,sfcWind
+1987,Historical Emissions,6.147,5.66,5.94,Dillon,sfcWind
+1988,Historical Emissions,6.192,5.841,6.06,Dillon,sfcWind
+1989,Historical Emissions,6.065,5.746,5.899,Dillon,sfcWind
+1990,Historical Emissions,6.104,5.282,5.943,Dillon,sfcWind
+1991,Historical Emissions,6.218,5.619,5.873,Dillon,sfcWind
+1992,Historical Emissions,6.215,5.755,6.006,Dillon,sfcWind
+1993,Historical Emissions,5.976,5.595,5.829,Dillon,sfcWind
+1994,Historical Emissions,6.083,5.663,5.817,Dillon,sfcWind
+1995,Historical Emissions,6.272,5.733,6.033,Dillon,sfcWind
+1996,Historical Emissions,6.259,5.557,6.026,Dillon,sfcWind
+1997,Historical Emissions,6.11,5.685,5.895,Dillon,sfcWind
+1998,Historical Emissions,6.019,5.501,5.814,Dillon,sfcWind
+1999,Historical Emissions,6.027,5.685,5.78,Dillon,sfcWind
+2000,Historical Emissions,5.937,5.728,5.861,Dillon,sfcWind
+2001,Historical Emissions,6.231,5.585,5.8,Dillon,sfcWind
+2002,Historical Emissions,6.457,5.565,5.965,Dillon,sfcWind
+2003,Historical Emissions,6.008,5.664,5.775,Dillon,sfcWind
+2004,Historical Emissions,6.239,5.725,5.965,Dillon,sfcWind
+2005,Historical Emissions,6.218,5.547,5.831,Dillon,sfcWind
+2006,Historical Emissions,6.276,5.696,5.965,Dillon,sfcWind
+2007,Historical Emissions,6.268,5.623,5.902,Dillon,sfcWind
+2008,Historical Emissions,6.011,5.417,5.832,Dillon,sfcWind
+2009,Historical Emissions,6.228,5.743,5.967,Dillon,sfcWind
+2010,Historical Emissions,6.215,5.694,5.96,Dillon,sfcWind
+2011,Historical Emissions,6.036,5.736,5.888,Dillon,sfcWind
+2012,Historical Emissions,5.882,5.692,5.838,Dillon,sfcWind
+2013,Historical Emissions,6.095,5.546,5.899,Dillon,sfcWind
+2014,Historical Emissions,6.06,5.636,5.826,Dillon,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",6.293,5.399,5.803,Dillon,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",6.063,5.349,5.873,Dillon,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",6.148,5.344,5.771,Dillon,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",6.135,5.458,5.828,Dillon,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",6.428,5.364,5.793,Dillon,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",5.947,5.577,5.834,Dillon,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",6.169,5.328,5.844,Dillon,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",6.403,5.343,5.765,Dillon,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",6.172,5.368,6.004,Dillon,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",5.985,5.362,5.682,Dillon,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",5.907,5.38,5.621,Dillon,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",6.062,5.475,5.71,Dillon,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",6.344,5.42,5.918,Dillon,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",5.973,5.172,5.775,Dillon,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",5.932,5.347,5.696,Dillon,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",5.862,5.474,5.615,Dillon,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",5.925,5.269,5.598,Dillon,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",6.4,5.485,5.889,Dillon,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",5.972,5.274,5.662,Dillon,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",6.057,5.371,5.716,Dillon,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",5.901,5.235,5.637,Dillon,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",6.228,5.483,6.044,Dillon,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",6.101,5.645,5.947,Dillon,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",6.027,5.342,5.683,Dillon,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",6.039,5.464,5.737,Dillon,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",5.952,5.334,5.804,Dillon,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",6.043,5.387,5.664,Dillon,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",5.962,5.4,5.797,Dillon,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",6.277,5.408,5.876,Dillon,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",5.819,5.402,5.731,Dillon,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",5.908,5.174,5.66,Dillon,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",6.225,5.407,5.659,Dillon,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",6.17,5.413,5.855,Dillon,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",6.094,5.385,5.742,Dillon,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",6.197,5.38,5.882,Dillon,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",6.307,5.539,5.787,Dillon,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",6.143,5.44,5.852,Dillon,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",5.895,5.379,5.752,Dillon,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",6.211,5.515,5.832,Dillon,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",6.215,5.38,5.84,Dillon,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",5.966,5.308,5.684,Dillon,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",6.419,5.281,5.807,Dillon,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",6.187,5.294,5.697,Dillon,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",5.993,5.465,5.867,Dillon,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",6.119,5.455,5.768,Dillon,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",6.05,5.503,5.739,Dillon,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",5.877,5.153,5.741,Dillon,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",6.129,5.447,5.785,Dillon,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",6.336,5.477,5.81,Dillon,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",6.11,5.283,5.932,Dillon,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",5.982,5.372,5.71,Dillon,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",6.135,5.456,5.856,Dillon,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",6.007,5.197,5.798,Dillon,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",5.869,5.277,5.683,Dillon,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",6.128,5.351,5.775,Dillon,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",5.868,5.317,5.603,Dillon,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",5.921,5.375,5.623,Dillon,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",5.935,5.203,5.823,Dillon,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",6.04,5.33,5.821,Dillon,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",5.884,5.358,5.648,Dillon,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",5.958,5.189,5.852,Dillon,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",6.373,5.36,5.903,Dillon,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",6.176,5.516,5.92,Dillon,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",5.99,5.331,5.634,Dillon,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",6.059,5.324,5.784,Dillon,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",6.155,5.432,5.843,Dillon,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",5.95,5.503,5.711,Dillon,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",6.006,5.367,5.771,Dillon,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",5.95,5.324,5.685,Dillon,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",6.288,5.314,5.732,Dillon,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",5.973,5.509,5.873,Dillon,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",6.174,5.391,6.04,Dillon,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",6.206,5.631,5.794,Dillon,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",5.986,5.519,5.853,Dillon,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",5.918,5.269,5.626,Dillon,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",6.053,5.39,5.908,Dillon,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",6.049,5.515,5.797,Dillon,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",5.982,5.354,5.573,Dillon,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",6.041,5.302,5.786,Dillon,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",6.3,5.582,5.898,Dillon,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",6.105,5.423,5.722,Dillon,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",6.193,5.386,5.84,Dillon,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",6.025,5.37,5.804,Dillon,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",6.226,5.555,5.889,Dillon,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",5.786,5.304,5.603,Dillon,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",6.081,5.398,5.702,Dillon,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",5.943,5.215,5.79,Dillon,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",6.034,5.192,5.591,Dillon,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",6.051,5.156,5.725,Dillon,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",6.02,5.34,5.783,Dillon,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",5.897,5.469,5.619,Dillon,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",6.394,5.504,5.822,Dillon,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",6.182,5.513,5.752,Dillon,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",6.025,5.235,5.811,Dillon,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",5.912,5.536,5.806,Dillon,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",5.991,5.436,5.751,Dillon,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",6.006,5.453,5.719,Dillon,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",5.895,5.363,5.841,Dillon,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",6.172,5.355,5.855,Dillon,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",5.954,5.24,5.709,Dillon,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",6.235,5.425,5.85,Dillon,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",6.005,5.24,5.915,Dillon,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",6.206,5.26,5.681,Dillon,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",5.934,5.275,5.558,Dillon,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",5.97,5.331,5.84,Dillon,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",5.921,5.464,5.735,Dillon,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",5.866,5.217,5.658,Dillon,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",6.106,5.388,5.799,Dillon,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",5.902,5.434,5.727,Dillon,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",6.01,5.481,5.807,Dillon,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",6.018,5.505,5.731,Dillon,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",6.203,5.248,5.707,Dillon,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",6.026,5.328,5.754,Dillon,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",6.198,5.204,5.965,Dillon,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",6.289,5.47,6.05,Dillon,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",5.9,5.335,5.787,Dillon,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",6.193,5.32,5.663,Dillon,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",6.073,5.365,5.649,Dillon,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",6.079,5.54,5.715,Dillon,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",5.946,5.305,5.736,Dillon,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",5.843,5.33,5.609,Dillon,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",6.061,5.372,5.883,Dillon,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",6.212,5.243,5.768,Dillon,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",5.919,5.428,5.6,Dillon,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",5.949,5.39,5.623,Dillon,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",5.968,5.048,5.838,Dillon,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",5.852,5.43,5.721,Dillon,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",6.131,5.082,5.915,Dillon,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",6.099,5.213,5.812,Dillon,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",5.88,5.314,5.798,Dillon,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",6.051,5.316,5.628,Dillon,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",6.315,5.339,5.835,Dillon,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",6.04,5.324,5.819,Dillon,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",5.701,5.146,5.492,Dillon,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",5.986,5.262,5.67,Dillon,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",6.194,5.402,5.657,Dillon,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",6.049,5.415,5.707,Dillon,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",6.012,5.413,5.725,Dillon,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",5.981,5.292,5.626,Dillon,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",5.868,5.248,5.618,Dillon,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",5.924,5.384,5.742,Dillon,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",6.17,5.368,5.776,Dillon,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",5.988,5.436,5.876,Dillon,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",6.086,5.285,5.78,Dillon,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",5.994,5.444,5.786,Dillon,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",6.387,5.482,5.853,Dillon,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",5.867,5.297,5.606,Dillon,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",6.288,5.557,5.794,Dillon,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",6.063,5.438,5.801,Dillon,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",5.996,5.285,5.681,Dillon,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",5.874,5.213,5.623,Dillon,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",6.101,5.076,5.661,Dillon,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",6.095,5.277,5.72,Dillon,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",6.25,5.198,5.712,Dillon,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",6.076,5.305,5.645,Dillon,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",6.046,5.419,5.862,Dillon,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",6.052,5.198,5.687,Dillon,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",6.248,5.277,5.843,Dillon,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",6.053,5.294,5.714,Dillon,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",5.923,5.502,5.775,Dillon,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",6.161,5.485,5.844,Dillon,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",5.823,5.362,5.531,Dillon,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",5.994,5.441,5.71,Dillon,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",6.01,5.079,5.699,Dillon,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",6.127,5.559,5.703,Dillon,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",5.885,5.285,5.648,Dillon,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",5.678,5.177,5.595,Dillon,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",5.696,5.272,5.557,Dillon,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",6.013,5.424,5.663,Dillon,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",6.096,5.322,5.882,Dillon,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",5.898,5.21,5.676,Dillon,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",5.767,5.293,5.648,Dillon,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",5.913,5.305,5.731,Dillon,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",5.957,5.388,5.703,Dillon,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",6.066,5.185,5.65,Dillon,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",5.978,5.317,5.632,Dillon,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",6.049,5.326,5.889,Dillon,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",5.905,5.119,5.709,Dillon,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",5.914,5.177,5.74,Dillon,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",5.931,5.277,5.671,Dillon,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",5.903,5.478,5.819,Dillon,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",6.053,5.069,5.698,Dillon,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",5.803,5.314,5.55,Dillon,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",6.052,5.257,5.674,Dillon,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",6.081,5.402,5.601,Dillon,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",5.942,5.146,5.837,Dillon,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",5.876,5.337,5.626,Dillon,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",6.095,5.348,5.575,Dillon,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",6.054,5.478,5.654,Dillon,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",6.124,5.174,5.802,Dillon,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",5.908,5.318,5.622,Dillon,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",5.993,5.308,5.696,Dillon,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",6.076,5.35,5.801,Dillon,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",5.971,5.299,5.78,Dillon,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",5.942,5.165,5.625,Dillon,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",6.022,5.263,5.593,Dillon,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",6.023,5.3,5.705,Dillon,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",5.872,5.511,5.674,Dillon,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",5.86,5.163,5.568,Dillon,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",5.985,5.331,5.742,Dillon,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",6.283,5.209,5.793,Dillon,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",5.836,5.256,5.561,Dillon,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",5.926,5.457,5.689,Dillon,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",5.983,5.316,5.74,Dillon,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",5.788,5.264,5.69,Dillon,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",5.871,5.451,5.747,Dillon,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",6.211,5.087,5.621,Dillon,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",5.992,5.341,5.807,Dillon,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",5.808,5.528,5.594,Dillon,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",6.189,5.482,5.72,Dillon,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",6.056,5.221,5.596,Dillon,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",5.92,5.058,5.642,Dillon,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",6.167,5.351,5.954,Dillon,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",5.943,5.335,5.766,Dillon,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",6.202,5.44,5.812,Dillon,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",5.902,5.242,5.782,Dillon,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",6.001,5.423,5.791,Dillon,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",5.904,5.442,5.809,Dillon,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",6.022,5.057,5.358,Dillon,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",5.871,5.051,5.56,Dillon,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",5.933,5.477,5.718,Dillon,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",5.86,5.092,5.68,Dillon,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",6.088,5.408,5.612,Dillon,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",5.75,5.3,5.558,Dillon,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",6.033,5.384,5.708,Dillon,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",5.881,5.433,5.784,Dillon,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",6.163,5.169,5.704,Dillon,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",6.056,5.203,5.564,Dillon,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",6.056,5.269,5.773,Dillon,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",5.949,5.219,5.595,Dillon,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",5.949,5.271,5.666,Dillon,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",5.776,5.23,5.624,Dillon,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",6.043,5.4,5.773,Dillon,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",6.046,5.249,5.767,Dillon,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",5.83,5.252,5.51,Dillon,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",5.777,5.293,5.522,Dillon,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",5.99,5.341,5.799,Dillon,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",6.019,5.409,5.649,Dillon,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",5.831,5.046,5.51,Dillon,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",5.931,5.156,5.48,Dillon,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",5.917,5.379,5.669,Dillon,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",6.232,5.469,5.88,Dillon,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",5.937,5.389,5.747,Dillon,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",5.838,5.123,5.606,Dillon,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",6.273,5.445,5.76,Dillon,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",5.961,5.299,5.68,Dillon,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",5.957,5.433,5.723,Dillon,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",6.107,5.207,5.822,Dillon,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",5.937,5.432,5.765,Dillon,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",5.812,5.371,5.617,Dillon,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",5.907,5.043,5.535,Dillon,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",6.082,5.431,5.809,Dillon,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",6.077,5.6,5.677,Dillon,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",6.102,5.548,5.872,Dillon,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",5.916,5.151,5.587,Dillon,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",6.217,5.065,5.722,Dillon,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",6.146,5.542,5.882,Dillon,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",5.938,5.372,5.746,Dillon,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",5.834,5.105,5.721,Dillon,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",5.898,5.247,5.701,Dillon,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",5.919,5.399,5.664,Dillon,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",6.095,5.126,5.866,Dillon,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",5.71,5.324,5.432,Dillon,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",5.837,5.151,5.506,Dillon,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",5.884,5.381,5.722,Dillon,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",5.989,5.414,5.804,Dillon,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",5.939,5.276,5.669,Dillon,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",5.825,5.236,5.561,Dillon,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",6.041,5.413,5.67,Dillon,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",5.812,5.282,5.607,Dillon,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",5.904,5.158,5.646,Dillon,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",5.898,5.244,5.666,Dillon,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",6.057,5.393,5.732,Dillon,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",6.047,5.03,5.757,Dillon,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",5.75,5.26,5.522,Dillon,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",5.834,5.138,5.619,Dillon,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",6.135,5.366,5.849,Dillon,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",6.103,5.344,5.822,Dillon,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",5.862,5.276,5.628,Dillon,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",5.8,5.137,5.684,Dillon,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",6.144,5.421,5.697,Dillon,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",6.166,5.244,5.707,Dillon,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",5.968,5.092,5.582,Dillon,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",5.887,5.142,5.579,Dillon,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",5.777,5.266,5.579,Dillon,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",5.884,5.339,5.693,Dillon,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",5.724,4.983,5.419,Dillon,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",5.915,4.92,5.582,Dillon,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",6.163,5.327,5.661,Dillon,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",5.773,5.29,5.657,Dillon,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",5.999,5.194,5.754,Dillon,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",5.785,5.316,5.542,Dillon,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",6.054,5.313,5.649,Dillon,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",5.906,5.166,5.712,Dillon,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",5.768,5.235,5.531,Dillon,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",5.65,5.297,5.551,Dillon,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",5.999,5.556,5.813,Dillon,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",5.985,5.13,5.584,Dillon,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",6.022,5.039,5.519,Dillon,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",5.922,5.291,5.685,Dillon,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",5.843,5.365,5.706,Dillon,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",6.02,5.098,5.724,Dillon,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",6.461,5.203,5.428,Dillon,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",5.731,4.897,5.532,Dillon,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",5.92,5.404,5.839,Dillon,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",5.995,5.485,5.848,Dillon,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",5.798,5.223,5.391,Dillon,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",5.863,5.17,5.56,Dillon,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",5.989,5.412,5.735,Dillon,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",5.829,5.194,5.635,Dillon,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",5.945,5.267,5.603,Dillon,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",6.008,5.228,5.624,Dillon,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",6.1,5.472,5.909,Dillon,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",5.857,5.366,5.641,Dillon,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",6.072,4.955,5.272,Dillon,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",5.849,5.005,5.604,Dillon,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",6.118,5.45,5.763,Dillon,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",6.093,5.485,5.684,Dillon,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",5.783,5.01,5.472,Dillon,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",5.882,5.076,5.421,Dillon,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",6.037,5.308,5.692,Dillon,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",6.105,5.299,5.59,Dillon,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",5.865,5.148,5.578,Dillon,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",5.801,5.249,5.594,Dillon,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",5.968,5.295,5.755,Dillon,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",6.052,5.18,5.796,Dillon,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",5.864,5.164,5.586,Dillon,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",5.849,5.261,5.741,Dillon,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",6.1,5.21,5.8,Dillon,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",5.888,5.376,5.764,Dillon,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",5.826,4.918,5.529,Dillon,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",5.829,5.436,5.698,Dillon,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",5.848,5.449,5.705,Dillon,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",6.098,5.337,5.908,Dillon,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",5.788,5.378,5.571,Dillon,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",5.931,4.899,5.388,Dillon,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",5.852,5.22,5.582,Dillon,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",6.014,5.21,5.758,Dillon,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",5.861,5.181,5.503,Dillon,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",5.911,4.937,5.52,Dillon,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",6.167,5.44,5.847,Dillon,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",6.014,5.234,5.726,Dillon,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",5.649,5.238,5.528,Dillon,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",5.888,5.164,5.423,Dillon,sfcWind

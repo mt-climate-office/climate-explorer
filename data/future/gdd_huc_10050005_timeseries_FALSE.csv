@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2785.504,2214.212,2380.078,Big Sandy,gdd
+1951,Historical Emissions,2612.6,2232.013,2499.941,Big Sandy,gdd
+1952,Historical Emissions,2516.278,2048.702,2252.395,Big Sandy,gdd
+1953,Historical Emissions,2512.287,2042.205,2322.728,Big Sandy,gdd
+1954,Historical Emissions,2576.981,1830.945,2164.874,Big Sandy,gdd
+1955,Historical Emissions,2686.615,2060.105,2305.952,Big Sandy,gdd
+1956,Historical Emissions,2676.984,2063.766,2347.686,Big Sandy,gdd
+1957,Historical Emissions,2771.737,1998.663,2361.471,Big Sandy,gdd
+1958,Historical Emissions,2426.062,1952.757,2228.989,Big Sandy,gdd
+1959,Historical Emissions,2365.378,1916.912,2098.46,Big Sandy,gdd
+1960,Historical Emissions,2382.752,2121.012,2260.449,Big Sandy,gdd
+1961,Historical Emissions,2470.935,2103.007,2287.211,Big Sandy,gdd
+1962,Historical Emissions,2356.44,1965.52,2250.278,Big Sandy,gdd
+1963,Historical Emissions,2314.329,2006.214,2132.39,Big Sandy,gdd
+1964,Historical Emissions,2490.302,2061.963,2323.83,Big Sandy,gdd
+1965,Historical Emissions,2452.993,2089.051,2268.506,Big Sandy,gdd
+1966,Historical Emissions,2553.649,1982.491,2130.685,Big Sandy,gdd
+1967,Historical Emissions,2413.173,2071.649,2198.445,Big Sandy,gdd
+1968,Historical Emissions,2336.473,1953.708,2097.952,Big Sandy,gdd
+1969,Historical Emissions,2489.654,1876.815,2177.023,Big Sandy,gdd
+1970,Historical Emissions,2448.421,2059.455,2097.109,Big Sandy,gdd
+1971,Historical Emissions,2740.103,2073.957,2372.492,Big Sandy,gdd
+1972,Historical Emissions,2426.453,2013.76,2242.95,Big Sandy,gdd
+1973,Historical Emissions,2519.165,1996.991,2055.858,Big Sandy,gdd
+1974,Historical Emissions,2599.399,1801.528,2313.217,Big Sandy,gdd
+1975,Historical Emissions,2445.271,2149.531,2287.124,Big Sandy,gdd
+1976,Historical Emissions,2369.179,2150.803,2200.157,Big Sandy,gdd
+1977,Historical Emissions,2751.502,1997.146,2264.753,Big Sandy,gdd
+1978,Historical Emissions,2456.942,2076.197,2216.84,Big Sandy,gdd
+1979,Historical Emissions,2511.888,1932.889,2320.704,Big Sandy,gdd
+1980,Historical Emissions,2532.058,2022.311,2355.863,Big Sandy,gdd
+1981,Historical Emissions,2527.853,2022.581,2314.378,Big Sandy,gdd
+1982,Historical Emissions,2580.932,2225.875,2270.673,Big Sandy,gdd
+1983,Historical Emissions,2318.643,2096.437,2141.396,Big Sandy,gdd
+1984,Historical Emissions,2444.665,1930.06,2242.379,Big Sandy,gdd
+1985,Historical Emissions,2545.182,2178.433,2365.516,Big Sandy,gdd
+1986,Historical Emissions,2293.201,2046.743,2179.357,Big Sandy,gdd
+1987,Historical Emissions,2613.15,1974.881,2174.983,Big Sandy,gdd
+1988,Historical Emissions,2458.704,1984.431,2294.124,Big Sandy,gdd
+1989,Historical Emissions,2618.362,2111.827,2389.035,Big Sandy,gdd
+1990,Historical Emissions,2926.193,2188.067,2326.286,Big Sandy,gdd
+1991,Historical Emissions,2612.748,1944.356,2371.8,Big Sandy,gdd
+1992,Historical Emissions,2400.375,1964.49,2099.406,Big Sandy,gdd
+1993,Historical Emissions,2400.076,2074.277,2160.857,Big Sandy,gdd
+1994,Historical Emissions,2768.909,2078.941,2241.004,Big Sandy,gdd
+1995,Historical Emissions,2632.25,2164.359,2381.69,Big Sandy,gdd
+1996,Historical Emissions,2883.713,2375.953,2606.196,Big Sandy,gdd
+1997,Historical Emissions,2551.941,2155.338,2502.623,Big Sandy,gdd
+1998,Historical Emissions,2595.33,2208.594,2377.316,Big Sandy,gdd
+1999,Historical Emissions,2517.744,2114.013,2416.905,Big Sandy,gdd
+2000,Historical Emissions,2716.911,2150.161,2368.039,Big Sandy,gdd
+2001,Historical Emissions,2714.985,2113.61,2505.503,Big Sandy,gdd
+2002,Historical Emissions,2832.186,2235.865,2504.391,Big Sandy,gdd
+2003,Historical Emissions,2766.807,2302.378,2500.315,Big Sandy,gdd
+2004,Historical Emissions,2777.369,2408.76,2668.932,Big Sandy,gdd
+2005,Historical Emissions,2825.639,2408.993,2591.073,Big Sandy,gdd
+2006,Historical Emissions,2637.23,2312.189,2529.988,Big Sandy,gdd
+2007,Historical Emissions,2651.521,2415.431,2548.621,Big Sandy,gdd
+2008,Historical Emissions,2837.195,2362.974,2584.461,Big Sandy,gdd
+2009,Historical Emissions,2568.795,2253.463,2386.437,Big Sandy,gdd
+2010,Historical Emissions,2651.232,2374.914,2541.736,Big Sandy,gdd
+2011,Historical Emissions,2720.559,2352.031,2549.849,Big Sandy,gdd
+2012,Historical Emissions,2794.252,2569.221,2681.326,Big Sandy,gdd
+2013,Historical Emissions,3095.983,2544.209,2816.339,Big Sandy,gdd
+2014,Historical Emissions,2902.976,2368.501,2658.253,Big Sandy,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",3041.952,2465.913,2745.621,Big Sandy,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",2906.566,2326.843,2614.675,Big Sandy,gdd
+2015,"High Emissions
+(SSP3-7.0)",2851.366,2287.635,2687.331,Big Sandy,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",2798.437,2423.927,2631.508,Big Sandy,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",2844.011,2491.38,2688.169,Big Sandy,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",2786.955,2301.741,2574.811,Big Sandy,gdd
+2016,"High Emissions
+(SSP3-7.0)",3092.051,2482.32,2859.147,Big Sandy,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",2883.769,2374.009,2558.07,Big Sandy,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",2711.756,2399.843,2510.482,Big Sandy,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",2972.509,2331.16,2650.782,Big Sandy,gdd
+2017,"High Emissions
+(SSP3-7.0)",2725.356,2346.45,2631.156,Big Sandy,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",2943.572,2475.972,2814.17,Big Sandy,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",2813.673,2386.563,2586.186,Big Sandy,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",2946.523,2436.251,2699.526,Big Sandy,gdd
+2018,"High Emissions
+(SSP3-7.0)",2775.501,2251.968,2496.73,Big Sandy,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",2780.936,2419.268,2580.399,Big Sandy,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",3139.097,2638.135,2867.824,Big Sandy,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",2977.385,2365.345,2685.353,Big Sandy,gdd
+2019,"High Emissions
+(SSP3-7.0)",3011.511,2436.799,2705.703,Big Sandy,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",3170.909,2520.447,2709.779,Big Sandy,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",3113.812,2345.864,2664.379,Big Sandy,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",2859.89,2351.816,2651.524,Big Sandy,gdd
+2020,"High Emissions
+(SSP3-7.0)",2828.19,2375.504,2680.198,Big Sandy,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",2905.106,2467.562,2833.335,Big Sandy,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",3124.168,2521.779,2837.103,Big Sandy,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",3073.289,2255.881,2681.022,Big Sandy,gdd
+2021,"High Emissions
+(SSP3-7.0)",3005.535,2403.926,2875.264,Big Sandy,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",2875.735,2471.338,2588.077,Big Sandy,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",2874.501,2539.841,2688.765,Big Sandy,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",2864.195,2522.255,2805.572,Big Sandy,gdd
+2022,"High Emissions
+(SSP3-7.0)",2839.609,2346.216,2724.368,Big Sandy,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",3161.697,2544.66,2924.772,Big Sandy,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",2785.039,2494.867,2591.138,Big Sandy,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",3156.214,2441.967,2762.493,Big Sandy,gdd
+2023,"High Emissions
+(SSP3-7.0)",2951.654,2485,2668.13,Big Sandy,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",2865.875,2251.405,2369.438,Big Sandy,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",2980.046,2490.73,2733.941,Big Sandy,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",3094.764,2404.241,2700.355,Big Sandy,gdd
+2024,"High Emissions
+(SSP3-7.0)",2997.379,2604.609,2802.073,Big Sandy,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",2979.095,2387.311,2578.732,Big Sandy,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",3063.041,2665.811,2803.868,Big Sandy,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",2965.577,2290.226,2549.607,Big Sandy,gdd
+2025,"High Emissions
+(SSP3-7.0)",3099.609,2596.664,2719.993,Big Sandy,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",3115.385,2477.048,2917.194,Big Sandy,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",2907.03,2306.874,2660.362,Big Sandy,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",3103.648,2399.678,2753.479,Big Sandy,gdd
+2026,"High Emissions
+(SSP3-7.0)",2964.232,2379.45,2585.797,Big Sandy,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",3099.524,2461.277,2622.054,Big Sandy,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",3180.619,2412.823,2568.444,Big Sandy,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",3001.691,2299.822,2753.644,Big Sandy,gdd
+2027,"High Emissions
+(SSP3-7.0)",3076.368,2416.921,2786.937,Big Sandy,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",3005.208,2546.151,2885.144,Big Sandy,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",2979.466,2475.429,2555.652,Big Sandy,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",2852.546,2439.34,2572.535,Big Sandy,gdd
+2028,"High Emissions
+(SSP3-7.0)",2907.591,2548.673,2811.497,Big Sandy,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",2968.06,2480.781,2857.495,Big Sandy,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",3246.577,2689.028,2909.551,Big Sandy,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",2995.39,2441.84,2701.921,Big Sandy,gdd
+2029,"High Emissions
+(SSP3-7.0)",3055.152,2430.343,2733.851,Big Sandy,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",3118.266,2607.505,2896.333,Big Sandy,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",3030.171,2547.852,2730.039,Big Sandy,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",3390.992,2572.969,2855.592,Big Sandy,gdd
+2030,"High Emissions
+(SSP3-7.0)",3162.009,2479.184,2783.35,Big Sandy,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",3266.256,2483.623,2676.601,Big Sandy,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",3013.269,2723.815,2874.893,Big Sandy,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",3010.379,2560.705,2748.872,Big Sandy,gdd
+2031,"High Emissions
+(SSP3-7.0)",3146.289,2535.843,2857.868,Big Sandy,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",3196.189,2660.372,2841.125,Big Sandy,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",2921.519,2519.231,2791.778,Big Sandy,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",3054.103,2561.491,2734.313,Big Sandy,gdd
+2032,"High Emissions
+(SSP3-7.0)",3287.924,2478.724,2931.818,Big Sandy,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",3083.553,2353.391,2742.031,Big Sandy,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",3039.21,2510.84,2702.965,Big Sandy,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",3255.061,2568.071,2862.952,Big Sandy,gdd
+2033,"High Emissions
+(SSP3-7.0)",3034.658,2516.36,2756.103,Big Sandy,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",3096.703,2674.826,2892.988,Big Sandy,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",3156.329,2471.578,2946.256,Big Sandy,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",3090.52,2517.765,2768.592,Big Sandy,gdd
+2034,"High Emissions
+(SSP3-7.0)",3250.341,2480.014,3047.592,Big Sandy,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",3122.613,2348.103,2874.509,Big Sandy,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",3199.557,2654.078,3039.808,Big Sandy,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",3197.013,2521.461,2642.434,Big Sandy,gdd
+2035,"High Emissions
+(SSP3-7.0)",3144.037,2287.35,2662.254,Big Sandy,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",3136.686,2579.507,2941.089,Big Sandy,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",3086.682,2609.332,2957.295,Big Sandy,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",2970.966,2538.856,2738.082,Big Sandy,gdd
+2036,"High Emissions
+(SSP3-7.0)",3091.661,2539.943,2898.451,Big Sandy,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",3097.208,2343.83,2925.998,Big Sandy,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",3201.728,2616.047,2954.816,Big Sandy,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",3097.069,2614.32,2687.652,Big Sandy,gdd
+2037,"High Emissions
+(SSP3-7.0)",3116.91,2327.792,2600.643,Big Sandy,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",3138.446,2516.505,2794.023,Big Sandy,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",3077.421,2603.817,2805.952,Big Sandy,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",2958.968,2452.338,2756.706,Big Sandy,gdd
+2038,"High Emissions
+(SSP3-7.0)",3109.693,2659.426,2928.573,Big Sandy,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",3379.434,2608.728,2834.682,Big Sandy,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",3135.966,2519.499,2736.342,Big Sandy,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",3096.337,2540.288,2787.46,Big Sandy,gdd
+2039,"High Emissions
+(SSP3-7.0)",3258.643,2757.368,3009.142,Big Sandy,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",3298.045,2578.368,2730.445,Big Sandy,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",3141.755,2465.651,2775.263,Big Sandy,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",3204.37,2544.56,3042.085,Big Sandy,gdd
+2040,"High Emissions
+(SSP3-7.0)",3069.397,2678.639,2917.669,Big Sandy,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",3624.352,2591.645,3117.112,Big Sandy,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",3043.576,2418.115,2701.436,Big Sandy,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",2981.098,2638.312,2892.201,Big Sandy,gdd
+2041,"High Emissions
+(SSP3-7.0)",3221.52,2573.887,2729.885,Big Sandy,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",3159.902,2653.306,2794.27,Big Sandy,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",3335.63,2375.448,2693.456,Big Sandy,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",3172.613,2508.844,2865.582,Big Sandy,gdd
+2042,"High Emissions
+(SSP3-7.0)",2982.855,2687.416,2842.164,Big Sandy,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",3336.763,2663.763,3041.832,Big Sandy,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",3086.462,2624.159,2809.601,Big Sandy,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",3155.086,2480.49,2928.871,Big Sandy,gdd
+2043,"High Emissions
+(SSP3-7.0)",2962.876,2561.006,2735.855,Big Sandy,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",3186.202,2784.087,2944.58,Big Sandy,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",3215.768,2717.382,2906.083,Big Sandy,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",3372.019,2659.324,2895.143,Big Sandy,gdd
+2044,"High Emissions
+(SSP3-7.0)",3166.595,2797.301,2925.985,Big Sandy,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",3316.636,2817.106,3063.546,Big Sandy,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",3049.718,2613.735,2803.368,Big Sandy,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",3273.736,2545.371,2976.778,Big Sandy,gdd
+2045,"High Emissions
+(SSP3-7.0)",3198.748,2683.152,2988.981,Big Sandy,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",3191.166,2707.92,2968.822,Big Sandy,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",3499.808,2709.519,2919.064,Big Sandy,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",3110.011,2483.226,2819.997,Big Sandy,gdd
+2046,"High Emissions
+(SSP3-7.0)",3060.974,2794.274,2927.665,Big Sandy,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",3324.842,2657.257,2855.923,Big Sandy,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",3322.217,2620.355,2981.674,Big Sandy,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",3145.985,2556.128,2827.938,Big Sandy,gdd
+2047,"High Emissions
+(SSP3-7.0)",3048.33,2680.938,2880.087,Big Sandy,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",3357.156,2688.984,3301.899,Big Sandy,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",2975.74,2718.496,2789.576,Big Sandy,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",3337.156,2642.267,3086.308,Big Sandy,gdd
+2048,"High Emissions
+(SSP3-7.0)",3400.248,2482.62,2913.69,Big Sandy,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",3816.163,2745.963,3193.324,Big Sandy,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",3041.869,2657.409,2826.161,Big Sandy,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",3244.746,2654.368,3054.825,Big Sandy,gdd
+2049,"High Emissions
+(SSP3-7.0)",3020.133,2776.864,2911.984,Big Sandy,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",3395.394,2757.285,3180.58,Big Sandy,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",3159.22,2638.785,2887.854,Big Sandy,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",3540.156,2638.75,3094.02,Big Sandy,gdd
+2050,"High Emissions
+(SSP3-7.0)",3249.432,2615.829,2992.213,Big Sandy,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",3591.821,2874.793,2995.343,Big Sandy,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",3214.135,2546.89,2959.434,Big Sandy,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",3412.91,2804.213,2936.448,Big Sandy,gdd
+2051,"High Emissions
+(SSP3-7.0)",3368.724,2800.755,3099.646,Big Sandy,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",3304.025,2852.572,2974.118,Big Sandy,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",3071.896,2762.708,2899.557,Big Sandy,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",3193.84,2723.377,2986.519,Big Sandy,gdd
+2052,"High Emissions
+(SSP3-7.0)",3283.776,2654.039,2957.626,Big Sandy,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",3294.468,2908.289,3221.077,Big Sandy,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",3165.34,2605.481,2898.734,Big Sandy,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",3154.65,2761.468,2996.016,Big Sandy,gdd
+2053,"High Emissions
+(SSP3-7.0)",3474.216,2924.177,3239.551,Big Sandy,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",3598.218,2818.848,3134.864,Big Sandy,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",3340.336,2645.311,2963.782,Big Sandy,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",3220.539,2557.005,2725.287,Big Sandy,gdd
+2054,"High Emissions
+(SSP3-7.0)",3269.259,2741.394,2929.017,Big Sandy,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",3428.17,2892.213,3107.411,Big Sandy,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",3137.159,2817.492,3037.398,Big Sandy,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",3434.402,2556.784,3075.677,Big Sandy,gdd
+2055,"High Emissions
+(SSP3-7.0)",3359.694,2793.907,3103.19,Big Sandy,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",3497.549,2797.116,3350.575,Big Sandy,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",3130.487,2570.163,2948.725,Big Sandy,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",3222.061,2794.324,3126.102,Big Sandy,gdd
+2056,"High Emissions
+(SSP3-7.0)",3395.734,2439.997,3056.885,Big Sandy,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",3495.003,2988,3202.335,Big Sandy,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",3128.023,2284.842,2906.454,Big Sandy,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",3404.081,2809.537,3055.851,Big Sandy,gdd
+2057,"High Emissions
+(SSP3-7.0)",3441.235,2806.743,2920.785,Big Sandy,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",3461.371,2838.568,3072.684,Big Sandy,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",3131.52,2528.467,2931.127,Big Sandy,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",3404.628,2893.075,3076.461,Big Sandy,gdd
+2058,"High Emissions
+(SSP3-7.0)",3322.692,2803.689,2969.244,Big Sandy,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",3364.951,2773.653,3056.792,Big Sandy,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",3280.998,2715.217,2884.688,Big Sandy,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",3549.321,2729.016,3181.127,Big Sandy,gdd
+2059,"High Emissions
+(SSP3-7.0)",3740.317,2848.441,3154.228,Big Sandy,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",3677.587,3000.32,3259.318,Big Sandy,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",3189.513,2718.571,2820.199,Big Sandy,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",3498.409,2752.062,3052.037,Big Sandy,gdd
+2060,"High Emissions
+(SSP3-7.0)",3330.6,2741.949,2961.523,Big Sandy,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",3488.027,2827.856,3261.682,Big Sandy,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",3208.456,2568.941,3030.077,Big Sandy,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",3373.502,2678.196,3165.381,Big Sandy,gdd
+2061,"High Emissions
+(SSP3-7.0)",3418.601,2983.892,3179.576,Big Sandy,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",3691.639,3078.289,3377.444,Big Sandy,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",3296.373,2667.066,2917.342,Big Sandy,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",3213.628,2801.84,3003.423,Big Sandy,gdd
+2062,"High Emissions
+(SSP3-7.0)",3293.929,3013.416,3076.118,Big Sandy,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",3646.19,3061.982,3321.43,Big Sandy,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",3048.722,2802.739,2941.13,Big Sandy,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",3139.685,2693.896,2794.355,Big Sandy,gdd
+2063,"High Emissions
+(SSP3-7.0)",3404.867,2992.571,3204.141,Big Sandy,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",3600.912,3021.009,3456.596,Big Sandy,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",3330.952,2533.072,2832.128,Big Sandy,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",3143.041,2738.607,2935.785,Big Sandy,gdd
+2064,"High Emissions
+(SSP3-7.0)",3376.271,2866.514,3085.345,Big Sandy,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",3522.536,3088.836,3273.583,Big Sandy,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",3131.517,2435.198,2787.675,Big Sandy,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",3338.197,2582.292,3067.421,Big Sandy,gdd
+2065,"High Emissions
+(SSP3-7.0)",3428.9,2820.748,3196.318,Big Sandy,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",3871.813,3121.343,3288.49,Big Sandy,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",3381.944,2721.112,3029.713,Big Sandy,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",3316.857,2835.771,3137.49,Big Sandy,gdd
+2066,"High Emissions
+(SSP3-7.0)",3522.905,2897.6,3096.705,Big Sandy,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",3770.382,2880.811,3523.546,Big Sandy,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",3262.295,2838.696,2932.111,Big Sandy,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",3360.165,2678.746,2982.616,Big Sandy,gdd
+2067,"High Emissions
+(SSP3-7.0)",3792.072,3141.894,3283.131,Big Sandy,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",3839.186,2915.031,3150.923,Big Sandy,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",3301.138,2611.532,2919.527,Big Sandy,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",3251.163,2643.943,2920.837,Big Sandy,gdd
+2068,"High Emissions
+(SSP3-7.0)",3701.148,2880.77,3042.189,Big Sandy,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",3776.978,3148.835,3368.307,Big Sandy,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",3314.049,2773.785,2988.535,Big Sandy,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",3248.86,2849.055,2994.93,Big Sandy,gdd
+2069,"High Emissions
+(SSP3-7.0)",3877.738,3155.349,3263.573,Big Sandy,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",4145.972,3101.657,3598.658,Big Sandy,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",3128.068,2825.619,2995.245,Big Sandy,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",3361.7,2640.067,2975.269,Big Sandy,gdd
+2070,"High Emissions
+(SSP3-7.0)",3758.373,3145.745,3467.448,Big Sandy,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",4087.669,3161.564,3355.377,Big Sandy,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",3481.326,2648.358,2980.344,Big Sandy,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",3223.695,3011.555,3144.385,Big Sandy,gdd
+2071,"High Emissions
+(SSP3-7.0)",3555.186,3068.519,3437.859,Big Sandy,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",3890.446,3136.957,3430.869,Big Sandy,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",3315.675,2876.345,2972.831,Big Sandy,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",3390.235,2769.091,3022.187,Big Sandy,gdd
+2072,"High Emissions
+(SSP3-7.0)",3585.239,2841.023,3297.932,Big Sandy,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",3905.641,3182.726,3360.871,Big Sandy,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",3055.634,2650.179,2944.483,Big Sandy,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",3323.3,2576.383,3098.736,Big Sandy,gdd
+2073,"High Emissions
+(SSP3-7.0)",3542.44,3016.335,3427.48,Big Sandy,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",3867.804,3045.12,3417.952,Big Sandy,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",3370.812,2439.012,2927.292,Big Sandy,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",3469.606,2686.431,2980.424,Big Sandy,gdd
+2074,"High Emissions
+(SSP3-7.0)",3595.6,3014.689,3243.935,Big Sandy,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",4150.662,3159.19,3445.122,Big Sandy,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",3408.639,2450.634,2886.151,Big Sandy,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",3507.372,2716.79,2955.952,Big Sandy,gdd
+2075,"High Emissions
+(SSP3-7.0)",3698.969,2913.086,3130.361,Big Sandy,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",3926.352,3240.272,3584.117,Big Sandy,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",3208.445,2532.348,2910.727,Big Sandy,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",3188.899,2726.146,2914.695,Big Sandy,gdd
+2076,"High Emissions
+(SSP3-7.0)",3852.745,3237.973,3476.891,Big Sandy,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",4088.565,3158.832,3486.773,Big Sandy,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",3490.506,2689.682,3171.277,Big Sandy,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",3465.606,2891.928,3219.849,Big Sandy,gdd
+2077,"High Emissions
+(SSP3-7.0)",3671.438,3109.957,3396.518,Big Sandy,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",3902.177,3212.491,3641.293,Big Sandy,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",3282.607,2697.839,2941.986,Big Sandy,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",3306.002,2866.594,2963.785,Big Sandy,gdd
+2078,"High Emissions
+(SSP3-7.0)",3841.635,3009.705,3327.73,Big Sandy,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",3539.304,3137.686,3398.546,Big Sandy,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",3273.902,2773.796,3042.751,Big Sandy,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",3321.148,2955.013,3099.341,Big Sandy,gdd
+2079,"High Emissions
+(SSP3-7.0)",3691.135,3017.84,3300.965,Big Sandy,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",3995.554,3291.278,3667.604,Big Sandy,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",3207.753,2463.656,2866.774,Big Sandy,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",3460.79,2790.455,3153.389,Big Sandy,gdd
+2080,"High Emissions
+(SSP3-7.0)",3822.951,3222.025,3261.039,Big Sandy,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",3909.368,3333.666,3730.264,Big Sandy,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",3503.049,2574.091,2884.216,Big Sandy,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",3373.973,2831.026,3079.178,Big Sandy,gdd
+2081,"High Emissions
+(SSP3-7.0)",3952.428,3031.841,3344.844,Big Sandy,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",4077.421,3485.451,3786.008,Big Sandy,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",3393.344,2731.281,3241.322,Big Sandy,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",3579.754,2818.918,3072.916,Big Sandy,gdd
+2082,"High Emissions
+(SSP3-7.0)",3942.669,3099.28,3406.04,Big Sandy,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",4135.734,3371.294,3592.913,Big Sandy,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",3289.747,2834.264,3180.979,Big Sandy,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",3407.048,2806.54,3181.466,Big Sandy,gdd
+2083,"High Emissions
+(SSP3-7.0)",3852.766,2816.402,3461.804,Big Sandy,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",4170.735,3330.935,3841.186,Big Sandy,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",3427.213,2558.072,2815.162,Big Sandy,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",3598.903,2899.036,3269.435,Big Sandy,gdd
+2084,"High Emissions
+(SSP3-7.0)",4106.845,3251.731,3590.896,Big Sandy,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",4318.162,3142.773,3742.501,Big Sandy,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",3263.249,2477.8,2825.897,Big Sandy,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",3407.977,2867.662,3132.2,Big Sandy,gdd
+2085,"High Emissions
+(SSP3-7.0)",3826.065,3065.479,3407.506,Big Sandy,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",4019.265,3256.656,3740.337,Big Sandy,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",3300.54,2948.424,3099.849,Big Sandy,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",3377.87,3044.219,3256.326,Big Sandy,gdd
+2086,"High Emissions
+(SSP3-7.0)",3861.217,3136.065,3581.957,Big Sandy,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",4224.405,3387.042,3852.988,Big Sandy,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",3090.542,2607.84,2781.394,Big Sandy,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",3674.797,3014.614,3444.873,Big Sandy,gdd
+2087,"High Emissions
+(SSP3-7.0)",4009.223,3086.964,3445.433,Big Sandy,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",4286.811,3323.575,3465.171,Big Sandy,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",3340.364,2652.92,2796.605,Big Sandy,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",3672.004,3184.946,3370.11,Big Sandy,gdd
+2088,"High Emissions
+(SSP3-7.0)",3986.314,3252.155,3526.644,Big Sandy,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",4267.976,3535.76,3917.346,Big Sandy,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",3197.124,2700.27,2840.678,Big Sandy,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",3582.97,2924.046,3225.039,Big Sandy,gdd
+2089,"High Emissions
+(SSP3-7.0)",3944.009,3145.383,3693.123,Big Sandy,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",4269.747,3525.258,4048.966,Big Sandy,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",3307.005,2826.19,2929.837,Big Sandy,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",3382.24,2777.609,3205.322,Big Sandy,gdd
+2090,"High Emissions
+(SSP3-7.0)",4033.066,3493.249,3575.286,Big Sandy,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",4339.4,3513.87,3996.874,Big Sandy,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",3129.869,2640.018,2988.789,Big Sandy,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",3356.997,2868.369,3209.019,Big Sandy,gdd
+2091,"High Emissions
+(SSP3-7.0)",3981.697,3464.038,3621.397,Big Sandy,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",4353.228,3311.423,3914.023,Big Sandy,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",3234.325,2675.362,3042.696,Big Sandy,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",3615.829,2806.574,3343.085,Big Sandy,gdd
+2092,"High Emissions
+(SSP3-7.0)",3780.614,3190.591,3498.116,Big Sandy,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",4429.599,3590.236,4218.341,Big Sandy,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",3229.774,2664.738,2807.231,Big Sandy,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",3439.249,2831.668,3091.102,Big Sandy,gdd
+2093,"High Emissions
+(SSP3-7.0)",4165.613,3269.895,3355.613,Big Sandy,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",4451.37,3662.859,3903.291,Big Sandy,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",3249.399,2572.052,2819.82,Big Sandy,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",3679.857,2650.384,3345.948,Big Sandy,gdd
+2094,"High Emissions
+(SSP3-7.0)",4125.228,3380.273,3675.408,Big Sandy,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",4513.341,3565.599,3941.304,Big Sandy,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",3358.797,2766.359,2999.201,Big Sandy,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",3728.098,3216.182,3431.654,Big Sandy,gdd
+2095,"High Emissions
+(SSP3-7.0)",4102.351,3339.629,3614.529,Big Sandy,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",4500.229,3494.612,3977.84,Big Sandy,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",3087.909,2569.187,3029.398,Big Sandy,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",3567.9,3106.316,3305.026,Big Sandy,gdd
+2096,"High Emissions
+(SSP3-7.0)",4112.205,3411.807,3675.659,Big Sandy,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",4497.895,3591.518,3799.785,Big Sandy,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",3673.805,2740.628,2923.211,Big Sandy,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",3737.999,3036.11,3220.728,Big Sandy,gdd
+2097,"High Emissions
+(SSP3-7.0)",4476.712,3057.866,3692.797,Big Sandy,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",5095.741,3469.949,3993.233,Big Sandy,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",3138.307,2701.981,2883.77,Big Sandy,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",3488.657,3027.446,3276.658,Big Sandy,gdd
+2098,"High Emissions
+(SSP3-7.0)",4120.414,3396.626,3624.362,Big Sandy,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",4505.184,3740.81,4031.35,Big Sandy,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",3231.421,2588.75,2986.031,Big Sandy,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",3526.777,2846.33,3101.193,Big Sandy,gdd
+2099,"High Emissions
+(SSP3-7.0)",4387.483,3419.705,3629.383,Big Sandy,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",4709.903,3610.737,4114.523,Big Sandy,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",3172.971,2459.702,2610.831,Big Sandy,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",3561.13,2900.95,3322.939,Big Sandy,gdd
+2100,"High Emissions
+(SSP3-7.0)",3951.191,3382.134,3737.387,Big Sandy,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",4725.023,3556.581,4008.327,Big Sandy,gdd

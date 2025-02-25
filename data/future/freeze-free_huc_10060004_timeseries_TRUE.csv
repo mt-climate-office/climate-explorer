@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,178.85,158.6,166.5,West Fork Poplar,freeze-free
+1951,Historical Emissions,177.55,157.9,167.5,West Fork Poplar,freeze-free
+1952,Historical Emissions,168.6,158.1,166.25,West Fork Poplar,freeze-free
+1953,Historical Emissions,172.1,157.5,162.75,West Fork Poplar,freeze-free
+1954,Historical Emissions,183.8,152.65,163.5,West Fork Poplar,freeze-free
+1955,Historical Emissions,181.45,165.55,171,West Fork Poplar,freeze-free
+1956,Historical Emissions,180.8,165.05,174.25,West Fork Poplar,freeze-free
+1957,Historical Emissions,188.15,158.75,174.75,West Fork Poplar,freeze-free
+1958,Historical Emissions,177.85,162.15,172.5,West Fork Poplar,freeze-free
+1959,Historical Emissions,178.25,157.7,171.5,West Fork Poplar,freeze-free
+1960,Historical Emissions,181.95,159.35,177.25,West Fork Poplar,freeze-free
+1961,Historical Emissions,179.35,154.85,168.5,West Fork Poplar,freeze-free
+1962,Historical Emissions,173.95,160.95,163.25,West Fork Poplar,freeze-free
+1963,Historical Emissions,177.85,162.15,169.5,West Fork Poplar,freeze-free
+1964,Historical Emissions,177,155.75,167.75,West Fork Poplar,freeze-free
+1965,Historical Emissions,178.7,153.8,165,West Fork Poplar,freeze-free
+1966,Historical Emissions,172.3,159.9,165.25,West Fork Poplar,freeze-free
+1967,Historical Emissions,174.9,157,161.5,West Fork Poplar,freeze-free
+1968,Historical Emissions,168.55,154.2,157.75,West Fork Poplar,freeze-free
+1969,Historical Emissions,170.25,153.75,167,West Fork Poplar,freeze-free
+1970,Historical Emissions,176.75,153.85,169.75,West Fork Poplar,freeze-free
+1971,Historical Emissions,186.75,160.05,174.75,West Fork Poplar,freeze-free
+1972,Historical Emissions,177.65,158.95,167.5,West Fork Poplar,freeze-free
+1973,Historical Emissions,178.55,162.05,169.5,West Fork Poplar,freeze-free
+1974,Historical Emissions,179.05,158.25,171,West Fork Poplar,freeze-free
+1975,Historical Emissions,185.5,156.6,167.5,West Fork Poplar,freeze-free
+1976,Historical Emissions,181.5,158.2,168.5,West Fork Poplar,freeze-free
+1977,Historical Emissions,173.5,162.3,163.75,West Fork Poplar,freeze-free
+1978,Historical Emissions,178.6,166.2,171.5,West Fork Poplar,freeze-free
+1979,Historical Emissions,182.35,159.95,173.5,West Fork Poplar,freeze-free
+1980,Historical Emissions,184.05,155.05,170.5,West Fork Poplar,freeze-free
+1981,Historical Emissions,178.4,160.15,173.75,West Fork Poplar,freeze-free
+1982,Historical Emissions,176.55,158.75,170.25,West Fork Poplar,freeze-free
+1983,Historical Emissions,173.6,152,168.5,West Fork Poplar,freeze-free
+1984,Historical Emissions,179.35,164.3,170.75,West Fork Poplar,freeze-free
+1985,Historical Emissions,186.1,168.45,173.5,West Fork Poplar,freeze-free
+1986,Historical Emissions,172.85,154.75,162.5,West Fork Poplar,freeze-free
+1987,Historical Emissions,180.8,156.05,168,West Fork Poplar,freeze-free
+1988,Historical Emissions,179.4,158.95,168.25,West Fork Poplar,freeze-free
+1989,Historical Emissions,182.55,166,175.75,West Fork Poplar,freeze-free
+1990,Historical Emissions,181.55,154.4,176,West Fork Poplar,freeze-free
+1991,Historical Emissions,180.95,165.6,168.5,West Fork Poplar,freeze-free
+1992,Historical Emissions,174.5,155.35,165.25,West Fork Poplar,freeze-free
+1993,Historical Emissions,184,155.2,171.75,West Fork Poplar,freeze-free
+1994,Historical Emissions,179.35,162.5,170.75,West Fork Poplar,freeze-free
+1995,Historical Emissions,188.15,159.3,174.75,West Fork Poplar,freeze-free
+1996,Historical Emissions,184.2,165.1,175,West Fork Poplar,freeze-free
+1997,Historical Emissions,188.75,162.05,171.5,West Fork Poplar,freeze-free
+1998,Historical Emissions,183.85,165.2,178.25,West Fork Poplar,freeze-free
+1999,Historical Emissions,178.55,168.85,174.25,West Fork Poplar,freeze-free
+2000,Historical Emissions,181.65,160.7,176.25,West Fork Poplar,freeze-free
+2001,Historical Emissions,181.15,165.4,172.75,West Fork Poplar,freeze-free
+2002,Historical Emissions,194.3,172.4,177.75,West Fork Poplar,freeze-free
+2003,Historical Emissions,186.3,166.15,179,West Fork Poplar,freeze-free
+2004,Historical Emissions,191.45,174.65,180.25,West Fork Poplar,freeze-free
+2005,Historical Emissions,191.35,175.65,178.25,West Fork Poplar,freeze-free
+2006,Historical Emissions,191.2,171.5,179.5,West Fork Poplar,freeze-free
+2007,Historical Emissions,192,165.05,180.25,West Fork Poplar,freeze-free
+2008,Historical Emissions,186.55,160.95,175,West Fork Poplar,freeze-free
+2009,Historical Emissions,184.65,169.9,179,West Fork Poplar,freeze-free
+2010,Historical Emissions,187.15,168.25,175.75,West Fork Poplar,freeze-free
+2011,Historical Emissions,187.05,167.45,174.75,West Fork Poplar,freeze-free
+2012,Historical Emissions,189.35,166.15,182.25,West Fork Poplar,freeze-free
+2013,Historical Emissions,195.35,169.35,178,West Fork Poplar,freeze-free
+2014,Historical Emissions,191.5,176.15,184.75,West Fork Poplar,freeze-free
+2015,"Moderating Emissions
+(SSP1-2.6)",197.45,164.25,178.75,West Fork Poplar,freeze-free
+2015,"Middle of the Road
+(SSP2-4.5)",189.35,167.9,172.75,West Fork Poplar,freeze-free
+2015,"High Emissions
+(SSP3-7.0)",194,167.1,175.5,West Fork Poplar,freeze-free
+2015,"Accelerating Emissions
+(SSP5-8.5)",184.95,164.3,176.5,West Fork Poplar,freeze-free
+2016,"Moderating Emissions
+(SSP1-2.6)",194.75,168.25,186.75,West Fork Poplar,freeze-free
+2016,"Middle of the Road
+(SSP2-4.5)",190.4,169.25,180.75,West Fork Poplar,freeze-free
+2016,"High Emissions
+(SSP3-7.0)",192.8,172.55,180.5,West Fork Poplar,freeze-free
+2016,"Accelerating Emissions
+(SSP5-8.5)",195.15,168.75,175,West Fork Poplar,freeze-free
+2017,"Moderating Emissions
+(SSP1-2.6)",191.9,171.05,176.25,West Fork Poplar,freeze-free
+2017,"Middle of the Road
+(SSP2-4.5)",198.1,172,183.5,West Fork Poplar,freeze-free
+2017,"High Emissions
+(SSP3-7.0)",185,173.3,178.75,West Fork Poplar,freeze-free
+2017,"Accelerating Emissions
+(SSP5-8.5)",200,171.6,176,West Fork Poplar,freeze-free
+2018,"Moderating Emissions
+(SSP1-2.6)",190.5,166.25,185.25,West Fork Poplar,freeze-free
+2018,"Middle of the Road
+(SSP2-4.5)",193.3,173.2,184.25,West Fork Poplar,freeze-free
+2018,"High Emissions
+(SSP3-7.0)",195.35,167.3,181.25,West Fork Poplar,freeze-free
+2018,"Accelerating Emissions
+(SSP5-8.5)",198.05,165.7,173.5,West Fork Poplar,freeze-free
+2019,"Moderating Emissions
+(SSP1-2.6)",198.2,166.9,184.25,West Fork Poplar,freeze-free
+2019,"Middle of the Road
+(SSP2-4.5)",194.2,169.2,177.75,West Fork Poplar,freeze-free
+2019,"High Emissions
+(SSP3-7.0)",191.35,176.7,182.75,West Fork Poplar,freeze-free
+2019,"Accelerating Emissions
+(SSP5-8.5)",203.6,169.05,180.25,West Fork Poplar,freeze-free
+2020,"Moderating Emissions
+(SSP1-2.6)",193.45,168.5,183.75,West Fork Poplar,freeze-free
+2020,"Middle of the Road
+(SSP2-4.5)",188.3,171.4,176.75,West Fork Poplar,freeze-free
+2020,"High Emissions
+(SSP3-7.0)",188.3,170,178.25,West Fork Poplar,freeze-free
+2020,"Accelerating Emissions
+(SSP5-8.5)",200.25,167.25,177.25,West Fork Poplar,freeze-free
+2021,"Moderating Emissions
+(SSP1-2.6)",206.85,170.55,181.5,West Fork Poplar,freeze-free
+2021,"Middle of the Road
+(SSP2-4.5)",189.55,171.55,181.25,West Fork Poplar,freeze-free
+2021,"High Emissions
+(SSP3-7.0)",200.5,176.9,181.25,West Fork Poplar,freeze-free
+2021,"Accelerating Emissions
+(SSP5-8.5)",200.3,171.6,184.75,West Fork Poplar,freeze-free
+2022,"Moderating Emissions
+(SSP1-2.6)",201.9,172.95,181.5,West Fork Poplar,freeze-free
+2022,"Middle of the Road
+(SSP2-4.5)",190.25,174.9,180.25,West Fork Poplar,freeze-free
+2022,"High Emissions
+(SSP3-7.0)",197.4,173.65,178.5,West Fork Poplar,freeze-free
+2022,"Accelerating Emissions
+(SSP5-8.5)",198,177.4,184.25,West Fork Poplar,freeze-free
+2023,"Moderating Emissions
+(SSP1-2.6)",194.45,173.8,179.75,West Fork Poplar,freeze-free
+2023,"Middle of the Road
+(SSP2-4.5)",204.2,178.05,188,West Fork Poplar,freeze-free
+2023,"High Emissions
+(SSP3-7.0)",197.5,175.5,180.75,West Fork Poplar,freeze-free
+2023,"Accelerating Emissions
+(SSP5-8.5)",190.45,168.55,172,West Fork Poplar,freeze-free
+2024,"Moderating Emissions
+(SSP1-2.6)",201.4,172.55,185.25,West Fork Poplar,freeze-free
+2024,"Middle of the Road
+(SSP2-4.5)",190.75,178.65,184.25,West Fork Poplar,freeze-free
+2024,"High Emissions
+(SSP3-7.0)",195.15,177.7,181.25,West Fork Poplar,freeze-free
+2024,"Accelerating Emissions
+(SSP5-8.5)",197.1,176.4,185,West Fork Poplar,freeze-free
+2025,"Moderating Emissions
+(SSP1-2.6)",196.3,176.85,184.75,West Fork Poplar,freeze-free
+2025,"Middle of the Road
+(SSP2-4.5)",195.65,174.5,183.25,West Fork Poplar,freeze-free
+2025,"High Emissions
+(SSP3-7.0)",191.9,174.65,184,West Fork Poplar,freeze-free
+2025,"Accelerating Emissions
+(SSP5-8.5)",201.75,174,185.25,West Fork Poplar,freeze-free
+2026,"Moderating Emissions
+(SSP1-2.6)",193.75,170.55,182.75,West Fork Poplar,freeze-free
+2026,"Middle of the Road
+(SSP2-4.5)",200.25,176.3,185.5,West Fork Poplar,freeze-free
+2026,"High Emissions
+(SSP3-7.0)",200.35,164.55,185,West Fork Poplar,freeze-free
+2026,"Accelerating Emissions
+(SSP5-8.5)",193.3,177.65,183,West Fork Poplar,freeze-free
+2027,"Moderating Emissions
+(SSP1-2.6)",198.05,171.55,183.5,West Fork Poplar,freeze-free
+2027,"Middle of the Road
+(SSP2-4.5)",194.25,170.75,173.75,West Fork Poplar,freeze-free
+2027,"High Emissions
+(SSP3-7.0)",197.5,180.25,185,West Fork Poplar,freeze-free
+2027,"Accelerating Emissions
+(SSP5-8.5)",191.1,176.85,184.75,West Fork Poplar,freeze-free
+2028,"Moderating Emissions
+(SSP1-2.6)",201,170.1,189,West Fork Poplar,freeze-free
+2028,"Middle of the Road
+(SSP2-4.5)",198.85,167.75,182.5,West Fork Poplar,freeze-free
+2028,"High Emissions
+(SSP3-7.0)",194,172.35,185.75,West Fork Poplar,freeze-free
+2028,"Accelerating Emissions
+(SSP5-8.5)",198.7,177.5,185.25,West Fork Poplar,freeze-free
+2029,"Moderating Emissions
+(SSP1-2.6)",204.25,178.95,183.75,West Fork Poplar,freeze-free
+2029,"Middle of the Road
+(SSP2-4.5)",206.8,176.9,189.75,West Fork Poplar,freeze-free
+2029,"High Emissions
+(SSP3-7.0)",204.5,174.75,180,West Fork Poplar,freeze-free
+2029,"Accelerating Emissions
+(SSP5-8.5)",204.45,173.3,190,West Fork Poplar,freeze-free
+2030,"Moderating Emissions
+(SSP1-2.6)",203.6,170.95,187,West Fork Poplar,freeze-free
+2030,"Middle of the Road
+(SSP2-4.5)",193.5,175.15,183,West Fork Poplar,freeze-free
+2030,"High Emissions
+(SSP3-7.0)",199.5,179.15,189.25,West Fork Poplar,freeze-free
+2030,"Accelerating Emissions
+(SSP5-8.5)",197.3,174.15,183,West Fork Poplar,freeze-free
+2031,"Moderating Emissions
+(SSP1-2.6)",201.45,174.6,187,West Fork Poplar,freeze-free
+2031,"Middle of the Road
+(SSP2-4.5)",203.5,176.4,184.5,West Fork Poplar,freeze-free
+2031,"High Emissions
+(SSP3-7.0)",208.95,174.6,184.5,West Fork Poplar,freeze-free
+2031,"Accelerating Emissions
+(SSP5-8.5)",204.55,179.7,189.25,West Fork Poplar,freeze-free
+2032,"Moderating Emissions
+(SSP1-2.6)",192.5,178.35,186.25,West Fork Poplar,freeze-free
+2032,"Middle of the Road
+(SSP2-4.5)",203.8,168.9,185,West Fork Poplar,freeze-free
+2032,"High Emissions
+(SSP3-7.0)",189.35,176.9,184.75,West Fork Poplar,freeze-free
+2032,"Accelerating Emissions
+(SSP5-8.5)",210.85,179,188.25,West Fork Poplar,freeze-free
+2033,"Moderating Emissions
+(SSP1-2.6)",201.55,175.9,183,West Fork Poplar,freeze-free
+2033,"Middle of the Road
+(SSP2-4.5)",203.2,175.7,191.75,West Fork Poplar,freeze-free
+2033,"High Emissions
+(SSP3-7.0)",192.1,175.95,182.75,West Fork Poplar,freeze-free
+2033,"Accelerating Emissions
+(SSP5-8.5)",205.5,177.75,187.75,West Fork Poplar,freeze-free
+2034,"Moderating Emissions
+(SSP1-2.6)",196.75,171.8,185,West Fork Poplar,freeze-free
+2034,"Middle of the Road
+(SSP2-4.5)",191.05,172.4,179.75,West Fork Poplar,freeze-free
+2034,"High Emissions
+(SSP3-7.0)",195.85,180.7,184.75,West Fork Poplar,freeze-free
+2034,"Accelerating Emissions
+(SSP5-8.5)",192.35,177.2,182.5,West Fork Poplar,freeze-free
+2035,"Moderating Emissions
+(SSP1-2.6)",201.4,178.05,191,West Fork Poplar,freeze-free
+2035,"Middle of the Road
+(SSP2-4.5)",206.95,178.5,186.25,West Fork Poplar,freeze-free
+2035,"High Emissions
+(SSP3-7.0)",192.95,171.15,183,West Fork Poplar,freeze-free
+2035,"Accelerating Emissions
+(SSP5-8.5)",215.7,172.35,183.75,West Fork Poplar,freeze-free
+2036,"Moderating Emissions
+(SSP1-2.6)",195.1,177.75,186,West Fork Poplar,freeze-free
+2036,"Middle of the Road
+(SSP2-4.5)",193.6,172.95,183.75,West Fork Poplar,freeze-free
+2036,"High Emissions
+(SSP3-7.0)",198.25,177.95,183.75,West Fork Poplar,freeze-free
+2036,"Accelerating Emissions
+(SSP5-8.5)",203.55,181.9,188,West Fork Poplar,freeze-free
+2037,"Moderating Emissions
+(SSP1-2.6)",197.65,189.4,193.5,West Fork Poplar,freeze-free
+2037,"Middle of the Road
+(SSP2-4.5)",195.4,180.2,182.25,West Fork Poplar,freeze-free
+2037,"High Emissions
+(SSP3-7.0)",198.35,173.25,184,West Fork Poplar,freeze-free
+2037,"Accelerating Emissions
+(SSP5-8.5)",208.4,179.05,188,West Fork Poplar,freeze-free
+2038,"Moderating Emissions
+(SSP1-2.6)",205.9,179.55,185.75,West Fork Poplar,freeze-free
+2038,"Middle of the Road
+(SSP2-4.5)",197.8,180.35,187.25,West Fork Poplar,freeze-free
+2038,"High Emissions
+(SSP3-7.0)",199.1,180.85,187.5,West Fork Poplar,freeze-free
+2038,"Accelerating Emissions
+(SSP5-8.5)",203.05,179.3,191,West Fork Poplar,freeze-free
+2039,"Moderating Emissions
+(SSP1-2.6)",198.3,173.5,182.25,West Fork Poplar,freeze-free
+2039,"Middle of the Road
+(SSP2-4.5)",203.15,173.4,186.25,West Fork Poplar,freeze-free
+2039,"High Emissions
+(SSP3-7.0)",200.95,176,186,West Fork Poplar,freeze-free
+2039,"Accelerating Emissions
+(SSP5-8.5)",202,174.95,181.5,West Fork Poplar,freeze-free
+2040,"Moderating Emissions
+(SSP1-2.6)",207,179.1,185.75,West Fork Poplar,freeze-free
+2040,"Middle of the Road
+(SSP2-4.5)",191.2,181.65,187.5,West Fork Poplar,freeze-free
+2040,"High Emissions
+(SSP3-7.0)",197.95,173.95,187.25,West Fork Poplar,freeze-free
+2040,"Accelerating Emissions
+(SSP5-8.5)",217.25,183.35,185.5,West Fork Poplar,freeze-free
+2041,"Moderating Emissions
+(SSP1-2.6)",196.9,171.95,182,West Fork Poplar,freeze-free
+2041,"Middle of the Road
+(SSP2-4.5)",198,179.25,187,West Fork Poplar,freeze-free
+2041,"High Emissions
+(SSP3-7.0)",200.95,175.65,192.5,West Fork Poplar,freeze-free
+2041,"Accelerating Emissions
+(SSP5-8.5)",206.7,171.8,186.75,West Fork Poplar,freeze-free
+2042,"Moderating Emissions
+(SSP1-2.6)",205.5,178.65,186.25,West Fork Poplar,freeze-free
+2042,"Middle of the Road
+(SSP2-4.5)",191.75,179.25,185.75,West Fork Poplar,freeze-free
+2042,"High Emissions
+(SSP3-7.0)",200.55,178.9,185,West Fork Poplar,freeze-free
+2042,"Accelerating Emissions
+(SSP5-8.5)",206.75,182.25,193.75,West Fork Poplar,freeze-free
+2043,"Moderating Emissions
+(SSP1-2.6)",199.05,178.95,191.25,West Fork Poplar,freeze-free
+2043,"Middle of the Road
+(SSP2-4.5)",200.8,181.25,190.25,West Fork Poplar,freeze-free
+2043,"High Emissions
+(SSP3-7.0)",196.25,180.5,189.25,West Fork Poplar,freeze-free
+2043,"Accelerating Emissions
+(SSP5-8.5)",203.2,181.6,192.25,West Fork Poplar,freeze-free
+2044,"Moderating Emissions
+(SSP1-2.6)",203.5,182.2,191,West Fork Poplar,freeze-free
+2044,"Middle of the Road
+(SSP2-4.5)",214.55,184.35,191.5,West Fork Poplar,freeze-free
+2044,"High Emissions
+(SSP3-7.0)",205.25,176.7,196.5,West Fork Poplar,freeze-free
+2044,"Accelerating Emissions
+(SSP5-8.5)",205.85,185.3,192.25,West Fork Poplar,freeze-free
+2045,"Moderating Emissions
+(SSP1-2.6)",196.75,173.15,183.75,West Fork Poplar,freeze-free
+2045,"Middle of the Road
+(SSP2-4.5)",201.75,174.8,190.5,West Fork Poplar,freeze-free
+2045,"High Emissions
+(SSP3-7.0)",203,174.6,188.5,West Fork Poplar,freeze-free
+2045,"Accelerating Emissions
+(SSP5-8.5)",205.2,181.7,188,West Fork Poplar,freeze-free
+2046,"Moderating Emissions
+(SSP1-2.6)",211.4,177.85,185.5,West Fork Poplar,freeze-free
+2046,"Middle of the Road
+(SSP2-4.5)",208.15,181.65,193.5,West Fork Poplar,freeze-free
+2046,"High Emissions
+(SSP3-7.0)",209.55,180.1,192,West Fork Poplar,freeze-free
+2046,"Accelerating Emissions
+(SSP5-8.5)",200.2,181,185.75,West Fork Poplar,freeze-free
+2047,"Moderating Emissions
+(SSP1-2.6)",208.45,176.15,184.75,West Fork Poplar,freeze-free
+2047,"Middle of the Road
+(SSP2-4.5)",199.3,181.5,187.75,West Fork Poplar,freeze-free
+2047,"High Emissions
+(SSP3-7.0)",198.25,180.4,188.5,West Fork Poplar,freeze-free
+2047,"Accelerating Emissions
+(SSP5-8.5)",198.35,183,191.5,West Fork Poplar,freeze-free
+2048,"Moderating Emissions
+(SSP1-2.6)",200.3,182.25,185.75,West Fork Poplar,freeze-free
+2048,"Middle of the Road
+(SSP2-4.5)",201.65,172.5,196,West Fork Poplar,freeze-free
+2048,"High Emissions
+(SSP3-7.0)",213.35,180.2,189.5,West Fork Poplar,freeze-free
+2048,"Accelerating Emissions
+(SSP5-8.5)",215.8,183.65,194.75,West Fork Poplar,freeze-free
+2049,"Moderating Emissions
+(SSP1-2.6)",207.4,177.1,184,West Fork Poplar,freeze-free
+2049,"Middle of the Road
+(SSP2-4.5)",207.15,189.35,197.25,West Fork Poplar,freeze-free
+2049,"High Emissions
+(SSP3-7.0)",209.4,177.65,192.5,West Fork Poplar,freeze-free
+2049,"Accelerating Emissions
+(SSP5-8.5)",211.25,186.15,192.75,West Fork Poplar,freeze-free
+2050,"Moderating Emissions
+(SSP1-2.6)",203.65,168.65,185,West Fork Poplar,freeze-free
+2050,"Middle of the Road
+(SSP2-4.5)",211.15,180.35,192.75,West Fork Poplar,freeze-free
+2050,"High Emissions
+(SSP3-7.0)",205.7,182,191.5,West Fork Poplar,freeze-free
+2050,"Accelerating Emissions
+(SSP5-8.5)",209.25,188.9,192.75,West Fork Poplar,freeze-free
+2051,"Moderating Emissions
+(SSP1-2.6)",204.8,171.95,193.75,West Fork Poplar,freeze-free
+2051,"Middle of the Road
+(SSP2-4.5)",204.75,182.5,192.25,West Fork Poplar,freeze-free
+2051,"High Emissions
+(SSP3-7.0)",206.05,178.75,193.25,West Fork Poplar,freeze-free
+2051,"Accelerating Emissions
+(SSP5-8.5)",204.7,178.75,189,West Fork Poplar,freeze-free
+2052,"Moderating Emissions
+(SSP1-2.6)",197.8,184.1,189.5,West Fork Poplar,freeze-free
+2052,"Middle of the Road
+(SSP2-4.5)",210,185.8,195.25,West Fork Poplar,freeze-free
+2052,"High Emissions
+(SSP3-7.0)",208.4,176.15,193.5,West Fork Poplar,freeze-free
+2052,"Accelerating Emissions
+(SSP5-8.5)",213.45,184.85,191.25,West Fork Poplar,freeze-free
+2053,"Moderating Emissions
+(SSP1-2.6)",198.9,174.95,191,West Fork Poplar,freeze-free
+2053,"Middle of the Road
+(SSP2-4.5)",198.05,181.65,190,West Fork Poplar,freeze-free
+2053,"High Emissions
+(SSP3-7.0)",210.45,185.8,195.25,West Fork Poplar,freeze-free
+2053,"Accelerating Emissions
+(SSP5-8.5)",207.65,188.8,193,West Fork Poplar,freeze-free
+2054,"Moderating Emissions
+(SSP1-2.6)",199.75,173.65,179.5,West Fork Poplar,freeze-free
+2054,"Middle of the Road
+(SSP2-4.5)",201.3,187.4,193.75,West Fork Poplar,freeze-free
+2054,"High Emissions
+(SSP3-7.0)",202.6,182.4,192.75,West Fork Poplar,freeze-free
+2054,"Accelerating Emissions
+(SSP5-8.5)",205.55,182.3,194.25,West Fork Poplar,freeze-free
+2055,"Moderating Emissions
+(SSP1-2.6)",197.35,180.8,184.75,West Fork Poplar,freeze-free
+2055,"Middle of the Road
+(SSP2-4.5)",206.6,178.55,183.5,West Fork Poplar,freeze-free
+2055,"High Emissions
+(SSP3-7.0)",214.7,181.55,196,West Fork Poplar,freeze-free
+2055,"Accelerating Emissions
+(SSP5-8.5)",210.55,190.85,193.75,West Fork Poplar,freeze-free
+2056,"Moderating Emissions
+(SSP1-2.6)",204.3,178.65,190.25,West Fork Poplar,freeze-free
+2056,"Middle of the Road
+(SSP2-4.5)",204.8,179.8,190.25,West Fork Poplar,freeze-free
+2056,"High Emissions
+(SSP3-7.0)",216.55,184,195.75,West Fork Poplar,freeze-free
+2056,"Accelerating Emissions
+(SSP5-8.5)",215.45,181,201.25,West Fork Poplar,freeze-free
+2057,"Moderating Emissions
+(SSP1-2.6)",208.95,176.15,189,West Fork Poplar,freeze-free
+2057,"Middle of the Road
+(SSP2-4.5)",209.95,185.55,189.5,West Fork Poplar,freeze-free
+2057,"High Emissions
+(SSP3-7.0)",209.25,186.6,199.75,West Fork Poplar,freeze-free
+2057,"Accelerating Emissions
+(SSP5-8.5)",207.15,181.85,194.75,West Fork Poplar,freeze-free
+2058,"Moderating Emissions
+(SSP1-2.6)",200.8,181.2,186.5,West Fork Poplar,freeze-free
+2058,"Middle of the Road
+(SSP2-4.5)",213.85,188.05,195.75,West Fork Poplar,freeze-free
+2058,"High Emissions
+(SSP3-7.0)",204.15,189.65,197,West Fork Poplar,freeze-free
+2058,"Accelerating Emissions
+(SSP5-8.5)",210.8,188.65,194.75,West Fork Poplar,freeze-free
+2059,"Moderating Emissions
+(SSP1-2.6)",205.2,181.85,190.5,West Fork Poplar,freeze-free
+2059,"Middle of the Road
+(SSP2-4.5)",220,187.65,193.25,West Fork Poplar,freeze-free
+2059,"High Emissions
+(SSP3-7.0)",211.5,185.05,195,West Fork Poplar,freeze-free
+2059,"Accelerating Emissions
+(SSP5-8.5)",219.45,192.4,202.5,West Fork Poplar,freeze-free
+2060,"Moderating Emissions
+(SSP1-2.6)",215.6,177.05,188.5,West Fork Poplar,freeze-free
+2060,"Middle of the Road
+(SSP2-4.5)",201.5,181.85,190.25,West Fork Poplar,freeze-free
+2060,"High Emissions
+(SSP3-7.0)",210.35,188.45,195.75,West Fork Poplar,freeze-free
+2060,"Accelerating Emissions
+(SSP5-8.5)",211.4,196.9,200.75,West Fork Poplar,freeze-free
+2061,"Moderating Emissions
+(SSP1-2.6)",203.45,175.95,187.25,West Fork Poplar,freeze-free
+2061,"Middle of the Road
+(SSP2-4.5)",207.75,184.5,195.25,West Fork Poplar,freeze-free
+2061,"High Emissions
+(SSP3-7.0)",212.4,188.2,193.25,West Fork Poplar,freeze-free
+2061,"Accelerating Emissions
+(SSP5-8.5)",221.4,195.25,201.5,West Fork Poplar,freeze-free
+2062,"Moderating Emissions
+(SSP1-2.6)",199.65,189.6,196.75,West Fork Poplar,freeze-free
+2062,"Middle of the Road
+(SSP2-4.5)",203.7,183.4,189.25,West Fork Poplar,freeze-free
+2062,"High Emissions
+(SSP3-7.0)",216.35,185.85,194.75,West Fork Poplar,freeze-free
+2062,"Accelerating Emissions
+(SSP5-8.5)",231.8,186.95,204.25,West Fork Poplar,freeze-free
+2063,"Moderating Emissions
+(SSP1-2.6)",206.45,179.15,188.5,West Fork Poplar,freeze-free
+2063,"Middle of the Road
+(SSP2-4.5)",206.5,185.1,196.5,West Fork Poplar,freeze-free
+2063,"High Emissions
+(SSP3-7.0)",227.5,183.45,198,West Fork Poplar,freeze-free
+2063,"Accelerating Emissions
+(SSP5-8.5)",221.05,191.35,200.25,West Fork Poplar,freeze-free
+2064,"Moderating Emissions
+(SSP1-2.6)",208.9,182.65,195.25,West Fork Poplar,freeze-free
+2064,"Middle of the Road
+(SSP2-4.5)",204.45,181.7,188.75,West Fork Poplar,freeze-free
+2064,"High Emissions
+(SSP3-7.0)",211.25,181.7,189,West Fork Poplar,freeze-free
+2064,"Accelerating Emissions
+(SSP5-8.5)",208.75,193.7,197,West Fork Poplar,freeze-free
+2065,"Moderating Emissions
+(SSP1-2.6)",199.65,170.45,182.5,West Fork Poplar,freeze-free
+2065,"Middle of the Road
+(SSP2-4.5)",203.9,173.65,193.5,West Fork Poplar,freeze-free
+2065,"High Emissions
+(SSP3-7.0)",204.75,188.1,192.25,West Fork Poplar,freeze-free
+2065,"Accelerating Emissions
+(SSP5-8.5)",220.25,191.4,205.75,West Fork Poplar,freeze-free
+2066,"Moderating Emissions
+(SSP1-2.6)",203.2,176.1,188,West Fork Poplar,freeze-free
+2066,"Middle of the Road
+(SSP2-4.5)",219.35,183.4,201,West Fork Poplar,freeze-free
+2066,"High Emissions
+(SSP3-7.0)",212.65,188.5,197,West Fork Poplar,freeze-free
+2066,"Accelerating Emissions
+(SSP5-8.5)",219.5,194.25,203.5,West Fork Poplar,freeze-free
+2067,"Moderating Emissions
+(SSP1-2.6)",210.05,187.15,194.5,West Fork Poplar,freeze-free
+2067,"Middle of the Road
+(SSP2-4.5)",207.5,188,191,West Fork Poplar,freeze-free
+2067,"High Emissions
+(SSP3-7.0)",232.25,195.3,202.5,West Fork Poplar,freeze-free
+2067,"Accelerating Emissions
+(SSP5-8.5)",225.35,191.85,203.5,West Fork Poplar,freeze-free
+2068,"Moderating Emissions
+(SSP1-2.6)",200.1,183.7,188.5,West Fork Poplar,freeze-free
+2068,"Middle of the Road
+(SSP2-4.5)",215.2,181.3,194.5,West Fork Poplar,freeze-free
+2068,"High Emissions
+(SSP3-7.0)",228.1,187.2,192.75,West Fork Poplar,freeze-free
+2068,"Accelerating Emissions
+(SSP5-8.5)",222.15,195.95,205.75,West Fork Poplar,freeze-free
+2069,"Moderating Emissions
+(SSP1-2.6)",205.6,177.25,187.25,West Fork Poplar,freeze-free
+2069,"Middle of the Road
+(SSP2-4.5)",206.6,180.85,188.25,West Fork Poplar,freeze-free
+2069,"High Emissions
+(SSP3-7.0)",216.85,190.65,200.75,West Fork Poplar,freeze-free
+2069,"Accelerating Emissions
+(SSP5-8.5)",232.55,196.45,199.75,West Fork Poplar,freeze-free
+2070,"Moderating Emissions
+(SSP1-2.6)",210.1,178.95,190.5,West Fork Poplar,freeze-free
+2070,"Middle of the Road
+(SSP2-4.5)",207.25,186.75,192.5,West Fork Poplar,freeze-free
+2070,"High Emissions
+(SSP3-7.0)",214.55,189.2,203.5,West Fork Poplar,freeze-free
+2070,"Accelerating Emissions
+(SSP5-8.5)",228.75,200.1,208,West Fork Poplar,freeze-free
+2071,"Moderating Emissions
+(SSP1-2.6)",209.95,182.45,189.5,West Fork Poplar,freeze-free
+2071,"Middle of the Road
+(SSP2-4.5)",206.85,188.65,194,West Fork Poplar,freeze-free
+2071,"High Emissions
+(SSP3-7.0)",220.7,196.95,202.25,West Fork Poplar,freeze-free
+2071,"Accelerating Emissions
+(SSP5-8.5)",217.8,194.85,202.25,West Fork Poplar,freeze-free
+2072,"Moderating Emissions
+(SSP1-2.6)",203.45,182.2,190.25,West Fork Poplar,freeze-free
+2072,"Middle of the Road
+(SSP2-4.5)",205.6,185.2,197.25,West Fork Poplar,freeze-free
+2072,"High Emissions
+(SSP3-7.0)",207.35,197.7,200.25,West Fork Poplar,freeze-free
+2072,"Accelerating Emissions
+(SSP5-8.5)",220.05,198.95,204.25,West Fork Poplar,freeze-free
+2073,"Moderating Emissions
+(SSP1-2.6)",199.6,173.4,188.5,West Fork Poplar,freeze-free
+2073,"Middle of the Road
+(SSP2-4.5)",210.65,187.6,194.25,West Fork Poplar,freeze-free
+2073,"High Emissions
+(SSP3-7.0)",225,192.15,201.5,West Fork Poplar,freeze-free
+2073,"Accelerating Emissions
+(SSP5-8.5)",226.85,194.7,204,West Fork Poplar,freeze-free
+2074,"Moderating Emissions
+(SSP1-2.6)",209.2,184.65,188,West Fork Poplar,freeze-free
+2074,"Middle of the Road
+(SSP2-4.5)",208.35,180.55,193.75,West Fork Poplar,freeze-free
+2074,"High Emissions
+(SSP3-7.0)",217.1,192.95,196.75,West Fork Poplar,freeze-free
+2074,"Accelerating Emissions
+(SSP5-8.5)",213.3,195.65,198.5,West Fork Poplar,freeze-free
+2075,"Moderating Emissions
+(SSP1-2.6)",197.1,178.1,183.75,West Fork Poplar,freeze-free
+2075,"Middle of the Road
+(SSP2-4.5)",202.2,181.65,189.75,West Fork Poplar,freeze-free
+2075,"High Emissions
+(SSP3-7.0)",220.25,187.65,199,West Fork Poplar,freeze-free
+2075,"Accelerating Emissions
+(SSP5-8.5)",230.5,198.9,203.5,West Fork Poplar,freeze-free
+2076,"Moderating Emissions
+(SSP1-2.6)",202.35,171.4,189.5,West Fork Poplar,freeze-free
+2076,"Middle of the Road
+(SSP2-4.5)",207.05,182.65,192.5,West Fork Poplar,freeze-free
+2076,"High Emissions
+(SSP3-7.0)",222.15,192.85,202.5,West Fork Poplar,freeze-free
+2076,"Accelerating Emissions
+(SSP5-8.5)",226.05,196.15,209.25,West Fork Poplar,freeze-free
+2077,"Moderating Emissions
+(SSP1-2.6)",198.3,188.3,194.5,West Fork Poplar,freeze-free
+2077,"Middle of the Road
+(SSP2-4.5)",212.45,191.95,200.5,West Fork Poplar,freeze-free
+2077,"High Emissions
+(SSP3-7.0)",215.8,195.5,203,West Fork Poplar,freeze-free
+2077,"Accelerating Emissions
+(SSP5-8.5)",227.95,195.95,206.25,West Fork Poplar,freeze-free
+2078,"Moderating Emissions
+(SSP1-2.6)",200.5,182.85,191.25,West Fork Poplar,freeze-free
+2078,"Middle of the Road
+(SSP2-4.5)",210.95,185.3,197,West Fork Poplar,freeze-free
+2078,"High Emissions
+(SSP3-7.0)",212.65,191.8,198.75,West Fork Poplar,freeze-free
+2078,"Accelerating Emissions
+(SSP5-8.5)",220.65,197.9,204.5,West Fork Poplar,freeze-free
+2079,"Moderating Emissions
+(SSP1-2.6)",199.15,182.2,186,West Fork Poplar,freeze-free
+2079,"Middle of the Road
+(SSP2-4.5)",209.45,186.75,194.75,West Fork Poplar,freeze-free
+2079,"High Emissions
+(SSP3-7.0)",223.7,184.8,208.75,West Fork Poplar,freeze-free
+2079,"Accelerating Emissions
+(SSP5-8.5)",228.8,196.8,213,West Fork Poplar,freeze-free
+2080,"Moderating Emissions
+(SSP1-2.6)",197.65,175.85,186.25,West Fork Poplar,freeze-free
+2080,"Middle of the Road
+(SSP2-4.5)",213.5,179.2,198.5,West Fork Poplar,freeze-free
+2080,"High Emissions
+(SSP3-7.0)",222.1,192.95,210,West Fork Poplar,freeze-free
+2080,"Accelerating Emissions
+(SSP5-8.5)",232.2,201.25,211.25,West Fork Poplar,freeze-free
+2081,"Moderating Emissions
+(SSP1-2.6)",197.6,175.25,184.75,West Fork Poplar,freeze-free
+2081,"Middle of the Road
+(SSP2-4.5)",208.55,187.4,197,West Fork Poplar,freeze-free
+2081,"High Emissions
+(SSP3-7.0)",224.35,192.75,206,West Fork Poplar,freeze-free
+2081,"Accelerating Emissions
+(SSP5-8.5)",236.15,200.75,212.5,West Fork Poplar,freeze-free
+2082,"Moderating Emissions
+(SSP1-2.6)",204,180.75,188.25,West Fork Poplar,freeze-free
+2082,"Middle of the Road
+(SSP2-4.5)",209.85,187.75,194,West Fork Poplar,freeze-free
+2082,"High Emissions
+(SSP3-7.0)",218.8,191.95,203.5,West Fork Poplar,freeze-free
+2082,"Accelerating Emissions
+(SSP5-8.5)",239.05,197.35,210,West Fork Poplar,freeze-free
+2083,"Moderating Emissions
+(SSP1-2.6)",202.8,183.45,188.75,West Fork Poplar,freeze-free
+2083,"Middle of the Road
+(SSP2-4.5)",220.8,182.3,194.75,West Fork Poplar,freeze-free
+2083,"High Emissions
+(SSP3-7.0)",225.3,189.9,200.25,West Fork Poplar,freeze-free
+2083,"Accelerating Emissions
+(SSP5-8.5)",238.85,207.6,219,West Fork Poplar,freeze-free
+2084,"Moderating Emissions
+(SSP1-2.6)",203.85,179.75,185.25,West Fork Poplar,freeze-free
+2084,"Middle of the Road
+(SSP2-4.5)",217.8,186.1,203.5,West Fork Poplar,freeze-free
+2084,"High Emissions
+(SSP3-7.0)",234.65,189.65,198.25,West Fork Poplar,freeze-free
+2084,"Accelerating Emissions
+(SSP5-8.5)",231.45,203.15,211.25,West Fork Poplar,freeze-free
+2085,"Moderating Emissions
+(SSP1-2.6)",197.25,169.8,184.25,West Fork Poplar,freeze-free
+2085,"Middle of the Road
+(SSP2-4.5)",212.45,188.85,200.75,West Fork Poplar,freeze-free
+2085,"High Emissions
+(SSP3-7.0)",228.1,192.1,202,West Fork Poplar,freeze-free
+2085,"Accelerating Emissions
+(SSP5-8.5)",254.1,203.25,209.75,West Fork Poplar,freeze-free
+2086,"Moderating Emissions
+(SSP1-2.6)",198.6,185.65,193.5,West Fork Poplar,freeze-free
+2086,"Middle of the Road
+(SSP2-4.5)",214,191.7,195.25,West Fork Poplar,freeze-free
+2086,"High Emissions
+(SSP3-7.0)",223.85,195.25,203.75,West Fork Poplar,freeze-free
+2086,"Accelerating Emissions
+(SSP5-8.5)",246.65,199.05,202.5,West Fork Poplar,freeze-free
+2087,"Moderating Emissions
+(SSP1-2.6)",208.55,181,187,West Fork Poplar,freeze-free
+2087,"Middle of the Road
+(SSP2-4.5)",214.15,189.5,200.5,West Fork Poplar,freeze-free
+2087,"High Emissions
+(SSP3-7.0)",227.25,195.7,209.25,West Fork Poplar,freeze-free
+2087,"Accelerating Emissions
+(SSP5-8.5)",255.65,208.55,216,West Fork Poplar,freeze-free
+2088,"Moderating Emissions
+(SSP1-2.6)",214.4,180.35,192,West Fork Poplar,freeze-free
+2088,"Middle of the Road
+(SSP2-4.5)",212,193.05,201,West Fork Poplar,freeze-free
+2088,"High Emissions
+(SSP3-7.0)",231.9,202.15,204.25,West Fork Poplar,freeze-free
+2088,"Accelerating Emissions
+(SSP5-8.5)",248.55,200,219.75,West Fork Poplar,freeze-free
+2089,"Moderating Emissions
+(SSP1-2.6)",200.55,172.85,186.25,West Fork Poplar,freeze-free
+2089,"Middle of the Road
+(SSP2-4.5)",215.35,193.2,196.75,West Fork Poplar,freeze-free
+2089,"High Emissions
+(SSP3-7.0)",223.45,204.55,209.5,West Fork Poplar,freeze-free
+2089,"Accelerating Emissions
+(SSP5-8.5)",259.45,205.35,224.25,West Fork Poplar,freeze-free
+2090,"Moderating Emissions
+(SSP1-2.6)",206.5,179.95,192.75,West Fork Poplar,freeze-free
+2090,"Middle of the Road
+(SSP2-4.5)",208.55,191.95,197.5,West Fork Poplar,freeze-free
+2090,"High Emissions
+(SSP3-7.0)",230.5,193.35,212,West Fork Poplar,freeze-free
+2090,"Accelerating Emissions
+(SSP5-8.5)",250.25,210.9,219.5,West Fork Poplar,freeze-free
+2091,"Moderating Emissions
+(SSP1-2.6)",197.85,182.25,185.75,West Fork Poplar,freeze-free
+2091,"Middle of the Road
+(SSP2-4.5)",219.85,193.8,202.75,West Fork Poplar,freeze-free
+2091,"High Emissions
+(SSP3-7.0)",234.45,200.4,206,West Fork Poplar,freeze-free
+2091,"Accelerating Emissions
+(SSP5-8.5)",249.3,208.65,216,West Fork Poplar,freeze-free
+2092,"Moderating Emissions
+(SSP1-2.6)",199.9,181.4,189.25,West Fork Poplar,freeze-free
+2092,"Middle of the Road
+(SSP2-4.5)",208.95,180.8,192.75,West Fork Poplar,freeze-free
+2092,"High Emissions
+(SSP3-7.0)",237.6,193.1,217,West Fork Poplar,freeze-free
+2092,"Accelerating Emissions
+(SSP5-8.5)",251.6,203.15,218,West Fork Poplar,freeze-free
+2093,"Moderating Emissions
+(SSP1-2.6)",198.4,178.8,187,West Fork Poplar,freeze-free
+2093,"Middle of the Road
+(SSP2-4.5)",210.95,192.45,195.25,West Fork Poplar,freeze-free
+2093,"High Emissions
+(SSP3-7.0)",245.1,199.8,211.25,West Fork Poplar,freeze-free
+2093,"Accelerating Emissions
+(SSP5-8.5)",259.2,200,220.5,West Fork Poplar,freeze-free
+2094,"Moderating Emissions
+(SSP1-2.6)",202.25,177.3,189.5,West Fork Poplar,freeze-free
+2094,"Middle of the Road
+(SSP2-4.5)",216.1,188.2,195.25,West Fork Poplar,freeze-free
+2094,"High Emissions
+(SSP3-7.0)",232.55,197.85,211.75,West Fork Poplar,freeze-free
+2094,"Accelerating Emissions
+(SSP5-8.5)",253.4,211.5,215,West Fork Poplar,freeze-free
+2095,"Moderating Emissions
+(SSP1-2.6)",196.85,176.9,185.5,West Fork Poplar,freeze-free
+2095,"Middle of the Road
+(SSP2-4.5)",213.8,188.5,198.5,West Fork Poplar,freeze-free
+2095,"High Emissions
+(SSP3-7.0)",234.7,196.95,221,West Fork Poplar,freeze-free
+2095,"Accelerating Emissions
+(SSP5-8.5)",249.7,207.7,211.75,West Fork Poplar,freeze-free
+2096,"Moderating Emissions
+(SSP1-2.6)",201.8,176.55,192.5,West Fork Poplar,freeze-free
+2096,"Middle of the Road
+(SSP2-4.5)",215.35,194.15,198,West Fork Poplar,freeze-free
+2096,"High Emissions
+(SSP3-7.0)",229.8,194.95,209.25,West Fork Poplar,freeze-free
+2096,"Accelerating Emissions
+(SSP5-8.5)",234.7,208,219.75,West Fork Poplar,freeze-free
+2097,"Moderating Emissions
+(SSP1-2.6)",195.45,171.75,182.75,West Fork Poplar,freeze-free
+2097,"Middle of the Road
+(SSP2-4.5)",219.7,190.05,206.75,West Fork Poplar,freeze-free
+2097,"High Emissions
+(SSP3-7.0)",229.85,201.45,211,West Fork Poplar,freeze-free
+2097,"Accelerating Emissions
+(SSP5-8.5)",264.15,213.1,221,West Fork Poplar,freeze-free
+2098,"Moderating Emissions
+(SSP1-2.6)",203.8,178.45,187.25,West Fork Poplar,freeze-free
+2098,"Middle of the Road
+(SSP2-4.5)",216.95,191.55,206.25,West Fork Poplar,freeze-free
+2098,"High Emissions
+(SSP3-7.0)",235.05,204.6,211.25,West Fork Poplar,freeze-free
+2098,"Accelerating Emissions
+(SSP5-8.5)",244.9,207.35,221,West Fork Poplar,freeze-free
+2099,"Moderating Emissions
+(SSP1-2.6)",208.75,183.3,188.25,West Fork Poplar,freeze-free
+2099,"Middle of the Road
+(SSP2-4.5)",209.8,190.85,196.5,West Fork Poplar,freeze-free
+2099,"High Emissions
+(SSP3-7.0)",241.65,203.35,216.5,West Fork Poplar,freeze-free
+2099,"Accelerating Emissions
+(SSP5-8.5)",252.2,206.2,227,West Fork Poplar,freeze-free
+2100,"Moderating Emissions
+(SSP1-2.6)",203,181.25,193.75,West Fork Poplar,freeze-free
+2100,"Middle of the Road
+(SSP2-4.5)",222.55,191.9,204.75,West Fork Poplar,freeze-free
+2100,"High Emissions
+(SSP3-7.0)",234.3,204.1,211.5,West Fork Poplar,freeze-free
+2100,"Accelerating Emissions
+(SSP5-8.5)",258.35,210.95,219.5,West Fork Poplar,freeze-free

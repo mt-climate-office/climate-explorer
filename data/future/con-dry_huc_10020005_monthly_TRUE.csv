@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),29,13.857,19,Jefferson,con-dry
+Historical Emissions,Jan,End-of-Century (2070-2099),29,13.857,19,Jefferson,con-dry
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),29.9,13.529,19.428,Jefferson,con-dry
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),29.029,13.857,19.429,Jefferson,con-dry
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),32.2,14.1,18.714,Jefferson,con-dry
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),29.728,13,20.072,Jefferson,con-dry
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),26.071,13.114,19.143,Jefferson,con-dry
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),28.315,13.129,19,Jefferson,con-dry
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),36.9,14.4,20.285,Jefferson,con-dry
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),29,13.429,19.571,Jefferson,con-dry

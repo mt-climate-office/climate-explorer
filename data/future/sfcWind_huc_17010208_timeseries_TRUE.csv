@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,6.955,6.374,6.504,Flathead Lake,sfcWind
+1951,Historical Emissions,6.786,6.23,6.631,Flathead Lake,sfcWind
+1952,Historical Emissions,6.87,6.36,6.61,Flathead Lake,sfcWind
+1953,Historical Emissions,7.074,6.351,6.601,Flathead Lake,sfcWind
+1954,Historical Emissions,7.157,6.307,6.881,Flathead Lake,sfcWind
+1955,Historical Emissions,6.809,6.228,6.62,Flathead Lake,sfcWind
+1956,Historical Emissions,7.258,6.419,6.626,Flathead Lake,sfcWind
+1957,Historical Emissions,7.283,6.495,6.728,Flathead Lake,sfcWind
+1958,Historical Emissions,6.988,6.392,6.504,Flathead Lake,sfcWind
+1959,Historical Emissions,6.994,6.429,6.684,Flathead Lake,sfcWind
+1960,Historical Emissions,7.112,6.623,6.87,Flathead Lake,sfcWind
+1961,Historical Emissions,7.054,6.488,6.714,Flathead Lake,sfcWind
+1962,Historical Emissions,6.798,6.379,6.697,Flathead Lake,sfcWind
+1963,Historical Emissions,6.892,6.275,6.721,Flathead Lake,sfcWind
+1964,Historical Emissions,7.23,6.446,6.643,Flathead Lake,sfcWind
+1965,Historical Emissions,7.089,6.405,6.696,Flathead Lake,sfcWind
+1966,Historical Emissions,7.035,6.619,6.751,Flathead Lake,sfcWind
+1967,Historical Emissions,7.004,6.34,6.819,Flathead Lake,sfcWind
+1968,Historical Emissions,7.189,6.23,6.738,Flathead Lake,sfcWind
+1969,Historical Emissions,7.007,6.336,6.675,Flathead Lake,sfcWind
+1970,Historical Emissions,7.018,6.412,6.675,Flathead Lake,sfcWind
+1971,Historical Emissions,7.089,6.539,6.768,Flathead Lake,sfcWind
+1972,Historical Emissions,6.958,6.675,6.807,Flathead Lake,sfcWind
+1973,Historical Emissions,6.921,6.316,6.718,Flathead Lake,sfcWind
+1974,Historical Emissions,6.989,6.182,6.77,Flathead Lake,sfcWind
+1975,Historical Emissions,7.113,6.349,6.696,Flathead Lake,sfcWind
+1976,Historical Emissions,7.006,6.668,6.857,Flathead Lake,sfcWind
+1977,Historical Emissions,6.955,6.272,6.397,Flathead Lake,sfcWind
+1978,Historical Emissions,6.898,6.42,6.644,Flathead Lake,sfcWind
+1979,Historical Emissions,7,6.471,6.7,Flathead Lake,sfcWind
+1980,Historical Emissions,7.199,6.298,6.868,Flathead Lake,sfcWind
+1981,Historical Emissions,7.059,6.382,6.57,Flathead Lake,sfcWind
+1982,Historical Emissions,7.045,6.123,6.764,Flathead Lake,sfcWind
+1983,Historical Emissions,7.2,6.307,6.509,Flathead Lake,sfcWind
+1984,Historical Emissions,6.951,6.291,6.699,Flathead Lake,sfcWind
+1985,Historical Emissions,6.839,6.431,6.649,Flathead Lake,sfcWind
+1986,Historical Emissions,6.959,6.332,6.663,Flathead Lake,sfcWind
+1987,Historical Emissions,7.243,6.287,6.559,Flathead Lake,sfcWind
+1988,Historical Emissions,7.002,6.561,6.831,Flathead Lake,sfcWind
+1989,Historical Emissions,6.912,6.352,6.509,Flathead Lake,sfcWind
+1990,Historical Emissions,7.084,5.952,6.775,Flathead Lake,sfcWind
+1991,Historical Emissions,6.93,6.282,6.763,Flathead Lake,sfcWind
+1992,Historical Emissions,6.991,6.684,6.767,Flathead Lake,sfcWind
+1993,Historical Emissions,6.773,6.319,6.508,Flathead Lake,sfcWind
+1994,Historical Emissions,6.995,6.164,6.431,Flathead Lake,sfcWind
+1995,Historical Emissions,7.105,6.433,6.789,Flathead Lake,sfcWind
+1996,Historical Emissions,7.031,6.168,6.735,Flathead Lake,sfcWind
+1997,Historical Emissions,6.825,6.306,6.654,Flathead Lake,sfcWind
+1998,Historical Emissions,6.784,6.243,6.498,Flathead Lake,sfcWind
+1999,Historical Emissions,6.692,6.302,6.508,Flathead Lake,sfcWind
+2000,Historical Emissions,6.735,6.445,6.622,Flathead Lake,sfcWind
+2001,Historical Emissions,7.122,6.257,6.483,Flathead Lake,sfcWind
+2002,Historical Emissions,7.15,6.429,6.65,Flathead Lake,sfcWind
+2003,Historical Emissions,6.716,6.172,6.516,Flathead Lake,sfcWind
+2004,Historical Emissions,7.078,6.313,6.677,Flathead Lake,sfcWind
+2005,Historical Emissions,6.918,6.117,6.592,Flathead Lake,sfcWind
+2006,Historical Emissions,7.147,6.39,6.697,Flathead Lake,sfcWind
+2007,Historical Emissions,6.97,6.214,6.672,Flathead Lake,sfcWind
+2008,Historical Emissions,6.858,6.141,6.383,Flathead Lake,sfcWind
+2009,Historical Emissions,7.023,6.268,6.716,Flathead Lake,sfcWind
+2010,Historical Emissions,6.85,6.291,6.557,Flathead Lake,sfcWind
+2011,Historical Emissions,6.834,6.293,6.502,Flathead Lake,sfcWind
+2012,Historical Emissions,6.849,6.21,6.523,Flathead Lake,sfcWind
+2013,Historical Emissions,6.903,6.088,6.611,Flathead Lake,sfcWind
+2014,Historical Emissions,6.885,6.306,6.564,Flathead Lake,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",7.003,6.08,6.552,Flathead Lake,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",6.893,5.692,6.547,Flathead Lake,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",6.926,6.01,6.59,Flathead Lake,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",6.906,6.209,6.693,Flathead Lake,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",6.949,5.863,6.463,Flathead Lake,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",6.971,6.248,6.527,Flathead Lake,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",6.907,5.91,6.606,Flathead Lake,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",7.331,6.068,6.373,Flathead Lake,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",7.055,5.834,6.685,Flathead Lake,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",6.965,6.099,6.548,Flathead Lake,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",6.882,5.981,6.334,Flathead Lake,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",7.029,6.171,6.402,Flathead Lake,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",7.083,6.169,6.866,Flathead Lake,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",6.851,5.874,6.509,Flathead Lake,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",6.76,5.885,6.435,Flathead Lake,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",6.891,6.107,6.536,Flathead Lake,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",6.664,5.873,6.338,Flathead Lake,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",7.258,6.262,6.565,Flathead Lake,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",6.835,5.954,6.413,Flathead Lake,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",6.83,6.137,6.452,Flathead Lake,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",6.665,5.974,6.33,Flathead Lake,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",6.981,6.216,6.867,Flathead Lake,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",6.794,6.176,6.581,Flathead Lake,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",6.675,5.965,6.482,Flathead Lake,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",6.713,6.143,6.384,Flathead Lake,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",6.881,6.004,6.467,Flathead Lake,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",7.069,5.942,6.535,Flathead Lake,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",6.762,6.136,6.511,Flathead Lake,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",6.965,6.163,6.615,Flathead Lake,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",6.573,6.143,6.359,Flathead Lake,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",6.816,5.923,6.268,Flathead Lake,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",6.832,6,6.298,Flathead Lake,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",6.893,6.227,6.609,Flathead Lake,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",6.869,6.241,6.524,Flathead Lake,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",6.944,6.257,6.581,Flathead Lake,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",7.086,6.083,6.649,Flathead Lake,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",6.77,6.14,6.51,Flathead Lake,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",6.638,6.148,6.443,Flathead Lake,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",7.033,6.124,6.418,Flathead Lake,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",7.004,6.044,6.562,Flathead Lake,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",6.843,5.831,6.519,Flathead Lake,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",6.956,5.834,6.516,Flathead Lake,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",7.022,5.913,6.432,Flathead Lake,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",6.803,6.262,6.649,Flathead Lake,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",6.897,6.133,6.431,Flathead Lake,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",6.824,6.335,6.618,Flathead Lake,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",6.634,5.733,6.354,Flathead Lake,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",6.912,6.156,6.549,Flathead Lake,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",6.953,6.035,6.537,Flathead Lake,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",6.933,5.818,6.439,Flathead Lake,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",6.823,6.087,6.355,Flathead Lake,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",6.808,6.282,6.507,Flathead Lake,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",6.919,5.914,6.432,Flathead Lake,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",6.643,5.886,6.496,Flathead Lake,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",6.874,5.852,6.619,Flathead Lake,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",6.581,6.113,6.412,Flathead Lake,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",6.766,5.956,6.554,Flathead Lake,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",6.833,5.902,6.543,Flathead Lake,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",7.022,6.122,6.775,Flathead Lake,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",6.76,5.898,6.193,Flathead Lake,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",6.69,5.881,6.526,Flathead Lake,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",7.258,6.169,6.7,Flathead Lake,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",6.913,6.169,6.602,Flathead Lake,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",6.808,5.973,6.422,Flathead Lake,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",6.898,6.121,6.43,Flathead Lake,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",7.088,6.301,6.665,Flathead Lake,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",6.909,6.172,6.373,Flathead Lake,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",6.711,5.938,6.368,Flathead Lake,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",6.748,5.984,6.425,Flathead Lake,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",6.913,5.977,6.35,Flathead Lake,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",6.863,6.241,6.574,Flathead Lake,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",6.936,5.974,6.725,Flathead Lake,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",7.305,6.303,6.502,Flathead Lake,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",6.971,6.065,6.716,Flathead Lake,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",6.783,5.772,6.184,Flathead Lake,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",6.766,5.893,6.416,Flathead Lake,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",6.967,6.138,6.626,Flathead Lake,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",6.821,5.999,6.395,Flathead Lake,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",6.861,5.964,6.62,Flathead Lake,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",7.017,6.263,6.687,Flathead Lake,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",7.046,6.156,6.47,Flathead Lake,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",6.959,6.102,6.504,Flathead Lake,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",6.945,6.216,6.622,Flathead Lake,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",6.999,6.004,6.674,Flathead Lake,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",6.472,5.883,6.394,Flathead Lake,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",6.872,6.308,6.528,Flathead Lake,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",6.678,5.977,6.479,Flathead Lake,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",6.886,5.859,6.438,Flathead Lake,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",6.662,5.778,6.296,Flathead Lake,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",6.759,5.984,6.416,Flathead Lake,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",6.776,6.155,6.346,Flathead Lake,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",7.217,6.311,6.532,Flathead Lake,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",6.979,6.337,6.548,Flathead Lake,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",6.887,6.199,6.477,Flathead Lake,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",6.811,6.091,6.524,Flathead Lake,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",6.857,6.265,6.574,Flathead Lake,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",6.574,6.172,6.429,Flathead Lake,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",6.806,5.961,6.467,Flathead Lake,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",6.965,5.973,6.681,Flathead Lake,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",6.63,5.904,6.379,Flathead Lake,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",6.858,5.935,6.649,Flathead Lake,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",6.876,5.957,6.718,Flathead Lake,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",7.034,5.947,6.521,Flathead Lake,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",6.715,5.985,6.284,Flathead Lake,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",6.9,6.138,6.601,Flathead Lake,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",6.861,6.037,6.425,Flathead Lake,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",6.597,6.135,6.372,Flathead Lake,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",6.784,6.021,6.556,Flathead Lake,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",6.842,6.014,6.508,Flathead Lake,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",6.719,6.222,6.598,Flathead Lake,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",6.783,6.051,6.475,Flathead Lake,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",6.893,6.072,6.391,Flathead Lake,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",6.889,5.882,6.59,Flathead Lake,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",7.023,5.715,6.642,Flathead Lake,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",7.002,6.168,6.831,Flathead Lake,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",6.786,6.067,6.551,Flathead Lake,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",6.902,5.929,6.514,Flathead Lake,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",6.883,6.049,6.568,Flathead Lake,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",6.948,6.399,6.698,Flathead Lake,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",6.596,6.041,6.294,Flathead Lake,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",6.539,6.101,6.259,Flathead Lake,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",6.815,6.128,6.594,Flathead Lake,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",7.008,6.105,6.378,Flathead Lake,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",6.614,5.895,6.301,Flathead Lake,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",6.656,5.997,6.325,Flathead Lake,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",6.735,5.815,6.576,Flathead Lake,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",6.672,6.217,6.398,Flathead Lake,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",6.826,5.48,6.553,Flathead Lake,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",6.749,5.84,6.493,Flathead Lake,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",6.726,5.867,6.53,Flathead Lake,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",6.992,6.212,6.465,Flathead Lake,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",7.237,5.926,6.678,Flathead Lake,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",6.788,6.102,6.465,Flathead Lake,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",6.466,5.924,6.161,Flathead Lake,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",6.948,6.147,6.504,Flathead Lake,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",6.987,6.123,6.54,Flathead Lake,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",6.828,5.985,6.441,Flathead Lake,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",6.899,6.296,6.542,Flathead Lake,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",6.976,6.114,6.423,Flathead Lake,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",6.702,5.889,6.334,Flathead Lake,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",6.699,6.13,6.344,Flathead Lake,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",6.89,6.17,6.575,Flathead Lake,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",6.98,6.207,6.642,Flathead Lake,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",6.758,5.783,6.534,Flathead Lake,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",6.775,6.263,6.48,Flathead Lake,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",7.091,6.271,6.687,Flathead Lake,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",6.73,6.051,6.481,Flathead Lake,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",7.056,6.217,6.514,Flathead Lake,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",6.723,6.066,6.359,Flathead Lake,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",6.741,6.149,6.493,Flathead Lake,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",6.976,5.95,6.334,Flathead Lake,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",6.56,5.761,6.331,Flathead Lake,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",6.876,6.102,6.656,Flathead Lake,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",7.15,6.186,6.541,Flathead Lake,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",6.966,6.188,6.543,Flathead Lake,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",6.767,6.024,6.455,Flathead Lake,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",6.79,5.785,6.447,Flathead Lake,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",7.026,5.932,6.598,Flathead Lake,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",6.893,6.215,6.496,Flathead Lake,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",6.86,6.312,6.51,Flathead Lake,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",6.806,6.223,6.572,Flathead Lake,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",6.604,6.129,6.353,Flathead Lake,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",6.876,6.182,6.52,Flathead Lake,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",6.701,5.815,6.325,Flathead Lake,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",6.929,6.167,6.555,Flathead Lake,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",6.698,6.201,6.492,Flathead Lake,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",6.528,6.101,6.249,Flathead Lake,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",6.484,5.759,6.249,Flathead Lake,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",6.847,5.916,6.383,Flathead Lake,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",6.862,6.051,6.681,Flathead Lake,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",6.816,5.944,6.461,Flathead Lake,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",6.486,5.947,6.293,Flathead Lake,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",6.804,6.014,6.535,Flathead Lake,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",6.929,5.873,6.509,Flathead Lake,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",6.874,5.68,6.5,Flathead Lake,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",6.807,5.833,6.44,Flathead Lake,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",6.795,6.105,6.631,Flathead Lake,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",6.72,5.979,6.383,Flathead Lake,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",6.873,6.178,6.623,Flathead Lake,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",6.568,6.131,6.252,Flathead Lake,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",6.74,6.094,6.57,Flathead Lake,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",6.802,5.774,6.47,Flathead Lake,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",6.655,6.222,6.438,Flathead Lake,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",6.709,5.857,6.372,Flathead Lake,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",6.881,6.164,6.537,Flathead Lake,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",6.989,5.887,6.546,Flathead Lake,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",6.965,5.931,6.5,Flathead Lake,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",6.762,5.933,6.44,Flathead Lake,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",6.912,6.089,6.473,Flathead Lake,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",7.046,5.819,6.688,Flathead Lake,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",6.837,6.031,6.315,Flathead Lake,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",6.866,5.944,6.488,Flathead Lake,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",6.85,6.141,6.667,Flathead Lake,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",6.839,6.017,6.646,Flathead Lake,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",6.862,6.108,6.619,Flathead Lake,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",6.95,5.969,6.54,Flathead Lake,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",7.061,5.933,6.5,Flathead Lake,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",6.692,5.961,6.436,Flathead Lake,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",7.022,5.93,6.231,Flathead Lake,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",6.838,6.05,6.505,Flathead Lake,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",7.339,5.983,6.521,Flathead Lake,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",6.657,5.877,6.31,Flathead Lake,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",6.966,6.416,6.654,Flathead Lake,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",6.971,5.893,6.422,Flathead Lake,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",6.635,6.008,6.271,Flathead Lake,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",6.702,6.117,6.516,Flathead Lake,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",7.399,5.962,6.581,Flathead Lake,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",6.789,6.089,6.502,Flathead Lake,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",6.599,6.086,6.303,Flathead Lake,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",6.98,6.147,6.541,Flathead Lake,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",6.853,5.798,6.578,Flathead Lake,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",6.636,5.856,6.247,Flathead Lake,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",6.813,6.282,6.621,Flathead Lake,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",7.004,5.98,6.601,Flathead Lake,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",7.159,6.348,6.624,Flathead Lake,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",6.854,5.761,6.504,Flathead Lake,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",6.854,5.992,6.424,Flathead Lake,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",6.729,6.164,6.592,Flathead Lake,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",6.971,5.919,6.359,Flathead Lake,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",6.776,5.815,6.28,Flathead Lake,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",6.802,6.112,6.358,Flathead Lake,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",6.782,5.687,6.275,Flathead Lake,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",7.29,6.129,6.511,Flathead Lake,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",6.44,5.951,6.288,Flathead Lake,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",6.886,6.072,6.496,Flathead Lake,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",6.871,6.124,6.631,Flathead Lake,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",7.215,6.089,6.552,Flathead Lake,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",6.854,6.023,6.405,Flathead Lake,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",6.826,5.914,6.433,Flathead Lake,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",6.724,5.877,6.445,Flathead Lake,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",6.888,6.288,6.533,Flathead Lake,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",6.712,5.938,6.33,Flathead Lake,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",6.772,5.98,6.489,Flathead Lake,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",6.9,5.759,6.508,Flathead Lake,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",6.865,6.083,6.509,Flathead Lake,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",6.485,6.002,6.281,Flathead Lake,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",6.695,5.681,6.205,Flathead Lake,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",6.721,6.042,6.57,Flathead Lake,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",6.819,5.993,6.424,Flathead Lake,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",6.687,5.669,6.352,Flathead Lake,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",6.695,6.015,6.382,Flathead Lake,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",7.05,6.202,6.742,Flathead Lake,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",7.132,6.273,6.663,Flathead Lake,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",6.724,5.747,6.328,Flathead Lake,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",7.106,6.141,6.582,Flathead Lake,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",6.772,5.708,6.556,Flathead Lake,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",7.021,6.29,6.613,Flathead Lake,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",6.945,5.962,6.581,Flathead Lake,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",6.708,5.791,6.365,Flathead Lake,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",6.592,5.732,6.328,Flathead Lake,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",6.856,5.854,6.578,Flathead Lake,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",6.704,6.113,6.535,Flathead Lake,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",6.743,6.12,6.371,Flathead Lake,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",6.986,6.22,6.744,Flathead Lake,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",6.951,5.68,6.328,Flathead Lake,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",6.917,5.886,6.49,Flathead Lake,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",6.927,6.108,6.622,Flathead Lake,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",6.854,6.051,6.522,Flathead Lake,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",6.767,5.943,6.501,Flathead Lake,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",6.637,5.862,6.303,Flathead Lake,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",6.84,6.13,6.594,Flathead Lake,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",6.915,5.684,6.656,Flathead Lake,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",6.707,6.041,6.321,Flathead Lake,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",6.636,5.442,6.163,Flathead Lake,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",6.642,5.877,6.462,Flathead Lake,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",6.744,5.785,6.485,Flathead Lake,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",7.085,6.148,6.482,Flathead Lake,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",6.732,5.859,6.178,Flathead Lake,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",6.89,5.977,6.324,Flathead Lake,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",6.912,5.942,6.432,Flathead Lake,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",7.027,6.018,6.296,Flathead Lake,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",6.698,5.817,6.499,Flathead Lake,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",6.792,5.9,6.57,Flathead Lake,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",7.223,5.895,6.766,Flathead Lake,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",6.779,6.025,6.276,Flathead Lake,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",6.592,5.87,6.24,Flathead Lake,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",6.936,5.88,6.481,Flathead Lake,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",7.084,6.165,6.482,Flathead Lake,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",6.793,6.2,6.635,Flathead Lake,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",6.667,5.763,6.361,Flathead Lake,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",6.979,5.857,6.347,Flathead Lake,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",6.795,5.853,6.369,Flathead Lake,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",7.314,5.897,6.654,Flathead Lake,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",6.928,6.044,6.439,Flathead Lake,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",6.512,5.838,6.33,Flathead Lake,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",6.636,6.04,6.463,Flathead Lake,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",6.956,5.973,6.257,Flathead Lake,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",6.814,5.564,6.206,Flathead Lake,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",6.87,5.901,6.397,Flathead Lake,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",6.712,5.955,6.5,Flathead Lake,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",7.184,5.943,6.597,Flathead Lake,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",6.633,5.958,6.288,Flathead Lake,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",6.973,6.151,6.573,Flathead Lake,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",6.863,5.924,6.527,Flathead Lake,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",6.684,6.207,6.432,Flathead Lake,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",6.522,5.77,6.215,Flathead Lake,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",6.601,6.122,6.489,Flathead Lake,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",6.8,5.844,6.274,Flathead Lake,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",6.961,5.949,6.355,Flathead Lake,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",6.649,5.862,6.492,Flathead Lake,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",6.649,5.941,6.364,Flathead Lake,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",6.826,5.802,6.57,Flathead Lake,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",7.109,6.418,6.586,Flathead Lake,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",6.357,5.603,6.095,Flathead Lake,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",6.734,5.933,6.512,Flathead Lake,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",6.787,5.957,6.608,Flathead Lake,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",6.963,5.864,6.414,Flathead Lake,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",6.568,5.931,6.324,Flathead Lake,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",6.63,6.014,6.369,Flathead Lake,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",6.663,5.958,6.334,Flathead Lake,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",7.071,6.079,6.449,Flathead Lake,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",6.841,6.13,6.364,Flathead Lake,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",6.927,6.123,6.691,Flathead Lake,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",6.451,5.943,6.337,Flathead Lake,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",6.853,5.782,6.317,Flathead Lake,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",6.563,5.72,6.266,Flathead Lake,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",6.943,6.239,6.423,Flathead Lake,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",6.825,6.289,6.621,Flathead Lake,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",7.096,5.844,6.552,Flathead Lake,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",6.628,5.823,6.189,Flathead Lake,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",6.841,5.903,6.531,Flathead Lake,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",6.775,5.585,6.418,Flathead Lake,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",6.788,5.975,6.446,Flathead Lake,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",6.629,5.981,6.388,Flathead Lake,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",6.909,5.834,6.58,Flathead Lake,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",7,5.669,6.591,Flathead Lake,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",6.712,6.001,6.468,Flathead Lake,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",6.528,5.778,6.364,Flathead Lake,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",6.956,5.966,6.682,Flathead Lake,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",6.753,5.911,6.54,Flathead Lake,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",7.07,6.087,6.478,Flathead Lake,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",6.821,6.051,6.291,Flathead Lake,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",6.765,6.088,6.365,Flathead Lake,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",6.843,6.146,6.736,Flathead Lake,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",7.018,6.091,6.486,Flathead Lake,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",6.615,5.724,5.912,Flathead Lake,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",6.735,6.068,6.304,Flathead Lake,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",6.95,5.886,6.551,Flathead Lake,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",7.133,6.168,6.684,Flathead Lake,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",6.416,5.395,6.239,Flathead Lake,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",6.898,5.955,6.623,Flathead Lake,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",6.724,5.784,6.457,Flathead Lake,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",6.809,6.141,6.39,Flathead Lake,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",6.828,6.083,6.326,Flathead Lake,sfcWind

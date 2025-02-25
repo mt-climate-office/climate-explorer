@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,56.03,53.684,54.824,Meagher County,tasmax
+1951,Historical Emissions,55.766,52.826,54.735,Meagher County,tasmax
+1952,Historical Emissions,55.557,51.761,53.904,Meagher County,tasmax
+1953,Historical Emissions,55.361,52.422,53.986,Meagher County,tasmax
+1954,Historical Emissions,55.723,51.118,53.226,Meagher County,tasmax
+1955,Historical Emissions,56.584,52.122,53.2,Meagher County,tasmax
+1956,Historical Emissions,56.201,53.034,54.867,Meagher County,tasmax
+1957,Historical Emissions,57.691,52.022,54.482,Meagher County,tasmax
+1958,Historical Emissions,55.565,53.023,53.634,Meagher County,tasmax
+1959,Historical Emissions,53.889,51.78,52.668,Meagher County,tasmax
+1960,Historical Emissions,55.219,51.527,52.887,Meagher County,tasmax
+1961,Historical Emissions,55.851,52.16,54.458,Meagher County,tasmax
+1962,Historical Emissions,54.623,51.033,53.1,Meagher County,tasmax
+1963,Historical Emissions,53.888,51.59,53.207,Meagher County,tasmax
+1964,Historical Emissions,54.732,51.488,53.576,Meagher County,tasmax
+1965,Historical Emissions,54.909,52.148,53.634,Meagher County,tasmax
+1966,Historical Emissions,56.03,52.176,52.715,Meagher County,tasmax
+1967,Historical Emissions,54.854,52.714,53.339,Meagher County,tasmax
+1968,Historical Emissions,54.046,50.751,52.323,Meagher County,tasmax
+1969,Historical Emissions,54.261,51.829,53.453,Meagher County,tasmax
+1970,Historical Emissions,54.663,52.743,54.281,Meagher County,tasmax
+1971,Historical Emissions,56.796,52.76,55.282,Meagher County,tasmax
+1972,Historical Emissions,54.837,52.21,53.747,Meagher County,tasmax
+1973,Historical Emissions,55.218,51.977,53.742,Meagher County,tasmax
+1974,Historical Emissions,55.265,51.311,54.303,Meagher County,tasmax
+1975,Historical Emissions,55.223,51.672,54.137,Meagher County,tasmax
+1976,Historical Emissions,54.837,52.32,53.406,Meagher County,tasmax
+1977,Historical Emissions,55.844,52.794,54.724,Meagher County,tasmax
+1978,Historical Emissions,55.655,52.06,53.294,Meagher County,tasmax
+1979,Historical Emissions,56.526,52.059,55.199,Meagher County,tasmax
+1980,Historical Emissions,55.507,52.162,53.528,Meagher County,tasmax
+1981,Historical Emissions,56.339,52.854,54.469,Meagher County,tasmax
+1982,Historical Emissions,55.469,52.958,54.063,Meagher County,tasmax
+1983,Historical Emissions,55.425,52.555,53.349,Meagher County,tasmax
+1984,Historical Emissions,55.657,52.49,54.485,Meagher County,tasmax
+1985,Historical Emissions,55.151,52.99,54.444,Meagher County,tasmax
+1986,Historical Emissions,53.867,51.763,52.459,Meagher County,tasmax
+1987,Historical Emissions,54.807,51.19,52.994,Meagher County,tasmax
+1988,Historical Emissions,55.404,52.294,53.864,Meagher County,tasmax
+1989,Historical Emissions,55.554,52.853,53.981,Meagher County,tasmax
+1990,Historical Emissions,57.423,53.082,54.871,Meagher County,tasmax
+1991,Historical Emissions,56.519,52.322,53.481,Meagher County,tasmax
+1992,Historical Emissions,54.609,52.119,53.224,Meagher County,tasmax
+1993,Historical Emissions,55.21,52.186,53.721,Meagher County,tasmax
+1994,Historical Emissions,56.931,52.143,53.931,Meagher County,tasmax
+1995,Historical Emissions,56.159,52.55,53.362,Meagher County,tasmax
+1996,Historical Emissions,57.274,54.784,55.93,Meagher County,tasmax
+1997,Historical Emissions,56.695,52.132,54.048,Meagher County,tasmax
+1998,Historical Emissions,57.252,51.983,54.858,Meagher County,tasmax
+1999,Historical Emissions,56.354,53.395,54.915,Meagher County,tasmax
+2000,Historical Emissions,55.708,52.708,54.719,Meagher County,tasmax
+2001,Historical Emissions,56.173,53.505,54.753,Meagher County,tasmax
+2002,Historical Emissions,58.313,54.066,54.595,Meagher County,tasmax
+2003,Historical Emissions,57.756,54.225,55.33,Meagher County,tasmax
+2004,Historical Emissions,57.294,55.428,56.253,Meagher County,tasmax
+2005,Historical Emissions,58.926,54.26,56.769,Meagher County,tasmax
+2006,Historical Emissions,57.507,53.43,54.401,Meagher County,tasmax
+2007,Historical Emissions,56.848,54.275,55.432,Meagher County,tasmax
+2008,Historical Emissions,56.497,54.263,55.354,Meagher County,tasmax
+2009,Historical Emissions,56.585,53.736,55.454,Meagher County,tasmax
+2010,Historical Emissions,56.786,54.44,55.965,Meagher County,tasmax
+2011,Historical Emissions,57.62,54.537,55.476,Meagher County,tasmax
+2012,Historical Emissions,57.049,54.21,56.237,Meagher County,tasmax
+2013,Historical Emissions,58.556,54.367,55.801,Meagher County,tasmax
+2014,Historical Emissions,58.461,54.793,56.732,Meagher County,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",58.759,56.038,56.639,Meagher County,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",57.947,54.43,56.08,Meagher County,tasmax
+2015,"High Emissions
+(SSP3-7.0)",57.654,54.268,56.143,Meagher County,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",57.067,54.767,56.035,Meagher County,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",58.708,56.07,56.938,Meagher County,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",57.633,54.508,55.639,Meagher County,tasmax
+2016,"High Emissions
+(SSP3-7.0)",59.095,54.464,57.548,Meagher County,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",57.729,54.69,56.658,Meagher County,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",58.093,55.11,55.817,Meagher County,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",58.515,54.989,56.408,Meagher County,tasmax
+2017,"High Emissions
+(SSP3-7.0)",56.979,56.01,56.487,Meagher County,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",58.475,55.301,56.756,Meagher County,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",57.178,54.861,55.474,Meagher County,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",58.403,54.851,55.977,Meagher County,tasmax
+2018,"High Emissions
+(SSP3-7.0)",57.819,53.891,55.577,Meagher County,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",56.792,55.197,56.411,Meagher County,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",58.943,56.394,58.303,Meagher County,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",58.145,53.905,55.654,Meagher County,tasmax
+2019,"High Emissions
+(SSP3-7.0)",59.036,54.094,55.565,Meagher County,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",59.824,55.522,56.652,Meagher County,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",59.443,55.165,56.361,Meagher County,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",57.997,54.641,56.38,Meagher County,tasmax
+2020,"High Emissions
+(SSP3-7.0)",57.87,54.565,55.91,Meagher County,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",58.085,54.731,56.736,Meagher County,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",58.606,55.458,56.627,Meagher County,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",58.615,55.366,57.563,Meagher County,tasmax
+2021,"High Emissions
+(SSP3-7.0)",58.212,55.778,56.502,Meagher County,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",58.186,55.877,56.952,Meagher County,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",58.784,55.248,56.486,Meagher County,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",59.306,55.616,56.205,Meagher County,tasmax
+2022,"High Emissions
+(SSP3-7.0)",57.549,55.245,56.23,Meagher County,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",59.58,55.197,57.112,Meagher County,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",57.744,56.152,56.537,Meagher County,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",58.914,55.451,56.158,Meagher County,tasmax
+2023,"High Emissions
+(SSP3-7.0)",58.535,54.683,56.593,Meagher County,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",57.146,53.801,55.387,Meagher County,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",58.424,55.485,57.525,Meagher County,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",58.417,55.163,56.609,Meagher County,tasmax
+2024,"High Emissions
+(SSP3-7.0)",59.165,55.517,56.676,Meagher County,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",59.649,54.514,56.538,Meagher County,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",58.506,56.481,57.653,Meagher County,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",59.027,54.451,55.473,Meagher County,tasmax
+2025,"High Emissions
+(SSP3-7.0)",59.474,56.638,57.885,Meagher County,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",59.383,56.46,56.876,Meagher County,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",59.171,54.887,56.983,Meagher County,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",59.313,55.528,56.715,Meagher County,tasmax
+2026,"High Emissions
+(SSP3-7.0)",58.558,53.842,56.299,Meagher County,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",59.384,55.519,56.845,Meagher County,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",58.672,54.613,56.221,Meagher County,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",60.53,55.02,57.22,Meagher County,tasmax
+2027,"High Emissions
+(SSP3-7.0)",59.144,55.665,56.38,Meagher County,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",58.559,55.834,57.458,Meagher County,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",58.826,55.207,57.309,Meagher County,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",57.891,53.962,56.405,Meagher County,tasmax
+2028,"High Emissions
+(SSP3-7.0)",57.943,56.437,57.374,Meagher County,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",59.016,56.151,57.038,Meagher County,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",60.672,57.068,58.424,Meagher County,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",59.357,55.339,56.935,Meagher County,tasmax
+2029,"High Emissions
+(SSP3-7.0)",58.532,54.088,56.747,Meagher County,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",59.465,56.293,57.521,Meagher County,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",59.816,55.945,57.026,Meagher County,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",59.794,56.455,57.767,Meagher County,tasmax
+2030,"High Emissions
+(SSP3-7.0)",59.881,55.796,56.616,Meagher County,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",60.567,55.813,57.434,Meagher County,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",59.436,55.848,57.517,Meagher County,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",60.301,55.815,57.825,Meagher County,tasmax
+2031,"High Emissions
+(SSP3-7.0)",60.378,55.681,58.168,Meagher County,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",60.013,57.273,58.573,Meagher County,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",58.701,55.03,57.546,Meagher County,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",58.468,55.437,56.495,Meagher County,tasmax
+2032,"High Emissions
+(SSP3-7.0)",59.924,55.329,56.834,Meagher County,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",59.582,55.059,56.886,Meagher County,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",59.421,56.315,56.945,Meagher County,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",59.478,56.071,58.211,Meagher County,tasmax
+2033,"High Emissions
+(SSP3-7.0)",58.956,55.237,57.059,Meagher County,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",59.754,56.257,58.817,Meagher County,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",59.535,55.587,56.585,Meagher County,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",59.519,55.741,57.473,Meagher County,tasmax
+2034,"High Emissions
+(SSP3-7.0)",59.953,56.4,58.539,Meagher County,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",59.981,54.913,57.798,Meagher County,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",60.174,55.723,58.064,Meagher County,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",60.456,56.383,57.446,Meagher County,tasmax
+2035,"High Emissions
+(SSP3-7.0)",58.689,55.17,57.147,Meagher County,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",59.756,56.02,58.7,Meagher County,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",59.539,57.275,57.991,Meagher County,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",58.808,55.881,57.818,Meagher County,tasmax
+2036,"High Emissions
+(SSP3-7.0)",58.962,56.255,57.926,Meagher County,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",60.39,53.836,58.874,Meagher County,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",59.746,56.567,58.933,Meagher County,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",60.631,55.083,57.418,Meagher County,tasmax
+2037,"High Emissions
+(SSP3-7.0)",59.795,54.83,56.556,Meagher County,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",60.024,56.127,58.519,Meagher County,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",59.913,56.396,57.429,Meagher County,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",59.209,55.767,57.011,Meagher County,tasmax
+2038,"High Emissions
+(SSP3-7.0)",59.784,56.519,58.302,Meagher County,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",60.769,55.279,59.097,Meagher County,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",60.026,55.234,58.675,Meagher County,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",58.348,56.059,57.387,Meagher County,tasmax
+2039,"High Emissions
+(SSP3-7.0)",59.753,57.871,58.099,Meagher County,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",61.291,55.583,57.811,Meagher County,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",60.377,55.511,58.228,Meagher County,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",59.445,56.895,58.569,Meagher County,tasmax
+2040,"High Emissions
+(SSP3-7.0)",59.931,57.04,58.293,Meagher County,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",62.377,57.045,58.752,Meagher County,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",59.897,55.244,57.489,Meagher County,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",59.41,56.82,58.325,Meagher County,tasmax
+2041,"High Emissions
+(SSP3-7.0)",59.414,55.968,57.331,Meagher County,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",58.88,57.006,58.43,Meagher County,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",61.281,56.695,57.301,Meagher County,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",58.596,55.201,57.925,Meagher County,tasmax
+2042,"High Emissions
+(SSP3-7.0)",59.33,55.881,57.956,Meagher County,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",61.26,57.132,58.393,Meagher County,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",59.18,56.038,57.987,Meagher County,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",60.298,56.456,58.228,Meagher County,tasmax
+2043,"High Emissions
+(SSP3-7.0)",59.382,55.386,58.172,Meagher County,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",60.063,57.101,58.102,Meagher County,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",60.05,56.847,57.687,Meagher County,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",61.93,57.359,59.079,Meagher County,tasmax
+2044,"High Emissions
+(SSP3-7.0)",60.141,57.165,58.045,Meagher County,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",62.119,56.927,58.64,Meagher County,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",59.712,56.345,58.542,Meagher County,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",61.005,56.524,59.144,Meagher County,tasmax
+2045,"High Emissions
+(SSP3-7.0)",60.239,56.141,58.828,Meagher County,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",60.1,57.233,58.287,Meagher County,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",61.924,56.044,57.818,Meagher County,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",59.869,55.646,59.226,Meagher County,tasmax
+2046,"High Emissions
+(SSP3-7.0)",60.093,57.71,58.498,Meagher County,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",60.135,56.229,57.428,Meagher County,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",60.386,57.485,59.087,Meagher County,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",60.446,54.322,58.848,Meagher County,tasmax
+2047,"High Emissions
+(SSP3-7.0)",59.146,57.601,58.431,Meagher County,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",62.951,56.506,60.544,Meagher County,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",59.499,56.858,57.688,Meagher County,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",61.191,56.105,59.031,Meagher County,tasmax
+2048,"High Emissions
+(SSP3-7.0)",60.661,55.628,59.082,Meagher County,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",64.941,57.025,60.638,Meagher County,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",59.679,56.174,56.881,Meagher County,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",61.041,56.838,58.861,Meagher County,tasmax
+2049,"High Emissions
+(SSP3-7.0)",60.863,57.227,59.273,Meagher County,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",60.559,57.975,59.238,Meagher County,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",60.933,55.483,58.418,Meagher County,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",60.584,56.984,59.781,Meagher County,tasmax
+2050,"High Emissions
+(SSP3-7.0)",60.906,57.118,59.001,Meagher County,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",61.459,57.189,59.63,Meagher County,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",60.013,56.047,58.98,Meagher County,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",61.053,56.849,58.918,Meagher County,tasmax
+2051,"High Emissions
+(SSP3-7.0)",60.824,57.81,58.372,Meagher County,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",61.529,57.477,60.073,Meagher County,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",59.372,57.094,58.212,Meagher County,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",60.733,56.928,57.692,Meagher County,tasmax
+2052,"High Emissions
+(SSP3-7.0)",61.031,55.242,58.184,Meagher County,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",59.756,58.488,59.476,Meagher County,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",59.959,55.67,58.237,Meagher County,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",60.69,56.056,58.775,Meagher County,tasmax
+2053,"High Emissions
+(SSP3-7.0)",62.479,58.121,61.827,Meagher County,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",62.341,57.366,59.682,Meagher County,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",60.742,57.166,59.152,Meagher County,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",60.005,56.94,58.014,Meagher County,tasmax
+2054,"High Emissions
+(SSP3-7.0)",61.833,56.904,58.274,Meagher County,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",62.326,57.995,60.23,Meagher County,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",60.146,57.738,58.764,Meagher County,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",61.389,56.095,58.891,Meagher County,tasmax
+2055,"High Emissions
+(SSP3-7.0)",61.09,57.885,59.037,Meagher County,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",62.191,58.317,61.535,Meagher County,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",59.85,57.242,59.532,Meagher County,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",61.437,57.284,59.104,Meagher County,tasmax
+2056,"High Emissions
+(SSP3-7.0)",61.593,57.53,58.848,Meagher County,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",62.087,58.994,60.613,Meagher County,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",59.516,55.745,58.9,Meagher County,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",60.792,58.176,59.489,Meagher County,tasmax
+2057,"High Emissions
+(SSP3-7.0)",61.215,57.026,57.681,Meagher County,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",61.946,56.658,59.799,Meagher County,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",60.451,56.38,58.403,Meagher County,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",62.524,57.188,60.032,Meagher County,tasmax
+2058,"High Emissions
+(SSP3-7.0)",60.421,57.838,59.237,Meagher County,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",62.234,57.192,59.2,Meagher County,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",60.656,57.025,58.9,Meagher County,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",62.976,57.063,60.296,Meagher County,tasmax
+2059,"High Emissions
+(SSP3-7.0)",63.507,57.397,59.868,Meagher County,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",62.651,59.402,61.353,Meagher County,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",60.389,56.776,58.187,Meagher County,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",62.133,57.642,58.433,Meagher County,tasmax
+2060,"High Emissions
+(SSP3-7.0)",61.115,57.264,59.36,Meagher County,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",61.859,58.273,59.842,Meagher County,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",59.95,56.809,57.818,Meagher County,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",61.196,57.012,58.726,Meagher County,tasmax
+2061,"High Emissions
+(SSP3-7.0)",61.096,58.105,60.067,Meagher County,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",64.08,59.662,60.882,Meagher County,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",60.119,56.965,58.348,Meagher County,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",60.947,56.941,58.474,Meagher County,tasmax
+2062,"High Emissions
+(SSP3-7.0)",60.69,58.8,59.663,Meagher County,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",62.495,59.236,61.355,Meagher County,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",60.478,56.55,58.371,Meagher County,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",60.901,56.436,58.458,Meagher County,tasmax
+2063,"High Emissions
+(SSP3-7.0)",62.495,58.223,60.152,Meagher County,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",63.228,58.492,61.397,Meagher County,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",61.134,56.495,58.496,Meagher County,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",59.703,57.396,59.049,Meagher County,tasmax
+2064,"High Emissions
+(SSP3-7.0)",60.509,58.438,59.346,Meagher County,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",62.096,59.495,60.837,Meagher County,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",60.528,55.289,58.007,Meagher County,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",61.099,56.587,59.589,Meagher County,tasmax
+2065,"High Emissions
+(SSP3-7.0)",62.087,58.371,59.801,Meagher County,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",64.293,59.615,61.629,Meagher County,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",61.356,56.669,58.39,Meagher County,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",61.727,58.101,60.186,Meagher County,tasmax
+2066,"High Emissions
+(SSP3-7.0)",61.918,57.799,59.528,Meagher County,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",64.258,58.841,62.061,Meagher County,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",60.628,58.254,59.191,Meagher County,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",61.184,58.092,58.496,Meagher County,tasmax
+2067,"High Emissions
+(SSP3-7.0)",64.008,59.977,61.392,Meagher County,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",63.577,59.384,61.095,Meagher County,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",61.355,57.016,58.076,Meagher County,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",60.591,57.03,59.232,Meagher County,tasmax
+2068,"High Emissions
+(SSP3-7.0)",62.461,57.812,59.431,Meagher County,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",63.126,60.121,61.136,Meagher County,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",61.542,57.358,59.239,Meagher County,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",61.202,57.298,58.445,Meagher County,tasmax
+2069,"High Emissions
+(SSP3-7.0)",65.358,59.969,61.345,Meagher County,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",66.079,59.364,62.387,Meagher County,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",59.667,56.823,58.88,Meagher County,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",61.639,56.106,59.226,Meagher County,tasmax
+2070,"High Emissions
+(SSP3-7.0)",63.963,60.102,60.923,Meagher County,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",65.818,60.36,61.556,Meagher County,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",62.281,56.076,58.374,Meagher County,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",61.359,57.367,59.026,Meagher County,tasmax
+2071,"High Emissions
+(SSP3-7.0)",62.835,60.076,61.799,Meagher County,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",64.553,60.254,61.356,Meagher County,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",62.346,58.12,58.589,Meagher County,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",61.674,56.236,59.347,Meagher County,tasmax
+2072,"High Emissions
+(SSP3-7.0)",63.323,58.312,60.014,Meagher County,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",63.956,60.075,62.176,Meagher County,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",59.789,56.532,58.486,Meagher County,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",61.558,55.919,59.871,Meagher County,tasmax
+2073,"High Emissions
+(SSP3-7.0)",62.645,59.755,61.532,Meagher County,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",63.935,59.421,61.787,Meagher County,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",61.497,55.738,58.655,Meagher County,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",62.339,57.998,59.305,Meagher County,tasmax
+2074,"High Emissions
+(SSP3-7.0)",62.316,58.487,59.852,Meagher County,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",65.544,60.213,61.607,Meagher County,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",61.592,54.826,58.504,Meagher County,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",62.708,56.92,58.007,Meagher County,tasmax
+2075,"High Emissions
+(SSP3-7.0)",64.417,57.717,58.866,Meagher County,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",64.746,60.113,62.831,Meagher County,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",60.97,55.092,57.786,Meagher County,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",60.437,57.665,58.706,Meagher County,tasmax
+2076,"High Emissions
+(SSP3-7.0)",64.506,59.709,61.66,Meagher County,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",65.447,59.762,62.83,Meagher County,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",61.008,57.12,59.637,Meagher County,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",62.272,57.997,59.654,Meagher County,tasmax
+2077,"High Emissions
+(SSP3-7.0)",64.218,58.404,61.327,Meagher County,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",65.768,60.837,62.913,Meagher County,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",61.224,57.589,58.103,Meagher County,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",61.766,58.588,60.052,Meagher County,tasmax
+2078,"High Emissions
+(SSP3-7.0)",64.013,58.738,61.16,Meagher County,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",62.399,60.444,61.455,Meagher County,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",60.944,56.738,58.4,Meagher County,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",62.109,57.763,59.543,Meagher County,tasmax
+2079,"High Emissions
+(SSP3-7.0)",62.715,58.555,61.315,Meagher County,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",65.658,59.866,62.685,Meagher County,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",59.2,56.485,57.567,Meagher County,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",61.391,57.294,59.742,Meagher County,tasmax
+2080,"High Emissions
+(SSP3-7.0)",65.155,59.897,61.214,Meagher County,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",65.417,61.371,63.181,Meagher County,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",62.209,56.479,57.756,Meagher County,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",61.809,58.276,59.975,Meagher County,tasmax
+2081,"High Emissions
+(SSP3-7.0)",65.552,57.862,60.75,Meagher County,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",66.705,61.257,63.632,Meagher County,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",61.393,57.177,59.381,Meagher County,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",62.899,58.101,59.286,Meagher County,tasmax
+2082,"High Emissions
+(SSP3-7.0)",64.729,58.176,60.792,Meagher County,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",66.779,61.396,64.793,Meagher County,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",60.853,57.215,59.924,Meagher County,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",63.015,56.981,59.657,Meagher County,tasmax
+2083,"High Emissions
+(SSP3-7.0)",63.962,58.489,61.531,Meagher County,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",66.051,61.222,64.832,Meagher County,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",61.86,56.001,57.13,Meagher County,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",63.889,58.562,60.334,Meagher County,tasmax
+2084,"High Emissions
+(SSP3-7.0)",66.692,60.377,62.806,Meagher County,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",66.956,61.87,63.691,Meagher County,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",60.672,55.5,57.797,Meagher County,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",61.817,57.914,59.805,Meagher County,tasmax
+2085,"High Emissions
+(SSP3-7.0)",63.921,59.394,61.21,Meagher County,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",66.759,60.6,64.55,Meagher County,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",60.678,57.709,59.362,Meagher County,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",62.349,58.987,59.846,Meagher County,tasmax
+2086,"High Emissions
+(SSP3-7.0)",65.453,59.927,61.727,Meagher County,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",66.687,60.67,65.322,Meagher County,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",59.742,56.512,57.984,Meagher County,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",62.304,59.092,60.581,Meagher County,tasmax
+2087,"High Emissions
+(SSP3-7.0)",65.791,59.635,61.851,Meagher County,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",66.434,61.266,63.669,Meagher County,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",61.531,56.29,58.083,Meagher County,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",61.958,59.362,60.618,Meagher County,tasmax
+2088,"High Emissions
+(SSP3-7.0)",65.101,59.859,62.01,Meagher County,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",66.49,62.679,64.049,Meagher County,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",59.344,56.571,57.734,Meagher County,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",62.66,57.713,60.421,Meagher County,tasmax
+2089,"High Emissions
+(SSP3-7.0)",64.883,59.802,63.309,Meagher County,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",66.933,63.206,64.544,Meagher County,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",59.895,57.22,58.299,Meagher County,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",61.276,58.231,60.174,Meagher County,tasmax
+2090,"High Emissions
+(SSP3-7.0)",66.897,61.771,63.15,Meagher County,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",67.448,63.762,64.737,Meagher County,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",60.392,56.192,58.472,Meagher County,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",61.95,58.371,60.363,Meagher County,tasmax
+2091,"High Emissions
+(SSP3-7.0)",64.961,61.722,64.107,Meagher County,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",68.256,61.64,63.54,Meagher County,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",60.582,55.624,59.077,Meagher County,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",63.714,57.127,61.553,Meagher County,tasmax
+2092,"High Emissions
+(SSP3-7.0)",64.245,60.29,62.864,Meagher County,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",67.973,61.992,64.644,Meagher County,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",60.884,54.884,58.806,Meagher County,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",62.719,56.955,59.999,Meagher County,tasmax
+2093,"High Emissions
+(SSP3-7.0)",65.538,60.749,61.481,Meagher County,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",68.305,63.108,64.802,Meagher County,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",61.552,56.378,57.186,Meagher County,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",64.099,56.95,60.9,Meagher County,tasmax
+2094,"High Emissions
+(SSP3-7.0)",65.666,60.527,62.551,Meagher County,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",69.581,62.55,66.232,Meagher County,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",60.9,56.596,59.591,Meagher County,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",64.098,59.593,61.139,Meagher County,tasmax
+2095,"High Emissions
+(SSP3-7.0)",66.852,61.51,63.762,Meagher County,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",67.204,61.96,63.438,Meagher County,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",60.147,56.454,58.841,Meagher County,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",63.046,59.748,60.911,Meagher County,tasmax
+2096,"High Emissions
+(SSP3-7.0)",64.982,60.939,63.988,Meagher County,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",67.591,62.204,64.497,Meagher County,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",61.469,56.862,57.451,Meagher County,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",64.267,58.534,60.935,Meagher County,tasmax
+2097,"High Emissions
+(SSP3-7.0)",68.056,60.11,63.752,Meagher County,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",70.41,61.83,64.169,Meagher County,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",59.858,55.884,57.939,Meagher County,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",61.771,58.523,60.5,Meagher County,tasmax
+2098,"High Emissions
+(SSP3-7.0)",66.241,60.355,62.691,Meagher County,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",68.248,63.357,65.104,Meagher County,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",62.172,55.858,58.656,Meagher County,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",62.546,57.975,60.578,Meagher County,tasmax
+2099,"High Emissions
+(SSP3-7.0)",67.877,61.11,62.195,Meagher County,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",69.762,62.923,66.292,Meagher County,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",60.294,55.363,57.475,Meagher County,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",63.92,58.72,60.359,Meagher County,tasmax
+2100,"High Emissions
+(SSP3-7.0)",65.304,59.929,63.879,Meagher County,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",69.025,62.644,64.002,Meagher County,tasmax

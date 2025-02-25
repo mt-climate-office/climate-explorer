@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,27.075,16.025,19.75,Lower Bighorn,con-dry
+1951,Historical Emissions,34.625,17.95,23.25,Lower Bighorn,con-dry
+1952,Historical Emissions,29.225,16,17,Lower Bighorn,con-dry
+1953,Historical Emissions,25.175,14.975,19,Lower Bighorn,con-dry
+1954,Historical Emissions,28.925,10.1,21.5,Lower Bighorn,con-dry
+1955,Historical Emissions,32.4,13.8,23.25,Lower Bighorn,con-dry
+1956,Historical Emissions,32.2,13.625,26,Lower Bighorn,con-dry
+1957,Historical Emissions,30.25,11.975,22.625,Lower Bighorn,con-dry
+1958,Historical Emissions,24.1,16.125,19.75,Lower Bighorn,con-dry
+1959,Historical Emissions,20.6,12,15.25,Lower Bighorn,con-dry
+1960,Historical Emissions,32.35,13.1,17.5,Lower Bighorn,con-dry
+1961,Historical Emissions,24.675,13.475,19.125,Lower Bighorn,con-dry
+1962,Historical Emissions,37.425,14.15,21.875,Lower Bighorn,con-dry
+1963,Historical Emissions,23.7,15.625,19.75,Lower Bighorn,con-dry
+1964,Historical Emissions,28.925,16.35,19.875,Lower Bighorn,con-dry
+1965,Historical Emissions,29.075,17.475,22.75,Lower Bighorn,con-dry
+1966,Historical Emissions,30.2,14.525,23.25,Lower Bighorn,con-dry
+1967,Historical Emissions,32.4,14.9,17.125,Lower Bighorn,con-dry
+1968,Historical Emissions,23.375,17,18.75,Lower Bighorn,con-dry
+1969,Historical Emissions,22.975,16.15,18.875,Lower Bighorn,con-dry
+1970,Historical Emissions,29.2,14,20,Lower Bighorn,con-dry
+1971,Historical Emissions,36.6,18.6,26.25,Lower Bighorn,con-dry
+1972,Historical Emissions,28.65,19.25,21,Lower Bighorn,con-dry
+1973,Historical Emissions,33.475,11.975,18.5,Lower Bighorn,con-dry
+1974,Historical Emissions,29.775,14.6,17,Lower Bighorn,con-dry
+1975,Historical Emissions,28.225,17,19.375,Lower Bighorn,con-dry
+1976,Historical Emissions,22.9,14,15.5,Lower Bighorn,con-dry
+1977,Historical Emissions,24.2,15.3,17.625,Lower Bighorn,con-dry
+1978,Historical Emissions,26.5,12.2,18.625,Lower Bighorn,con-dry
+1979,Historical Emissions,32.4,15.85,21,Lower Bighorn,con-dry
+1980,Historical Emissions,26.025,13.6,18.75,Lower Bighorn,con-dry
+1981,Historical Emissions,29.875,14.625,19.125,Lower Bighorn,con-dry
+1982,Historical Emissions,27.35,13.35,18.375,Lower Bighorn,con-dry
+1983,Historical Emissions,36,13.65,21.75,Lower Bighorn,con-dry
+1984,Historical Emissions,27.1,17.075,19.875,Lower Bighorn,con-dry
+1985,Historical Emissions,26.05,15.35,21.125,Lower Bighorn,con-dry
+1986,Historical Emissions,22.5,13.8,17.375,Lower Bighorn,con-dry
+1987,Historical Emissions,32.1,11.6,17.25,Lower Bighorn,con-dry
+1988,Historical Emissions,23.475,14.25,17.5,Lower Bighorn,con-dry
+1989,Historical Emissions,26.7,14.95,19.625,Lower Bighorn,con-dry
+1990,Historical Emissions,30.1,15.7,21,Lower Bighorn,con-dry
+1991,Historical Emissions,27.275,15.475,21.875,Lower Bighorn,con-dry
+1992,Historical Emissions,32.725,18.225,21.375,Lower Bighorn,con-dry
+1993,Historical Emissions,28.525,14.225,19,Lower Bighorn,con-dry
+1994,Historical Emissions,22.2,13.625,18.5,Lower Bighorn,con-dry
+1995,Historical Emissions,25.875,18.05,21,Lower Bighorn,con-dry
+1996,Historical Emissions,39.775,16.975,22,Lower Bighorn,con-dry
+1997,Historical Emissions,29.625,13.6,23.25,Lower Bighorn,con-dry
+1998,Historical Emissions,28.25,14.8,20,Lower Bighorn,con-dry
+1999,Historical Emissions,38.45,16.3,20.25,Lower Bighorn,con-dry
+2000,Historical Emissions,28.775,16.175,23.375,Lower Bighorn,con-dry
+2001,Historical Emissions,25,13.9,21,Lower Bighorn,con-dry
+2002,Historical Emissions,21.475,15.4,19,Lower Bighorn,con-dry
+2003,Historical Emissions,31.65,14.825,16.875,Lower Bighorn,con-dry
+2004,Historical Emissions,30.375,12.45,17.25,Lower Bighorn,con-dry
+2005,Historical Emissions,36.55,16.15,23.375,Lower Bighorn,con-dry
+2006,Historical Emissions,26,14.8,18.875,Lower Bighorn,con-dry
+2007,Historical Emissions,27.225,16.45,19,Lower Bighorn,con-dry
+2008,Historical Emissions,23.275,14.1,20,Lower Bighorn,con-dry
+2009,Historical Emissions,23.3,12.45,16,Lower Bighorn,con-dry
+2010,Historical Emissions,28,14.8,19.5,Lower Bighorn,con-dry
+2011,Historical Emissions,28.775,13.95,19,Lower Bighorn,con-dry
+2012,Historical Emissions,28.05,12.85,19.75,Lower Bighorn,con-dry
+2013,Historical Emissions,23.025,12.475,18.25,Lower Bighorn,con-dry
+2014,Historical Emissions,39.925,13.85,19,Lower Bighorn,con-dry
+2015,"Moderating Emissions
+(SSP1-2.6)",38.05,17.075,24.125,Lower Bighorn,con-dry
+2015,"Middle of the Road
+(SSP2-4.5)",32.325,15.925,24.5,Lower Bighorn,con-dry
+2015,"High Emissions
+(SSP3-7.0)",29.325,13.125,18,Lower Bighorn,con-dry
+2015,"Accelerating Emissions
+(SSP5-8.5)",31.1,15.125,17.5,Lower Bighorn,con-dry
+2016,"Moderating Emissions
+(SSP1-2.6)",31.8,14.425,18,Lower Bighorn,con-dry
+2016,"Middle of the Road
+(SSP2-4.5)",23.3,12.15,14.5,Lower Bighorn,con-dry
+2016,"High Emissions
+(SSP3-7.0)",34.975,15.95,21.25,Lower Bighorn,con-dry
+2016,"Accelerating Emissions
+(SSP5-8.5)",31.15,14.525,17.375,Lower Bighorn,con-dry
+2017,"Moderating Emissions
+(SSP1-2.6)",39.2,17.825,21,Lower Bighorn,con-dry
+2017,"Middle of the Road
+(SSP2-4.5)",28.45,18.25,20.75,Lower Bighorn,con-dry
+2017,"High Emissions
+(SSP3-7.0)",31.1,11.775,23,Lower Bighorn,con-dry
+2017,"Accelerating Emissions
+(SSP5-8.5)",24.375,15.15,18.625,Lower Bighorn,con-dry
+2018,"Moderating Emissions
+(SSP1-2.6)",31.425,12,20.875,Lower Bighorn,con-dry
+2018,"Middle of the Road
+(SSP2-4.5)",23.6,15.8,19.875,Lower Bighorn,con-dry
+2018,"High Emissions
+(SSP3-7.0)",21.325,13.8,18,Lower Bighorn,con-dry
+2018,"Accelerating Emissions
+(SSP5-8.5)",27.75,15.1,16.75,Lower Bighorn,con-dry
+2019,"Moderating Emissions
+(SSP1-2.6)",35.35,18.875,21.875,Lower Bighorn,con-dry
+2019,"Middle of the Road
+(SSP2-4.5)",33.8,15.925,23.125,Lower Bighorn,con-dry
+2019,"High Emissions
+(SSP3-7.0)",39.5,17.25,19.625,Lower Bighorn,con-dry
+2019,"Accelerating Emissions
+(SSP5-8.5)",32.7,12.5,20.375,Lower Bighorn,con-dry
+2020,"Moderating Emissions
+(SSP1-2.6)",28.225,16.2,18,Lower Bighorn,con-dry
+2020,"Middle of the Road
+(SSP2-4.5)",24.45,12.225,16.375,Lower Bighorn,con-dry
+2020,"High Emissions
+(SSP3-7.0)",23.45,14.55,19,Lower Bighorn,con-dry
+2020,"Accelerating Emissions
+(SSP5-8.5)",28.65,16.275,17.25,Lower Bighorn,con-dry
+2021,"Moderating Emissions
+(SSP1-2.6)",37.05,15.275,25,Lower Bighorn,con-dry
+2021,"Middle of the Road
+(SSP2-4.5)",31.55,17.2,23.75,Lower Bighorn,con-dry
+2021,"High Emissions
+(SSP3-7.0)",45.175,17.025,23,Lower Bighorn,con-dry
+2021,"Accelerating Emissions
+(SSP5-8.5)",37.8,14.3,23.25,Lower Bighorn,con-dry
+2022,"Moderating Emissions
+(SSP1-2.6)",25.225,16.25,20.25,Lower Bighorn,con-dry
+2022,"Middle of the Road
+(SSP2-4.5)",30.225,13.45,21,Lower Bighorn,con-dry
+2022,"High Emissions
+(SSP3-7.0)",27.35,13.425,18.5,Lower Bighorn,con-dry
+2022,"Accelerating Emissions
+(SSP5-8.5)",40,12.95,22.5,Lower Bighorn,con-dry
+2023,"Moderating Emissions
+(SSP1-2.6)",43.775,16.625,21.125,Lower Bighorn,con-dry
+2023,"Middle of the Road
+(SSP2-4.5)",37.875,14.175,24,Lower Bighorn,con-dry
+2023,"High Emissions
+(SSP3-7.0)",26.15,14.475,17.875,Lower Bighorn,con-dry
+2023,"Accelerating Emissions
+(SSP5-8.5)",24.3,14,16,Lower Bighorn,con-dry
+2024,"Moderating Emissions
+(SSP1-2.6)",23.975,19.925,23,Lower Bighorn,con-dry
+2024,"Middle of the Road
+(SSP2-4.5)",24.9,13.825,20.5,Lower Bighorn,con-dry
+2024,"High Emissions
+(SSP3-7.0)",30.35,16.2,20.75,Lower Bighorn,con-dry
+2024,"Accelerating Emissions
+(SSP5-8.5)",28.4,13.7,18.5,Lower Bighorn,con-dry
+2025,"Moderating Emissions
+(SSP1-2.6)",28,13.45,23.625,Lower Bighorn,con-dry
+2025,"Middle of the Road
+(SSP2-4.5)",22.65,14.25,17.125,Lower Bighorn,con-dry
+2025,"High Emissions
+(SSP3-7.0)",35.225,14.525,23.125,Lower Bighorn,con-dry
+2025,"Accelerating Emissions
+(SSP5-8.5)",34.125,15.35,20.5,Lower Bighorn,con-dry
+2026,"Moderating Emissions
+(SSP1-2.6)",24.275,13.6,20.375,Lower Bighorn,con-dry
+2026,"Middle of the Road
+(SSP2-4.5)",30.1,14.975,15.875,Lower Bighorn,con-dry
+2026,"High Emissions
+(SSP3-7.0)",30.025,13.75,18.375,Lower Bighorn,con-dry
+2026,"Accelerating Emissions
+(SSP5-8.5)",25.2,16.525,18.875,Lower Bighorn,con-dry
+2027,"Moderating Emissions
+(SSP1-2.6)",42.175,13.75,25.25,Lower Bighorn,con-dry
+2027,"Middle of the Road
+(SSP2-4.5)",33.15,15.175,19.5,Lower Bighorn,con-dry
+2027,"High Emissions
+(SSP3-7.0)",25.1,14.55,19,Lower Bighorn,con-dry
+2027,"Accelerating Emissions
+(SSP5-8.5)",26.55,14.725,20,Lower Bighorn,con-dry
+2028,"Moderating Emissions
+(SSP1-2.6)",25.475,16.3,20,Lower Bighorn,con-dry
+2028,"Middle of the Road
+(SSP2-4.5)",29.8,12.475,18.25,Lower Bighorn,con-dry
+2028,"High Emissions
+(SSP3-7.0)",34.55,16.1,21,Lower Bighorn,con-dry
+2028,"Accelerating Emissions
+(SSP5-8.5)",22.425,16.5,18.875,Lower Bighorn,con-dry
+2029,"Moderating Emissions
+(SSP1-2.6)",30.1,17.525,21.75,Lower Bighorn,con-dry
+2029,"Middle of the Road
+(SSP2-4.5)",33.85,16.2,23,Lower Bighorn,con-dry
+2029,"High Emissions
+(SSP3-7.0)",32.6,12.9,28.875,Lower Bighorn,con-dry
+2029,"Accelerating Emissions
+(SSP5-8.5)",35.2,14.225,17.5,Lower Bighorn,con-dry
+2030,"Moderating Emissions
+(SSP1-2.6)",33.2,15.075,23.125,Lower Bighorn,con-dry
+2030,"Middle of the Road
+(SSP2-4.5)",42.1,14.975,20,Lower Bighorn,con-dry
+2030,"High Emissions
+(SSP3-7.0)",31.6,13.8,18.5,Lower Bighorn,con-dry
+2030,"Accelerating Emissions
+(SSP5-8.5)",31.8,19.7,23,Lower Bighorn,con-dry
+2031,"Moderating Emissions
+(SSP1-2.6)",46.225,13.7,18.625,Lower Bighorn,con-dry
+2031,"Middle of the Road
+(SSP2-4.5)",25.65,16.875,21,Lower Bighorn,con-dry
+2031,"High Emissions
+(SSP3-7.0)",45.2,16,26.625,Lower Bighorn,con-dry
+2031,"Accelerating Emissions
+(SSP5-8.5)",30.1,12.575,22.625,Lower Bighorn,con-dry
+2032,"Moderating Emissions
+(SSP1-2.6)",23.325,14.725,20.375,Lower Bighorn,con-dry
+2032,"Middle of the Road
+(SSP2-4.5)",30.175,14.05,18.5,Lower Bighorn,con-dry
+2032,"High Emissions
+(SSP3-7.0)",44.35,14.7,16.875,Lower Bighorn,con-dry
+2032,"Accelerating Emissions
+(SSP5-8.5)",31.725,14.475,18.375,Lower Bighorn,con-dry
+2033,"Moderating Emissions
+(SSP1-2.6)",30.95,15.75,19.375,Lower Bighorn,con-dry
+2033,"Middle of the Road
+(SSP2-4.5)",36.425,13.725,19.625,Lower Bighorn,con-dry
+2033,"High Emissions
+(SSP3-7.0)",29.2,13.325,19.25,Lower Bighorn,con-dry
+2033,"Accelerating Emissions
+(SSP5-8.5)",30.875,17.225,21,Lower Bighorn,con-dry
+2034,"Moderating Emissions
+(SSP1-2.6)",25.9,13.6,17.25,Lower Bighorn,con-dry
+2034,"Middle of the Road
+(SSP2-4.5)",35.85,17.525,21.625,Lower Bighorn,con-dry
+2034,"High Emissions
+(SSP3-7.0)",35.05,14.8,18.75,Lower Bighorn,con-dry
+2034,"Accelerating Emissions
+(SSP5-8.5)",24.75,12.35,16.5,Lower Bighorn,con-dry
+2035,"Moderating Emissions
+(SSP1-2.6)",27.075,16.225,19.375,Lower Bighorn,con-dry
+2035,"Middle of the Road
+(SSP2-4.5)",25.575,17.95,21,Lower Bighorn,con-dry
+2035,"High Emissions
+(SSP3-7.0)",20.775,12.85,15.75,Lower Bighorn,con-dry
+2035,"Accelerating Emissions
+(SSP5-8.5)",24.875,14.8,19,Lower Bighorn,con-dry
+2036,"Moderating Emissions
+(SSP1-2.6)",23.875,14.475,18.875,Lower Bighorn,con-dry
+2036,"Middle of the Road
+(SSP2-4.5)",38.525,17,24.75,Lower Bighorn,con-dry
+2036,"High Emissions
+(SSP3-7.0)",47.1,17.35,22,Lower Bighorn,con-dry
+2036,"Accelerating Emissions
+(SSP5-8.5)",22.575,14.1,18.125,Lower Bighorn,con-dry
+2037,"Moderating Emissions
+(SSP1-2.6)",39.925,13.825,22.375,Lower Bighorn,con-dry
+2037,"Middle of the Road
+(SSP2-4.5)",26.8,14,22.375,Lower Bighorn,con-dry
+2037,"High Emissions
+(SSP3-7.0)",27.2,12.7,17.875,Lower Bighorn,con-dry
+2037,"Accelerating Emissions
+(SSP5-8.5)",28,14.5,17.875,Lower Bighorn,con-dry
+2038,"Moderating Emissions
+(SSP1-2.6)",27.2,13.925,18.375,Lower Bighorn,con-dry
+2038,"Middle of the Road
+(SSP2-4.5)",37.575,13.5,26.125,Lower Bighorn,con-dry
+2038,"High Emissions
+(SSP3-7.0)",32.2,14.325,20.125,Lower Bighorn,con-dry
+2038,"Accelerating Emissions
+(SSP5-8.5)",30.45,15.2,22.375,Lower Bighorn,con-dry
+2039,"Moderating Emissions
+(SSP1-2.6)",31.75,15.675,21.75,Lower Bighorn,con-dry
+2039,"Middle of the Road
+(SSP2-4.5)",50.475,15.525,21,Lower Bighorn,con-dry
+2039,"High Emissions
+(SSP3-7.0)",25.8,15.25,23.375,Lower Bighorn,con-dry
+2039,"Accelerating Emissions
+(SSP5-8.5)",24.9,13.05,20,Lower Bighorn,con-dry
+2040,"Moderating Emissions
+(SSP1-2.6)",25.925,14.4,17.5,Lower Bighorn,con-dry
+2040,"Middle of the Road
+(SSP2-4.5)",33.875,16.45,25.75,Lower Bighorn,con-dry
+2040,"High Emissions
+(SSP3-7.0)",25.25,14.525,18.125,Lower Bighorn,con-dry
+2040,"Accelerating Emissions
+(SSP5-8.5)",52.95,16.5,19.75,Lower Bighorn,con-dry
+2041,"Moderating Emissions
+(SSP1-2.6)",30.325,19.15,27.125,Lower Bighorn,con-dry
+2041,"Middle of the Road
+(SSP2-4.5)",32.175,14.95,20.5,Lower Bighorn,con-dry
+2041,"High Emissions
+(SSP3-7.0)",36.175,14.475,17,Lower Bighorn,con-dry
+2041,"Accelerating Emissions
+(SSP5-8.5)",25.225,16.2,19.5,Lower Bighorn,con-dry
+2042,"Moderating Emissions
+(SSP1-2.6)",34.1,15,24.75,Lower Bighorn,con-dry
+2042,"Middle of the Road
+(SSP2-4.5)",32.45,15,24.5,Lower Bighorn,con-dry
+2042,"High Emissions
+(SSP3-7.0)",34.225,12.925,17.125,Lower Bighorn,con-dry
+2042,"Accelerating Emissions
+(SSP5-8.5)",25.05,18.9,22.625,Lower Bighorn,con-dry
+2043,"Moderating Emissions
+(SSP1-2.6)",32.35,14.875,19.75,Lower Bighorn,con-dry
+2043,"Middle of the Road
+(SSP2-4.5)",33.675,12.625,15.75,Lower Bighorn,con-dry
+2043,"High Emissions
+(SSP3-7.0)",21.45,12.55,17,Lower Bighorn,con-dry
+2043,"Accelerating Emissions
+(SSP5-8.5)",31.425,16.875,21.125,Lower Bighorn,con-dry
+2044,"Moderating Emissions
+(SSP1-2.6)",28.425,13.65,21.75,Lower Bighorn,con-dry
+2044,"Middle of the Road
+(SSP2-4.5)",25.05,17.6,18.75,Lower Bighorn,con-dry
+2044,"High Emissions
+(SSP3-7.0)",34.15,12.95,22,Lower Bighorn,con-dry
+2044,"Accelerating Emissions
+(SSP5-8.5)",28.85,14.225,25.5,Lower Bighorn,con-dry
+2045,"Moderating Emissions
+(SSP1-2.6)",28.9,13.3,17,Lower Bighorn,con-dry
+2045,"Middle of the Road
+(SSP2-4.5)",36.175,19.6,22.375,Lower Bighorn,con-dry
+2045,"High Emissions
+(SSP3-7.0)",31.375,16.35,19.625,Lower Bighorn,con-dry
+2045,"Accelerating Emissions
+(SSP5-8.5)",31.125,15.95,22.5,Lower Bighorn,con-dry
+2046,"Moderating Emissions
+(SSP1-2.6)",28.4,17.175,20,Lower Bighorn,con-dry
+2046,"Middle of the Road
+(SSP2-4.5)",28.475,13.1,18.25,Lower Bighorn,con-dry
+2046,"High Emissions
+(SSP3-7.0)",32.125,12.85,18.25,Lower Bighorn,con-dry
+2046,"Accelerating Emissions
+(SSP5-8.5)",22.85,16.05,19.125,Lower Bighorn,con-dry
+2047,"Moderating Emissions
+(SSP1-2.6)",29.625,13.075,19.875,Lower Bighorn,con-dry
+2047,"Middle of the Road
+(SSP2-4.5)",28.55,15.7,20.5,Lower Bighorn,con-dry
+2047,"High Emissions
+(SSP3-7.0)",24.875,12.475,16,Lower Bighorn,con-dry
+2047,"Accelerating Emissions
+(SSP5-8.5)",35.375,15.2,22,Lower Bighorn,con-dry
+2048,"Moderating Emissions
+(SSP1-2.6)",28.55,14.4,18.25,Lower Bighorn,con-dry
+2048,"Middle of the Road
+(SSP2-4.5)",36.6,14.9,19.25,Lower Bighorn,con-dry
+2048,"High Emissions
+(SSP3-7.0)",29.475,17.55,23.125,Lower Bighorn,con-dry
+2048,"Accelerating Emissions
+(SSP5-8.5)",35.5,15.175,21,Lower Bighorn,con-dry
+2049,"Moderating Emissions
+(SSP1-2.6)",38,15.375,18.625,Lower Bighorn,con-dry
+2049,"Middle of the Road
+(SSP2-4.5)",37.3,15.2,20.375,Lower Bighorn,con-dry
+2049,"High Emissions
+(SSP3-7.0)",24.55,16.775,22.875,Lower Bighorn,con-dry
+2049,"Accelerating Emissions
+(SSP5-8.5)",34.4,17,20.75,Lower Bighorn,con-dry
+2050,"Moderating Emissions
+(SSP1-2.6)",30.7,15.5,23,Lower Bighorn,con-dry
+2050,"Middle of the Road
+(SSP2-4.5)",40.3,14.85,19.25,Lower Bighorn,con-dry
+2050,"High Emissions
+(SSP3-7.0)",32.65,14.6,18.5,Lower Bighorn,con-dry
+2050,"Accelerating Emissions
+(SSP5-8.5)",29.35,14.95,22,Lower Bighorn,con-dry
+2051,"Moderating Emissions
+(SSP1-2.6)",38.725,14.075,21.5,Lower Bighorn,con-dry
+2051,"Middle of the Road
+(SSP2-4.5)",30.65,16.75,22.5,Lower Bighorn,con-dry
+2051,"High Emissions
+(SSP3-7.0)",37.9,20.4,24.375,Lower Bighorn,con-dry
+2051,"Accelerating Emissions
+(SSP5-8.5)",36.725,19,24.625,Lower Bighorn,con-dry
+2052,"Moderating Emissions
+(SSP1-2.6)",24.15,14.225,19.625,Lower Bighorn,con-dry
+2052,"Middle of the Road
+(SSP2-4.5)",32.25,17.2,19.25,Lower Bighorn,con-dry
+2052,"High Emissions
+(SSP3-7.0)",27.75,16.025,18.125,Lower Bighorn,con-dry
+2052,"Accelerating Emissions
+(SSP5-8.5)",39.8,13.425,26.25,Lower Bighorn,con-dry
+2053,"Moderating Emissions
+(SSP1-2.6)",30.85,17.2,20,Lower Bighorn,con-dry
+2053,"Middle of the Road
+(SSP2-4.5)",36.525,16,21,Lower Bighorn,con-dry
+2053,"High Emissions
+(SSP3-7.0)",41.425,15.325,23,Lower Bighorn,con-dry
+2053,"Accelerating Emissions
+(SSP5-8.5)",26.2,18.475,22.25,Lower Bighorn,con-dry
+2054,"Moderating Emissions
+(SSP1-2.6)",34,11.6,21.25,Lower Bighorn,con-dry
+2054,"Middle of the Road
+(SSP2-4.5)",26.8,13.4,19,Lower Bighorn,con-dry
+2054,"High Emissions
+(SSP3-7.0)",22.725,14.75,18.125,Lower Bighorn,con-dry
+2054,"Accelerating Emissions
+(SSP5-8.5)",31.45,15.95,18.25,Lower Bighorn,con-dry
+2055,"Moderating Emissions
+(SSP1-2.6)",29.7,15.6,21,Lower Bighorn,con-dry
+2055,"Middle of the Road
+(SSP2-4.5)",29.425,13.875,20.75,Lower Bighorn,con-dry
+2055,"High Emissions
+(SSP3-7.0)",37.85,17.025,23,Lower Bighorn,con-dry
+2055,"Accelerating Emissions
+(SSP5-8.5)",30.325,18.525,22.875,Lower Bighorn,con-dry
+2056,"Moderating Emissions
+(SSP1-2.6)",33.8,17.825,23,Lower Bighorn,con-dry
+2056,"Middle of the Road
+(SSP2-4.5)",31.85,15.975,22.25,Lower Bighorn,con-dry
+2056,"High Emissions
+(SSP3-7.0)",31.525,14.9,25,Lower Bighorn,con-dry
+2056,"Accelerating Emissions
+(SSP5-8.5)",25.95,16.075,22.125,Lower Bighorn,con-dry
+2057,"Moderating Emissions
+(SSP1-2.6)",26.725,12.325,22.875,Lower Bighorn,con-dry
+2057,"Middle of the Road
+(SSP2-4.5)",29.4,14.525,18.75,Lower Bighorn,con-dry
+2057,"High Emissions
+(SSP3-7.0)",31.525,14.25,20.875,Lower Bighorn,con-dry
+2057,"Accelerating Emissions
+(SSP5-8.5)",28.65,14.5,24.875,Lower Bighorn,con-dry
+2058,"Moderating Emissions
+(SSP1-2.6)",29.125,15.175,19.125,Lower Bighorn,con-dry
+2058,"Middle of the Road
+(SSP2-4.5)",26.7,17.175,23.375,Lower Bighorn,con-dry
+2058,"High Emissions
+(SSP3-7.0)",25.05,13.4,18,Lower Bighorn,con-dry
+2058,"Accelerating Emissions
+(SSP5-8.5)",25.55,12.925,19.25,Lower Bighorn,con-dry
+2059,"Moderating Emissions
+(SSP1-2.6)",37.8,12.5,22.875,Lower Bighorn,con-dry
+2059,"Middle of the Road
+(SSP2-4.5)",24.325,15.3,20.5,Lower Bighorn,con-dry
+2059,"High Emissions
+(SSP3-7.0)",27.075,14.4,19.625,Lower Bighorn,con-dry
+2059,"Accelerating Emissions
+(SSP5-8.5)",33.1,14.8,21.375,Lower Bighorn,con-dry
+2060,"Moderating Emissions
+(SSP1-2.6)",28.4,18.65,20.375,Lower Bighorn,con-dry
+2060,"Middle of the Road
+(SSP2-4.5)",36.475,17.1,20.625,Lower Bighorn,con-dry
+2060,"High Emissions
+(SSP3-7.0)",28.3,13.4,18.125,Lower Bighorn,con-dry
+2060,"Accelerating Emissions
+(SSP5-8.5)",24.5,15,18.125,Lower Bighorn,con-dry
+2061,"Moderating Emissions
+(SSP1-2.6)",33.075,15.475,21.125,Lower Bighorn,con-dry
+2061,"Middle of the Road
+(SSP2-4.5)",29.6,15.6,21,Lower Bighorn,con-dry
+2061,"High Emissions
+(SSP3-7.0)",32.55,14.325,19.5,Lower Bighorn,con-dry
+2061,"Accelerating Emissions
+(SSP5-8.5)",33,18,29.5,Lower Bighorn,con-dry
+2062,"Moderating Emissions
+(SSP1-2.6)",28.025,12.5,20.5,Lower Bighorn,con-dry
+2062,"Middle of the Road
+(SSP2-4.5)",25.55,14.45,20.75,Lower Bighorn,con-dry
+2062,"High Emissions
+(SSP3-7.0)",35.1,17.15,24.75,Lower Bighorn,con-dry
+2062,"Accelerating Emissions
+(SSP5-8.5)",38.775,12.6,16.75,Lower Bighorn,con-dry
+2063,"Moderating Emissions
+(SSP1-2.6)",25.65,17.25,20.5,Lower Bighorn,con-dry
+2063,"Middle of the Road
+(SSP2-4.5)",22.9,12.8,17.25,Lower Bighorn,con-dry
+2063,"High Emissions
+(SSP3-7.0)",37.625,13.9,15.375,Lower Bighorn,con-dry
+2063,"Accelerating Emissions
+(SSP5-8.5)",49.525,19.775,26.875,Lower Bighorn,con-dry
+2064,"Moderating Emissions
+(SSP1-2.6)",34.3,14.3,22.375,Lower Bighorn,con-dry
+2064,"Middle of the Road
+(SSP2-4.5)",30.4,17,21,Lower Bighorn,con-dry
+2064,"High Emissions
+(SSP3-7.0)",38.175,19.1,21.75,Lower Bighorn,con-dry
+2064,"Accelerating Emissions
+(SSP5-8.5)",40.675,17.925,19.375,Lower Bighorn,con-dry
+2065,"Moderating Emissions
+(SSP1-2.6)",21.7,13.4,19.875,Lower Bighorn,con-dry
+2065,"Middle of the Road
+(SSP2-4.5)",39.25,15.025,19.25,Lower Bighorn,con-dry
+2065,"High Emissions
+(SSP3-7.0)",37.5,15,21.125,Lower Bighorn,con-dry
+2065,"Accelerating Emissions
+(SSP5-8.5)",29.3,13.6,22.75,Lower Bighorn,con-dry
+2066,"Moderating Emissions
+(SSP1-2.6)",29.225,14.875,23.75,Lower Bighorn,con-dry
+2066,"Middle of the Road
+(SSP2-4.5)",24.4,17.65,22.125,Lower Bighorn,con-dry
+2066,"High Emissions
+(SSP3-7.0)",28.925,15.1,23.625,Lower Bighorn,con-dry
+2066,"Accelerating Emissions
+(SSP5-8.5)",32.375,19,22.625,Lower Bighorn,con-dry
+2067,"Moderating Emissions
+(SSP1-2.6)",40.025,15.7,22,Lower Bighorn,con-dry
+2067,"Middle of the Road
+(SSP2-4.5)",31.6,13.7,21.25,Lower Bighorn,con-dry
+2067,"High Emissions
+(SSP3-7.0)",39.3,16.425,24.125,Lower Bighorn,con-dry
+2067,"Accelerating Emissions
+(SSP5-8.5)",39.25,18.275,23.5,Lower Bighorn,con-dry
+2068,"Moderating Emissions
+(SSP1-2.6)",24.55,13.4,19.25,Lower Bighorn,con-dry
+2068,"Middle of the Road
+(SSP2-4.5)",21.575,12.85,16.625,Lower Bighorn,con-dry
+2068,"High Emissions
+(SSP3-7.0)",28.1,13.95,16,Lower Bighorn,con-dry
+2068,"Accelerating Emissions
+(SSP5-8.5)",32.475,15.6,19.125,Lower Bighorn,con-dry
+2069,"Moderating Emissions
+(SSP1-2.6)",31.2,11.425,19.125,Lower Bighorn,con-dry
+2069,"Middle of the Road
+(SSP2-4.5)",31.1,13.7,22.875,Lower Bighorn,con-dry
+2069,"High Emissions
+(SSP3-7.0)",39.675,19.875,23.5,Lower Bighorn,con-dry
+2069,"Accelerating Emissions
+(SSP5-8.5)",40.475,15.55,27,Lower Bighorn,con-dry
+2070,"Moderating Emissions
+(SSP1-2.6)",22.05,14.325,16.125,Lower Bighorn,con-dry
+2070,"Middle of the Road
+(SSP2-4.5)",28.2,16.5,19.375,Lower Bighorn,con-dry
+2070,"High Emissions
+(SSP3-7.0)",31.625,17.85,25,Lower Bighorn,con-dry
+2070,"Accelerating Emissions
+(SSP5-8.5)",27.95,15.4,22.25,Lower Bighorn,con-dry
+2071,"Moderating Emissions
+(SSP1-2.6)",48.95,15.9,23,Lower Bighorn,con-dry
+2071,"Middle of the Road
+(SSP2-4.5)",32.1,19.175,23.375,Lower Bighorn,con-dry
+2071,"High Emissions
+(SSP3-7.0)",28.325,16.85,18.25,Lower Bighorn,con-dry
+2071,"Accelerating Emissions
+(SSP5-8.5)",44.825,20.425,28.5,Lower Bighorn,con-dry
+2072,"Moderating Emissions
+(SSP1-2.6)",35.325,14.85,25,Lower Bighorn,con-dry
+2072,"Middle of the Road
+(SSP2-4.5)",41.925,13.5,19.375,Lower Bighorn,con-dry
+2072,"High Emissions
+(SSP3-7.0)",29.55,14.95,24.125,Lower Bighorn,con-dry
+2072,"Accelerating Emissions
+(SSP5-8.5)",30,15.325,20.5,Lower Bighorn,con-dry
+2073,"Moderating Emissions
+(SSP1-2.6)",34,13.3,22,Lower Bighorn,con-dry
+2073,"Middle of the Road
+(SSP2-4.5)",33.35,13.2,17.875,Lower Bighorn,con-dry
+2073,"High Emissions
+(SSP3-7.0)",38.075,16.225,20,Lower Bighorn,con-dry
+2073,"Accelerating Emissions
+(SSP5-8.5)",28,15.475,20.375,Lower Bighorn,con-dry
+2074,"Moderating Emissions
+(SSP1-2.6)",24.525,15.5,17,Lower Bighorn,con-dry
+2074,"Middle of the Road
+(SSP2-4.5)",29,14.875,19.25,Lower Bighorn,con-dry
+2074,"High Emissions
+(SSP3-7.0)",27.175,13.625,17.5,Lower Bighorn,con-dry
+2074,"Accelerating Emissions
+(SSP5-8.5)",40.825,16.9,27.875,Lower Bighorn,con-dry
+2075,"Moderating Emissions
+(SSP1-2.6)",29.7,15,20,Lower Bighorn,con-dry
+2075,"Middle of the Road
+(SSP2-4.5)",29.3,15.55,23,Lower Bighorn,con-dry
+2075,"High Emissions
+(SSP3-7.0)",31.425,15.65,22,Lower Bighorn,con-dry
+2075,"Accelerating Emissions
+(SSP5-8.5)",27.45,15.025,18.625,Lower Bighorn,con-dry
+2076,"Moderating Emissions
+(SSP1-2.6)",25.6,15.775,18.25,Lower Bighorn,con-dry
+2076,"Middle of the Road
+(SSP2-4.5)",28.3,14.575,22,Lower Bighorn,con-dry
+2076,"High Emissions
+(SSP3-7.0)",36.675,15.125,20,Lower Bighorn,con-dry
+2076,"Accelerating Emissions
+(SSP5-8.5)",34.05,15.25,20,Lower Bighorn,con-dry
+2077,"Moderating Emissions
+(SSP1-2.6)",28.325,12.875,19.5,Lower Bighorn,con-dry
+2077,"Middle of the Road
+(SSP2-4.5)",28.3,17.825,21.875,Lower Bighorn,con-dry
+2077,"High Emissions
+(SSP3-7.0)",33.35,18.4,22,Lower Bighorn,con-dry
+2077,"Accelerating Emissions
+(SSP5-8.5)",27.275,17.725,22.625,Lower Bighorn,con-dry
+2078,"Moderating Emissions
+(SSP1-2.6)",30.05,13.975,17.25,Lower Bighorn,con-dry
+2078,"Middle of the Road
+(SSP2-4.5)",33.25,14.2,22,Lower Bighorn,con-dry
+2078,"High Emissions
+(SSP3-7.0)",27.8,17.325,22.5,Lower Bighorn,con-dry
+2078,"Accelerating Emissions
+(SSP5-8.5)",38.475,13.75,23.75,Lower Bighorn,con-dry
+2079,"Moderating Emissions
+(SSP1-2.6)",39.6,15,24.75,Lower Bighorn,con-dry
+2079,"Middle of the Road
+(SSP2-4.5)",26.8,16.1,19.875,Lower Bighorn,con-dry
+2079,"High Emissions
+(SSP3-7.0)",31.25,13,20.5,Lower Bighorn,con-dry
+2079,"Accelerating Emissions
+(SSP5-8.5)",34.075,16.2,19.5,Lower Bighorn,con-dry
+2080,"Moderating Emissions
+(SSP1-2.6)",26.225,12.7,20.875,Lower Bighorn,con-dry
+2080,"Middle of the Road
+(SSP2-4.5)",37.175,14.9,21.125,Lower Bighorn,con-dry
+2080,"High Emissions
+(SSP3-7.0)",29.425,15.2,23.75,Lower Bighorn,con-dry
+2080,"Accelerating Emissions
+(SSP5-8.5)",33.15,13.6,24.5,Lower Bighorn,con-dry
+2081,"Moderating Emissions
+(SSP1-2.6)",36.325,15.125,22,Lower Bighorn,con-dry
+2081,"Middle of the Road
+(SSP2-4.5)",26.825,16.9,23.125,Lower Bighorn,con-dry
+2081,"High Emissions
+(SSP3-7.0)",24.625,13.6,18.25,Lower Bighorn,con-dry
+2081,"Accelerating Emissions
+(SSP5-8.5)",35.875,19.7,22.375,Lower Bighorn,con-dry
+2082,"Moderating Emissions
+(SSP1-2.6)",31.225,16.95,20.875,Lower Bighorn,con-dry
+2082,"Middle of the Road
+(SSP2-4.5)",29.5,13.1,26.75,Lower Bighorn,con-dry
+2082,"High Emissions
+(SSP3-7.0)",37.425,17.425,23,Lower Bighorn,con-dry
+2082,"Accelerating Emissions
+(SSP5-8.5)",33.5,14.6,23.25,Lower Bighorn,con-dry
+2083,"Moderating Emissions
+(SSP1-2.6)",45.225,18.575,25,Lower Bighorn,con-dry
+2083,"Middle of the Road
+(SSP2-4.5)",42.9,16.9,22.375,Lower Bighorn,con-dry
+2083,"High Emissions
+(SSP3-7.0)",29.25,16.5,22.625,Lower Bighorn,con-dry
+2083,"Accelerating Emissions
+(SSP5-8.5)",32.075,15.6,25,Lower Bighorn,con-dry
+2084,"Moderating Emissions
+(SSP1-2.6)",33.45,15.7,24.375,Lower Bighorn,con-dry
+2084,"Middle of the Road
+(SSP2-4.5)",42,15.35,22.625,Lower Bighorn,con-dry
+2084,"High Emissions
+(SSP3-7.0)",35.4,19.975,25.375,Lower Bighorn,con-dry
+2084,"Accelerating Emissions
+(SSP5-8.5)",36.525,17.1,22.5,Lower Bighorn,con-dry
+2085,"Moderating Emissions
+(SSP1-2.6)",34.7,16.2,20,Lower Bighorn,con-dry
+2085,"Middle of the Road
+(SSP2-4.5)",28.425,14.85,19,Lower Bighorn,con-dry
+2085,"High Emissions
+(SSP3-7.0)",34.975,18.375,24,Lower Bighorn,con-dry
+2085,"Accelerating Emissions
+(SSP5-8.5)",47.425,17.775,23,Lower Bighorn,con-dry
+2086,"Moderating Emissions
+(SSP1-2.6)",31.725,14.975,19.25,Lower Bighorn,con-dry
+2086,"Middle of the Road
+(SSP2-4.5)",30.65,11.625,20.625,Lower Bighorn,con-dry
+2086,"High Emissions
+(SSP3-7.0)",29.3,16.025,26.375,Lower Bighorn,con-dry
+2086,"Accelerating Emissions
+(SSP5-8.5)",41.35,16.7,22.125,Lower Bighorn,con-dry
+2087,"Moderating Emissions
+(SSP1-2.6)",32.65,13.4,19.375,Lower Bighorn,con-dry
+2087,"Middle of the Road
+(SSP2-4.5)",28.075,17.375,22.375,Lower Bighorn,con-dry
+2087,"High Emissions
+(SSP3-7.0)",35.175,17.9,20.25,Lower Bighorn,con-dry
+2087,"Accelerating Emissions
+(SSP5-8.5)",35.65,18.6,23.875,Lower Bighorn,con-dry
+2088,"Moderating Emissions
+(SSP1-2.6)",33.15,14.25,24.625,Lower Bighorn,con-dry
+2088,"Middle of the Road
+(SSP2-4.5)",31.275,14.55,21.75,Lower Bighorn,con-dry
+2088,"High Emissions
+(SSP3-7.0)",30.05,14.775,19,Lower Bighorn,con-dry
+2088,"Accelerating Emissions
+(SSP5-8.5)",37.2,16.025,23,Lower Bighorn,con-dry
+2089,"Moderating Emissions
+(SSP1-2.6)",35.05,11.2,17.625,Lower Bighorn,con-dry
+2089,"Middle of the Road
+(SSP2-4.5)",24.125,15.025,21.125,Lower Bighorn,con-dry
+2089,"High Emissions
+(SSP3-7.0)",39.95,15.95,27,Lower Bighorn,con-dry
+2089,"Accelerating Emissions
+(SSP5-8.5)",65.8,16.125,26.5,Lower Bighorn,con-dry
+2090,"Moderating Emissions
+(SSP1-2.6)",30.575,15.55,22,Lower Bighorn,con-dry
+2090,"Middle of the Road
+(SSP2-4.5)",29.1,15.275,20.125,Lower Bighorn,con-dry
+2090,"High Emissions
+(SSP3-7.0)",46.8,19,27.75,Lower Bighorn,con-dry
+2090,"Accelerating Emissions
+(SSP5-8.5)",38.675,17.45,27,Lower Bighorn,con-dry
+2091,"Moderating Emissions
+(SSP1-2.6)",35.2,16.325,25.625,Lower Bighorn,con-dry
+2091,"Middle of the Road
+(SSP2-4.5)",46.85,17.275,23.875,Lower Bighorn,con-dry
+2091,"High Emissions
+(SSP3-7.0)",38,15.975,25.75,Lower Bighorn,con-dry
+2091,"Accelerating Emissions
+(SSP5-8.5)",44.6,18.125,23.5,Lower Bighorn,con-dry
+2092,"Moderating Emissions
+(SSP1-2.6)",38.475,10.825,24.75,Lower Bighorn,con-dry
+2092,"Middle of the Road
+(SSP2-4.5)",31.3,11,23.375,Lower Bighorn,con-dry
+2092,"High Emissions
+(SSP3-7.0)",41.4,14.225,23.625,Lower Bighorn,con-dry
+2092,"Accelerating Emissions
+(SSP5-8.5)",38,14.05,24.125,Lower Bighorn,con-dry
+2093,"Moderating Emissions
+(SSP1-2.6)",27.65,15.8,19.25,Lower Bighorn,con-dry
+2093,"Middle of the Road
+(SSP2-4.5)",28.5,18.85,22,Lower Bighorn,con-dry
+2093,"High Emissions
+(SSP3-7.0)",32.925,14.9,24.5,Lower Bighorn,con-dry
+2093,"Accelerating Emissions
+(SSP5-8.5)",36.95,18.3,27.25,Lower Bighorn,con-dry
+2094,"Moderating Emissions
+(SSP1-2.6)",29.8,14.05,19,Lower Bighorn,con-dry
+2094,"Middle of the Road
+(SSP2-4.5)",29,17.55,22.25,Lower Bighorn,con-dry
+2094,"High Emissions
+(SSP3-7.0)",27.475,15.6,22.375,Lower Bighorn,con-dry
+2094,"Accelerating Emissions
+(SSP5-8.5)",33.85,17.1,23,Lower Bighorn,con-dry
+2095,"Moderating Emissions
+(SSP1-2.6)",39.35,15.875,23.375,Lower Bighorn,con-dry
+2095,"Middle of the Road
+(SSP2-4.5)",33.575,14.2,20.875,Lower Bighorn,con-dry
+2095,"High Emissions
+(SSP3-7.0)",43.6,13.425,24,Lower Bighorn,con-dry
+2095,"Accelerating Emissions
+(SSP5-8.5)",49.25,14.9,28.625,Lower Bighorn,con-dry
+2096,"Moderating Emissions
+(SSP1-2.6)",34.225,14.55,23.875,Lower Bighorn,con-dry
+2096,"Middle of the Road
+(SSP2-4.5)",36.5,20.2,25.75,Lower Bighorn,con-dry
+2096,"High Emissions
+(SSP3-7.0)",34.05,16.075,21,Lower Bighorn,con-dry
+2096,"Accelerating Emissions
+(SSP5-8.5)",57.55,12.4,25,Lower Bighorn,con-dry
+2097,"Moderating Emissions
+(SSP1-2.6)",32.075,14.2,23.125,Lower Bighorn,con-dry
+2097,"Middle of the Road
+(SSP2-4.5)",29.775,12,21.375,Lower Bighorn,con-dry
+2097,"High Emissions
+(SSP3-7.0)",27.45,15.775,22.875,Lower Bighorn,con-dry
+2097,"Accelerating Emissions
+(SSP5-8.5)",47.775,16.825,25.625,Lower Bighorn,con-dry
+2098,"Moderating Emissions
+(SSP1-2.6)",31.975,19.5,22,Lower Bighorn,con-dry
+2098,"Middle of the Road
+(SSP2-4.5)",31.45,14.975,24.5,Lower Bighorn,con-dry
+2098,"High Emissions
+(SSP3-7.0)",20.9,14.5,17.75,Lower Bighorn,con-dry
+2098,"Accelerating Emissions
+(SSP5-8.5)",49.975,14.475,21.625,Lower Bighorn,con-dry
+2099,"Moderating Emissions
+(SSP1-2.6)",32.525,14.525,25.25,Lower Bighorn,con-dry
+2099,"Middle of the Road
+(SSP2-4.5)",41,16.325,20.5,Lower Bighorn,con-dry
+2099,"High Emissions
+(SSP3-7.0)",35.35,17.375,19.25,Lower Bighorn,con-dry
+2099,"Accelerating Emissions
+(SSP5-8.5)",40.075,15.4,22.375,Lower Bighorn,con-dry
+2100,"Moderating Emissions
+(SSP1-2.6)",24.8,14.475,19.25,Lower Bighorn,con-dry
+2100,"Middle of the Road
+(SSP2-4.5)",32.175,15.425,18.5,Lower Bighorn,con-dry
+2100,"High Emissions
+(SSP3-7.0)",53.55,15.8,25.625,Lower Bighorn,con-dry
+2100,"Accelerating Emissions
+(SSP5-8.5)",45.6,13.425,25.125,Lower Bighorn,con-dry

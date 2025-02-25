@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2848.816,2389.521,2638.488,Box Elder,gdd
+1951,Historical Emissions,2786.593,2367.917,2683.242,Box Elder,gdd
+1952,Historical Emissions,2794.601,2249.406,2503.437,Box Elder,gdd
+1953,Historical Emissions,2736.457,2228.776,2473.251,Box Elder,gdd
+1954,Historical Emissions,2705.205,1989.619,2365.566,Box Elder,gdd
+1955,Historical Emissions,2893.903,2272.016,2433.766,Box Elder,gdd
+1956,Historical Emissions,2854.085,2199.271,2606.35,Box Elder,gdd
+1957,Historical Emissions,2921.165,2116.354,2495.346,Box Elder,gdd
+1958,Historical Emissions,2575.348,2177.185,2420.757,Box Elder,gdd
+1959,Historical Emissions,2563.233,2165.194,2256.339,Box Elder,gdd
+1960,Historical Emissions,2619.174,2344.095,2458.612,Box Elder,gdd
+1961,Historical Emissions,2572.816,2271.923,2493.611,Box Elder,gdd
+1962,Historical Emissions,2611.538,2117.126,2457.851,Box Elder,gdd
+1963,Historical Emissions,2440.687,2103.588,2293.777,Box Elder,gdd
+1964,Historical Emissions,2640.453,2212.45,2467.027,Box Elder,gdd
+1965,Historical Emissions,2680.374,2150.261,2552.311,Box Elder,gdd
+1966,Historical Emissions,2635.537,2104.585,2320.888,Box Elder,gdd
+1967,Historical Emissions,2637.774,2240.233,2356.887,Box Elder,gdd
+1968,Historical Emissions,2483.057,2117.842,2286.594,Box Elder,gdd
+1969,Historical Emissions,2591.015,2000.387,2402.66,Box Elder,gdd
+1970,Historical Emissions,2564.749,2219.13,2373.009,Box Elder,gdd
+1971,Historical Emissions,2889.26,2257.202,2522.621,Box Elder,gdd
+1972,Historical Emissions,2662.923,2193.948,2467.815,Box Elder,gdd
+1973,Historical Emissions,2718.438,2124.51,2227.711,Box Elder,gdd
+1974,Historical Emissions,2682.802,1992.932,2489.527,Box Elder,gdd
+1975,Historical Emissions,2652.498,2263.676,2490.227,Box Elder,gdd
+1976,Historical Emissions,2558.94,2271.798,2374.813,Box Elder,gdd
+1977,Historical Emissions,2913.957,2248.461,2408.835,Box Elder,gdd
+1978,Historical Emissions,2664.61,2254.254,2372.665,Box Elder,gdd
+1979,Historical Emissions,2704.805,2241.98,2468.553,Box Elder,gdd
+1980,Historical Emissions,2736.246,2204.544,2572.268,Box Elder,gdd
+1981,Historical Emissions,2728.458,2253.554,2479.67,Box Elder,gdd
+1982,Historical Emissions,2692.141,2313.977,2518.217,Box Elder,gdd
+1983,Historical Emissions,2564.057,2293.996,2343.69,Box Elder,gdd
+1984,Historical Emissions,2689.319,2143.449,2429.308,Box Elder,gdd
+1985,Historical Emissions,2779.645,2375.245,2591.787,Box Elder,gdd
+1986,Historical Emissions,2482.241,2149.921,2358.464,Box Elder,gdd
+1987,Historical Emissions,2689.849,2121.821,2338.251,Box Elder,gdd
+1988,Historical Emissions,2617.014,2148.768,2407.425,Box Elder,gdd
+1989,Historical Emissions,2770.186,2294.674,2545.583,Box Elder,gdd
+1990,Historical Emissions,3011.78,2352.675,2509.229,Box Elder,gdd
+1991,Historical Emissions,2747.252,2165.067,2549.637,Box Elder,gdd
+1992,Historical Emissions,2489.176,2169.994,2249.384,Box Elder,gdd
+1993,Historical Emissions,2577.266,2241.591,2337.001,Box Elder,gdd
+1994,Historical Emissions,2968.244,2201.673,2409.634,Box Elder,gdd
+1995,Historical Emissions,2880.609,2401.583,2503.363,Box Elder,gdd
+1996,Historical Emissions,3060.629,2537.907,2732.816,Box Elder,gdd
+1997,Historical Emissions,2743.48,2347.303,2595.894,Box Elder,gdd
+1998,Historical Emissions,2840.196,2366.75,2560.995,Box Elder,gdd
+1999,Historical Emissions,2716.148,2277.378,2668.385,Box Elder,gdd
+2000,Historical Emissions,2864.062,2344.762,2626.528,Box Elder,gdd
+2001,Historical Emissions,2883.354,2287.3,2681.692,Box Elder,gdd
+2002,Historical Emissions,2992.218,2488.268,2679.306,Box Elder,gdd
+2003,Historical Emissions,2920.996,2497.845,2650.018,Box Elder,gdd
+2004,Historical Emissions,3011.917,2618.846,2904.359,Box Elder,gdd
+2005,Historical Emissions,3024.064,2619.175,2818.618,Box Elder,gdd
+2006,Historical Emissions,2866.369,2436.284,2736.216,Box Elder,gdd
+2007,Historical Emissions,2824.098,2569.67,2689.183,Box Elder,gdd
+2008,Historical Emissions,2966.62,2534.317,2739.424,Box Elder,gdd
+2009,Historical Emissions,2816.38,2447.539,2578.007,Box Elder,gdd
+2010,Historical Emissions,2862.781,2521.745,2716.289,Box Elder,gdd
+2011,Historical Emissions,2911.717,2524.606,2762.775,Box Elder,gdd
+2012,Historical Emissions,2922.378,2725.638,2856.059,Box Elder,gdd
+2013,Historical Emissions,3212.107,2688.493,2987.865,Box Elder,gdd
+2014,Historical Emissions,3163.723,2606.888,2773.57,Box Elder,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",3227.364,2660.509,2946.049,Box Elder,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",3108.892,2500.529,2811.259,Box Elder,gdd
+2015,"High Emissions
+(SSP3-7.0)",3074.161,2517.042,2890.746,Box Elder,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",2989.448,2537.227,2797.192,Box Elder,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",3018.536,2750.957,2939.523,Box Elder,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",3001.223,2552.187,2711.665,Box Elder,gdd
+2016,"High Emissions
+(SSP3-7.0)",3258.082,2610.005,3014.045,Box Elder,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",3008.959,2558.542,2784.418,Box Elder,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",2965.045,2580.566,2745.042,Box Elder,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",3143.751,2541.761,2861.607,Box Elder,gdd
+2017,"High Emissions
+(SSP3-7.0)",2948.731,2591.34,2843.874,Box Elder,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",3130.1,2680.873,2950.713,Box Elder,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",2954.839,2515.878,2776.642,Box Elder,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",3082.02,2614.61,2924.564,Box Elder,gdd
+2018,"High Emissions
+(SSP3-7.0)",2976.112,2435.803,2788.868,Box Elder,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",2946.492,2552.737,2755.712,Box Elder,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",3348.483,2780.725,3037.667,Box Elder,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",3165.778,2569.399,2905.637,Box Elder,gdd
+2019,"High Emissions
+(SSP3-7.0)",3205.542,2600.765,2808.718,Box Elder,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",3338.271,2697.85,2851.198,Box Elder,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",3238.288,2604.409,2719.711,Box Elder,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",3114.322,2602.939,2853.955,Box Elder,gdd
+2020,"High Emissions
+(SSP3-7.0)",3057.943,2571.969,2758.511,Box Elder,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",3124.102,2639.853,2878.33,Box Elder,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",3209.505,2670.663,2936.324,Box Elder,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",3269.877,2537.407,2890.453,Box Elder,gdd
+2021,"High Emissions
+(SSP3-7.0)",3219.004,2583.413,3072.17,Box Elder,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",3084.319,2637.733,2804.119,Box Elder,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",3060.995,2719.241,2968.898,Box Elder,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",3052.433,2661.922,2976.402,Box Elder,gdd
+2022,"High Emissions
+(SSP3-7.0)",3021.121,2575.904,2903.474,Box Elder,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",3291.359,2682.986,3119.443,Box Elder,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",2966.248,2683.266,2822.011,Box Elder,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",3384.66,2586.695,2910.904,Box Elder,gdd
+2023,"High Emissions
+(SSP3-7.0)",3146.599,2671.139,2885.426,Box Elder,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",2986.953,2402.8,2544.679,Box Elder,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",3153.43,2730.797,2894.501,Box Elder,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",3251.822,2604.648,2891.183,Box Elder,gdd
+2024,"High Emissions
+(SSP3-7.0)",3221.68,2732.329,3068.973,Box Elder,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",3229.498,2603.76,2818.416,Box Elder,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",3237.521,2820.823,2926.135,Box Elder,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",3211.414,2542.427,2708.915,Box Elder,gdd
+2025,"High Emissions
+(SSP3-7.0)",3301.19,2864.659,2929.199,Box Elder,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",3304.78,2582.372,3099.694,Box Elder,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",3174.357,2552.618,2859.02,Box Elder,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",3300.127,2693.615,2968.357,Box Elder,gdd
+2026,"High Emissions
+(SSP3-7.0)",3031.493,2639.395,2763.702,Box Elder,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",3262.315,2630.092,2765.584,Box Elder,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",3459.91,2627.126,2836.877,Box Elder,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",3237.35,2556.837,3021.433,Box Elder,gdd
+2027,"High Emissions
+(SSP3-7.0)",3306.951,2654.047,2898.509,Box Elder,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",3229.84,2743.841,3116.393,Box Elder,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",3049.009,2732.634,2786.254,Box Elder,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",2986.936,2638.742,2740.798,Box Elder,gdd
+2028,"High Emissions
+(SSP3-7.0)",3088.254,2755.99,2923.384,Box Elder,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",3116.391,2686.275,3012.785,Box Elder,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",3444.614,2942.789,3174.292,Box Elder,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",3164.709,2598.795,2854.772,Box Elder,gdd
+2029,"High Emissions
+(SSP3-7.0)",3197.387,2563.402,2862.792,Box Elder,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",3333.841,2825.608,3026.187,Box Elder,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",3308.146,2779.923,2907.807,Box Elder,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",3581.074,2794.411,3077.937,Box Elder,gdd
+2030,"High Emissions
+(SSP3-7.0)",3322.6,2681.469,2994.754,Box Elder,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",3426.617,2648.276,2895.785,Box Elder,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",3200.854,2867.852,2998.652,Box Elder,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",3291.312,2750.625,2948.557,Box Elder,gdd
+2031,"High Emissions
+(SSP3-7.0)",3321.284,2731.407,3083.952,Box Elder,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",3408.402,2965.284,3055.475,Box Elder,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",3126.471,2614.972,3023.687,Box Elder,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",3178.284,2702.74,2973.021,Box Elder,gdd
+2032,"High Emissions
+(SSP3-7.0)",3421.685,2701.336,3079.084,Box Elder,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",3286.177,2530.251,2938.622,Box Elder,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",3206.812,2724.097,2872.132,Box Elder,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",3464.757,2699.5,3133.15,Box Elder,gdd
+2033,"High Emissions
+(SSP3-7.0)",3201.773,2656.918,2913.757,Box Elder,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",3260.299,2841.517,3087.688,Box Elder,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",3241.653,2643.327,3061.726,Box Elder,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",3342.342,2732.964,2947.847,Box Elder,gdd
+2034,"High Emissions
+(SSP3-7.0)",3401.238,2713.894,3184.408,Box Elder,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",3376.228,2591.205,3021.474,Box Elder,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",3468.63,2852.189,3145.972,Box Elder,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",3417.92,2780.221,2897.701,Box Elder,gdd
+2035,"High Emissions
+(SSP3-7.0)",3364.293,2467.983,2920.287,Box Elder,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",3373.022,2783.15,3112.934,Box Elder,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",3273.91,2763.894,2988.998,Box Elder,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",3143.398,2745.153,2977.726,Box Elder,gdd
+2036,"High Emissions
+(SSP3-7.0)",3469.017,2744.847,3041.484,Box Elder,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",3333.449,2547.206,3173.165,Box Elder,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",3359.151,2839.695,3188.963,Box Elder,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",3366.073,2776.872,2953.679,Box Elder,gdd
+2037,"High Emissions
+(SSP3-7.0)",3268.979,2522.079,2855.752,Box Elder,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",3329.89,2705.338,3168.794,Box Elder,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",3297.244,2789.361,2982.423,Box Elder,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",3163.41,2733.382,2971.186,Box Elder,gdd
+2038,"High Emissions
+(SSP3-7.0)",3303.738,2841.707,3175.982,Box Elder,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",3628.646,2762.753,3058.04,Box Elder,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",3296.251,2578.248,2963.494,Box Elder,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",3208.48,2706.676,3064.905,Box Elder,gdd
+2039,"High Emissions
+(SSP3-7.0)",3348.594,3005.364,3224.224,Box Elder,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",3499.725,2728.69,2931.916,Box Elder,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",3306.22,2649.334,3077.626,Box Elder,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",3455.426,2752.327,3213.817,Box Elder,gdd
+2040,"High Emissions
+(SSP3-7.0)",3250.59,2899.791,3150.774,Box Elder,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",3773.531,2777.442,3358.899,Box Elder,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",3268.257,2639.621,2885.783,Box Elder,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",3208.558,2785.418,3131.84,Box Elder,gdd
+2041,"High Emissions
+(SSP3-7.0)",3455.64,2736.551,2945.788,Box Elder,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",3342.729,2761.176,3100.955,Box Elder,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",3530.752,2643.367,2932.334,Box Elder,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",3392.254,2615.057,2973.273,Box Elder,gdd
+2042,"High Emissions
+(SSP3-7.0)",3174.814,2879.933,3034.047,Box Elder,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",3610.598,2922.433,3252.032,Box Elder,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",3217.106,2860.7,2994.919,Box Elder,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",3333.098,2756.927,3121.147,Box Elder,gdd
+2043,"High Emissions
+(SSP3-7.0)",3224.574,2772.977,2992.952,Box Elder,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",3382.955,2960.308,3104.114,Box Elder,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",3318.564,2869.954,3119.482,Box Elder,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",3547.843,2905.236,3079.986,Box Elder,gdd
+2044,"High Emissions
+(SSP3-7.0)",3301.806,3001.84,3137.58,Box Elder,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",3470.841,2970.752,3195.923,Box Elder,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",3201.634,2759.197,2962.097,Box Elder,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",3436.904,2825.346,3073.071,Box Elder,gdd
+2045,"High Emissions
+(SSP3-7.0)",3393.515,2843.949,3179.609,Box Elder,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",3396.268,2906.84,3213.931,Box Elder,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",3619.36,2848.331,3153.227,Box Elder,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",3352.931,2709.282,3069.16,Box Elder,gdd
+2046,"High Emissions
+(SSP3-7.0)",3380.074,3069.642,3232.545,Box Elder,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",3517.676,2874.976,3043.837,Box Elder,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",3475.168,2864.396,3191.567,Box Elder,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",3313.388,2766.668,3061.983,Box Elder,gdd
+2047,"High Emissions
+(SSP3-7.0)",3291.205,2911.106,3107.856,Box Elder,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",3660.409,2862.301,3457.147,Box Elder,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",3220.356,2910.537,3038.878,Box Elder,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",3520.518,2842.944,3233.446,Box Elder,gdd
+2048,"High Emissions
+(SSP3-7.0)",3627.356,2712.388,3153.568,Box Elder,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",3950.25,2864.505,3418.818,Box Elder,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",3285.53,2857.857,3105.436,Box Elder,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",3463.674,2850.645,3255.783,Box Elder,gdd
+2049,"High Emissions
+(SSP3-7.0)",3245.455,2928.223,3131.057,Box Elder,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",3546.959,2918.604,3332.47,Box Elder,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",3333.441,2820.87,3023.92,Box Elder,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",3661.285,2869.055,3373.958,Box Elder,gdd
+2050,"High Emissions
+(SSP3-7.0)",3471.664,2802.533,3281.465,Box Elder,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",3658.953,2984.765,3199.678,Box Elder,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",3360.247,2758.783,3175.763,Box Elder,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",3597.56,3015.135,3180.959,Box Elder,gdd
+2051,"High Emissions
+(SSP3-7.0)",3468.705,2949.955,3223.092,Box Elder,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",3558.063,2951.783,3118.437,Box Elder,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",3309.643,3009.931,3080.931,Box Elder,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",3340.16,2844.73,3141.604,Box Elder,gdd
+2052,"High Emissions
+(SSP3-7.0)",3440.056,2763.466,3133.9,Box Elder,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",3502.998,3118.575,3347.059,Box Elder,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",3386.187,2748.857,3176.338,Box Elder,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",3396.155,2801.27,3252.554,Box Elder,gdd
+2053,"High Emissions
+(SSP3-7.0)",3643.996,3114.083,3381.17,Box Elder,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",3768.841,2927.352,3431.154,Box Elder,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",3451.054,2815.653,3267.815,Box Elder,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",3424.654,2744.666,3000.072,Box Elder,gdd
+2054,"High Emissions
+(SSP3-7.0)",3535.549,3019.786,3076.217,Box Elder,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",3639.586,3051.38,3369.001,Box Elder,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",3344.323,2963.062,3251.401,Box Elder,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",3613.235,2702.023,3148.267,Box Elder,gdd
+2055,"High Emissions
+(SSP3-7.0)",3583.719,3005.849,3275.163,Box Elder,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",3730.1,2929.275,3597.277,Box Elder,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",3317.217,2786.35,3197.266,Box Elder,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",3431.377,2911.799,3283.235,Box Elder,gdd
+2056,"High Emissions
+(SSP3-7.0)",3779.88,2678.423,3249.611,Box Elder,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",3659.293,3128.275,3463.747,Box Elder,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",3403.788,2655.665,3196.707,Box Elder,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",3632.041,3074.023,3350.623,Box Elder,gdd
+2057,"High Emissions
+(SSP3-7.0)",3642.338,2979.446,3055.845,Box Elder,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",3688.017,3014.333,3220.576,Box Elder,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",3228.125,2708.61,3120.782,Box Elder,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",3624.269,3057.378,3359.759,Box Elder,gdd
+2058,"High Emissions
+(SSP3-7.0)",3535.278,2965.987,3197.585,Box Elder,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",3595.162,3003.327,3283.727,Box Elder,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",3394.882,2908.42,3240.575,Box Elder,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",3754.218,2941.11,3241.881,Box Elder,gdd
+2059,"High Emissions
+(SSP3-7.0)",3869.659,3083.51,3371.462,Box Elder,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",3818.83,3285.321,3473.469,Box Elder,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",3285.772,2910.587,2982.847,Box Elder,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",3708.879,2958.833,3203.041,Box Elder,gdd
+2060,"High Emissions
+(SSP3-7.0)",3597.101,2970.527,3227.472,Box Elder,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",3638.591,3052.396,3494.797,Box Elder,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",3317.824,2710.518,3158.498,Box Elder,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",3645.842,2860.034,3151.624,Box Elder,gdd
+2061,"High Emissions
+(SSP3-7.0)",3650.769,3119.168,3293.875,Box Elder,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",3943.829,3394.653,3554.389,Box Elder,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",3544.757,2767.912,3126.078,Box Elder,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",3416.205,3057.894,3192.609,Box Elder,gdd
+2062,"High Emissions
+(SSP3-7.0)",3500.826,3074.904,3285.379,Box Elder,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",3883.583,3282.691,3468.04,Box Elder,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",3238.883,2931.315,3121.137,Box Elder,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",3351.13,2901.138,3039.019,Box Elder,gdd
+2063,"High Emissions
+(SSP3-7.0)",3628.172,3201.54,3396.161,Box Elder,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",3809.863,3191.161,3614.409,Box Elder,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",3561.208,2600.52,3047.325,Box Elder,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",3442.453,2853.007,3154.376,Box Elder,gdd
+2064,"High Emissions
+(SSP3-7.0)",3518.322,2998.622,3297.796,Box Elder,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",3765.634,3266.575,3432.003,Box Elder,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",3411.429,2544.291,2897.187,Box Elder,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",3532.458,2908.938,3196.963,Box Elder,gdd
+2065,"High Emissions
+(SSP3-7.0)",3588.551,3122.942,3381.794,Box Elder,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",4076.437,3383.554,3455.147,Box Elder,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",3608.759,2915.285,3071.989,Box Elder,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",3497.292,3000.148,3303.544,Box Elder,gdd
+2066,"High Emissions
+(SSP3-7.0)",3738.324,3139.29,3389.841,Box Elder,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",3959.224,3110.447,3759.717,Box Elder,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",3451.923,2987.865,3274.292,Box Elder,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",3553.851,2900.19,3268.119,Box Elder,gdd
+2067,"High Emissions
+(SSP3-7.0)",3979.552,3394.183,3486.775,Box Elder,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",4034.496,3129.571,3384.353,Box Elder,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",3565.077,2840.163,3095.938,Box Elder,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",3508.718,2828.739,3114.962,Box Elder,gdd
+2068,"High Emissions
+(SSP3-7.0)",3869.223,3105.931,3347.717,Box Elder,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",4009.176,3379.725,3549.562,Box Elder,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",3641.363,2901.691,3159.19,Box Elder,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",3448.181,2955.081,3293.629,Box Elder,gdd
+2069,"High Emissions
+(SSP3-7.0)",4096.155,3402.512,3504.761,Box Elder,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",4334.596,3231.912,3866.983,Box Elder,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",3281.268,2952.324,3160.772,Box Elder,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",3604.465,2891.378,3144.324,Box Elder,gdd
+2070,"High Emissions
+(SSP3-7.0)",3978.618,3360.849,3762.559,Box Elder,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",4203.607,3409.781,3645.493,Box Elder,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",3726.381,2789.737,3197.883,Box Elder,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",3374.357,3231.496,3343.667,Box Elder,gdd
+2071,"High Emissions
+(SSP3-7.0)",3794.003,3280.359,3634.275,Box Elder,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",4062.552,3385.974,3679.398,Box Elder,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",3601.631,3083.984,3213.071,Box Elder,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",3542.958,2945.873,3154.02,Box Elder,gdd
+2072,"High Emissions
+(SSP3-7.0)",3794.891,3015.826,3465.553,Box Elder,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",4108.3,3339.717,3532.476,Box Elder,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",3367.731,2809.087,3166.828,Box Elder,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",3540.623,2797.449,3279.412,Box Elder,gdd
+2073,"High Emissions
+(SSP3-7.0)",3713.637,3313.152,3567.374,Box Elder,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",4124.471,3251.602,3628.73,Box Elder,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",3508.885,2694.645,3060.888,Box Elder,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",3715.384,2971.815,3162.563,Box Elder,gdd
+2074,"High Emissions
+(SSP3-7.0)",3767.699,3158.646,3437.182,Box Elder,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",4376.437,3398.636,3630.811,Box Elder,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",3582.875,2679.961,3152.567,Box Elder,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",3707.329,2945.577,3161.261,Box Elder,gdd
+2075,"High Emissions
+(SSP3-7.0)",3954.183,3090.106,3361.327,Box Elder,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",4105.247,3430.293,3833.99,Box Elder,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",3384.471,2770.928,3057.213,Box Elder,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",3331.73,2904.04,3075.569,Box Elder,gdd
+2076,"High Emissions
+(SSP3-7.0)",4015.684,3403.125,3640.761,Box Elder,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",4350.462,3354.113,3759.567,Box Elder,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",3542.067,2865.15,3402.465,Box Elder,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",3626.312,3122.838,3422.957,Box Elder,gdd
+2077,"High Emissions
+(SSP3-7.0)",3848.861,3340.333,3543.501,Box Elder,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",4133.702,3512.812,3957.929,Box Elder,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",3505.35,2996.55,3183.748,Box Elder,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",3504.413,3006.021,3283.118,Box Elder,gdd
+2078,"High Emissions
+(SSP3-7.0)",4048.297,3166.674,3599.853,Box Elder,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",3832.554,3377.481,3503.735,Box Elder,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",3425.599,2969.865,3200.897,Box Elder,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",3483.532,3117.055,3237.982,Box Elder,gdd
+2079,"High Emissions
+(SSP3-7.0)",3818.551,3171.472,3421.291,Box Elder,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",4189.277,3438.609,3912.751,Box Elder,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",3263.464,2637.941,3009.831,Box Elder,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",3576.314,2885.811,3457.762,Box Elder,gdd
+2080,"High Emissions
+(SSP3-7.0)",3981.065,3302.683,3462.341,Box Elder,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",4117.654,3593.45,3937.771,Box Elder,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",3641.026,2683.927,3033.329,Box Elder,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",3644.867,2986.696,3288.307,Box Elder,gdd
+2081,"High Emissions
+(SSP3-7.0)",4169.535,3179.69,3460.576,Box Elder,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",4296.645,3642.685,3975.742,Box Elder,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",3586.939,2979.386,3387.159,Box Elder,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",3780.651,3001.491,3231.611,Box Elder,gdd
+2082,"High Emissions
+(SSP3-7.0)",4105.169,3223.62,3585.805,Box Elder,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",4290.119,3656.988,3907.874,Box Elder,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",3521.294,3029.303,3357.975,Box Elder,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",3646.447,3063.154,3468.203,Box Elder,gdd
+2083,"High Emissions
+(SSP3-7.0)",4045.417,2991.18,3675.237,Box Elder,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",4412.125,3482.318,3988.556,Box Elder,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",3612.952,2715.987,2984.343,Box Elder,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",3837.245,3089.001,3550.812,Box Elder,gdd
+2084,"High Emissions
+(SSP3-7.0)",4318.851,3402.366,3822.165,Box Elder,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",4553.234,3484.084,3962.299,Box Elder,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",3452.169,2755.348,2983.243,Box Elder,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",3616.799,2974.104,3327.933,Box Elder,gdd
+2085,"High Emissions
+(SSP3-7.0)",3988.607,3300.49,3625.077,Box Elder,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",4231.917,3337.216,4006.987,Box Elder,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",3426.1,3125.096,3237.149,Box Elder,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",3573.71,3265.113,3417.826,Box Elder,gdd
+2086,"High Emissions
+(SSP3-7.0)",4123.362,3342.764,3735.911,Box Elder,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",4410.003,3532.009,4125.02,Box Elder,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",3273.477,2793.972,3025.129,Box Elder,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",3795.316,3257.451,3580.426,Box Elder,gdd
+2087,"High Emissions
+(SSP3-7.0)",4233.171,3306.623,3668.707,Box Elder,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",4537.931,3545.576,3604.861,Box Elder,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",3446.267,2794.46,2953.854,Box Elder,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",3877.415,3332.736,3499.599,Box Elder,gdd
+2088,"High Emissions
+(SSP3-7.0)",4192.233,3437.977,3733.799,Box Elder,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",4450.814,3669.227,4119.692,Box Elder,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",3413.282,2774.401,2980.113,Box Elder,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",3817.538,3096.955,3421.615,Box Elder,gdd
+2089,"High Emissions
+(SSP3-7.0)",4211.081,3331.347,3952.634,Box Elder,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",4457.087,3790.066,4301.942,Box Elder,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",3424.13,2944.697,3140.353,Box Elder,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",3586.344,2890.816,3441.351,Box Elder,gdd
+2090,"High Emissions
+(SSP3-7.0)",4232.493,3612.909,3902.65,Box Elder,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",4544.27,3797.841,4246.776,Box Elder,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",3406.686,2821.159,3083.227,Box Elder,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",3528.116,3038.63,3480.263,Box Elder,gdd
+2091,"High Emissions
+(SSP3-7.0)",4207.968,3703.101,3938.553,Box Elder,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",4671.334,3582.025,4123.638,Box Elder,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",3445.102,2832.804,3279.099,Box Elder,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",3862.386,3034.068,3668.559,Box Elder,gdd
+2092,"High Emissions
+(SSP3-7.0)",4045.003,3440.19,3830.87,Box Elder,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",4677.993,3771.172,4326.247,Box Elder,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",3523.997,2831.764,3047.879,Box Elder,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",3593.95,2852.794,3392.474,Box Elder,gdd
+2093,"High Emissions
+(SSP3-7.0)",4426.148,3475.344,3596.42,Box Elder,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",4737.459,3928.913,4175.609,Box Elder,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",3469.995,2775.871,3046.391,Box Elder,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",3905.13,2907.154,3610.817,Box Elder,gdd
+2094,"High Emissions
+(SSP3-7.0)",4390.476,3617.725,3907.606,Box Elder,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",4711.711,3760.611,4069.908,Box Elder,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",3495.849,2983.963,3176.082,Box Elder,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",3953.842,3366.792,3682.677,Box Elder,gdd
+2095,"High Emissions
+(SSP3-7.0)",4306.378,3553.271,3905.231,Box Elder,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",4663.997,3706.65,4109.705,Box Elder,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",3319.49,2814.98,3165.92,Box Elder,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",3846.165,3303.151,3577.411,Box Elder,gdd
+2096,"High Emissions
+(SSP3-7.0)",4301.293,3659.076,3882.512,Box Elder,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",4749.844,3817.102,4174.882,Box Elder,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",3747.436,2763.343,3073.653,Box Elder,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",3936.713,3171.242,3493.112,Box Elder,gdd
+2097,"High Emissions
+(SSP3-7.0)",4669.961,3298.568,3874.896,Box Elder,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",5145.188,3734.147,4244.6,Box Elder,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",3410.982,2879.312,3024.531,Box Elder,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",3728.887,3139.533,3472.505,Box Elder,gdd
+2098,"High Emissions
+(SSP3-7.0)",4288.835,3570.325,3927.754,Box Elder,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",4674.928,3952.891,4271.558,Box Elder,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",3370.234,2736.835,3151.97,Box Elder,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",3795.975,3016.177,3364.904,Box Elder,gdd
+2099,"High Emissions
+(SSP3-7.0)",4512.296,3569.865,3797.825,Box Elder,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",4892.828,3859.884,4393.598,Box Elder,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",3423.867,2602.433,2957.741,Box Elder,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",3820.951,3038.752,3500.101,Box Elder,gdd
+2100,"High Emissions
+(SSP3-7.0)",4109.887,3539.024,3955.555,Box Elder,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",4877.177,3769.98,4156.05,Box Elder,gdd

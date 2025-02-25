@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),0.833,0,0,Upper North Fork Clearwater,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),0.833,0,0,Upper North Fork Clearwater,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),0.883,0,0.167,Upper North Fork Clearwater,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1,0,0.167,Upper North Fork Clearwater,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),0.833,0,0.084,Upper North Fork Clearwater,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),0.85,0,0.167,Upper North Fork Clearwater,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1,0,0.5,Upper North Fork Clearwater,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1,0,0.167,Upper North Fork Clearwater,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1,0,0.416,Upper North Fork Clearwater,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1,0,0.167,Upper North Fork Clearwater,con-wet

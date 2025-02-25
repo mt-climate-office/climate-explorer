@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,1.356,1.24,1.289,Flatwillow,penman
+1951,Historical Emissions,1.366,1.19,1.319,Flatwillow,penman
+1952,Historical Emissions,1.384,1.195,1.293,Flatwillow,penman
+1953,Historical Emissions,1.357,1.16,1.314,Flatwillow,penman
+1954,Historical Emissions,1.326,1.155,1.244,Flatwillow,penman
+1955,Historical Emissions,1.416,1.129,1.186,Flatwillow,penman
+1956,Historical Emissions,1.468,1.152,1.352,Flatwillow,penman
+1957,Historical Emissions,1.437,1.116,1.235,Flatwillow,penman
+1958,Historical Emissions,1.275,1.132,1.217,Flatwillow,penman
+1959,Historical Emissions,1.321,1.123,1.195,Flatwillow,penman
+1960,Historical Emissions,1.314,1.159,1.243,Flatwillow,penman
+1961,Historical Emissions,1.326,1.196,1.239,Flatwillow,penman
+1962,Historical Emissions,1.349,1.083,1.23,Flatwillow,penman
+1963,Historical Emissions,1.267,1.12,1.183,Flatwillow,penman
+1964,Historical Emissions,1.335,1.129,1.245,Flatwillow,penman
+1965,Historical Emissions,1.357,1.13,1.28,Flatwillow,penman
+1966,Historical Emissions,1.392,1.124,1.218,Flatwillow,penman
+1967,Historical Emissions,1.388,1.14,1.242,Flatwillow,penman
+1968,Historical Emissions,1.265,1.094,1.193,Flatwillow,penman
+1969,Historical Emissions,1.334,1.142,1.25,Flatwillow,penman
+1970,Historical Emissions,1.329,1.159,1.246,Flatwillow,penman
+1971,Historical Emissions,1.405,1.197,1.273,Flatwillow,penman
+1972,Historical Emissions,1.311,1.194,1.253,Flatwillow,penman
+1973,Historical Emissions,1.363,1.12,1.197,Flatwillow,penman
+1974,Historical Emissions,1.36,1.169,1.231,Flatwillow,penman
+1975,Historical Emissions,1.304,1.132,1.252,Flatwillow,penman
+1976,Historical Emissions,1.305,1.17,1.235,Flatwillow,penman
+1977,Historical Emissions,1.406,1.151,1.204,Flatwillow,penman
+1978,Historical Emissions,1.291,1.142,1.225,Flatwillow,penman
+1979,Historical Emissions,1.335,1.176,1.277,Flatwillow,penman
+1980,Historical Emissions,1.37,1.109,1.26,Flatwillow,penman
+1981,Historical Emissions,1.336,1.197,1.291,Flatwillow,penman
+1982,Historical Emissions,1.308,1.19,1.26,Flatwillow,penman
+1983,Historical Emissions,1.298,1.144,1.248,Flatwillow,penman
+1984,Historical Emissions,1.346,1.176,1.272,Flatwillow,penman
+1985,Historical Emissions,1.418,1.195,1.271,Flatwillow,penman
+1986,Historical Emissions,1.244,1.088,1.218,Flatwillow,penman
+1987,Historical Emissions,1.315,1.108,1.232,Flatwillow,penman
+1988,Historical Emissions,1.319,1.135,1.206,Flatwillow,penman
+1989,Historical Emissions,1.353,1.145,1.271,Flatwillow,penman
+1990,Historical Emissions,1.405,1.183,1.299,Flatwillow,penman
+1991,Historical Emissions,1.362,1.133,1.262,Flatwillow,penman
+1992,Historical Emissions,1.354,1.174,1.194,Flatwillow,penman
+1993,Historical Emissions,1.325,1.169,1.185,Flatwillow,penman
+1994,Historical Emissions,1.422,1.173,1.233,Flatwillow,penman
+1995,Historical Emissions,1.463,1.203,1.289,Flatwillow,penman
+1996,Historical Emissions,1.499,1.288,1.313,Flatwillow,penman
+1997,Historical Emissions,1.352,1.199,1.287,Flatwillow,penman
+1998,Historical Emissions,1.373,1.161,1.255,Flatwillow,penman
+1999,Historical Emissions,1.323,1.148,1.294,Flatwillow,penman
+2000,Historical Emissions,1.374,1.189,1.303,Flatwillow,penman
+2001,Historical Emissions,1.331,1.171,1.297,Flatwillow,penman
+2002,Historical Emissions,1.399,1.205,1.284,Flatwillow,penman
+2003,Historical Emissions,1.416,1.235,1.322,Flatwillow,penman
+2004,Historical Emissions,1.472,1.229,1.298,Flatwillow,penman
+2005,Historical Emissions,1.437,1.277,1.359,Flatwillow,penman
+2006,Historical Emissions,1.386,1.166,1.285,Flatwillow,penman
+2007,Historical Emissions,1.359,1.212,1.32,Flatwillow,penman
+2008,Historical Emissions,1.444,1.221,1.301,Flatwillow,penman
+2009,Historical Emissions,1.347,1.187,1.256,Flatwillow,penman
+2010,Historical Emissions,1.397,1.209,1.343,Flatwillow,penman
+2011,Historical Emissions,1.398,1.21,1.307,Flatwillow,penman
+2012,Historical Emissions,1.406,1.297,1.365,Flatwillow,penman
+2013,Historical Emissions,1.453,1.254,1.383,Flatwillow,penman
+2014,Historical Emissions,1.45,1.292,1.361,Flatwillow,penman
+2015,"Moderating Emissions
+(SSP1-2.6)",1.454,1.227,1.401,Flatwillow,penman
+2015,"Middle of the Road
+(SSP2-4.5)",1.502,1.232,1.368,Flatwillow,penman
+2015,"High Emissions
+(SSP3-7.0)",1.41,1.268,1.349,Flatwillow,penman
+2015,"Accelerating Emissions
+(SSP5-8.5)",1.502,1.24,1.329,Flatwillow,penman
+2016,"Moderating Emissions
+(SSP1-2.6)",1.375,1.286,1.343,Flatwillow,penman
+2016,"Middle of the Road
+(SSP2-4.5)",1.393,1.2,1.302,Flatwillow,penman
+2016,"High Emissions
+(SSP3-7.0)",1.488,1.27,1.303,Flatwillow,penman
+2016,"Accelerating Emissions
+(SSP5-8.5)",1.445,1.206,1.27,Flatwillow,penman
+2017,"Moderating Emissions
+(SSP1-2.6)",1.417,1.252,1.285,Flatwillow,penman
+2017,"Middle of the Road
+(SSP2-4.5)",1.452,1.227,1.312,Flatwillow,penman
+2017,"High Emissions
+(SSP3-7.0)",1.387,1.258,1.328,Flatwillow,penman
+2017,"Accelerating Emissions
+(SSP5-8.5)",1.451,1.246,1.339,Flatwillow,penman
+2018,"Moderating Emissions
+(SSP1-2.6)",1.362,1.217,1.331,Flatwillow,penman
+2018,"Middle of the Road
+(SSP2-4.5)",1.421,1.255,1.317,Flatwillow,penman
+2018,"High Emissions
+(SSP3-7.0)",1.35,1.153,1.308,Flatwillow,penman
+2018,"Accelerating Emissions
+(SSP5-8.5)",1.426,1.166,1.303,Flatwillow,penman
+2019,"Moderating Emissions
+(SSP1-2.6)",1.462,1.312,1.38,Flatwillow,penman
+2019,"Middle of the Road
+(SSP2-4.5)",1.454,1.247,1.342,Flatwillow,penman
+2019,"High Emissions
+(SSP3-7.0)",1.424,1.239,1.324,Flatwillow,penman
+2019,"Accelerating Emissions
+(SSP5-8.5)",1.605,1.261,1.356,Flatwillow,penman
+2020,"Moderating Emissions
+(SSP1-2.6)",1.57,1.19,1.294,Flatwillow,penman
+2020,"Middle of the Road
+(SSP2-4.5)",1.506,1.225,1.399,Flatwillow,penman
+2020,"High Emissions
+(SSP3-7.0)",1.444,1.196,1.273,Flatwillow,penman
+2020,"Accelerating Emissions
+(SSP5-8.5)",1.423,1.248,1.312,Flatwillow,penman
+2021,"Moderating Emissions
+(SSP1-2.6)",1.488,1.243,1.346,Flatwillow,penman
+2021,"Middle of the Road
+(SSP2-4.5)",1.552,1.207,1.396,Flatwillow,penman
+2021,"High Emissions
+(SSP3-7.0)",1.49,1.24,1.368,Flatwillow,penman
+2021,"Accelerating Emissions
+(SSP5-8.5)",1.498,1.232,1.309,Flatwillow,penman
+2022,"Moderating Emissions
+(SSP1-2.6)",1.44,1.256,1.32,Flatwillow,penman
+2022,"Middle of the Road
+(SSP2-4.5)",1.45,1.151,1.425,Flatwillow,penman
+2022,"High Emissions
+(SSP3-7.0)",1.363,1.202,1.312,Flatwillow,penman
+2022,"Accelerating Emissions
+(SSP5-8.5)",1.54,1.219,1.375,Flatwillow,penman
+2023,"Moderating Emissions
+(SSP1-2.6)",1.425,1.261,1.307,Flatwillow,penman
+2023,"Middle of the Road
+(SSP2-4.5)",1.495,1.24,1.332,Flatwillow,penman
+2023,"High Emissions
+(SSP3-7.0)",1.439,1.227,1.365,Flatwillow,penman
+2023,"Accelerating Emissions
+(SSP5-8.5)",1.351,1.162,1.236,Flatwillow,penman
+2024,"Moderating Emissions
+(SSP1-2.6)",1.462,1.255,1.357,Flatwillow,penman
+2024,"Middle of the Road
+(SSP2-4.5)",1.441,1.24,1.336,Flatwillow,penman
+2024,"High Emissions
+(SSP3-7.0)",1.479,1.304,1.36,Flatwillow,penman
+2024,"Accelerating Emissions
+(SSP5-8.5)",1.41,1.229,1.277,Flatwillow,penman
+2025,"Moderating Emissions
+(SSP1-2.6)",1.421,1.298,1.383,Flatwillow,penman
+2025,"Middle of the Road
+(SSP2-4.5)",1.422,1.206,1.289,Flatwillow,penman
+2025,"High Emissions
+(SSP3-7.0)",1.546,1.331,1.372,Flatwillow,penman
+2025,"Accelerating Emissions
+(SSP5-8.5)",1.462,1.222,1.375,Flatwillow,penman
+2026,"Moderating Emissions
+(SSP1-2.6)",1.492,1.199,1.348,Flatwillow,penman
+2026,"Middle of the Road
+(SSP2-4.5)",1.46,1.274,1.378,Flatwillow,penman
+2026,"High Emissions
+(SSP3-7.0)",1.355,1.205,1.274,Flatwillow,penman
+2026,"Accelerating Emissions
+(SSP5-8.5)",1.473,1.217,1.289,Flatwillow,penman
+2027,"Moderating Emissions
+(SSP1-2.6)",1.489,1.25,1.302,Flatwillow,penman
+2027,"Middle of the Road
+(SSP2-4.5)",1.54,1.242,1.353,Flatwillow,penman
+2027,"High Emissions
+(SSP3-7.0)",1.472,1.255,1.31,Flatwillow,penman
+2027,"Accelerating Emissions
+(SSP5-8.5)",1.481,1.279,1.371,Flatwillow,penman
+2028,"Moderating Emissions
+(SSP1-2.6)",1.445,1.253,1.298,Flatwillow,penman
+2028,"Middle of the Road
+(SSP2-4.5)",1.343,1.248,1.282,Flatwillow,penman
+2028,"High Emissions
+(SSP3-7.0)",1.385,1.295,1.359,Flatwillow,penman
+2028,"Accelerating Emissions
+(SSP5-8.5)",1.493,1.246,1.316,Flatwillow,penman
+2029,"Moderating Emissions
+(SSP1-2.6)",1.524,1.325,1.422,Flatwillow,penman
+2029,"Middle of the Road
+(SSP2-4.5)",1.429,1.218,1.309,Flatwillow,penman
+2029,"High Emissions
+(SSP3-7.0)",1.443,1.219,1.328,Flatwillow,penman
+2029,"Accelerating Emissions
+(SSP5-8.5)",1.463,1.31,1.357,Flatwillow,penman
+2030,"Moderating Emissions
+(SSP1-2.6)",1.442,1.284,1.35,Flatwillow,penman
+2030,"Middle of the Road
+(SSP2-4.5)",1.578,1.285,1.439,Flatwillow,penman
+2030,"High Emissions
+(SSP3-7.0)",1.486,1.206,1.358,Flatwillow,penman
+2030,"Accelerating Emissions
+(SSP5-8.5)",1.551,1.256,1.379,Flatwillow,penman
+2031,"Moderating Emissions
+(SSP1-2.6)",1.468,1.259,1.387,Flatwillow,penman
+2031,"Middle of the Road
+(SSP2-4.5)",1.466,1.249,1.37,Flatwillow,penman
+2031,"High Emissions
+(SSP3-7.0)",1.569,1.284,1.419,Flatwillow,penman
+2031,"Accelerating Emissions
+(SSP5-8.5)",1.549,1.265,1.448,Flatwillow,penman
+2032,"Moderating Emissions
+(SSP1-2.6)",1.404,1.233,1.302,Flatwillow,penman
+2032,"Middle of the Road
+(SSP2-4.5)",1.463,1.246,1.311,Flatwillow,penman
+2032,"High Emissions
+(SSP3-7.0)",1.599,1.295,1.377,Flatwillow,penman
+2032,"Accelerating Emissions
+(SSP5-8.5)",1.546,1.19,1.361,Flatwillow,penman
+2033,"Moderating Emissions
+(SSP1-2.6)",1.457,1.3,1.383,Flatwillow,penman
+2033,"Middle of the Road
+(SSP2-4.5)",1.551,1.203,1.416,Flatwillow,penman
+2033,"High Emissions
+(SSP3-7.0)",1.444,1.225,1.324,Flatwillow,penman
+2033,"Accelerating Emissions
+(SSP5-8.5)",1.502,1.283,1.419,Flatwillow,penman
+2034,"Moderating Emissions
+(SSP1-2.6)",1.619,1.247,1.358,Flatwillow,penman
+2034,"Middle of the Road
+(SSP2-4.5)",1.419,1.271,1.358,Flatwillow,penman
+2034,"High Emissions
+(SSP3-7.0)",1.562,1.278,1.406,Flatwillow,penman
+2034,"Accelerating Emissions
+(SSP5-8.5)",1.497,1.221,1.367,Flatwillow,penman
+2035,"Moderating Emissions
+(SSP1-2.6)",1.613,1.293,1.374,Flatwillow,penman
+2035,"Middle of the Road
+(SSP2-4.5)",1.53,1.28,1.347,Flatwillow,penman
+2035,"High Emissions
+(SSP3-7.0)",1.466,1.186,1.374,Flatwillow,penman
+2035,"Accelerating Emissions
+(SSP5-8.5)",1.505,1.27,1.396,Flatwillow,penman
+2036,"Moderating Emissions
+(SSP1-2.6)",1.513,1.28,1.397,Flatwillow,penman
+2036,"Middle of the Road
+(SSP2-4.5)",1.472,1.285,1.348,Flatwillow,penman
+2036,"High Emissions
+(SSP3-7.0)",1.501,1.23,1.302,Flatwillow,penman
+2036,"Accelerating Emissions
+(SSP5-8.5)",1.43,1.165,1.403,Flatwillow,penman
+2037,"Moderating Emissions
+(SSP1-2.6)",1.505,1.274,1.406,Flatwillow,penman
+2037,"Middle of the Road
+(SSP2-4.5)",1.462,1.274,1.33,Flatwillow,penman
+2037,"High Emissions
+(SSP3-7.0)",1.426,1.19,1.235,Flatwillow,penman
+2037,"Accelerating Emissions
+(SSP5-8.5)",1.529,1.26,1.342,Flatwillow,penman
+2038,"Moderating Emissions
+(SSP1-2.6)",1.426,1.321,1.346,Flatwillow,penman
+2038,"Middle of the Road
+(SSP2-4.5)",1.436,1.274,1.34,Flatwillow,penman
+2038,"High Emissions
+(SSP3-7.0)",1.54,1.282,1.409,Flatwillow,penman
+2038,"Accelerating Emissions
+(SSP5-8.5)",1.498,1.239,1.354,Flatwillow,penman
+2039,"Moderating Emissions
+(SSP1-2.6)",1.51,1.235,1.345,Flatwillow,penman
+2039,"Middle of the Road
+(SSP2-4.5)",1.501,1.286,1.331,Flatwillow,penman
+2039,"High Emissions
+(SSP3-7.0)",1.495,1.282,1.425,Flatwillow,penman
+2039,"Accelerating Emissions
+(SSP5-8.5)",1.511,1.242,1.313,Flatwillow,penman
+2040,"Moderating Emissions
+(SSP1-2.6)",1.479,1.27,1.381,Flatwillow,penman
+2040,"Middle of the Road
+(SSP2-4.5)",1.533,1.336,1.421,Flatwillow,penman
+2040,"High Emissions
+(SSP3-7.0)",1.51,1.317,1.354,Flatwillow,penman
+2040,"Accelerating Emissions
+(SSP5-8.5)",1.575,1.284,1.447,Flatwillow,penman
+2041,"Moderating Emissions
+(SSP1-2.6)",1.518,1.224,1.327,Flatwillow,penman
+2041,"Middle of the Road
+(SSP2-4.5)",1.518,1.25,1.355,Flatwillow,penman
+2041,"High Emissions
+(SSP3-7.0)",1.448,1.243,1.367,Flatwillow,penman
+2041,"Accelerating Emissions
+(SSP5-8.5)",1.439,1.257,1.351,Flatwillow,penman
+2042,"Moderating Emissions
+(SSP1-2.6)",1.585,1.221,1.328,Flatwillow,penman
+2042,"Middle of the Road
+(SSP2-4.5)",1.485,1.243,1.37,Flatwillow,penman
+2042,"High Emissions
+(SSP3-7.0)",1.463,1.293,1.323,Flatwillow,penman
+2042,"Accelerating Emissions
+(SSP5-8.5)",1.564,1.318,1.408,Flatwillow,penman
+2043,"Moderating Emissions
+(SSP1-2.6)",1.454,1.23,1.325,Flatwillow,penman
+2043,"Middle of the Road
+(SSP2-4.5)",1.519,1.205,1.375,Flatwillow,penman
+2043,"High Emissions
+(SSP3-7.0)",1.466,1.246,1.339,Flatwillow,penman
+2043,"Accelerating Emissions
+(SSP5-8.5)",1.556,1.201,1.376,Flatwillow,penman
+2044,"Moderating Emissions
+(SSP1-2.6)",1.464,1.265,1.384,Flatwillow,penman
+2044,"Middle of the Road
+(SSP2-4.5)",1.598,1.304,1.362,Flatwillow,penman
+2044,"High Emissions
+(SSP3-7.0)",1.485,1.313,1.369,Flatwillow,penman
+2044,"Accelerating Emissions
+(SSP5-8.5)",1.483,1.263,1.404,Flatwillow,penman
+2045,"Moderating Emissions
+(SSP1-2.6)",1.439,1.222,1.326,Flatwillow,penman
+2045,"Middle of the Road
+(SSP2-4.5)",1.599,1.291,1.437,Flatwillow,penman
+2045,"High Emissions
+(SSP3-7.0)",1.54,1.248,1.356,Flatwillow,penman
+2045,"Accelerating Emissions
+(SSP5-8.5)",1.44,1.302,1.345,Flatwillow,penman
+2046,"Moderating Emissions
+(SSP1-2.6)",1.546,1.307,1.396,Flatwillow,penman
+2046,"Middle of the Road
+(SSP2-4.5)",1.436,1.245,1.353,Flatwillow,penman
+2046,"High Emissions
+(SSP3-7.0)",1.454,1.325,1.396,Flatwillow,penman
+2046,"Accelerating Emissions
+(SSP5-8.5)",1.562,1.2,1.394,Flatwillow,penman
+2047,"Moderating Emissions
+(SSP1-2.6)",1.5,1.285,1.399,Flatwillow,penman
+2047,"Middle of the Road
+(SSP2-4.5)",1.468,1.225,1.34,Flatwillow,penman
+2047,"High Emissions
+(SSP3-7.0)",1.428,1.273,1.374,Flatwillow,penman
+2047,"Accelerating Emissions
+(SSP5-8.5)",1.637,1.318,1.388,Flatwillow,penman
+2048,"Moderating Emissions
+(SSP1-2.6)",1.467,1.283,1.339,Flatwillow,penman
+2048,"Middle of the Road
+(SSP2-4.5)",1.51,1.248,1.39,Flatwillow,penman
+2048,"High Emissions
+(SSP3-7.0)",1.55,1.235,1.35,Flatwillow,penman
+2048,"Accelerating Emissions
+(SSP5-8.5)",1.739,1.249,1.521,Flatwillow,penman
+2049,"Moderating Emissions
+(SSP1-2.6)",1.506,1.294,1.407,Flatwillow,penman
+2049,"Middle of the Road
+(SSP2-4.5)",1.512,1.296,1.43,Flatwillow,penman
+2049,"High Emissions
+(SSP3-7.0)",1.423,1.314,1.344,Flatwillow,penman
+2049,"Accelerating Emissions
+(SSP5-8.5)",1.568,1.263,1.36,Flatwillow,penman
+2050,"Moderating Emissions
+(SSP1-2.6)",1.542,1.204,1.38,Flatwillow,penman
+2050,"Middle of the Road
+(SSP2-4.5)",1.552,1.289,1.478,Flatwillow,penman
+2050,"High Emissions
+(SSP3-7.0)",1.506,1.317,1.453,Flatwillow,penman
+2050,"Accelerating Emissions
+(SSP5-8.5)",1.554,1.314,1.392,Flatwillow,penman
+2051,"Moderating Emissions
+(SSP1-2.6)",1.513,1.312,1.379,Flatwillow,penman
+2051,"Middle of the Road
+(SSP2-4.5)",1.578,1.294,1.449,Flatwillow,penman
+2051,"High Emissions
+(SSP3-7.0)",1.441,1.351,1.397,Flatwillow,penman
+2051,"Accelerating Emissions
+(SSP5-8.5)",1.576,1.369,1.399,Flatwillow,penman
+2052,"Moderating Emissions
+(SSP1-2.6)",1.502,1.312,1.373,Flatwillow,penman
+2052,"Middle of the Road
+(SSP2-4.5)",1.49,1.283,1.384,Flatwillow,penman
+2052,"High Emissions
+(SSP3-7.0)",1.405,1.248,1.331,Flatwillow,penman
+2052,"Accelerating Emissions
+(SSP5-8.5)",1.525,1.352,1.395,Flatwillow,penman
+2053,"Moderating Emissions
+(SSP1-2.6)",1.584,1.215,1.323,Flatwillow,penman
+2053,"Middle of the Road
+(SSP2-4.5)",1.544,1.244,1.411,Flatwillow,penman
+2053,"High Emissions
+(SSP3-7.0)",1.55,1.366,1.438,Flatwillow,penman
+2053,"Accelerating Emissions
+(SSP5-8.5)",1.635,1.276,1.485,Flatwillow,penman
+2054,"Moderating Emissions
+(SSP1-2.6)",1.524,1.297,1.427,Flatwillow,penman
+2054,"Middle of the Road
+(SSP2-4.5)",1.547,1.18,1.401,Flatwillow,penman
+2054,"High Emissions
+(SSP3-7.0)",1.564,1.319,1.366,Flatwillow,penman
+2054,"Accelerating Emissions
+(SSP5-8.5)",1.54,1.366,1.452,Flatwillow,penman
+2055,"Moderating Emissions
+(SSP1-2.6)",1.535,1.34,1.441,Flatwillow,penman
+2055,"Middle of the Road
+(SSP2-4.5)",1.594,1.259,1.423,Flatwillow,penman
+2055,"High Emissions
+(SSP3-7.0)",1.59,1.36,1.412,Flatwillow,penman
+2055,"Accelerating Emissions
+(SSP5-8.5)",1.575,1.297,1.409,Flatwillow,penman
+2056,"Moderating Emissions
+(SSP1-2.6)",1.467,1.347,1.407,Flatwillow,penman
+2056,"Middle of the Road
+(SSP2-4.5)",1.459,1.32,1.367,Flatwillow,penman
+2056,"High Emissions
+(SSP3-7.0)",1.506,1.263,1.362,Flatwillow,penman
+2056,"Accelerating Emissions
+(SSP5-8.5)",1.489,1.361,1.428,Flatwillow,penman
+2057,"Moderating Emissions
+(SSP1-2.6)",1.47,1.253,1.321,Flatwillow,penman
+2057,"Middle of the Road
+(SSP2-4.5)",1.537,1.367,1.456,Flatwillow,penman
+2057,"High Emissions
+(SSP3-7.0)",1.467,1.264,1.354,Flatwillow,penman
+2057,"Accelerating Emissions
+(SSP5-8.5)",1.512,1.279,1.351,Flatwillow,penman
+2058,"Moderating Emissions
+(SSP1-2.6)",1.411,1.269,1.385,Flatwillow,penman
+2058,"Middle of the Road
+(SSP2-4.5)",1.589,1.342,1.488,Flatwillow,penman
+2058,"High Emissions
+(SSP3-7.0)",1.475,1.253,1.396,Flatwillow,penman
+2058,"Accelerating Emissions
+(SSP5-8.5)",1.468,1.301,1.394,Flatwillow,penman
+2059,"Moderating Emissions
+(SSP1-2.6)",1.51,1.264,1.453,Flatwillow,penman
+2059,"Middle of the Road
+(SSP2-4.5)",1.739,1.299,1.401,Flatwillow,penman
+2059,"High Emissions
+(SSP3-7.0)",1.584,1.363,1.418,Flatwillow,penman
+2059,"Accelerating Emissions
+(SSP5-8.5)",1.554,1.441,1.476,Flatwillow,penman
+2060,"Moderating Emissions
+(SSP1-2.6)",1.467,1.275,1.391,Flatwillow,penman
+2060,"Middle of the Road
+(SSP2-4.5)",1.645,1.306,1.365,Flatwillow,penman
+2060,"High Emissions
+(SSP3-7.0)",1.506,1.247,1.403,Flatwillow,penman
+2060,"Accelerating Emissions
+(SSP5-8.5)",1.546,1.33,1.374,Flatwillow,penman
+2061,"Moderating Emissions
+(SSP1-2.6)",1.46,1.247,1.386,Flatwillow,penman
+2061,"Middle of the Road
+(SSP2-4.5)",1.513,1.289,1.462,Flatwillow,penman
+2061,"High Emissions
+(SSP3-7.0)",1.52,1.303,1.413,Flatwillow,penman
+2061,"Accelerating Emissions
+(SSP5-8.5)",1.633,1.408,1.516,Flatwillow,penman
+2062,"Moderating Emissions
+(SSP1-2.6)",1.578,1.235,1.358,Flatwillow,penman
+2062,"Middle of the Road
+(SSP2-4.5)",1.496,1.305,1.4,Flatwillow,penman
+2062,"High Emissions
+(SSP3-7.0)",1.515,1.324,1.392,Flatwillow,penman
+2062,"Accelerating Emissions
+(SSP5-8.5)",1.638,1.297,1.448,Flatwillow,penman
+2063,"Moderating Emissions
+(SSP1-2.6)",1.522,1.307,1.406,Flatwillow,penman
+2063,"Middle of the Road
+(SSP2-4.5)",1.5,1.255,1.325,Flatwillow,penman
+2063,"High Emissions
+(SSP3-7.0)",1.556,1.356,1.457,Flatwillow,penman
+2063,"Accelerating Emissions
+(SSP5-8.5)",1.647,1.334,1.491,Flatwillow,penman
+2064,"Moderating Emissions
+(SSP1-2.6)",1.652,1.201,1.393,Flatwillow,penman
+2064,"Middle of the Road
+(SSP2-4.5)",1.525,1.265,1.433,Flatwillow,penman
+2064,"High Emissions
+(SSP3-7.0)",1.568,1.298,1.338,Flatwillow,penman
+2064,"Accelerating Emissions
+(SSP5-8.5)",1.57,1.394,1.506,Flatwillow,penman
+2065,"Moderating Emissions
+(SSP1-2.6)",1.505,1.203,1.339,Flatwillow,penman
+2065,"Middle of the Road
+(SSP2-4.5)",1.499,1.3,1.389,Flatwillow,penman
+2065,"High Emissions
+(SSP3-7.0)",1.518,1.395,1.476,Flatwillow,penman
+2065,"Accelerating Emissions
+(SSP5-8.5)",1.641,1.374,1.47,Flatwillow,penman
+2066,"Moderating Emissions
+(SSP1-2.6)",1.519,1.241,1.342,Flatwillow,penman
+2066,"Middle of the Road
+(SSP2-4.5)",1.523,1.293,1.418,Flatwillow,penman
+2066,"High Emissions
+(SSP3-7.0)",1.564,1.33,1.423,Flatwillow,penman
+2066,"Accelerating Emissions
+(SSP5-8.5)",1.674,1.308,1.524,Flatwillow,penman
+2067,"Moderating Emissions
+(SSP1-2.6)",1.535,1.315,1.389,Flatwillow,penman
+2067,"Middle of the Road
+(SSP2-4.5)",1.512,1.273,1.42,Flatwillow,penman
+2067,"High Emissions
+(SSP3-7.0)",1.802,1.358,1.471,Flatwillow,penman
+2067,"Accelerating Emissions
+(SSP5-8.5)",1.659,1.313,1.486,Flatwillow,penman
+2068,"Moderating Emissions
+(SSP1-2.6)",1.462,1.303,1.398,Flatwillow,penman
+2068,"Middle of the Road
+(SSP2-4.5)",1.548,1.234,1.391,Flatwillow,penman
+2068,"High Emissions
+(SSP3-7.0)",1.595,1.336,1.449,Flatwillow,penman
+2068,"Accelerating Emissions
+(SSP5-8.5)",1.732,1.314,1.467,Flatwillow,penman
+2069,"Moderating Emissions
+(SSP1-2.6)",1.549,1.302,1.409,Flatwillow,penman
+2069,"Middle of the Road
+(SSP2-4.5)",1.569,1.301,1.404,Flatwillow,penman
+2069,"High Emissions
+(SSP3-7.0)",1.74,1.414,1.587,Flatwillow,penman
+2069,"Accelerating Emissions
+(SSP5-8.5)",1.843,1.309,1.548,Flatwillow,penman
+2070,"Moderating Emissions
+(SSP1-2.6)",1.473,1.262,1.428,Flatwillow,penman
+2070,"Middle of the Road
+(SSP2-4.5)",1.556,1.308,1.37,Flatwillow,penman
+2070,"High Emissions
+(SSP3-7.0)",1.625,1.414,1.442,Flatwillow,penman
+2070,"Accelerating Emissions
+(SSP5-8.5)",1.642,1.384,1.509,Flatwillow,penman
+2071,"Moderating Emissions
+(SSP1-2.6)",1.68,1.25,1.426,Flatwillow,penman
+2071,"Middle of the Road
+(SSP2-4.5)",1.531,1.371,1.428,Flatwillow,penman
+2071,"High Emissions
+(SSP3-7.0)",1.63,1.325,1.533,Flatwillow,penman
+2071,"Accelerating Emissions
+(SSP5-8.5)",1.639,1.434,1.568,Flatwillow,penman
+2072,"Moderating Emissions
+(SSP1-2.6)",1.588,1.348,1.45,Flatwillow,penman
+2072,"Middle of the Road
+(SSP2-4.5)",1.486,1.263,1.414,Flatwillow,penman
+2072,"High Emissions
+(SSP3-7.0)",1.611,1.312,1.439,Flatwillow,penman
+2072,"Accelerating Emissions
+(SSP5-8.5)",1.577,1.335,1.523,Flatwillow,penman
+2073,"Moderating Emissions
+(SSP1-2.6)",1.484,1.307,1.386,Flatwillow,penman
+2073,"Middle of the Road
+(SSP2-4.5)",1.573,1.168,1.381,Flatwillow,penman
+2073,"High Emissions
+(SSP3-7.0)",1.608,1.412,1.459,Flatwillow,penman
+2073,"Accelerating Emissions
+(SSP5-8.5)",1.642,1.381,1.475,Flatwillow,penman
+2074,"Moderating Emissions
+(SSP1-2.6)",1.553,1.256,1.342,Flatwillow,penman
+2074,"Middle of the Road
+(SSP2-4.5)",1.583,1.274,1.414,Flatwillow,penman
+2074,"High Emissions
+(SSP3-7.0)",1.534,1.363,1.437,Flatwillow,penman
+2074,"Accelerating Emissions
+(SSP5-8.5)",1.799,1.396,1.453,Flatwillow,penman
+2075,"Moderating Emissions
+(SSP1-2.6)",1.577,1.24,1.361,Flatwillow,penman
+2075,"Middle of the Road
+(SSP2-4.5)",1.629,1.3,1.381,Flatwillow,penman
+2075,"High Emissions
+(SSP3-7.0)",1.628,1.289,1.45,Flatwillow,penman
+2075,"Accelerating Emissions
+(SSP5-8.5)",1.697,1.397,1.476,Flatwillow,penman
+2076,"Moderating Emissions
+(SSP1-2.6)",1.446,1.267,1.383,Flatwillow,penman
+2076,"Middle of the Road
+(SSP2-4.5)",1.42,1.28,1.326,Flatwillow,penman
+2076,"High Emissions
+(SSP3-7.0)",1.66,1.335,1.481,Flatwillow,penman
+2076,"Accelerating Emissions
+(SSP5-8.5)",1.784,1.359,1.583,Flatwillow,penman
+2077,"Moderating Emissions
+(SSP1-2.6)",1.565,1.259,1.409,Flatwillow,penman
+2077,"Middle of the Road
+(SSP2-4.5)",1.535,1.302,1.433,Flatwillow,penman
+2077,"High Emissions
+(SSP3-7.0)",1.593,1.349,1.435,Flatwillow,penman
+2077,"Accelerating Emissions
+(SSP5-8.5)",1.755,1.477,1.614,Flatwillow,penman
+2078,"Moderating Emissions
+(SSP1-2.6)",1.571,1.287,1.417,Flatwillow,penman
+2078,"Middle of the Road
+(SSP2-4.5)",1.528,1.327,1.425,Flatwillow,penman
+2078,"High Emissions
+(SSP3-7.0)",1.661,1.334,1.523,Flatwillow,penman
+2078,"Accelerating Emissions
+(SSP5-8.5)",1.57,1.326,1.461,Flatwillow,penman
+2079,"Moderating Emissions
+(SSP1-2.6)",1.534,1.369,1.411,Flatwillow,penman
+2079,"Middle of the Road
+(SSP2-4.5)",1.531,1.305,1.395,Flatwillow,penman
+2079,"High Emissions
+(SSP3-7.0)",1.643,1.297,1.38,Flatwillow,penman
+2079,"Accelerating Emissions
+(SSP5-8.5)",1.745,1.407,1.563,Flatwillow,penman
+2080,"Moderating Emissions
+(SSP1-2.6)",1.491,1.231,1.332,Flatwillow,penman
+2080,"Middle of the Road
+(SSP2-4.5)",1.592,1.265,1.434,Flatwillow,penman
+2080,"High Emissions
+(SSP3-7.0)",1.587,1.349,1.437,Flatwillow,penman
+2080,"Accelerating Emissions
+(SSP5-8.5)",1.701,1.376,1.588,Flatwillow,penman
+2081,"Moderating Emissions
+(SSP1-2.6)",1.592,1.259,1.399,Flatwillow,penman
+2081,"Middle of the Road
+(SSP2-4.5)",1.528,1.34,1.423,Flatwillow,penman
+2081,"High Emissions
+(SSP3-7.0)",1.765,1.284,1.43,Flatwillow,penman
+2081,"Accelerating Emissions
+(SSP5-8.5)",1.714,1.456,1.575,Flatwillow,penman
+2082,"Moderating Emissions
+(SSP1-2.6)",1.544,1.343,1.411,Flatwillow,penman
+2082,"Middle of the Road
+(SSP2-4.5)",1.599,1.301,1.354,Flatwillow,penman
+2082,"High Emissions
+(SSP3-7.0)",1.672,1.31,1.441,Flatwillow,penman
+2082,"Accelerating Emissions
+(SSP5-8.5)",1.741,1.475,1.545,Flatwillow,penman
+2083,"Moderating Emissions
+(SSP1-2.6)",1.615,1.341,1.506,Flatwillow,penman
+2083,"Middle of the Road
+(SSP2-4.5)",1.601,1.339,1.451,Flatwillow,penman
+2083,"High Emissions
+(SSP3-7.0)",1.612,1.319,1.509,Flatwillow,penman
+2083,"Accelerating Emissions
+(SSP5-8.5)",1.784,1.385,1.554,Flatwillow,penman
+2084,"Moderating Emissions
+(SSP1-2.6)",1.592,1.239,1.404,Flatwillow,penman
+2084,"Middle of the Road
+(SSP2-4.5)",1.648,1.331,1.502,Flatwillow,penman
+2084,"High Emissions
+(SSP3-7.0)",1.798,1.412,1.6,Flatwillow,penman
+2084,"Accelerating Emissions
+(SSP5-8.5)",1.78,1.37,1.563,Flatwillow,penman
+2085,"Moderating Emissions
+(SSP1-2.6)",1.602,1.249,1.345,Flatwillow,penman
+2085,"Middle of the Road
+(SSP2-4.5)",1.499,1.229,1.429,Flatwillow,penman
+2085,"High Emissions
+(SSP3-7.0)",1.616,1.407,1.446,Flatwillow,penman
+2085,"Accelerating Emissions
+(SSP5-8.5)",1.649,1.399,1.606,Flatwillow,penman
+2086,"Moderating Emissions
+(SSP1-2.6)",1.548,1.323,1.402,Flatwillow,penman
+2086,"Middle of the Road
+(SSP2-4.5)",1.559,1.301,1.414,Flatwillow,penman
+2086,"High Emissions
+(SSP3-7.0)",1.682,1.373,1.499,Flatwillow,penman
+2086,"Accelerating Emissions
+(SSP5-8.5)",1.706,1.407,1.533,Flatwillow,penman
+2087,"Moderating Emissions
+(SSP1-2.6)",1.47,1.218,1.376,Flatwillow,penman
+2087,"Middle of the Road
+(SSP2-4.5)",1.531,1.343,1.5,Flatwillow,penman
+2087,"High Emissions
+(SSP3-7.0)",1.79,1.314,1.517,Flatwillow,penman
+2087,"Accelerating Emissions
+(SSP5-8.5)",1.721,1.359,1.542,Flatwillow,penman
+2088,"Moderating Emissions
+(SSP1-2.6)",1.526,1.202,1.376,Flatwillow,penman
+2088,"Middle of the Road
+(SSP2-4.5)",1.712,1.334,1.54,Flatwillow,penman
+2088,"High Emissions
+(SSP3-7.0)",1.648,1.344,1.505,Flatwillow,penman
+2088,"Accelerating Emissions
+(SSP5-8.5)",1.781,1.447,1.546,Flatwillow,penman
+2089,"Moderating Emissions
+(SSP1-2.6)",1.485,1.276,1.388,Flatwillow,penman
+2089,"Middle of the Road
+(SSP2-4.5)",1.615,1.271,1.421,Flatwillow,penman
+2089,"High Emissions
+(SSP3-7.0)",1.748,1.382,1.613,Flatwillow,penman
+2089,"Accelerating Emissions
+(SSP5-8.5)",1.808,1.519,1.587,Flatwillow,penman
+2090,"Moderating Emissions
+(SSP1-2.6)",1.479,1.231,1.416,Flatwillow,penman
+2090,"Middle of the Road
+(SSP2-4.5)",1.532,1.302,1.408,Flatwillow,penman
+2090,"High Emissions
+(SSP3-7.0)",1.856,1.435,1.653,Flatwillow,penman
+2090,"Accelerating Emissions
+(SSP5-8.5)",1.731,1.471,1.652,Flatwillow,penman
+2091,"Moderating Emissions
+(SSP1-2.6)",1.437,1.272,1.406,Flatwillow,penman
+2091,"Middle of the Road
+(SSP2-4.5)",1.544,1.25,1.509,Flatwillow,penman
+2091,"High Emissions
+(SSP3-7.0)",1.73,1.496,1.562,Flatwillow,penman
+2091,"Accelerating Emissions
+(SSP5-8.5)",1.774,1.435,1.529,Flatwillow,penman
+2092,"Moderating Emissions
+(SSP1-2.6)",1.622,1.302,1.37,Flatwillow,penman
+2092,"Middle of the Road
+(SSP2-4.5)",1.669,1.283,1.538,Flatwillow,penman
+2092,"High Emissions
+(SSP3-7.0)",1.624,1.343,1.577,Flatwillow,penman
+2092,"Accelerating Emissions
+(SSP5-8.5)",1.882,1.497,1.59,Flatwillow,penman
+2093,"Moderating Emissions
+(SSP1-2.6)",1.585,1.206,1.361,Flatwillow,penman
+2093,"Middle of the Road
+(SSP2-4.5)",1.549,1.323,1.435,Flatwillow,penman
+2093,"High Emissions
+(SSP3-7.0)",1.599,1.372,1.433,Flatwillow,penman
+2093,"Accelerating Emissions
+(SSP5-8.5)",1.742,1.528,1.634,Flatwillow,penman
+2094,"Moderating Emissions
+(SSP1-2.6)",1.524,1.266,1.352,Flatwillow,penman
+2094,"Middle of the Road
+(SSP2-4.5)",1.698,1.259,1.506,Flatwillow,penman
+2094,"High Emissions
+(SSP3-7.0)",1.594,1.473,1.528,Flatwillow,penman
+2094,"Accelerating Emissions
+(SSP5-8.5)",1.919,1.467,1.617,Flatwillow,penman
+2095,"Moderating Emissions
+(SSP1-2.6)",1.615,1.303,1.439,Flatwillow,penman
+2095,"Middle of the Road
+(SSP2-4.5)",1.58,1.427,1.539,Flatwillow,penman
+2095,"High Emissions
+(SSP3-7.0)",1.764,1.366,1.59,Flatwillow,penman
+2095,"Accelerating Emissions
+(SSP5-8.5)",1.803,1.466,1.55,Flatwillow,penman
+2096,"Moderating Emissions
+(SSP1-2.6)",1.528,1.278,1.396,Flatwillow,penman
+2096,"Middle of the Road
+(SSP2-4.5)",1.618,1.372,1.515,Flatwillow,penman
+2096,"High Emissions
+(SSP3-7.0)",1.786,1.416,1.57,Flatwillow,penman
+2096,"Accelerating Emissions
+(SSP5-8.5)",1.922,1.446,1.597,Flatwillow,penman
+2097,"Moderating Emissions
+(SSP1-2.6)",1.636,1.28,1.38,Flatwillow,penman
+2097,"Middle of the Road
+(SSP2-4.5)",1.718,1.376,1.445,Flatwillow,penman
+2097,"High Emissions
+(SSP3-7.0)",1.786,1.338,1.618,Flatwillow,penman
+2097,"Accelerating Emissions
+(SSP5-8.5)",1.795,1.457,1.59,Flatwillow,penman
+2098,"Moderating Emissions
+(SSP1-2.6)",1.58,1.253,1.371,Flatwillow,penman
+2098,"Middle of the Road
+(SSP2-4.5)",1.641,1.39,1.464,Flatwillow,penman
+2098,"High Emissions
+(SSP3-7.0)",1.743,1.429,1.486,Flatwillow,penman
+2098,"Accelerating Emissions
+(SSP5-8.5)",1.737,1.521,1.648,Flatwillow,penman
+2099,"Moderating Emissions
+(SSP1-2.6)",1.487,1.27,1.375,Flatwillow,penman
+2099,"Middle of the Road
+(SSP2-4.5)",1.542,1.339,1.469,Flatwillow,penman
+2099,"High Emissions
+(SSP3-7.0)",1.751,1.386,1.577,Flatwillow,penman
+2099,"Accelerating Emissions
+(SSP5-8.5)",1.877,1.48,1.67,Flatwillow,penman
+2100,"Moderating Emissions
+(SSP1-2.6)",1.516,1.181,1.346,Flatwillow,penman
+2100,"Middle of the Road
+(SSP2-4.5)",1.639,1.246,1.414,Flatwillow,penman
+2100,"High Emissions
+(SSP3-7.0)",1.661,1.424,1.496,Flatwillow,penman
+2100,"Accelerating Emissions
+(SSP5-8.5)",1.861,1.472,1.594,Flatwillow,penman

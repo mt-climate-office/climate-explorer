@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,45.523,43.412,43.848,Arrow,tas
+1951,Historical Emissions,44.95,42.461,44.468,Arrow,tas
+1952,Historical Emissions,44.858,41.498,43.166,Arrow,tas
+1953,Historical Emissions,44.537,41.707,43.225,Arrow,tas
+1954,Historical Emissions,45.737,41.069,42.996,Arrow,tas
+1955,Historical Emissions,46.014,41.678,43.387,Arrow,tas
+1956,Historical Emissions,45.546,42.84,44.224,Arrow,tas
+1957,Historical Emissions,46.355,42.433,44.401,Arrow,tas
+1958,Historical Emissions,44.827,42.299,43.326,Arrow,tas
+1959,Historical Emissions,43.348,40.199,42.417,Arrow,tas
+1960,Historical Emissions,44.941,40.556,42.311,Arrow,tas
+1961,Historical Emissions,45.371,42.048,44.094,Arrow,tas
+1962,Historical Emissions,44.119,41.202,42.542,Arrow,tas
+1963,Historical Emissions,43.423,42.159,42.461,Arrow,tas
+1964,Historical Emissions,44.827,41.508,43.61,Arrow,tas
+1965,Historical Emissions,44.198,42.403,42.778,Arrow,tas
+1966,Historical Emissions,46.157,42.175,43.233,Arrow,tas
+1967,Historical Emissions,44.113,42.077,43.182,Arrow,tas
+1968,Historical Emissions,43.856,39.989,42.565,Arrow,tas
+1969,Historical Emissions,44.394,41.476,43.284,Arrow,tas
+1970,Historical Emissions,44.952,42.709,43.685,Arrow,tas
+1971,Historical Emissions,46.886,43.2,44.937,Arrow,tas
+1972,Historical Emissions,44.311,42.014,43.431,Arrow,tas
+1973,Historical Emissions,44.674,41.882,43.381,Arrow,tas
+1974,Historical Emissions,45.194,41.656,44.412,Arrow,tas
+1975,Historical Emissions,44.7,40.934,44.17,Arrow,tas
+1976,Historical Emissions,44.308,41.58,43.616,Arrow,tas
+1977,Historical Emissions,45.558,42.831,44.628,Arrow,tas
+1978,Historical Emissions,46.055,41.176,42.961,Arrow,tas
+1979,Historical Emissions,45.851,42.282,44.75,Arrow,tas
+1980,Historical Emissions,44.529,42.289,43.134,Arrow,tas
+1981,Historical Emissions,45.853,43.078,44.167,Arrow,tas
+1982,Historical Emissions,45.064,42.502,44.047,Arrow,tas
+1983,Historical Emissions,45.546,42.463,43.182,Arrow,tas
+1984,Historical Emissions,45.054,42.5,43.968,Arrow,tas
+1985,Historical Emissions,45.182,42.404,44.312,Arrow,tas
+1986,Historical Emissions,43.706,41.337,42.491,Arrow,tas
+1987,Historical Emissions,45.218,40.586,42.589,Arrow,tas
+1988,Historical Emissions,45.081,42.047,43.349,Arrow,tas
+1989,Historical Emissions,45.206,42.583,43.807,Arrow,tas
+1990,Historical Emissions,47.17,43.163,44.648,Arrow,tas
+1991,Historical Emissions,45.891,41.866,42.869,Arrow,tas
+1992,Historical Emissions,45.17,41.867,42.756,Arrow,tas
+1993,Historical Emissions,45.604,41.893,43.059,Arrow,tas
+1994,Historical Emissions,46.548,42.505,43.867,Arrow,tas
+1995,Historical Emissions,45.883,42.474,42.907,Arrow,tas
+1996,Historical Emissions,46.883,43.422,45.027,Arrow,tas
+1997,Historical Emissions,46.251,42.177,44.35,Arrow,tas
+1998,Historical Emissions,46.214,41.43,44.953,Arrow,tas
+1999,Historical Emissions,46.081,42.901,44.931,Arrow,tas
+2000,Historical Emissions,45.486,42.765,43.787,Arrow,tas
+2001,Historical Emissions,46.107,43.222,44.31,Arrow,tas
+2002,Historical Emissions,47.703,43.081,44.544,Arrow,tas
+2003,Historical Emissions,46.958,44.297,44.645,Arrow,tas
+2004,Historical Emissions,46.894,45.169,45.534,Arrow,tas
+2005,Historical Emissions,47.994,43.968,47.097,Arrow,tas
+2006,Historical Emissions,46.384,42.252,44.523,Arrow,tas
+2007,Historical Emissions,46.723,44.241,44.939,Arrow,tas
+2008,Historical Emissions,46.798,44.034,45.399,Arrow,tas
+2009,Historical Emissions,45.546,43.962,45.114,Arrow,tas
+2010,Historical Emissions,46.309,44.074,45.813,Arrow,tas
+2011,Historical Emissions,47.403,44.726,45.115,Arrow,tas
+2012,Historical Emissions,46.723,43.923,45.876,Arrow,tas
+2013,Historical Emissions,47.555,43.769,45.039,Arrow,tas
+2014,Historical Emissions,47.932,44.509,46.386,Arrow,tas
+2015,"Moderating Emissions
+(SSP1-2.6)",48.335,45.107,46.366,Arrow,tas
+2015,"Middle of the Road
+(SSP2-4.5)",48.166,43.725,45.346,Arrow,tas
+2015,"High Emissions
+(SSP3-7.0)",47.474,43.836,46.041,Arrow,tas
+2015,"Accelerating Emissions
+(SSP5-8.5)",46.573,44.841,45.487,Arrow,tas
+2016,"Moderating Emissions
+(SSP1-2.6)",48.277,45.019,46.64,Arrow,tas
+2016,"Middle of the Road
+(SSP2-4.5)",47.07,44.063,45.685,Arrow,tas
+2016,"High Emissions
+(SSP3-7.0)",49.028,43.858,46.178,Arrow,tas
+2016,"Accelerating Emissions
+(SSP5-8.5)",46.978,44.155,46.457,Arrow,tas
+2017,"Moderating Emissions
+(SSP1-2.6)",47.496,44.327,45.381,Arrow,tas
+2017,"Middle of the Road
+(SSP2-4.5)",48.623,44.59,45.426,Arrow,tas
+2017,"High Emissions
+(SSP3-7.0)",47.944,45.299,45.924,Arrow,tas
+2017,"Accelerating Emissions
+(SSP5-8.5)",47.863,44.855,46.465,Arrow,tas
+2018,"Moderating Emissions
+(SSP1-2.6)",46.817,44.826,45.774,Arrow,tas
+2018,"Middle of the Road
+(SSP2-4.5)",48.041,44.883,45.65,Arrow,tas
+2018,"High Emissions
+(SSP3-7.0)",47.9,43.847,45.836,Arrow,tas
+2018,"Accelerating Emissions
+(SSP5-8.5)",47.601,44.352,45.822,Arrow,tas
+2019,"Moderating Emissions
+(SSP1-2.6)",48.752,45.485,47.489,Arrow,tas
+2019,"Middle of the Road
+(SSP2-4.5)",47.614,43.496,44.952,Arrow,tas
+2019,"High Emissions
+(SSP3-7.0)",48.299,43.762,45.173,Arrow,tas
+2019,"Accelerating Emissions
+(SSP5-8.5)",48.569,45.676,46.56,Arrow,tas
+2020,"Moderating Emissions
+(SSP1-2.6)",49.472,44.605,46.261,Arrow,tas
+2020,"Middle of the Road
+(SSP2-4.5)",47.779,44.376,45.884,Arrow,tas
+2020,"High Emissions
+(SSP3-7.0)",47.545,44.449,46.416,Arrow,tas
+2020,"Accelerating Emissions
+(SSP5-8.5)",47.49,44.653,46.233,Arrow,tas
+2021,"Moderating Emissions
+(SSP1-2.6)",48.603,44.927,46.729,Arrow,tas
+2021,"Middle of the Road
+(SSP2-4.5)",48.026,45.227,46.908,Arrow,tas
+2021,"High Emissions
+(SSP3-7.0)",47.182,45.916,46.611,Arrow,tas
+2021,"Accelerating Emissions
+(SSP5-8.5)",47.793,44.54,46.698,Arrow,tas
+2022,"Moderating Emissions
+(SSP1-2.6)",48.094,45.16,45.927,Arrow,tas
+2022,"Middle of the Road
+(SSP2-4.5)",49.013,44.7,46.362,Arrow,tas
+2022,"High Emissions
+(SSP3-7.0)",47.431,45.37,45.811,Arrow,tas
+2022,"Accelerating Emissions
+(SSP5-8.5)",48.758,44.865,47.061,Arrow,tas
+2023,"Moderating Emissions
+(SSP1-2.6)",47.108,45.938,46.508,Arrow,tas
+2023,"Middle of the Road
+(SSP2-4.5)",48.384,45.224,46.557,Arrow,tas
+2023,"High Emissions
+(SSP3-7.0)",48.532,44.874,46.586,Arrow,tas
+2023,"Accelerating Emissions
+(SSP5-8.5)",46.62,43.422,44.627,Arrow,tas
+2024,"Moderating Emissions
+(SSP1-2.6)",48.138,45.245,46.702,Arrow,tas
+2024,"Middle of the Road
+(SSP2-4.5)",47.085,44.891,45.92,Arrow,tas
+2024,"High Emissions
+(SSP3-7.0)",49.351,45.199,46.082,Arrow,tas
+2024,"Accelerating Emissions
+(SSP5-8.5)",49.881,44.791,46.989,Arrow,tas
+2025,"Moderating Emissions
+(SSP1-2.6)",48.363,45.849,47.637,Arrow,tas
+2025,"Middle of the Road
+(SSP2-4.5)",48.411,44.096,45.939,Arrow,tas
+2025,"High Emissions
+(SSP3-7.0)",49.037,45.939,47.088,Arrow,tas
+2025,"Accelerating Emissions
+(SSP5-8.5)",48.975,45.991,47.263,Arrow,tas
+2026,"Moderating Emissions
+(SSP1-2.6)",48.453,44.93,45.552,Arrow,tas
+2026,"Middle of the Road
+(SSP2-4.5)",48.396,44.673,46.727,Arrow,tas
+2026,"High Emissions
+(SSP3-7.0)",48.818,43.204,46.423,Arrow,tas
+2026,"Accelerating Emissions
+(SSP5-8.5)",48.781,45.197,46.928,Arrow,tas
+2027,"Moderating Emissions
+(SSP1-2.6)",48.436,44.848,47.133,Arrow,tas
+2027,"Middle of the Road
+(SSP2-4.5)",49.102,45.271,47.365,Arrow,tas
+2027,"High Emissions
+(SSP3-7.0)",48.556,45.331,46.367,Arrow,tas
+2027,"Accelerating Emissions
+(SSP5-8.5)",48.388,45.719,46.905,Arrow,tas
+2028,"Moderating Emissions
+(SSP1-2.6)",47.936,45.299,47.182,Arrow,tas
+2028,"Middle of the Road
+(SSP2-4.5)",48.358,43.567,46.366,Arrow,tas
+2028,"High Emissions
+(SSP3-7.0)",47.871,46.239,46.93,Arrow,tas
+2028,"Accelerating Emissions
+(SSP5-8.5)",48.936,45.932,46.895,Arrow,tas
+2029,"Moderating Emissions
+(SSP1-2.6)",50.097,46.49,48.204,Arrow,tas
+2029,"Middle of the Road
+(SSP2-4.5)",49.402,44.775,47.147,Arrow,tas
+2029,"High Emissions
+(SSP3-7.0)",48.574,43.917,46.673,Arrow,tas
+2029,"Accelerating Emissions
+(SSP5-8.5)",48.617,46.326,47.141,Arrow,tas
+2030,"Moderating Emissions
+(SSP1-2.6)",49.177,45.431,46.346,Arrow,tas
+2030,"Middle of the Road
+(SSP2-4.5)",49.494,46.091,47.773,Arrow,tas
+2030,"High Emissions
+(SSP3-7.0)",49.289,45.12,46.655,Arrow,tas
+2030,"Accelerating Emissions
+(SSP5-8.5)",49.668,45.12,47.76,Arrow,tas
+2031,"Moderating Emissions
+(SSP1-2.6)",48.597,44.972,47.114,Arrow,tas
+2031,"Middle of the Road
+(SSP2-4.5)",49.564,45.446,47.463,Arrow,tas
+2031,"High Emissions
+(SSP3-7.0)",50.059,45.434,47.988,Arrow,tas
+2031,"Accelerating Emissions
+(SSP5-8.5)",50.209,47.28,48.398,Arrow,tas
+2032,"Moderating Emissions
+(SSP1-2.6)",48.516,44.784,46.641,Arrow,tas
+2032,"Middle of the Road
+(SSP2-4.5)",47.948,45.303,46.328,Arrow,tas
+2032,"High Emissions
+(SSP3-7.0)",49.561,45.334,46.533,Arrow,tas
+2032,"Accelerating Emissions
+(SSP5-8.5)",49.578,45.214,46.579,Arrow,tas
+2033,"Moderating Emissions
+(SSP1-2.6)",49.247,45.818,46.739,Arrow,tas
+2033,"Middle of the Road
+(SSP2-4.5)",49.363,46.224,47.512,Arrow,tas
+2033,"High Emissions
+(SSP3-7.0)",48.896,45.551,46.45,Arrow,tas
+2033,"Accelerating Emissions
+(SSP5-8.5)",48.607,45.434,48.166,Arrow,tas
+2034,"Moderating Emissions
+(SSP1-2.6)",48.864,45.156,45.944,Arrow,tas
+2034,"Middle of the Road
+(SSP2-4.5)",49.735,46.281,47.062,Arrow,tas
+2034,"High Emissions
+(SSP3-7.0)",49.609,46.484,47.518,Arrow,tas
+2034,"Accelerating Emissions
+(SSP5-8.5)",48.929,44.567,46.793,Arrow,tas
+2035,"Moderating Emissions
+(SSP1-2.6)",48.935,45.011,47.776,Arrow,tas
+2035,"Middle of the Road
+(SSP2-4.5)",49.681,45.121,47.728,Arrow,tas
+2035,"High Emissions
+(SSP3-7.0)",48.551,44.961,46.653,Arrow,tas
+2035,"Accelerating Emissions
+(SSP5-8.5)",49.732,45.34,47.928,Arrow,tas
+2036,"Moderating Emissions
+(SSP1-2.6)",49.081,46.826,48.206,Arrow,tas
+2036,"Middle of the Road
+(SSP2-4.5)",48.472,45.551,47.165,Arrow,tas
+2036,"High Emissions
+(SSP3-7.0)",48.762,45.701,47.54,Arrow,tas
+2036,"Accelerating Emissions
+(SSP5-8.5)",50.033,44.692,49.056,Arrow,tas
+2037,"Moderating Emissions
+(SSP1-2.6)",49.776,46.744,48.215,Arrow,tas
+2037,"Middle of the Road
+(SSP2-4.5)",49.708,44.704,47.621,Arrow,tas
+2037,"High Emissions
+(SSP3-7.0)",49.174,44.742,46.44,Arrow,tas
+2037,"Accelerating Emissions
+(SSP5-8.5)",50.01,46.213,47.997,Arrow,tas
+2038,"Moderating Emissions
+(SSP1-2.6)",49.995,46.508,48.06,Arrow,tas
+2038,"Middle of the Road
+(SSP2-4.5)",48.498,45.635,47.188,Arrow,tas
+2038,"High Emissions
+(SSP3-7.0)",49.23,46.012,48.038,Arrow,tas
+2038,"Accelerating Emissions
+(SSP5-8.5)",50.983,45.537,49.338,Arrow,tas
+2039,"Moderating Emissions
+(SSP1-2.6)",49.413,45.811,48.239,Arrow,tas
+2039,"Middle of the Road
+(SSP2-4.5)",48.78,45.982,47.328,Arrow,tas
+2039,"High Emissions
+(SSP3-7.0)",50.061,47.583,47.764,Arrow,tas
+2039,"Accelerating Emissions
+(SSP5-8.5)",50.462,45.037,47.783,Arrow,tas
+2040,"Moderating Emissions
+(SSP1-2.6)",49.324,45.815,47.938,Arrow,tas
+2040,"Middle of the Road
+(SSP2-4.5)",48.604,46.387,48.191,Arrow,tas
+2040,"High Emissions
+(SSP3-7.0)",50.099,46.396,48.166,Arrow,tas
+2040,"Accelerating Emissions
+(SSP5-8.5)",52.258,46.96,48.249,Arrow,tas
+2041,"Moderating Emissions
+(SSP1-2.6)",49.179,44.764,47.395,Arrow,tas
+2041,"Middle of the Road
+(SSP2-4.5)",48.449,46.773,47.832,Arrow,tas
+2041,"High Emissions
+(SSP3-7.0)",49.165,45.964,47.302,Arrow,tas
+2041,"Accelerating Emissions
+(SSP5-8.5)",48.587,46.58,48.102,Arrow,tas
+2042,"Moderating Emissions
+(SSP1-2.6)",49.938,46.467,47.532,Arrow,tas
+2042,"Middle of the Road
+(SSP2-4.5)",48.362,44.792,46.738,Arrow,tas
+2042,"High Emissions
+(SSP3-7.0)",48.9,46.284,47.446,Arrow,tas
+2042,"Accelerating Emissions
+(SSP5-8.5)",50.733,46.917,48.827,Arrow,tas
+2043,"Moderating Emissions
+(SSP1-2.6)",48.943,45.744,47.973,Arrow,tas
+2043,"Middle of the Road
+(SSP2-4.5)",49.963,45.788,48.138,Arrow,tas
+2043,"High Emissions
+(SSP3-7.0)",48.896,45.172,47.763,Arrow,tas
+2043,"Accelerating Emissions
+(SSP5-8.5)",49.769,47.139,48.411,Arrow,tas
+2044,"Moderating Emissions
+(SSP1-2.6)",49.439,46.293,47.347,Arrow,tas
+2044,"Middle of the Road
+(SSP2-4.5)",50.847,46.827,48.952,Arrow,tas
+2044,"High Emissions
+(SSP3-7.0)",49.771,46.955,47.813,Arrow,tas
+2044,"Accelerating Emissions
+(SSP5-8.5)",51.594,46.154,47.906,Arrow,tas
+2045,"Moderating Emissions
+(SSP1-2.6)",49.765,46.397,47.875,Arrow,tas
+2045,"Middle of the Road
+(SSP2-4.5)",50.651,45.872,48.991,Arrow,tas
+2045,"High Emissions
+(SSP3-7.0)",49.704,46.017,47.763,Arrow,tas
+2045,"Accelerating Emissions
+(SSP5-8.5)",49.206,46.597,48.281,Arrow,tas
+2046,"Moderating Emissions
+(SSP1-2.6)",51.34,44.393,48.468,Arrow,tas
+2046,"Middle of the Road
+(SSP2-4.5)",49.76,45.723,47.682,Arrow,tas
+2046,"High Emissions
+(SSP3-7.0)",49.965,48.082,48.529,Arrow,tas
+2046,"Accelerating Emissions
+(SSP5-8.5)",50.159,45.986,47.375,Arrow,tas
+2047,"Moderating Emissions
+(SSP1-2.6)",49.31,47.098,48.612,Arrow,tas
+2047,"Middle of the Road
+(SSP2-4.5)",49.454,43.333,48.009,Arrow,tas
+2047,"High Emissions
+(SSP3-7.0)",48.648,46.741,48.005,Arrow,tas
+2047,"Accelerating Emissions
+(SSP5-8.5)",51.078,46.43,49.823,Arrow,tas
+2048,"Moderating Emissions
+(SSP1-2.6)",48.639,46.387,47.722,Arrow,tas
+2048,"Middle of the Road
+(SSP2-4.5)",50.99,45.95,48.621,Arrow,tas
+2048,"High Emissions
+(SSP3-7.0)",50.704,45.993,48.544,Arrow,tas
+2048,"Accelerating Emissions
+(SSP5-8.5)",53.15,47.262,50.244,Arrow,tas
+2049,"Moderating Emissions
+(SSP1-2.6)",49.223,45.815,46.506,Arrow,tas
+2049,"Middle of the Road
+(SSP2-4.5)",50.463,47.561,48.472,Arrow,tas
+2049,"High Emissions
+(SSP3-7.0)",51.12,47.004,49.235,Arrow,tas
+2049,"Accelerating Emissions
+(SSP5-8.5)",49.859,47.43,49.485,Arrow,tas
+2050,"Moderating Emissions
+(SSP1-2.6)",49.63,45.357,48.089,Arrow,tas
+2050,"Middle of the Road
+(SSP2-4.5)",50.949,47.102,48.555,Arrow,tas
+2050,"High Emissions
+(SSP3-7.0)",50.75,47.45,48.71,Arrow,tas
+2050,"Accelerating Emissions
+(SSP5-8.5)",50.874,47.584,49.335,Arrow,tas
+2051,"Moderating Emissions
+(SSP1-2.6)",50.04,45.977,48.167,Arrow,tas
+2051,"Middle of the Road
+(SSP2-4.5)",50.927,47.18,48.83,Arrow,tas
+2051,"High Emissions
+(SSP3-7.0)",50.328,47.775,48.569,Arrow,tas
+2051,"Accelerating Emissions
+(SSP5-8.5)",50.478,47.576,49.454,Arrow,tas
+2052,"Moderating Emissions
+(SSP1-2.6)",49.185,46.863,47.774,Arrow,tas
+2052,"Middle of the Road
+(SSP2-4.5)",50.526,46.82,47.657,Arrow,tas
+2052,"High Emissions
+(SSP3-7.0)",51.412,45.905,48.257,Arrow,tas
+2052,"Accelerating Emissions
+(SSP5-8.5)",50.127,48.059,49.491,Arrow,tas
+2053,"Moderating Emissions
+(SSP1-2.6)",49.369,45.98,48.141,Arrow,tas
+2053,"Middle of the Road
+(SSP2-4.5)",49.837,46.319,48.5,Arrow,tas
+2053,"High Emissions
+(SSP3-7.0)",52.064,47.822,50.996,Arrow,tas
+2053,"Accelerating Emissions
+(SSP5-8.5)",52.255,47.995,48.8,Arrow,tas
+2054,"Moderating Emissions
+(SSP1-2.6)",50.302,47.04,48.17,Arrow,tas
+2054,"Middle of the Road
+(SSP2-4.5)",49.56,46.546,47.395,Arrow,tas
+2054,"High Emissions
+(SSP3-7.0)",50.451,46.945,48.249,Arrow,tas
+2054,"Accelerating Emissions
+(SSP5-8.5)",51.985,48.696,49.398,Arrow,tas
+2055,"Moderating Emissions
+(SSP1-2.6)",50.075,47.5,48.216,Arrow,tas
+2055,"Middle of the Road
+(SSP2-4.5)",50.315,45.929,48.561,Arrow,tas
+2055,"High Emissions
+(SSP3-7.0)",50.682,47.785,48.814,Arrow,tas
+2055,"Accelerating Emissions
+(SSP5-8.5)",52.334,48.108,50.777,Arrow,tas
+2056,"Moderating Emissions
+(SSP1-2.6)",50.138,47.191,49.016,Arrow,tas
+2056,"Middle of the Road
+(SSP2-4.5)",51.198,47.119,48.373,Arrow,tas
+2056,"High Emissions
+(SSP3-7.0)",51.538,47.231,48.268,Arrow,tas
+2056,"Accelerating Emissions
+(SSP5-8.5)",51.835,48.002,50.552,Arrow,tas
+2057,"Moderating Emissions
+(SSP1-2.6)",49.555,45.409,48.176,Arrow,tas
+2057,"Middle of the Road
+(SSP2-4.5)",51.013,47.707,48.955,Arrow,tas
+2057,"High Emissions
+(SSP3-7.0)",50.977,47.289,47.69,Arrow,tas
+2057,"Accelerating Emissions
+(SSP5-8.5)",51.212,46.277,49.924,Arrow,tas
+2058,"Moderating Emissions
+(SSP1-2.6)",50.167,46.37,48.078,Arrow,tas
+2058,"Middle of the Road
+(SSP2-4.5)",52.167,47.37,49.434,Arrow,tas
+2058,"High Emissions
+(SSP3-7.0)",50.753,47.956,48.941,Arrow,tas
+2058,"Accelerating Emissions
+(SSP5-8.5)",51.605,47.268,48.878,Arrow,tas
+2059,"Moderating Emissions
+(SSP1-2.6)",50.488,46.328,48.207,Arrow,tas
+2059,"Middle of the Road
+(SSP2-4.5)",52.955,47.714,50.219,Arrow,tas
+2059,"High Emissions
+(SSP3-7.0)",52.773,48.059,50.334,Arrow,tas
+2059,"Accelerating Emissions
+(SSP5-8.5)",52.404,49.291,50.764,Arrow,tas
+2060,"Moderating Emissions
+(SSP1-2.6)",51.086,45.86,47.472,Arrow,tas
+2060,"Middle of the Road
+(SSP2-4.5)",51.159,47.251,48.595,Arrow,tas
+2060,"High Emissions
+(SSP3-7.0)",50.945,47.858,49.488,Arrow,tas
+2060,"Accelerating Emissions
+(SSP5-8.5)",51.2,48.874,50.886,Arrow,tas
+2061,"Moderating Emissions
+(SSP1-2.6)",49.774,46.716,47.27,Arrow,tas
+2061,"Middle of the Road
+(SSP2-4.5)",51.181,46.74,48.797,Arrow,tas
+2061,"High Emissions
+(SSP3-7.0)",50.849,48.157,49.539,Arrow,tas
+2061,"Accelerating Emissions
+(SSP5-8.5)",53.751,49.516,50.517,Arrow,tas
+2062,"Moderating Emissions
+(SSP1-2.6)",49.251,47.184,47.736,Arrow,tas
+2062,"Middle of the Road
+(SSP2-4.5)",50.882,46.972,48.158,Arrow,tas
+2062,"High Emissions
+(SSP3-7.0)",50.357,47.766,49.724,Arrow,tas
+2062,"Accelerating Emissions
+(SSP5-8.5)",52.846,49.163,50.549,Arrow,tas
+2063,"Moderating Emissions
+(SSP1-2.6)",49.45,46.273,48.092,Arrow,tas
+2063,"Middle of the Road
+(SSP2-4.5)",50.784,47.157,48.467,Arrow,tas
+2063,"High Emissions
+(SSP3-7.0)",52.059,47.782,49.233,Arrow,tas
+2063,"Accelerating Emissions
+(SSP5-8.5)",52.618,48.235,50.945,Arrow,tas
+2064,"Moderating Emissions
+(SSP1-2.6)",50.503,46.86,48.902,Arrow,tas
+2064,"Middle of the Road
+(SSP2-4.5)",49.081,47.117,48.214,Arrow,tas
+2064,"High Emissions
+(SSP3-7.0)",50.301,48.438,49.223,Arrow,tas
+2064,"Accelerating Emissions
+(SSP5-8.5)",51.69,49.1,50.329,Arrow,tas
+2065,"Moderating Emissions
+(SSP1-2.6)",50.345,45.579,47.234,Arrow,tas
+2065,"Middle of the Road
+(SSP2-4.5)",51.174,46.549,48.134,Arrow,tas
+2065,"High Emissions
+(SSP3-7.0)",52.441,48.461,49.49,Arrow,tas
+2065,"Accelerating Emissions
+(SSP5-8.5)",54.486,49.085,51.658,Arrow,tas
+2066,"Moderating Emissions
+(SSP1-2.6)",50.931,46.218,48.674,Arrow,tas
+2066,"Middle of the Road
+(SSP2-4.5)",51.728,48.284,50.093,Arrow,tas
+2066,"High Emissions
+(SSP3-7.0)",51.856,47.887,49.395,Arrow,tas
+2066,"Accelerating Emissions
+(SSP5-8.5)",53.786,48.904,51.581,Arrow,tas
+2067,"Moderating Emissions
+(SSP1-2.6)",49.969,48.156,49.059,Arrow,tas
+2067,"Middle of the Road
+(SSP2-4.5)",51.072,47.717,48.565,Arrow,tas
+2067,"High Emissions
+(SSP3-7.0)",52.786,49.638,50.733,Arrow,tas
+2067,"Accelerating Emissions
+(SSP5-8.5)",54.07,49.316,49.922,Arrow,tas
+2068,"Moderating Emissions
+(SSP1-2.6)",50.694,46.432,48.33,Arrow,tas
+2068,"Middle of the Road
+(SSP2-4.5)",49.927,47.396,49.057,Arrow,tas
+2068,"High Emissions
+(SSP3-7.0)",52.004,47.984,49.17,Arrow,tas
+2068,"Accelerating Emissions
+(SSP5-8.5)",53.277,50.32,51.275,Arrow,tas
+2069,"Moderating Emissions
+(SSP1-2.6)",50.692,47.166,49.232,Arrow,tas
+2069,"Middle of the Road
+(SSP2-4.5)",49.712,46.795,48.557,Arrow,tas
+2069,"High Emissions
+(SSP3-7.0)",54.006,49.811,51.173,Arrow,tas
+2069,"Accelerating Emissions
+(SSP5-8.5)",55.598,49.899,51.863,Arrow,tas
+2070,"Moderating Emissions
+(SSP1-2.6)",49.5,46.734,47.961,Arrow,tas
+2070,"Middle of the Road
+(SSP2-4.5)",51.405,46.088,48.931,Arrow,tas
+2070,"High Emissions
+(SSP3-7.0)",53.029,49.704,51.187,Arrow,tas
+2070,"Accelerating Emissions
+(SSP5-8.5)",56.257,50.447,51.486,Arrow,tas
+2071,"Moderating Emissions
+(SSP1-2.6)",52.248,45.324,47.743,Arrow,tas
+2071,"Middle of the Road
+(SSP2-4.5)",51.442,47.342,49.298,Arrow,tas
+2071,"High Emissions
+(SSP3-7.0)",52.762,50.364,50.602,Arrow,tas
+2071,"Accelerating Emissions
+(SSP5-8.5)",54.592,49.585,51.137,Arrow,tas
+2072,"Moderating Emissions
+(SSP1-2.6)",51.4,47.202,48.154,Arrow,tas
+2072,"Middle of the Road
+(SSP2-4.5)",51.683,46.29,48.906,Arrow,tas
+2072,"High Emissions
+(SSP3-7.0)",53.02,49.169,50.243,Arrow,tas
+2072,"Accelerating Emissions
+(SSP5-8.5)",53.429,50.339,51.348,Arrow,tas
+2073,"Moderating Emissions
+(SSP1-2.6)",49.693,45.755,47.731,Arrow,tas
+2073,"Middle of the Road
+(SSP2-4.5)",51.213,46.47,49.515,Arrow,tas
+2073,"High Emissions
+(SSP3-7.0)",52.751,49.11,51.321,Arrow,tas
+2073,"Accelerating Emissions
+(SSP5-8.5)",54.048,49.243,51.717,Arrow,tas
+2074,"Moderating Emissions
+(SSP1-2.6)",51.773,45.158,48.448,Arrow,tas
+2074,"Middle of the Road
+(SSP2-4.5)",51.423,48.05,49.331,Arrow,tas
+2074,"High Emissions
+(SSP3-7.0)",52.378,48.178,49.758,Arrow,tas
+2074,"Accelerating Emissions
+(SSP5-8.5)",54.773,50.066,50.854,Arrow,tas
+2075,"Moderating Emissions
+(SSP1-2.6)",51.105,45.165,47.896,Arrow,tas
+2075,"Middle of the Road
+(SSP2-4.5)",52.046,47.086,47.851,Arrow,tas
+2075,"High Emissions
+(SSP3-7.0)",53.228,48.285,49.554,Arrow,tas
+2075,"Accelerating Emissions
+(SSP5-8.5)",54.217,49.816,52.831,Arrow,tas
+2076,"Moderating Emissions
+(SSP1-2.6)",50.473,45.027,47.419,Arrow,tas
+2076,"Middle of the Road
+(SSP2-4.5)",50.053,47.668,48.937,Arrow,tas
+2076,"High Emissions
+(SSP3-7.0)",53.311,49.734,51.097,Arrow,tas
+2076,"Accelerating Emissions
+(SSP5-8.5)",55.036,49.696,51.791,Arrow,tas
+2077,"Moderating Emissions
+(SSP1-2.6)",50.579,46.732,48.37,Arrow,tas
+2077,"Middle of the Road
+(SSP2-4.5)",52.098,48.181,49.236,Arrow,tas
+2077,"High Emissions
+(SSP3-7.0)",54.012,48.668,51.544,Arrow,tas
+2077,"Accelerating Emissions
+(SSP5-8.5)",55.448,50.372,52.525,Arrow,tas
+2078,"Moderating Emissions
+(SSP1-2.6)",50.51,47.256,48.09,Arrow,tas
+2078,"Middle of the Road
+(SSP2-4.5)",51.045,48.446,48.999,Arrow,tas
+2078,"High Emissions
+(SSP3-7.0)",53.19,49.437,50.965,Arrow,tas
+2078,"Accelerating Emissions
+(SSP5-8.5)",52.419,50.507,50.895,Arrow,tas
+2079,"Moderating Emissions
+(SSP1-2.6)",49.99,46.774,48.111,Arrow,tas
+2079,"Middle of the Road
+(SSP2-4.5)",51.658,48.144,48.98,Arrow,tas
+2079,"High Emissions
+(SSP3-7.0)",52.844,49.003,51.762,Arrow,tas
+2079,"Accelerating Emissions
+(SSP5-8.5)",55.068,50.598,52.917,Arrow,tas
+2080,"Moderating Emissions
+(SSP1-2.6)",49.962,46.275,47.14,Arrow,tas
+2080,"Middle of the Road
+(SSP2-4.5)",50.574,47.587,49.911,Arrow,tas
+2080,"High Emissions
+(SSP3-7.0)",53.941,49.79,50.435,Arrow,tas
+2080,"Accelerating Emissions
+(SSP5-8.5)",55.359,51.225,53.561,Arrow,tas
+2081,"Moderating Emissions
+(SSP1-2.6)",51.987,45.697,47.798,Arrow,tas
+2081,"Middle of the Road
+(SSP2-4.5)",52.123,48.302,49.531,Arrow,tas
+2081,"High Emissions
+(SSP3-7.0)",55.255,48.541,50.109,Arrow,tas
+2081,"Accelerating Emissions
+(SSP5-8.5)",56.6,51.724,54.164,Arrow,tas
+2082,"Moderating Emissions
+(SSP1-2.6)",51.214,46.48,49.237,Arrow,tas
+2082,"Middle of the Road
+(SSP2-4.5)",52.889,48.581,49.89,Arrow,tas
+2082,"High Emissions
+(SSP3-7.0)",54.497,48.972,50.459,Arrow,tas
+2082,"Accelerating Emissions
+(SSP5-8.5)",55.958,51.171,54.001,Arrow,tas
+2083,"Moderating Emissions
+(SSP1-2.6)",50.471,46.468,48.814,Arrow,tas
+2083,"Middle of the Road
+(SSP2-4.5)",52.708,46.893,49.768,Arrow,tas
+2083,"High Emissions
+(SSP3-7.0)",53.844,48.278,52.078,Arrow,tas
+2083,"Accelerating Emissions
+(SSP5-8.5)",56.273,51.633,54.925,Arrow,tas
+2084,"Moderating Emissions
+(SSP1-2.6)",51.57,45.861,47.511,Arrow,tas
+2084,"Middle of the Road
+(SSP2-4.5)",53.062,48.387,50.627,Arrow,tas
+2084,"High Emissions
+(SSP3-7.0)",56.106,50.418,52.656,Arrow,tas
+2084,"Accelerating Emissions
+(SSP5-8.5)",56.412,51.947,53.501,Arrow,tas
+2085,"Moderating Emissions
+(SSP1-2.6)",49.626,45.326,47.495,Arrow,tas
+2085,"Middle of the Road
+(SSP2-4.5)",51.546,47.319,49.737,Arrow,tas
+2085,"High Emissions
+(SSP3-7.0)",53.416,49.63,51.231,Arrow,tas
+2085,"Accelerating Emissions
+(SSP5-8.5)",56.18,51.43,54.5,Arrow,tas
+2086,"Moderating Emissions
+(SSP1-2.6)",51.321,47.892,48.849,Arrow,tas
+2086,"Middle of the Road
+(SSP2-4.5)",52.21,48.969,49.876,Arrow,tas
+2086,"High Emissions
+(SSP3-7.0)",55.224,49.691,52.314,Arrow,tas
+2086,"Accelerating Emissions
+(SSP5-8.5)",56.239,51.666,54.424,Arrow,tas
+2087,"Moderating Emissions
+(SSP1-2.6)",48.948,46.691,47.428,Arrow,tas
+2087,"Middle of the Road
+(SSP2-4.5)",52.956,48.952,50.538,Arrow,tas
+2087,"High Emissions
+(SSP3-7.0)",55.502,50.114,52.039,Arrow,tas
+2087,"Accelerating Emissions
+(SSP5-8.5)",56.394,51.707,53.608,Arrow,tas
+2088,"Moderating Emissions
+(SSP1-2.6)",51.173,45.865,47.579,Arrow,tas
+2088,"Middle of the Road
+(SSP2-4.5)",51.721,49.347,50.015,Arrow,tas
+2088,"High Emissions
+(SSP3-7.0)",55.6,50.227,51.33,Arrow,tas
+2088,"Accelerating Emissions
+(SSP5-8.5)",56.141,52.613,54.09,Arrow,tas
+2089,"Moderating Emissions
+(SSP1-2.6)",48.67,46.417,47.819,Arrow,tas
+2089,"Middle of the Road
+(SSP2-4.5)",52.368,48.285,49.772,Arrow,tas
+2089,"High Emissions
+(SSP3-7.0)",54.546,50.03,52.778,Arrow,tas
+2089,"Accelerating Emissions
+(SSP5-8.5)",56.781,52.716,55.7,Arrow,tas
+2090,"Moderating Emissions
+(SSP1-2.6)",50.359,46.704,48.467,Arrow,tas
+2090,"Middle of the Road
+(SSP2-4.5)",51.098,48.266,50.675,Arrow,tas
+2090,"High Emissions
+(SSP3-7.0)",55.508,50.921,52.372,Arrow,tas
+2090,"Accelerating Emissions
+(SSP5-8.5)",57.465,53.54,54.861,Arrow,tas
+2091,"Moderating Emissions
+(SSP1-2.6)",50.458,45.881,48.468,Arrow,tas
+2091,"Middle of the Road
+(SSP2-4.5)",51.355,48.46,50.395,Arrow,tas
+2091,"High Emissions
+(SSP3-7.0)",55.594,50.998,53.014,Arrow,tas
+2091,"Accelerating Emissions
+(SSP5-8.5)",57.088,51.508,53.481,Arrow,tas
+2092,"Moderating Emissions
+(SSP1-2.6)",51.406,45.594,49.228,Arrow,tas
+2092,"Middle of the Road
+(SSP2-4.5)",53.071,47.844,50.47,Arrow,tas
+2092,"High Emissions
+(SSP3-7.0)",54.34,49.92,52.867,Arrow,tas
+2092,"Accelerating Emissions
+(SSP5-8.5)",57.779,52.617,54.007,Arrow,tas
+2093,"Moderating Emissions
+(SSP1-2.6)",50.299,45.814,48.634,Arrow,tas
+2093,"Middle of the Road
+(SSP2-4.5)",52.44,46.975,49.602,Arrow,tas
+2093,"High Emissions
+(SSP3-7.0)",55.335,50.686,51.86,Arrow,tas
+2093,"Accelerating Emissions
+(SSP5-8.5)",58.18,52.468,54.055,Arrow,tas
+2094,"Moderating Emissions
+(SSP1-2.6)",50.716,45.348,47.217,Arrow,tas
+2094,"Middle of the Road
+(SSP2-4.5)",53.724,47.016,50.067,Arrow,tas
+2094,"High Emissions
+(SSP3-7.0)",55.921,50.782,52.826,Arrow,tas
+2094,"Accelerating Emissions
+(SSP5-8.5)",58.586,53.15,56.391,Arrow,tas
+2095,"Moderating Emissions
+(SSP1-2.6)",50.049,46.586,49.384,Arrow,tas
+2095,"Middle of the Road
+(SSP2-4.5)",53.534,48.876,51.161,Arrow,tas
+2095,"High Emissions
+(SSP3-7.0)",56.956,50.535,53.236,Arrow,tas
+2095,"Accelerating Emissions
+(SSP5-8.5)",57.189,52.284,53.277,Arrow,tas
+2096,"Moderating Emissions
+(SSP1-2.6)",49.715,45.96,48.407,Arrow,tas
+2096,"Middle of the Road
+(SSP2-4.5)",52.453,49.591,51.233,Arrow,tas
+2096,"High Emissions
+(SSP3-7.0)",55.01,51.444,53.23,Arrow,tas
+2096,"Accelerating Emissions
+(SSP5-8.5)",56.766,52.283,55.097,Arrow,tas
+2097,"Moderating Emissions
+(SSP1-2.6)",51.477,46.192,47.3,Arrow,tas
+2097,"Middle of the Road
+(SSP2-4.5)",53.369,49.384,50.561,Arrow,tas
+2097,"High Emissions
+(SSP3-7.0)",57.499,49.992,53.554,Arrow,tas
+2097,"Accelerating Emissions
+(SSP5-8.5)",61.451,52.155,55.198,Arrow,tas
+2098,"Moderating Emissions
+(SSP1-2.6)",49.254,45.177,47.642,Arrow,tas
+2098,"Middle of the Road
+(SSP2-4.5)",51.798,48.465,49.758,Arrow,tas
+2098,"High Emissions
+(SSP3-7.0)",56.373,51.425,52.632,Arrow,tas
+2098,"Accelerating Emissions
+(SSP5-8.5)",57.34,53.175,56.008,Arrow,tas
+2099,"Moderating Emissions
+(SSP1-2.6)",52.32,45.618,48.408,Arrow,tas
+2099,"Middle of the Road
+(SSP2-4.5)",52.386,48.166,50.295,Arrow,tas
+2099,"High Emissions
+(SSP3-7.0)",58.066,50.891,52.187,Arrow,tas
+2099,"Accelerating Emissions
+(SSP5-8.5)",59.577,52.989,56.049,Arrow,tas
+2100,"Moderating Emissions
+(SSP1-2.6)",49.778,45.512,46.634,Arrow,tas
+2100,"Middle of the Road
+(SSP2-4.5)",53.85,48.831,50.748,Arrow,tas
+2100,"High Emissions
+(SSP3-7.0)",55.565,50.361,53.432,Arrow,tas
+2100,"Accelerating Emissions
+(SSP5-8.5)",59.286,52.245,54.782,Arrow,tas

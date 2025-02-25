@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,6.598,6.075,6.179,Lower Flathead,sfcWind
+1951,Historical Emissions,6.509,5.986,6.281,Lower Flathead,sfcWind
+1952,Historical Emissions,6.546,5.989,6.281,Lower Flathead,sfcWind
+1953,Historical Emissions,6.738,6.044,6.328,Lower Flathead,sfcWind
+1954,Historical Emissions,6.784,5.991,6.549,Lower Flathead,sfcWind
+1955,Historical Emissions,6.4,5.958,6.161,Lower Flathead,sfcWind
+1956,Historical Emissions,6.839,6.128,6.299,Lower Flathead,sfcWind
+1957,Historical Emissions,6.891,6.171,6.396,Lower Flathead,sfcWind
+1958,Historical Emissions,6.719,6.035,6.238,Lower Flathead,sfcWind
+1959,Historical Emissions,6.612,6.156,6.323,Lower Flathead,sfcWind
+1960,Historical Emissions,6.744,6.257,6.487,Lower Flathead,sfcWind
+1961,Historical Emissions,6.592,6.189,6.406,Lower Flathead,sfcWind
+1962,Historical Emissions,6.434,6.019,6.309,Lower Flathead,sfcWind
+1963,Historical Emissions,6.535,5.94,6.382,Lower Flathead,sfcWind
+1964,Historical Emissions,6.824,6.107,6.242,Lower Flathead,sfcWind
+1965,Historical Emissions,6.746,6.092,6.346,Lower Flathead,sfcWind
+1966,Historical Emissions,6.651,6.261,6.477,Lower Flathead,sfcWind
+1967,Historical Emissions,6.629,5.979,6.459,Lower Flathead,sfcWind
+1968,Historical Emissions,6.71,5.88,6.402,Lower Flathead,sfcWind
+1969,Historical Emissions,6.623,6.029,6.345,Lower Flathead,sfcWind
+1970,Historical Emissions,6.629,6.114,6.327,Lower Flathead,sfcWind
+1971,Historical Emissions,6.654,6.163,6.392,Lower Flathead,sfcWind
+1972,Historical Emissions,6.568,6.333,6.438,Lower Flathead,sfcWind
+1973,Historical Emissions,6.515,5.986,6.277,Lower Flathead,sfcWind
+1974,Historical Emissions,6.6,5.892,6.444,Lower Flathead,sfcWind
+1975,Historical Emissions,6.698,6.028,6.298,Lower Flathead,sfcWind
+1976,Historical Emissions,6.613,6.285,6.5,Lower Flathead,sfcWind
+1977,Historical Emissions,6.601,5.971,6.076,Lower Flathead,sfcWind
+1978,Historical Emissions,6.461,6.074,6.299,Lower Flathead,sfcWind
+1979,Historical Emissions,6.562,6.116,6.351,Lower Flathead,sfcWind
+1980,Historical Emissions,6.791,6.033,6.509,Lower Flathead,sfcWind
+1981,Historical Emissions,6.706,6.037,6.251,Lower Flathead,sfcWind
+1982,Historical Emissions,6.678,5.84,6.404,Lower Flathead,sfcWind
+1983,Historical Emissions,6.878,6.035,6.148,Lower Flathead,sfcWind
+1984,Historical Emissions,6.549,6.019,6.338,Lower Flathead,sfcWind
+1985,Historical Emissions,6.456,6.119,6.265,Lower Flathead,sfcWind
+1986,Historical Emissions,6.61,5.988,6.376,Lower Flathead,sfcWind
+1987,Historical Emissions,6.843,5.978,6.268,Lower Flathead,sfcWind
+1988,Historical Emissions,6.672,6.201,6.473,Lower Flathead,sfcWind
+1989,Historical Emissions,6.517,5.998,6.127,Lower Flathead,sfcWind
+1990,Historical Emissions,6.661,5.659,6.372,Lower Flathead,sfcWind
+1991,Historical Emissions,6.626,5.975,6.446,Lower Flathead,sfcWind
+1992,Historical Emissions,6.626,6.275,6.427,Lower Flathead,sfcWind
+1993,Historical Emissions,6.419,5.965,6.156,Lower Flathead,sfcWind
+1994,Historical Emissions,6.568,5.881,6.134,Lower Flathead,sfcWind
+1995,Historical Emissions,6.773,6.051,6.336,Lower Flathead,sfcWind
+1996,Historical Emissions,6.654,5.812,6.379,Lower Flathead,sfcWind
+1997,Historical Emissions,6.476,6.003,6.263,Lower Flathead,sfcWind
+1998,Historical Emissions,6.431,5.92,6.171,Lower Flathead,sfcWind
+1999,Historical Emissions,6.346,5.961,6.204,Lower Flathead,sfcWind
+2000,Historical Emissions,6.32,6.14,6.239,Lower Flathead,sfcWind
+2001,Historical Emissions,6.784,5.878,6.1,Lower Flathead,sfcWind
+2002,Historical Emissions,6.709,5.955,6.247,Lower Flathead,sfcWind
+2003,Historical Emissions,6.347,5.877,6.123,Lower Flathead,sfcWind
+2004,Historical Emissions,6.667,6.006,6.291,Lower Flathead,sfcWind
+2005,Historical Emissions,6.547,5.787,6.276,Lower Flathead,sfcWind
+2006,Historical Emissions,6.716,6.029,6.349,Lower Flathead,sfcWind
+2007,Historical Emissions,6.626,5.882,6.307,Lower Flathead,sfcWind
+2008,Historical Emissions,6.526,5.8,6.141,Lower Flathead,sfcWind
+2009,Historical Emissions,6.651,5.932,6.408,Lower Flathead,sfcWind
+2010,Historical Emissions,6.463,5.914,6.257,Lower Flathead,sfcWind
+2011,Historical Emissions,6.408,6.03,6.21,Lower Flathead,sfcWind
+2012,Historical Emissions,6.406,5.918,6.17,Lower Flathead,sfcWind
+2013,Historical Emissions,6.527,5.758,6.191,Lower Flathead,sfcWind
+2014,Historical Emissions,6.48,5.936,6.159,Lower Flathead,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",6.578,5.76,6.262,Lower Flathead,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",6.522,5.519,6.181,Lower Flathead,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",6.548,5.662,6.266,Lower Flathead,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",6.51,5.892,6.262,Lower Flathead,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",6.572,5.598,6.072,Lower Flathead,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",6.499,5.903,6.194,Lower Flathead,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",6.511,5.558,6.268,Lower Flathead,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",6.918,5.749,6.033,Lower Flathead,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",6.681,5.58,6.362,Lower Flathead,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",6.562,5.735,6.16,Lower Flathead,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",6.48,5.666,6.025,Lower Flathead,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",6.609,5.831,6.055,Lower Flathead,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",6.744,5.897,6.421,Lower Flathead,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",6.473,5.482,6.137,Lower Flathead,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",6.371,5.577,6.128,Lower Flathead,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",6.467,5.787,6.166,Lower Flathead,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",6.35,5.543,6.028,Lower Flathead,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",6.868,5.949,6.299,Lower Flathead,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",6.467,5.674,6.135,Lower Flathead,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",6.436,5.806,6.089,Lower Flathead,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",6.284,5.644,5.997,Lower Flathead,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",6.63,5.833,6.459,Lower Flathead,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",6.455,5.859,6.233,Lower Flathead,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",6.324,5.64,6.18,Lower Flathead,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",6.324,5.769,6.054,Lower Flathead,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",6.438,5.71,6.188,Lower Flathead,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",6.629,5.621,6.172,Lower Flathead,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",6.34,5.756,6.186,Lower Flathead,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",6.635,5.805,6.182,Lower Flathead,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",6.227,5.718,6.036,Lower Flathead,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",6.459,5.572,5.927,Lower Flathead,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",6.443,5.633,6.08,Lower Flathead,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",6.601,5.861,6.327,Lower Flathead,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",6.493,5.881,6.136,Lower Flathead,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",6.533,5.823,6.21,Lower Flathead,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",6.679,5.696,6.266,Lower Flathead,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",6.445,5.787,6.128,Lower Flathead,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",6.299,5.793,6.139,Lower Flathead,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",6.616,5.765,6.159,Lower Flathead,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",6.671,5.723,6.195,Lower Flathead,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",6.517,5.466,6.148,Lower Flathead,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",6.556,5.581,6.153,Lower Flathead,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",6.591,5.602,6.044,Lower Flathead,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",6.47,5.866,6.232,Lower Flathead,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",6.499,5.824,6.127,Lower Flathead,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",6.418,5.984,6.19,Lower Flathead,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",6.296,5.438,5.943,Lower Flathead,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",6.555,5.794,6.192,Lower Flathead,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",6.602,5.706,6.134,Lower Flathead,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",6.544,5.495,6.138,Lower Flathead,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",6.455,5.796,6.045,Lower Flathead,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",6.404,5.893,6.193,Lower Flathead,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",6.504,5.6,6.158,Lower Flathead,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",6.282,5.653,6.133,Lower Flathead,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",6.438,5.571,6.244,Lower Flathead,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",6.197,5.708,6.085,Lower Flathead,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",6.378,5.678,6.207,Lower Flathead,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",6.406,5.598,6.208,Lower Flathead,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",6.63,5.714,6.296,Lower Flathead,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",6.433,5.601,5.822,Lower Flathead,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",6.354,5.539,6.144,Lower Flathead,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",6.768,5.796,6.32,Lower Flathead,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",6.494,5.861,6.259,Lower Flathead,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",6.448,5.663,6.173,Lower Flathead,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",6.557,5.724,6.122,Lower Flathead,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",6.663,5.974,6.227,Lower Flathead,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",6.442,5.806,6.019,Lower Flathead,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",6.351,5.655,6,Lower Flathead,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",6.42,5.726,6.07,Lower Flathead,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",6.568,5.568,6.054,Lower Flathead,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",6.422,5.886,6.188,Lower Flathead,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",6.561,5.696,6.33,Lower Flathead,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",6.832,5.924,6.196,Lower Flathead,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",6.536,5.705,6.338,Lower Flathead,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",6.421,5.55,5.876,Lower Flathead,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",6.382,5.612,6.087,Lower Flathead,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",6.571,5.824,6.264,Lower Flathead,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",6.407,5.516,6.004,Lower Flathead,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",6.495,5.626,6.25,Lower Flathead,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",6.61,5.849,6.361,Lower Flathead,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",6.626,5.808,6.165,Lower Flathead,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",6.607,5.775,6.156,Lower Flathead,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",6.555,5.795,6.268,Lower Flathead,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",6.679,5.688,6.315,Lower Flathead,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",6.125,5.578,6.067,Lower Flathead,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",6.523,5.909,6.161,Lower Flathead,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",6.37,5.664,6.123,Lower Flathead,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",6.526,5.553,6.059,Lower Flathead,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",6.32,5.441,6.016,Lower Flathead,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",6.359,5.665,6.116,Lower Flathead,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",6.366,5.768,5.977,Lower Flathead,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",6.734,5.965,6.215,Lower Flathead,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",6.581,5.976,6.069,Lower Flathead,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",6.506,5.777,6.175,Lower Flathead,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",6.42,5.724,6.15,Lower Flathead,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",6.428,5.815,6.149,Lower Flathead,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",6.242,5.862,6.154,Lower Flathead,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",6.471,5.675,6.161,Lower Flathead,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",6.608,5.662,6.274,Lower Flathead,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",6.307,5.481,6.007,Lower Flathead,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",6.515,5.588,6.284,Lower Flathead,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",6.45,5.682,6.307,Lower Flathead,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",6.601,5.628,6.103,Lower Flathead,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",6.316,5.646,5.975,Lower Flathead,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",6.487,5.811,6.225,Lower Flathead,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",6.404,5.737,6.131,Lower Flathead,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",6.347,5.78,6.081,Lower Flathead,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",6.474,5.683,6.189,Lower Flathead,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",6.403,5.721,6.149,Lower Flathead,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",6.367,5.853,6.199,Lower Flathead,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",6.344,5.741,6.19,Lower Flathead,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",6.59,5.688,6.052,Lower Flathead,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",6.529,5.618,6.308,Lower Flathead,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",6.643,5.366,6.287,Lower Flathead,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",6.635,5.77,6.427,Lower Flathead,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",6.387,5.761,6.192,Lower Flathead,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",6.57,5.706,6.337,Lower Flathead,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",6.526,5.634,6.209,Lower Flathead,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",6.538,5.997,6.328,Lower Flathead,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",6.181,5.787,6.043,Lower Flathead,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",6.199,5.8,5.923,Lower Flathead,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",6.433,5.796,6.243,Lower Flathead,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",6.631,5.793,6.057,Lower Flathead,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",6.288,5.586,5.961,Lower Flathead,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",6.301,5.649,5.989,Lower Flathead,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",6.445,5.468,6.236,Lower Flathead,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",6.272,5.767,6.067,Lower Flathead,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",6.411,5.249,6.225,Lower Flathead,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",6.392,5.608,6.149,Lower Flathead,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",6.381,5.559,6.135,Lower Flathead,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",6.578,5.711,6.074,Lower Flathead,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",6.904,5.631,6.302,Lower Flathead,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",6.427,5.733,6.098,Lower Flathead,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",6.112,5.545,5.895,Lower Flathead,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",6.411,5.76,6.128,Lower Flathead,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",6.586,5.772,6.135,Lower Flathead,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",6.481,5.709,6.046,Lower Flathead,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",6.417,5.896,6.196,Lower Flathead,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",6.543,5.792,6.063,Lower Flathead,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",6.318,5.566,6.028,Lower Flathead,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",6.357,5.861,6.04,Lower Flathead,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",6.528,5.777,6.187,Lower Flathead,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",6.46,5.843,6.245,Lower Flathead,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",6.365,5.435,6.167,Lower Flathead,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",6.408,5.871,6.126,Lower Flathead,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",6.662,5.905,6.305,Lower Flathead,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",6.306,5.636,6.071,Lower Flathead,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",6.662,5.899,6.083,Lower Flathead,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",6.39,5.697,6.056,Lower Flathead,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",6.375,5.77,6.081,Lower Flathead,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",6.438,5.597,5.934,Lower Flathead,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",6.227,5.467,5.99,Lower Flathead,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",6.468,5.762,6.242,Lower Flathead,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",6.699,5.879,6.128,Lower Flathead,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",6.448,5.794,6.124,Lower Flathead,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",6.432,5.689,6.171,Lower Flathead,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",6.459,5.407,6.132,Lower Flathead,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",6.665,5.682,6.164,Lower Flathead,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",6.423,5.751,6.122,Lower Flathead,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",6.473,5.881,6.117,Lower Flathead,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",6.434,5.897,6.224,Lower Flathead,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",6.23,5.735,6.075,Lower Flathead,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",6.417,5.846,6.037,Lower Flathead,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",6.297,5.459,6.02,Lower Flathead,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",6.544,5.824,6.237,Lower Flathead,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",6.289,5.886,6.028,Lower Flathead,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",6.106,5.726,5.83,Lower Flathead,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",6.089,5.456,5.936,Lower Flathead,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",6.445,5.53,6.037,Lower Flathead,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",6.497,5.661,6.295,Lower Flathead,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",6.348,5.595,6.038,Lower Flathead,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",6.201,5.591,5.928,Lower Flathead,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",6.466,5.689,6.199,Lower Flathead,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",6.508,5.565,6.138,Lower Flathead,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",6.407,5.298,6.119,Lower Flathead,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",6.512,5.535,6.036,Lower Flathead,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",6.42,5.789,6.314,Lower Flathead,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",6.348,5.593,5.964,Lower Flathead,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",6.354,5.608,6.188,Lower Flathead,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",6.228,5.783,5.96,Lower Flathead,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",6.372,5.75,6.148,Lower Flathead,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",6.391,5.385,6.111,Lower Flathead,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",6.228,5.793,5.982,Lower Flathead,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",6.398,5.488,6.057,Lower Flathead,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",6.423,5.755,6.126,Lower Flathead,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",6.47,5.585,6.1,Lower Flathead,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",6.429,5.641,6.114,Lower Flathead,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",6.416,5.632,6.054,Lower Flathead,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",6.519,5.766,6.12,Lower Flathead,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",6.609,5.504,6.306,Lower Flathead,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",6.278,5.736,6.001,Lower Flathead,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",6.505,5.596,6.113,Lower Flathead,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",6.447,5.792,6.334,Lower Flathead,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",6.468,5.69,6.21,Lower Flathead,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",6.481,5.699,6.192,Lower Flathead,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",6.6,5.552,6.134,Lower Flathead,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",6.635,5.484,6.174,Lower Flathead,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",6.328,5.722,6.088,Lower Flathead,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",6.388,5.59,5.896,Lower Flathead,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",6.445,5.73,6.137,Lower Flathead,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",7.023,5.615,6.166,Lower Flathead,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",6.287,5.551,5.908,Lower Flathead,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",6.361,5.894,6.211,Lower Flathead,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",6.537,5.62,6.087,Lower Flathead,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",6.255,5.665,6.045,Lower Flathead,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",6.336,5.728,6.202,Lower Flathead,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",6.826,5.516,6.222,Lower Flathead,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",6.367,5.742,6.241,Lower Flathead,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",6.121,5.76,6.028,Lower Flathead,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",6.491,5.783,6.223,Lower Flathead,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",6.353,5.493,6.117,Lower Flathead,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",6.276,5.506,5.856,Lower Flathead,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",6.482,5.855,6.247,Lower Flathead,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",6.575,5.661,6.265,Lower Flathead,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",6.504,5.919,6.186,Lower Flathead,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",6.496,5.424,6.165,Lower Flathead,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",6.502,5.662,6.151,Lower Flathead,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",6.364,5.825,6.111,Lower Flathead,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",6.439,5.448,5.855,Lower Flathead,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",6.363,5.558,5.957,Lower Flathead,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",6.491,5.758,6.034,Lower Flathead,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",6.338,5.382,5.984,Lower Flathead,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",6.674,5.721,6.135,Lower Flathead,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",6.13,5.631,5.921,Lower Flathead,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",6.51,5.643,6.09,Lower Flathead,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",6.395,5.729,6.249,Lower Flathead,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",6.496,5.687,6.152,Lower Flathead,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",6.432,5.705,6.053,Lower Flathead,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",6.444,5.547,6.127,Lower Flathead,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",6.363,5.559,6.035,Lower Flathead,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",6.398,5.858,6.133,Lower Flathead,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",6.323,5.604,6.005,Lower Flathead,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",6.457,5.646,6.192,Lower Flathead,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",6.475,5.484,6.08,Lower Flathead,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",6.444,5.693,5.941,Lower Flathead,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",6.106,5.651,5.913,Lower Flathead,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",6.371,5.474,6.012,Lower Flathead,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",6.331,5.701,6.114,Lower Flathead,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",6.178,5.493,6.054,Lower Flathead,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",6.365,5.377,5.954,Lower Flathead,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",6.344,5.766,6.052,Lower Flathead,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",6.642,5.767,6.391,Lower Flathead,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",6.545,5.813,6.198,Lower Flathead,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",6.339,5.493,6.023,Lower Flathead,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",6.713,5.796,6.337,Lower Flathead,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",6.374,5.372,6.171,Lower Flathead,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",6.434,5.856,6.185,Lower Flathead,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",6.512,5.612,6.257,Lower Flathead,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",6.34,5.474,6.029,Lower Flathead,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",6.174,5.446,5.984,Lower Flathead,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",6.369,5.418,6.15,Lower Flathead,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",6.326,5.724,6.146,Lower Flathead,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",6.408,5.811,5.96,Lower Flathead,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",6.592,5.859,6.338,Lower Flathead,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",6.409,5.43,5.903,Lower Flathead,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",6.532,5.528,6.073,Lower Flathead,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",6.56,5.821,6.317,Lower Flathead,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",6.317,5.753,6.149,Lower Flathead,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",6.284,5.543,6.011,Lower Flathead,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",6.305,5.531,5.983,Lower Flathead,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",6.415,5.847,6.186,Lower Flathead,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",6.449,5.437,6.324,Lower Flathead,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",6.01,5.75,5.883,Lower Flathead,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",6.268,5.127,5.758,Lower Flathead,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",6.296,5.638,6.164,Lower Flathead,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",6.315,5.459,6.141,Lower Flathead,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",6.439,5.653,6.18,Lower Flathead,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",6.383,5.532,5.8,Lower Flathead,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",6.513,5.776,6.001,Lower Flathead,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",6.496,5.571,6.007,Lower Flathead,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",6.511,5.569,5.886,Lower Flathead,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",6.24,5.509,6.188,Lower Flathead,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",6.429,5.571,6.216,Lower Flathead,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",6.797,5.554,6.337,Lower Flathead,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",6.231,5.606,5.952,Lower Flathead,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",6.196,5.586,5.892,Lower Flathead,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",6.651,5.606,6.127,Lower Flathead,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",6.635,5.823,6.139,Lower Flathead,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",6.33,5.691,6.188,Lower Flathead,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",6.278,5.46,6.026,Lower Flathead,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",6.605,5.621,6.029,Lower Flathead,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",6.436,5.606,6.093,Lower Flathead,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",6.658,5.533,6.179,Lower Flathead,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",6.521,5.674,6.034,Lower Flathead,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",6.185,5.512,5.996,Lower Flathead,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",6.27,5.714,6.112,Lower Flathead,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",6.315,5.469,5.824,Lower Flathead,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",6.399,5.328,5.842,Lower Flathead,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",6.544,5.576,6.081,Lower Flathead,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",6.309,5.647,6.083,Lower Flathead,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",6.588,5.602,6.19,Lower Flathead,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",6.271,5.605,6.005,Lower Flathead,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",6.571,5.847,6.196,Lower Flathead,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",6.485,5.634,6.083,Lower Flathead,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",6.118,5.77,5.933,Lower Flathead,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",6.118,5.516,5.867,Lower Flathead,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",6.278,5.838,6.156,Lower Flathead,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",6.386,5.507,5.985,Lower Flathead,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",6.472,5.482,6.017,Lower Flathead,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",6.327,5.506,6.188,Lower Flathead,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",6.265,5.723,6.045,Lower Flathead,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",6.357,5.467,6.153,Lower Flathead,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",6.661,5.811,6.164,Lower Flathead,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",6.011,5.269,5.793,Lower Flathead,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",6.354,5.673,6.125,Lower Flathead,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",6.493,5.666,6.223,Lower Flathead,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",6.556,5.472,5.952,Lower Flathead,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",6.202,5.572,5.969,Lower Flathead,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",6.248,5.737,6.031,Lower Flathead,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",6.319,5.692,5.969,Lower Flathead,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",6.479,5.668,6.038,Lower Flathead,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",6.42,5.699,6.006,Lower Flathead,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",6.595,5.745,6.35,Lower Flathead,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",6.119,5.688,5.92,Lower Flathead,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",6.356,5.356,5.922,Lower Flathead,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",6.188,5.348,5.914,Lower Flathead,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",6.55,5.876,6.202,Lower Flathead,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",6.382,5.975,6.216,Lower Flathead,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",6.393,5.437,6.118,Lower Flathead,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",6.241,5.379,5.79,Lower Flathead,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",6.433,5.608,6.131,Lower Flathead,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",6.416,5.299,6.116,Lower Flathead,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",6.4,5.625,6.031,Lower Flathead,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",6.198,5.622,6.004,Lower Flathead,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",6.578,5.607,6.206,Lower Flathead,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",6.578,5.289,6.237,Lower Flathead,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",6.163,5.638,5.985,Lower Flathead,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",6.175,5.448,5.994,Lower Flathead,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",6.545,5.757,6.325,Lower Flathead,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",6.297,5.619,6.161,Lower Flathead,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",6.375,5.662,6.101,Lower Flathead,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",6.383,5.609,6.065,Lower Flathead,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",6.428,5.756,6.153,Lower Flathead,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",6.475,5.776,6.297,Lower Flathead,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",6.383,5.591,6.141,Lower Flathead,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",6.161,5.357,5.562,Lower Flathead,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",6.391,5.65,6.01,Lower Flathead,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",6.573,5.568,6.166,Lower Flathead,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",6.363,5.746,6.154,Lower Flathead,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",6.055,5.149,5.863,Lower Flathead,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",6.563,5.66,6.243,Lower Flathead,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",6.332,5.383,6.081,Lower Flathead,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",6.201,5.658,5.898,Lower Flathead,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",6.506,5.693,5.877,Lower Flathead,sfcWind

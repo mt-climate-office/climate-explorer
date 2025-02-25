@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,6.21,5.61,5.853,St. Joe,sfcWind
+1951,Historical Emissions,6.028,5.693,5.781,St. Joe,sfcWind
+1952,Historical Emissions,6.132,5.542,5.947,St. Joe,sfcWind
+1953,Historical Emissions,6.209,5.615,5.829,St. Joe,sfcWind
+1954,Historical Emissions,6.303,5.597,5.983,St. Joe,sfcWind
+1955,Historical Emissions,5.935,5.602,5.702,St. Joe,sfcWind
+1956,Historical Emissions,6.262,5.687,5.834,St. Joe,sfcWind
+1957,Historical Emissions,6.307,5.749,5.965,St. Joe,sfcWind
+1958,Historical Emissions,6.339,5.694,5.787,St. Joe,sfcWind
+1959,Historical Emissions,6.03,5.721,5.957,St. Joe,sfcWind
+1960,Historical Emissions,6.207,5.8,6.008,St. Joe,sfcWind
+1961,Historical Emissions,6.077,5.695,5.901,St. Joe,sfcWind
+1962,Historical Emissions,6.013,5.614,5.796,St. Joe,sfcWind
+1963,Historical Emissions,6.041,5.559,5.959,St. Joe,sfcWind
+1964,Historical Emissions,6.292,5.665,5.821,St. Joe,sfcWind
+1965,Historical Emissions,6.291,5.69,5.849,St. Joe,sfcWind
+1966,Historical Emissions,6.242,5.746,6.008,St. Joe,sfcWind
+1967,Historical Emissions,6.143,5.591,5.932,St. Joe,sfcWind
+1968,Historical Emissions,6.138,5.485,5.907,St. Joe,sfcWind
+1969,Historical Emissions,6.165,5.64,5.942,St. Joe,sfcWind
+1970,Historical Emissions,6.23,5.72,5.817,St. Joe,sfcWind
+1971,Historical Emissions,6.102,5.711,5.927,St. Joe,sfcWind
+1972,Historical Emissions,6.16,5.925,6.046,St. Joe,sfcWind
+1973,Historical Emissions,5.971,5.662,5.795,St. Joe,sfcWind
+1974,Historical Emissions,6.072,5.657,5.977,St. Joe,sfcWind
+1975,Historical Emissions,6.255,5.616,5.824,St. Joe,sfcWind
+1976,Historical Emissions,6.085,5.846,5.934,St. Joe,sfcWind
+1977,Historical Emissions,6.096,5.559,5.785,St. Joe,sfcWind
+1978,Historical Emissions,6.037,5.688,5.772,St. Joe,sfcWind
+1979,Historical Emissions,6.168,5.741,5.979,St. Joe,sfcWind
+1980,Historical Emissions,6.313,5.623,5.955,St. Joe,sfcWind
+1981,Historical Emissions,6.205,5.494,5.862,St. Joe,sfcWind
+1982,Historical Emissions,6.219,5.539,5.806,St. Joe,sfcWind
+1983,Historical Emissions,6.408,5.624,5.782,St. Joe,sfcWind
+1984,Historical Emissions,6.051,5.654,5.875,St. Joe,sfcWind
+1985,Historical Emissions,6.017,5.711,5.868,St. Joe,sfcWind
+1986,Historical Emissions,6.079,5.58,5.891,St. Joe,sfcWind
+1987,Historical Emissions,6.355,5.567,5.9,St. Joe,sfcWind
+1988,Historical Emissions,6.123,5.733,5.951,St. Joe,sfcWind
+1989,Historical Emissions,5.993,5.634,5.703,St. Joe,sfcWind
+1990,Historical Emissions,6.096,5.329,5.927,St. Joe,sfcWind
+1991,Historical Emissions,6.21,5.629,5.945,St. Joe,sfcWind
+1992,Historical Emissions,6.051,5.811,5.984,St. Joe,sfcWind
+1993,Historical Emissions,5.969,5.538,5.663,St. Joe,sfcWind
+1994,Historical Emissions,6.076,5.475,5.747,St. Joe,sfcWind
+1995,Historical Emissions,6.193,5.676,5.828,St. Joe,sfcWind
+1996,Historical Emissions,6.18,5.419,5.913,St. Joe,sfcWind
+1997,Historical Emissions,6.073,5.652,5.798,St. Joe,sfcWind
+1998,Historical Emissions,5.877,5.538,5.727,St. Joe,sfcWind
+1999,Historical Emissions,5.968,5.561,5.778,St. Joe,sfcWind
+2000,Historical Emissions,5.927,5.71,5.766,St. Joe,sfcWind
+2001,Historical Emissions,6.256,5.426,5.795,St. Joe,sfcWind
+2002,Historical Emissions,6.158,5.465,5.759,St. Joe,sfcWind
+2003,Historical Emissions,5.866,5.557,5.705,St. Joe,sfcWind
+2004,Historical Emissions,6.194,5.626,5.849,St. Joe,sfcWind
+2005,Historical Emissions,6.1,5.413,5.788,St. Joe,sfcWind
+2006,Historical Emissions,6.164,5.589,5.888,St. Joe,sfcWind
+2007,Historical Emissions,6.182,5.491,5.862,St. Joe,sfcWind
+2008,Historical Emissions,6.006,5.47,5.801,St. Joe,sfcWind
+2009,Historical Emissions,6.187,5.478,5.808,St. Joe,sfcWind
+2010,Historical Emissions,6.059,5.515,5.7,St. Joe,sfcWind
+2011,Historical Emissions,5.963,5.594,5.744,St. Joe,sfcWind
+2012,Historical Emissions,5.914,5.604,5.742,St. Joe,sfcWind
+2013,Historical Emissions,5.997,5.44,5.746,St. Joe,sfcWind
+2014,Historical Emissions,6.035,5.448,5.794,St. Joe,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",6.054,5.427,5.941,St. Joe,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",6.065,5.24,5.785,St. Joe,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",6.084,5.27,5.799,St. Joe,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",6.087,5.442,5.904,St. Joe,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",6.158,5.245,5.603,St. Joe,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",5.916,5.402,5.741,St. Joe,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",6.084,5.217,5.867,St. Joe,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",6.398,5.272,5.599,St. Joe,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",6.281,5.188,5.955,St. Joe,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",6.004,5.323,5.712,St. Joe,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",5.964,5.283,5.6,St. Joe,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",6.099,5.369,5.595,St. Joe,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",6.295,5.492,5.744,St. Joe,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",5.948,5.04,5.753,St. Joe,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",5.93,5.132,5.678,St. Joe,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",5.967,5.32,5.602,St. Joe,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",5.873,5.152,5.675,St. Joe,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",6.345,5.564,5.947,St. Joe,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",5.928,5.319,5.758,St. Joe,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",6.055,5.43,5.724,St. Joe,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",5.84,5.245,5.612,St. Joe,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",6.201,5.447,6,St. Joe,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",5.995,5.386,5.837,St. Joe,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",5.93,5.218,5.694,St. Joe,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",5.911,5.214,5.726,St. Joe,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",5.869,5.311,5.743,St. Joe,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",6.09,5.317,5.739,St. Joe,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",5.921,5.451,5.766,St. Joe,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",6.157,5.424,5.761,St. Joe,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",5.874,5.254,5.631,St. Joe,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",6.006,5.196,5.552,St. Joe,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",5.929,5.141,5.686,St. Joe,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",6.159,5.354,5.908,St. Joe,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",6.042,5.327,5.746,St. Joe,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",6.046,5.424,5.855,St. Joe,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",6.293,5.232,5.869,St. Joe,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",6.115,5.402,5.814,St. Joe,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",5.891,5.401,5.706,St. Joe,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",6.185,5.337,5.755,St. Joe,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",6.226,5.332,5.762,St. Joe,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",5.964,5.195,5.755,St. Joe,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",6.25,5.306,5.76,St. Joe,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",6.045,5.309,5.669,St. Joe,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",6.02,5.483,5.841,St. Joe,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",6.033,5.409,5.699,St. Joe,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",5.999,5.437,5.749,St. Joe,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",5.87,5.201,5.652,St. Joe,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",6.043,5.488,5.856,St. Joe,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",6.077,5.379,5.708,St. Joe,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",5.999,5.131,5.798,St. Joe,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",6.082,5.385,5.658,St. Joe,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",5.962,5.414,5.839,St. Joe,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",6.054,5.166,5.749,St. Joe,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",5.881,5.422,5.743,St. Joe,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",6.016,5.214,5.702,St. Joe,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",5.856,5.177,5.539,St. Joe,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",5.956,5.397,5.81,St. Joe,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",5.98,5.281,5.801,St. Joe,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",6.128,5.318,5.823,St. Joe,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",5.911,5.297,5.502,St. Joe,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",6.024,5.181,5.743,St. Joe,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",6.187,5.405,5.815,St. Joe,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",6.071,5.449,5.818,St. Joe,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",5.974,5.292,5.762,St. Joe,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",6.113,5.284,5.696,St. Joe,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",6.166,5.489,5.805,St. Joe,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",5.927,5.337,5.677,St. Joe,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",5.918,5.287,5.582,St. Joe,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",5.979,5.407,5.758,St. Joe,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",6.115,5.111,5.693,St. Joe,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",6.033,5.443,5.797,St. Joe,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",6.066,5.356,5.806,St. Joe,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",6.348,5.537,5.742,St. Joe,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",6.025,5.359,5.9,St. Joe,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",5.914,5.197,5.62,St. Joe,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",5.893,5.247,5.758,St. Joe,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",6.167,5.433,5.832,St. Joe,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",5.878,5.222,5.625,St. Joe,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",6.04,5.223,5.824,St. Joe,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",6.132,5.475,5.919,St. Joe,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",6.049,5.306,5.726,St. Joe,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",6.244,5.418,5.778,St. Joe,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",6.208,5.342,5.703,St. Joe,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",6.295,5.156,5.796,St. Joe,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",5.797,5.216,5.647,St. Joe,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",6.126,5.456,5.701,St. Joe,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",6.035,5.187,5.601,St. Joe,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",6.09,5.231,5.557,St. Joe,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",5.911,5.021,5.633,St. Joe,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",6.006,5.329,5.688,St. Joe,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",5.895,5.296,5.601,St. Joe,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",6.173,5.336,5.703,St. Joe,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",6.102,5.328,5.665,St. Joe,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",5.992,5.304,5.821,St. Joe,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",5.874,5.35,5.706,St. Joe,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",5.927,5.359,5.721,St. Joe,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",5.877,5.46,5.764,St. Joe,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",6.007,5.312,5.667,St. Joe,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",6.084,5.272,5.77,St. Joe,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",5.881,5.152,5.532,St. Joe,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",6.087,5.075,5.82,St. Joe,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",5.976,5.291,5.78,St. Joe,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",6.158,5.224,5.697,St. Joe,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",5.808,5.239,5.611,St. Joe,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",5.942,5.285,5.771,St. Joe,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",6.035,5.379,5.726,St. Joe,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",5.914,5.382,5.675,St. Joe,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",6.034,5.327,5.755,St. Joe,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",5.876,5.387,5.678,St. Joe,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",6.007,5.444,5.746,St. Joe,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",5.926,5.453,5.687,St. Joe,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",6.147,5.215,5.629,St. Joe,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",5.99,5.259,5.773,St. Joe,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",6.105,5.039,5.764,St. Joe,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",6.133,5.345,6.028,St. Joe,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",5.855,5.222,5.748,St. Joe,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",6.156,5.332,5.803,St. Joe,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",6.018,5.261,5.82,St. Joe,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",6.036,5.501,5.805,St. Joe,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",5.8,5.334,5.556,St. Joe,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",5.745,5.387,5.533,St. Joe,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",6.053,5.343,5.862,St. Joe,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",6.174,5.373,5.645,St. Joe,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",5.839,5.262,5.545,St. Joe,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",5.875,5.274,5.637,St. Joe,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",6.016,5.14,5.838,St. Joe,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",5.905,5.314,5.658,St. Joe,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",5.999,5.055,5.791,St. Joe,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",6.041,5.295,5.764,St. Joe,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",5.896,5.187,5.752,St. Joe,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",6.104,5.315,5.603,St. Joe,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",6.373,5.329,5.788,St. Joe,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",6.043,5.318,5.701,St. Joe,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",5.767,5.145,5.525,St. Joe,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",6.001,5.382,5.797,St. Joe,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",6.028,5.282,5.624,St. Joe,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",5.972,5.332,5.629,St. Joe,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",5.949,5.382,5.756,St. Joe,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",6.062,5.18,5.69,St. Joe,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",5.861,5.185,5.568,St. Joe,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",5.915,5.387,5.738,St. Joe,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",6.063,5.445,5.874,St. Joe,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",5.979,5.39,5.788,St. Joe,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",5.928,5.05,5.754,St. Joe,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",5.923,5.305,5.714,St. Joe,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",6.135,5.409,5.832,St. Joe,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",5.859,5.157,5.614,St. Joe,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",6.248,5.443,5.593,St. Joe,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",5.934,5.272,5.65,St. Joe,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",5.954,5.219,5.746,St. Joe,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",5.938,5.306,5.515,St. Joe,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",5.87,5.074,5.547,St. Joe,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",6.01,5.381,5.799,St. Joe,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",6.209,5.503,5.667,St. Joe,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",6.012,5.265,5.681,St. Joe,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",6.041,5.306,5.742,St. Joe,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",6.025,5.144,5.645,St. Joe,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",6.148,5.417,5.739,St. Joe,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",6.06,5.22,5.651,St. Joe,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",5.931,5.381,5.738,St. Joe,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",6.011,5.465,5.722,St. Joe,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",5.845,5.276,5.639,St. Joe,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",5.939,5.43,5.699,St. Joe,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",5.849,5.084,5.617,St. Joe,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",6.062,5.381,5.619,St. Joe,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",5.73,5.381,5.686,St. Joe,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",5.69,5.31,5.465,St. Joe,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",5.734,5.071,5.548,St. Joe,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",5.968,5.121,5.703,St. Joe,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",6.025,5.237,5.806,St. Joe,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",5.935,5.191,5.73,St. Joe,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",5.856,5.227,5.465,St. Joe,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",5.978,5.29,5.71,St. Joe,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",6.037,5.286,5.745,St. Joe,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",5.939,5.052,5.66,St. Joe,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",5.985,5.218,5.618,St. Joe,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",5.986,5.371,5.799,St. Joe,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",5.94,5.134,5.563,St. Joe,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",5.886,5.176,5.833,St. Joe,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",5.88,5.297,5.593,St. Joe,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",5.844,5.342,5.685,St. Joe,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",5.911,4.991,5.687,St. Joe,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",5.916,5.372,5.56,St. Joe,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",5.966,5.187,5.557,St. Joe,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",5.99,5.419,5.627,St. Joe,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",5.97,5.188,5.801,St. Joe,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",5.974,5.244,5.668,St. Joe,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",5.897,5.203,5.655,St. Joe,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",6.107,5.326,5.756,St. Joe,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",6.125,5.144,5.861,St. Joe,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",5.869,5.326,5.687,St. Joe,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",5.927,5.189,5.593,St. Joe,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",6.088,5.352,5.871,St. Joe,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",5.987,5.33,5.724,St. Joe,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",5.91,5.334,5.557,St. Joe,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",6.173,5.07,5.608,St. Joe,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",6.165,5.173,5.63,St. Joe,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",5.94,5.455,5.741,St. Joe,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",5.917,5.253,5.505,St. Joe,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",6.047,5.333,5.705,St. Joe,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",6.329,5.28,5.73,St. Joe,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",5.845,5.146,5.492,St. Joe,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",5.848,5.335,5.802,St. Joe,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",5.981,5.181,5.577,St. Joe,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",5.823,5.262,5.689,St. Joe,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",5.865,5.319,5.763,St. Joe,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",6.317,5.032,5.717,St. Joe,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",5.906,5.278,5.737,St. Joe,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",5.791,5.41,5.525,St. Joe,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",6.081,5.316,5.804,St. Joe,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",5.95,5.189,5.718,St. Joe,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",5.854,5.01,5.414,St. Joe,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",6.097,5.445,5.808,St. Joe,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",6.092,5.222,5.785,St. Joe,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",6.105,5.46,5.704,St. Joe,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",6.013,4.991,5.713,St. Joe,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",5.941,5.283,5.739,St. Joe,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",5.944,5.474,5.799,St. Joe,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",5.973,5.025,5.345,St. Joe,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",5.784,5.183,5.554,St. Joe,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",5.944,5.35,5.673,St. Joe,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",5.891,5.088,5.676,St. Joe,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",6.181,5.278,5.659,St. Joe,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",5.659,5.208,5.565,St. Joe,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",6.047,5.179,5.606,St. Joe,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",5.97,5.296,5.729,St. Joe,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",6.027,5.265,5.664,St. Joe,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",5.82,5.289,5.713,St. Joe,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",5.941,5.146,5.647,St. Joe,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",6.057,5.229,5.527,St. Joe,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",5.891,5.273,5.628,St. Joe,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",5.762,5.112,5.529,St. Joe,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",5.98,5.306,5.826,St. Joe,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",5.972,5.129,5.73,St. Joe,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",5.951,5.3,5.596,St. Joe,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",5.677,5.191,5.484,St. Joe,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",5.917,5.209,5.63,St. Joe,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",5.963,5.346,5.716,St. Joe,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",5.82,5.212,5.664,St. Joe,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",5.869,5.025,5.654,St. Joe,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",5.855,5.331,5.727,St. Joe,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",6.208,5.473,5.976,St. Joe,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",6.036,5.438,5.685,St. Joe,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",5.87,5.046,5.69,St. Joe,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",6.192,5.385,5.826,St. Joe,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",5.996,5.092,5.7,St. Joe,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",5.963,5.41,5.797,St. Joe,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",6.002,5.197,5.816,St. Joe,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",5.796,5.155,5.645,St. Joe,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",5.774,5.113,5.579,St. Joe,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",5.881,5.044,5.687,St. Joe,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",5.791,5.186,5.64,St. Joe,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",5.905,5.34,5.658,St. Joe,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",6.113,5.499,5.948,St. Joe,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",5.863,5.051,5.572,St. Joe,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",6.051,5.264,5.612,St. Joe,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",6.086,5.387,5.889,St. Joe,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",5.88,5.291,5.747,St. Joe,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",5.8,5.145,5.593,St. Joe,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",5.831,5.124,5.577,St. Joe,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",6.041,5.424,5.76,St. Joe,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",6.041,5.004,5.892,St. Joe,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",5.641,5.288,5.55,St. Joe,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",5.793,4.828,5.169,St. Joe,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",5.964,5.301,5.735,St. Joe,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",5.882,5.133,5.758,St. Joe,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",5.954,5.166,5.737,St. Joe,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",5.9,5.078,5.486,St. Joe,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",6.085,5.389,5.629,St. Joe,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",5.932,5.31,5.634,St. Joe,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",5.993,5.183,5.488,St. Joe,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",5.79,5.127,5.684,St. Joe,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",5.956,5.254,5.755,St. Joe,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",6.291,5.115,5.857,St. Joe,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",5.88,5.249,5.61,St. Joe,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",5.685,5.17,5.492,St. Joe,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",6.161,5.299,5.798,St. Joe,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",6.114,5.368,5.703,St. Joe,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",5.876,5.283,5.815,St. Joe,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",5.914,5.118,5.576,St. Joe,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",6.032,5.279,5.679,St. Joe,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",6.157,5.306,5.72,St. Joe,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",6.159,5.08,5.73,St. Joe,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",5.965,5.164,5.633,St. Joe,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",5.737,5.254,5.595,St. Joe,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",5.924,5.329,5.615,St. Joe,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",5.784,5.063,5.458,St. Joe,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",5.851,4.958,5.395,St. Joe,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",6.157,5.272,5.641,St. Joe,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",5.797,5.308,5.749,St. Joe,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",6.048,5.245,5.714,St. Joe,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",5.787,5.206,5.567,St. Joe,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",6.2,5.334,5.732,St. Joe,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",6.021,5.219,5.654,St. Joe,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",5.778,5.374,5.596,St. Joe,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",5.63,5.051,5.451,St. Joe,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",5.891,5.46,5.76,St. Joe,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",5.956,5.049,5.642,St. Joe,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",5.972,5.142,5.615,St. Joe,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",5.832,5.172,5.712,St. Joe,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",5.758,5.326,5.637,St. Joe,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",5.939,5.069,5.616,St. Joe,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",6.199,5.336,5.61,St. Joe,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",5.555,4.918,5.456,St. Joe,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",5.923,5.268,5.76,St. Joe,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",5.994,5.252,5.796,St. Joe,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",6.048,5.18,5.46,St. Joe,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",5.739,5.116,5.554,St. Joe,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",5.869,5.29,5.611,St. Joe,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",5.804,5.286,5.624,St. Joe,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",5.987,5.27,5.622,St. Joe,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",6.017,5.239,5.587,St. Joe,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",6.091,5.298,5.874,St. Joe,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",5.734,5.266,5.569,St. Joe,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",5.957,5.007,5.401,St. Joe,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",5.674,4.97,5.462,St. Joe,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",6.126,5.451,5.829,St. Joe,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",5.936,5.516,5.823,St. Joe,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",5.837,5.105,5.709,St. Joe,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",5.74,4.994,5.401,St. Joe,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",5.89,5.226,5.763,St. Joe,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",5.913,5.069,5.662,St. Joe,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",5.866,5.236,5.542,St. Joe,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",5.769,5.126,5.527,St. Joe,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",6.145,5.261,5.744,St. Joe,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",5.969,4.906,5.702,St. Joe,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",5.868,5.274,5.593,St. Joe,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",5.756,5.056,5.584,St. Joe,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",6.048,5.307,5.808,St. Joe,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",5.845,5.293,5.641,St. Joe,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",5.976,5.171,5.608,St. Joe,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",5.91,5.199,5.576,St. Joe,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",6.094,5.32,5.657,St. Joe,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",5.985,5.393,5.838,St. Joe,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",5.906,5.289,5.661,St. Joe,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",5.642,4.885,5.325,St. Joe,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",6.016,5.263,5.598,St. Joe,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",5.998,5.215,5.718,St. Joe,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",5.933,5.288,5.627,St. Joe,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",5.661,4.811,5.439,St. Joe,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",6.147,5.271,5.825,St. Joe,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",5.898,5.037,5.727,St. Joe,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",5.745,5.223,5.479,St. Joe,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",5.944,5.229,5.475,St. Joe,sfcWind

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,265.935,243.868,254,Lower Belle Fourche,dry-days
+1951,Historical Emissions,262.933,243.867,257.334,Lower Belle Fourche,dry-days
+1952,Historical Emissions,280.333,242.933,253,Lower Belle Fourche,dry-days
+1953,Historical Emissions,264.066,240.133,255.999,Lower Belle Fourche,dry-days
+1954,Historical Emissions,258.466,230.8,249.332,Lower Belle Fourche,dry-days
+1955,Historical Emissions,274.267,245.734,256,Lower Belle Fourche,dry-days
+1956,Historical Emissions,274,246.6,257.334,Lower Belle Fourche,dry-days
+1957,Historical Emissions,282.133,226.4,252.333,Lower Belle Fourche,dry-days
+1958,Historical Emissions,270.467,241.934,250.334,Lower Belle Fourche,dry-days
+1959,Historical Emissions,265.399,230.133,243.667,Lower Belle Fourche,dry-days
+1960,Historical Emissions,266.2,242.467,252.668,Lower Belle Fourche,dry-days
+1961,Historical Emissions,260.733,240.199,249,Lower Belle Fourche,dry-days
+1962,Historical Emissions,273.133,232.201,255.665,Lower Belle Fourche,dry-days
+1963,Historical Emissions,258.4,242.132,253.002,Lower Belle Fourche,dry-days
+1964,Historical Emissions,264.933,247.201,257,Lower Belle Fourche,dry-days
+1965,Historical Emissions,263.934,244.6,254,Lower Belle Fourche,dry-days
+1966,Historical Emissions,271.733,221.866,251.001,Lower Belle Fourche,dry-days
+1967,Historical Emissions,270.068,233.601,252.334,Lower Belle Fourche,dry-days
+1968,Historical Emissions,271.467,226.799,239.668,Lower Belle Fourche,dry-days
+1969,Historical Emissions,263.134,247.267,252.666,Lower Belle Fourche,dry-days
+1970,Historical Emissions,273.134,237.668,252.332,Lower Belle Fourche,dry-days
+1971,Historical Emissions,271.866,241.733,255.001,Lower Belle Fourche,dry-days
+1972,Historical Emissions,266.334,246.4,259.332,Lower Belle Fourche,dry-days
+1973,Historical Emissions,268.067,239.801,251.002,Lower Belle Fourche,dry-days
+1974,Historical Emissions,276.067,239.801,254.334,Lower Belle Fourche,dry-days
+1975,Historical Emissions,269.201,239.4,253,Lower Belle Fourche,dry-days
+1976,Historical Emissions,263.333,250.933,257.665,Lower Belle Fourche,dry-days
+1977,Historical Emissions,257.935,241.866,249.333,Lower Belle Fourche,dry-days
+1978,Historical Emissions,257.267,214.333,250.333,Lower Belle Fourche,dry-days
+1979,Historical Emissions,263.734,234.734,252.667,Lower Belle Fourche,dry-days
+1980,Historical Emissions,279.799,234.666,255,Lower Belle Fourche,dry-days
+1981,Historical Emissions,261.068,238.668,252.668,Lower Belle Fourche,dry-days
+1982,Historical Emissions,269.133,238.067,252.666,Lower Belle Fourche,dry-days
+1983,Historical Emissions,264.4,236.068,254.332,Lower Belle Fourche,dry-days
+1984,Historical Emissions,275.199,242.866,263,Lower Belle Fourche,dry-days
+1985,Historical Emissions,267.066,246.8,257,Lower Belle Fourche,dry-days
+1986,Historical Emissions,249.601,229.067,239.667,Lower Belle Fourche,dry-days
+1987,Historical Emissions,252.4,234.533,242.999,Lower Belle Fourche,dry-days
+1988,Historical Emissions,257.201,233.134,248.001,Lower Belle Fourche,dry-days
+1989,Historical Emissions,267.334,241.601,253.667,Lower Belle Fourche,dry-days
+1990,Historical Emissions,272.001,241.667,253.001,Lower Belle Fourche,dry-days
+1991,Historical Emissions,266.866,226.934,246.999,Lower Belle Fourche,dry-days
+1992,Historical Emissions,267.135,242.001,252.666,Lower Belle Fourche,dry-days
+1993,Historical Emissions,263.6,236.465,252,Lower Belle Fourche,dry-days
+1994,Historical Emissions,262.999,239.867,256,Lower Belle Fourche,dry-days
+1995,Historical Emissions,271.732,240.934,253,Lower Belle Fourche,dry-days
+1996,Historical Emissions,288.668,236.667,251.001,Lower Belle Fourche,dry-days
+1997,Historical Emissions,259.334,243.066,253.667,Lower Belle Fourche,dry-days
+1998,Historical Emissions,274.868,233.001,246.001,Lower Belle Fourche,dry-days
+1999,Historical Emissions,254.133,239.4,246.668,Lower Belle Fourche,dry-days
+2000,Historical Emissions,276.467,236.4,256,Lower Belle Fourche,dry-days
+2001,Historical Emissions,257.001,240.2,250.666,Lower Belle Fourche,dry-days
+2002,Historical Emissions,267.066,242.4,255.667,Lower Belle Fourche,dry-days
+2003,Historical Emissions,267,228.201,253.999,Lower Belle Fourche,dry-days
+2004,Historical Emissions,275.266,243.2,254,Lower Belle Fourche,dry-days
+2005,Historical Emissions,270.801,238.468,265.334,Lower Belle Fourche,dry-days
+2006,Historical Emissions,260.866,230.8,248.333,Lower Belle Fourche,dry-days
+2007,Historical Emissions,269.067,233.934,251.332,Lower Belle Fourche,dry-days
+2008,Historical Emissions,263.467,243.667,250.667,Lower Belle Fourche,dry-days
+2009,Historical Emissions,268.067,235.467,248.667,Lower Belle Fourche,dry-days
+2010,Historical Emissions,270.933,232.667,260.668,Lower Belle Fourche,dry-days
+2011,Historical Emissions,267.268,249.133,256.668,Lower Belle Fourche,dry-days
+2012,Historical Emissions,264.665,238.667,247.333,Lower Belle Fourche,dry-days
+2013,Historical Emissions,268.667,242.667,247.001,Lower Belle Fourche,dry-days
+2014,Historical Emissions,267.267,242.734,255.333,Lower Belle Fourche,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",271.733,244.934,258.667,Lower Belle Fourche,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",280.734,236.6,257.667,Lower Belle Fourche,dry-days
+2015,"High Emissions
+(SSP3-7.0)",268.532,237.466,255.333,Lower Belle Fourche,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",262.867,249.599,257.334,Lower Belle Fourche,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",265.733,234.4,250.334,Lower Belle Fourche,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",260.6,233.933,239.334,Lower Belle Fourche,dry-days
+2016,"High Emissions
+(SSP3-7.0)",283.668,234.732,249.999,Lower Belle Fourche,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",263.668,235.867,252.666,Lower Belle Fourche,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",263.668,241.8,256.332,Lower Belle Fourche,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",266.067,232.6,247.667,Lower Belle Fourche,dry-days
+2017,"High Emissions
+(SSP3-7.0)",258.001,237.534,249.666,Lower Belle Fourche,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",259.8,242.932,249,Lower Belle Fourche,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",265.267,232.134,243.665,Lower Belle Fourche,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",255.6,242.666,251,Lower Belle Fourche,dry-days
+2018,"High Emissions
+(SSP3-7.0)",256.401,234.867,250.667,Lower Belle Fourche,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",268.266,236.467,247.333,Lower Belle Fourche,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",270.334,243.135,258.667,Lower Belle Fourche,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",252.068,243.134,243.669,Lower Belle Fourche,dry-days
+2019,"High Emissions
+(SSP3-7.0)",264.199,236.334,244.334,Lower Belle Fourche,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",267.067,231.266,252,Lower Belle Fourche,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",264.934,236.6,250.333,Lower Belle Fourche,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",266.535,232.667,258.668,Lower Belle Fourche,dry-days
+2020,"High Emissions
+(SSP3-7.0)",254.4,233.334,250.001,Lower Belle Fourche,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",254.866,234.201,245.999,Lower Belle Fourche,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",266.734,233.6,258.333,Lower Belle Fourche,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",283.666,242.468,263.333,Lower Belle Fourche,dry-days
+2021,"High Emissions
+(SSP3-7.0)",265.067,242.401,251.667,Lower Belle Fourche,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",269.4,239.867,246.667,Lower Belle Fourche,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",264.734,238.801,250.666,Lower Belle Fourche,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",257.533,231.266,251.665,Lower Belle Fourche,dry-days
+2022,"High Emissions
+(SSP3-7.0)",260.134,235.866,248.668,Lower Belle Fourche,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",273.399,232.134,259.334,Lower Belle Fourche,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",265.065,236.2,247.666,Lower Belle Fourche,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",274.533,233.933,246.666,Lower Belle Fourche,dry-days
+2023,"High Emissions
+(SSP3-7.0)",275.934,231.265,241.334,Lower Belle Fourche,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",257.399,232.534,240.667,Lower Belle Fourche,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",263.867,231.667,249.666,Lower Belle Fourche,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",261.866,230.533,249.001,Lower Belle Fourche,dry-days
+2024,"High Emissions
+(SSP3-7.0)",266.667,247.335,256.667,Lower Belle Fourche,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",266.134,242.334,249.336,Lower Belle Fourche,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",265.6,241.598,253.001,Lower Belle Fourche,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",264.2,235.335,255,Lower Belle Fourche,dry-days
+2025,"High Emissions
+(SSP3-7.0)",260.867,238.668,248,Lower Belle Fourche,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",259,239.267,246.333,Lower Belle Fourche,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",265.334,241.334,255,Lower Belle Fourche,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",262.667,230.601,256.334,Lower Belle Fourche,dry-days
+2026,"High Emissions
+(SSP3-7.0)",252.266,224.2,238.668,Lower Belle Fourche,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",262.534,238.733,247.001,Lower Belle Fourche,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",267.866,224.866,239.333,Lower Belle Fourche,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",271.8,235.266,253.667,Lower Belle Fourche,dry-days
+2027,"High Emissions
+(SSP3-7.0)",256.734,237.867,249.666,Lower Belle Fourche,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",276.4,242.465,250.667,Lower Belle Fourche,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",257.801,242.532,250.334,Lower Belle Fourche,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",262.266,231.534,243.334,Lower Belle Fourche,dry-days
+2028,"High Emissions
+(SSP3-7.0)",264.133,241.333,252.666,Lower Belle Fourche,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",260.067,237.6,253,Lower Belle Fourche,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",259.733,239.4,248.333,Lower Belle Fourche,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",267.333,232,254.333,Lower Belle Fourche,dry-days
+2029,"High Emissions
+(SSP3-7.0)",261.801,230.4,244.667,Lower Belle Fourche,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",279.266,241.067,250.666,Lower Belle Fourche,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",276.468,226.267,246.666,Lower Belle Fourche,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",275.401,237.534,253.666,Lower Belle Fourche,dry-days
+2030,"High Emissions
+(SSP3-7.0)",264.599,223.867,256.999,Lower Belle Fourche,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",269.133,238.734,251.001,Lower Belle Fourche,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",276.2,235.335,258,Lower Belle Fourche,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",260.534,240.801,250.334,Lower Belle Fourche,dry-days
+2031,"High Emissions
+(SSP3-7.0)",285.201,246.468,255,Lower Belle Fourche,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",271.934,233.133,254.331,Lower Belle Fourche,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",266.334,237.333,247.001,Lower Belle Fourche,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",259.532,232.8,249.001,Lower Belle Fourche,dry-days
+2032,"High Emissions
+(SSP3-7.0)",273.534,237.933,256.667,Lower Belle Fourche,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",267.668,228,249.999,Lower Belle Fourche,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",260.867,241.867,253.665,Lower Belle Fourche,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",274.6,231.934,245.001,Lower Belle Fourche,dry-days
+2033,"High Emissions
+(SSP3-7.0)",263.466,229.2,251,Lower Belle Fourche,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",266.8,245.6,256.333,Lower Belle Fourche,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",264.2,233.067,248.667,Lower Belle Fourche,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",262.867,235.267,245.333,Lower Belle Fourche,dry-days
+2034,"High Emissions
+(SSP3-7.0)",270.801,235.866,258.332,Lower Belle Fourche,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",261.933,223.934,247.999,Lower Belle Fourche,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",283.999,239.467,250.001,Lower Belle Fourche,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",272.401,239.333,260.667,Lower Belle Fourche,dry-days
+2035,"High Emissions
+(SSP3-7.0)",261.867,234.6,240,Lower Belle Fourche,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",272.333,240.467,251.334,Lower Belle Fourche,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",262.667,229.533,254.001,Lower Belle Fourche,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",274.535,234.533,247.667,Lower Belle Fourche,dry-days
+2036,"High Emissions
+(SSP3-7.0)",270.067,232.867,240.001,Lower Belle Fourche,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",255.867,231.667,247.999,Lower Belle Fourche,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",270.2,226.733,245.667,Lower Belle Fourche,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",254.666,227.933,244.999,Lower Belle Fourche,dry-days
+2037,"High Emissions
+(SSP3-7.0)",252.6,237.533,242.667,Lower Belle Fourche,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",275.6,234.467,244.999,Lower Belle Fourche,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",275.868,233.866,253.999,Lower Belle Fourche,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",267.333,237.533,246.001,Lower Belle Fourche,dry-days
+2038,"High Emissions
+(SSP3-7.0)",265.133,243.933,255.334,Lower Belle Fourche,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",265.4,225.934,242.333,Lower Belle Fourche,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",270.068,227.332,248,Lower Belle Fourche,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",255.533,233.267,249.001,Lower Belle Fourche,dry-days
+2039,"High Emissions
+(SSP3-7.0)",266.134,244.066,254.667,Lower Belle Fourche,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",267.133,227,244.668,Lower Belle Fourche,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",269.267,227.065,254.665,Lower Belle Fourche,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",263.466,238.466,253.667,Lower Belle Fourche,dry-days
+2040,"High Emissions
+(SSP3-7.0)",266.934,230.534,257.333,Lower Belle Fourche,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",278.534,237.798,243.334,Lower Belle Fourche,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",270.201,229.068,251.333,Lower Belle Fourche,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",260.933,231.533,251.335,Lower Belle Fourche,dry-days
+2041,"High Emissions
+(SSP3-7.0)",262.533,234.333,244.335,Lower Belle Fourche,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",264.333,226.4,242,Lower Belle Fourche,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",263.132,231.466,253.667,Lower Belle Fourche,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",271.066,227.134,258.002,Lower Belle Fourche,dry-days
+2042,"High Emissions
+(SSP3-7.0)",268.6,228.4,242.667,Lower Belle Fourche,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",271.533,238.534,252.001,Lower Belle Fourche,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",262.333,247.2,251,Lower Belle Fourche,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",274.667,233.867,244,Lower Belle Fourche,dry-days
+2043,"High Emissions
+(SSP3-7.0)",262.733,226.733,246.001,Lower Belle Fourche,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",268.533,229.2,243.001,Lower Belle Fourche,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",264,231.599,249.666,Lower Belle Fourche,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",263.801,245.133,255.333,Lower Belle Fourche,dry-days
+2044,"High Emissions
+(SSP3-7.0)",263.733,235.533,252.332,Lower Belle Fourche,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",269.866,238.8,257.999,Lower Belle Fourche,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",262,234.665,241.999,Lower Belle Fourche,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",274.266,240.8,255.999,Lower Belle Fourche,dry-days
+2045,"High Emissions
+(SSP3-7.0)",263.533,241.666,252.999,Lower Belle Fourche,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",262.866,230.6,248.667,Lower Belle Fourche,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",264.4,242.933,251.333,Lower Belle Fourche,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",260.134,235.666,247.666,Lower Belle Fourche,dry-days
+2046,"High Emissions
+(SSP3-7.0)",262.534,232.933,251.668,Lower Belle Fourche,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",264.8,243.333,253.667,Lower Belle Fourche,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",259.066,232.468,252.666,Lower Belle Fourche,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",261.467,231.465,248.669,Lower Belle Fourche,dry-days
+2047,"High Emissions
+(SSP3-7.0)",264.934,236.934,247.999,Lower Belle Fourche,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",274.867,234.066,252.334,Lower Belle Fourche,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",264.399,233.133,244.334,Lower Belle Fourche,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",262.334,241.134,246.667,Lower Belle Fourche,dry-days
+2048,"High Emissions
+(SSP3-7.0)",263.133,241.466,254,Lower Belle Fourche,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",278.333,244.067,253.668,Lower Belle Fourche,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",264.933,242.2,254,Lower Belle Fourche,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",261.2,240.133,255.667,Lower Belle Fourche,dry-days
+2049,"High Emissions
+(SSP3-7.0)",263.6,228.134,254.334,Lower Belle Fourche,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",276.601,236.467,248.334,Lower Belle Fourche,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",275.933,222.134,249.332,Lower Belle Fourche,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",270.467,242.733,247,Lower Belle Fourche,dry-days
+2050,"High Emissions
+(SSP3-7.0)",266.667,228.533,252.001,Lower Belle Fourche,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",268.667,239.266,251.333,Lower Belle Fourche,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",266.534,236.2,246.666,Lower Belle Fourche,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",268.6,236.334,249.667,Lower Belle Fourche,dry-days
+2051,"High Emissions
+(SSP3-7.0)",267.067,248.666,257,Lower Belle Fourche,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",268.133,233.8,258,Lower Belle Fourche,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",271.666,234.4,251,Lower Belle Fourche,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",262.335,241.8,251.334,Lower Belle Fourche,dry-days
+2052,"High Emissions
+(SSP3-7.0)",261.534,233.133,249.333,Lower Belle Fourche,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",269.068,244.665,255,Lower Belle Fourche,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",269.735,227.734,248.334,Lower Belle Fourche,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",266.332,230.733,254.002,Lower Belle Fourche,dry-days
+2053,"High Emissions
+(SSP3-7.0)",264.734,243.602,258.667,Lower Belle Fourche,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",274.8,231.333,250.999,Lower Belle Fourche,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",271.334,241.066,246.333,Lower Belle Fourche,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",252,239.001,246.333,Lower Belle Fourche,dry-days
+2054,"High Emissions
+(SSP3-7.0)",262.267,236.199,249.001,Lower Belle Fourche,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",275.2,235.199,254.667,Lower Belle Fourche,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",272.399,238.067,257.333,Lower Belle Fourche,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",265.533,236.4,252.332,Lower Belle Fourche,dry-days
+2055,"High Emissions
+(SSP3-7.0)",277,235.133,249.332,Lower Belle Fourche,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",273.2,238.467,249.333,Lower Belle Fourche,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",265.667,244.399,249.666,Lower Belle Fourche,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",259.802,238.533,248.666,Lower Belle Fourche,dry-days
+2056,"High Emissions
+(SSP3-7.0)",275,236.467,253,Lower Belle Fourche,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",263.334,238.801,246.333,Lower Belle Fourche,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",271.865,234.267,239.333,Lower Belle Fourche,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",268.867,233.4,250.334,Lower Belle Fourche,dry-days
+2057,"High Emissions
+(SSP3-7.0)",259.068,237.134,246.335,Lower Belle Fourche,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",256.068,228,241.667,Lower Belle Fourche,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",266.266,231.267,255,Lower Belle Fourche,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",258.467,239.866,248.001,Lower Belle Fourche,dry-days
+2058,"High Emissions
+(SSP3-7.0)",254.2,232,249.667,Lower Belle Fourche,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",258.534,237.201,245,Lower Belle Fourche,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",266.134,229.401,251.334,Lower Belle Fourche,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",262.067,234.267,246.333,Lower Belle Fourche,dry-days
+2059,"High Emissions
+(SSP3-7.0)",270.867,236.133,250.667,Lower Belle Fourche,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",269.6,236.6,254.001,Lower Belle Fourche,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",267.401,240.467,255.001,Lower Belle Fourche,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",266.534,227.866,242.333,Lower Belle Fourche,dry-days
+2060,"High Emissions
+(SSP3-7.0)",258.067,233.533,251.335,Lower Belle Fourche,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",262.732,227.799,243.666,Lower Belle Fourche,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",264.4,242,248.001,Lower Belle Fourche,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",262.934,232.201,257.334,Lower Belle Fourche,dry-days
+2061,"High Emissions
+(SSP3-7.0)",272.401,231.867,254.999,Lower Belle Fourche,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",266.132,229.602,246.666,Lower Belle Fourche,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",266.4,231.933,244.001,Lower Belle Fourche,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",265.068,237.667,247.999,Lower Belle Fourche,dry-days
+2062,"High Emissions
+(SSP3-7.0)",263.2,232.734,246.334,Lower Belle Fourche,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",255.4,224.001,242.334,Lower Belle Fourche,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",269.065,237.134,249,Lower Belle Fourche,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",258.068,236.733,245.333,Lower Belle Fourche,dry-days
+2063,"High Emissions
+(SSP3-7.0)",273.868,234.467,256.332,Lower Belle Fourche,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",262.733,233.8,251,Lower Belle Fourche,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",261.534,235.867,240.999,Lower Belle Fourche,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",259.598,220.067,240.334,Lower Belle Fourche,dry-days
+2064,"High Emissions
+(SSP3-7.0)",265.133,229.334,239.334,Lower Belle Fourche,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",275.133,242,261.999,Lower Belle Fourche,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",263.734,217.201,256,Lower Belle Fourche,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",269.866,239.934,255.999,Lower Belle Fourche,dry-days
+2065,"High Emissions
+(SSP3-7.0)",258.733,240.334,252.667,Lower Belle Fourche,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",264.066,241.799,251.334,Lower Belle Fourche,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",258.866,240.201,252.001,Lower Belle Fourche,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",258.734,229.133,250.667,Lower Belle Fourche,dry-days
+2066,"High Emissions
+(SSP3-7.0)",275.399,236.001,248.001,Lower Belle Fourche,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",268.869,224.8,251.999,Lower Belle Fourche,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",275.067,230.333,245.668,Lower Belle Fourche,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",255.601,237.6,252.333,Lower Belle Fourche,dry-days
+2067,"High Emissions
+(SSP3-7.0)",273.867,235.733,250.332,Lower Belle Fourche,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",268.666,244.999,260.334,Lower Belle Fourche,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",256.868,233.933,246,Lower Belle Fourche,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",255.133,226.466,244.334,Lower Belle Fourche,dry-days
+2068,"High Emissions
+(SSP3-7.0)",272.934,233.333,246.333,Lower Belle Fourche,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",271.666,240.666,250,Lower Belle Fourche,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",263.066,228.667,248.333,Lower Belle Fourche,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",270.867,227.001,251.667,Lower Belle Fourche,dry-days
+2069,"High Emissions
+(SSP3-7.0)",272.666,244.133,265.333,Lower Belle Fourche,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",276.132,238.468,242.001,Lower Belle Fourche,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",260.199,235.668,247,Lower Belle Fourche,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",269.199,234.267,247.333,Lower Belle Fourche,dry-days
+2070,"High Emissions
+(SSP3-7.0)",275.134,244.4,253.001,Lower Belle Fourche,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",263.399,234.802,252.333,Lower Belle Fourche,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",283.802,240.4,250.667,Lower Belle Fourche,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",264.934,234.933,248.001,Lower Belle Fourche,dry-days
+2071,"High Emissions
+(SSP3-7.0)",271.8,240.334,257.334,Lower Belle Fourche,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",284.334,247.268,260,Lower Belle Fourche,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",271.534,242.999,256,Lower Belle Fourche,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",275.333,231.601,241.001,Lower Belle Fourche,dry-days
+2072,"High Emissions
+(SSP3-7.0)",267.734,236.599,250.332,Lower Belle Fourche,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",258.734,231.267,249,Lower Belle Fourche,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",269.532,245.667,253.999,Lower Belle Fourche,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",252.334,231.799,241.668,Lower Belle Fourche,dry-days
+2073,"High Emissions
+(SSP3-7.0)",263.533,238.999,250.999,Lower Belle Fourche,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",263.333,234.867,248.335,Lower Belle Fourche,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",261.867,225.132,248.335,Lower Belle Fourche,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",269.534,244.734,253,Lower Belle Fourche,dry-days
+2074,"High Emissions
+(SSP3-7.0)",255.068,239.666,245.668,Lower Belle Fourche,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",280.668,238.8,259.332,Lower Belle Fourche,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",268.2,231.667,255,Lower Belle Fourche,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",276.4,238.867,246.333,Lower Belle Fourche,dry-days
+2075,"High Emissions
+(SSP3-7.0)",259.801,228.8,243.665,Lower Belle Fourche,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",263.334,246.667,256.001,Lower Belle Fourche,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",253.999,237.399,245.334,Lower Belle Fourche,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",260.333,230.466,254.666,Lower Belle Fourche,dry-days
+2076,"High Emissions
+(SSP3-7.0)",267.067,239.934,256,Lower Belle Fourche,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",267.933,231.534,254.333,Lower Belle Fourche,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",265.667,240.466,260.667,Lower Belle Fourche,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",266.666,246.133,255.333,Lower Belle Fourche,dry-days
+2077,"High Emissions
+(SSP3-7.0)",273.199,221.666,248.667,Lower Belle Fourche,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",272.133,241.333,262.668,Lower Belle Fourche,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",279.666,236.734,261,Lower Belle Fourche,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",258.8,236.532,257,Lower Belle Fourche,dry-days
+2078,"High Emissions
+(SSP3-7.0)",266.134,227,256.999,Lower Belle Fourche,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",259.601,232.801,240.666,Lower Belle Fourche,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",275.001,243.401,259,Lower Belle Fourche,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",259.067,233.934,244.334,Lower Belle Fourche,dry-days
+2079,"High Emissions
+(SSP3-7.0)",247.867,217,243,Lower Belle Fourche,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",271.067,230.534,257.667,Lower Belle Fourche,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",264.935,230.466,245.332,Lower Belle Fourche,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",270.334,229.933,248.666,Lower Belle Fourche,dry-days
+2080,"High Emissions
+(SSP3-7.0)",266.267,237.067,257.334,Lower Belle Fourche,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",263.534,236.467,247.668,Lower Belle Fourche,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",261.333,242.934,254.668,Lower Belle Fourche,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",264.333,250.267,258,Lower Belle Fourche,dry-days
+2081,"High Emissions
+(SSP3-7.0)",262.533,227.133,248,Lower Belle Fourche,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",263.133,250.2,259,Lower Belle Fourche,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",265.001,240.266,252,Lower Belle Fourche,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",263.334,244.067,251.001,Lower Belle Fourche,dry-days
+2082,"High Emissions
+(SSP3-7.0)",258.801,229.2,252.332,Lower Belle Fourche,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",264.067,244.401,259.333,Lower Belle Fourche,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",280.067,243.133,263.999,Lower Belle Fourche,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",259.6,232.402,254.333,Lower Belle Fourche,dry-days
+2083,"High Emissions
+(SSP3-7.0)",260.067,241.466,252.667,Lower Belle Fourche,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",265.268,229.201,252.666,Lower Belle Fourche,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",266.134,224.667,248.999,Lower Belle Fourche,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",277.866,237,249,Lower Belle Fourche,dry-days
+2084,"High Emissions
+(SSP3-7.0)",268.733,247.4,261.667,Lower Belle Fourche,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",271.333,236.266,248.666,Lower Belle Fourche,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",262.667,243.267,256,Lower Belle Fourche,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",254.268,232.601,242.333,Lower Belle Fourche,dry-days
+2085,"High Emissions
+(SSP3-7.0)",265.599,239.133,247.333,Lower Belle Fourche,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",266.667,240.733,253.667,Lower Belle Fourche,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",260.799,233.268,243.667,Lower Belle Fourche,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",262.667,233.533,246,Lower Belle Fourche,dry-days
+2086,"High Emissions
+(SSP3-7.0)",260.4,229.733,248.332,Lower Belle Fourche,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",272.733,228.732,250.333,Lower Belle Fourche,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",258.467,229.4,244.001,Lower Belle Fourche,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",264.067,232.666,247.334,Lower Belle Fourche,dry-days
+2087,"High Emissions
+(SSP3-7.0)",272.6,245.599,254.667,Lower Belle Fourche,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",251.466,223.399,236.665,Lower Belle Fourche,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",256.8,234.734,247.667,Lower Belle Fourche,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",268.2,233.467,260.999,Lower Belle Fourche,dry-days
+2088,"High Emissions
+(SSP3-7.0)",265,233.732,256.666,Lower Belle Fourche,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",278.868,233.999,255.667,Lower Belle Fourche,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",260.734,231.667,245.001,Lower Belle Fourche,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",261.067,234.601,252,Lower Belle Fourche,dry-days
+2089,"High Emissions
+(SSP3-7.0)",266.867,247.6,262.667,Lower Belle Fourche,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",275.401,241.468,252.666,Lower Belle Fourche,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",264.599,232.667,249.334,Lower Belle Fourche,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",256.667,236.799,247,Lower Belle Fourche,dry-days
+2090,"High Emissions
+(SSP3-7.0)",281.134,239.8,250.333,Lower Belle Fourche,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",275.401,241.535,257.332,Lower Belle Fourche,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",271.134,241.467,249.001,Lower Belle Fourche,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",288.132,231.067,249.665,Lower Belle Fourche,dry-days
+2091,"High Emissions
+(SSP3-7.0)",285.4,248.065,259.665,Lower Belle Fourche,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",281.733,226,253.002,Lower Belle Fourche,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",273.866,239.933,257.001,Lower Belle Fourche,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",282,226.133,250.666,Lower Belle Fourche,dry-days
+2092,"High Emissions
+(SSP3-7.0)",280.267,237.066,246.667,Lower Belle Fourche,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",276.666,244.067,257.001,Lower Belle Fourche,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",276.267,224.667,248.001,Lower Belle Fourche,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",266.799,238.665,246.332,Lower Belle Fourche,dry-days
+2093,"High Emissions
+(SSP3-7.0)",250.001,227.667,236,Lower Belle Fourche,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",278.667,240.734,254.666,Lower Belle Fourche,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",273.201,240.667,254.001,Lower Belle Fourche,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",264.001,230.534,254.333,Lower Belle Fourche,dry-days
+2094,"High Emissions
+(SSP3-7.0)",261.401,240.2,245.666,Lower Belle Fourche,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",272.4,236.935,258,Lower Belle Fourche,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",262.667,242.6,251.002,Lower Belle Fourche,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",272.533,238.867,254.334,Lower Belle Fourche,dry-days
+2095,"High Emissions
+(SSP3-7.0)",277.199,233.601,256.667,Lower Belle Fourche,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",273.733,236.533,252.334,Lower Belle Fourche,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",259,225.134,247.334,Lower Belle Fourche,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",266.201,237.133,243.668,Lower Belle Fourche,dry-days
+2096,"High Emissions
+(SSP3-7.0)",272.067,250.8,262,Lower Belle Fourche,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",272.667,246.533,249.335,Lower Belle Fourche,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",274.467,239.134,250.667,Lower Belle Fourche,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",274.734,235.335,242.666,Lower Belle Fourche,dry-days
+2097,"High Emissions
+(SSP3-7.0)",279.734,241.4,253.001,Lower Belle Fourche,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",272.733,230,257.667,Lower Belle Fourche,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",270.067,237.468,247.333,Lower Belle Fourche,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",264.867,234.734,254.666,Lower Belle Fourche,dry-days
+2098,"High Emissions
+(SSP3-7.0)",265.401,231.867,243.334,Lower Belle Fourche,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",273.667,242.6,254.001,Lower Belle Fourche,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",270.067,226.8,249,Lower Belle Fourche,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",272.266,230.733,253.334,Lower Belle Fourche,dry-days
+2099,"High Emissions
+(SSP3-7.0)",274.867,230.867,250.666,Lower Belle Fourche,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",272.734,235.601,246.666,Lower Belle Fourche,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",265.933,234.134,239,Lower Belle Fourche,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",264.534,237.067,246.332,Lower Belle Fourche,dry-days
+2100,"High Emissions
+(SSP3-7.0)",264.668,229.401,256,Lower Belle Fourche,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",267.335,239.734,261.667,Lower Belle Fourche,dry-days

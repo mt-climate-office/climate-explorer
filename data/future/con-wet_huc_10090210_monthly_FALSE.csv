@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1.225,0,1,Mizpah,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1.225,0,1,Mizpah,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1,0,0.75,Mizpah,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.25,0,1,Mizpah,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1.3,0,1,Mizpah,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.25,0,1,Mizpah,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.075,0,1,Mizpah,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.5,0,1,Mizpah,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.3,0,1,Mizpah,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.5,0,1,Mizpah,con-wet

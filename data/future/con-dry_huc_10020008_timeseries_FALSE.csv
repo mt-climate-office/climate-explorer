@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,25.555,11.511,19,Gallatin,con-dry
+1951,Historical Emissions,29,16.266,18,Gallatin,con-dry
+1952,Historical Emissions,19,14.645,16.778,Gallatin,con-dry
+1953,Historical Emissions,26.556,13.911,19.333,Gallatin,con-dry
+1954,Historical Emissions,21.245,12.444,17.222,Gallatin,con-dry
+1955,Historical Emissions,29.289,13.089,18.778,Gallatin,con-dry
+1956,Historical Emissions,38.445,14.622,19.778,Gallatin,con-dry
+1957,Historical Emissions,25,10.089,16.111,Gallatin,con-dry
+1958,Historical Emissions,28.466,13.555,19.333,Gallatin,con-dry
+1959,Historical Emissions,18.4,11.023,15.444,Gallatin,con-dry
+1960,Historical Emissions,31.934,12.778,15.667,Gallatin,con-dry
+1961,Historical Emissions,22.356,14.845,19.667,Gallatin,con-dry
+1962,Historical Emissions,30.956,13.422,20.111,Gallatin,con-dry
+1963,Historical Emissions,21.178,11.356,16.444,Gallatin,con-dry
+1964,Historical Emissions,20.689,15.822,18.222,Gallatin,con-dry
+1965,Historical Emissions,29.822,13.578,21,Gallatin,con-dry
+1966,Historical Emissions,26.311,13,17.556,Gallatin,con-dry
+1967,Historical Emissions,31.333,13.778,19.111,Gallatin,con-dry
+1968,Historical Emissions,19.378,13.289,16,Gallatin,con-dry
+1969,Historical Emissions,24.689,12.489,18.556,Gallatin,con-dry
+1970,Historical Emissions,20.622,14,16.778,Gallatin,con-dry
+1971,Historical Emissions,26.133,13.889,16.778,Gallatin,con-dry
+1972,Historical Emissions,27.2,14.467,17.333,Gallatin,con-dry
+1973,Historical Emissions,22.4,13.556,17,Gallatin,con-dry
+1974,Historical Emissions,30.622,15.089,19,Gallatin,con-dry
+1975,Historical Emissions,23,14.711,17.333,Gallatin,con-dry
+1976,Historical Emissions,26.778,15.156,18.333,Gallatin,con-dry
+1977,Historical Emissions,26.511,10.933,16.778,Gallatin,con-dry
+1978,Historical Emissions,22.267,15.956,19.444,Gallatin,con-dry
+1979,Historical Emissions,29.2,15.311,18,Gallatin,con-dry
+1980,Historical Emissions,24.133,11.445,18.222,Gallatin,con-dry
+1981,Historical Emissions,20.756,15.556,17.889,Gallatin,con-dry
+1982,Historical Emissions,24.977,13.734,17.778,Gallatin,con-dry
+1983,Historical Emissions,24.711,13.356,17.778,Gallatin,con-dry
+1984,Historical Emissions,24.555,13.978,21.222,Gallatin,con-dry
+1985,Historical Emissions,21.711,12.978,17.222,Gallatin,con-dry
+1986,Historical Emissions,22.823,12.378,18,Gallatin,con-dry
+1987,Historical Emissions,28.622,12.467,16.889,Gallatin,con-dry
+1988,Historical Emissions,32.644,10.356,18.333,Gallatin,con-dry
+1989,Historical Emissions,19,14.066,17,Gallatin,con-dry
+1990,Historical Emissions,25.2,13,16.889,Gallatin,con-dry
+1991,Historical Emissions,28.666,14.111,18,Gallatin,con-dry
+1992,Historical Emissions,29.911,16.711,20.778,Gallatin,con-dry
+1993,Historical Emissions,21.111,13.445,14.667,Gallatin,con-dry
+1994,Historical Emissions,23.267,13.511,14.889,Gallatin,con-dry
+1995,Historical Emissions,24.111,15.711,21.222,Gallatin,con-dry
+1996,Historical Emissions,43.422,16.978,20.889,Gallatin,con-dry
+1997,Historical Emissions,26.511,12.4,19,Gallatin,con-dry
+1998,Historical Emissions,27.111,13.244,16,Gallatin,con-dry
+1999,Historical Emissions,22.022,14.578,20.889,Gallatin,con-dry
+2000,Historical Emissions,27.2,14.6,22.556,Gallatin,con-dry
+2001,Historical Emissions,20.467,13,18.556,Gallatin,con-dry
+2002,Historical Emissions,24,15.4,18.889,Gallatin,con-dry
+2003,Historical Emissions,25.245,14.555,20.333,Gallatin,con-dry
+2004,Historical Emissions,30.733,11.134,19.444,Gallatin,con-dry
+2005,Historical Emissions,32.622,15.689,20.111,Gallatin,con-dry
+2006,Historical Emissions,21.911,14.156,16.556,Gallatin,con-dry
+2007,Historical Emissions,19.489,12.956,14.889,Gallatin,con-dry
+2008,Historical Emissions,21.311,13,17.333,Gallatin,con-dry
+2009,Historical Emissions,23.4,12.644,18.333,Gallatin,con-dry
+2010,Historical Emissions,25.089,14.534,17,Gallatin,con-dry
+2011,Historical Emissions,22.933,13.933,18.556,Gallatin,con-dry
+2012,Historical Emissions,22.267,11.556,18.111,Gallatin,con-dry
+2013,Historical Emissions,21.667,13.044,18,Gallatin,con-dry
+2014,Historical Emissions,31.023,14.267,23,Gallatin,con-dry
+2015,"Moderating Emissions
+(SSP1-2.6)",36.133,14.311,21.444,Gallatin,con-dry
+2015,"Middle of the Road
+(SSP2-4.5)",36.289,15.378,22.111,Gallatin,con-dry
+2015,"High Emissions
+(SSP3-7.0)",21.067,15.555,18.333,Gallatin,con-dry
+2015,"Accelerating Emissions
+(SSP5-8.5)",26.4,13.156,18.667,Gallatin,con-dry
+2016,"Moderating Emissions
+(SSP1-2.6)",27.045,12.689,17.111,Gallatin,con-dry
+2016,"Middle of the Road
+(SSP2-4.5)",18.133,12.489,14.778,Gallatin,con-dry
+2016,"High Emissions
+(SSP3-7.0)",23.978,12.8,16.889,Gallatin,con-dry
+2016,"Accelerating Emissions
+(SSP5-8.5)",30.022,13.6,15.111,Gallatin,con-dry
+2017,"Moderating Emissions
+(SSP1-2.6)",34.022,14.467,19.556,Gallatin,con-dry
+2017,"Middle of the Road
+(SSP2-4.5)",34.844,14.489,19.889,Gallatin,con-dry
+2017,"High Emissions
+(SSP3-7.0)",35.022,14.133,19.667,Gallatin,con-dry
+2017,"Accelerating Emissions
+(SSP5-8.5)",18.445,12.733,15,Gallatin,con-dry
+2018,"Moderating Emissions
+(SSP1-2.6)",25.333,14.045,21,Gallatin,con-dry
+2018,"Middle of the Road
+(SSP2-4.5)",18.334,12.489,14.667,Gallatin,con-dry
+2018,"High Emissions
+(SSP3-7.0)",24.244,12.844,15.556,Gallatin,con-dry
+2018,"Accelerating Emissions
+(SSP5-8.5)",20.378,13.022,17.333,Gallatin,con-dry
+2019,"Moderating Emissions
+(SSP1-2.6)",34.044,16.333,27.556,Gallatin,con-dry
+2019,"Middle of the Road
+(SSP2-4.5)",29.533,14.045,16.778,Gallatin,con-dry
+2019,"High Emissions
+(SSP3-7.0)",22.045,14.978,17.889,Gallatin,con-dry
+2019,"Accelerating Emissions
+(SSP5-8.5)",29.156,13.689,18.667,Gallatin,con-dry
+2020,"Moderating Emissions
+(SSP1-2.6)",29.155,14.556,18.333,Gallatin,con-dry
+2020,"Middle of the Road
+(SSP2-4.5)",18.311,12.933,16.222,Gallatin,con-dry
+2020,"High Emissions
+(SSP3-7.0)",20.511,14.511,17.556,Gallatin,con-dry
+2020,"Accelerating Emissions
+(SSP5-8.5)",19.444,14.066,16.556,Gallatin,con-dry
+2021,"Moderating Emissions
+(SSP1-2.6)",42.422,13.733,21.333,Gallatin,con-dry
+2021,"Middle of the Road
+(SSP2-4.5)",33.689,14.4,18,Gallatin,con-dry
+2021,"High Emissions
+(SSP3-7.0)",30.355,12.578,14.222,Gallatin,con-dry
+2021,"Accelerating Emissions
+(SSP5-8.5)",30.444,12.956,17,Gallatin,con-dry
+2022,"Moderating Emissions
+(SSP1-2.6)",29.422,15.222,17,Gallatin,con-dry
+2022,"Middle of the Road
+(SSP2-4.5)",21.111,13.111,15.889,Gallatin,con-dry
+2022,"High Emissions
+(SSP3-7.0)",22.667,11.422,16.444,Gallatin,con-dry
+2022,"Accelerating Emissions
+(SSP5-8.5)",26.289,12.089,15.889,Gallatin,con-dry
+2023,"Moderating Emissions
+(SSP1-2.6)",23.133,12.755,18,Gallatin,con-dry
+2023,"Middle of the Road
+(SSP2-4.5)",26.889,14.089,19.333,Gallatin,con-dry
+2023,"High Emissions
+(SSP3-7.0)",23.422,14.067,16.444,Gallatin,con-dry
+2023,"Accelerating Emissions
+(SSP5-8.5)",19.334,12.334,14,Gallatin,con-dry
+2024,"Moderating Emissions
+(SSP1-2.6)",20.666,11.956,16.444,Gallatin,con-dry
+2024,"Middle of the Road
+(SSP2-4.5)",25.133,13.622,17.333,Gallatin,con-dry
+2024,"High Emissions
+(SSP3-7.0)",31.022,15.445,18.222,Gallatin,con-dry
+2024,"Accelerating Emissions
+(SSP5-8.5)",28.578,15.666,18.889,Gallatin,con-dry
+2025,"Moderating Emissions
+(SSP1-2.6)",26.4,13.556,18.778,Gallatin,con-dry
+2025,"Middle of the Road
+(SSP2-4.5)",21.089,11.667,18.889,Gallatin,con-dry
+2025,"High Emissions
+(SSP3-7.0)",34.2,19.111,23.111,Gallatin,con-dry
+2025,"Accelerating Emissions
+(SSP5-8.5)",28.134,15.2,22,Gallatin,con-dry
+2026,"Moderating Emissions
+(SSP1-2.6)",24.866,12.733,19.222,Gallatin,con-dry
+2026,"Middle of the Road
+(SSP2-4.5)",21.978,12.155,17.778,Gallatin,con-dry
+2026,"High Emissions
+(SSP3-7.0)",21.978,12.978,17.333,Gallatin,con-dry
+2026,"Accelerating Emissions
+(SSP5-8.5)",25.111,14.978,18,Gallatin,con-dry
+2027,"Moderating Emissions
+(SSP1-2.6)",30.244,13.578,19.222,Gallatin,con-dry
+2027,"Middle of the Road
+(SSP2-4.5)",29.978,13.155,19,Gallatin,con-dry
+2027,"High Emissions
+(SSP3-7.0)",25.156,16.445,19.444,Gallatin,con-dry
+2027,"Accelerating Emissions
+(SSP5-8.5)",26.111,13.422,20.111,Gallatin,con-dry
+2028,"Moderating Emissions
+(SSP1-2.6)",22.8,13.355,17.667,Gallatin,con-dry
+2028,"Middle of the Road
+(SSP2-4.5)",24.934,11.844,14.444,Gallatin,con-dry
+2028,"High Emissions
+(SSP3-7.0)",28.511,15.511,21,Gallatin,con-dry
+2028,"Accelerating Emissions
+(SSP5-8.5)",20.844,11.4,15.444,Gallatin,con-dry
+2029,"Moderating Emissions
+(SSP1-2.6)",30.289,12.311,17.667,Gallatin,con-dry
+2029,"Middle of the Road
+(SSP2-4.5)",24.889,14.311,17.111,Gallatin,con-dry
+2029,"High Emissions
+(SSP3-7.0)",29.444,14.089,22.333,Gallatin,con-dry
+2029,"Accelerating Emissions
+(SSP5-8.5)",24.134,14.2,17.111,Gallatin,con-dry
+2030,"Moderating Emissions
+(SSP1-2.6)",23.467,17.311,19.556,Gallatin,con-dry
+2030,"Middle of the Road
+(SSP2-4.5)",27.466,16,22.889,Gallatin,con-dry
+2030,"High Emissions
+(SSP3-7.0)",25.489,15.222,19.667,Gallatin,con-dry
+2030,"Accelerating Emissions
+(SSP5-8.5)",21.845,13.377,19.556,Gallatin,con-dry
+2031,"Moderating Emissions
+(SSP1-2.6)",29.067,12.489,15.444,Gallatin,con-dry
+2031,"Middle of the Road
+(SSP2-4.5)",24.645,13.778,15.889,Gallatin,con-dry
+2031,"High Emissions
+(SSP3-7.0)",35.733,14.178,18.778,Gallatin,con-dry
+2031,"Accelerating Emissions
+(SSP5-8.5)",23.756,15.933,20.556,Gallatin,con-dry
+2032,"Moderating Emissions
+(SSP1-2.6)",27.689,14.622,17.556,Gallatin,con-dry
+2032,"Middle of the Road
+(SSP2-4.5)",23,11.4,17.333,Gallatin,con-dry
+2032,"High Emissions
+(SSP3-7.0)",29.622,12.356,16.667,Gallatin,con-dry
+2032,"Accelerating Emissions
+(SSP5-8.5)",33.534,12.8,17,Gallatin,con-dry
+2033,"Moderating Emissions
+(SSP1-2.6)",32.333,16.223,20,Gallatin,con-dry
+2033,"Middle of the Road
+(SSP2-4.5)",40.844,10.8,19.778,Gallatin,con-dry
+2033,"High Emissions
+(SSP3-7.0)",27.267,12.822,17.667,Gallatin,con-dry
+2033,"Accelerating Emissions
+(SSP5-8.5)",25.934,15.466,18.444,Gallatin,con-dry
+2034,"Moderating Emissions
+(SSP1-2.6)",24.867,12,21.444,Gallatin,con-dry
+2034,"Middle of the Road
+(SSP2-4.5)",28.578,14.423,22.333,Gallatin,con-dry
+2034,"High Emissions
+(SSP3-7.0)",41.133,12.244,16.667,Gallatin,con-dry
+2034,"Accelerating Emissions
+(SSP5-8.5)",22.311,12.8,15.667,Gallatin,con-dry
+2035,"Moderating Emissions
+(SSP1-2.6)",24.755,13.178,18.556,Gallatin,con-dry
+2035,"Middle of the Road
+(SSP2-4.5)",32.689,14.956,20,Gallatin,con-dry
+2035,"High Emissions
+(SSP3-7.0)",21.844,13,15.556,Gallatin,con-dry
+2035,"Accelerating Emissions
+(SSP5-8.5)",21.933,13.2,17.667,Gallatin,con-dry
+2036,"Moderating Emissions
+(SSP1-2.6)",26.044,12.245,16.333,Gallatin,con-dry
+2036,"Middle of the Road
+(SSP2-4.5)",22.644,13.756,19,Gallatin,con-dry
+2036,"High Emissions
+(SSP3-7.0)",31.845,13.733,16.333,Gallatin,con-dry
+2036,"Accelerating Emissions
+(SSP5-8.5)",29.889,11.956,16,Gallatin,con-dry
+2037,"Moderating Emissions
+(SSP1-2.6)",24.533,11.289,16.222,Gallatin,con-dry
+2037,"Middle of the Road
+(SSP2-4.5)",30.4,13.022,20.444,Gallatin,con-dry
+2037,"High Emissions
+(SSP3-7.0)",20.244,12.511,15,Gallatin,con-dry
+2037,"Accelerating Emissions
+(SSP5-8.5)",27.111,13.089,15.667,Gallatin,con-dry
+2038,"Moderating Emissions
+(SSP1-2.6)",27.778,13.622,14.778,Gallatin,con-dry
+2038,"Middle of the Road
+(SSP2-4.5)",28.222,13.111,21,Gallatin,con-dry
+2038,"High Emissions
+(SSP3-7.0)",23.711,14.178,19.333,Gallatin,con-dry
+2038,"Accelerating Emissions
+(SSP5-8.5)",23.489,13.889,20.333,Gallatin,con-dry
+2039,"Moderating Emissions
+(SSP1-2.6)",24.822,14.222,17.889,Gallatin,con-dry
+2039,"Middle of the Road
+(SSP2-4.5)",29.555,13.933,16.667,Gallatin,con-dry
+2039,"High Emissions
+(SSP3-7.0)",29.867,14.066,18.111,Gallatin,con-dry
+2039,"Accelerating Emissions
+(SSP5-8.5)",23.755,10.6,18.889,Gallatin,con-dry
+2040,"Moderating Emissions
+(SSP1-2.6)",19.689,11.645,15.444,Gallatin,con-dry
+2040,"Middle of the Road
+(SSP2-4.5)",30.956,13.155,20.444,Gallatin,con-dry
+2040,"High Emissions
+(SSP3-7.0)",23,12.223,16.444,Gallatin,con-dry
+2040,"Accelerating Emissions
+(SSP5-8.5)",61.111,11.978,16.667,Gallatin,con-dry
+2041,"Moderating Emissions
+(SSP1-2.6)",29.245,15.044,21.222,Gallatin,con-dry
+2041,"Middle of the Road
+(SSP2-4.5)",24.755,14.734,18.111,Gallatin,con-dry
+2041,"High Emissions
+(SSP3-7.0)",21.734,14.445,17.778,Gallatin,con-dry
+2041,"Accelerating Emissions
+(SSP5-8.5)",23.178,13.2,15,Gallatin,con-dry
+2042,"Moderating Emissions
+(SSP1-2.6)",29.244,13.022,22.333,Gallatin,con-dry
+2042,"Middle of the Road
+(SSP2-4.5)",26.334,14.311,19.111,Gallatin,con-dry
+2042,"High Emissions
+(SSP3-7.0)",25.822,14.044,19.889,Gallatin,con-dry
+2042,"Accelerating Emissions
+(SSP5-8.5)",28.111,13.556,17.111,Gallatin,con-dry
+2043,"Moderating Emissions
+(SSP1-2.6)",23.866,13.333,16.667,Gallatin,con-dry
+2043,"Middle of the Road
+(SSP2-4.5)",31.6,13.267,17.333,Gallatin,con-dry
+2043,"High Emissions
+(SSP3-7.0)",20.2,12.8,18.222,Gallatin,con-dry
+2043,"Accelerating Emissions
+(SSP5-8.5)",25.4,14.022,21,Gallatin,con-dry
+2044,"Moderating Emissions
+(SSP1-2.6)",24.489,14.644,20,Gallatin,con-dry
+2044,"Middle of the Road
+(SSP2-4.5)",26.334,14.534,21,Gallatin,con-dry
+2044,"High Emissions
+(SSP3-7.0)",21.8,12.778,15,Gallatin,con-dry
+2044,"Accelerating Emissions
+(SSP5-8.5)",36.2,13.067,22,Gallatin,con-dry
+2045,"Moderating Emissions
+(SSP1-2.6)",25.311,13.778,15.889,Gallatin,con-dry
+2045,"Middle of the Road
+(SSP2-4.5)",22.556,16.933,19.222,Gallatin,con-dry
+2045,"High Emissions
+(SSP3-7.0)",19.711,14.444,17.556,Gallatin,con-dry
+2045,"Accelerating Emissions
+(SSP5-8.5)",29.689,12.2,15,Gallatin,con-dry
+2046,"Moderating Emissions
+(SSP1-2.6)",24.489,14.422,18,Gallatin,con-dry
+2046,"Middle of the Road
+(SSP2-4.5)",25.334,16.023,19,Gallatin,con-dry
+2046,"High Emissions
+(SSP3-7.0)",26.356,12.866,17,Gallatin,con-dry
+2046,"Accelerating Emissions
+(SSP5-8.5)",24.911,12.933,17,Gallatin,con-dry
+2047,"Moderating Emissions
+(SSP1-2.6)",25.067,12.867,18.778,Gallatin,con-dry
+2047,"Middle of the Road
+(SSP2-4.5)",27.778,11.645,19.889,Gallatin,con-dry
+2047,"High Emissions
+(SSP3-7.0)",25.267,14.089,16.778,Gallatin,con-dry
+2047,"Accelerating Emissions
+(SSP5-8.5)",28.8,12.822,19.222,Gallatin,con-dry
+2048,"Moderating Emissions
+(SSP1-2.6)",21.111,13.489,17,Gallatin,con-dry
+2048,"Middle of the Road
+(SSP2-4.5)",28.534,12.511,17,Gallatin,con-dry
+2048,"High Emissions
+(SSP3-7.0)",19.689,13.178,16.778,Gallatin,con-dry
+2048,"Accelerating Emissions
+(SSP5-8.5)",36.844,15.867,20.222,Gallatin,con-dry
+2049,"Moderating Emissions
+(SSP1-2.6)",30.311,15.8,22.778,Gallatin,con-dry
+2049,"Middle of the Road
+(SSP2-4.5)",26.734,14.044,19.556,Gallatin,con-dry
+2049,"High Emissions
+(SSP3-7.0)",27.245,12.8,21.111,Gallatin,con-dry
+2049,"Accelerating Emissions
+(SSP5-8.5)",31.667,15,19.333,Gallatin,con-dry
+2050,"Moderating Emissions
+(SSP1-2.6)",38.956,14.178,20,Gallatin,con-dry
+2050,"Middle of the Road
+(SSP2-4.5)",30.644,14.266,19.222,Gallatin,con-dry
+2050,"High Emissions
+(SSP3-7.0)",33.6,14.4,24.222,Gallatin,con-dry
+2050,"Accelerating Emissions
+(SSP5-8.5)",28.489,13.556,20,Gallatin,con-dry
+2051,"Moderating Emissions
+(SSP1-2.6)",50.8,12.578,15,Gallatin,con-dry
+2051,"Middle of the Road
+(SSP2-4.5)",25.6,13.244,17.444,Gallatin,con-dry
+2051,"High Emissions
+(SSP3-7.0)",27.311,15.755,20,Gallatin,con-dry
+2051,"Accelerating Emissions
+(SSP5-8.5)",34.423,14.911,19,Gallatin,con-dry
+2052,"Moderating Emissions
+(SSP1-2.6)",18.022,13.6,14.444,Gallatin,con-dry
+2052,"Middle of the Road
+(SSP2-4.5)",35.6,15.711,19,Gallatin,con-dry
+2052,"High Emissions
+(SSP3-7.0)",24.223,13.889,18,Gallatin,con-dry
+2052,"Accelerating Emissions
+(SSP5-8.5)",26.334,14.134,17.444,Gallatin,con-dry
+2053,"Moderating Emissions
+(SSP1-2.6)",27.711,12.778,21.667,Gallatin,con-dry
+2053,"Middle of the Road
+(SSP2-4.5)",32.533,13.111,20.889,Gallatin,con-dry
+2053,"High Emissions
+(SSP3-7.0)",33.511,16.177,19.556,Gallatin,con-dry
+2053,"Accelerating Emissions
+(SSP5-8.5)",24.978,12.755,19.111,Gallatin,con-dry
+2054,"Moderating Emissions
+(SSP1-2.6)",20.889,12.111,17.889,Gallatin,con-dry
+2054,"Middle of the Road
+(SSP2-4.5)",30.445,13.867,22,Gallatin,con-dry
+2054,"High Emissions
+(SSP3-7.0)",20.222,13.955,17.222,Gallatin,con-dry
+2054,"Accelerating Emissions
+(SSP5-8.5)",22.178,13.622,16.111,Gallatin,con-dry
+2055,"Moderating Emissions
+(SSP1-2.6)",24.644,13.022,21,Gallatin,con-dry
+2055,"Middle of the Road
+(SSP2-4.5)",25.667,14.578,19,Gallatin,con-dry
+2055,"High Emissions
+(SSP3-7.0)",27.734,13.089,20.222,Gallatin,con-dry
+2055,"Accelerating Emissions
+(SSP5-8.5)",28.178,15.422,21.111,Gallatin,con-dry
+2056,"Moderating Emissions
+(SSP1-2.6)",24.734,15.444,19,Gallatin,con-dry
+2056,"Middle of the Road
+(SSP2-4.5)",27.066,14.534,20.222,Gallatin,con-dry
+2056,"High Emissions
+(SSP3-7.0)",28.133,13.711,20,Gallatin,con-dry
+2056,"Accelerating Emissions
+(SSP5-8.5)",24.311,10.733,20,Gallatin,con-dry
+2057,"Moderating Emissions
+(SSP1-2.6)",28.489,15.711,19.667,Gallatin,con-dry
+2057,"Middle of the Road
+(SSP2-4.5)",33.222,13,21.111,Gallatin,con-dry
+2057,"High Emissions
+(SSP3-7.0)",20.022,13.822,18.556,Gallatin,con-dry
+2057,"Accelerating Emissions
+(SSP5-8.5)",27.178,14.978,18.111,Gallatin,con-dry
+2058,"Moderating Emissions
+(SSP1-2.6)",24.333,15.866,23.556,Gallatin,con-dry
+2058,"Middle of the Road
+(SSP2-4.5)",24.066,13.978,17,Gallatin,con-dry
+2058,"High Emissions
+(SSP3-7.0)",21.645,13.422,14.444,Gallatin,con-dry
+2058,"Accelerating Emissions
+(SSP5-8.5)",22.933,11.733,16.667,Gallatin,con-dry
+2059,"Moderating Emissions
+(SSP1-2.6)",24.133,15.2,18.333,Gallatin,con-dry
+2059,"Middle of the Road
+(SSP2-4.5)",24.134,15.555,17,Gallatin,con-dry
+2059,"High Emissions
+(SSP3-7.0)",27.133,15.045,17.778,Gallatin,con-dry
+2059,"Accelerating Emissions
+(SSP5-8.5)",23.2,13.467,18,Gallatin,con-dry
+2060,"Moderating Emissions
+(SSP1-2.6)",24.156,13.066,21.111,Gallatin,con-dry
+2060,"Middle of the Road
+(SSP2-4.5)",33.444,13.556,17,Gallatin,con-dry
+2060,"High Emissions
+(SSP3-7.0)",18.867,12.6,15.333,Gallatin,con-dry
+2060,"Accelerating Emissions
+(SSP5-8.5)",25.556,11.333,14.111,Gallatin,con-dry
+2061,"Moderating Emissions
+(SSP1-2.6)",42.4,15.2,20.333,Gallatin,con-dry
+2061,"Middle of the Road
+(SSP2-4.5)",26.977,12.6,20.667,Gallatin,con-dry
+2061,"High Emissions
+(SSP3-7.0)",23.111,12.8,17.667,Gallatin,con-dry
+2061,"Accelerating Emissions
+(SSP5-8.5)",25.689,13.067,18,Gallatin,con-dry
+2062,"Moderating Emissions
+(SSP1-2.6)",23.911,14.289,17.111,Gallatin,con-dry
+2062,"Middle of the Road
+(SSP2-4.5)",30.8,13.889,17.333,Gallatin,con-dry
+2062,"High Emissions
+(SSP3-7.0)",26.022,14.266,20.111,Gallatin,con-dry
+2062,"Accelerating Emissions
+(SSP5-8.5)",23,12.844,20.667,Gallatin,con-dry
+2063,"Moderating Emissions
+(SSP1-2.6)",24.022,14,19.667,Gallatin,con-dry
+2063,"Middle of the Road
+(SSP2-4.5)",25.245,11.556,18.333,Gallatin,con-dry
+2063,"High Emissions
+(SSP3-7.0)",21.666,13.956,18,Gallatin,con-dry
+2063,"Accelerating Emissions
+(SSP5-8.5)",29.955,13.8,21,Gallatin,con-dry
+2064,"Moderating Emissions
+(SSP1-2.6)",37.378,15.089,19,Gallatin,con-dry
+2064,"Middle of the Road
+(SSP2-4.5)",25.089,14.955,18.333,Gallatin,con-dry
+2064,"High Emissions
+(SSP3-7.0)",26.822,15.667,17.111,Gallatin,con-dry
+2064,"Accelerating Emissions
+(SSP5-8.5)",30.734,14.822,19.333,Gallatin,con-dry
+2065,"Moderating Emissions
+(SSP1-2.6)",31.534,13.066,21.889,Gallatin,con-dry
+2065,"Middle of the Road
+(SSP2-4.5)",31.756,16.511,20.333,Gallatin,con-dry
+2065,"High Emissions
+(SSP3-7.0)",37.378,13.266,20.667,Gallatin,con-dry
+2065,"Accelerating Emissions
+(SSP5-8.5)",35.311,16.178,23,Gallatin,con-dry
+2066,"Moderating Emissions
+(SSP1-2.6)",28.845,16.667,19.111,Gallatin,con-dry
+2066,"Middle of the Road
+(SSP2-4.5)",25.911,16.222,21.778,Gallatin,con-dry
+2066,"High Emissions
+(SSP3-7.0)",35.444,11.6,23.556,Gallatin,con-dry
+2066,"Accelerating Emissions
+(SSP5-8.5)",30.355,19.155,22.889,Gallatin,con-dry
+2067,"Moderating Emissions
+(SSP1-2.6)",24.866,13.266,18.667,Gallatin,con-dry
+2067,"Middle of the Road
+(SSP2-4.5)",27.089,11.6,19.889,Gallatin,con-dry
+2067,"High Emissions
+(SSP3-7.0)",27.244,16.311,20.222,Gallatin,con-dry
+2067,"Accelerating Emissions
+(SSP5-8.5)",27.867,15.977,18.222,Gallatin,con-dry
+2068,"Moderating Emissions
+(SSP1-2.6)",30.511,13.978,21.111,Gallatin,con-dry
+2068,"Middle of the Road
+(SSP2-4.5)",23.556,11.778,16.111,Gallatin,con-dry
+2068,"High Emissions
+(SSP3-7.0)",21.444,11.889,18.333,Gallatin,con-dry
+2068,"Accelerating Emissions
+(SSP5-8.5)",23,13.756,16.556,Gallatin,con-dry
+2069,"Moderating Emissions
+(SSP1-2.6)",24.755,11.356,17.111,Gallatin,con-dry
+2069,"Middle of the Road
+(SSP2-4.5)",31.222,11.267,12.778,Gallatin,con-dry
+2069,"High Emissions
+(SSP3-7.0)",31.889,14.289,20.778,Gallatin,con-dry
+2069,"Accelerating Emissions
+(SSP5-8.5)",28.533,13.311,20.889,Gallatin,con-dry
+2070,"Moderating Emissions
+(SSP1-2.6)",22.867,13.822,19.889,Gallatin,con-dry
+2070,"Middle of the Road
+(SSP2-4.5)",30.178,16.244,22.111,Gallatin,con-dry
+2070,"High Emissions
+(SSP3-7.0)",21.689,14.734,17.778,Gallatin,con-dry
+2070,"Accelerating Emissions
+(SSP5-8.5)",24.911,13.044,18.333,Gallatin,con-dry
+2071,"Moderating Emissions
+(SSP1-2.6)",31.289,17.711,25,Gallatin,con-dry
+2071,"Middle of the Road
+(SSP2-4.5)",29.377,15.156,19.444,Gallatin,con-dry
+2071,"High Emissions
+(SSP3-7.0)",30.466,11.8,16.556,Gallatin,con-dry
+2071,"Accelerating Emissions
+(SSP5-8.5)",32.044,17.511,25,Gallatin,con-dry
+2072,"Moderating Emissions
+(SSP1-2.6)",37.311,15.467,23.556,Gallatin,con-dry
+2072,"Middle of the Road
+(SSP2-4.5)",35.244,12.422,17.333,Gallatin,con-dry
+2072,"High Emissions
+(SSP3-7.0)",26.2,13.445,15.444,Gallatin,con-dry
+2072,"Accelerating Emissions
+(SSP5-8.5)",18.533,12.089,16,Gallatin,con-dry
+2073,"Moderating Emissions
+(SSP1-2.6)",26.822,13.733,18.444,Gallatin,con-dry
+2073,"Middle of the Road
+(SSP2-4.5)",19.4,11,15.333,Gallatin,con-dry
+2073,"High Emissions
+(SSP3-7.0)",27.978,15.066,20.556,Gallatin,con-dry
+2073,"Accelerating Emissions
+(SSP5-8.5)",27.845,14.578,19.778,Gallatin,con-dry
+2074,"Moderating Emissions
+(SSP1-2.6)",27,13.511,15.111,Gallatin,con-dry
+2074,"Middle of the Road
+(SSP2-4.5)",30.244,15.178,18.889,Gallatin,con-dry
+2074,"High Emissions
+(SSP3-7.0)",21.711,14.756,19,Gallatin,con-dry
+2074,"Accelerating Emissions
+(SSP5-8.5)",26.023,15.778,20.111,Gallatin,con-dry
+2075,"Moderating Emissions
+(SSP1-2.6)",25.911,13.089,18.444,Gallatin,con-dry
+2075,"Middle of the Road
+(SSP2-4.5)",29.311,12.533,16.333,Gallatin,con-dry
+2075,"High Emissions
+(SSP3-7.0)",32.466,14.622,25,Gallatin,con-dry
+2075,"Accelerating Emissions
+(SSP5-8.5)",26.756,12.8,19.444,Gallatin,con-dry
+2076,"Moderating Emissions
+(SSP1-2.6)",24,13.711,17.222,Gallatin,con-dry
+2076,"Middle of the Road
+(SSP2-4.5)",23.666,14.711,18.222,Gallatin,con-dry
+2076,"High Emissions
+(SSP3-7.0)",33.222,15.911,19,Gallatin,con-dry
+2076,"Accelerating Emissions
+(SSP5-8.5)",29.022,12.645,21.778,Gallatin,con-dry
+2077,"Moderating Emissions
+(SSP1-2.6)",26.666,13.089,19.889,Gallatin,con-dry
+2077,"Middle of the Road
+(SSP2-4.5)",34.355,16.289,19.111,Gallatin,con-dry
+2077,"High Emissions
+(SSP3-7.0)",21.978,14.045,17.222,Gallatin,con-dry
+2077,"Accelerating Emissions
+(SSP5-8.5)",22.667,16.178,21.889,Gallatin,con-dry
+2078,"Moderating Emissions
+(SSP1-2.6)",25.356,12.489,20.556,Gallatin,con-dry
+2078,"Middle of the Road
+(SSP2-4.5)",26.689,14.311,19.889,Gallatin,con-dry
+2078,"High Emissions
+(SSP3-7.0)",29.267,13.533,19,Gallatin,con-dry
+2078,"Accelerating Emissions
+(SSP5-8.5)",30.889,14.111,17.667,Gallatin,con-dry
+2079,"Moderating Emissions
+(SSP1-2.6)",27.956,13.911,23,Gallatin,con-dry
+2079,"Middle of the Road
+(SSP2-4.5)",29.111,15.489,19.889,Gallatin,con-dry
+2079,"High Emissions
+(SSP3-7.0)",34.822,12.378,17.556,Gallatin,con-dry
+2079,"Accelerating Emissions
+(SSP5-8.5)",27.733,16.645,21.222,Gallatin,con-dry
+2080,"Moderating Emissions
+(SSP1-2.6)",33.445,13.934,16.333,Gallatin,con-dry
+2080,"Middle of the Road
+(SSP2-4.5)",28,12.711,20.667,Gallatin,con-dry
+2080,"High Emissions
+(SSP3-7.0)",30.667,14.666,23,Gallatin,con-dry
+2080,"Accelerating Emissions
+(SSP5-8.5)",31.711,13.711,19.778,Gallatin,con-dry
+2081,"Moderating Emissions
+(SSP1-2.6)",28.111,12.733,24.111,Gallatin,con-dry
+2081,"Middle of the Road
+(SSP2-4.5)",24.6,16.733,18.333,Gallatin,con-dry
+2081,"High Emissions
+(SSP3-7.0)",24.422,11.867,17.222,Gallatin,con-dry
+2081,"Accelerating Emissions
+(SSP5-8.5)",36.067,17.045,23.667,Gallatin,con-dry
+2082,"Moderating Emissions
+(SSP1-2.6)",30.778,14.222,22,Gallatin,con-dry
+2082,"Middle of the Road
+(SSP2-4.5)",26.356,14.978,19,Gallatin,con-dry
+2082,"High Emissions
+(SSP3-7.0)",25.2,15.689,18,Gallatin,con-dry
+2082,"Accelerating Emissions
+(SSP5-8.5)",23.289,13.733,20.667,Gallatin,con-dry
+2083,"Moderating Emissions
+(SSP1-2.6)",33.222,12.955,22.333,Gallatin,con-dry
+2083,"Middle of the Road
+(SSP2-4.5)",36.333,16.2,21.667,Gallatin,con-dry
+2083,"High Emissions
+(SSP3-7.0)",27.111,13.778,19.667,Gallatin,con-dry
+2083,"Accelerating Emissions
+(SSP5-8.5)",27.089,12.622,22.333,Gallatin,con-dry
+2084,"Moderating Emissions
+(SSP1-2.6)",29.444,14.622,22.111,Gallatin,con-dry
+2084,"Middle of the Road
+(SSP2-4.5)",29.178,16.245,21.111,Gallatin,con-dry
+2084,"High Emissions
+(SSP3-7.0)",25.267,14.955,18,Gallatin,con-dry
+2084,"Accelerating Emissions
+(SSP5-8.5)",38.022,13.933,16,Gallatin,con-dry
+2085,"Moderating Emissions
+(SSP1-2.6)",27.022,15.978,21.111,Gallatin,con-dry
+2085,"Middle of the Road
+(SSP2-4.5)",25.555,13.644,17.889,Gallatin,con-dry
+2085,"High Emissions
+(SSP3-7.0)",25.911,15.866,19.333,Gallatin,con-dry
+2085,"Accelerating Emissions
+(SSP5-8.5)",31.222,17.511,18.667,Gallatin,con-dry
+2086,"Moderating Emissions
+(SSP1-2.6)",23.289,14.6,19,Gallatin,con-dry
+2086,"Middle of the Road
+(SSP2-4.5)",25.623,12.933,19.333,Gallatin,con-dry
+2086,"High Emissions
+(SSP3-7.0)",28.067,15.244,21.889,Gallatin,con-dry
+2086,"Accelerating Emissions
+(SSP5-8.5)",25.311,13.4,16.556,Gallatin,con-dry
+2087,"Moderating Emissions
+(SSP1-2.6)",24.022,13.689,18,Gallatin,con-dry
+2087,"Middle of the Road
+(SSP2-4.5)",26.111,11.556,14.778,Gallatin,con-dry
+2087,"High Emissions
+(SSP3-7.0)",32.045,15.533,24.889,Gallatin,con-dry
+2087,"Accelerating Emissions
+(SSP5-8.5)",35.244,12.622,21.222,Gallatin,con-dry
+2088,"Moderating Emissions
+(SSP1-2.6)",22.222,15.4,16.667,Gallatin,con-dry
+2088,"Middle of the Road
+(SSP2-4.5)",26.956,15.022,19.222,Gallatin,con-dry
+2088,"High Emissions
+(SSP3-7.0)",32.666,11.134,19,Gallatin,con-dry
+2088,"Accelerating Emissions
+(SSP5-8.5)",34.044,14.733,20.778,Gallatin,con-dry
+2089,"Moderating Emissions
+(SSP1-2.6)",35.089,11.155,15,Gallatin,con-dry
+2089,"Middle of the Road
+(SSP2-4.5)",24.689,12.266,18.889,Gallatin,con-dry
+2089,"High Emissions
+(SSP3-7.0)",35.378,12.956,22,Gallatin,con-dry
+2089,"Accelerating Emissions
+(SSP5-8.5)",26.045,13.689,19.222,Gallatin,con-dry
+2090,"Moderating Emissions
+(SSP1-2.6)",25.133,12.378,16.111,Gallatin,con-dry
+2090,"Middle of the Road
+(SSP2-4.5)",25.178,11.889,17.889,Gallatin,con-dry
+2090,"High Emissions
+(SSP3-7.0)",35.178,18.533,28.222,Gallatin,con-dry
+2090,"Accelerating Emissions
+(SSP5-8.5)",27.777,17.534,23,Gallatin,con-dry
+2091,"Moderating Emissions
+(SSP1-2.6)",27.533,13.178,20.444,Gallatin,con-dry
+2091,"Middle of the Road
+(SSP2-4.5)",40.044,17.955,24.889,Gallatin,con-dry
+2091,"High Emissions
+(SSP3-7.0)",44.911,15.911,26,Gallatin,con-dry
+2091,"Accelerating Emissions
+(SSP5-8.5)",30.445,14.156,17.556,Gallatin,con-dry
+2092,"Moderating Emissions
+(SSP1-2.6)",23.644,11.778,20.556,Gallatin,con-dry
+2092,"Middle of the Road
+(SSP2-4.5)",32.067,12.978,20.889,Gallatin,con-dry
+2092,"High Emissions
+(SSP3-7.0)",31.178,13.978,22,Gallatin,con-dry
+2092,"Accelerating Emissions
+(SSP5-8.5)",26.4,14.066,20.222,Gallatin,con-dry
+2093,"Moderating Emissions
+(SSP1-2.6)",21.222,11.467,18.889,Gallatin,con-dry
+2093,"Middle of the Road
+(SSP2-4.5)",25.2,13.378,20.444,Gallatin,con-dry
+2093,"High Emissions
+(SSP3-7.0)",27.822,15.267,19.778,Gallatin,con-dry
+2093,"Accelerating Emissions
+(SSP5-8.5)",26.044,13.911,16.667,Gallatin,con-dry
+2094,"Moderating Emissions
+(SSP1-2.6)",23.355,14.511,18,Gallatin,con-dry
+2094,"Middle of the Road
+(SSP2-4.5)",22.6,13.222,19.556,Gallatin,con-dry
+2094,"High Emissions
+(SSP3-7.0)",29.044,14.534,21.444,Gallatin,con-dry
+2094,"Accelerating Emissions
+(SSP5-8.5)",24.555,11.489,15.556,Gallatin,con-dry
+2095,"Moderating Emissions
+(SSP1-2.6)",32.067,12.778,17.556,Gallatin,con-dry
+2095,"Middle of the Road
+(SSP2-4.5)",31.511,12.6,18.667,Gallatin,con-dry
+2095,"High Emissions
+(SSP3-7.0)",29.822,12.978,18.222,Gallatin,con-dry
+2095,"Accelerating Emissions
+(SSP5-8.5)",34.866,15.089,22.444,Gallatin,con-dry
+2096,"Moderating Emissions
+(SSP1-2.6)",27.955,13.889,17,Gallatin,con-dry
+2096,"Middle of the Road
+(SSP2-4.5)",27.822,17.178,24.222,Gallatin,con-dry
+2096,"High Emissions
+(SSP3-7.0)",33.378,15.444,17.889,Gallatin,con-dry
+2096,"Accelerating Emissions
+(SSP5-8.5)",34.467,11.511,20.222,Gallatin,con-dry
+2097,"Moderating Emissions
+(SSP1-2.6)",34.689,14.134,20.111,Gallatin,con-dry
+2097,"Middle of the Road
+(SSP2-4.5)",29.356,13.022,17.889,Gallatin,con-dry
+2097,"High Emissions
+(SSP3-7.0)",27.667,12.111,22.333,Gallatin,con-dry
+2097,"Accelerating Emissions
+(SSP5-8.5)",42.111,14.822,22,Gallatin,con-dry
+2098,"Moderating Emissions
+(SSP1-2.6)",27.355,13.022,19,Gallatin,con-dry
+2098,"Middle of the Road
+(SSP2-4.5)",21.955,12.733,16.556,Gallatin,con-dry
+2098,"High Emissions
+(SSP3-7.0)",18.778,12.089,16.556,Gallatin,con-dry
+2098,"Accelerating Emissions
+(SSP5-8.5)",38.622,14.4,22.333,Gallatin,con-dry
+2099,"Moderating Emissions
+(SSP1-2.6)",25.778,12.955,21.556,Gallatin,con-dry
+2099,"Middle of the Road
+(SSP2-4.5)",36.222,16.4,17.778,Gallatin,con-dry
+2099,"High Emissions
+(SSP3-7.0)",20,11.911,17,Gallatin,con-dry
+2099,"Accelerating Emissions
+(SSP5-8.5)",30.355,12.8,19.889,Gallatin,con-dry
+2100,"Moderating Emissions
+(SSP1-2.6)",33,11.378,17.444,Gallatin,con-dry
+2100,"Middle of the Road
+(SSP2-4.5)",25.378,14.333,17.111,Gallatin,con-dry
+2100,"High Emissions
+(SSP3-7.0)",32.311,14.911,23.111,Gallatin,con-dry
+2100,"Accelerating Emissions
+(SSP5-8.5)",31.222,13.733,18.111,Gallatin,con-dry

@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,2040.435,1492.769,1825.325,Red Rock,gdd
+1951,Historical Emissions,2009.694,1624.984,1780.564,Red Rock,gdd
+1952,Historical Emissions,1969.419,1513.561,1735.024,Red Rock,gdd
+1953,Historical Emissions,1970.728,1556.936,1781.115,Red Rock,gdd
+1954,Historical Emissions,1934.817,1395.671,1676.027,Red Rock,gdd
+1955,Historical Emissions,2027.688,1572.056,1689.464,Red Rock,gdd
+1956,Historical Emissions,2002.246,1516.94,1801.161,Red Rock,gdd
+1957,Historical Emissions,2094.594,1389.184,1571.437,Red Rock,gdd
+1958,Historical Emissions,1875.054,1460.143,1634.349,Red Rock,gdd
+1959,Historical Emissions,1787.354,1385.992,1704.181,Red Rock,gdd
+1960,Historical Emissions,1807.214,1530.292,1622.202,Red Rock,gdd
+1961,Historical Emissions,1870.001,1410.743,1647.906,Red Rock,gdd
+1962,Historical Emissions,1758.835,1441.773,1571.402,Red Rock,gdd
+1963,Historical Emissions,1716.389,1437.639,1627.22,Red Rock,gdd
+1964,Historical Emissions,1715.015,1499.59,1584.753,Red Rock,gdd
+1965,Historical Emissions,1779.42,1518.342,1705.85,Red Rock,gdd
+1966,Historical Emissions,1810.023,1317.784,1544.022,Red Rock,gdd
+1967,Historical Emissions,1831.781,1397.614,1689.844,Red Rock,gdd
+1968,Historical Emissions,1680.87,1438.23,1611.494,Red Rock,gdd
+1969,Historical Emissions,1809.881,1400.657,1675.54,Red Rock,gdd
+1970,Historical Emissions,1775.045,1407.912,1588.772,Red Rock,gdd
+1971,Historical Emissions,2018.508,1468.712,1670.452,Red Rock,gdd
+1972,Historical Emissions,1829.708,1506.675,1645.087,Red Rock,gdd
+1973,Historical Emissions,2038.907,1377.02,1627.048,Red Rock,gdd
+1974,Historical Emissions,1810.313,1296.162,1698.24,Red Rock,gdd
+1975,Historical Emissions,1845.759,1637.338,1792.866,Red Rock,gdd
+1976,Historical Emissions,1723.818,1537.654,1681.499,Red Rock,gdd
+1977,Historical Emissions,1979.275,1492.7,1652.188,Red Rock,gdd
+1978,Historical Emissions,1820.081,1554.354,1635.348,Red Rock,gdd
+1979,Historical Emissions,1917.58,1484.713,1698.757,Red Rock,gdd
+1980,Historical Emissions,2003.532,1466.654,1658.732,Red Rock,gdd
+1981,Historical Emissions,1893.434,1563.131,1773.644,Red Rock,gdd
+1982,Historical Emissions,1921.601,1535.531,1764.083,Red Rock,gdd
+1983,Historical Emissions,1710.724,1517.647,1582.087,Red Rock,gdd
+1984,Historical Emissions,1838.014,1462.368,1691.966,Red Rock,gdd
+1985,Historical Emissions,1925.493,1599.077,1762.684,Red Rock,gdd
+1986,Historical Emissions,1781.675,1521.694,1579.057,Red Rock,gdd
+1987,Historical Emissions,1803.228,1445.958,1613.244,Red Rock,gdd
+1988,Historical Emissions,1816.733,1469.293,1668.842,Red Rock,gdd
+1989,Historical Emissions,1970.996,1537.187,1710.067,Red Rock,gdd
+1990,Historical Emissions,2066.5,1539.409,1825.707,Red Rock,gdd
+1991,Historical Emissions,1975.834,1408.182,1635.807,Red Rock,gdd
+1992,Historical Emissions,1778.202,1507.658,1582.411,Red Rock,gdd
+1993,Historical Emissions,1744.626,1520.892,1612.399,Red Rock,gdd
+1994,Historical Emissions,2067.587,1423.564,1631.837,Red Rock,gdd
+1995,Historical Emissions,2006.704,1645.292,1673.315,Red Rock,gdd
+1996,Historical Emissions,2272.988,1754.148,2019.778,Red Rock,gdd
+1997,Historical Emissions,1946.135,1538.46,1776.506,Red Rock,gdd
+1998,Historical Emissions,2070.39,1448.452,1837.519,Red Rock,gdd
+1999,Historical Emissions,1928.964,1541.666,1701.612,Red Rock,gdd
+2000,Historical Emissions,2100.919,1625.094,1833.674,Red Rock,gdd
+2001,Historical Emissions,2049.16,1601.236,1864.415,Red Rock,gdd
+2002,Historical Emissions,2252.776,1692.906,2070.101,Red Rock,gdd
+2003,Historical Emissions,2092.357,1811.655,2005.993,Red Rock,gdd
+2004,Historical Emissions,2152.343,1852.446,1982.301,Red Rock,gdd
+2005,Historical Emissions,2255.07,1760.925,2062.87,Red Rock,gdd
+2006,Historical Emissions,2077.49,1796.152,1933.36,Red Rock,gdd
+2007,Historical Emissions,2013.555,1798.008,1877.317,Red Rock,gdd
+2008,Historical Emissions,2101.785,1733.925,1962.083,Red Rock,gdd
+2009,Historical Emissions,1952.051,1734.502,1828.032,Red Rock,gdd
+2010,Historical Emissions,2123.272,1705.596,1969.584,Red Rock,gdd
+2011,Historical Emissions,2136.489,1737.057,1892.815,Red Rock,gdd
+2012,Historical Emissions,2048.767,1877.888,2011.743,Red Rock,gdd
+2013,Historical Emissions,2410.536,1956.81,2144.087,Red Rock,gdd
+2014,Historical Emissions,2253.907,1836.415,2041.457,Red Rock,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",2283.973,1928.439,2108.794,Red Rock,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",2166.749,1881.888,1972.587,Red Rock,gdd
+2015,"High Emissions
+(SSP3-7.0)",2249.523,1717.682,2001.222,Red Rock,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",2116.75,1777.382,1981.894,Red Rock,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",2248.706,2019.741,2179.699,Red Rock,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",2178.886,1801.434,1844.368,Red Rock,gdd
+2016,"High Emissions
+(SSP3-7.0)",2277.622,1889.151,2014.494,Red Rock,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",2209.104,1857.03,2044.34,Red Rock,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",2262.542,1849.453,2071.476,Red Rock,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",2303.45,1684.294,2176.816,Red Rock,gdd
+2017,"High Emissions
+(SSP3-7.0)",2149.86,1865.706,1987.763,Red Rock,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",2395.743,1876.005,2127.481,Red Rock,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",2279.01,1735.94,1993.863,Red Rock,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",2318.376,1816.329,2023.757,Red Rock,gdd
+2018,"High Emissions
+(SSP3-7.0)",2144.599,1721.189,1992.759,Red Rock,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",2132.115,1833.538,2032.57,Red Rock,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",2518.089,1913.108,2082.655,Red Rock,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",2233.364,1679.315,1920.188,Red Rock,gdd
+2019,"High Emissions
+(SSP3-7.0)",2351.544,1853.914,2019.429,Red Rock,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",2416.208,1830.382,1994.024,Red Rock,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",2323.45,1897.895,2016.899,Red Rock,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",2144.273,1822.668,2047.222,Red Rock,gdd
+2020,"High Emissions
+(SSP3-7.0)",2278.416,1861.508,1999.909,Red Rock,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",2269.949,1770.314,1989.215,Red Rock,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",2345.609,1911.083,2087.976,Red Rock,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",2430.134,1740.076,2112.463,Red Rock,gdd
+2021,"High Emissions
+(SSP3-7.0)",2274.994,1880.394,2123.586,Red Rock,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",2202.667,1925.407,2003.139,Red Rock,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",2334.67,1919.733,2040.833,Red Rock,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",2237.405,1881.848,2111.496,Red Rock,gdd
+2022,"High Emissions
+(SSP3-7.0)",2136.346,1804.282,1965.807,Red Rock,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",2482.693,1869.396,2045.141,Red Rock,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",2155.688,1863.422,2051.543,Red Rock,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",2499.514,1807.32,2031.666,Red Rock,gdd
+2023,"High Emissions
+(SSP3-7.0)",2271.661,1879.547,2053.465,Red Rock,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",2173.566,1751.626,1846.264,Red Rock,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",2400.154,1901.9,2028.413,Red Rock,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",2261.813,1927.174,2137.005,Red Rock,gdd
+2024,"High Emissions
+(SSP3-7.0)",2488.45,1857.51,2118.217,Red Rock,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",2389.548,1865.705,2152.624,Red Rock,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",2386.682,2038.953,2103.165,Red Rock,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",2216.929,1846.71,1940.265,Red Rock,gdd
+2025,"High Emissions
+(SSP3-7.0)",2496.74,1996.69,2093.68,Red Rock,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",2440.329,1898.832,2285.651,Red Rock,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",2327.723,1859.21,2085.467,Red Rock,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",2511.739,1952.49,2186.878,Red Rock,gdd
+2026,"High Emissions
+(SSP3-7.0)",2163.463,1810.894,1954.49,Red Rock,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",2359.809,1855.917,2010.066,Red Rock,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",2402.583,1792.268,2108.912,Red Rock,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",2624.585,1833.85,2216.872,Red Rock,gdd
+2027,"High Emissions
+(SSP3-7.0)",2300.461,1945.164,2191.811,Red Rock,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",2403.803,1977.159,2146.951,Red Rock,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",2444.826,1908.549,2109.524,Red Rock,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",2154.242,1859.902,1977.889,Red Rock,gdd
+2028,"High Emissions
+(SSP3-7.0)",2307.289,2049.414,2125.05,Red Rock,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",2220.549,1949.426,2111.559,Red Rock,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",2443.879,2028.744,2350.167,Red Rock,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",2336.127,1870.354,2136.562,Red Rock,gdd
+2029,"High Emissions
+(SSP3-7.0)",2312.035,1851.578,2115.293,Red Rock,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",2376.523,2034.438,2121.919,Red Rock,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",2340.099,1895.94,2117.145,Red Rock,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",2535.954,1957.814,2229.446,Red Rock,gdd
+2030,"High Emissions
+(SSP3-7.0)",2318.547,1947.947,2159.137,Red Rock,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",2568.646,1896.418,2151.168,Red Rock,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",2301.561,2060.965,2193.56,Red Rock,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",2506.475,1911.235,2152.882,Red Rock,gdd
+2031,"High Emissions
+(SSP3-7.0)",2437.308,1865.87,2240.624,Red Rock,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",2397.114,2075.734,2298.509,Red Rock,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",2436.057,1830.572,2287.869,Red Rock,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",2337.372,1878.188,2041.997,Red Rock,gdd
+2032,"High Emissions
+(SSP3-7.0)",2415.741,1866.038,2216.256,Red Rock,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",2451.621,1910.832,2148.084,Red Rock,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",2406.501,2055.233,2159.135,Red Rock,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",2516.706,1853.848,2395.586,Red Rock,gdd
+2033,"High Emissions
+(SSP3-7.0)",2408.748,1830.352,2128.879,Red Rock,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",2493.299,2023.31,2249.364,Red Rock,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",2370.28,1906.522,2217.926,Red Rock,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",2305.024,1791.183,2184.757,Red Rock,gdd
+2034,"High Emissions
+(SSP3-7.0)",2526.303,1860.825,2305.042,Red Rock,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",2466.47,1861.874,2259.505,Red Rock,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",2461.212,1885.525,2220.058,Red Rock,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",2456.208,1998.696,2225.316,Red Rock,gdd
+2035,"High Emissions
+(SSP3-7.0)",2365.408,1995.312,2169.669,Red Rock,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",2337.241,1972.21,2238.952,Red Rock,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",2391.589,1945.016,2201.686,Red Rock,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",2333.6,1994.931,2140.108,Red Rock,gdd
+2036,"High Emissions
+(SSP3-7.0)",2367.365,2020.504,2243.816,Red Rock,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",2394.273,1832.775,2250.367,Red Rock,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",2450.145,1978.581,2144.524,Red Rock,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",2496.118,1924.489,2157.673,Red Rock,gdd
+2037,"High Emissions
+(SSP3-7.0)",2479.694,1766.222,2154.99,Red Rock,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",2437.141,2025.059,2226.848,Red Rock,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",2434.549,1968.468,2059.699,Red Rock,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",2352.759,2001.188,2194.545,Red Rock,gdd
+2038,"High Emissions
+(SSP3-7.0)",2474.437,2033.537,2303.549,Red Rock,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",2594.516,2051.475,2302.731,Red Rock,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",2340.59,1843.021,2157.518,Red Rock,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",2221.81,1932.65,2084.762,Red Rock,gdd
+2039,"High Emissions
+(SSP3-7.0)",2553.113,1995.539,2355.257,Red Rock,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",2701.365,1827.74,2202.465,Red Rock,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",2458.632,1950.045,2190.237,Red Rock,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",2523.689,1874.632,2255.877,Red Rock,gdd
+2040,"High Emissions
+(SSP3-7.0)",2366.857,2050.13,2252.338,Red Rock,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",2697.006,2038.836,2384.777,Red Rock,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",2419.697,1763.822,2152.34,Red Rock,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",2387.588,2074.019,2308.511,Red Rock,gdd
+2041,"High Emissions
+(SSP3-7.0)",2493.884,1935.193,2312.156,Red Rock,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",2390.52,2003.132,2266.738,Red Rock,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",2549.433,1882.044,2184.729,Red Rock,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",2419.833,1947.165,2204.297,Red Rock,gdd
+2042,"High Emissions
+(SSP3-7.0)",2364.305,2131.743,2210.22,Red Rock,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",2719.578,2034.146,2190.463,Red Rock,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",2391.925,2017.898,2213.729,Red Rock,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",2337.037,2098.418,2197.727,Red Rock,gdd
+2043,"High Emissions
+(SSP3-7.0)",2394.388,2091.23,2260.77,Red Rock,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",2439.963,2178.515,2284.23,Red Rock,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",2510.742,1952.829,2269.167,Red Rock,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",2606.163,2041.04,2308.348,Red Rock,gdd
+2044,"High Emissions
+(SSP3-7.0)",2497.112,2217.987,2397.885,Red Rock,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",2599.708,2187.146,2406.641,Red Rock,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",2424.569,2048.92,2134.138,Red Rock,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",2629.44,1958.854,2290.042,Red Rock,gdd
+2045,"High Emissions
+(SSP3-7.0)",2654.414,2000.202,2391.017,Red Rock,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",2585.689,2027.798,2366.083,Red Rock,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",2508.07,2110.18,2361.46,Red Rock,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",2577.618,1938.771,2314.21,Red Rock,gdd
+2046,"High Emissions
+(SSP3-7.0)",2589.573,2097.445,2234.573,Red Rock,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",2596.985,2042.861,2182.333,Red Rock,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",2538.413,2038.363,2406.486,Red Rock,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",2418.916,1915.361,2187.283,Red Rock,gdd
+2047,"High Emissions
+(SSP3-7.0)",2560.099,2025.977,2266.293,Red Rock,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",2686.84,2108.01,2375.792,Red Rock,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",2500.768,2043.498,2220.715,Red Rock,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",2555.872,1978.445,2332.728,Red Rock,gdd
+2048,"High Emissions
+(SSP3-7.0)",2712.927,1988.658,2250.192,Red Rock,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",2913.252,2031.034,2654.592,Red Rock,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",2376.431,1918.693,2215.003,Red Rock,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",2498.113,1936.55,2358.864,Red Rock,gdd
+2049,"High Emissions
+(SSP3-7.0)",2538.038,2167.175,2260.464,Red Rock,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",2597.704,2162.039,2447.899,Red Rock,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",2436.917,1930.587,2162.002,Red Rock,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",2727.163,2072.931,2338.99,Red Rock,gdd
+2050,"High Emissions
+(SSP3-7.0)",2616.819,2178.592,2307.694,Red Rock,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",2643.282,2131.129,2410.948,Red Rock,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",2397.489,1908.752,2162.86,Red Rock,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",2554.429,2062.17,2317.188,Red Rock,gdd
+2051,"High Emissions
+(SSP3-7.0)",2562.158,2105.421,2424.958,Red Rock,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",2604.371,2059.762,2428.735,Red Rock,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",2302.483,2073.741,2125.069,Red Rock,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",2533.256,2021.724,2136.608,Red Rock,gdd
+2052,"High Emissions
+(SSP3-7.0)",2487.033,2012.772,2210.403,Red Rock,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",2470.881,2219.172,2411.643,Red Rock,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",2444.962,1921.103,2239.296,Red Rock,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",2441.053,1961.782,2360.404,Red Rock,gdd
+2053,"High Emissions
+(SSP3-7.0)",2806.276,2242.173,2573.498,Red Rock,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",2728.098,2083.443,2290.037,Red Rock,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",2543.048,2167.782,2412.325,Red Rock,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",2444.366,1997.72,2243.558,Red Rock,gdd
+2054,"High Emissions
+(SSP3-7.0)",2584.266,2038.72,2329.788,Red Rock,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",2729.759,2180.816,2636.958,Red Rock,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",2473.326,2166.983,2284.382,Red Rock,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",2683.243,1941.493,2310.109,Red Rock,gdd
+2055,"High Emissions
+(SSP3-7.0)",2493.687,2117.591,2353.932,Red Rock,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",2860.001,2212.713,2417.69,Red Rock,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",2418.343,1972.593,2284.157,Red Rock,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",2698.969,2153.513,2507.646,Red Rock,gdd
+2056,"High Emissions
+(SSP3-7.0)",2560.062,2075.362,2383.749,Red Rock,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",2638.782,2340.31,2534.244,Red Rock,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",2389.721,1956.563,2150.739,Red Rock,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",2564.778,2163.736,2425.813,Red Rock,gdd
+2057,"High Emissions
+(SSP3-7.0)",2638.231,2083.204,2276.218,Red Rock,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",2852.934,2221.353,2489.507,Red Rock,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",2442.159,1888.9,2386.28,Red Rock,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",2698.563,2143.323,2320.684,Red Rock,gdd
+2058,"High Emissions
+(SSP3-7.0)",2554.564,2204.909,2428.137,Red Rock,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",2614.239,2099.419,2413.73,Red Rock,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",2534.041,2208.452,2387.026,Red Rock,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",2757.928,2037.589,2430.826,Red Rock,gdd
+2059,"High Emissions
+(SSP3-7.0)",2752.328,2165.296,2316.127,Red Rock,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",2806.782,2344.208,2660.924,Red Rock,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",2478.177,2037.836,2286.059,Red Rock,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",2938.725,2029.265,2324.071,Red Rock,gdd
+2060,"High Emissions
+(SSP3-7.0)",2671.466,2149.025,2498.433,Red Rock,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",2635.943,2238.869,2582.518,Red Rock,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",2416.792,1859.527,2283.383,Red Rock,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",2661.383,2034.522,2214.502,Red Rock,gdd
+2061,"High Emissions
+(SSP3-7.0)",2580.076,2292.705,2441.703,Red Rock,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",2893.55,2432.895,2731.421,Red Rock,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",2581.449,2013.836,2250.909,Red Rock,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",2567.833,2184.53,2356.957,Red Rock,gdd
+2062,"High Emissions
+(SSP3-7.0)",2552.632,2248.456,2404.792,Red Rock,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",2810.398,2444.894,2752.979,Red Rock,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",2428.4,2146.812,2276.16,Red Rock,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",2497.261,1987.916,2247.951,Red Rock,gdd
+2063,"High Emissions
+(SSP3-7.0)",2689.405,2334.993,2533.963,Red Rock,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",2948.524,2369.042,2659.517,Red Rock,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",2581.342,2002.267,2255.925,Red Rock,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",2504.803,2116.488,2297.706,Red Rock,gdd
+2064,"High Emissions
+(SSP3-7.0)",2589.876,2221.274,2477.946,Red Rock,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",2777.961,2256.634,2517.593,Red Rock,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",2376.929,2044.062,2199.417,Red Rock,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",2564.84,2062.91,2364.325,Red Rock,gdd
+2065,"High Emissions
+(SSP3-7.0)",2708.964,2188.574,2583.176,Red Rock,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",3149.23,2454.165,2685.192,Red Rock,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",2551.347,2176.879,2431.631,Red Rock,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",2709.652,2228.164,2445.921,Red Rock,gdd
+2066,"High Emissions
+(SSP3-7.0)",2728.617,2174.467,2456.166,Red Rock,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",2969.334,2235.034,2854.591,Red Rock,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",2402.639,2233.122,2337.956,Red Rock,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",2766.348,2056.764,2220.444,Red Rock,gdd
+2067,"High Emissions
+(SSP3-7.0)",2993.408,2384.218,2558.605,Red Rock,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",2991.304,2327.329,2482.801,Red Rock,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",2646.985,2070.934,2277.567,Red Rock,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",2678.363,2027.181,2420.868,Red Rock,gdd
+2068,"High Emissions
+(SSP3-7.0)",2772.913,2099.329,2409.886,Red Rock,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",2969.666,2355.809,2704.5,Red Rock,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",2554.868,2201.913,2329.487,Red Rock,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",2679.537,1914.335,2502.152,Red Rock,gdd
+2069,"High Emissions
+(SSP3-7.0)",3087.37,2401.615,2627.223,Red Rock,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",3231.582,2370.481,2969.354,Red Rock,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",2353.093,2066.037,2254.813,Red Rock,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",2668.791,2020.52,2341.493,Red Rock,gdd
+2070,"High Emissions
+(SSP3-7.0)",2919.547,2446.548,2718.545,Red Rock,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",3018.597,2454.522,2681.028,Red Rock,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",2692,2093.488,2336.653,Red Rock,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",2455.388,2287.393,2419.903,Red Rock,gdd
+2071,"High Emissions
+(SSP3-7.0)",2800.426,2377.297,2636.565,Red Rock,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",3096.053,2479.085,2729.565,Red Rock,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",2562.131,2175.911,2377.104,Red Rock,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",2619.179,2211.648,2385.301,Red Rock,gdd
+2072,"High Emissions
+(SSP3-7.0)",3032.11,2231.128,2586.031,Red Rock,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",3127.242,2433.002,2818.423,Red Rock,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",2364.166,2131.554,2262.68,Red Rock,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",2620.276,2014.307,2467.234,Red Rock,gdd
+2073,"High Emissions
+(SSP3-7.0)",2870.818,2473.461,2626.38,Red Rock,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",3095.273,2392.182,2598.653,Red Rock,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",2695.112,1858.998,2357.621,Red Rock,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",2695.928,2060.511,2344.309,Red Rock,gdd
+2074,"High Emissions
+(SSP3-7.0)",2825.062,2336.23,2426.514,Red Rock,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",3307,2551.354,2795.713,Red Rock,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",2534.597,1755.268,2286.862,Red Rock,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",2792.513,2021.791,2396.446,Red Rock,gdd
+2075,"High Emissions
+(SSP3-7.0)",2975.643,2169.576,2557.926,Red Rock,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",3200.661,2338.527,2798.68,Red Rock,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",2501.813,1965.795,2235.458,Red Rock,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",2510.388,2049.564,2263.916,Red Rock,gdd
+2076,"High Emissions
+(SSP3-7.0)",3035.569,2553.01,2704.047,Red Rock,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",3154.506,2449.343,2827.182,Red Rock,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",2643.097,2013.473,2338.484,Red Rock,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",2831.536,2117.284,2592.211,Red Rock,gdd
+2077,"High Emissions
+(SSP3-7.0)",3002.61,2366.396,2707.18,Red Rock,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",3089.34,2670.458,2864.084,Red Rock,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",2568.092,2224.016,2316.763,Red Rock,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",2834.616,2115.26,2378.539,Red Rock,gdd
+2078,"High Emissions
+(SSP3-7.0)",3018.298,2404.558,2705.029,Red Rock,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",3043.254,2548.031,2829.984,Red Rock,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",2555.506,2005.023,2301.272,Red Rock,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",2771.804,2311.224,2417.713,Red Rock,gdd
+2079,"High Emissions
+(SSP3-7.0)",2731.872,2440.782,2583.434,Red Rock,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",3218.225,2565.832,2817.827,Red Rock,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",2493.502,1972.562,2166.577,Red Rock,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",2690.327,2033.631,2558.865,Red Rock,gdd
+2080,"High Emissions
+(SSP3-7.0)",3066.977,2480.35,2687.52,Red Rock,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",3241.827,2659.178,3026.111,Red Rock,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",2508.468,2119.772,2215.523,Red Rock,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",2704.428,2261.422,2395.311,Red Rock,gdd
+2081,"High Emissions
+(SSP3-7.0)",3078.857,2288.94,2684.187,Red Rock,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",3307.791,2650.46,2827.082,Red Rock,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",2650.38,2141.08,2454.269,Red Rock,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",2744.826,2097.573,2410.189,Red Rock,gdd
+2082,"High Emissions
+(SSP3-7.0)",3052.185,2416.086,2687.502,Red Rock,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",3274.1,2701.291,3015.747,Red Rock,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",2544.879,2214.511,2368.446,Red Rock,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",2739.555,2068.899,2410.113,Red Rock,gdd
+2083,"High Emissions
+(SSP3-7.0)",3011.881,2224.971,2631.253,Red Rock,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",3168.861,2502.254,2854.722,Red Rock,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",2609.229,1888.869,2114.303,Red Rock,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",2885.664,2300.251,2526.973,Red Rock,gdd
+2084,"High Emissions
+(SSP3-7.0)",3099.54,2647.61,2976.395,Red Rock,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",3245.207,2562.819,2946.101,Red Rock,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",2586.325,1947.902,2132.524,Red Rock,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",2729.484,2107.649,2498.701,Red Rock,gdd
+2085,"High Emissions
+(SSP3-7.0)",2955.269,2417.069,2617.605,Red Rock,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",3279.159,2478.964,2937.32,Red Rock,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",2409.094,2191.806,2242.664,Red Rock,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",2716.549,2236.179,2572.093,Red Rock,gdd
+2086,"High Emissions
+(SSP3-7.0)",3103.17,2553.154,2782.482,Red Rock,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",3343.967,2586.78,3160.648,Red Rock,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",2393.655,2039.485,2153.619,Red Rock,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",2790.063,2311.624,2472.641,Red Rock,gdd
+2087,"High Emissions
+(SSP3-7.0)",3063.964,2373.875,2695.64,Red Rock,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",3385.442,2769.487,2858.834,Red Rock,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",2395.859,2109.148,2187.777,Red Rock,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",2725.939,2431.695,2626.791,Red Rock,gdd
+2088,"High Emissions
+(SSP3-7.0)",3128.62,2545.076,2922.618,Red Rock,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",3535.444,2822.287,3056.702,Red Rock,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",2499.573,1965.483,2176.697,Red Rock,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",2969.314,2142.587,2520.809,Red Rock,gdd
+2089,"High Emissions
+(SSP3-7.0)",3282.445,2437.559,3007.19,Red Rock,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",3459.081,2725.544,3111.406,Red Rock,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",2408.091,2097.667,2258.442,Red Rock,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",2593.795,2116.836,2467.479,Red Rock,gdd
+2090,"High Emissions
+(SSP3-7.0)",3245.738,2725.381,3006.613,Red Rock,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",3452.539,2762.192,3191.465,Red Rock,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",2615.279,2013.596,2244.728,Red Rock,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",2691.675,2269.564,2506.125,Red Rock,gdd
+2091,"High Emissions
+(SSP3-7.0)",3157.29,2729.057,2904.24,Red Rock,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",3510.241,2649.772,3043.422,Red Rock,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",2496.36,1970.681,2314.381,Red Rock,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",2898.878,2254.579,2607.098,Red Rock,gdd
+2092,"High Emissions
+(SSP3-7.0)",2986.524,2705.896,2833.67,Red Rock,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",3491.482,2636.462,3137.711,Red Rock,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",2472.649,1995.055,2194.559,Red Rock,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",2621.742,2251.271,2501.302,Red Rock,gdd
+2093,"High Emissions
+(SSP3-7.0)",3234.11,2628.773,2691.73,Red Rock,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",3670.859,2862.495,3152.872,Red Rock,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",2571.912,1856.463,2160.503,Red Rock,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",2961.369,2092.273,2623.238,Red Rock,gdd
+2094,"High Emissions
+(SSP3-7.0)",3226.158,2487.489,2939.495,Red Rock,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",3752.421,2732.969,3170.67,Red Rock,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",2566.245,1978.779,2372.816,Red Rock,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",2800.954,2422.958,2672.359,Red Rock,gdd
+2095,"High Emissions
+(SSP3-7.0)",3448.361,2653.874,2946.769,Red Rock,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",3563.806,2788.112,3025.718,Red Rock,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",2398.925,2111.196,2250.064,Red Rock,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",2809.658,2447.367,2551.149,Red Rock,gdd
+2096,"High Emissions
+(SSP3-7.0)",3265.245,2640.614,3042.234,Red Rock,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",3573.277,2802.445,3158.891,Red Rock,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",2532.827,2057.575,2227.552,Red Rock,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",3027.393,2365.917,2592.558,Red Rock,gdd
+2097,"High Emissions
+(SSP3-7.0)",3531.164,2586.921,2990.882,Red Rock,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",3865.492,2780.735,3156.134,Red Rock,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",2528.84,2046.139,2178.221,Red Rock,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",2670.46,2223.065,2417.021,Red Rock,gdd
+2098,"High Emissions
+(SSP3-7.0)",3278.155,2582.513,2951.089,Red Rock,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",3544.885,3065.78,3174.538,Red Rock,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",2521.896,1835.389,2364.004,Red Rock,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",2764.089,2145.627,2527.611,Red Rock,gdd
+2099,"High Emissions
+(SSP3-7.0)",3364.104,2702.823,2894.554,Red Rock,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",3691.45,2981.939,3348.027,Red Rock,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",2508.666,1880.038,2003.047,Red Rock,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",2842.864,2266.276,2593.401,Red Rock,gdd
+2100,"High Emissions
+(SSP3-7.0)",3119.166,2632.351,2955.269,Red Rock,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",3626.121,2867.745,3237.74,Red Rock,gdd

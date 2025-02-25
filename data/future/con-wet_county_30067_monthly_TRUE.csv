@@ -1,0 +1,19 @@
+scenario,month,grp,upper,lower,value,location,variable
+Historical Emissions,Jan,Mid Century (2040-2069),1,0,0.571,Park County,con-wet
+Historical Emissions,Jan,End-of-Century (2070-2099),1,0,0.571,Park County,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,End-of-Century (2070-2099),1.286,0,0.679,Park County,con-wet
+"Moderating Emissions
+(SSP1-2.6)",Jan,Mid Century (2040-2069),1.071,0,0.714,Park County,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,End-of-Century (2070-2099),1,0.243,0.821,Park County,con-wet
+"Middle of the Road
+(SSP2-4.5)",Jan,Mid Century (2040-2069),1.286,0,0.786,Park County,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,End-of-Century (2070-2099),1.286,0.143,1,Park County,con-wet
+"High Emissions
+(SSP3-7.0)",Jan,Mid Century (2040-2069),1.143,0,0.857,Park County,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,End-of-Century (2070-2099),1.543,0,0.393,Park County,con-wet
+"Accelerating Emissions
+(SSP5-8.5)",Jan,Mid Century (2040-2069),1.071,0,0.786,Park County,con-wet

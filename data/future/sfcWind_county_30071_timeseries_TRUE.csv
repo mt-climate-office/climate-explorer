@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,9.86,9.014,9.248,Phillips County,sfcWind
+1951,Historical Emissions,9.49,9.133,9.307,Phillips County,sfcWind
+1952,Historical Emissions,9.778,8.789,9.585,Phillips County,sfcWind
+1953,Historical Emissions,9.91,8.989,9.229,Phillips County,sfcWind
+1954,Historical Emissions,9.865,8.878,9.495,Phillips County,sfcWind
+1955,Historical Emissions,9.686,8.925,9.175,Phillips County,sfcWind
+1956,Historical Emissions,10.072,8.975,9.555,Phillips County,sfcWind
+1957,Historical Emissions,9.983,9.004,9.675,Phillips County,sfcWind
+1958,Historical Emissions,9.401,8.96,9.16,Phillips County,sfcWind
+1959,Historical Emissions,9.816,8.838,9.578,Phillips County,sfcWind
+1960,Historical Emissions,9.857,9.495,9.783,Phillips County,sfcWind
+1961,Historical Emissions,10.053,8.905,9.265,Phillips County,sfcWind
+1962,Historical Emissions,9.622,8.966,9.296,Phillips County,sfcWind
+1963,Historical Emissions,9.698,8.966,9.183,Phillips County,sfcWind
+1964,Historical Emissions,9.823,9.267,9.368,Phillips County,sfcWind
+1965,Historical Emissions,9.558,9.12,9.277,Phillips County,sfcWind
+1966,Historical Emissions,10.03,9.237,9.449,Phillips County,sfcWind
+1967,Historical Emissions,9.926,8.796,9.367,Phillips County,sfcWind
+1968,Historical Emissions,10.03,8.907,9.229,Phillips County,sfcWind
+1969,Historical Emissions,9.679,8.866,9.082,Phillips County,sfcWind
+1970,Historical Emissions,9.793,9.031,9.351,Phillips County,sfcWind
+1971,Historical Emissions,9.829,8.973,9.463,Phillips County,sfcWind
+1972,Historical Emissions,9.561,9.068,9.342,Phillips County,sfcWind
+1973,Historical Emissions,9.86,8.87,9.327,Phillips County,sfcWind
+1974,Historical Emissions,9.935,8.601,9.577,Phillips County,sfcWind
+1975,Historical Emissions,9.646,8.884,9.381,Phillips County,sfcWind
+1976,Historical Emissions,9.602,9.132,9.396,Phillips County,sfcWind
+1977,Historical Emissions,9.672,8.753,9.175,Phillips County,sfcWind
+1978,Historical Emissions,9.512,8.852,9.136,Phillips County,sfcWind
+1979,Historical Emissions,9.534,9.039,9.263,Phillips County,sfcWind
+1980,Historical Emissions,9.871,8.954,9.425,Phillips County,sfcWind
+1981,Historical Emissions,9.585,9.163,9.324,Phillips County,sfcWind
+1982,Historical Emissions,9.766,8.781,9.315,Phillips County,sfcWind
+1983,Historical Emissions,9.835,8.836,9.099,Phillips County,sfcWind
+1984,Historical Emissions,9.875,8.794,9.14,Phillips County,sfcWind
+1985,Historical Emissions,9.89,9.009,9.249,Phillips County,sfcWind
+1986,Historical Emissions,9.761,8.657,9.275,Phillips County,sfcWind
+1987,Historical Emissions,9.73,8.874,9.09,Phillips County,sfcWind
+1988,Historical Emissions,9.591,9.018,9.498,Phillips County,sfcWind
+1989,Historical Emissions,9.758,8.953,9.267,Phillips County,sfcWind
+1990,Historical Emissions,9.835,8.928,9.39,Phillips County,sfcWind
+1991,Historical Emissions,9.623,8.869,9.404,Phillips County,sfcWind
+1992,Historical Emissions,9.805,9.152,9.471,Phillips County,sfcWind
+1993,Historical Emissions,9.723,8.851,9.209,Phillips County,sfcWind
+1994,Historical Emissions,9.889,8.597,9.311,Phillips County,sfcWind
+1995,Historical Emissions,10.03,9.045,9.425,Phillips County,sfcWind
+1996,Historical Emissions,9.897,9.12,9.615,Phillips County,sfcWind
+1997,Historical Emissions,9.907,8.823,9.204,Phillips County,sfcWind
+1998,Historical Emissions,9.656,8.88,9.298,Phillips County,sfcWind
+1999,Historical Emissions,9.511,9,9.302,Phillips County,sfcWind
+2000,Historical Emissions,9.541,9.049,9.417,Phillips County,sfcWind
+2001,Historical Emissions,9.707,8.819,9.208,Phillips County,sfcWind
+2002,Historical Emissions,9.813,8.896,9.322,Phillips County,sfcWind
+2003,Historical Emissions,9.554,8.875,9.252,Phillips County,sfcWind
+2004,Historical Emissions,9.82,9.143,9.317,Phillips County,sfcWind
+2005,Historical Emissions,9.949,8.732,9.289,Phillips County,sfcWind
+2006,Historical Emissions,9.725,8.749,9.512,Phillips County,sfcWind
+2007,Historical Emissions,9.683,8.693,9.189,Phillips County,sfcWind
+2008,Historical Emissions,9.539,8.729,9.244,Phillips County,sfcWind
+2009,Historical Emissions,9.609,8.771,9.436,Phillips County,sfcWind
+2010,Historical Emissions,9.729,8.694,9.26,Phillips County,sfcWind
+2011,Historical Emissions,9.734,8.881,9.149,Phillips County,sfcWind
+2012,Historical Emissions,9.637,8.977,9.191,Phillips County,sfcWind
+2013,Historical Emissions,9.679,8.835,9.117,Phillips County,sfcWind
+2014,Historical Emissions,9.843,9.202,9.343,Phillips County,sfcWind
+2015,"Moderating Emissions
+(SSP1-2.6)",9.931,8.51,9.419,Phillips County,sfcWind
+2015,"Middle of the Road
+(SSP2-4.5)",9.849,8.342,9.239,Phillips County,sfcWind
+2015,"High Emissions
+(SSP3-7.0)",9.792,8.537,9.14,Phillips County,sfcWind
+2015,"Accelerating Emissions
+(SSP5-8.5)",9.638,8.799,9.309,Phillips County,sfcWind
+2016,"Moderating Emissions
+(SSP1-2.6)",9.535,8.535,9.062,Phillips County,sfcWind
+2016,"Middle of the Road
+(SSP2-4.5)",9.794,8.553,9.259,Phillips County,sfcWind
+2016,"High Emissions
+(SSP3-7.0)",9.751,8.747,9.32,Phillips County,sfcWind
+2016,"Accelerating Emissions
+(SSP5-8.5)",10.213,8.731,9.13,Phillips County,sfcWind
+2017,"Moderating Emissions
+(SSP1-2.6)",9.642,8.202,9.407,Phillips County,sfcWind
+2017,"Middle of the Road
+(SSP2-4.5)",9.408,8.815,9.089,Phillips County,sfcWind
+2017,"High Emissions
+(SSP3-7.0)",9.434,8.302,8.877,Phillips County,sfcWind
+2017,"Accelerating Emissions
+(SSP5-8.5)",9.581,8.834,9.075,Phillips County,sfcWind
+2018,"Moderating Emissions
+(SSP1-2.6)",9.814,8.701,9.141,Phillips County,sfcWind
+2018,"Middle of the Road
+(SSP2-4.5)",9.489,8.087,9.175,Phillips County,sfcWind
+2018,"High Emissions
+(SSP3-7.0)",9.264,8.038,9.143,Phillips County,sfcWind
+2018,"Accelerating Emissions
+(SSP5-8.5)",9.441,8.633,8.897,Phillips County,sfcWind
+2019,"Moderating Emissions
+(SSP1-2.6)",9.223,8.241,8.942,Phillips County,sfcWind
+2019,"Middle of the Road
+(SSP2-4.5)",9.736,8.572,9.372,Phillips County,sfcWind
+2019,"High Emissions
+(SSP3-7.0)",9.662,8.138,8.955,Phillips County,sfcWind
+2019,"Accelerating Emissions
+(SSP5-8.5)",9.412,8.412,9.253,Phillips County,sfcWind
+2020,"Moderating Emissions
+(SSP1-2.6)",9.49,8.59,9.165,Phillips County,sfcWind
+2020,"Middle of the Road
+(SSP2-4.5)",9.59,8.517,9.372,Phillips County,sfcWind
+2020,"High Emissions
+(SSP3-7.0)",9.607,8.655,9.277,Phillips County,sfcWind
+2020,"Accelerating Emissions
+(SSP5-8.5)",9.574,8.383,9.102,Phillips County,sfcWind
+2021,"Moderating Emissions
+(SSP1-2.6)",9.685,8.68,8.901,Phillips County,sfcWind
+2021,"Middle of the Road
+(SSP2-4.5)",9.447,8.929,9.293,Phillips County,sfcWind
+2021,"High Emissions
+(SSP3-7.0)",9.721,8.663,9.121,Phillips County,sfcWind
+2021,"Accelerating Emissions
+(SSP5-8.5)",9.334,8.628,9.198,Phillips County,sfcWind
+2022,"Moderating Emissions
+(SSP1-2.6)",9.714,8.767,9.246,Phillips County,sfcWind
+2022,"Middle of the Road
+(SSP2-4.5)",9.433,8.703,9.131,Phillips County,sfcWind
+2022,"High Emissions
+(SSP3-7.0)",9.469,8.608,8.994,Phillips County,sfcWind
+2022,"Accelerating Emissions
+(SSP5-8.5)",9.583,8.56,9.078,Phillips County,sfcWind
+2023,"Moderating Emissions
+(SSP1-2.6)",9.553,8.715,9.217,Phillips County,sfcWind
+2023,"Middle of the Road
+(SSP2-4.5)",9.584,8.887,9.182,Phillips County,sfcWind
+2023,"High Emissions
+(SSP3-7.0)",9.634,8.674,9.163,Phillips County,sfcWind
+2023,"Accelerating Emissions
+(SSP5-8.5)",9.891,8.776,9.114,Phillips County,sfcWind
+2024,"Moderating Emissions
+(SSP1-2.6)",9.699,8.783,9.02,Phillips County,sfcWind
+2024,"Middle of the Road
+(SSP2-4.5)",9.449,8.17,9.14,Phillips County,sfcWind
+2024,"High Emissions
+(SSP3-7.0)",9.643,8.621,9.236,Phillips County,sfcWind
+2024,"Accelerating Emissions
+(SSP5-8.5)",9.783,8.657,9.067,Phillips County,sfcWind
+2025,"Moderating Emissions
+(SSP1-2.6)",9.607,8.694,9.263,Phillips County,sfcWind
+2025,"Middle of the Road
+(SSP2-4.5)",9.828,8.327,9.12,Phillips County,sfcWind
+2025,"High Emissions
+(SSP3-7.0)",9.561,8.46,9.173,Phillips County,sfcWind
+2025,"Accelerating Emissions
+(SSP5-8.5)",9.562,8.911,9.31,Phillips County,sfcWind
+2026,"Moderating Emissions
+(SSP1-2.6)",9.681,8.553,9.225,Phillips County,sfcWind
+2026,"Middle of the Road
+(SSP2-4.5)",9.529,8.823,9.247,Phillips County,sfcWind
+2026,"High Emissions
+(SSP3-7.0)",9.102,8.251,8.873,Phillips County,sfcWind
+2026,"Accelerating Emissions
+(SSP5-8.5)",9.472,8.795,9.215,Phillips County,sfcWind
+2027,"Moderating Emissions
+(SSP1-2.6)",9.803,8.578,8.957,Phillips County,sfcWind
+2027,"Middle of the Road
+(SSP2-4.5)",9.449,8.663,9.254,Phillips County,sfcWind
+2027,"High Emissions
+(SSP3-7.0)",9.466,8.522,8.703,Phillips County,sfcWind
+2027,"Accelerating Emissions
+(SSP5-8.5)",9.679,8.39,9.193,Phillips County,sfcWind
+2028,"Moderating Emissions
+(SSP1-2.6)",9.553,8.414,8.886,Phillips County,sfcWind
+2028,"Middle of the Road
+(SSP2-4.5)",9.317,8.247,8.965,Phillips County,sfcWind
+2028,"High Emissions
+(SSP3-7.0)",9.522,8.42,9.058,Phillips County,sfcWind
+2028,"Accelerating Emissions
+(SSP5-8.5)",9.292,8.886,9.188,Phillips County,sfcWind
+2029,"Moderating Emissions
+(SSP1-2.6)",9.38,8.551,8.896,Phillips County,sfcWind
+2029,"Middle of the Road
+(SSP2-4.5)",9.443,8.237,9.205,Phillips County,sfcWind
+2029,"High Emissions
+(SSP3-7.0)",9.534,8.58,9.141,Phillips County,sfcWind
+2029,"Accelerating Emissions
+(SSP5-8.5)",9.329,8.345,8.928,Phillips County,sfcWind
+2030,"Moderating Emissions
+(SSP1-2.6)",9.224,8.542,9.012,Phillips County,sfcWind
+2030,"Middle of the Road
+(SSP2-4.5)",10.018,8.86,9.37,Phillips County,sfcWind
+2030,"High Emissions
+(SSP3-7.0)",9.704,8.847,9.108,Phillips County,sfcWind
+2030,"Accelerating Emissions
+(SSP5-8.5)",9.471,8.574,8.951,Phillips County,sfcWind
+2031,"Moderating Emissions
+(SSP1-2.6)",9.643,8.801,9.204,Phillips County,sfcWind
+2031,"Middle of the Road
+(SSP2-4.5)",9.592,8.861,9.375,Phillips County,sfcWind
+2031,"High Emissions
+(SSP3-7.0)",9.732,8.519,9.293,Phillips County,sfcWind
+2031,"Accelerating Emissions
+(SSP5-8.5)",9.818,8.481,9.147,Phillips County,sfcWind
+2032,"Moderating Emissions
+(SSP1-2.6)",9.351,8.453,9.175,Phillips County,sfcWind
+2032,"Middle of the Road
+(SSP2-4.5)",9.663,8.708,9.116,Phillips County,sfcWind
+2032,"High Emissions
+(SSP3-7.0)",9.555,8.968,9.413,Phillips County,sfcWind
+2032,"Accelerating Emissions
+(SSP5-8.5)",9.675,8.592,9.399,Phillips County,sfcWind
+2033,"Moderating Emissions
+(SSP1-2.6)",9.764,8.606,9.313,Phillips County,sfcWind
+2033,"Middle of the Road
+(SSP2-4.5)",9.463,8.601,9.185,Phillips County,sfcWind
+2033,"High Emissions
+(SSP3-7.0)",9.468,8.326,8.767,Phillips County,sfcWind
+2033,"Accelerating Emissions
+(SSP5-8.5)",9.296,8.503,8.993,Phillips County,sfcWind
+2034,"Moderating Emissions
+(SSP1-2.6)",9.603,8.509,9.173,Phillips County,sfcWind
+2034,"Middle of the Road
+(SSP2-4.5)",9.32,8.338,9.102,Phillips County,sfcWind
+2034,"High Emissions
+(SSP3-7.0)",9.453,8.316,9.026,Phillips County,sfcWind
+2034,"Accelerating Emissions
+(SSP5-8.5)",10.029,8.669,9.191,Phillips County,sfcWind
+2035,"Moderating Emissions
+(SSP1-2.6)",9.716,8.832,9.375,Phillips County,sfcWind
+2035,"Middle of the Road
+(SSP2-4.5)",9.437,8.621,9.038,Phillips County,sfcWind
+2035,"High Emissions
+(SSP3-7.0)",9.516,8.722,9.282,Phillips County,sfcWind
+2035,"Accelerating Emissions
+(SSP5-8.5)",9.891,8.391,9.446,Phillips County,sfcWind
+2036,"Moderating Emissions
+(SSP1-2.6)",9.206,8.599,9.123,Phillips County,sfcWind
+2036,"Middle of the Road
+(SSP2-4.5)",9.556,9.065,9.386,Phillips County,sfcWind
+2036,"High Emissions
+(SSP3-7.0)",9.174,8.306,9.118,Phillips County,sfcWind
+2036,"Accelerating Emissions
+(SSP5-8.5)",9.373,8.49,9.045,Phillips County,sfcWind
+2037,"Moderating Emissions
+(SSP1-2.6)",9.565,8.48,8.926,Phillips County,sfcWind
+2037,"Middle of the Road
+(SSP2-4.5)",9.809,8.631,9.035,Phillips County,sfcWind
+2037,"High Emissions
+(SSP3-7.0)",9.46,8.433,8.935,Phillips County,sfcWind
+2037,"Accelerating Emissions
+(SSP5-8.5)",9.984,8.796,9.321,Phillips County,sfcWind
+2038,"Moderating Emissions
+(SSP1-2.6)",9.616,8.729,9.296,Phillips County,sfcWind
+2038,"Middle of the Road
+(SSP2-4.5)",9.599,8.59,9.256,Phillips County,sfcWind
+2038,"High Emissions
+(SSP3-7.0)",9.624,8.887,9.125,Phillips County,sfcWind
+2038,"Accelerating Emissions
+(SSP5-8.5)",9.408,8.803,9.089,Phillips County,sfcWind
+2039,"Moderating Emissions
+(SSP1-2.6)",9.368,8.678,9.131,Phillips County,sfcWind
+2039,"Middle of the Road
+(SSP2-4.5)",9.666,8.947,9.414,Phillips County,sfcWind
+2039,"High Emissions
+(SSP3-7.0)",9.486,8.511,9.19,Phillips County,sfcWind
+2039,"Accelerating Emissions
+(SSP5-8.5)",9.361,8.737,9.199,Phillips County,sfcWind
+2040,"Moderating Emissions
+(SSP1-2.6)",9.656,8.289,9.311,Phillips County,sfcWind
+2040,"Middle of the Road
+(SSP2-4.5)",9.931,8.758,9.214,Phillips County,sfcWind
+2040,"High Emissions
+(SSP3-7.0)",9.74,8.628,8.916,Phillips County,sfcWind
+2040,"Accelerating Emissions
+(SSP5-8.5)",9.533,8.39,9.033,Phillips County,sfcWind
+2041,"Moderating Emissions
+(SSP1-2.6)",9.52,8.726,9.003,Phillips County,sfcWind
+2041,"Middle of the Road
+(SSP2-4.5)",9.58,8.497,8.941,Phillips County,sfcWind
+2041,"High Emissions
+(SSP3-7.0)",9.141,8.466,8.921,Phillips County,sfcWind
+2041,"Accelerating Emissions
+(SSP5-8.5)",9.606,8.465,9.032,Phillips County,sfcWind
+2042,"Moderating Emissions
+(SSP1-2.6)",9.706,8.673,9.061,Phillips County,sfcWind
+2042,"Middle of the Road
+(SSP2-4.5)",9.292,8.733,9.169,Phillips County,sfcWind
+2042,"High Emissions
+(SSP3-7.0)",9.717,8.552,9.055,Phillips County,sfcWind
+2042,"Accelerating Emissions
+(SSP5-8.5)",9.787,8.708,9.144,Phillips County,sfcWind
+2043,"Moderating Emissions
+(SSP1-2.6)",9.508,8.526,9.087,Phillips County,sfcWind
+2043,"Middle of the Road
+(SSP2-4.5)",9.819,8.509,9.356,Phillips County,sfcWind
+2043,"High Emissions
+(SSP3-7.0)",9.588,8.526,9.328,Phillips County,sfcWind
+2043,"Accelerating Emissions
+(SSP5-8.5)",9.558,8.621,9.146,Phillips County,sfcWind
+2044,"Moderating Emissions
+(SSP1-2.6)",9.546,8.219,9.097,Phillips County,sfcWind
+2044,"Middle of the Road
+(SSP2-4.5)",9.776,8.703,9.267,Phillips County,sfcWind
+2044,"High Emissions
+(SSP3-7.0)",9.629,8.866,9.159,Phillips County,sfcWind
+2044,"Accelerating Emissions
+(SSP5-8.5)",9.273,8.625,9.008,Phillips County,sfcWind
+2045,"Moderating Emissions
+(SSP1-2.6)",9.111,8.541,8.794,Phillips County,sfcWind
+2045,"Middle of the Road
+(SSP2-4.5)",9.732,8.444,9.314,Phillips County,sfcWind
+2045,"High Emissions
+(SSP3-7.0)",9.524,8.126,9.066,Phillips County,sfcWind
+2045,"Accelerating Emissions
+(SSP5-8.5)",9.084,8.524,8.988,Phillips County,sfcWind
+2046,"Moderating Emissions
+(SSP1-2.6)",9.452,8.534,9.164,Phillips County,sfcWind
+2046,"Middle of the Road
+(SSP2-4.5)",9.584,8.803,9.21,Phillips County,sfcWind
+2046,"High Emissions
+(SSP3-7.0)",9.326,8.624,8.837,Phillips County,sfcWind
+2046,"Accelerating Emissions
+(SSP5-8.5)",9.775,7.798,9.203,Phillips County,sfcWind
+2047,"Moderating Emissions
+(SSP1-2.6)",9.483,7.875,9.028,Phillips County,sfcWind
+2047,"Middle of the Road
+(SSP2-4.5)",9.49,8.39,9.119,Phillips County,sfcWind
+2047,"High Emissions
+(SSP3-7.0)",9.275,8.413,8.919,Phillips County,sfcWind
+2047,"Accelerating Emissions
+(SSP5-8.5)",9.874,8.201,9.546,Phillips County,sfcWind
+2048,"Moderating Emissions
+(SSP1-2.6)",9.447,8.671,9.117,Phillips County,sfcWind
+2048,"Middle of the Road
+(SSP2-4.5)",9.402,8.069,8.924,Phillips County,sfcWind
+2048,"High Emissions
+(SSP3-7.0)",9.764,8.651,9.161,Phillips County,sfcWind
+2048,"Accelerating Emissions
+(SSP5-8.5)",9.689,8.546,9.107,Phillips County,sfcWind
+2049,"Moderating Emissions
+(SSP1-2.6)",9.785,8.467,9.269,Phillips County,sfcWind
+2049,"Middle of the Road
+(SSP2-4.5)",10.091,8.796,9.352,Phillips County,sfcWind
+2049,"High Emissions
+(SSP3-7.0)",9.392,8.654,9.131,Phillips County,sfcWind
+2049,"Accelerating Emissions
+(SSP5-8.5)",9.648,8.629,8.846,Phillips County,sfcWind
+2050,"Moderating Emissions
+(SSP1-2.6)",9.167,8.35,8.995,Phillips County,sfcWind
+2050,"Middle of the Road
+(SSP2-4.5)",9.753,8.678,9.28,Phillips County,sfcWind
+2050,"High Emissions
+(SSP3-7.0)",9.37,8.784,9.168,Phillips County,sfcWind
+2050,"Accelerating Emissions
+(SSP5-8.5)",9.378,8.279,8.907,Phillips County,sfcWind
+2051,"Moderating Emissions
+(SSP1-2.6)",9.302,8.557,9.112,Phillips County,sfcWind
+2051,"Middle of the Road
+(SSP2-4.5)",10.122,8.744,9.092,Phillips County,sfcWind
+2051,"High Emissions
+(SSP3-7.0)",9.146,8.613,8.994,Phillips County,sfcWind
+2051,"Accelerating Emissions
+(SSP5-8.5)",10.064,8.753,9.184,Phillips County,sfcWind
+2052,"Moderating Emissions
+(SSP1-2.6)",9.434,8.431,8.91,Phillips County,sfcWind
+2052,"Middle of the Road
+(SSP2-4.5)",9.636,8.52,9.177,Phillips County,sfcWind
+2052,"High Emissions
+(SSP3-7.0)",9.27,8.437,8.947,Phillips County,sfcWind
+2052,"Accelerating Emissions
+(SSP5-8.5)",9.297,7.948,9.053,Phillips County,sfcWind
+2053,"Moderating Emissions
+(SSP1-2.6)",9.631,8.316,9.273,Phillips County,sfcWind
+2053,"Middle of the Road
+(SSP2-4.5)",9.635,8.536,9.307,Phillips County,sfcWind
+2053,"High Emissions
+(SSP3-7.0)",9.424,8.158,8.972,Phillips County,sfcWind
+2053,"Accelerating Emissions
+(SSP5-8.5)",9.505,8.818,9.129,Phillips County,sfcWind
+2054,"Moderating Emissions
+(SSP1-2.6)",9.45,8.285,9.129,Phillips County,sfcWind
+2054,"Middle of the Road
+(SSP2-4.5)",9.552,8.307,9.288,Phillips County,sfcWind
+2054,"High Emissions
+(SSP3-7.0)",9.277,8.403,9.048,Phillips County,sfcWind
+2054,"Accelerating Emissions
+(SSP5-8.5)",9.424,8.579,9.064,Phillips County,sfcWind
+2055,"Moderating Emissions
+(SSP1-2.6)",9.54,8.639,9.154,Phillips County,sfcWind
+2055,"Middle of the Road
+(SSP2-4.5)",9.845,8.57,9.383,Phillips County,sfcWind
+2055,"High Emissions
+(SSP3-7.0)",9.314,8.832,9.124,Phillips County,sfcWind
+2055,"Accelerating Emissions
+(SSP5-8.5)",9.689,8.516,8.822,Phillips County,sfcWind
+2056,"Moderating Emissions
+(SSP1-2.6)",9.453,8.953,9.326,Phillips County,sfcWind
+2056,"Middle of the Road
+(SSP2-4.5)",9.757,8.649,9.245,Phillips County,sfcWind
+2056,"High Emissions
+(SSP3-7.0)",9.252,8.644,8.991,Phillips County,sfcWind
+2056,"Accelerating Emissions
+(SSP5-8.5)",9.003,8.492,8.729,Phillips County,sfcWind
+2057,"Moderating Emissions
+(SSP1-2.6)",9.439,8.367,9.228,Phillips County,sfcWind
+2057,"Middle of the Road
+(SSP2-4.5)",9.797,8.477,9.353,Phillips County,sfcWind
+2057,"High Emissions
+(SSP3-7.0)",9.3,8.229,8.878,Phillips County,sfcWind
+2057,"Accelerating Emissions
+(SSP5-8.5)",9.154,8.464,8.812,Phillips County,sfcWind
+2058,"Moderating Emissions
+(SSP1-2.6)",9.631,8.61,9.303,Phillips County,sfcWind
+2058,"Middle of the Road
+(SSP2-4.5)",9.772,8.472,8.897,Phillips County,sfcWind
+2058,"High Emissions
+(SSP3-7.0)",9.328,8.068,8.809,Phillips County,sfcWind
+2058,"Accelerating Emissions
+(SSP5-8.5)",9.292,8.445,8.873,Phillips County,sfcWind
+2059,"Moderating Emissions
+(SSP1-2.6)",9.65,8.721,9.37,Phillips County,sfcWind
+2059,"Middle of the Road
+(SSP2-4.5)",9.568,8.46,9.408,Phillips County,sfcWind
+2059,"High Emissions
+(SSP3-7.0)",9.482,8.65,9.089,Phillips County,sfcWind
+2059,"Accelerating Emissions
+(SSP5-8.5)",9.355,8.3,8.931,Phillips County,sfcWind
+2060,"Moderating Emissions
+(SSP1-2.6)",9.631,8.535,9.212,Phillips County,sfcWind
+2060,"Middle of the Road
+(SSP2-4.5)",9.643,8.392,9.133,Phillips County,sfcWind
+2060,"High Emissions
+(SSP3-7.0)",9.385,8.361,9.002,Phillips County,sfcWind
+2060,"Accelerating Emissions
+(SSP5-8.5)",9.739,8.303,8.963,Phillips County,sfcWind
+2061,"Moderating Emissions
+(SSP1-2.6)",9.587,8.615,9.316,Phillips County,sfcWind
+2061,"Middle of the Road
+(SSP2-4.5)",9.867,8.664,9.478,Phillips County,sfcWind
+2061,"High Emissions
+(SSP3-7.0)",9.439,8.368,8.821,Phillips County,sfcWind
+2061,"Accelerating Emissions
+(SSP5-8.5)",9.663,8.671,9.22,Phillips County,sfcWind
+2062,"Moderating Emissions
+(SSP1-2.6)",9.811,8.579,9.281,Phillips County,sfcWind
+2062,"Middle of the Road
+(SSP2-4.5)",9.55,8.725,9.224,Phillips County,sfcWind
+2062,"High Emissions
+(SSP3-7.0)",9.223,8.575,8.864,Phillips County,sfcWind
+2062,"Accelerating Emissions
+(SSP5-8.5)",9.622,8.418,9.158,Phillips County,sfcWind
+2063,"Moderating Emissions
+(SSP1-2.6)",9.471,8.684,9.33,Phillips County,sfcWind
+2063,"Middle of the Road
+(SSP2-4.5)",9.53,8.655,9.23,Phillips County,sfcWind
+2063,"High Emissions
+(SSP3-7.0)",9.581,8.396,9.196,Phillips County,sfcWind
+2063,"Accelerating Emissions
+(SSP5-8.5)",9.371,8.406,9.081,Phillips County,sfcWind
+2064,"Moderating Emissions
+(SSP1-2.6)",9.86,8.64,9.255,Phillips County,sfcWind
+2064,"Middle of the Road
+(SSP2-4.5)",9.396,8.692,9.019,Phillips County,sfcWind
+2064,"High Emissions
+(SSP3-7.0)",9.347,8.394,8.6,Phillips County,sfcWind
+2064,"Accelerating Emissions
+(SSP5-8.5)",9.44,8.57,9,Phillips County,sfcWind
+2065,"Moderating Emissions
+(SSP1-2.6)",9.733,8.49,9.211,Phillips County,sfcWind
+2065,"Middle of the Road
+(SSP2-4.5)",9.553,8.436,8.896,Phillips County,sfcWind
+2065,"High Emissions
+(SSP3-7.0)",9.631,8.632,9.094,Phillips County,sfcWind
+2065,"Accelerating Emissions
+(SSP5-8.5)",9.547,8.211,8.749,Phillips County,sfcWind
+2066,"Moderating Emissions
+(SSP1-2.6)",9.551,8.446,9.025,Phillips County,sfcWind
+2066,"Middle of the Road
+(SSP2-4.5)",9.553,8.535,9.216,Phillips County,sfcWind
+2066,"High Emissions
+(SSP3-7.0)",9.695,8.292,8.939,Phillips County,sfcWind
+2066,"Accelerating Emissions
+(SSP5-8.5)",9.439,8.633,9.072,Phillips County,sfcWind
+2067,"Moderating Emissions
+(SSP1-2.6)",9.385,8.409,8.944,Phillips County,sfcWind
+2067,"Middle of the Road
+(SSP2-4.5)",9.685,8.726,9.355,Phillips County,sfcWind
+2067,"High Emissions
+(SSP3-7.0)",9.466,8.524,9.018,Phillips County,sfcWind
+2067,"Accelerating Emissions
+(SSP5-8.5)",9.276,8.075,8.787,Phillips County,sfcWind
+2068,"Moderating Emissions
+(SSP1-2.6)",9.496,8.887,9.296,Phillips County,sfcWind
+2068,"Middle of the Road
+(SSP2-4.5)",9.722,8.853,9.296,Phillips County,sfcWind
+2068,"High Emissions
+(SSP3-7.0)",9.479,8.508,9.1,Phillips County,sfcWind
+2068,"Accelerating Emissions
+(SSP5-8.5)",9.571,8.372,9.223,Phillips County,sfcWind
+2069,"Moderating Emissions
+(SSP1-2.6)",9.576,8.563,9.11,Phillips County,sfcWind
+2069,"Middle of the Road
+(SSP2-4.5)",9.615,8.585,9.055,Phillips County,sfcWind
+2069,"High Emissions
+(SSP3-7.0)",9.615,8.25,8.946,Phillips County,sfcWind
+2069,"Accelerating Emissions
+(SSP5-8.5)",9.533,7.992,9.14,Phillips County,sfcWind
+2070,"Moderating Emissions
+(SSP1-2.6)",9.425,8.341,9.028,Phillips County,sfcWind
+2070,"Middle of the Road
+(SSP2-4.5)",9.737,8.565,9.061,Phillips County,sfcWind
+2070,"High Emissions
+(SSP3-7.0)",9.665,8.482,8.913,Phillips County,sfcWind
+2070,"Accelerating Emissions
+(SSP5-8.5)",9.321,8.395,9.031,Phillips County,sfcWind
+2071,"Moderating Emissions
+(SSP1-2.6)",9.867,8.575,9.253,Phillips County,sfcWind
+2071,"Middle of the Road
+(SSP2-4.5)",9.861,8.683,9.188,Phillips County,sfcWind
+2071,"High Emissions
+(SSP3-7.0)",9.817,8.393,9.037,Phillips County,sfcWind
+2071,"Accelerating Emissions
+(SSP5-8.5)",9.707,8.553,9.018,Phillips County,sfcWind
+2072,"Moderating Emissions
+(SSP1-2.6)",9.52,8.516,9.308,Phillips County,sfcWind
+2072,"Middle of the Road
+(SSP2-4.5)",9.741,8.407,9.034,Phillips County,sfcWind
+2072,"High Emissions
+(SSP3-7.0)",9.406,8.726,8.954,Phillips County,sfcWind
+2072,"Accelerating Emissions
+(SSP5-8.5)",9.338,8.645,9.02,Phillips County,sfcWind
+2073,"Moderating Emissions
+(SSP1-2.6)",9.611,8.61,9.263,Phillips County,sfcWind
+2073,"Middle of the Road
+(SSP2-4.5)",9.509,8.456,9.142,Phillips County,sfcWind
+2073,"High Emissions
+(SSP3-7.0)",9.528,8.492,8.893,Phillips County,sfcWind
+2073,"Accelerating Emissions
+(SSP5-8.5)",9.165,8.533,8.809,Phillips County,sfcWind
+2074,"Moderating Emissions
+(SSP1-2.6)",9.295,8.338,9.22,Phillips County,sfcWind
+2074,"Middle of the Road
+(SSP2-4.5)",9.618,8.588,9.299,Phillips County,sfcWind
+2074,"High Emissions
+(SSP3-7.0)",9.137,8.293,8.737,Phillips County,sfcWind
+2074,"Accelerating Emissions
+(SSP5-8.5)",9.33,8.129,8.972,Phillips County,sfcWind
+2075,"Moderating Emissions
+(SSP1-2.6)",9.403,8.46,9.156,Phillips County,sfcWind
+2075,"Middle of the Road
+(SSP2-4.5)",9.848,8.812,9.531,Phillips County,sfcWind
+2075,"High Emissions
+(SSP3-7.0)",9.644,8.43,9.109,Phillips County,sfcWind
+2075,"Accelerating Emissions
+(SSP5-8.5)",9.37,8.135,8.774,Phillips County,sfcWind
+2076,"Moderating Emissions
+(SSP1-2.6)",10.235,8.561,9.18,Phillips County,sfcWind
+2076,"Middle of the Road
+(SSP2-4.5)",9.615,8.461,9.318,Phillips County,sfcWind
+2076,"High Emissions
+(SSP3-7.0)",9.444,8.563,9.133,Phillips County,sfcWind
+2076,"Accelerating Emissions
+(SSP5-8.5)",9.814,8.356,9.055,Phillips County,sfcWind
+2077,"Moderating Emissions
+(SSP1-2.6)",9.506,8.317,9.142,Phillips County,sfcWind
+2077,"Middle of the Road
+(SSP2-4.5)",9.392,8.682,9.001,Phillips County,sfcWind
+2077,"High Emissions
+(SSP3-7.0)",9.592,8.305,8.92,Phillips County,sfcWind
+2077,"Accelerating Emissions
+(SSP5-8.5)",9.437,8.727,9.255,Phillips County,sfcWind
+2078,"Moderating Emissions
+(SSP1-2.6)",9.894,8.567,9.26,Phillips County,sfcWind
+2078,"Middle of the Road
+(SSP2-4.5)",9.786,8.691,9.432,Phillips County,sfcWind
+2078,"High Emissions
+(SSP3-7.0)",9.622,8.285,8.97,Phillips County,sfcWind
+2078,"Accelerating Emissions
+(SSP5-8.5)",9.562,8.619,8.797,Phillips County,sfcWind
+2079,"Moderating Emissions
+(SSP1-2.6)",9.749,8.565,9.274,Phillips County,sfcWind
+2079,"Middle of the Road
+(SSP2-4.5)",9.513,8.396,9.063,Phillips County,sfcWind
+2079,"High Emissions
+(SSP3-7.0)",9.577,7.997,8.968,Phillips County,sfcWind
+2079,"Accelerating Emissions
+(SSP5-8.5)",9.183,8.655,8.924,Phillips County,sfcWind
+2080,"Moderating Emissions
+(SSP1-2.6)",9.403,8.713,9.102,Phillips County,sfcWind
+2080,"Middle of the Road
+(SSP2-4.5)",9.514,8.655,9.182,Phillips County,sfcWind
+2080,"High Emissions
+(SSP3-7.0)",9,8.123,8.74,Phillips County,sfcWind
+2080,"Accelerating Emissions
+(SSP5-8.5)",9.535,8.256,8.997,Phillips County,sfcWind
+2081,"Moderating Emissions
+(SSP1-2.6)",9.589,8.475,9.188,Phillips County,sfcWind
+2081,"Middle of the Road
+(SSP2-4.5)",9.951,8.659,9.431,Phillips County,sfcWind
+2081,"High Emissions
+(SSP3-7.0)",9.545,8.269,8.987,Phillips County,sfcWind
+2081,"Accelerating Emissions
+(SSP5-8.5)",9.402,8.123,8.943,Phillips County,sfcWind
+2082,"Moderating Emissions
+(SSP1-2.6)",9.764,8.495,9.076,Phillips County,sfcWind
+2082,"Middle of the Road
+(SSP2-4.5)",9.347,8.242,9.114,Phillips County,sfcWind
+2082,"High Emissions
+(SSP3-7.0)",9.301,8.438,8.826,Phillips County,sfcWind
+2082,"Accelerating Emissions
+(SSP5-8.5)",9.452,8.305,9.038,Phillips County,sfcWind
+2083,"Moderating Emissions
+(SSP1-2.6)",9.804,8.627,9.35,Phillips County,sfcWind
+2083,"Middle of the Road
+(SSP2-4.5)",10.201,8.512,9.126,Phillips County,sfcWind
+2083,"High Emissions
+(SSP3-7.0)",9.167,8.236,8.75,Phillips County,sfcWind
+2083,"Accelerating Emissions
+(SSP5-8.5)",9.281,8.627,8.954,Phillips County,sfcWind
+2084,"Moderating Emissions
+(SSP1-2.6)",9.988,8.461,9.124,Phillips County,sfcWind
+2084,"Middle of the Road
+(SSP2-4.5)",10.054,8.805,9.511,Phillips County,sfcWind
+2084,"High Emissions
+(SSP3-7.0)",9.225,8.34,8.991,Phillips County,sfcWind
+2084,"Accelerating Emissions
+(SSP5-8.5)",9.528,8.371,9.285,Phillips County,sfcWind
+2085,"Moderating Emissions
+(SSP1-2.6)",9.945,8.575,9.044,Phillips County,sfcWind
+2085,"Middle of the Road
+(SSP2-4.5)",9.259,8.662,9.046,Phillips County,sfcWind
+2085,"High Emissions
+(SSP3-7.0)",9.627,8.429,8.926,Phillips County,sfcWind
+2085,"Accelerating Emissions
+(SSP5-8.5)",9.405,8.681,9.038,Phillips County,sfcWind
+2086,"Moderating Emissions
+(SSP1-2.6)",9.369,8.489,8.886,Phillips County,sfcWind
+2086,"Middle of the Road
+(SSP2-4.5)",9.521,8.834,9.305,Phillips County,sfcWind
+2086,"High Emissions
+(SSP3-7.0)",9.188,8.366,8.935,Phillips County,sfcWind
+2086,"Accelerating Emissions
+(SSP5-8.5)",9.675,8.312,9.154,Phillips County,sfcWind
+2087,"Moderating Emissions
+(SSP1-2.6)",9.661,8.577,9.273,Phillips County,sfcWind
+2087,"Middle of the Road
+(SSP2-4.5)",10.432,8.376,9.199,Phillips County,sfcWind
+2087,"High Emissions
+(SSP3-7.0)",9.428,8.357,9.051,Phillips County,sfcWind
+2087,"Accelerating Emissions
+(SSP5-8.5)",9.192,8.517,8.939,Phillips County,sfcWind
+2088,"Moderating Emissions
+(SSP1-2.6)",9.656,8.35,9.158,Phillips County,sfcWind
+2088,"Middle of the Road
+(SSP2-4.5)",9.714,8.618,9.411,Phillips County,sfcWind
+2088,"High Emissions
+(SSP3-7.0)",9.378,8.159,8.965,Phillips County,sfcWind
+2088,"Accelerating Emissions
+(SSP5-8.5)",9.492,8.408,9.043,Phillips County,sfcWind
+2089,"Moderating Emissions
+(SSP1-2.6)",9.555,8.484,8.992,Phillips County,sfcWind
+2089,"Middle of the Road
+(SSP2-4.5)",9.456,8.568,9.014,Phillips County,sfcWind
+2089,"High Emissions
+(SSP3-7.0)",9.494,8.317,9.191,Phillips County,sfcWind
+2089,"Accelerating Emissions
+(SSP5-8.5)",9.472,8.438,9.047,Phillips County,sfcWind
+2090,"Moderating Emissions
+(SSP1-2.6)",9.327,8.632,8.905,Phillips County,sfcWind
+2090,"Middle of the Road
+(SSP2-4.5)",9.582,8.494,9.275,Phillips County,sfcWind
+2090,"High Emissions
+(SSP3-7.0)",9.641,8.595,9.214,Phillips County,sfcWind
+2090,"Accelerating Emissions
+(SSP5-8.5)",9.605,8.526,8.782,Phillips County,sfcWind
+2091,"Moderating Emissions
+(SSP1-2.6)",9.457,8.083,9.296,Phillips County,sfcWind
+2091,"Middle of the Road
+(SSP2-4.5)",9.878,8.838,9.065,Phillips County,sfcWind
+2091,"High Emissions
+(SSP3-7.0)",9.545,8.365,8.852,Phillips County,sfcWind
+2091,"Accelerating Emissions
+(SSP5-8.5)",9.426,8.276,9.087,Phillips County,sfcWind
+2092,"Moderating Emissions
+(SSP1-2.6)",9.619,8.553,9.474,Phillips County,sfcWind
+2092,"Middle of the Road
+(SSP2-4.5)",9.292,8.481,9.172,Phillips County,sfcWind
+2092,"High Emissions
+(SSP3-7.0)",9.396,8.461,9.022,Phillips County,sfcWind
+2092,"Accelerating Emissions
+(SSP5-8.5)",9.879,8.623,9.147,Phillips County,sfcWind
+2093,"Moderating Emissions
+(SSP1-2.6)",9.54,8.567,9.329,Phillips County,sfcWind
+2093,"Middle of the Road
+(SSP2-4.5)",9.521,8.312,9.034,Phillips County,sfcWind
+2093,"High Emissions
+(SSP3-7.0)",9.393,8.067,8.709,Phillips County,sfcWind
+2093,"Accelerating Emissions
+(SSP5-8.5)",9.645,8.526,9.032,Phillips County,sfcWind
+2094,"Moderating Emissions
+(SSP1-2.6)",9.821,8.677,8.948,Phillips County,sfcWind
+2094,"Middle of the Road
+(SSP2-4.5)",9.839,8.62,9.343,Phillips County,sfcWind
+2094,"High Emissions
+(SSP3-7.0)",9.307,8.175,8.883,Phillips County,sfcWind
+2094,"Accelerating Emissions
+(SSP5-8.5)",9.523,8.566,8.97,Phillips County,sfcWind
+2095,"Moderating Emissions
+(SSP1-2.6)",9.802,8.57,9.298,Phillips County,sfcWind
+2095,"Middle of the Road
+(SSP2-4.5)",9.835,8.143,9.083,Phillips County,sfcWind
+2095,"High Emissions
+(SSP3-7.0)",9.62,8.639,9.088,Phillips County,sfcWind
+2095,"Accelerating Emissions
+(SSP5-8.5)",9.431,8.749,9.25,Phillips County,sfcWind
+2096,"Moderating Emissions
+(SSP1-2.6)",9.881,8.315,9.115,Phillips County,sfcWind
+2096,"Middle of the Road
+(SSP2-4.5)",10.106,8.507,9.507,Phillips County,sfcWind
+2096,"High Emissions
+(SSP3-7.0)",9.431,8.554,8.983,Phillips County,sfcWind
+2096,"Accelerating Emissions
+(SSP5-8.5)",9.423,8.462,9.223,Phillips County,sfcWind
+2097,"Moderating Emissions
+(SSP1-2.6)",9.706,8.49,9.245,Phillips County,sfcWind
+2097,"Middle of the Road
+(SSP2-4.5)",10.066,8.522,9.143,Phillips County,sfcWind
+2097,"High Emissions
+(SSP3-7.0)",9.343,8.55,8.883,Phillips County,sfcWind
+2097,"Accelerating Emissions
+(SSP5-8.5)",9.652,8.545,9.04,Phillips County,sfcWind
+2098,"Moderating Emissions
+(SSP1-2.6)",9.701,8.751,9.389,Phillips County,sfcWind
+2098,"Middle of the Road
+(SSP2-4.5)",10.284,8.674,9.343,Phillips County,sfcWind
+2098,"High Emissions
+(SSP3-7.0)",9.484,8.347,9.033,Phillips County,sfcWind
+2098,"Accelerating Emissions
+(SSP5-8.5)",9.562,7.947,9.08,Phillips County,sfcWind
+2099,"Moderating Emissions
+(SSP1-2.6)",9.371,8.335,9.174,Phillips County,sfcWind
+2099,"Middle of the Road
+(SSP2-4.5)",9.776,8.738,9.279,Phillips County,sfcWind
+2099,"High Emissions
+(SSP3-7.0)",9.082,8.595,8.989,Phillips County,sfcWind
+2099,"Accelerating Emissions
+(SSP5-8.5)",9.294,8.081,8.765,Phillips County,sfcWind
+2100,"Moderating Emissions
+(SSP1-2.6)",9.795,8.58,9.156,Phillips County,sfcWind
+2100,"Middle of the Road
+(SSP2-4.5)",10.108,8.54,9.087,Phillips County,sfcWind
+2100,"High Emissions
+(SSP3-7.0)",9.492,8.584,8.943,Phillips County,sfcWind
+2100,"Accelerating Emissions
+(SSP5-8.5)",9.708,8.483,8.839,Phillips County,sfcWind

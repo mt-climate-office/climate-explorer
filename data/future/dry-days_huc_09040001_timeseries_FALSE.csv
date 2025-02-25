@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,257.866,188.066,230.332,St. Marys,dry-days
+1951,Historical Emissions,243.998,212.933,224.334,St. Marys,dry-days
+1952,Historical Emissions,250.132,205.066,222.333,St. Marys,dry-days
+1953,Historical Emissions,231.267,199.8,217.334,St. Marys,dry-days
+1954,Historical Emissions,248.867,195.6,225.334,St. Marys,dry-days
+1955,Historical Emissions,253.733,209.934,224.333,St. Marys,dry-days
+1956,Historical Emissions,251.733,191.799,217.667,St. Marys,dry-days
+1957,Historical Emissions,237.668,194.933,216.332,St. Marys,dry-days
+1958,Historical Emissions,236.132,179.999,216.666,St. Marys,dry-days
+1959,Historical Emissions,228.267,207.868,220.666,St. Marys,dry-days
+1960,Historical Emissions,244.801,197.201,217,St. Marys,dry-days
+1961,Historical Emissions,249.132,202.934,223.667,St. Marys,dry-days
+1962,Historical Emissions,252.667,193.933,217.332,St. Marys,dry-days
+1963,Historical Emissions,236.667,194.866,221.667,St. Marys,dry-days
+1964,Historical Emissions,245.4,193.133,233,St. Marys,dry-days
+1965,Historical Emissions,239.133,205.332,228.666,St. Marys,dry-days
+1966,Historical Emissions,250.333,179.334,217.668,St. Marys,dry-days
+1967,Historical Emissions,234.133,202.401,226,St. Marys,dry-days
+1968,Historical Emissions,231.8,196.733,208.666,St. Marys,dry-days
+1969,Historical Emissions,239.667,207.267,226.333,St. Marys,dry-days
+1970,Historical Emissions,242.134,201.001,215,St. Marys,dry-days
+1971,Historical Emissions,260.867,200.066,224.332,St. Marys,dry-days
+1972,Historical Emissions,241.933,212.402,221.334,St. Marys,dry-days
+1973,Historical Emissions,234.266,198.8,216.669,St. Marys,dry-days
+1974,Historical Emissions,250.601,194.867,226.333,St. Marys,dry-days
+1975,Historical Emissions,247.999,204.534,216.334,St. Marys,dry-days
+1976,Historical Emissions,235.2,210.132,222.667,St. Marys,dry-days
+1977,Historical Emissions,243.799,196.334,219,St. Marys,dry-days
+1978,Historical Emissions,242.133,205.534,219.666,St. Marys,dry-days
+1979,Historical Emissions,235.2,193.8,223.999,St. Marys,dry-days
+1980,Historical Emissions,244.132,203.067,231.001,St. Marys,dry-days
+1981,Historical Emissions,240,196.4,221.665,St. Marys,dry-days
+1982,Historical Emissions,225.866,202.534,215.666,St. Marys,dry-days
+1983,Historical Emissions,231.135,211.799,216.666,St. Marys,dry-days
+1984,Historical Emissions,240.466,189.266,208.668,St. Marys,dry-days
+1985,Historical Emissions,238.667,204.599,219.666,St. Marys,dry-days
+1986,Historical Emissions,233.468,197.667,212.665,St. Marys,dry-days
+1987,Historical Emissions,233.6,205.332,220.665,St. Marys,dry-days
+1988,Historical Emissions,237.934,196.934,217.668,St. Marys,dry-days
+1989,Historical Emissions,245.867,204.266,219.665,St. Marys,dry-days
+1990,Historical Emissions,248.532,212.001,230.333,St. Marys,dry-days
+1991,Historical Emissions,256.333,184.734,229.331,St. Marys,dry-days
+1992,Historical Emissions,244.934,214.466,234.668,St. Marys,dry-days
+1993,Historical Emissions,235.666,205.667,223.667,St. Marys,dry-days
+1994,Historical Emissions,236.533,206.665,229.667,St. Marys,dry-days
+1995,Historical Emissions,236.001,211.999,225.334,St. Marys,dry-days
+1996,Historical Emissions,271.999,201.334,223.668,St. Marys,dry-days
+1997,Historical Emissions,240.934,206.534,225.667,St. Marys,dry-days
+1998,Historical Emissions,250.868,203.933,221.667,St. Marys,dry-days
+1999,Historical Emissions,235,199.601,214.666,St. Marys,dry-days
+2000,Historical Emissions,251,215.8,221,St. Marys,dry-days
+2001,Historical Emissions,245.267,199.135,222.333,St. Marys,dry-days
+2002,Historical Emissions,249.2,193.666,226,St. Marys,dry-days
+2003,Historical Emissions,248.865,208.201,222.666,St. Marys,dry-days
+2004,Historical Emissions,238.666,198.667,226,St. Marys,dry-days
+2005,Historical Emissions,246.799,197.532,230.665,St. Marys,dry-days
+2006,Historical Emissions,236.466,197.201,210.666,St. Marys,dry-days
+2007,Historical Emissions,244,203.134,225.666,St. Marys,dry-days
+2008,Historical Emissions,247.065,202.599,230.998,St. Marys,dry-days
+2009,Historical Emissions,224.666,202.867,214,St. Marys,dry-days
+2010,Historical Emissions,240.333,199.2,214.332,St. Marys,dry-days
+2011,Historical Emissions,232.332,205.934,217.335,St. Marys,dry-days
+2012,Historical Emissions,251.534,215.333,230.334,St. Marys,dry-days
+2013,Historical Emissions,244.999,214.066,230.999,St. Marys,dry-days
+2014,Historical Emissions,247.531,209.399,220.667,St. Marys,dry-days
+2015,"Moderating Emissions
+(SSP1-2.6)",245.667,207.332,226.665,St. Marys,dry-days
+2015,"Middle of the Road
+(SSP2-4.5)",248.066,209.266,218.001,St. Marys,dry-days
+2015,"High Emissions
+(SSP3-7.0)",239.6,197.599,231.666,St. Marys,dry-days
+2015,"Accelerating Emissions
+(SSP5-8.5)",231.134,203.133,221,St. Marys,dry-days
+2016,"Moderating Emissions
+(SSP1-2.6)",260.333,207.465,214.334,St. Marys,dry-days
+2016,"Middle of the Road
+(SSP2-4.5)",241.866,202.468,225.334,St. Marys,dry-days
+2016,"High Emissions
+(SSP3-7.0)",247.399,208.533,218,St. Marys,dry-days
+2016,"Accelerating Emissions
+(SSP5-8.5)",246.067,202,223.666,St. Marys,dry-days
+2017,"Moderating Emissions
+(SSP1-2.6)",235.734,203.867,226.001,St. Marys,dry-days
+2017,"Middle of the Road
+(SSP2-4.5)",244.8,202.599,227.332,St. Marys,dry-days
+2017,"High Emissions
+(SSP3-7.0)",238.4,204.467,215.668,St. Marys,dry-days
+2017,"Accelerating Emissions
+(SSP5-8.5)",238.867,205.466,223.667,St. Marys,dry-days
+2018,"Moderating Emissions
+(SSP1-2.6)",237.867,207.734,213.667,St. Marys,dry-days
+2018,"Middle of the Road
+(SSP2-4.5)",236.6,205.333,216.334,St. Marys,dry-days
+2018,"High Emissions
+(SSP3-7.0)",225.267,198.998,220.333,St. Marys,dry-days
+2018,"Accelerating Emissions
+(SSP5-8.5)",232.999,198.599,212.666,St. Marys,dry-days
+2019,"Moderating Emissions
+(SSP1-2.6)",253.666,210.933,241,St. Marys,dry-days
+2019,"Middle of the Road
+(SSP2-4.5)",226.399,197.933,207.334,St. Marys,dry-days
+2019,"High Emissions
+(SSP3-7.0)",250.133,198.601,209.668,St. Marys,dry-days
+2019,"Accelerating Emissions
+(SSP5-8.5)",240.599,192.133,227.999,St. Marys,dry-days
+2020,"Moderating Emissions
+(SSP1-2.6)",246.733,196.067,220.998,St. Marys,dry-days
+2020,"Middle of the Road
+(SSP2-4.5)",241.867,202.999,214.333,St. Marys,dry-days
+2020,"High Emissions
+(SSP3-7.0)",236.333,199.8,221,St. Marys,dry-days
+2020,"Accelerating Emissions
+(SSP5-8.5)",249.734,200.866,236,St. Marys,dry-days
+2021,"Moderating Emissions
+(SSP1-2.6)",257.734,203.533,223.999,St. Marys,dry-days
+2021,"Middle of the Road
+(SSP2-4.5)",240.534,201.534,234.667,St. Marys,dry-days
+2021,"High Emissions
+(SSP3-7.0)",250.934,193.999,235.668,St. Marys,dry-days
+2021,"Accelerating Emissions
+(SSP5-8.5)",240.735,198,217.333,St. Marys,dry-days
+2022,"Moderating Emissions
+(SSP1-2.6)",241.933,195.665,213,St. Marys,dry-days
+2022,"Middle of the Road
+(SSP2-4.5)",239.8,195.8,219.334,St. Marys,dry-days
+2022,"High Emissions
+(SSP3-7.0)",229.134,195.399,218.334,St. Marys,dry-days
+2022,"Accelerating Emissions
+(SSP5-8.5)",249,207.334,212.333,St. Marys,dry-days
+2023,"Moderating Emissions
+(SSP1-2.6)",231.201,197.466,215.667,St. Marys,dry-days
+2023,"Middle of the Road
+(SSP2-4.5)",260.799,190.733,220,St. Marys,dry-days
+2023,"High Emissions
+(SSP3-7.0)",241.267,207.2,221.668,St. Marys,dry-days
+2023,"Accelerating Emissions
+(SSP5-8.5)",221.932,189.667,204.667,St. Marys,dry-days
+2024,"Moderating Emissions
+(SSP1-2.6)",240.066,205.599,216.334,St. Marys,dry-days
+2024,"Middle of the Road
+(SSP2-4.5)",249.267,219.133,226.666,St. Marys,dry-days
+2024,"High Emissions
+(SSP3-7.0)",245.399,202.533,226.666,St. Marys,dry-days
+2024,"Accelerating Emissions
+(SSP5-8.5)",240.4,203.733,216.998,St. Marys,dry-days
+2025,"Moderating Emissions
+(SSP1-2.6)",242.866,206.868,229.666,St. Marys,dry-days
+2025,"Middle of the Road
+(SSP2-4.5)",246.8,189.867,204.334,St. Marys,dry-days
+2025,"High Emissions
+(SSP3-7.0)",254.801,210.268,222.667,St. Marys,dry-days
+2025,"Accelerating Emissions
+(SSP5-8.5)",237.133,200.133,224.667,St. Marys,dry-days
+2026,"Moderating Emissions
+(SSP1-2.6)",232.334,201.266,219.334,St. Marys,dry-days
+2026,"Middle of the Road
+(SSP2-4.5)",248.868,200.4,209.666,St. Marys,dry-days
+2026,"High Emissions
+(SSP3-7.0)",236.802,187.067,213.667,St. Marys,dry-days
+2026,"Accelerating Emissions
+(SSP5-8.5)",231.133,194.132,220.998,St. Marys,dry-days
+2027,"Moderating Emissions
+(SSP1-2.6)",241.733,178.001,216.001,St. Marys,dry-days
+2027,"Middle of the Road
+(SSP2-4.5)",241.934,209.533,221.335,St. Marys,dry-days
+2027,"High Emissions
+(SSP3-7.0)",240.6,203.666,225.001,St. Marys,dry-days
+2027,"Accelerating Emissions
+(SSP5-8.5)",242.6,210.067,217.334,St. Marys,dry-days
+2028,"Moderating Emissions
+(SSP1-2.6)",233.467,212.666,226.332,St. Marys,dry-days
+2028,"Middle of the Road
+(SSP2-4.5)",232.533,192.601,217.334,St. Marys,dry-days
+2028,"High Emissions
+(SSP3-7.0)",247.333,201.533,231.667,St. Marys,dry-days
+2028,"Accelerating Emissions
+(SSP5-8.5)",249.666,207.534,225.668,St. Marys,dry-days
+2029,"Moderating Emissions
+(SSP1-2.6)",236.666,204.867,220.668,St. Marys,dry-days
+2029,"Middle of the Road
+(SSP2-4.5)",237.999,201.933,211.332,St. Marys,dry-days
+2029,"High Emissions
+(SSP3-7.0)",242.466,205.867,219.666,St. Marys,dry-days
+2029,"Accelerating Emissions
+(SSP5-8.5)",243.666,202.6,219,St. Marys,dry-days
+2030,"Moderating Emissions
+(SSP1-2.6)",241.334,208.467,232.667,St. Marys,dry-days
+2030,"Middle of the Road
+(SSP2-4.5)",248.866,209.666,230.999,St. Marys,dry-days
+2030,"High Emissions
+(SSP3-7.0)",257.734,191.601,214.999,St. Marys,dry-days
+2030,"Accelerating Emissions
+(SSP5-8.5)",245.066,205.266,224.999,St. Marys,dry-days
+2031,"Moderating Emissions
+(SSP1-2.6)",249.801,198.065,234,St. Marys,dry-days
+2031,"Middle of the Road
+(SSP2-4.5)",252.134,193.4,218.667,St. Marys,dry-days
+2031,"High Emissions
+(SSP3-7.0)",247.933,202.801,224.334,St. Marys,dry-days
+2031,"Accelerating Emissions
+(SSP5-8.5)",247,203.6,220.668,St. Marys,dry-days
+2032,"Moderating Emissions
+(SSP1-2.6)",237.4,196.733,224.333,St. Marys,dry-days
+2032,"Middle of the Road
+(SSP2-4.5)",234.8,196.934,220.333,St. Marys,dry-days
+2032,"High Emissions
+(SSP3-7.0)",255.666,208.266,228.333,St. Marys,dry-days
+2032,"Accelerating Emissions
+(SSP5-8.5)",249.534,209.666,220.333,St. Marys,dry-days
+2033,"Moderating Emissions
+(SSP1-2.6)",249.6,190.6,215.001,St. Marys,dry-days
+2033,"Middle of the Road
+(SSP2-4.5)",247.066,203.2,221.999,St. Marys,dry-days
+2033,"High Emissions
+(SSP3-7.0)",240.333,191.867,230.334,St. Marys,dry-days
+2033,"Accelerating Emissions
+(SSP5-8.5)",248.667,212.133,224.666,St. Marys,dry-days
+2034,"Moderating Emissions
+(SSP1-2.6)",235.466,208.133,215.667,St. Marys,dry-days
+2034,"Middle of the Road
+(SSP2-4.5)",231.733,203.599,224.334,St. Marys,dry-days
+2034,"High Emissions
+(SSP3-7.0)",253.8,211.466,228.667,St. Marys,dry-days
+2034,"Accelerating Emissions
+(SSP5-8.5)",236.334,166.399,220.334,St. Marys,dry-days
+2035,"Moderating Emissions
+(SSP1-2.6)",261.466,203.466,229.334,St. Marys,dry-days
+2035,"Middle of the Road
+(SSP2-4.5)",232.866,198.668,223.667,St. Marys,dry-days
+2035,"High Emissions
+(SSP3-7.0)",236.333,204.933,219.334,St. Marys,dry-days
+2035,"Accelerating Emissions
+(SSP5-8.5)",222.067,197.267,212.666,St. Marys,dry-days
+2036,"Moderating Emissions
+(SSP1-2.6)",244.332,197.001,223.334,St. Marys,dry-days
+2036,"Middle of the Road
+(SSP2-4.5)",241.667,201.801,223.666,St. Marys,dry-days
+2036,"High Emissions
+(SSP3-7.0)",241.799,205.332,223,St. Marys,dry-days
+2036,"Accelerating Emissions
+(SSP5-8.5)",246.2,196.468,216.666,St. Marys,dry-days
+2037,"Moderating Emissions
+(SSP1-2.6)",242.333,200.801,222.668,St. Marys,dry-days
+2037,"Middle of the Road
+(SSP2-4.5)",231.199,196.534,217.333,St. Marys,dry-days
+2037,"High Emissions
+(SSP3-7.0)",236.134,193.333,224.667,St. Marys,dry-days
+2037,"Accelerating Emissions
+(SSP5-8.5)",247.333,179.333,223.664,St. Marys,dry-days
+2038,"Moderating Emissions
+(SSP1-2.6)",241.733,190.067,214.665,St. Marys,dry-days
+2038,"Middle of the Road
+(SSP2-4.5)",232.866,204.532,226.666,St. Marys,dry-days
+2038,"High Emissions
+(SSP3-7.0)",243.467,200.399,225.001,St. Marys,dry-days
+2038,"Accelerating Emissions
+(SSP5-8.5)",240,192.735,220.334,St. Marys,dry-days
+2039,"Moderating Emissions
+(SSP1-2.6)",240.733,189.466,220,St. Marys,dry-days
+2039,"Middle of the Road
+(SSP2-4.5)",231.467,205.4,219.333,St. Marys,dry-days
+2039,"High Emissions
+(SSP3-7.0)",245.333,191.468,234.332,St. Marys,dry-days
+2039,"Accelerating Emissions
+(SSP5-8.5)",231.8,206.2,214,St. Marys,dry-days
+2040,"Moderating Emissions
+(SSP1-2.6)",248.466,195.934,216.333,St. Marys,dry-days
+2040,"Middle of the Road
+(SSP2-4.5)",252.467,202.065,218.668,St. Marys,dry-days
+2040,"High Emissions
+(SSP3-7.0)",238.199,203.934,221,St. Marys,dry-days
+2040,"Accelerating Emissions
+(SSP5-8.5)",254.266,190.599,230.667,St. Marys,dry-days
+2041,"Moderating Emissions
+(SSP1-2.6)",246.2,191.265,220,St. Marys,dry-days
+2041,"Middle of the Road
+(SSP2-4.5)",239.466,209.667,230,St. Marys,dry-days
+2041,"High Emissions
+(SSP3-7.0)",245.866,211.934,225.998,St. Marys,dry-days
+2041,"Accelerating Emissions
+(SSP5-8.5)",226.667,191.8,217.667,St. Marys,dry-days
+2042,"Moderating Emissions
+(SSP1-2.6)",240.134,193.8,224.002,St. Marys,dry-days
+2042,"Middle of the Road
+(SSP2-4.5)",241.667,196.267,211.001,St. Marys,dry-days
+2042,"High Emissions
+(SSP3-7.0)",230.4,208.265,212.667,St. Marys,dry-days
+2042,"Accelerating Emissions
+(SSP5-8.5)",235.131,195.734,210.999,St. Marys,dry-days
+2043,"Moderating Emissions
+(SSP1-2.6)",238.666,204.066,224.666,St. Marys,dry-days
+2043,"Middle of the Road
+(SSP2-4.5)",248.334,196.6,218,St. Marys,dry-days
+2043,"High Emissions
+(SSP3-7.0)",236.534,195.933,216,St. Marys,dry-days
+2043,"Accelerating Emissions
+(SSP5-8.5)",231.734,210.134,228.334,St. Marys,dry-days
+2044,"Moderating Emissions
+(SSP1-2.6)",233.732,209.067,223.001,St. Marys,dry-days
+2044,"Middle of the Road
+(SSP2-4.5)",254.201,209.933,225.665,St. Marys,dry-days
+2044,"High Emissions
+(SSP3-7.0)",238.201,202.466,215.333,St. Marys,dry-days
+2044,"Accelerating Emissions
+(SSP5-8.5)",258.667,195.866,231.666,St. Marys,dry-days
+2045,"Moderating Emissions
+(SSP1-2.6)",240.868,199.066,218.001,St. Marys,dry-days
+2045,"Middle of the Road
+(SSP2-4.5)",237.001,202.734,217.998,St. Marys,dry-days
+2045,"High Emissions
+(SSP3-7.0)",243.466,209,216.333,St. Marys,dry-days
+2045,"Accelerating Emissions
+(SSP5-8.5)",246.467,209.668,224.334,St. Marys,dry-days
+2046,"Moderating Emissions
+(SSP1-2.6)",239.067,212.466,231.333,St. Marys,dry-days
+2046,"Middle of the Road
+(SSP2-4.5)",233.2,196.866,217.667,St. Marys,dry-days
+2046,"High Emissions
+(SSP3-7.0)",229.932,203.534,218.333,St. Marys,dry-days
+2046,"Accelerating Emissions
+(SSP5-8.5)",237.599,200.134,217.669,St. Marys,dry-days
+2047,"Moderating Emissions
+(SSP1-2.6)",237.667,207.799,227,St. Marys,dry-days
+2047,"Middle of the Road
+(SSP2-4.5)",233.133,195.199,221.334,St. Marys,dry-days
+2047,"High Emissions
+(SSP3-7.0)",247.666,201.732,228.333,St. Marys,dry-days
+2047,"Accelerating Emissions
+(SSP5-8.5)",239.134,210.401,220.999,St. Marys,dry-days
+2048,"Moderating Emissions
+(SSP1-2.6)",236.133,189.466,219,St. Marys,dry-days
+2048,"Middle of the Road
+(SSP2-4.5)",247.266,215.667,229.999,St. Marys,dry-days
+2048,"High Emissions
+(SSP3-7.0)",231.533,201.866,214.334,St. Marys,dry-days
+2048,"Accelerating Emissions
+(SSP5-8.5)",247.734,206.199,225.665,St. Marys,dry-days
+2049,"Moderating Emissions
+(SSP1-2.6)",232.599,206.801,219.666,St. Marys,dry-days
+2049,"Middle of the Road
+(SSP2-4.5)",234.667,199,225.667,St. Marys,dry-days
+2049,"High Emissions
+(SSP3-7.0)",237.8,208.4,226,St. Marys,dry-days
+2049,"Accelerating Emissions
+(SSP5-8.5)",243.6,201.534,230.668,St. Marys,dry-days
+2050,"Moderating Emissions
+(SSP1-2.6)",241.267,189.466,219.334,St. Marys,dry-days
+2050,"Middle of the Road
+(SSP2-4.5)",249.533,194.266,219.666,St. Marys,dry-days
+2050,"High Emissions
+(SSP3-7.0)",234.4,196.334,219.999,St. Marys,dry-days
+2050,"Accelerating Emissions
+(SSP5-8.5)",230.066,207.267,222,St. Marys,dry-days
+2051,"Moderating Emissions
+(SSP1-2.6)",254.732,199.267,211.667,St. Marys,dry-days
+2051,"Middle of the Road
+(SSP2-4.5)",237.266,198.066,215.331,St. Marys,dry-days
+2051,"High Emissions
+(SSP3-7.0)",248.6,195.666,219.668,St. Marys,dry-days
+2051,"Accelerating Emissions
+(SSP5-8.5)",243.934,212.933,221.333,St. Marys,dry-days
+2052,"Moderating Emissions
+(SSP1-2.6)",239.201,209.8,219.334,St. Marys,dry-days
+2052,"Middle of the Road
+(SSP2-4.5)",237.399,213.399,226.667,St. Marys,dry-days
+2052,"High Emissions
+(SSP3-7.0)",226,203.599,213,St. Marys,dry-days
+2052,"Accelerating Emissions
+(SSP5-8.5)",248.001,214.333,219.666,St. Marys,dry-days
+2053,"Moderating Emissions
+(SSP1-2.6)",241.735,214.6,225,St. Marys,dry-days
+2053,"Middle of the Road
+(SSP2-4.5)",238.934,204.599,219.335,St. Marys,dry-days
+2053,"High Emissions
+(SSP3-7.0)",261.467,209.333,226,St. Marys,dry-days
+2053,"Accelerating Emissions
+(SSP5-8.5)",231.734,203.399,223.001,St. Marys,dry-days
+2054,"Moderating Emissions
+(SSP1-2.6)",243.734,200.4,228.333,St. Marys,dry-days
+2054,"Middle of the Road
+(SSP2-4.5)",234.666,198.533,214.335,St. Marys,dry-days
+2054,"High Emissions
+(SSP3-7.0)",235.399,200.733,221.333,St. Marys,dry-days
+2054,"Accelerating Emissions
+(SSP5-8.5)",249.867,219.467,223.332,St. Marys,dry-days
+2055,"Moderating Emissions
+(SSP1-2.6)",246.8,200.999,223,St. Marys,dry-days
+2055,"Middle of the Road
+(SSP2-4.5)",250.002,204.667,233.667,St. Marys,dry-days
+2055,"High Emissions
+(SSP3-7.0)",230.932,210.332,224.667,St. Marys,dry-days
+2055,"Accelerating Emissions
+(SSP5-8.5)",244.534,203.732,225.999,St. Marys,dry-days
+2056,"Moderating Emissions
+(SSP1-2.6)",245.867,201.8,215.332,St. Marys,dry-days
+2056,"Middle of the Road
+(SSP2-4.5)",250.266,205.269,227.667,St. Marys,dry-days
+2056,"High Emissions
+(SSP3-7.0)",248.933,189.4,217.334,St. Marys,dry-days
+2056,"Accelerating Emissions
+(SSP5-8.5)",237.6,206.267,217.334,St. Marys,dry-days
+2057,"Moderating Emissions
+(SSP1-2.6)",236.135,201.533,213.334,St. Marys,dry-days
+2057,"Middle of the Road
+(SSP2-4.5)",241.933,207.666,231.333,St. Marys,dry-days
+2057,"High Emissions
+(SSP3-7.0)",250.532,204.268,212,St. Marys,dry-days
+2057,"Accelerating Emissions
+(SSP5-8.5)",230.467,204.134,219.666,St. Marys,dry-days
+2058,"Moderating Emissions
+(SSP1-2.6)",244.666,201.666,222.667,St. Marys,dry-days
+2058,"Middle of the Road
+(SSP2-4.5)",247.866,213.199,225.665,St. Marys,dry-days
+2058,"High Emissions
+(SSP3-7.0)",238.533,193.933,221.999,St. Marys,dry-days
+2058,"Accelerating Emissions
+(SSP5-8.5)",239.866,204.868,214.334,St. Marys,dry-days
+2059,"Moderating Emissions
+(SSP1-2.6)",240.799,206.534,214.333,St. Marys,dry-days
+2059,"Middle of the Road
+(SSP2-4.5)",231.999,205.334,221.333,St. Marys,dry-days
+2059,"High Emissions
+(SSP3-7.0)",255.666,204.201,231.332,St. Marys,dry-days
+2059,"Accelerating Emissions
+(SSP5-8.5)",254.066,207.867,217.333,St. Marys,dry-days
+2060,"Moderating Emissions
+(SSP1-2.6)",238.934,207.4,225.333,St. Marys,dry-days
+2060,"Middle of the Road
+(SSP2-4.5)",236.535,207.732,215.998,St. Marys,dry-days
+2060,"High Emissions
+(SSP3-7.0)",236.466,196.733,218.999,St. Marys,dry-days
+2060,"Accelerating Emissions
+(SSP5-8.5)",234.4,195.867,215.668,St. Marys,dry-days
+2061,"Moderating Emissions
+(SSP1-2.6)",242.933,191.333,236.666,St. Marys,dry-days
+2061,"Middle of the Road
+(SSP2-4.5)",239.2,196.066,223.666,St. Marys,dry-days
+2061,"High Emissions
+(SSP3-7.0)",250,205.133,227.333,St. Marys,dry-days
+2061,"Accelerating Emissions
+(SSP5-8.5)",245.134,204.666,219.666,St. Marys,dry-days
+2062,"Moderating Emissions
+(SSP1-2.6)",236,199.468,220.668,St. Marys,dry-days
+2062,"Middle of the Road
+(SSP2-4.5)",250.067,203.933,223.334,St. Marys,dry-days
+2062,"High Emissions
+(SSP3-7.0)",242.334,211.6,228.667,St. Marys,dry-days
+2062,"Accelerating Emissions
+(SSP5-8.5)",237.8,206,231,St. Marys,dry-days
+2063,"Moderating Emissions
+(SSP1-2.6)",246.133,208.134,234.332,St. Marys,dry-days
+2063,"Middle of the Road
+(SSP2-4.5)",229.533,191.466,221.667,St. Marys,dry-days
+2063,"High Emissions
+(SSP3-7.0)",256.334,205.201,232.666,St. Marys,dry-days
+2063,"Accelerating Emissions
+(SSP5-8.5)",237.999,212.599,231.334,St. Marys,dry-days
+2064,"Moderating Emissions
+(SSP1-2.6)",229.799,195.801,216.002,St. Marys,dry-days
+2064,"Middle of the Road
+(SSP2-4.5)",233.467,203.666,218,St. Marys,dry-days
+2064,"High Emissions
+(SSP3-7.0)",248.267,201.067,238.666,St. Marys,dry-days
+2064,"Accelerating Emissions
+(SSP5-8.5)",249.068,208.333,215.668,St. Marys,dry-days
+2065,"Moderating Emissions
+(SSP1-2.6)",230.8,193.732,207.333,St. Marys,dry-days
+2065,"Middle of the Road
+(SSP2-4.5)",243.535,209.933,220,St. Marys,dry-days
+2065,"High Emissions
+(SSP3-7.0)",245.667,191.268,212.666,St. Marys,dry-days
+2065,"Accelerating Emissions
+(SSP5-8.5)",242.266,203.664,229.999,St. Marys,dry-days
+2066,"Moderating Emissions
+(SSP1-2.6)",237.067,214.734,223.666,St. Marys,dry-days
+2066,"Middle of the Road
+(SSP2-4.5)",235.2,195.799,225.666,St. Marys,dry-days
+2066,"High Emissions
+(SSP3-7.0)",237.867,199.333,213.334,St. Marys,dry-days
+2066,"Accelerating Emissions
+(SSP5-8.5)",236.8,189.601,221.333,St. Marys,dry-days
+2067,"Moderating Emissions
+(SSP1-2.6)",238.666,211.334,221.665,St. Marys,dry-days
+2067,"Middle of the Road
+(SSP2-4.5)",235.666,198.599,209,St. Marys,dry-days
+2067,"High Emissions
+(SSP3-7.0)",270,200.4,218,St. Marys,dry-days
+2067,"Accelerating Emissions
+(SSP5-8.5)",235.332,202.466,216.666,St. Marys,dry-days
+2068,"Moderating Emissions
+(SSP1-2.6)",239.467,203.467,211.001,St. Marys,dry-days
+2068,"Middle of the Road
+(SSP2-4.5)",252.8,191.267,217.666,St. Marys,dry-days
+2068,"High Emissions
+(SSP3-7.0)",245.267,187.268,214.999,St. Marys,dry-days
+2068,"Accelerating Emissions
+(SSP5-8.5)",256.467,203.667,218.998,St. Marys,dry-days
+2069,"Moderating Emissions
+(SSP1-2.6)",271.067,187,214.334,St. Marys,dry-days
+2069,"Middle of the Road
+(SSP2-4.5)",236.667,188.067,211.667,St. Marys,dry-days
+2069,"High Emissions
+(SSP3-7.0)",264.199,209.399,227.332,St. Marys,dry-days
+2069,"Accelerating Emissions
+(SSP5-8.5)",252.266,207.667,222.665,St. Marys,dry-days
+2070,"Moderating Emissions
+(SSP1-2.6)",242.667,203.4,218.333,St. Marys,dry-days
+2070,"Middle of the Road
+(SSP2-4.5)",241.8,195.067,212.333,St. Marys,dry-days
+2070,"High Emissions
+(SSP3-7.0)",232.4,200.333,215.335,St. Marys,dry-days
+2070,"Accelerating Emissions
+(SSP5-8.5)",236.333,196.267,218.002,St. Marys,dry-days
+2071,"Moderating Emissions
+(SSP1-2.6)",249.867,191.201,231.334,St. Marys,dry-days
+2071,"Middle of the Road
+(SSP2-4.5)",238.733,204.933,218.666,St. Marys,dry-days
+2071,"High Emissions
+(SSP3-7.0)",233.533,198.266,221.667,St. Marys,dry-days
+2071,"Accelerating Emissions
+(SSP5-8.5)",250.532,210.467,227.334,St. Marys,dry-days
+2072,"Moderating Emissions
+(SSP1-2.6)",253.599,210.134,228.665,St. Marys,dry-days
+2072,"Middle of the Road
+(SSP2-4.5)",249.801,191.867,230,St. Marys,dry-days
+2072,"High Emissions
+(SSP3-7.0)",241.933,214.066,221.333,St. Marys,dry-days
+2072,"Accelerating Emissions
+(SSP5-8.5)",241.401,205.799,231,St. Marys,dry-days
+2073,"Moderating Emissions
+(SSP1-2.6)",231.2,195.334,212.667,St. Marys,dry-days
+2073,"Middle of the Road
+(SSP2-4.5)",236,205.067,212.667,St. Marys,dry-days
+2073,"High Emissions
+(SSP3-7.0)",241.134,203.601,228.333,St. Marys,dry-days
+2073,"Accelerating Emissions
+(SSP5-8.5)",245.467,210.8,223.333,St. Marys,dry-days
+2074,"Moderating Emissions
+(SSP1-2.6)",239,194.533,209.667,St. Marys,dry-days
+2074,"Middle of the Road
+(SSP2-4.5)",236.201,191.134,216,St. Marys,dry-days
+2074,"High Emissions
+(SSP3-7.0)",239.333,206.801,233.666,St. Marys,dry-days
+2074,"Accelerating Emissions
+(SSP5-8.5)",237.467,213.401,222.665,St. Marys,dry-days
+2075,"Moderating Emissions
+(SSP1-2.6)",238.534,197.466,219.999,St. Marys,dry-days
+2075,"Middle of the Road
+(SSP2-4.5)",237.801,196.333,222.669,St. Marys,dry-days
+2075,"High Emissions
+(SSP3-7.0)",239.468,193.601,223.335,St. Marys,dry-days
+2075,"Accelerating Emissions
+(SSP5-8.5)",246.468,208.2,234.335,St. Marys,dry-days
+2076,"Moderating Emissions
+(SSP1-2.6)",239.001,201.934,214.666,St. Marys,dry-days
+2076,"Middle of the Road
+(SSP2-4.5)",235.6,203.467,219.333,St. Marys,dry-days
+2076,"High Emissions
+(SSP3-7.0)",242.866,207.666,213.668,St. Marys,dry-days
+2076,"Accelerating Emissions
+(SSP5-8.5)",252.068,205,220.667,St. Marys,dry-days
+2077,"Moderating Emissions
+(SSP1-2.6)",245.198,196.532,227,St. Marys,dry-days
+2077,"Middle of the Road
+(SSP2-4.5)",238.2,209.8,231.665,St. Marys,dry-days
+2077,"High Emissions
+(SSP3-7.0)",231.399,203.2,215.332,St. Marys,dry-days
+2077,"Accelerating Emissions
+(SSP5-8.5)",248.733,204.733,213.334,St. Marys,dry-days
+2078,"Moderating Emissions
+(SSP1-2.6)",240.601,207.001,219.668,St. Marys,dry-days
+2078,"Middle of the Road
+(SSP2-4.5)",238,203.399,210.665,St. Marys,dry-days
+2078,"High Emissions
+(SSP3-7.0)",250.732,197.133,217.666,St. Marys,dry-days
+2078,"Accelerating Emissions
+(SSP5-8.5)",238.467,196.599,219.668,St. Marys,dry-days
+2079,"Moderating Emissions
+(SSP1-2.6)",252.8,185.266,228.333,St. Marys,dry-days
+2079,"Middle of the Road
+(SSP2-4.5)",243.333,207.199,226.002,St. Marys,dry-days
+2079,"High Emissions
+(SSP3-7.0)",237.2,207.467,219.333,St. Marys,dry-days
+2079,"Accelerating Emissions
+(SSP5-8.5)",236.999,211.533,223.001,St. Marys,dry-days
+2080,"Moderating Emissions
+(SSP1-2.6)",240.934,209.465,219.999,St. Marys,dry-days
+2080,"Middle of the Road
+(SSP2-4.5)",240.666,195.668,206.667,St. Marys,dry-days
+2080,"High Emissions
+(SSP3-7.0)",240.133,206.2,213.999,St. Marys,dry-days
+2080,"Accelerating Emissions
+(SSP5-8.5)",238.401,199.467,225,St. Marys,dry-days
+2081,"Moderating Emissions
+(SSP1-2.6)",241.533,205.799,223.333,St. Marys,dry-days
+2081,"Middle of the Road
+(SSP2-4.5)",243.267,190.934,225.331,St. Marys,dry-days
+2081,"High Emissions
+(SSP3-7.0)",251.266,208.135,215.666,St. Marys,dry-days
+2081,"Accelerating Emissions
+(SSP5-8.5)",245.866,203.733,236.665,St. Marys,dry-days
+2082,"Moderating Emissions
+(SSP1-2.6)",248.865,204.8,224.001,St. Marys,dry-days
+2082,"Middle of the Road
+(SSP2-4.5)",242.199,205.868,215.333,St. Marys,dry-days
+2082,"High Emissions
+(SSP3-7.0)",238.866,198.8,224.001,St. Marys,dry-days
+2082,"Accelerating Emissions
+(SSP5-8.5)",251.067,212.534,225.668,St. Marys,dry-days
+2083,"Moderating Emissions
+(SSP1-2.6)",251.266,206.266,220.999,St. Marys,dry-days
+2083,"Middle of the Road
+(SSP2-4.5)",258.667,193.866,228,St. Marys,dry-days
+2083,"High Emissions
+(SSP3-7.0)",234.332,206.332,226.335,St. Marys,dry-days
+2083,"Accelerating Emissions
+(SSP5-8.5)",252.734,204.333,225.667,St. Marys,dry-days
+2084,"Moderating Emissions
+(SSP1-2.6)",228.8,198.2,217.665,St. Marys,dry-days
+2084,"Middle of the Road
+(SSP2-4.5)",250.867,207.399,226.333,St. Marys,dry-days
+2084,"High Emissions
+(SSP3-7.0)",253.933,214.867,227.666,St. Marys,dry-days
+2084,"Accelerating Emissions
+(SSP5-8.5)",242.466,193.399,216.001,St. Marys,dry-days
+2085,"Moderating Emissions
+(SSP1-2.6)",243.067,202.667,217.333,St. Marys,dry-days
+2085,"Middle of the Road
+(SSP2-4.5)",246.133,189.067,210,St. Marys,dry-days
+2085,"High Emissions
+(SSP3-7.0)",245.201,207.333,223,St. Marys,dry-days
+2085,"Accelerating Emissions
+(SSP5-8.5)",243.866,200.133,222.001,St. Marys,dry-days
+2086,"Moderating Emissions
+(SSP1-2.6)",239.6,198,223.667,St. Marys,dry-days
+2086,"Middle of the Road
+(SSP2-4.5)",239.732,188.332,223.665,St. Marys,dry-days
+2086,"High Emissions
+(SSP3-7.0)",256.731,206.199,210.668,St. Marys,dry-days
+2086,"Accelerating Emissions
+(SSP5-8.5)",249.666,199.4,218.667,St. Marys,dry-days
+2087,"Moderating Emissions
+(SSP1-2.6)",234.465,205.532,217.999,St. Marys,dry-days
+2087,"Middle of the Road
+(SSP2-4.5)",235.666,200.265,218.999,St. Marys,dry-days
+2087,"High Emissions
+(SSP3-7.0)",232.931,199.334,223.334,St. Marys,dry-days
+2087,"Accelerating Emissions
+(SSP5-8.5)",239.399,203.201,216.665,St. Marys,dry-days
+2088,"Moderating Emissions
+(SSP1-2.6)",232.666,195.533,214,St. Marys,dry-days
+2088,"Middle of the Road
+(SSP2-4.5)",243.4,203.001,237.002,St. Marys,dry-days
+2088,"High Emissions
+(SSP3-7.0)",246.2,199.001,210.999,St. Marys,dry-days
+2088,"Accelerating Emissions
+(SSP5-8.5)",259.667,198.334,232.333,St. Marys,dry-days
+2089,"Moderating Emissions
+(SSP1-2.6)",239.534,198.401,201.334,St. Marys,dry-days
+2089,"Middle of the Road
+(SSP2-4.5)",253.2,206.333,221.665,St. Marys,dry-days
+2089,"High Emissions
+(SSP3-7.0)",259.267,204.6,224.334,St. Marys,dry-days
+2089,"Accelerating Emissions
+(SSP5-8.5)",246.266,191.801,208.333,St. Marys,dry-days
+2090,"Moderating Emissions
+(SSP1-2.6)",236.066,194.999,216,St. Marys,dry-days
+2090,"Middle of the Road
+(SSP2-4.5)",237.201,200.001,224.333,St. Marys,dry-days
+2090,"High Emissions
+(SSP3-7.0)",261.666,207.398,234,St. Marys,dry-days
+2090,"Accelerating Emissions
+(SSP5-8.5)",239.267,203.867,232.333,St. Marys,dry-days
+2091,"Moderating Emissions
+(SSP1-2.6)",247.533,195,217.665,St. Marys,dry-days
+2091,"Middle of the Road
+(SSP2-4.5)",228.068,212.132,218.332,St. Marys,dry-days
+2091,"High Emissions
+(SSP3-7.0)",248.533,206.599,234.998,St. Marys,dry-days
+2091,"Accelerating Emissions
+(SSP5-8.5)",244.266,182.401,222.667,St. Marys,dry-days
+2092,"Moderating Emissions
+(SSP1-2.6)",240.333,200.933,224.666,St. Marys,dry-days
+2092,"Middle of the Road
+(SSP2-4.5)",242.265,205.4,222,St. Marys,dry-days
+2092,"High Emissions
+(SSP3-7.0)",241.333,186.535,210.333,St. Marys,dry-days
+2092,"Accelerating Emissions
+(SSP5-8.5)",250.666,203.6,229.333,St. Marys,dry-days
+2093,"Moderating Emissions
+(SSP1-2.6)",238.933,198.333,216.666,St. Marys,dry-days
+2093,"Middle of the Road
+(SSP2-4.5)",239.598,199.067,220.667,St. Marys,dry-days
+2093,"High Emissions
+(SSP3-7.0)",240.335,206.066,227,St. Marys,dry-days
+2093,"Accelerating Emissions
+(SSP5-8.5)",250.133,200.801,225.667,St. Marys,dry-days
+2094,"Moderating Emissions
+(SSP1-2.6)",244.934,192.867,217.999,St. Marys,dry-days
+2094,"Middle of the Road
+(SSP2-4.5)",245.066,203.932,223.001,St. Marys,dry-days
+2094,"High Emissions
+(SSP3-7.0)",243.133,198.334,223.001,St. Marys,dry-days
+2094,"Accelerating Emissions
+(SSP5-8.5)",243.799,205.666,218.666,St. Marys,dry-days
+2095,"Moderating Emissions
+(SSP1-2.6)",253.333,199.801,232.666,St. Marys,dry-days
+2095,"Middle of the Road
+(SSP2-4.5)",235.801,207.532,222.665,St. Marys,dry-days
+2095,"High Emissions
+(SSP3-7.0)",243.668,208.399,223.333,St. Marys,dry-days
+2095,"Accelerating Emissions
+(SSP5-8.5)",259.199,208.535,239.665,St. Marys,dry-days
+2096,"Moderating Emissions
+(SSP1-2.6)",246.732,209.2,228.332,St. Marys,dry-days
+2096,"Middle of the Road
+(SSP2-4.5)",238.399,198.399,218,St. Marys,dry-days
+2096,"High Emissions
+(SSP3-7.0)",240.667,217.068,226.667,St. Marys,dry-days
+2096,"Accelerating Emissions
+(SSP5-8.5)",247.466,205.334,225.334,St. Marys,dry-days
+2097,"Moderating Emissions
+(SSP1-2.6)",242.665,224.732,232.001,St. Marys,dry-days
+2097,"Middle of the Road
+(SSP2-4.5)",248.066,198.668,216.001,St. Marys,dry-days
+2097,"High Emissions
+(SSP3-7.0)",244.267,218.134,233.668,St. Marys,dry-days
+2097,"Accelerating Emissions
+(SSP5-8.5)",235.067,202.801,217.666,St. Marys,dry-days
+2098,"Moderating Emissions
+(SSP1-2.6)",245.266,199.934,218.999,St. Marys,dry-days
+2098,"Middle of the Road
+(SSP2-4.5)",240.6,208.266,225.665,St. Marys,dry-days
+2098,"High Emissions
+(SSP3-7.0)",236.334,196.401,225.665,St. Marys,dry-days
+2098,"Accelerating Emissions
+(SSP5-8.5)",242.333,204.333,230.667,St. Marys,dry-days
+2099,"Moderating Emissions
+(SSP1-2.6)",238.732,201.535,221.001,St. Marys,dry-days
+2099,"Middle of the Road
+(SSP2-4.5)",236.133,204.734,221.667,St. Marys,dry-days
+2099,"High Emissions
+(SSP3-7.0)",251.733,204.067,222.999,St. Marys,dry-days
+2099,"Accelerating Emissions
+(SSP5-8.5)",254.668,196.732,227.332,St. Marys,dry-days
+2100,"Moderating Emissions
+(SSP1-2.6)",233.467,190.066,206.332,St. Marys,dry-days
+2100,"Middle of the Road
+(SSP2-4.5)",235.134,198.4,213.998,St. Marys,dry-days
+2100,"High Emissions
+(SSP3-7.0)",251.601,203.734,218.668,St. Marys,dry-days
+2100,"Accelerating Emissions
+(SSP5-8.5)",242.467,212.599,224,St. Marys,dry-days

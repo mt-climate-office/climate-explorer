@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,29.286,26.283,27.557,Porcupine,tasmin
+1951,Historical Emissions,29.315,26.212,27.739,Porcupine,tasmin
+1952,Historical Emissions,29.557,25.746,28.134,Porcupine,tasmin
+1953,Historical Emissions,28.521,25,27.753,Porcupine,tasmin
+1954,Historical Emissions,31.057,23.808,26.855,Porcupine,tasmin
+1955,Historical Emissions,30.315,27.048,27.581,Porcupine,tasmin
+1956,Historical Emissions,30.086,26.943,28.177,Porcupine,tasmin
+1957,Historical Emissions,30.748,27.059,28.765,Porcupine,tasmin
+1958,Historical Emissions,30.405,24.857,28.156,Porcupine,tasmin
+1959,Historical Emissions,28.052,24.644,26.877,Porcupine,tasmin
+1960,Historical Emissions,29.651,23.737,27.95,Porcupine,tasmin
+1961,Historical Emissions,30.043,25.828,28.793,Porcupine,tasmin
+1962,Historical Emissions,28.336,25.318,26.859,Porcupine,tasmin
+1963,Historical Emissions,28.716,26.463,27.211,Porcupine,tasmin
+1964,Historical Emissions,29.602,26.034,28.474,Porcupine,tasmin
+1965,Historical Emissions,28.6,25.678,27.622,Porcupine,tasmin
+1966,Historical Emissions,29.912,25.893,27.55,Porcupine,tasmin
+1967,Historical Emissions,28.044,25.467,27.574,Porcupine,tasmin
+1968,Historical Emissions,27.846,24.311,26.473,Porcupine,tasmin
+1969,Historical Emissions,29.101,25.309,27.523,Porcupine,tasmin
+1970,Historical Emissions,29.758,26.794,27.548,Porcupine,tasmin
+1971,Historical Emissions,31.65,28.188,29.316,Porcupine,tasmin
+1972,Historical Emissions,29.652,25.605,27.842,Porcupine,tasmin
+1973,Historical Emissions,29.311,26.33,28.164,Porcupine,tasmin
+1974,Historical Emissions,30.307,25.143,28.154,Porcupine,tasmin
+1975,Historical Emissions,29.389,23.812,28.625,Porcupine,tasmin
+1976,Historical Emissions,28.876,25.303,27.729,Porcupine,tasmin
+1977,Historical Emissions,30.548,27.08,28.996,Porcupine,tasmin
+1978,Historical Emissions,29.403,25.726,27.385,Porcupine,tasmin
+1979,Historical Emissions,31.266,25.872,28.627,Porcupine,tasmin
+1980,Historical Emissions,29.058,25.846,27.399,Porcupine,tasmin
+1981,Historical Emissions,29.72,27.513,28.146,Porcupine,tasmin
+1982,Historical Emissions,29.494,27.122,27.681,Porcupine,tasmin
+1983,Historical Emissions,30.102,25.42,27.965,Porcupine,tasmin
+1984,Historical Emissions,29.897,26.636,27.924,Porcupine,tasmin
+1985,Historical Emissions,30.485,26.921,29.036,Porcupine,tasmin
+1986,Historical Emissions,28.511,26.199,27.712,Porcupine,tasmin
+1987,Historical Emissions,30.019,23.692,27.153,Porcupine,tasmin
+1988,Historical Emissions,29.754,25.833,28.537,Porcupine,tasmin
+1989,Historical Emissions,29.747,26.748,28.729,Porcupine,tasmin
+1990,Historical Emissions,31.625,28.001,29.81,Porcupine,tasmin
+1991,Historical Emissions,30.548,26.202,27.781,Porcupine,tasmin
+1992,Historical Emissions,30.283,26.118,27.489,Porcupine,tasmin
+1993,Historical Emissions,30.69,26.601,28.431,Porcupine,tasmin
+1994,Historical Emissions,30.354,27.922,29.455,Porcupine,tasmin
+1995,Historical Emissions,30.681,26.518,28.112,Porcupine,tasmin
+1996,Historical Emissions,30.925,26.312,28.915,Porcupine,tasmin
+1997,Historical Emissions,31.598,27.297,29.451,Porcupine,tasmin
+1998,Historical Emissions,31.137,26.163,28.183,Porcupine,tasmin
+1999,Historical Emissions,31.672,27.954,30.608,Porcupine,tasmin
+2000,Historical Emissions,30.444,27.922,29.027,Porcupine,tasmin
+2001,Historical Emissions,31.157,27.033,29.856,Porcupine,tasmin
+2002,Historical Emissions,31.812,27.971,28.989,Porcupine,tasmin
+2003,Historical Emissions,31.805,28.803,29.316,Porcupine,tasmin
+2004,Historical Emissions,31.991,28.433,30.027,Porcupine,tasmin
+2005,Historical Emissions,33.448,27.786,30.472,Porcupine,tasmin
+2006,Historical Emissions,32.088,26.768,29.485,Porcupine,tasmin
+2007,Historical Emissions,31.148,29.163,30.462,Porcupine,tasmin
+2008,Historical Emissions,31.32,28.386,30.26,Porcupine,tasmin
+2009,Historical Emissions,31.112,28.938,30.075,Porcupine,tasmin
+2010,Historical Emissions,31.598,28.46,29.642,Porcupine,tasmin
+2011,Historical Emissions,32.674,29.687,30.038,Porcupine,tasmin
+2012,Historical Emissions,31.308,29.028,30.163,Porcupine,tasmin
+2013,Historical Emissions,32.309,27.954,29.833,Porcupine,tasmin
+2014,Historical Emissions,32.977,29.423,30.549,Porcupine,tasmin
+2015,"Moderating Emissions
+(SSP1-2.6)",33.314,28.375,30.211,Porcupine,tasmin
+2015,"Middle of the Road
+(SSP2-4.5)",32.192,28.127,29.887,Porcupine,tasmin
+2015,"High Emissions
+(SSP3-7.0)",31.96,28.713,29.823,Porcupine,tasmin
+2015,"Accelerating Emissions
+(SSP5-8.5)",31.449,28.919,29.612,Porcupine,tasmin
+2016,"Moderating Emissions
+(SSP1-2.6)",33.615,29.443,31.477,Porcupine,tasmin
+2016,"Middle of the Road
+(SSP2-4.5)",33.34,28.565,30.341,Porcupine,tasmin
+2016,"High Emissions
+(SSP3-7.0)",34.248,27.417,30.195,Porcupine,tasmin
+2016,"Accelerating Emissions
+(SSP5-8.5)",31.447,29.455,30.869,Porcupine,tasmin
+2017,"Moderating Emissions
+(SSP1-2.6)",32.79,28.506,30.05,Porcupine,tasmin
+2017,"Middle of the Road
+(SSP2-4.5)",33.359,27.578,30.264,Porcupine,tasmin
+2017,"High Emissions
+(SSP3-7.0)",33.464,29.815,30.372,Porcupine,tasmin
+2017,"Accelerating Emissions
+(SSP5-8.5)",32.246,28.586,30.419,Porcupine,tasmin
+2018,"Moderating Emissions
+(SSP1-2.6)",31.647,29.097,30.379,Porcupine,tasmin
+2018,"Middle of the Road
+(SSP2-4.5)",32.549,29.38,30.265,Porcupine,tasmin
+2018,"High Emissions
+(SSP3-7.0)",34.179,28.835,29.827,Porcupine,tasmin
+2018,"Accelerating Emissions
+(SSP5-8.5)",33.303,27.859,30.669,Porcupine,tasmin
+2019,"Moderating Emissions
+(SSP1-2.6)",33.44,29.433,31.652,Porcupine,tasmin
+2019,"Middle of the Road
+(SSP2-4.5)",31.933,27.823,29.781,Porcupine,tasmin
+2019,"High Emissions
+(SSP3-7.0)",33.438,28.887,30.373,Porcupine,tasmin
+2019,"Accelerating Emissions
+(SSP5-8.5)",33.841,30.2,32.165,Porcupine,tasmin
+2020,"Moderating Emissions
+(SSP1-2.6)",33.486,28.305,32.174,Porcupine,tasmin
+2020,"Middle of the Road
+(SSP2-4.5)",31.353,28.728,30.086,Porcupine,tasmin
+2020,"High Emissions
+(SSP3-7.0)",32.593,29.367,30.622,Porcupine,tasmin
+2020,"Accelerating Emissions
+(SSP5-8.5)",32.896,29.754,31.095,Porcupine,tasmin
+2021,"Moderating Emissions
+(SSP1-2.6)",33.544,29.15,31.008,Porcupine,tasmin
+2021,"Middle of the Road
+(SSP2-4.5)",32.271,29.39,30.691,Porcupine,tasmin
+2021,"High Emissions
+(SSP3-7.0)",33.592,29.496,31.422,Porcupine,tasmin
+2021,"Accelerating Emissions
+(SSP5-8.5)",32.788,28.651,31.042,Porcupine,tasmin
+2022,"Moderating Emissions
+(SSP1-2.6)",32.552,29.37,30.734,Porcupine,tasmin
+2022,"Middle of the Road
+(SSP2-4.5)",33.116,29.5,31.099,Porcupine,tasmin
+2022,"High Emissions
+(SSP3-7.0)",32.989,30.192,31.196,Porcupine,tasmin
+2022,"Accelerating Emissions
+(SSP5-8.5)",34.161,29.8,31.157,Porcupine,tasmin
+2023,"Moderating Emissions
+(SSP1-2.6)",32.436,29.786,30.808,Porcupine,tasmin
+2023,"Middle of the Road
+(SSP2-4.5)",32.692,30.365,31.101,Porcupine,tasmin
+2023,"High Emissions
+(SSP3-7.0)",35.153,29.422,31.885,Porcupine,tasmin
+2023,"Accelerating Emissions
+(SSP5-8.5)",31.754,28.092,28.718,Porcupine,tasmin
+2024,"Moderating Emissions
+(SSP1-2.6)",33.515,29.518,31.027,Porcupine,tasmin
+2024,"Middle of the Road
+(SSP2-4.5)",32.089,29.278,30.881,Porcupine,tasmin
+2024,"High Emissions
+(SSP3-7.0)",34.899,28.969,30.717,Porcupine,tasmin
+2024,"Accelerating Emissions
+(SSP5-8.5)",35.067,28.734,31.71,Porcupine,tasmin
+2025,"Moderating Emissions
+(SSP1-2.6)",33.295,29.982,32.126,Porcupine,tasmin
+2025,"Middle of the Road
+(SSP2-4.5)",33.073,29.263,30.755,Porcupine,tasmin
+2025,"High Emissions
+(SSP3-7.0)",33.921,29.948,31.543,Porcupine,tasmin
+2025,"Accelerating Emissions
+(SSP5-8.5)",34.659,30.207,32.482,Porcupine,tasmin
+2026,"Moderating Emissions
+(SSP1-2.6)",32.882,29.456,30.379,Porcupine,tasmin
+2026,"Middle of the Road
+(SSP2-4.5)",33.156,29.391,31.776,Porcupine,tasmin
+2026,"High Emissions
+(SSP3-7.0)",34.953,28.217,31.442,Porcupine,tasmin
+2026,"Accelerating Emissions
+(SSP5-8.5)",33.193,29.768,31.849,Porcupine,tasmin
+2027,"Moderating Emissions
+(SSP1-2.6)",34.329,28.813,30.862,Porcupine,tasmin
+2027,"Middle of the Road
+(SSP2-4.5)",33.756,30.743,32.737,Porcupine,tasmin
+2027,"High Emissions
+(SSP3-7.0)",33.623,29.559,32.025,Porcupine,tasmin
+2027,"Accelerating Emissions
+(SSP5-8.5)",33.068,30.652,31.616,Porcupine,tasmin
+2028,"Moderating Emissions
+(SSP1-2.6)",33.821,30.309,32.371,Porcupine,tasmin
+2028,"Middle of the Road
+(SSP2-4.5)",34.173,28.596,31.681,Porcupine,tasmin
+2028,"High Emissions
+(SSP3-7.0)",33.699,30.348,31.026,Porcupine,tasmin
+2028,"Accelerating Emissions
+(SSP5-8.5)",34.553,29.876,32.133,Porcupine,tasmin
+2029,"Moderating Emissions
+(SSP1-2.6)",35.497,30.841,32.615,Porcupine,tasmin
+2029,"Middle of the Road
+(SSP2-4.5)",34.628,29.335,32.462,Porcupine,tasmin
+2029,"High Emissions
+(SSP3-7.0)",33.643,28.589,31.515,Porcupine,tasmin
+2029,"Accelerating Emissions
+(SSP5-8.5)",32.663,30.917,31.878,Porcupine,tasmin
+2030,"Moderating Emissions
+(SSP1-2.6)",34.788,30,31.667,Porcupine,tasmin
+2030,"Middle of the Road
+(SSP2-4.5)",34.611,30.179,32.111,Porcupine,tasmin
+2030,"High Emissions
+(SSP3-7.0)",33.98,28.755,31.655,Porcupine,tasmin
+2030,"Accelerating Emissions
+(SSP5-8.5)",34.789,28.615,32.117,Porcupine,tasmin
+2031,"Moderating Emissions
+(SSP1-2.6)",33.851,29.184,32.053,Porcupine,tasmin
+2031,"Middle of the Road
+(SSP2-4.5)",33.896,30.473,32.051,Porcupine,tasmin
+2031,"High Emissions
+(SSP3-7.0)",34.399,29.117,32.792,Porcupine,tasmin
+2031,"Accelerating Emissions
+(SSP5-8.5)",35.943,32.816,33.567,Porcupine,tasmin
+2032,"Moderating Emissions
+(SSP1-2.6)",33.167,30.51,31.299,Porcupine,tasmin
+2032,"Middle of the Road
+(SSP2-4.5)",32.872,29.713,31.295,Porcupine,tasmin
+2032,"High Emissions
+(SSP3-7.0)",33.712,30.248,31.697,Porcupine,tasmin
+2032,"Accelerating Emissions
+(SSP5-8.5)",35.329,30.301,31.62,Porcupine,tasmin
+2033,"Moderating Emissions
+(SSP1-2.6)",34.126,30.266,32.296,Porcupine,tasmin
+2033,"Middle of the Road
+(SSP2-4.5)",35.204,30.382,32.805,Porcupine,tasmin
+2033,"High Emissions
+(SSP3-7.0)",33.327,30.42,31.226,Porcupine,tasmin
+2033,"Accelerating Emissions
+(SSP5-8.5)",33.902,30.722,31.613,Porcupine,tasmin
+2034,"Moderating Emissions
+(SSP1-2.6)",33.077,29.311,30.554,Porcupine,tasmin
+2034,"Middle of the Road
+(SSP2-4.5)",33.86,31.206,31.857,Porcupine,tasmin
+2034,"High Emissions
+(SSP3-7.0)",33.236,31.432,32.9,Porcupine,tasmin
+2034,"Accelerating Emissions
+(SSP5-8.5)",34.605,27.977,31.86,Porcupine,tasmin
+2035,"Moderating Emissions
+(SSP1-2.6)",33.558,29.002,31.599,Porcupine,tasmin
+2035,"Middle of the Road
+(SSP2-4.5)",34.724,30.157,32.817,Porcupine,tasmin
+2035,"High Emissions
+(SSP3-7.0)",33.483,29.072,32.145,Porcupine,tasmin
+2035,"Accelerating Emissions
+(SSP5-8.5)",35.151,29.659,32.262,Porcupine,tasmin
+2036,"Moderating Emissions
+(SSP1-2.6)",34.101,31.367,32.412,Porcupine,tasmin
+2036,"Middle of the Road
+(SSP2-4.5)",33.756,30.272,32.093,Porcupine,tasmin
+2036,"High Emissions
+(SSP3-7.0)",33.658,29.086,31.772,Porcupine,tasmin
+2036,"Accelerating Emissions
+(SSP5-8.5)",34.783,31.103,33.125,Porcupine,tasmin
+2037,"Moderating Emissions
+(SSP1-2.6)",34.222,30.991,33.696,Porcupine,tasmin
+2037,"Middle of the Road
+(SSP2-4.5)",34.425,29.278,32.04,Porcupine,tasmin
+2037,"High Emissions
+(SSP3-7.0)",33.375,29.733,32.208,Porcupine,tasmin
+2037,"Accelerating Emissions
+(SSP5-8.5)",34.78,31.544,32.706,Porcupine,tasmin
+2038,"Moderating Emissions
+(SSP1-2.6)",35.846,31.318,32.715,Porcupine,tasmin
+2038,"Middle of the Road
+(SSP2-4.5)",33.717,30.906,32.203,Porcupine,tasmin
+2038,"High Emissions
+(SSP3-7.0)",35.001,30.569,32.163,Porcupine,tasmin
+2038,"Accelerating Emissions
+(SSP5-8.5)",36.802,30.694,34.573,Porcupine,tasmin
+2039,"Moderating Emissions
+(SSP1-2.6)",35.607,30.99,33.259,Porcupine,tasmin
+2039,"Middle of the Road
+(SSP2-4.5)",34.118,30.607,31.833,Porcupine,tasmin
+2039,"High Emissions
+(SSP3-7.0)",35.825,30.781,33.057,Porcupine,tasmin
+2039,"Accelerating Emissions
+(SSP5-8.5)",36.717,29.383,33.622,Porcupine,tasmin
+2040,"Moderating Emissions
+(SSP1-2.6)",35.674,30.853,32.233,Porcupine,tasmin
+2040,"Middle of the Road
+(SSP2-4.5)",33.913,30.726,33.271,Porcupine,tasmin
+2040,"High Emissions
+(SSP3-7.0)",35.488,31.042,33.418,Porcupine,tasmin
+2040,"Accelerating Emissions
+(SSP5-8.5)",36.526,31.518,33.514,Porcupine,tasmin
+2041,"Moderating Emissions
+(SSP1-2.6)",34.471,28.674,31.834,Porcupine,tasmin
+2041,"Middle of the Road
+(SSP2-4.5)",33.464,31.365,32.212,Porcupine,tasmin
+2041,"High Emissions
+(SSP3-7.0)",34.761,30.021,31.757,Porcupine,tasmin
+2041,"Accelerating Emissions
+(SSP5-8.5)",33.561,31.665,32.97,Porcupine,tasmin
+2042,"Moderating Emissions
+(SSP1-2.6)",34.738,31.393,32.697,Porcupine,tasmin
+2042,"Middle of the Road
+(SSP2-4.5)",33.501,29.206,30.421,Porcupine,tasmin
+2042,"High Emissions
+(SSP3-7.0)",34.079,31.666,32.591,Porcupine,tasmin
+2042,"Accelerating Emissions
+(SSP5-8.5)",36.275,31.952,32.658,Porcupine,tasmin
+2043,"Moderating Emissions
+(SSP1-2.6)",34.518,31.4,32.156,Porcupine,tasmin
+2043,"Middle of the Road
+(SSP2-4.5)",35.457,30.448,32.866,Porcupine,tasmin
+2043,"High Emissions
+(SSP3-7.0)",34.017,30.904,32.294,Porcupine,tasmin
+2043,"Accelerating Emissions
+(SSP5-8.5)",34.177,32.925,33.422,Porcupine,tasmin
+2044,"Moderating Emissions
+(SSP1-2.6)",35.078,30.061,32.24,Porcupine,tasmin
+2044,"Middle of the Road
+(SSP2-4.5)",36.235,31.366,33.688,Porcupine,tasmin
+2044,"High Emissions
+(SSP3-7.0)",34.267,31.367,32.698,Porcupine,tasmin
+2044,"Accelerating Emissions
+(SSP5-8.5)",37.067,30.75,34.016,Porcupine,tasmin
+2045,"Moderating Emissions
+(SSP1-2.6)",35.381,30.691,32.96,Porcupine,tasmin
+2045,"Middle of the Road
+(SSP2-4.5)",35.691,29.927,34.343,Porcupine,tasmin
+2045,"High Emissions
+(SSP3-7.0)",34.571,29.697,31.994,Porcupine,tasmin
+2045,"Accelerating Emissions
+(SSP5-8.5)",33.96,29.886,33.688,Porcupine,tasmin
+2046,"Moderating Emissions
+(SSP1-2.6)",36.345,28.529,33.129,Porcupine,tasmin
+2046,"Middle of the Road
+(SSP2-4.5)",35.272,30.747,32.866,Porcupine,tasmin
+2046,"High Emissions
+(SSP3-7.0)",37.022,31.851,34.492,Porcupine,tasmin
+2046,"Accelerating Emissions
+(SSP5-8.5)",35.379,30.631,32.269,Porcupine,tasmin
+2047,"Moderating Emissions
+(SSP1-2.6)",34.523,30.613,33.078,Porcupine,tasmin
+2047,"Middle of the Road
+(SSP2-4.5)",35.885,28.599,32.456,Porcupine,tasmin
+2047,"High Emissions
+(SSP3-7.0)",34.077,30.113,32.164,Porcupine,tasmin
+2047,"Accelerating Emissions
+(SSP5-8.5)",35.476,31.073,33.232,Porcupine,tasmin
+2048,"Moderating Emissions
+(SSP1-2.6)",33.611,30.552,32.029,Porcupine,tasmin
+2048,"Middle of the Road
+(SSP2-4.5)",35.955,30.921,32.654,Porcupine,tasmin
+2048,"High Emissions
+(SSP3-7.0)",36.52,31.295,33.793,Porcupine,tasmin
+2048,"Accelerating Emissions
+(SSP5-8.5)",36.632,32.786,35.17,Porcupine,tasmin
+2049,"Moderating Emissions
+(SSP1-2.6)",34.44,28.407,30.747,Porcupine,tasmin
+2049,"Middle of the Road
+(SSP2-4.5)",36.157,32.702,34.102,Porcupine,tasmin
+2049,"High Emissions
+(SSP3-7.0)",36.973,31.975,33.591,Porcupine,tasmin
+2049,"Accelerating Emissions
+(SSP5-8.5)",34.894,33.024,34.32,Porcupine,tasmin
+2050,"Moderating Emissions
+(SSP1-2.6)",33.624,30.089,31.761,Porcupine,tasmin
+2050,"Middle of the Road
+(SSP2-4.5)",37.125,30.634,32.974,Porcupine,tasmin
+2050,"High Emissions
+(SSP3-7.0)",36.537,32.642,33.384,Porcupine,tasmin
+2050,"Accelerating Emissions
+(SSP5-8.5)",35.213,33.534,34.79,Porcupine,tasmin
+2051,"Moderating Emissions
+(SSP1-2.6)",35.281,30.738,33.593,Porcupine,tasmin
+2051,"Middle of the Road
+(SSP2-4.5)",36.733,31.741,32.923,Porcupine,tasmin
+2051,"High Emissions
+(SSP3-7.0)",35.178,32.577,33.508,Porcupine,tasmin
+2051,"Accelerating Emissions
+(SSP5-8.5)",35.463,32.049,33.589,Porcupine,tasmin
+2052,"Moderating Emissions
+(SSP1-2.6)",34.68,31.75,32.867,Porcupine,tasmin
+2052,"Middle of the Road
+(SSP2-4.5)",36.638,31.714,32.65,Porcupine,tasmin
+2052,"High Emissions
+(SSP3-7.0)",37.41,31.161,33.225,Porcupine,tasmin
+2052,"Accelerating Emissions
+(SSP5-8.5)",35.729,32.811,35.275,Porcupine,tasmin
+2053,"Moderating Emissions
+(SSP1-2.6)",34.571,30.555,32.575,Porcupine,tasmin
+2053,"Middle of the Road
+(SSP2-4.5)",34.831,30.959,33.139,Porcupine,tasmin
+2053,"High Emissions
+(SSP3-7.0)",37.035,33.156,35.334,Porcupine,tasmin
+2053,"Accelerating Emissions
+(SSP5-8.5)",38.223,32.29,34.394,Porcupine,tasmin
+2054,"Moderating Emissions
+(SSP1-2.6)",34.782,31.209,31.958,Porcupine,tasmin
+2054,"Middle of the Road
+(SSP2-4.5)",33.812,30.997,32.615,Porcupine,tasmin
+2054,"High Emissions
+(SSP3-7.0)",35.298,32.496,33.421,Porcupine,tasmin
+2054,"Accelerating Emissions
+(SSP5-8.5)",37.49,33.178,33.966,Porcupine,tasmin
+2055,"Moderating Emissions
+(SSP1-2.6)",35.033,31.789,32.553,Porcupine,tasmin
+2055,"Middle of the Road
+(SSP2-4.5)",34.35,31.484,33.317,Porcupine,tasmin
+2055,"High Emissions
+(SSP3-7.0)",35.931,32.531,33.89,Porcupine,tasmin
+2055,"Accelerating Emissions
+(SSP5-8.5)",38.693,33.679,36.034,Porcupine,tasmin
+2056,"Moderating Emissions
+(SSP1-2.6)",36.426,30.768,33.642,Porcupine,tasmin
+2056,"Middle of the Road
+(SSP2-4.5)",36.158,31.325,33.168,Porcupine,tasmin
+2056,"High Emissions
+(SSP3-7.0)",37.593,31.969,34.832,Porcupine,tasmin
+2056,"Accelerating Emissions
+(SSP5-8.5)",38.231,32.067,34.88,Porcupine,tasmin
+2057,"Moderating Emissions
+(SSP1-2.6)",35.347,30.402,32.587,Porcupine,tasmin
+2057,"Middle of the Road
+(SSP2-4.5)",36.971,31.351,33.933,Porcupine,tasmin
+2057,"High Emissions
+(SSP3-7.0)",36.226,32.85,33.584,Porcupine,tasmin
+2057,"Accelerating Emissions
+(SSP5-8.5)",36.674,30.578,34.58,Porcupine,tasmin
+2058,"Moderating Emissions
+(SSP1-2.6)",35.128,30.574,33.73,Porcupine,tasmin
+2058,"Middle of the Road
+(SSP2-4.5)",36.987,31.424,34.132,Porcupine,tasmin
+2058,"High Emissions
+(SSP3-7.0)",35.246,32.719,34.628,Porcupine,tasmin
+2058,"Accelerating Emissions
+(SSP5-8.5)",37.041,32.499,33.905,Porcupine,tasmin
+2059,"Moderating Emissions
+(SSP1-2.6)",35.098,30.976,32.26,Porcupine,tasmin
+2059,"Middle of the Road
+(SSP2-4.5)",38.734,33.206,34.715,Porcupine,tasmin
+2059,"High Emissions
+(SSP3-7.0)",38.356,33.582,34.846,Porcupine,tasmin
+2059,"Accelerating Emissions
+(SSP5-8.5)",37.562,33.972,36.176,Porcupine,tasmin
+2060,"Moderating Emissions
+(SSP1-2.6)",36.184,29.714,31.585,Porcupine,tasmin
+2060,"Middle of the Road
+(SSP2-4.5)",35.838,31.311,33.278,Porcupine,tasmin
+2060,"High Emissions
+(SSP3-7.0)",35.984,33.097,34.691,Porcupine,tasmin
+2060,"Accelerating Emissions
+(SSP5-8.5)",37.234,34.632,36.193,Porcupine,tasmin
+2061,"Moderating Emissions
+(SSP1-2.6)",35.623,31.157,32.78,Porcupine,tasmin
+2061,"Middle of the Road
+(SSP2-4.5)",36.191,32.131,34.16,Porcupine,tasmin
+2061,"High Emissions
+(SSP3-7.0)",37.668,33.421,35.295,Porcupine,tasmin
+2061,"Accelerating Emissions
+(SSP5-8.5)",39.187,33.791,37.155,Porcupine,tasmin
+2062,"Moderating Emissions
+(SSP1-2.6)",33.638,31.825,32.642,Porcupine,tasmin
+2062,"Middle of the Road
+(SSP2-4.5)",36.851,30.856,33.261,Porcupine,tasmin
+2062,"High Emissions
+(SSP3-7.0)",36.117,33.955,35.013,Porcupine,tasmin
+2062,"Accelerating Emissions
+(SSP5-8.5)",38.436,33.814,35.867,Porcupine,tasmin
+2063,"Moderating Emissions
+(SSP1-2.6)",34.299,30.6,32.768,Porcupine,tasmin
+2063,"Middle of the Road
+(SSP2-4.5)",35.883,31.877,33.871,Porcupine,tasmin
+2063,"High Emissions
+(SSP3-7.0)",37.379,32.443,34.136,Porcupine,tasmin
+2063,"Accelerating Emissions
+(SSP5-8.5)",37.621,33.049,35.687,Porcupine,tasmin
+2064,"Moderating Emissions
+(SSP1-2.6)",36.618,32.09,34.09,Porcupine,tasmin
+2064,"Middle of the Road
+(SSP2-4.5)",34.754,31.561,32.947,Porcupine,tasmin
+2064,"High Emissions
+(SSP3-7.0)",35.291,33.215,34.631,Porcupine,tasmin
+2064,"Accelerating Emissions
+(SSP5-8.5)",38.633,34.182,34.923,Porcupine,tasmin
+2065,"Moderating Emissions
+(SSP1-2.6)",34.444,30.037,33.339,Porcupine,tasmin
+2065,"Middle of the Road
+(SSP2-4.5)",36.336,31.445,33.324,Porcupine,tasmin
+2065,"High Emissions
+(SSP3-7.0)",36.924,32.969,34.799,Porcupine,tasmin
+2065,"Accelerating Emissions
+(SSP5-8.5)",40.311,33.772,37.14,Porcupine,tasmin
+2066,"Moderating Emissions
+(SSP1-2.6)",35.904,29.433,33.182,Porcupine,tasmin
+2066,"Middle of the Road
+(SSP2-4.5)",37.556,32.997,35.457,Porcupine,tasmin
+2066,"High Emissions
+(SSP3-7.0)",38.328,33.109,34.413,Porcupine,tasmin
+2066,"Accelerating Emissions
+(SSP5-8.5)",38.266,34.085,36.818,Porcupine,tasmin
+2067,"Moderating Emissions
+(SSP1-2.6)",35.764,31.807,34.112,Porcupine,tasmin
+2067,"Middle of the Road
+(SSP2-4.5)",36.789,31.687,33.525,Porcupine,tasmin
+2067,"High Emissions
+(SSP3-7.0)",38.147,34.464,35.908,Porcupine,tasmin
+2067,"Accelerating Emissions
+(SSP5-8.5)",40.727,34.209,35.443,Porcupine,tasmin
+2068,"Moderating Emissions
+(SSP1-2.6)",34.27,31.191,33.288,Porcupine,tasmin
+2068,"Middle of the Road
+(SSP2-4.5)",35.716,32.199,33.011,Porcupine,tasmin
+2068,"High Emissions
+(SSP3-7.0)",37.33,32.456,33.632,Porcupine,tasmin
+2068,"Accelerating Emissions
+(SSP5-8.5)",38.609,35.367,36.015,Porcupine,tasmin
+2069,"Moderating Emissions
+(SSP1-2.6)",35.453,31.794,33.243,Porcupine,tasmin
+2069,"Middle of the Road
+(SSP2-4.5)",34.781,31.5,33.578,Porcupine,tasmin
+2069,"High Emissions
+(SSP3-7.0)",38.188,34.858,36.557,Porcupine,tasmin
+2069,"Accelerating Emissions
+(SSP5-8.5)",40.136,35.072,36.266,Porcupine,tasmin
+2070,"Moderating Emissions
+(SSP1-2.6)",35.131,30.72,32.325,Porcupine,tasmin
+2070,"Middle of the Road
+(SSP2-4.5)",35.747,31.023,33.467,Porcupine,tasmin
+2070,"High Emissions
+(SSP3-7.0)",38.827,34.214,36.285,Porcupine,tasmin
+2070,"Accelerating Emissions
+(SSP5-8.5)",40.425,34.778,37.344,Porcupine,tasmin
+2071,"Moderating Emissions
+(SSP1-2.6)",38.499,29.157,32.828,Porcupine,tasmin
+2071,"Middle of the Road
+(SSP2-4.5)",37.772,32.069,34.037,Porcupine,tasmin
+2071,"High Emissions
+(SSP3-7.0)",38.622,35.279,35.952,Porcupine,tasmin
+2071,"Accelerating Emissions
+(SSP5-8.5)",39.613,33.801,36.258,Porcupine,tasmin
+2072,"Moderating Emissions
+(SSP1-2.6)",37.143,30.775,33.286,Porcupine,tasmin
+2072,"Middle of the Road
+(SSP2-4.5)",38.228,31.721,34.092,Porcupine,tasmin
+2072,"High Emissions
+(SSP3-7.0)",38.033,34.785,35.909,Porcupine,tasmin
+2072,"Accelerating Emissions
+(SSP5-8.5)",39.163,35.213,36.619,Porcupine,tasmin
+2073,"Moderating Emissions
+(SSP1-2.6)",35.183,30.387,32.594,Porcupine,tasmin
+2073,"Middle of the Road
+(SSP2-4.5)",38.553,32.596,34.896,Porcupine,tasmin
+2073,"High Emissions
+(SSP3-7.0)",38.402,33.339,36.533,Porcupine,tasmin
+2073,"Accelerating Emissions
+(SSP5-8.5)",40.009,33.08,37.646,Porcupine,tasmin
+2074,"Moderating Emissions
+(SSP1-2.6)",37.981,30.45,33.733,Porcupine,tasmin
+2074,"Middle of the Road
+(SSP2-4.5)",36.024,33.72,34.934,Porcupine,tasmin
+2074,"High Emissions
+(SSP3-7.0)",38.492,33.864,35.342,Porcupine,tasmin
+2074,"Accelerating Emissions
+(SSP5-8.5)",38.907,34.546,37.004,Porcupine,tasmin
+2075,"Moderating Emissions
+(SSP1-2.6)",35.733,30.665,32.947,Porcupine,tasmin
+2075,"Middle of the Road
+(SSP2-4.5)",37.462,31.861,33.261,Porcupine,tasmin
+2075,"High Emissions
+(SSP3-7.0)",38.316,34.134,35.388,Porcupine,tasmin
+2075,"Accelerating Emissions
+(SSP5-8.5)",40.347,34.086,38.714,Porcupine,tasmin
+2076,"Moderating Emissions
+(SSP1-2.6)",35.472,30.241,31.978,Porcupine,tasmin
+2076,"Middle of the Road
+(SSP2-4.5)",36.775,33.649,34.758,Porcupine,tasmin
+2076,"High Emissions
+(SSP3-7.0)",37.341,34.193,36.2,Porcupine,tasmin
+2076,"Accelerating Emissions
+(SSP5-8.5)",40.227,35.07,37.388,Porcupine,tasmin
+2077,"Moderating Emissions
+(SSP1-2.6)",35.661,31.544,33.16,Porcupine,tasmin
+2077,"Middle of the Road
+(SSP2-4.5)",38.569,33.794,35.498,Porcupine,tasmin
+2077,"High Emissions
+(SSP3-7.0)",38.835,34.29,36.257,Porcupine,tasmin
+2077,"Accelerating Emissions
+(SSP5-8.5)",40.23,35.268,37.599,Porcupine,tasmin
+2078,"Moderating Emissions
+(SSP1-2.6)",34.975,32.096,34.054,Porcupine,tasmin
+2078,"Middle of the Road
+(SSP2-4.5)",35.779,32.506,33.785,Porcupine,tasmin
+2078,"High Emissions
+(SSP3-7.0)",39.324,34.386,36.489,Porcupine,tasmin
+2078,"Accelerating Emissions
+(SSP5-8.5)",38.511,35.422,36.612,Porcupine,tasmin
+2079,"Moderating Emissions
+(SSP1-2.6)",34.494,31.807,33.321,Porcupine,tasmin
+2079,"Middle of the Road
+(SSP2-4.5)",36.305,33.521,34.231,Porcupine,tasmin
+2079,"High Emissions
+(SSP3-7.0)",39.627,34,36.988,Porcupine,tasmin
+2079,"Accelerating Emissions
+(SSP5-8.5)",40.836,35.323,38.215,Porcupine,tasmin
+2080,"Moderating Emissions
+(SSP1-2.6)",34.872,30.848,32.219,Porcupine,tasmin
+2080,"Middle of the Road
+(SSP2-4.5)",36.269,32.563,34.595,Porcupine,tasmin
+2080,"High Emissions
+(SSP3-7.0)",37.46,35.201,36.642,Porcupine,tasmin
+2080,"Accelerating Emissions
+(SSP5-8.5)",41.748,36.232,39.775,Porcupine,tasmin
+2081,"Moderating Emissions
+(SSP1-2.6)",35.812,29.097,33.414,Porcupine,tasmin
+2081,"Middle of the Road
+(SSP2-4.5)",37.536,33.236,34.659,Porcupine,tasmin
+2081,"High Emissions
+(SSP3-7.0)",39.77,34.385,35.484,Porcupine,tasmin
+2081,"Accelerating Emissions
+(SSP5-8.5)",41.878,37.293,38.924,Porcupine,tasmin
+2082,"Moderating Emissions
+(SSP1-2.6)",36.641,30.851,33.073,Porcupine,tasmin
+2082,"Middle of the Road
+(SSP2-4.5)",37.917,33.157,35.254,Porcupine,tasmin
+2082,"High Emissions
+(SSP3-7.0)",39.542,34.415,35.652,Porcupine,tasmin
+2082,"Accelerating Emissions
+(SSP5-8.5)",42.24,36.677,39.448,Porcupine,tasmin
+2083,"Moderating Emissions
+(SSP1-2.6)",35.32,31.092,32.711,Porcupine,tasmin
+2083,"Middle of the Road
+(SSP2-4.5)",38.521,32.618,34.507,Porcupine,tasmin
+2083,"High Emissions
+(SSP3-7.0)",39.931,34.207,36.837,Porcupine,tasmin
+2083,"Accelerating Emissions
+(SSP5-8.5)",42.224,37.29,39.685,Porcupine,tasmin
+2084,"Moderating Emissions
+(SSP1-2.6)",35.851,30.463,32.925,Porcupine,tasmin
+2084,"Middle of the Road
+(SSP2-4.5)",38.488,33.46,36.323,Porcupine,tasmin
+2084,"High Emissions
+(SSP3-7.0)",41.473,34.978,38.705,Porcupine,tasmin
+2084,"Accelerating Emissions
+(SSP5-8.5)",40.99,36.863,39.172,Porcupine,tasmin
+2085,"Moderating Emissions
+(SSP1-2.6)",33.994,28.709,31.822,Porcupine,tasmin
+2085,"Middle of the Road
+(SSP2-4.5)",37.13,32.245,34.903,Porcupine,tasmin
+2085,"High Emissions
+(SSP3-7.0)",39.677,35.243,36.476,Porcupine,tasmin
+2085,"Accelerating Emissions
+(SSP5-8.5)",42.462,37.031,38.546,Porcupine,tasmin
+2086,"Moderating Emissions
+(SSP1-2.6)",36.463,32.325,33.528,Porcupine,tasmin
+2086,"Middle of the Road
+(SSP2-4.5)",36.319,33.53,35.006,Porcupine,tasmin
+2086,"High Emissions
+(SSP3-7.0)",41.214,35.325,37.603,Porcupine,tasmin
+2086,"Accelerating Emissions
+(SSP5-8.5)",42.954,36.034,39.809,Porcupine,tasmin
+2087,"Moderating Emissions
+(SSP1-2.6)",34.742,30.707,32.727,Porcupine,tasmin
+2087,"Middle of the Road
+(SSP2-4.5)",39.366,32.379,35.404,Porcupine,tasmin
+2087,"High Emissions
+(SSP3-7.0)",41.099,35.392,37.817,Porcupine,tasmin
+2087,"Accelerating Emissions
+(SSP5-8.5)",42.539,36.905,39.004,Porcupine,tasmin
+2088,"Moderating Emissions
+(SSP1-2.6)",35.174,30.13,33.295,Porcupine,tasmin
+2088,"Middle of the Road
+(SSP2-4.5)",36.778,32.573,35.269,Porcupine,tasmin
+2088,"High Emissions
+(SSP3-7.0)",41.754,35.626,37.26,Porcupine,tasmin
+2088,"Accelerating Emissions
+(SSP5-8.5)",42.198,38.176,38.759,Porcupine,tasmin
+2089,"Moderating Emissions
+(SSP1-2.6)",33.67,30.961,32.589,Porcupine,tasmin
+2089,"Middle of the Road
+(SSP2-4.5)",36.824,33.649,35.598,Porcupine,tasmin
+2089,"High Emissions
+(SSP3-7.0)",40.438,35.594,37.049,Porcupine,tasmin
+2089,"Accelerating Emissions
+(SSP5-8.5)",43.869,37.193,40.905,Porcupine,tasmin
+2090,"Moderating Emissions
+(SSP1-2.6)",35.818,31.177,33.26,Porcupine,tasmin
+2090,"Middle of the Road
+(SSP2-4.5)",38.218,33.364,36.171,Porcupine,tasmin
+2090,"High Emissions
+(SSP3-7.0)",39.681,35.395,36.879,Porcupine,tasmin
+2090,"Accelerating Emissions
+(SSP5-8.5)",43.749,38.032,40.222,Porcupine,tasmin
+2091,"Moderating Emissions
+(SSP1-2.6)",35.91,31.334,32.924,Porcupine,tasmin
+2091,"Middle of the Road
+(SSP2-4.5)",38.089,33.237,35.606,Porcupine,tasmin
+2091,"High Emissions
+(SSP3-7.0)",41.048,34.894,36.536,Porcupine,tasmin
+2091,"Accelerating Emissions
+(SSP5-8.5)",44.609,37.103,39.699,Porcupine,tasmin
+2092,"Moderating Emissions
+(SSP1-2.6)",37.006,29.678,34.543,Porcupine,tasmin
+2092,"Middle of the Road
+(SSP2-4.5)",37.796,33.398,34.537,Porcupine,tasmin
+2092,"High Emissions
+(SSP3-7.0)",40.188,35.12,38.163,Porcupine,tasmin
+2092,"Accelerating Emissions
+(SSP5-8.5)",43.863,37.769,39.349,Porcupine,tasmin
+2093,"Moderating Emissions
+(SSP1-2.6)",35.839,29.834,32.469,Porcupine,tasmin
+2093,"Middle of the Road
+(SSP2-4.5)",38.358,32.667,35.075,Porcupine,tasmin
+2093,"High Emissions
+(SSP3-7.0)",42.136,35.928,37.416,Porcupine,tasmin
+2093,"Accelerating Emissions
+(SSP5-8.5)",45.146,37.501,40.251,Porcupine,tasmin
+2094,"Moderating Emissions
+(SSP1-2.6)",35.652,29.583,33.239,Porcupine,tasmin
+2094,"Middle of the Road
+(SSP2-4.5)",38.276,31.056,33.614,Porcupine,tasmin
+2094,"High Emissions
+(SSP3-7.0)",42.287,35.765,38.326,Porcupine,tasmin
+2094,"Accelerating Emissions
+(SSP5-8.5)",44.979,38,40.868,Porcupine,tasmin
+2095,"Moderating Emissions
+(SSP1-2.6)",34.969,31.519,33.667,Porcupine,tasmin
+2095,"Middle of the Road
+(SSP2-4.5)",39.317,33.875,36.077,Porcupine,tasmin
+2095,"High Emissions
+(SSP3-7.0)",42.675,34.816,38.051,Porcupine,tasmin
+2095,"Accelerating Emissions
+(SSP5-8.5)",43.564,37.632,38.327,Porcupine,tasmin
+2096,"Moderating Emissions
+(SSP1-2.6)",35.536,32.016,32.808,Porcupine,tasmin
+2096,"Middle of the Road
+(SSP2-4.5)",38.217,34.726,36.762,Porcupine,tasmin
+2096,"High Emissions
+(SSP3-7.0)",40.155,37.033,39.376,Porcupine,tasmin
+2096,"Accelerating Emissions
+(SSP5-8.5)",44.257,37.441,40.396,Porcupine,tasmin
+2097,"Moderating Emissions
+(SSP1-2.6)",36.126,30.242,32.205,Porcupine,tasmin
+2097,"Middle of the Road
+(SSP2-4.5)",37.443,34.902,35.779,Porcupine,tasmin
+2097,"High Emissions
+(SSP3-7.0)",41.665,36.111,38.935,Porcupine,tasmin
+2097,"Accelerating Emissions
+(SSP5-8.5)",46.529,36.395,40.805,Porcupine,tasmin
+2098,"Moderating Emissions
+(SSP1-2.6)",33.879,30.06,33.385,Porcupine,tasmin
+2098,"Middle of the Road
+(SSP2-4.5)",38.21,32.53,35.112,Porcupine,tasmin
+2098,"High Emissions
+(SSP3-7.0)",42.529,37.27,38.072,Porcupine,tasmin
+2098,"Accelerating Emissions
+(SSP5-8.5)",43.876,38.654,40.919,Porcupine,tasmin
+2099,"Moderating Emissions
+(SSP1-2.6)",37.167,30.254,32.729,Porcupine,tasmin
+2099,"Middle of the Road
+(SSP2-4.5)",37.595,33.153,34.963,Porcupine,tasmin
+2099,"High Emissions
+(SSP3-7.0)",43.316,35.689,38.783,Porcupine,tasmin
+2099,"Accelerating Emissions
+(SSP5-8.5)",44.444,38.156,41.144,Porcupine,tasmin
+2100,"Moderating Emissions
+(SSP1-2.6)",35.746,30.037,32.401,Porcupine,tasmin
+2100,"Middle of the Road
+(SSP2-4.5)",38.684,33.81,36.738,Porcupine,tasmin
+2100,"High Emissions
+(SSP3-7.0)",42.494,36.276,39.081,Porcupine,tasmin
+2100,"Accelerating Emissions
+(SSP5-8.5)",44.695,37.779,40.573,Porcupine,tasmin

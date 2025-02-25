@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,3058.377,2562.458,2826.219,Big Dry,gdd
+1951,Historical Emissions,2985.126,2530.572,2877.557,Big Dry,gdd
+1952,Historical Emissions,3024.69,2483.108,2704.506,Big Dry,gdd
+1953,Historical Emissions,2937.55,2384.92,2756.425,Big Dry,gdd
+1954,Historical Emissions,2920.389,2205.39,2516.537,Big Dry,gdd
+1955,Historical Emissions,3087.016,2435.039,2675.739,Big Dry,gdd
+1956,Historical Emissions,3072.074,2467.445,2824.881,Big Dry,gdd
+1957,Historical Emissions,3185.073,2285.659,2728.85,Big Dry,gdd
+1958,Historical Emissions,2869.994,2381.766,2664.76,Big Dry,gdd
+1959,Historical Emissions,2772.772,2328.269,2465.382,Big Dry,gdd
+1960,Historical Emissions,2849.192,2599.246,2724.005,Big Dry,gdd
+1961,Historical Emissions,2807.334,2461.298,2707.826,Big Dry,gdd
+1962,Historical Emissions,2813.103,2284.291,2652.197,Big Dry,gdd
+1963,Historical Emissions,2688.367,2341.613,2583.397,Big Dry,gdd
+1964,Historical Emissions,2862.751,2454.938,2658.368,Big Dry,gdd
+1965,Historical Emissions,2890.914,2349.013,2811.711,Big Dry,gdd
+1966,Historical Emissions,2960.186,2313.162,2513.436,Big Dry,gdd
+1967,Historical Emissions,2886.734,2440.552,2556.901,Big Dry,gdd
+1968,Historical Emissions,2700.881,2264.065,2501.894,Big Dry,gdd
+1969,Historical Emissions,2866.749,2177.847,2656.592,Big Dry,gdd
+1970,Historical Emissions,2765.997,2386.568,2604.785,Big Dry,gdd
+1971,Historical Emissions,2993.764,2468.016,2671.989,Big Dry,gdd
+1972,Historical Emissions,2880.096,2394.508,2642.242,Big Dry,gdd
+1973,Historical Emissions,2957.204,2294.186,2463.774,Big Dry,gdd
+1974,Historical Emissions,2885.528,2240.523,2748.381,Big Dry,gdd
+1975,Historical Emissions,2927.721,2432.944,2726.334,Big Dry,gdd
+1976,Historical Emissions,2786.24,2499.189,2582.119,Big Dry,gdd
+1977,Historical Emissions,3141.356,2459.365,2604.762,Big Dry,gdd
+1978,Historical Emissions,2934.625,2410.736,2644.484,Big Dry,gdd
+1979,Historical Emissions,2895.667,2506.552,2662.091,Big Dry,gdd
+1980,Historical Emissions,2993.959,2515.046,2759.869,Big Dry,gdd
+1981,Historical Emissions,3002.181,2408.362,2634.497,Big Dry,gdd
+1982,Historical Emissions,2894.684,2553.251,2656.507,Big Dry,gdd
+1983,Historical Emissions,2775.954,2425.329,2574.505,Big Dry,gdd
+1984,Historical Emissions,2925.785,2438.44,2652.654,Big Dry,gdd
+1985,Historical Emissions,3064.188,2571.877,2780.806,Big Dry,gdd
+1986,Historical Emissions,2665.339,2390.61,2554.76,Big Dry,gdd
+1987,Historical Emissions,2860.618,2344.15,2617.111,Big Dry,gdd
+1988,Historical Emissions,2840.716,2359.529,2612.757,Big Dry,gdd
+1989,Historical Emissions,3013.134,2503.141,2817.327,Big Dry,gdd
+1990,Historical Emissions,3321.786,2491.551,2814.394,Big Dry,gdd
+1991,Historical Emissions,2958.894,2418.601,2730.385,Big Dry,gdd
+1992,Historical Emissions,2705.311,2411.659,2513.971,Big Dry,gdd
+1993,Historical Emissions,2831.252,2428.152,2603.345,Big Dry,gdd
+1994,Historical Emissions,3133.392,2444.225,2735.426,Big Dry,gdd
+1995,Historical Emissions,3114.885,2640.328,2801.318,Big Dry,gdd
+1996,Historical Emissions,3275.789,2740.259,2943.191,Big Dry,gdd
+1997,Historical Emissions,3061.845,2538.805,2800.238,Big Dry,gdd
+1998,Historical Emissions,3033.902,2590.443,2739.498,Big Dry,gdd
+1999,Historical Emissions,2975.376,2548.243,2849.157,Big Dry,gdd
+2000,Historical Emissions,3071.532,2606.251,2915.114,Big Dry,gdd
+2001,Historical Emissions,3120.979,2576.576,2859.182,Big Dry,gdd
+2002,Historical Emissions,3191.622,2758.457,2905.111,Big Dry,gdd
+2003,Historical Emissions,3151.459,2685.647,2912.78,Big Dry,gdd
+2004,Historical Emissions,3249.49,2810.927,2979.715,Big Dry,gdd
+2005,Historical Emissions,3209.273,2840.942,2987.313,Big Dry,gdd
+2006,Historical Emissions,3083.112,2690.395,2958.013,Big Dry,gdd
+2007,Historical Emissions,3128.611,2801.175,2884.949,Big Dry,gdd
+2008,Historical Emissions,3189.989,2699.17,2970.834,Big Dry,gdd
+2009,Historical Emissions,3040.969,2686.952,2804.2,Big Dry,gdd
+2010,Historical Emissions,3189.75,2813.861,2937.123,Big Dry,gdd
+2011,Historical Emissions,3120.268,2728.746,3030.045,Big Dry,gdd
+2012,Historical Emissions,3127.47,2975.807,3061.152,Big Dry,gdd
+2013,Historical Emissions,3466.048,2879.27,3205.902,Big Dry,gdd
+2014,Historical Emissions,3465.378,2856.365,2998.299,Big Dry,gdd
+2015,"Moderating Emissions
+(SSP1-2.6)",3482.951,2907.447,3109.87,Big Dry,gdd
+2015,"Middle of the Road
+(SSP2-4.5)",3360.198,2656.345,3103.629,Big Dry,gdd
+2015,"High Emissions
+(SSP3-7.0)",3314.941,2762.167,3152.991,Big Dry,gdd
+2015,"Accelerating Emissions
+(SSP5-8.5)",3254.194,2768.664,3025.031,Big Dry,gdd
+2016,"Moderating Emissions
+(SSP1-2.6)",3297.299,2941.229,3192.54,Big Dry,gdd
+2016,"Middle of the Road
+(SSP2-4.5)",3223.492,2730.468,2938.297,Big Dry,gdd
+2016,"High Emissions
+(SSP3-7.0)",3435.345,2792.371,3164.637,Big Dry,gdd
+2016,"Accelerating Emissions
+(SSP5-8.5)",3222.011,2799.071,3023.573,Big Dry,gdd
+2017,"Moderating Emissions
+(SSP1-2.6)",3167.848,2876.033,2945.764,Big Dry,gdd
+2017,"Middle of the Road
+(SSP2-4.5)",3379.28,2764.239,3089.276,Big Dry,gdd
+2017,"High Emissions
+(SSP3-7.0)",3180.822,2741.93,3016.802,Big Dry,gdd
+2017,"Accelerating Emissions
+(SSP5-8.5)",3363.398,2907.563,3207.593,Big Dry,gdd
+2018,"Moderating Emissions
+(SSP1-2.6)",3195.589,2730.384,2997.749,Big Dry,gdd
+2018,"Middle of the Road
+(SSP2-4.5)",3328.535,2864.237,3131.325,Big Dry,gdd
+2018,"High Emissions
+(SSP3-7.0)",3212.246,2647.114,3030.734,Big Dry,gdd
+2018,"Accelerating Emissions
+(SSP5-8.5)",3205.678,2816.095,2969.55,Big Dry,gdd
+2019,"Moderating Emissions
+(SSP1-2.6)",3544.796,3038.993,3248.258,Big Dry,gdd
+2019,"Middle of the Road
+(SSP2-4.5)",3416.553,2795.353,3155.04,Big Dry,gdd
+2019,"High Emissions
+(SSP3-7.0)",3443.505,2904.106,3086.285,Big Dry,gdd
+2019,"Accelerating Emissions
+(SSP5-8.5)",3653.207,2962.668,3122.836,Big Dry,gdd
+2020,"Moderating Emissions
+(SSP1-2.6)",3452.936,2746.412,2994.871,Big Dry,gdd
+2020,"Middle of the Road
+(SSP2-4.5)",3410.596,2813.714,3069.098,Big Dry,gdd
+2020,"High Emissions
+(SSP3-7.0)",3275.022,2789.994,3014.509,Big Dry,gdd
+2020,"Accelerating Emissions
+(SSP5-8.5)",3357.896,2925.607,3229.199,Big Dry,gdd
+2021,"Moderating Emissions
+(SSP1-2.6)",3548.489,2913.487,3190.291,Big Dry,gdd
+2021,"Middle of the Road
+(SSP2-4.5)",3501.909,2755.923,3157.154,Big Dry,gdd
+2021,"High Emissions
+(SSP3-7.0)",3484.414,2799.177,3299.083,Big Dry,gdd
+2021,"Accelerating Emissions
+(SSP5-8.5)",3364.657,2852.648,3056.805,Big Dry,gdd
+2022,"Moderating Emissions
+(SSP1-2.6)",3302.194,2945.534,3105.626,Big Dry,gdd
+2022,"Middle of the Road
+(SSP2-4.5)",3319.639,2850.774,3150.881,Big Dry,gdd
+2022,"High Emissions
+(SSP3-7.0)",3320.821,2748.936,3065.116,Big Dry,gdd
+2022,"Accelerating Emissions
+(SSP5-8.5)",3579.904,2854.899,3411.213,Big Dry,gdd
+2023,"Moderating Emissions
+(SSP1-2.6)",3210.367,2813.586,3116.073,Big Dry,gdd
+2023,"Middle of the Road
+(SSP2-4.5)",3567.648,2793.201,3120.679,Big Dry,gdd
+2023,"High Emissions
+(SSP3-7.0)",3410.418,2908.326,3113.248,Big Dry,gdd
+2023,"Accelerating Emissions
+(SSP5-8.5)",3224.536,2676.536,2826.354,Big Dry,gdd
+2024,"Moderating Emissions
+(SSP1-2.6)",3391.079,3003.515,3092.152,Big Dry,gdd
+2024,"Middle of the Road
+(SSP2-4.5)",3548.935,2778.108,3090.171,Big Dry,gdd
+2024,"High Emissions
+(SSP3-7.0)",3526.675,2909.989,3301.635,Big Dry,gdd
+2024,"Accelerating Emissions
+(SSP5-8.5)",3427.638,2875.046,3038.187,Big Dry,gdd
+2025,"Moderating Emissions
+(SSP1-2.6)",3389.953,3078.426,3173.415,Big Dry,gdd
+2025,"Middle of the Road
+(SSP2-4.5)",3476.705,2783.395,2978.798,Big Dry,gdd
+2025,"High Emissions
+(SSP3-7.0)",3556.636,3052.452,3232.754,Big Dry,gdd
+2025,"Accelerating Emissions
+(SSP5-8.5)",3507.041,2835.283,3333.601,Big Dry,gdd
+2026,"Moderating Emissions
+(SSP1-2.6)",3425.829,2898.3,3135.25,Big Dry,gdd
+2026,"Middle of the Road
+(SSP2-4.5)",3508.296,2924.663,3209.746,Big Dry,gdd
+2026,"High Emissions
+(SSP3-7.0)",3274.488,2900.868,3052.691,Big Dry,gdd
+2026,"Accelerating Emissions
+(SSP5-8.5)",3511.635,2880.209,3025.642,Big Dry,gdd
+2027,"Moderating Emissions
+(SSP1-2.6)",3690.395,2869.242,3067.835,Big Dry,gdd
+2027,"Middle of the Road
+(SSP2-4.5)",3506.55,2859.353,3190.346,Big Dry,gdd
+2027,"High Emissions
+(SSP3-7.0)",3494.835,2875.724,3125.76,Big Dry,gdd
+2027,"Accelerating Emissions
+(SSP5-8.5)",3436.799,2987.869,3319.056,Big Dry,gdd
+2028,"Moderating Emissions
+(SSP1-2.6)",3246.105,2936.14,2998.261,Big Dry,gdd
+2028,"Middle of the Road
+(SSP2-4.5)",3180.668,2886.786,3029.252,Big Dry,gdd
+2028,"High Emissions
+(SSP3-7.0)",3351.596,2974.539,3140.592,Big Dry,gdd
+2028,"Accelerating Emissions
+(SSP5-8.5)",3421.691,2917.868,3202.55,Big Dry,gdd
+2029,"Moderating Emissions
+(SSP1-2.6)",3664.737,3176.709,3392.965,Big Dry,gdd
+2029,"Middle of the Road
+(SSP2-4.5)",3461.403,2893.749,3119.889,Big Dry,gdd
+2029,"High Emissions
+(SSP3-7.0)",3420.072,2834.354,3056.919,Big Dry,gdd
+2029,"Accelerating Emissions
+(SSP5-8.5)",3535.09,3119.942,3228.926,Big Dry,gdd
+2030,"Moderating Emissions
+(SSP1-2.6)",3502.834,2987.245,3154.015,Big Dry,gdd
+2030,"Middle of the Road
+(SSP2-4.5)",3802.787,3024.292,3332.192,Big Dry,gdd
+2030,"High Emissions
+(SSP3-7.0)",3555.609,2875.84,3298.163,Big Dry,gdd
+2030,"Accelerating Emissions
+(SSP5-8.5)",3640.326,2914.009,3077.959,Big Dry,gdd
+2031,"Moderating Emissions
+(SSP1-2.6)",3473.935,3057.633,3277.311,Big Dry,gdd
+2031,"Middle of the Road
+(SSP2-4.5)",3485.429,2966.285,3175.599,Big Dry,gdd
+2031,"High Emissions
+(SSP3-7.0)",3546.638,3016.062,3309.683,Big Dry,gdd
+2031,"Accelerating Emissions
+(SSP5-8.5)",3695.264,3170.819,3312.719,Big Dry,gdd
+2032,"Moderating Emissions
+(SSP1-2.6)",3354.89,2858.296,3203.547,Big Dry,gdd
+2032,"Middle of the Road
+(SSP2-4.5)",3435.908,2950.059,3230.917,Big Dry,gdd
+2032,"High Emissions
+(SSP3-7.0)",3643.977,2961.048,3340.711,Big Dry,gdd
+2032,"Accelerating Emissions
+(SSP5-8.5)",3566.666,2802.444,3235.748,Big Dry,gdd
+2033,"Moderating Emissions
+(SSP1-2.6)",3435.314,2989.766,3080.523,Big Dry,gdd
+2033,"Middle of the Road
+(SSP2-4.5)",3733.93,2936.099,3348.482,Big Dry,gdd
+2033,"High Emissions
+(SSP3-7.0)",3443.713,2850.463,3210.709,Big Dry,gdd
+2033,"Accelerating Emissions
+(SSP5-8.5)",3543.256,3066.618,3264.352,Big Dry,gdd
+2034,"Moderating Emissions
+(SSP1-2.6)",3486.181,2898.995,3220.109,Big Dry,gdd
+2034,"Middle of the Road
+(SSP2-4.5)",3597.78,2928.789,3177.338,Big Dry,gdd
+2034,"High Emissions
+(SSP3-7.0)",3657.305,2931.786,3457.95,Big Dry,gdd
+2034,"Accelerating Emissions
+(SSP5-8.5)",3586.453,2883.872,3288.484,Big Dry,gdd
+2035,"Moderating Emissions
+(SSP1-2.6)",3697.973,3056.819,3274.508,Big Dry,gdd
+2035,"Middle of the Road
+(SSP2-4.5)",3675.12,3020.001,3194.865,Big Dry,gdd
+2035,"High Emissions
+(SSP3-7.0)",3521.499,2673.149,3187.302,Big Dry,gdd
+2035,"Accelerating Emissions
+(SSP5-8.5)",3606.403,3055.781,3382.351,Big Dry,gdd
+2036,"Moderating Emissions
+(SSP1-2.6)",3488.137,2971.633,3302.303,Big Dry,gdd
+2036,"Middle of the Road
+(SSP2-4.5)",3358.307,2944.765,3219.25,Big Dry,gdd
+2036,"High Emissions
+(SSP3-7.0)",3677.956,2896.347,3245.184,Big Dry,gdd
+2036,"Accelerating Emissions
+(SSP5-8.5)",3510.275,2875.275,3420.418,Big Dry,gdd
+2037,"Moderating Emissions
+(SSP1-2.6)",3575.783,3029.407,3506.903,Big Dry,gdd
+2037,"Middle of the Road
+(SSP2-4.5)",3560.344,2909.884,3124.457,Big Dry,gdd
+2037,"High Emissions
+(SSP3-7.0)",3497.534,2811.448,3122.229,Big Dry,gdd
+2037,"Accelerating Emissions
+(SSP5-8.5)",3491.687,3015.667,3367.987,Big Dry,gdd
+2038,"Moderating Emissions
+(SSP1-2.6)",3516.945,3043.69,3224.986,Big Dry,gdd
+2038,"Middle of the Road
+(SSP2-4.5)",3317.204,2991.739,3160.74,Big Dry,gdd
+2038,"High Emissions
+(SSP3-7.0)",3540.844,3078.263,3398.611,Big Dry,gdd
+2038,"Accelerating Emissions
+(SSP5-8.5)",3879.98,3003.777,3304.433,Big Dry,gdd
+2039,"Moderating Emissions
+(SSP1-2.6)",3501.131,2812.031,3146.831,Big Dry,gdd
+2039,"Middle of the Road
+(SSP2-4.5)",3465.638,2912.363,3259.903,Big Dry,gdd
+2039,"High Emissions
+(SSP3-7.0)",3628.307,3283.171,3348.223,Big Dry,gdd
+2039,"Accelerating Emissions
+(SSP5-8.5)",3614.494,3002.282,3083.995,Big Dry,gdd
+2040,"Moderating Emissions
+(SSP1-2.6)",3549.94,2924.7,3328.319,Big Dry,gdd
+2040,"Middle of the Road
+(SSP2-4.5)",3720.485,2956.121,3434.797,Big Dry,gdd
+2040,"High Emissions
+(SSP3-7.0)",3501.459,3110.34,3422.261,Big Dry,gdd
+2040,"Accelerating Emissions
+(SSP5-8.5)",3982.672,3052.287,3562.956,Big Dry,gdd
+2041,"Moderating Emissions
+(SSP1-2.6)",3461.68,2819.23,3205.194,Big Dry,gdd
+2041,"Middle of the Road
+(SSP2-4.5)",3439.873,3089.47,3330.097,Big Dry,gdd
+2041,"High Emissions
+(SSP3-7.0)",3698.829,2974.402,3156.256,Big Dry,gdd
+2041,"Accelerating Emissions
+(SSP5-8.5)",3622.632,3032.187,3291.261,Big Dry,gdd
+2042,"Moderating Emissions
+(SSP1-2.6)",3763.873,2893.047,3268.644,Big Dry,gdd
+2042,"Middle of the Road
+(SSP2-4.5)",3593.691,2857.489,3256.121,Big Dry,gdd
+2042,"High Emissions
+(SSP3-7.0)",3441.861,3112.232,3214.303,Big Dry,gdd
+2042,"Accelerating Emissions
+(SSP5-8.5)",3847.767,3164.75,3468.209,Big Dry,gdd
+2043,"Moderating Emissions
+(SSP1-2.6)",3470.133,3060.32,3216.981,Big Dry,gdd
+2043,"Middle of the Road
+(SSP2-4.5)",3625.359,3004.684,3289.254,Big Dry,gdd
+2043,"High Emissions
+(SSP3-7.0)",3408.415,3047.051,3248.846,Big Dry,gdd
+2043,"Accelerating Emissions
+(SSP5-8.5)",3644.518,3143.385,3417.18,Big Dry,gdd
+2044,"Moderating Emissions
+(SSP1-2.6)",3579.996,3108.719,3367.16,Big Dry,gdd
+2044,"Middle of the Road
+(SSP2-4.5)",3840.903,3098.701,3317.838,Big Dry,gdd
+2044,"High Emissions
+(SSP3-7.0)",3500.219,3231.925,3406.975,Big Dry,gdd
+2044,"Accelerating Emissions
+(SSP5-8.5)",3658.852,3179.51,3423.435,Big Dry,gdd
+2045,"Moderating Emissions
+(SSP1-2.6)",3461.381,2925.361,3189.015,Big Dry,gdd
+2045,"Middle of the Road
+(SSP2-4.5)",3672.774,2998.307,3295.263,Big Dry,gdd
+2045,"High Emissions
+(SSP3-7.0)",3650.366,3193.7,3319.558,Big Dry,gdd
+2045,"Accelerating Emissions
+(SSP5-8.5)",3576.003,3165.896,3393.909,Big Dry,gdd
+2046,"Moderating Emissions
+(SSP1-2.6)",3928.448,3022.598,3420.173,Big Dry,gdd
+2046,"Middle of the Road
+(SSP2-4.5)",3550.247,2928.74,3321.038,Big Dry,gdd
+2046,"High Emissions
+(SSP3-7.0)",3698.803,3308.639,3504.164,Big Dry,gdd
+2046,"Accelerating Emissions
+(SSP5-8.5)",3773.652,3107.284,3235.086,Big Dry,gdd
+2047,"Moderating Emissions
+(SSP1-2.6)",3693.791,3103.073,3456.068,Big Dry,gdd
+2047,"Middle of the Road
+(SSP2-4.5)",3590.461,3046.557,3262.166,Big Dry,gdd
+2047,"High Emissions
+(SSP3-7.0)",3434.688,3114.933,3256.874,Big Dry,gdd
+2047,"Accelerating Emissions
+(SSP5-8.5)",3854.558,3071.783,3659.732,Big Dry,gdd
+2048,"Moderating Emissions
+(SSP1-2.6)",3508.486,3181.404,3269.426,Big Dry,gdd
+2048,"Middle of the Road
+(SSP2-4.5)",3721.13,3038.993,3452.732,Big Dry,gdd
+2048,"High Emissions
+(SSP3-7.0)",3824.958,3008.709,3346.104,Big Dry,gdd
+2048,"Accelerating Emissions
+(SSP5-8.5)",4185.525,3155.396,3599.239,Big Dry,gdd
+2049,"Moderating Emissions
+(SSP1-2.6)",3541.489,3016.741,3424.759,Big Dry,gdd
+2049,"Middle of the Road
+(SSP2-4.5)",3710.28,3108.001,3518.36,Big Dry,gdd
+2049,"High Emissions
+(SSP3-7.0)",3500.183,3146.386,3387.255,Big Dry,gdd
+2049,"Accelerating Emissions
+(SSP5-8.5)",3803.212,3145.12,3583.634,Big Dry,gdd
+2050,"Moderating Emissions
+(SSP1-2.6)",3567.065,3043.614,3259.943,Big Dry,gdd
+2050,"Middle of the Road
+(SSP2-4.5)",3910.387,3100.559,3537.495,Big Dry,gdd
+2050,"High Emissions
+(SSP3-7.0)",3690.08,3055.856,3467.987,Big Dry,gdd
+2050,"Accelerating Emissions
+(SSP5-8.5)",3880.23,3237.671,3448.556,Big Dry,gdd
+2051,"Moderating Emissions
+(SSP1-2.6)",3546.261,2933.586,3339.547,Big Dry,gdd
+2051,"Middle of the Road
+(SSP2-4.5)",3915.831,3174.104,3356.962,Big Dry,gdd
+2051,"High Emissions
+(SSP3-7.0)",3821.519,3217.809,3419.751,Big Dry,gdd
+2051,"Accelerating Emissions
+(SSP5-8.5)",3818.683,3269.229,3455.816,Big Dry,gdd
+2052,"Moderating Emissions
+(SSP1-2.6)",3577.443,3256.759,3315.675,Big Dry,gdd
+2052,"Middle of the Road
+(SSP2-4.5)",3595.623,3065.263,3453.996,Big Dry,gdd
+2052,"High Emissions
+(SSP3-7.0)",3853.567,3047.507,3365.144,Big Dry,gdd
+2052,"Accelerating Emissions
+(SSP5-8.5)",3713.448,3317.144,3626.553,Big Dry,gdd
+2053,"Moderating Emissions
+(SSP1-2.6)",3675.504,2992.087,3393.396,Big Dry,gdd
+2053,"Middle of the Road
+(SSP2-4.5)",3686.818,3003.227,3412.312,Big Dry,gdd
+2053,"High Emissions
+(SSP3-7.0)",3819.207,3373.849,3579.271,Big Dry,gdd
+2053,"Accelerating Emissions
+(SSP5-8.5)",3994.011,3108.788,3654.809,Big Dry,gdd
+2054,"Moderating Emissions
+(SSP1-2.6)",3775.937,3070.237,3437.707,Big Dry,gdd
+2054,"Middle of the Road
+(SSP2-4.5)",3686.283,2924.784,3253.951,Big Dry,gdd
+2054,"High Emissions
+(SSP3-7.0)",3715.019,3265.377,3357.125,Big Dry,gdd
+2054,"Accelerating Emissions
+(SSP5-8.5)",3808.947,3214.599,3599.717,Big Dry,gdd
+2055,"Moderating Emissions
+(SSP1-2.6)",3604.377,3257.66,3478.442,Big Dry,gdd
+2055,"Middle of the Road
+(SSP2-4.5)",3898.404,2915.555,3499.114,Big Dry,gdd
+2055,"High Emissions
+(SSP3-7.0)",3773.187,3259.154,3518.882,Big Dry,gdd
+2055,"Accelerating Emissions
+(SSP5-8.5)",3985.891,3148.66,3774.094,Big Dry,gdd
+2056,"Moderating Emissions
+(SSP1-2.6)",3559.383,2961.565,3372.466,Big Dry,gdd
+2056,"Middle of the Road
+(SSP2-4.5)",3683.246,3148.928,3485.306,Big Dry,gdd
+2056,"High Emissions
+(SSP3-7.0)",3992.228,2945.383,3465.406,Big Dry,gdd
+2056,"Accelerating Emissions
+(SSP5-8.5)",3914.059,3391.974,3623.641,Big Dry,gdd
+2057,"Moderating Emissions
+(SSP1-2.6)",3698.908,2859.65,3429.991,Big Dry,gdd
+2057,"Middle of the Road
+(SSP2-4.5)",3870.34,3234.965,3488.998,Big Dry,gdd
+2057,"High Emissions
+(SSP3-7.0)",3915.693,3161.073,3354.445,Big Dry,gdd
+2057,"Accelerating Emissions
+(SSP5-8.5)",3897.533,3200.743,3410.011,Big Dry,gdd
+2058,"Moderating Emissions
+(SSP1-2.6)",3526.991,3007.787,3334.141,Big Dry,gdd
+2058,"Middle of the Road
+(SSP2-4.5)",3900.955,3354.369,3573.632,Big Dry,gdd
+2058,"High Emissions
+(SSP3-7.0)",3747.305,3141.985,3439.589,Big Dry,gdd
+2058,"Accelerating Emissions
+(SSP5-8.5)",3804.137,3241.187,3527.351,Big Dry,gdd
+2059,"Moderating Emissions
+(SSP1-2.6)",3694.129,3210.863,3465.242,Big Dry,gdd
+2059,"Middle of the Road
+(SSP2-4.5)",3985.276,3133.943,3496.753,Big Dry,gdd
+2059,"High Emissions
+(SSP3-7.0)",4075.69,3286.109,3566.27,Big Dry,gdd
+2059,"Accelerating Emissions
+(SSP5-8.5)",4050.487,3495.753,3738.558,Big Dry,gdd
+2060,"Moderating Emissions
+(SSP1-2.6)",3563.83,3103.469,3230.963,Big Dry,gdd
+2060,"Middle of the Road
+(SSP2-4.5)",3993.201,3100.044,3440.504,Big Dry,gdd
+2060,"High Emissions
+(SSP3-7.0)",3802.946,3221.511,3379.669,Big Dry,gdd
+2060,"Accelerating Emissions
+(SSP5-8.5)",3874.954,3316.279,3703.176,Big Dry,gdd
+2061,"Moderating Emissions
+(SSP1-2.6)",3549.623,2906.287,3402.32,Big Dry,gdd
+2061,"Middle of the Road
+(SSP2-4.5)",3885.047,3147.589,3469.328,Big Dry,gdd
+2061,"High Emissions
+(SSP3-7.0)",3875.578,3353.218,3588.31,Big Dry,gdd
+2061,"Accelerating Emissions
+(SSP5-8.5)",4136.319,3550.176,3843.172,Big Dry,gdd
+2062,"Moderating Emissions
+(SSP1-2.6)",3849.022,3010.693,3340.013,Big Dry,gdd
+2062,"Middle of the Road
+(SSP2-4.5)",3651.951,3255.34,3355.968,Big Dry,gdd
+2062,"High Emissions
+(SSP3-7.0)",3782.228,3343.823,3539.143,Big Dry,gdd
+2062,"Accelerating Emissions
+(SSP5-8.5)",4074.237,3538.644,3674.866,Big Dry,gdd
+2063,"Moderating Emissions
+(SSP1-2.6)",3469.858,3212.249,3338.083,Big Dry,gdd
+2063,"Middle of the Road
+(SSP2-4.5)",3636.251,3081.694,3221.207,Big Dry,gdd
+2063,"High Emissions
+(SSP3-7.0)",3868.524,3423.184,3674.749,Big Dry,gdd
+2063,"Accelerating Emissions
+(SSP5-8.5)",4091.317,3402.444,3788.624,Big Dry,gdd
+2064,"Moderating Emissions
+(SSP1-2.6)",3782.523,2823.311,3343.048,Big Dry,gdd
+2064,"Middle of the Road
+(SSP2-4.5)",3585.177,3067.373,3358.99,Big Dry,gdd
+2064,"High Emissions
+(SSP3-7.0)",3787.43,3165.953,3515.387,Big Dry,gdd
+2064,"Accelerating Emissions
+(SSP5-8.5)",3986.322,3518.426,3734.799,Big Dry,gdd
+2065,"Moderating Emissions
+(SSP1-2.6)",3677.276,2785.236,3123.534,Big Dry,gdd
+2065,"Middle of the Road
+(SSP2-4.5)",3768.58,3135.105,3390.025,Big Dry,gdd
+2065,"High Emissions
+(SSP3-7.0)",3895.236,3362.848,3638.281,Big Dry,gdd
+2065,"Accelerating Emissions
+(SSP5-8.5)",4332.997,3623.346,3730.39,Big Dry,gdd
+2066,"Moderating Emissions
+(SSP1-2.6)",3775.404,3201.534,3327.872,Big Dry,gdd
+2066,"Middle of the Road
+(SSP2-4.5)",3739.743,3211.102,3539.076,Big Dry,gdd
+2066,"High Emissions
+(SSP3-7.0)",3994.598,3432.181,3568.334,Big Dry,gdd
+2066,"Accelerating Emissions
+(SSP5-8.5)",4161.971,3373.768,3964.811,Big Dry,gdd
+2067,"Moderating Emissions
+(SSP1-2.6)",3739.396,3277.435,3447.528,Big Dry,gdd
+2067,"Middle of the Road
+(SSP2-4.5)",3803.894,3106.73,3468.835,Big Dry,gdd
+2067,"High Emissions
+(SSP3-7.0)",4178.113,3647.304,3721.308,Big Dry,gdd
+2067,"Accelerating Emissions
+(SSP5-8.5)",4284.154,3363.695,3654.915,Big Dry,gdd
+2068,"Moderating Emissions
+(SSP1-2.6)",3684.189,3078.414,3360.407,Big Dry,gdd
+2068,"Middle of the Road
+(SSP2-4.5)",3809.411,3062.428,3297.548,Big Dry,gdd
+2068,"High Emissions
+(SSP3-7.0)",4121.388,3304.189,3570.928,Big Dry,gdd
+2068,"Accelerating Emissions
+(SSP5-8.5)",4252.222,3605.627,3746.51,Big Dry,gdd
+2069,"Moderating Emissions
+(SSP1-2.6)",3825,3112.207,3373.757,Big Dry,gdd
+2069,"Middle of the Road
+(SSP2-4.5)",3715.201,3159.407,3394.186,Big Dry,gdd
+2069,"High Emissions
+(SSP3-7.0)",4262.816,3639.641,3740.126,Big Dry,gdd
+2069,"Accelerating Emissions
+(SSP5-8.5)",4592.34,3445.723,4083.678,Big Dry,gdd
+2070,"Moderating Emissions
+(SSP1-2.6)",3526.059,3259.436,3443.623,Big Dry,gdd
+2070,"Middle of the Road
+(SSP2-4.5)",3805.397,3152.827,3357.574,Big Dry,gdd
+2070,"High Emissions
+(SSP3-7.0)",4231.844,3591.998,3957.789,Big Dry,gdd
+2070,"Accelerating Emissions
+(SSP5-8.5)",4426.664,3749.535,3839.457,Big Dry,gdd
+2071,"Moderating Emissions
+(SSP1-2.6)",3971.446,3027.428,3420.819,Big Dry,gdd
+2071,"Middle of the Road
+(SSP2-4.5)",3633.567,3436.707,3516.684,Big Dry,gdd
+2071,"High Emissions
+(SSP3-7.0)",4108.163,3510.245,3823.235,Big Dry,gdd
+2071,"Accelerating Emissions
+(SSP5-8.5)",4308.297,3591.945,3875.513,Big Dry,gdd
+2072,"Moderating Emissions
+(SSP1-2.6)",3838.481,3287.768,3437.474,Big Dry,gdd
+2072,"Middle of the Road
+(SSP2-4.5)",3786.074,3181.633,3370.555,Big Dry,gdd
+2072,"High Emissions
+(SSP3-7.0)",4086.916,3319.571,3656.73,Big Dry,gdd
+2072,"Accelerating Emissions
+(SSP5-8.5)",4334.013,3552.67,3744.288,Big Dry,gdd
+2073,"Moderating Emissions
+(SSP1-2.6)",3625.277,3015.258,3368.856,Big Dry,gdd
+2073,"Middle of the Road
+(SSP2-4.5)",3771.639,3049.802,3548.487,Big Dry,gdd
+2073,"High Emissions
+(SSP3-7.0)",3955.362,3559.097,3748.744,Big Dry,gdd
+2073,"Accelerating Emissions
+(SSP5-8.5)",4295.708,3470.997,3881.645,Big Dry,gdd
+2074,"Moderating Emissions
+(SSP1-2.6)",3698.564,2913.009,3304.785,Big Dry,gdd
+2074,"Middle of the Road
+(SSP2-4.5)",3852.252,3210.387,3424.749,Big Dry,gdd
+2074,"High Emissions
+(SSP3-7.0)",4049.827,3422.094,3608.06,Big Dry,gdd
+2074,"Accelerating Emissions
+(SSP5-8.5)",4604.157,3622.723,3890.56,Big Dry,gdd
+2075,"Moderating Emissions
+(SSP1-2.6)",3771.453,2961.777,3360.27,Big Dry,gdd
+2075,"Middle of the Road
+(SSP2-4.5)",3948.668,3157.158,3396.369,Big Dry,gdd
+2075,"High Emissions
+(SSP3-7.0)",4237.165,3340.12,3547.535,Big Dry,gdd
+2075,"Accelerating Emissions
+(SSP5-8.5)",4329.898,3671.494,4134.469,Big Dry,gdd
+2076,"Moderating Emissions
+(SSP1-2.6)",3685.951,3062.952,3277.021,Big Dry,gdd
+2076,"Middle of the Road
+(SSP2-4.5)",3570.37,3141.405,3339.271,Big Dry,gdd
+2076,"High Emissions
+(SSP3-7.0)",4281.024,3613.141,3862.39,Big Dry,gdd
+2076,"Accelerating Emissions
+(SSP5-8.5)",4618.076,3613.619,4041.78,Big Dry,gdd
+2077,"Moderating Emissions
+(SSP1-2.6)",3797.665,3130.383,3583.019,Big Dry,gdd
+2077,"Middle of the Road
+(SSP2-4.5)",3910.278,3389.255,3626.731,Big Dry,gdd
+2077,"High Emissions
+(SSP3-7.0)",4034.622,3577.545,3774.067,Big Dry,gdd
+2077,"Accelerating Emissions
+(SSP5-8.5)",4389.486,3865.169,4201.539,Big Dry,gdd
+2078,"Moderating Emissions
+(SSP1-2.6)",3751.315,3207.016,3482.373,Big Dry,gdd
+2078,"Middle of the Road
+(SSP2-4.5)",3786.08,3197.5,3480.506,Big Dry,gdd
+2078,"High Emissions
+(SSP3-7.0)",4281.228,3417.332,3838.909,Big Dry,gdd
+2078,"Accelerating Emissions
+(SSP5-8.5)",4065.657,3621.998,3708.82,Big Dry,gdd
+2079,"Moderating Emissions
+(SSP1-2.6)",3664.318,3232.497,3400.671,Big Dry,gdd
+2079,"Middle of the Road
+(SSP2-4.5)",3668.798,3380.287,3529.853,Big Dry,gdd
+2079,"High Emissions
+(SSP3-7.0)",4136.785,3381.825,3685.523,Big Dry,gdd
+2079,"Accelerating Emissions
+(SSP5-8.5)",4388.979,3645.472,4184.686,Big Dry,gdd
+2080,"Moderating Emissions
+(SSP1-2.6)",3571.174,2893.112,3285.619,Big Dry,gdd
+2080,"Middle of the Road
+(SSP2-4.5)",3844.764,3223.023,3679.607,Big Dry,gdd
+2080,"High Emissions
+(SSP3-7.0)",4185.378,3575.817,3688.742,Big Dry,gdd
+2080,"Accelerating Emissions
+(SSP5-8.5)",4354.599,3864.619,4184.003,Big Dry,gdd
+2081,"Moderating Emissions
+(SSP1-2.6)",3859.344,2911.665,3304.432,Big Dry,gdd
+2081,"Middle of the Road
+(SSP2-4.5)",3885.515,3210.091,3535.177,Big Dry,gdd
+2081,"High Emissions
+(SSP3-7.0)",4357.557,3401.314,3602.826,Big Dry,gdd
+2081,"Accelerating Emissions
+(SSP5-8.5)",4547.129,3843.757,4086.081,Big Dry,gdd
+2082,"Moderating Emissions
+(SSP1-2.6)",3754.682,3199.42,3559.389,Big Dry,gdd
+2082,"Middle of the Road
+(SSP2-4.5)",3974.703,3249.921,3502.845,Big Dry,gdd
+2082,"High Emissions
+(SSP3-7.0)",4318.391,3543.998,3798.389,Big Dry,gdd
+2082,"Accelerating Emissions
+(SSP5-8.5)",4562.478,3867.449,4069.949,Big Dry,gdd
+2083,"Moderating Emissions
+(SSP1-2.6)",3709.278,3334.19,3553.263,Big Dry,gdd
+2083,"Middle of the Road
+(SSP2-4.5)",3766.805,3325.994,3700.14,Big Dry,gdd
+2083,"High Emissions
+(SSP3-7.0)",4303.974,3259.884,3893.856,Big Dry,gdd
+2083,"Accelerating Emissions
+(SSP5-8.5)",4722.897,3792.964,4175.023,Big Dry,gdd
+2084,"Moderating Emissions
+(SSP1-2.6)",3830.427,2934.722,3261.351,Big Dry,gdd
+2084,"Middle of the Road
+(SSP2-4.5)",4008.137,3241.813,3791.678,Big Dry,gdd
+2084,"High Emissions
+(SSP3-7.0)",4539.998,3649.965,4078.926,Big Dry,gdd
+2084,"Accelerating Emissions
+(SSP5-8.5)",4758.921,3762.492,4175.629,Big Dry,gdd
+2085,"Moderating Emissions
+(SSP1-2.6)",3748.778,3011.385,3253.376,Big Dry,gdd
+2085,"Middle of the Road
+(SSP2-4.5)",3809.519,3253.232,3577.741,Big Dry,gdd
+2085,"High Emissions
+(SSP3-7.0)",4303.887,3592.457,3805.226,Big Dry,gdd
+2085,"Accelerating Emissions
+(SSP5-8.5)",4493.014,3603.603,4240.78,Big Dry,gdd
+2086,"Moderating Emissions
+(SSP1-2.6)",3639.082,3341.279,3462.968,Big Dry,gdd
+2086,"Middle of the Road
+(SSP2-4.5)",3762.521,3558.229,3703.94,Big Dry,gdd
+2086,"High Emissions
+(SSP3-7.0)",4391.255,3547.177,3946.113,Big Dry,gdd
+2086,"Accelerating Emissions
+(SSP5-8.5)",4636.758,3736.417,4368.116,Big Dry,gdd
+2087,"Moderating Emissions
+(SSP1-2.6)",3494.385,2980.387,3259.657,Big Dry,gdd
+2087,"Middle of the Road
+(SSP2-4.5)",4061.49,3441.365,3866.895,Big Dry,gdd
+2087,"High Emissions
+(SSP3-7.0)",4504.785,3544.171,3919.754,Big Dry,gdd
+2087,"Accelerating Emissions
+(SSP5-8.5)",4777.736,3756.293,3856.511,Big Dry,gdd
+2088,"Moderating Emissions
+(SSP1-2.6)",3676.293,3068.993,3177.842,Big Dry,gdd
+2088,"Middle of the Road
+(SSP2-4.5)",4067.633,3549.539,3809.976,Big Dry,gdd
+2088,"High Emissions
+(SSP3-7.0)",4504.08,3689.178,3972.549,Big Dry,gdd
+2088,"Accelerating Emissions
+(SSP5-8.5)",4648.525,3888.973,4362.364,Big Dry,gdd
+2089,"Moderating Emissions
+(SSP1-2.6)",3688.158,3009.86,3191.951,Big Dry,gdd
+2089,"Middle of the Road
+(SSP2-4.5)",3989.204,3364.792,3621.855,Big Dry,gdd
+2089,"High Emissions
+(SSP3-7.0)",4425.968,3611.093,4193.979,Big Dry,gdd
+2089,"Accelerating Emissions
+(SSP5-8.5)",4778.997,4061.561,4562.359,Big Dry,gdd
+2090,"Moderating Emissions
+(SSP1-2.6)",3701.943,3149.518,3406.69,Big Dry,gdd
+2090,"Middle of the Road
+(SSP2-4.5)",3847.421,3270.805,3610.088,Big Dry,gdd
+2090,"High Emissions
+(SSP3-7.0)",4488.869,3848.929,4123.028,Big Dry,gdd
+2090,"Accelerating Emissions
+(SSP5-8.5)",4814.216,4075.119,4452.495,Big Dry,gdd
+2091,"Moderating Emissions
+(SSP1-2.6)",3657.165,3121.13,3289.115,Big Dry,gdd
+2091,"Middle of the Road
+(SSP2-4.5)",3814.32,3360.259,3695.763,Big Dry,gdd
+2091,"High Emissions
+(SSP3-7.0)",4497.033,3883.062,4142.774,Big Dry,gdd
+2091,"Accelerating Emissions
+(SSP5-8.5)",4996.872,3826.86,4464.817,Big Dry,gdd
+2092,"Moderating Emissions
+(SSP1-2.6)",3758.035,2924.849,3496.953,Big Dry,gdd
+2092,"Middle of the Road
+(SSP2-4.5)",4079.302,3233.249,3833.963,Big Dry,gdd
+2092,"High Emissions
+(SSP3-7.0)",4356.111,3751.768,4141.095,Big Dry,gdd
+2092,"Accelerating Emissions
+(SSP5-8.5)",4993.276,3982.669,4570.164,Big Dry,gdd
+2093,"Moderating Emissions
+(SSP1-2.6)",3745.032,3073.565,3303.574,Big Dry,gdd
+2093,"Middle of the Road
+(SSP2-4.5)",3795.248,3168.38,3696.149,Big Dry,gdd
+2093,"High Emissions
+(SSP3-7.0)",4689.499,3674.916,3774.645,Big Dry,gdd
+2093,"Accelerating Emissions
+(SSP5-8.5)",4925.436,4195.401,4434.995,Big Dry,gdd
+2094,"Moderating Emissions
+(SSP1-2.6)",3713.98,3026.054,3356.118,Big Dry,gdd
+2094,"Middle of the Road
+(SSP2-4.5)",4117.655,3109.961,3831.68,Big Dry,gdd
+2094,"High Emissions
+(SSP3-7.0)",4633.167,3821.5,4082.931,Big Dry,gdd
+2094,"Accelerating Emissions
+(SSP5-8.5)",4992.147,3914.074,4290.061,Big Dry,gdd
+2095,"Moderating Emissions
+(SSP1-2.6)",3722.258,3179.92,3407.918,Big Dry,gdd
+2095,"Middle of the Road
+(SSP2-4.5)",4144.796,3578.372,3891.794,Big Dry,gdd
+2095,"High Emissions
+(SSP3-7.0)",4543.732,3763.588,4040.445,Big Dry,gdd
+2095,"Accelerating Emissions
+(SSP5-8.5)",4959.605,3956.981,4403.752,Big Dry,gdd
+2096,"Moderating Emissions
+(SSP1-2.6)",3593.089,3088.371,3447.122,Big Dry,gdd
+2096,"Middle of the Road
+(SSP2-4.5)",4165.079,3511.704,3918.126,Big Dry,gdd
+2096,"High Emissions
+(SSP3-7.0)",4588.374,3935.62,4068.437,Big Dry,gdd
+2096,"Accelerating Emissions
+(SSP5-8.5)",4943.587,4086.53,4506.514,Big Dry,gdd
+2097,"Moderating Emissions
+(SSP1-2.6)",3828.489,2986.113,3289.391,Big Dry,gdd
+2097,"Middle of the Road
+(SSP2-4.5)",4171.527,3423.318,3755.068,Big Dry,gdd
+2097,"High Emissions
+(SSP3-7.0)",4974.604,3560.236,4135.236,Big Dry,gdd
+2097,"Accelerating Emissions
+(SSP5-8.5)",5417.764,3969.332,4446.072,Big Dry,gdd
+2098,"Moderating Emissions
+(SSP1-2.6)",3619.321,3071.387,3325.952,Big Dry,gdd
+2098,"Middle of the Road
+(SSP2-4.5)",3979.596,3365.283,3690.392,Big Dry,gdd
+2098,"High Emissions
+(SSP3-7.0)",4472.461,3818.88,4071.347,Big Dry,gdd
+2098,"Accelerating Emissions
+(SSP5-8.5)",4971.63,4186.667,4541.971,Big Dry,gdd
+2099,"Moderating Emissions
+(SSP1-2.6)",3590.333,2898.756,3441.983,Big Dry,gdd
+2099,"Middle of the Road
+(SSP2-4.5)",3931.585,3244.542,3641.315,Big Dry,gdd
+2099,"High Emissions
+(SSP3-7.0)",4781.192,3803.46,4024.72,Big Dry,gdd
+2099,"Accelerating Emissions
+(SSP5-8.5)",5086.792,4071.018,4590.776,Big Dry,gdd
+2100,"Moderating Emissions
+(SSP1-2.6)",3707.066,2734.922,3113.888,Big Dry,gdd
+2100,"Middle of the Road
+(SSP2-4.5)",4016.462,3352.859,3710.35,Big Dry,gdd
+2100,"High Emissions
+(SSP3-7.0)",4381.704,3787.051,4206.417,Big Dry,gdd
+2100,"Accelerating Emissions
+(SSP5-8.5)",5126.642,4022.317,4397.421,Big Dry,gdd

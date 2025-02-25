@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,59.507,55.976,57.265,Chouteau County,tasmax
+1951,Historical Emissions,58.302,55.474,57.252,Chouteau County,tasmax
+1952,Historical Emissions,58.107,54.298,56.21,Chouteau County,tasmax
+1953,Historical Emissions,57.814,54.656,56.229,Chouteau County,tasmax
+1954,Historical Emissions,58.597,53.337,56.129,Chouteau County,tasmax
+1955,Historical Emissions,59.472,54.605,55.747,Chouteau County,tasmax
+1956,Historical Emissions,59.72,55.055,56.874,Chouteau County,tasmax
+1957,Historical Emissions,59.99,54.653,57.231,Chouteau County,tasmax
+1958,Historical Emissions,57.63,54.456,56.09,Chouteau County,tasmax
+1959,Historical Emissions,56.411,53.336,55.26,Chouteau County,tasmax
+1960,Historical Emissions,58.064,53.558,55.229,Chouteau County,tasmax
+1961,Historical Emissions,58.441,54.463,56.642,Chouteau County,tasmax
+1962,Historical Emissions,56.825,53.287,55.463,Chouteau County,tasmax
+1963,Historical Emissions,55.992,54.024,55.374,Chouteau County,tasmax
+1964,Historical Emissions,57.782,54.135,56.839,Chouteau County,tasmax
+1965,Historical Emissions,57.409,54.937,56.272,Chouteau County,tasmax
+1966,Historical Emissions,59.229,54.212,55.313,Chouteau County,tasmax
+1967,Historical Emissions,57.228,54.515,55.893,Chouteau County,tasmax
+1968,Historical Emissions,56.694,52.657,54.732,Chouteau County,tasmax
+1969,Historical Emissions,57.192,54.199,56.389,Chouteau County,tasmax
+1970,Historical Emissions,57.668,54.774,56.206,Chouteau County,tasmax
+1971,Historical Emissions,59.654,55.319,57.714,Chouteau County,tasmax
+1972,Historical Emissions,57.172,54.569,56.209,Chouteau County,tasmax
+1973,Historical Emissions,58.064,53.761,55.795,Chouteau County,tasmax
+1974,Historical Emissions,57.814,53.515,57.322,Chouteau County,tasmax
+1975,Historical Emissions,57.793,53.825,56.771,Chouteau County,tasmax
+1976,Historical Emissions,57.187,54.579,55.474,Chouteau County,tasmax
+1977,Historical Emissions,58.458,55.093,57.317,Chouteau County,tasmax
+1978,Historical Emissions,58.501,54.19,55.838,Chouteau County,tasmax
+1979,Historical Emissions,59.086,54.388,57.294,Chouteau County,tasmax
+1980,Historical Emissions,57.739,54.663,56.052,Chouteau County,tasmax
+1981,Historical Emissions,58.917,55.401,56.808,Chouteau County,tasmax
+1982,Historical Emissions,58.054,55.65,56.531,Chouteau County,tasmax
+1983,Historical Emissions,57.947,54.617,55.801,Chouteau County,tasmax
+1984,Historical Emissions,58.387,54.885,56.44,Chouteau County,tasmax
+1985,Historical Emissions,58.209,54.94,56.578,Chouteau County,tasmax
+1986,Historical Emissions,55.848,53.75,54.851,Chouteau County,tasmax
+1987,Historical Emissions,57.982,52.871,54.677,Chouteau County,tasmax
+1988,Historical Emissions,58.225,54.195,56.28,Chouteau County,tasmax
+1989,Historical Emissions,58.437,55.119,56.701,Chouteau County,tasmax
+1990,Historical Emissions,60.521,55.119,57.095,Chouteau County,tasmax
+1991,Historical Emissions,58.682,54.12,55.797,Chouteau County,tasmax
+1992,Historical Emissions,58.256,54.424,55.389,Chouteau County,tasmax
+1993,Historical Emissions,58.082,54.58,56.015,Chouteau County,tasmax
+1994,Historical Emissions,59.443,54.663,56.063,Chouteau County,tasmax
+1995,Historical Emissions,59.4,55.18,55.931,Chouteau County,tasmax
+1996,Historical Emissions,59.994,57.128,58.046,Chouteau County,tasmax
+1997,Historical Emissions,59.823,54.22,56.811,Chouteau County,tasmax
+1998,Historical Emissions,59.067,54.34,56.558,Chouteau County,tasmax
+1999,Historical Emissions,58.839,55.829,57.034,Chouteau County,tasmax
+2000,Historical Emissions,58.319,55.321,56.971,Chouteau County,tasmax
+2001,Historical Emissions,58.562,55.866,57.024,Chouteau County,tasmax
+2002,Historical Emissions,60.935,55.338,56.723,Chouteau County,tasmax
+2003,Historical Emissions,59.919,56.338,57.372,Chouteau County,tasmax
+2004,Historical Emissions,59.557,57.902,58.553,Chouteau County,tasmax
+2005,Historical Emissions,61.014,56.818,58.859,Chouteau County,tasmax
+2006,Historical Emissions,59.388,54.72,56.752,Chouteau County,tasmax
+2007,Historical Emissions,59.546,56.395,58.155,Chouteau County,tasmax
+2008,Historical Emissions,59.032,56.311,58.375,Chouteau County,tasmax
+2009,Historical Emissions,58.515,55.904,57.971,Chouteau County,tasmax
+2010,Historical Emissions,59.282,56.815,58.314,Chouteau County,tasmax
+2011,Historical Emissions,59.939,56.959,57.82,Chouteau County,tasmax
+2012,Historical Emissions,60.065,56.137,58.946,Chouteau County,tasmax
+2013,Historical Emissions,61.072,56.897,57.964,Chouteau County,tasmax
+2014,Historical Emissions,60.675,57.101,58.832,Chouteau County,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",61.771,57.58,59.387,Chouteau County,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",61.281,55.694,58.074,Chouteau County,tasmax
+2015,"High Emissions
+(SSP3-7.0)",60.186,56.899,58.443,Chouteau County,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",60.319,57.338,58.127,Chouteau County,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",60.76,57.632,59.346,Chouteau County,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",60.063,56.624,58.347,Chouteau County,tasmax
+2016,"High Emissions
+(SSP3-7.0)",61.945,56.501,59.754,Chouteau County,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",60.412,56.809,59.267,Chouteau County,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",59.889,57.36,58.16,Chouteau County,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",61.306,56.728,58.582,Chouteau County,tasmax
+2017,"High Emissions
+(SSP3-7.0)",59.989,57.083,58.646,Chouteau County,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",61.127,57.821,59.36,Chouteau County,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",59.695,57.226,58.258,Chouteau County,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",61.155,57.197,58.236,Chouteau County,tasmax
+2018,"High Emissions
+(SSP3-7.0)",60.444,55.546,58.566,Chouteau County,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",59.55,56.806,58.751,Chouteau County,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",61.754,58.654,60.803,Chouteau County,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",60.077,56.162,58.204,Chouteau County,tasmax
+2019,"High Emissions
+(SSP3-7.0)",61.996,56.21,57.611,Chouteau County,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",63.161,57.982,59.21,Chouteau County,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",63.167,56.66,58.6,Chouteau County,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",60.316,57.152,58.604,Chouteau County,tasmax
+2020,"High Emissions
+(SSP3-7.0)",60.279,56.657,58.882,Chouteau County,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",60.686,57.183,59.249,Chouteau County,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",61.868,57.973,59.475,Chouteau County,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",61.947,57.516,59.65,Chouteau County,tasmax
+2021,"High Emissions
+(SSP3-7.0)",60.855,58.355,59.444,Chouteau County,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",60.556,58.09,59.158,Chouteau County,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",61.038,57.496,59.299,Chouteau County,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",62.096,57.476,59.534,Chouteau County,tasmax
+2022,"High Emissions
+(SSP3-7.0)",59.895,57.264,58.453,Chouteau County,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",61.613,57.504,59.7,Chouteau County,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",59.82,58.694,59.203,Chouteau County,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",61.247,57.846,59.052,Chouteau County,tasmax
+2023,"High Emissions
+(SSP3-7.0)",61.633,57.101,58.907,Chouteau County,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",59.39,55.763,57.269,Chouteau County,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",60.944,57.68,59.859,Chouteau County,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",60.383,57.161,58.991,Chouteau County,tasmax
+2024,"High Emissions
+(SSP3-7.0)",61.73,57.846,59.603,Chouteau County,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",62.506,56.961,58.941,Chouteau County,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",61.415,59.217,60.457,Chouteau County,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",61.244,55.95,57.868,Chouteau County,tasmax
+2025,"High Emissions
+(SSP3-7.0)",61.96,59.153,59.98,Chouteau County,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",61.982,59.082,59.53,Chouteau County,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",62.119,56.931,59.755,Chouteau County,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",61.569,57.452,59.738,Chouteau County,tasmax
+2026,"High Emissions
+(SSP3-7.0)",61.192,55.598,58.993,Chouteau County,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",62.011,57.779,58.62,Chouteau County,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",61.324,57.271,58.604,Chouteau County,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",62.014,57.085,60.232,Chouteau County,tasmax
+2027,"High Emissions
+(SSP3-7.0)",61.578,57.478,58.874,Chouteau County,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",61.86,57.882,60.317,Chouteau County,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",61.31,57.621,59.781,Chouteau County,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",60.083,55.994,58.635,Chouteau County,tasmax
+2028,"High Emissions
+(SSP3-7.0)",60.589,58.838,60.052,Chouteau County,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",61.92,58.552,59.309,Chouteau County,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",63.061,59.37,60.416,Chouteau County,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",61.484,57.269,58.885,Chouteau County,tasmax
+2029,"High Emissions
+(SSP3-7.0)",61.446,56.745,58.958,Chouteau County,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",61.814,58.57,59.702,Chouteau County,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",62.361,57.916,59.159,Chouteau County,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",62.854,58.929,60.518,Chouteau County,tasmax
+2030,"High Emissions
+(SSP3-7.0)",63.03,58.244,59.057,Chouteau County,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",63.128,57.503,60.157,Chouteau County,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",61.821,57.589,60.511,Chouteau County,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",62.477,58.195,59.44,Chouteau County,tasmax
+2031,"High Emissions
+(SSP3-7.0)",62.723,57.76,60.784,Chouteau County,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",63.203,59.439,61.491,Chouteau County,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",61.082,57.346,59.57,Chouteau County,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",60.872,57.861,58.884,Chouteau County,tasmax
+2032,"High Emissions
+(SSP3-7.0)",62.636,57.965,59.082,Chouteau County,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",63.194,57.017,58.877,Chouteau County,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",62.546,58.136,60.431,Chouteau County,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",62.676,58.38,60.591,Chouteau County,tasmax
+2033,"High Emissions
+(SSP3-7.0)",60.842,57.469,59.6,Chouteau County,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",62.154,58.228,61.147,Chouteau County,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",62.478,57.728,59.607,Chouteau County,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",61.691,58.706,60.041,Chouteau County,tasmax
+2034,"High Emissions
+(SSP3-7.0)",63.118,58.443,60.519,Chouteau County,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",62.406,57.485,59.161,Chouteau County,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",63.124,57.885,60.937,Chouteau County,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",62.63,57.833,60.629,Chouteau County,tasmax
+2035,"High Emissions
+(SSP3-7.0)",60.902,57.03,59.105,Chouteau County,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",62.572,58.128,60.555,Chouteau County,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",62.035,59.196,61.245,Chouteau County,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",61.109,57.878,60.12,Chouteau County,tasmax
+2036,"High Emissions
+(SSP3-7.0)",61.312,58.416,60.474,Chouteau County,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",62.849,56.286,61.457,Chouteau County,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",62.794,59.18,61.142,Chouteau County,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",62.614,57.134,60.256,Chouteau County,tasmax
+2037,"High Emissions
+(SSP3-7.0)",62.179,57.019,58.686,Chouteau County,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",63.219,58.243,60.868,Chouteau County,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",62.367,58.717,60.385,Chouteau County,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",61.546,57.81,59.408,Chouteau County,tasmax
+2038,"High Emissions
+(SSP3-7.0)",62.532,58.718,60.518,Chouteau County,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",63.971,57.562,61.697,Chouteau County,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",63.124,57.759,61.034,Chouteau County,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",61.851,58.576,59.868,Chouteau County,tasmax
+2039,"High Emissions
+(SSP3-7.0)",62.861,59.959,61.27,Chouteau County,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",63.217,58.018,59.805,Chouteau County,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",62.121,58.062,61.021,Chouteau County,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",61.623,59.008,61.341,Chouteau County,tasmax
+2040,"High Emissions
+(SSP3-7.0)",62.805,59.447,60.631,Chouteau County,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",65.579,59.655,61.073,Chouteau County,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",61.617,57.23,59.605,Chouteau County,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",62.257,59.13,60.568,Chouteau County,tasmax
+2041,"High Emissions
+(SSP3-7.0)",62.138,58.711,59.785,Chouteau County,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",61.144,59.217,60.104,Chouteau County,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",63.794,58.733,60.083,Chouteau County,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",60.894,57.68,60.447,Chouteau County,tasmax
+2042,"High Emissions
+(SSP3-7.0)",61.394,58.629,60.215,Chouteau County,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",63.415,59.109,61.582,Chouteau County,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",61.426,58.523,60.393,Chouteau County,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",63.118,58.708,60.01,Chouteau County,tasmax
+2043,"High Emissions
+(SSP3-7.0)",61.872,57.254,60.619,Chouteau County,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",62.591,59.787,61.145,Chouteau County,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",62.695,59.248,59.745,Chouteau County,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",64.73,59.438,61.398,Chouteau County,tasmax
+2044,"High Emissions
+(SSP3-7.0)",62.366,59.761,60.707,Chouteau County,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",64.707,58.621,60.578,Chouteau County,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",62.047,58.818,60.733,Chouteau County,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",63.69,58.623,61.946,Chouteau County,tasmax
+2045,"High Emissions
+(SSP3-7.0)",62.169,58.326,60.826,Chouteau County,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",62.342,58.767,60.585,Chouteau County,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",65.001,57.775,60.975,Chouteau County,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",62.338,57.809,60.985,Chouteau County,tasmax
+2046,"High Emissions
+(SSP3-7.0)",62.307,59.762,61.18,Chouteau County,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",62.925,58.722,59.58,Chouteau County,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",62.703,59.801,60.996,Chouteau County,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",62.554,56.186,60.503,Chouteau County,tasmax
+2047,"High Emissions
+(SSP3-7.0)",61.541,59.233,60.473,Chouteau County,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",64.981,59.361,62.644,Chouteau County,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",61.957,59.217,59.635,Chouteau County,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",63.951,58.595,61.66,Chouteau County,tasmax
+2048,"High Emissions
+(SSP3-7.0)",63.622,58.008,61.431,Chouteau County,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",67.672,59.613,63.167,Chouteau County,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",62.092,58.58,59.114,Chouteau County,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",63.647,60.013,61.815,Chouteau County,tasmax
+2049,"High Emissions
+(SSP3-7.0)",63.279,59.289,61.966,Chouteau County,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",63.329,60.13,62.024,Chouteau County,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",63.273,57.886,60.744,Chouteau County,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",63.514,59.587,62.211,Chouteau County,tasmax
+2050,"High Emissions
+(SSP3-7.0)",63.434,59.383,61.431,Chouteau County,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",64.439,59.904,62.429,Chouteau County,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",63.083,58.007,61.315,Chouteau County,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",64.256,59.701,61.574,Chouteau County,tasmax
+2051,"High Emissions
+(SSP3-7.0)",63.215,60.345,61.204,Chouteau County,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",63.29,59.949,62.149,Chouteau County,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",61.927,59.042,60.568,Chouteau County,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",63.703,59.638,60.466,Chouteau County,tasmax
+2052,"High Emissions
+(SSP3-7.0)",64.266,58.137,60.696,Chouteau County,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",63.155,61.036,62.058,Chouteau County,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",62.73,58.296,60.119,Chouteau County,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",62.671,58.878,61.527,Chouteau County,tasmax
+2053,"High Emissions
+(SSP3-7.0)",65.323,60.478,64.217,Chouteau County,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",65.433,60.282,61.745,Chouteau County,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",63.355,59.739,61.525,Chouteau County,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",62.816,58.496,60.007,Chouteau County,tasmax
+2054,"High Emissions
+(SSP3-7.0)",63.724,59.132,60.486,Chouteau County,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",64.813,60.95,62.232,Chouteau County,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",62.654,60.404,61.682,Chouteau County,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",64.374,58.535,61.743,Chouteau County,tasmax
+2055,"High Emissions
+(SSP3-7.0)",63.71,60.383,61.567,Chouteau County,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",64.892,60.495,63.942,Chouteau County,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",62.583,59.832,61.5,Chouteau County,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",63.426,59.735,61.487,Chouteau County,tasmax
+2056,"High Emissions
+(SSP3-7.0)",64.161,59.538,61.692,Chouteau County,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",64.428,60.773,63.57,Chouteau County,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",62.238,57.446,60.879,Chouteau County,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",63.119,60.837,61.915,Chouteau County,tasmax
+2057,"High Emissions
+(SSP3-7.0)",63.346,59.599,59.885,Chouteau County,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",64.21,58.425,61.857,Chouteau County,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",63.56,59.071,61.2,Chouteau County,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",64.688,59.944,63.122,Chouteau County,tasmax
+2058,"High Emissions
+(SSP3-7.0)",63.631,59.921,61.742,Chouteau County,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",64.694,59.747,61.305,Chouteau County,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",63.761,59.433,60.755,Chouteau County,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",66.177,59.319,63.426,Chouteau County,tasmax
+2059,"High Emissions
+(SSP3-7.0)",66.369,59.966,62.571,Chouteau County,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",65.504,62.056,63.891,Chouteau County,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",63.778,59.209,60.621,Chouteau County,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",64.76,59.965,61.301,Chouteau County,tasmax
+2060,"High Emissions
+(SSP3-7.0)",63.241,59.945,61.962,Chouteau County,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",63.894,61.125,62.719,Chouteau County,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",62.949,59.672,60.299,Chouteau County,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",63.922,59.33,61.753,Chouteau County,tasmax
+2061,"High Emissions
+(SSP3-7.0)",64.065,60.154,62.717,Chouteau County,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",66.94,62.029,63.531,Chouteau County,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",62.589,59.189,60.295,Chouteau County,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",62.938,59.527,60.786,Chouteau County,tasmax
+2062,"High Emissions
+(SSP3-7.0)",63.333,60.845,62.145,Chouteau County,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",65.135,61.814,64.166,Chouteau County,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",62.862,59.368,60.77,Chouteau County,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",62.737,58.858,60.958,Chouteau County,tasmax
+2063,"High Emissions
+(SSP3-7.0)",64.745,60.139,62.572,Chouteau County,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",65.936,60.657,63.713,Chouteau County,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",63.556,58.867,61.615,Chouteau County,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",61.769,59.813,60.896,Chouteau County,tasmax
+2064,"High Emissions
+(SSP3-7.0)",63.743,59.893,61.664,Chouteau County,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",64.232,61.873,63.498,Chouteau County,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",63.204,57.495,60.008,Chouteau County,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",64.011,58.686,60.666,Chouteau County,tasmax
+2065,"High Emissions
+(SSP3-7.0)",64.658,60.626,62.038,Chouteau County,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",67.121,61.715,63.965,Chouteau County,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",64.559,59.237,61.576,Chouteau County,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",64.028,60.46,62.392,Chouteau County,tasmax
+2066,"High Emissions
+(SSP3-7.0)",64.635,60.307,61.689,Chouteau County,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",67.097,60.945,64.63,Chouteau County,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",63.219,60.845,61.529,Chouteau County,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",63.839,60.113,61.565,Chouteau County,tasmax
+2067,"High Emissions
+(SSP3-7.0)",66.82,62.51,63.811,Chouteau County,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",66.527,61.654,63.081,Chouteau County,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",63.402,58.298,60.659,Chouteau County,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",63.249,59.704,61.839,Chouteau County,tasmax
+2068,"High Emissions
+(SSP3-7.0)",65.621,60.12,61.839,Chouteau County,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",66.04,62.614,63.932,Chouteau County,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",64.542,59.417,62.09,Chouteau County,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",62.275,59.673,60.796,Chouteau County,tasmax
+2069,"High Emissions
+(SSP3-7.0)",68.396,62.601,63.949,Chouteau County,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",69.17,62.209,64.765,Chouteau County,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",62.03,59.38,61.12,Chouteau County,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",64.288,58.361,61.538,Chouteau County,tasmax
+2070,"High Emissions
+(SSP3-7.0)",65.971,62.36,63.303,Chouteau County,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",69.061,63.117,64.184,Chouteau County,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",65.648,57.843,60.58,Chouteau County,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",63.568,60.033,61.683,Chouteau County,tasmax
+2071,"High Emissions
+(SSP3-7.0)",65.529,62.003,64.047,Chouteau County,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",67.572,62.355,63.604,Chouteau County,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",64.462,60.208,60.883,Chouteau County,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",63.822,58.403,62.047,Chouteau County,tasmax
+2072,"High Emissions
+(SSP3-7.0)",65.776,60.672,63.408,Chouteau County,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",66.085,62.808,64.245,Chouteau County,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",62.481,58.679,60.935,Chouteau County,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",63.851,58.03,61.956,Chouteau County,tasmax
+2073,"High Emissions
+(SSP3-7.0)",65.178,61.997,63.756,Chouteau County,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",66.626,61.747,64.273,Chouteau County,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",64.276,57.742,61.594,Chouteau County,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",64.634,60.094,61.887,Chouteau County,tasmax
+2074,"High Emissions
+(SSP3-7.0)",65.253,60.905,62.407,Chouteau County,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",68.314,62.251,64.345,Chouteau County,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",65.008,57.302,60.517,Chouteau County,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",65.502,59.682,60.649,Chouteau County,tasmax
+2075,"High Emissions
+(SSP3-7.0)",66.57,60.219,62.213,Chouteau County,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",67.637,62.854,63.98,Chouteau County,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",63.513,57.248,60.599,Chouteau County,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",62.285,60.147,61.142,Chouteau County,tasmax
+2076,"High Emissions
+(SSP3-7.0)",67.3,62.006,64.049,Chouteau County,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",68.249,61.998,65.358,Chouteau County,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",63.597,59.349,62,Chouteau County,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",64.701,61.106,62.269,Chouteau County,tasmax
+2077,"High Emissions
+(SSP3-7.0)",66.165,60.925,64.635,Chouteau County,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",68.279,63.017,65.213,Chouteau County,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",63.932,59.562,60.596,Chouteau County,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",63.758,61.037,62.081,Chouteau County,tasmax
+2078,"High Emissions
+(SSP3-7.0)",66.339,61.344,63.77,Chouteau County,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",64.604,62.563,63.62,Chouteau County,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",63.965,59.773,61.334,Chouteau County,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",64.225,60.231,62.174,Chouteau County,tasmax
+2079,"High Emissions
+(SSP3-7.0)",65.307,60.872,64.353,Chouteau County,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",68.128,62.827,65.266,Chouteau County,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",63.372,58.764,60.029,Chouteau County,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",64.426,59.686,61.755,Chouteau County,tasmax
+2080,"High Emissions
+(SSP3-7.0)",67.507,61.987,63.216,Chouteau County,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",68.491,63.814,65.961,Chouteau County,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",65.253,58.755,59.763,Chouteau County,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",64.35,60.856,61.917,Chouteau County,tasmax
+2081,"High Emissions
+(SSP3-7.0)",68.28,60.061,62.637,Chouteau County,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",69.649,64.231,66.477,Chouteau County,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",64.452,59.049,62.444,Chouteau County,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",65.921,60.5,62.222,Chouteau County,tasmax
+2082,"High Emissions
+(SSP3-7.0)",66.963,60.499,63.422,Chouteau County,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",70.209,63.404,67.407,Chouteau County,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",63.828,59.541,62.486,Chouteau County,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",65.617,59.427,62.435,Chouteau County,tasmax
+2083,"High Emissions
+(SSP3-7.0)",66.346,60.732,64.623,Chouteau County,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",69.173,64.234,67.988,Chouteau County,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",64.739,58.768,60.542,Chouteau County,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",66.101,61.072,62.698,Chouteau County,tasmax
+2084,"High Emissions
+(SSP3-7.0)",69.059,62.961,65.442,Chouteau County,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",69.406,63.845,66.086,Chouteau County,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",63.486,57.589,59.279,Chouteau County,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",63.978,59.682,62.221,Chouteau County,tasmax
+2085,"High Emissions
+(SSP3-7.0)",66.136,61.823,64.026,Chouteau County,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",69.761,63.61,66.926,Chouteau County,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",63.857,60.406,61.935,Chouteau County,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",65.686,61.591,62.129,Chouteau County,tasmax
+2086,"High Emissions
+(SSP3-7.0)",67.538,62.512,64.745,Chouteau County,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",69.519,63.797,66.98,Chouteau County,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",62.225,59.075,60.108,Chouteau County,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",65.751,61.52,63.59,Chouteau County,tasmax
+2087,"High Emissions
+(SSP3-7.0)",69.147,62.205,64.731,Chouteau County,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",68.93,64.092,65.833,Chouteau County,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",64.989,58.434,58.94,Chouteau County,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",65.319,61.991,63.448,Chouteau County,tasmax
+2088,"High Emissions
+(SSP3-7.0)",68.126,62.681,64.515,Chouteau County,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",68.927,64.889,66.958,Chouteau County,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",61.605,59.216,59.97,Chouteau County,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",65.131,60.104,62.877,Chouteau County,tasmax
+2089,"High Emissions
+(SSP3-7.0)",67.376,61.573,66.033,Chouteau County,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",69.537,64.981,67.861,Chouteau County,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",62.686,59.407,61.466,Chouteau County,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",64.563,61.068,63.02,Chouteau County,tasmax
+2090,"High Emissions
+(SSP3-7.0)",69.475,64.573,65.336,Chouteau County,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",69.997,65.913,67.616,Chouteau County,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",62.671,58.713,61.065,Chouteau County,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",64.781,60.495,62.996,Chouteau County,tasmax
+2091,"High Emissions
+(SSP3-7.0)",67.505,63.721,66.377,Chouteau County,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",70.839,63.695,65.67,Chouteau County,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",64.206,58.186,61.707,Chouteau County,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",66.237,59.525,63.597,Chouteau County,tasmax
+2092,"High Emissions
+(SSP3-7.0)",66.681,62.3,64.878,Chouteau County,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",71.087,64.981,67.314,Chouteau County,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",63.58,57.689,61.22,Chouteau County,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",64.982,59.578,62.067,Chouteau County,tasmax
+2093,"High Emissions
+(SSP3-7.0)",68.087,63.321,63.879,Chouteau County,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",70.576,65.739,67.461,Chouteau County,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",63.722,58.724,59.854,Chouteau County,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",67.581,58.947,63.191,Chouteau County,tasmax
+2094,"High Emissions
+(SSP3-7.0)",67.632,63.4,65.028,Chouteau County,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",71.91,65.338,69.508,Chouteau County,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",63.556,58.809,62.573,Chouteau County,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",65.943,61.473,64.952,Chouteau County,tasmax
+2095,"High Emissions
+(SSP3-7.0)",69.752,63.287,66.929,Chouteau County,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",70.6,64.504,66.436,Chouteau County,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",62.901,58.485,61.418,Chouteau County,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",65.512,62.29,63.568,Chouteau County,tasmax
+2096,"High Emissions
+(SSP3-7.0)",67.866,63.051,66.399,Chouteau County,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",70.305,65.223,67.075,Chouteau County,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",64.856,59.748,60.321,Chouteau County,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",66.879,61.742,63.306,Chouteau County,tasmax
+2097,"High Emissions
+(SSP3-7.0)",71.48,61.811,66.282,Chouteau County,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",73.875,65.099,67.102,Chouteau County,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",62.421,58.096,60.333,Chouteau County,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",64.65,60.974,63.077,Chouteau County,tasmax
+2098,"High Emissions
+(SSP3-7.0)",68.873,63.278,65.585,Chouteau County,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",69.933,65.607,68.111,Chouteau County,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",65.213,57.979,61.327,Chouteau County,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",65.052,60.141,62.384,Chouteau County,tasmax
+2099,"High Emissions
+(SSP3-7.0)",70.802,63.504,64.67,Chouteau County,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",72.831,65.805,69.368,Chouteau County,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",63.378,57.415,59.276,Chouteau County,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",67.354,60.607,63.606,Chouteau County,tasmax
+2100,"High Emissions
+(SSP3-7.0)",68.088,62.726,66.541,Chouteau County,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",72.167,65.176,67.244,Chouteau County,tasmax

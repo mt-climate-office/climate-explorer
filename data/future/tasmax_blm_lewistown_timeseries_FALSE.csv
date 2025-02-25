@@ -1,0 +1,754 @@
+year,scenario,upper,lower,value,location,variable
+1950,Historical Emissions,57.791,55.325,56.531,Lewistown,tasmax
+1951,Historical Emissions,57.436,54.534,56.54,Lewistown,tasmax
+1952,Historical Emissions,57.327,53.417,55.486,Lewistown,tasmax
+1953,Historical Emissions,57.094,53.956,55.803,Lewistown,tasmax
+1954,Historical Emissions,57.607,52.843,55.115,Lewistown,tasmax
+1955,Historical Emissions,58.532,53.724,54.94,Lewistown,tasmax
+1956,Historical Emissions,58.378,54.652,56.222,Lewistown,tasmax
+1957,Historical Emissions,59.213,53.654,56.273,Lewistown,tasmax
+1958,Historical Emissions,57.023,54.282,55.212,Lewistown,tasmax
+1959,Historical Emissions,55.374,53.032,54.41,Lewistown,tasmax
+1960,Historical Emissions,57.123,53.001,54.505,Lewistown,tasmax
+1961,Historical Emissions,57.509,53.751,55.737,Lewistown,tasmax
+1962,Historical Emissions,56.149,52.592,54.898,Lewistown,tasmax
+1963,Historical Emissions,55.238,53.25,54.667,Lewistown,tasmax
+1964,Historical Emissions,56.699,53.231,55.76,Lewistown,tasmax
+1965,Historical Emissions,56.724,53.919,55.541,Lewistown,tasmax
+1966,Historical Emissions,58.094,53.528,54.413,Lewistown,tasmax
+1967,Historical Emissions,56.538,54.085,55.038,Lewistown,tasmax
+1968,Historical Emissions,55.923,52.055,53.922,Lewistown,tasmax
+1969,Historical Emissions,56.184,53.464,55.252,Lewistown,tasmax
+1970,Historical Emissions,56.565,54.099,55.818,Lewistown,tasmax
+1971,Historical Emissions,58.735,54.596,56.713,Lewistown,tasmax
+1972,Historical Emissions,56.413,53.751,55.452,Lewistown,tasmax
+1973,Historical Emissions,57.164,53.342,55.272,Lewistown,tasmax
+1974,Historical Emissions,56.933,52.933,56.261,Lewistown,tasmax
+1975,Historical Emissions,56.989,53.077,56.122,Lewistown,tasmax
+1976,Historical Emissions,56.374,53.828,54.773,Lewistown,tasmax
+1977,Historical Emissions,57.602,54.413,56.278,Lewistown,tasmax
+1978,Historical Emissions,57.513,53.632,54.873,Lewistown,tasmax
+1979,Historical Emissions,58.18,53.717,56.565,Lewistown,tasmax
+1980,Historical Emissions,57.027,53.955,55.591,Lewistown,tasmax
+1981,Historical Emissions,57.984,54.641,56.134,Lewistown,tasmax
+1982,Historical Emissions,56.998,54.884,55.848,Lewistown,tasmax
+1983,Historical Emissions,57.196,54.138,55.164,Lewistown,tasmax
+1984,Historical Emissions,57.313,54.197,55.877,Lewistown,tasmax
+1985,Historical Emissions,57.189,54.477,55.868,Lewistown,tasmax
+1986,Historical Emissions,55.277,53.307,53.747,Lewistown,tasmax
+1987,Historical Emissions,56.887,52.319,54.243,Lewistown,tasmax
+1988,Historical Emissions,57.233,53.692,55.612,Lewistown,tasmax
+1989,Historical Emissions,57.481,54.523,56.01,Lewistown,tasmax
+1990,Historical Emissions,59.488,54.629,56.36,Lewistown,tasmax
+1991,Historical Emissions,57.846,53.648,54.91,Lewistown,tasmax
+1992,Historical Emissions,56.958,53.718,54.689,Lewistown,tasmax
+1993,Historical Emissions,57.101,53.739,55.255,Lewistown,tasmax
+1994,Historical Emissions,58.618,53.83,55.376,Lewistown,tasmax
+1995,Historical Emissions,58.173,54.339,55.158,Lewistown,tasmax
+1996,Historical Emissions,59.033,56.321,57.575,Lewistown,tasmax
+1997,Historical Emissions,58.674,53.555,55.784,Lewistown,tasmax
+1998,Historical Emissions,58.53,53.61,56.016,Lewistown,tasmax
+1999,Historical Emissions,58.016,55.156,56.35,Lewistown,tasmax
+2000,Historical Emissions,57.478,54.637,56.203,Lewistown,tasmax
+2001,Historical Emissions,57.801,55.215,56.469,Lewistown,tasmax
+2002,Historical Emissions,60,55.024,55.98,Lewistown,tasmax
+2003,Historical Emissions,59.049,55.911,56.772,Lewistown,tasmax
+2004,Historical Emissions,58.675,57.063,57.82,Lewistown,tasmax
+2005,Historical Emissions,59.964,55.996,58.179,Lewistown,tasmax
+2006,Historical Emissions,58.788,54.322,55.939,Lewistown,tasmax
+2007,Historical Emissions,58.631,55.507,57.26,Lewistown,tasmax
+2008,Historical Emissions,58.11,55.651,57.348,Lewistown,tasmax
+2009,Historical Emissions,57.806,55.247,57.222,Lewistown,tasmax
+2010,Historical Emissions,58.246,55.993,57.56,Lewistown,tasmax
+2011,Historical Emissions,59.207,56.051,57.098,Lewistown,tasmax
+2012,Historical Emissions,58.978,55.665,58.095,Lewistown,tasmax
+2013,Historical Emissions,60.273,55.767,57.291,Lewistown,tasmax
+2014,Historical Emissions,59.926,56.392,58.408,Lewistown,tasmax
+2015,"Moderating Emissions
+(SSP1-2.6)",60.812,57.203,58.451,Lewistown,tasmax
+2015,"Middle of the Road
+(SSP2-4.5)",60.134,55.404,57.577,Lewistown,tasmax
+2015,"High Emissions
+(SSP3-7.0)",59.498,55.951,57.629,Lewistown,tasmax
+2015,"Accelerating Emissions
+(SSP5-8.5)",59.05,56.559,57.467,Lewistown,tasmax
+2016,"Moderating Emissions
+(SSP1-2.6)",60.116,57.231,58.618,Lewistown,tasmax
+2016,"Middle of the Road
+(SSP2-4.5)",59.209,55.985,57.593,Lewistown,tasmax
+2016,"High Emissions
+(SSP3-7.0)",60.81,55.916,59.165,Lewistown,tasmax
+2016,"Accelerating Emissions
+(SSP5-8.5)",59.389,56.124,58.513,Lewistown,tasmax
+2017,"Moderating Emissions
+(SSP1-2.6)",59.429,56.587,57.445,Lewistown,tasmax
+2017,"Middle of the Road
+(SSP2-4.5)",60.516,56.369,57.928,Lewistown,tasmax
+2017,"High Emissions
+(SSP3-7.0)",58.932,56.904,57.957,Lewistown,tasmax
+2017,"Accelerating Emissions
+(SSP5-8.5)",60.183,57.065,58.441,Lewistown,tasmax
+2018,"Moderating Emissions
+(SSP1-2.6)",58.923,56.729,57.371,Lewistown,tasmax
+2018,"Middle of the Road
+(SSP2-4.5)",60.18,56.424,57.509,Lewistown,tasmax
+2018,"High Emissions
+(SSP3-7.0)",59.628,55.176,57.46,Lewistown,tasmax
+2018,"Accelerating Emissions
+(SSP5-8.5)",58.673,56.339,58.125,Lewistown,tasmax
+2019,"Moderating Emissions
+(SSP1-2.6)",60.817,58.063,59.911,Lewistown,tasmax
+2019,"Middle of the Road
+(SSP2-4.5)",59.542,55.44,57.425,Lewistown,tasmax
+2019,"High Emissions
+(SSP3-7.0)",61.052,55.491,56.896,Lewistown,tasmax
+2019,"Accelerating Emissions
+(SSP5-8.5)",61.941,57.24,58.338,Lewistown,tasmax
+2020,"Moderating Emissions
+(SSP1-2.6)",61.834,56.471,57.887,Lewistown,tasmax
+2020,"Middle of the Road
+(SSP2-4.5)",59.516,56.242,57.816,Lewistown,tasmax
+2020,"High Emissions
+(SSP3-7.0)",59.531,56.063,57.852,Lewistown,tasmax
+2020,"Accelerating Emissions
+(SSP5-8.5)",59.743,56.519,58.389,Lewistown,tasmax
+2021,"Moderating Emissions
+(SSP1-2.6)",60.855,57.162,58.506,Lewistown,tasmax
+2021,"Middle of the Road
+(SSP2-4.5)",60.51,56.841,58.879,Lewistown,tasmax
+2021,"High Emissions
+(SSP3-7.0)",60.029,57.464,58.464,Lewistown,tasmax
+2021,"Accelerating Emissions
+(SSP5-8.5)",59.911,57.396,58.71,Lewistown,tasmax
+2022,"Moderating Emissions
+(SSP1-2.6)",60.106,56.81,58.334,Lewistown,tasmax
+2022,"Middle of the Road
+(SSP2-4.5)",61.155,56.959,58.667,Lewistown,tasmax
+2022,"High Emissions
+(SSP3-7.0)",59.128,56.699,57.807,Lewistown,tasmax
+2022,"Accelerating Emissions
+(SSP5-8.5)",60.9,56.765,59.096,Lewistown,tasmax
+2023,"Moderating Emissions
+(SSP1-2.6)",59.02,57.949,58.386,Lewistown,tasmax
+2023,"Middle of the Road
+(SSP2-4.5)",60.504,57.247,58.059,Lewistown,tasmax
+2023,"High Emissions
+(SSP3-7.0)",60.547,56.299,58.122,Lewistown,tasmax
+2023,"Accelerating Emissions
+(SSP5-8.5)",58.613,55.211,56.749,Lewistown,tasmax
+2024,"Moderating Emissions
+(SSP1-2.6)",60.131,57.074,59.189,Lewistown,tasmax
+2024,"Middle of the Road
+(SSP2-4.5)",59.872,56.671,58.428,Lewistown,tasmax
+2024,"High Emissions
+(SSP3-7.0)",60.935,57.057,58.451,Lewistown,tasmax
+2024,"Accelerating Emissions
+(SSP5-8.5)",61.573,56.127,58.099,Lewistown,tasmax
+2025,"Moderating Emissions
+(SSP1-2.6)",60.456,58.283,59.594,Lewistown,tasmax
+2025,"Middle of the Road
+(SSP2-4.5)",60.526,55.581,57.195,Lewistown,tasmax
+2025,"High Emissions
+(SSP3-7.0)",61.166,58.551,59.415,Lewistown,tasmax
+2025,"Accelerating Emissions
+(SSP5-8.5)",61.116,58.214,58.584,Lewistown,tasmax
+2026,"Moderating Emissions
+(SSP1-2.6)",60.98,56.374,58.727,Lewistown,tasmax
+2026,"Middle of the Road
+(SSP2-4.5)",60.908,56.919,58.794,Lewistown,tasmax
+2026,"High Emissions
+(SSP3-7.0)",60.367,55.097,57.996,Lewistown,tasmax
+2026,"Accelerating Emissions
+(SSP5-8.5)",61.254,57.02,58.208,Lewistown,tasmax
+2027,"Moderating Emissions
+(SSP1-2.6)",60.294,56.377,57.766,Lewistown,tasmax
+2027,"Middle of the Road
+(SSP2-4.5)",61.672,56.494,59.174,Lewistown,tasmax
+2027,"High Emissions
+(SSP3-7.0)",60.807,56.953,58.193,Lewistown,tasmax
+2027,"Accelerating Emissions
+(SSP5-8.5)",60.85,57.433,59.398,Lewistown,tasmax
+2028,"Moderating Emissions
+(SSP1-2.6)",60.466,56.796,58.956,Lewistown,tasmax
+2028,"Middle of the Road
+(SSP2-4.5)",59.478,55.424,57.987,Lewistown,tasmax
+2028,"High Emissions
+(SSP3-7.0)",59.755,57.951,59.216,Lewistown,tasmax
+2028,"Accelerating Emissions
+(SSP5-8.5)",60.832,57.848,58.569,Lewistown,tasmax
+2029,"Moderating Emissions
+(SSP1-2.6)",62.306,58.499,59.798,Lewistown,tasmax
+2029,"Middle of the Road
+(SSP2-4.5)",60.809,56.725,58.343,Lewistown,tasmax
+2029,"High Emissions
+(SSP3-7.0)",60.437,55.999,58.229,Lewistown,tasmax
+2029,"Accelerating Emissions
+(SSP5-8.5)",61.05,57.769,59.295,Lewistown,tasmax
+2030,"Moderating Emissions
+(SSP1-2.6)",61.441,57.397,58.739,Lewistown,tasmax
+2030,"Middle of the Road
+(SSP2-4.5)",61.301,58.171,59.403,Lewistown,tasmax
+2030,"High Emissions
+(SSP3-7.0)",61.825,57.559,58.397,Lewistown,tasmax
+2030,"Accelerating Emissions
+(SSP5-8.5)",62.178,57.121,59.5,Lewistown,tasmax
+2031,"Moderating Emissions
+(SSP1-2.6)",60.979,57.323,59.352,Lewistown,tasmax
+2031,"Middle of the Road
+(SSP2-4.5)",61.846,57.48,58.906,Lewistown,tasmax
+2031,"High Emissions
+(SSP3-7.0)",62.205,57.268,60.014,Lewistown,tasmax
+2031,"Accelerating Emissions
+(SSP5-8.5)",62.106,58.788,60.583,Lewistown,tasmax
+2032,"Moderating Emissions
+(SSP1-2.6)",60.19,56.511,59.053,Lewistown,tasmax
+2032,"Middle of the Road
+(SSP2-4.5)",60.192,57.332,57.971,Lewistown,tasmax
+2032,"High Emissions
+(SSP3-7.0)",61.85,57.18,58.16,Lewistown,tasmax
+2032,"Accelerating Emissions
+(SSP5-8.5)",61.722,56.367,58.635,Lewistown,tasmax
+2033,"Moderating Emissions
+(SSP1-2.6)",61.49,57.817,59.038,Lewistown,tasmax
+2033,"Middle of the Road
+(SSP2-4.5)",61.471,57.612,59.864,Lewistown,tasmax
+2033,"High Emissions
+(SSP3-7.0)",60.306,56.781,58.876,Lewistown,tasmax
+2033,"Accelerating Emissions
+(SSP5-8.5)",61.304,57.619,60.359,Lewistown,tasmax
+2034,"Moderating Emissions
+(SSP1-2.6)",61.507,57.186,58.441,Lewistown,tasmax
+2034,"Middle of the Road
+(SSP2-4.5)",61.06,57.709,59.216,Lewistown,tasmax
+2034,"High Emissions
+(SSP3-7.0)",61.993,57.905,60.046,Lewistown,tasmax
+2034,"Accelerating Emissions
+(SSP5-8.5)",61.628,56.529,58.863,Lewistown,tasmax
+2035,"Moderating Emissions
+(SSP1-2.6)",62.12,57.264,59.999,Lewistown,tasmax
+2035,"Middle of the Road
+(SSP2-4.5)",61.868,57.752,59.511,Lewistown,tasmax
+2035,"High Emissions
+(SSP3-7.0)",60.124,56.49,58.839,Lewistown,tasmax
+2035,"Accelerating Emissions
+(SSP5-8.5)",61.535,57.444,60.105,Lewistown,tasmax
+2036,"Moderating Emissions
+(SSP1-2.6)",61.204,58.566,60.1,Lewistown,tasmax
+2036,"Middle of the Road
+(SSP2-4.5)",60.351,57.267,59.386,Lewistown,tasmax
+2036,"High Emissions
+(SSP3-7.0)",60.586,57.865,59.646,Lewistown,tasmax
+2036,"Accelerating Emissions
+(SSP5-8.5)",62.063,55.548,60.67,Lewistown,tasmax
+2037,"Moderating Emissions
+(SSP1-2.6)",61.609,58.293,60.524,Lewistown,tasmax
+2037,"Middle of the Road
+(SSP2-4.5)",62.068,56.469,59.381,Lewistown,tasmax
+2037,"High Emissions
+(SSP3-7.0)",61.346,56.319,58.072,Lewistown,tasmax
+2037,"Accelerating Emissions
+(SSP5-8.5)",62.075,57.537,60.049,Lewistown,tasmax
+2038,"Moderating Emissions
+(SSP1-2.6)",61.509,58.058,59.613,Lewistown,tasmax
+2038,"Middle of the Road
+(SSP2-4.5)",60.861,57.235,58.739,Lewistown,tasmax
+2038,"High Emissions
+(SSP3-7.0)",61.52,58.112,59.96,Lewistown,tasmax
+2038,"Accelerating Emissions
+(SSP5-8.5)",62.731,56.823,60.806,Lewistown,tasmax
+2039,"Moderating Emissions
+(SSP1-2.6)",62.058,56.9,60.392,Lewistown,tasmax
+2039,"Middle of the Road
+(SSP2-4.5)",60.608,57.687,59.21,Lewistown,tasmax
+2039,"High Emissions
+(SSP3-7.0)",61.898,59.342,60.235,Lewistown,tasmax
+2039,"Accelerating Emissions
+(SSP5-8.5)",62.697,57.289,59.144,Lewistown,tasmax
+2040,"Moderating Emissions
+(SSP1-2.6)",61.557,57.27,59.94,Lewistown,tasmax
+2040,"Middle of the Road
+(SSP2-4.5)",61.096,58.274,60.503,Lewistown,tasmax
+2040,"High Emissions
+(SSP3-7.0)",61.769,58.672,60.01,Lewistown,tasmax
+2040,"Accelerating Emissions
+(SSP5-8.5)",64.282,58.882,60.495,Lewistown,tasmax
+2041,"Moderating Emissions
+(SSP1-2.6)",61.078,56.595,59.311,Lewistown,tasmax
+2041,"Middle of the Road
+(SSP2-4.5)",61.212,58.596,59.897,Lewistown,tasmax
+2041,"High Emissions
+(SSP3-7.0)",61.325,57.8,58.944,Lewistown,tasmax
+2041,"Accelerating Emissions
+(SSP5-8.5)",60.363,58.57,59.454,Lewistown,tasmax
+2042,"Moderating Emissions
+(SSP1-2.6)",62.898,58.169,59.263,Lewistown,tasmax
+2042,"Middle of the Road
+(SSP2-4.5)",60.155,56.729,59.556,Lewistown,tasmax
+2042,"High Emissions
+(SSP3-7.0)",60.725,57.631,59.596,Lewistown,tasmax
+2042,"Accelerating Emissions
+(SSP5-8.5)",62.707,58.496,60.459,Lewistown,tasmax
+2043,"Moderating Emissions
+(SSP1-2.6)",60.579,57.659,59.694,Lewistown,tasmax
+2043,"Middle of the Road
+(SSP2-4.5)",62.352,58.007,59.317,Lewistown,tasmax
+2043,"High Emissions
+(SSP3-7.0)",60.981,56.53,59.953,Lewistown,tasmax
+2043,"Accelerating Emissions
+(SSP5-8.5)",61.698,58.851,60.321,Lewistown,tasmax
+2044,"Moderating Emissions
+(SSP1-2.6)",61.77,58.53,59.529,Lewistown,tasmax
+2044,"Middle of the Road
+(SSP2-4.5)",63.69,58.729,60.548,Lewistown,tasmax
+2044,"High Emissions
+(SSP3-7.0)",61.395,58.97,59.803,Lewistown,tasmax
+2044,"Accelerating Emissions
+(SSP5-8.5)",63.609,58.188,60.018,Lewistown,tasmax
+2045,"Moderating Emissions
+(SSP1-2.6)",61.205,58.164,60.021,Lewistown,tasmax
+2045,"Middle of the Road
+(SSP2-4.5)",62.822,57.97,60.839,Lewistown,tasmax
+2045,"High Emissions
+(SSP3-7.0)",61.525,57.748,60.333,Lewistown,tasmax
+2045,"Accelerating Emissions
+(SSP5-8.5)",61.606,58.703,59.685,Lewistown,tasmax
+2046,"Moderating Emissions
+(SSP1-2.6)",63.815,57.442,60.011,Lewistown,tasmax
+2046,"Middle of the Road
+(SSP2-4.5)",61.453,57.106,60.621,Lewistown,tasmax
+2046,"High Emissions
+(SSP3-7.0)",61.669,59.062,60.339,Lewistown,tasmax
+2046,"Accelerating Emissions
+(SSP5-8.5)",61.958,57.943,58.946,Lewistown,tasmax
+2047,"Moderating Emissions
+(SSP1-2.6)",62.032,59.006,60.546,Lewistown,tasmax
+2047,"Middle of the Road
+(SSP2-4.5)",61.91,55.689,60.077,Lewistown,tasmax
+2047,"High Emissions
+(SSP3-7.0)",60.799,58.832,59.646,Lewistown,tasmax
+2047,"Accelerating Emissions
+(SSP5-8.5)",64.371,58.45,62.04,Lewistown,tasmax
+2048,"Moderating Emissions
+(SSP1-2.6)",61.138,58.453,59.213,Lewistown,tasmax
+2048,"Middle of the Road
+(SSP2-4.5)",62.922,57.75,60.713,Lewistown,tasmax
+2048,"High Emissions
+(SSP3-7.0)",62.591,57.332,60.605,Lewistown,tasmax
+2048,"Accelerating Emissions
+(SSP5-8.5)",66.55,58.701,62.395,Lewistown,tasmax
+2049,"Moderating Emissions
+(SSP1-2.6)",61.114,57.867,58.236,Lewistown,tasmax
+2049,"Middle of the Road
+(SSP2-4.5)",62.728,58.88,60.758,Lewistown,tasmax
+2049,"High Emissions
+(SSP3-7.0)",62.49,58.804,61.141,Lewistown,tasmax
+2049,"Accelerating Emissions
+(SSP5-8.5)",62.35,59.506,61.014,Lewistown,tasmax
+2050,"Moderating Emissions
+(SSP1-2.6)",62.478,57.153,59.791,Lewistown,tasmax
+2050,"Middle of the Road
+(SSP2-4.5)",62.346,58.818,61.593,Lewistown,tasmax
+2050,"High Emissions
+(SSP3-7.0)",62.491,58.817,60.593,Lewistown,tasmax
+2050,"Accelerating Emissions
+(SSP5-8.5)",63.261,59.024,61.429,Lewistown,tasmax
+2051,"Moderating Emissions
+(SSP1-2.6)",61.968,57.367,60.65,Lewistown,tasmax
+2051,"Middle of the Road
+(SSP2-4.5)",63.019,58.821,60.707,Lewistown,tasmax
+2051,"High Emissions
+(SSP3-7.0)",62.419,59.473,60.236,Lewistown,tasmax
+2051,"Accelerating Emissions
+(SSP5-8.5)",62.363,59.187,61.867,Lewistown,tasmax
+2052,"Moderating Emissions
+(SSP1-2.6)",61.33,58.481,59.773,Lewistown,tasmax
+2052,"Middle of the Road
+(SSP2-4.5)",62.55,58.732,59.521,Lewistown,tasmax
+2052,"High Emissions
+(SSP3-7.0)",62.968,56.992,59.988,Lewistown,tasmax
+2052,"Accelerating Emissions
+(SSP5-8.5)",61.87,60.162,61.176,Lewistown,tasmax
+2053,"Moderating Emissions
+(SSP1-2.6)",61.638,57.554,59.474,Lewistown,tasmax
+2053,"Middle of the Road
+(SSP2-4.5)",61.897,57.943,60.473,Lewistown,tasmax
+2053,"High Emissions
+(SSP3-7.0)",64.196,59.733,63.462,Lewistown,tasmax
+2053,"Accelerating Emissions
+(SSP5-8.5)",64.262,59.174,60.99,Lewistown,tasmax
+2054,"Moderating Emissions
+(SSP1-2.6)",62.345,58.912,60.698,Lewistown,tasmax
+2054,"Middle of the Road
+(SSP2-4.5)",61.867,58.281,59.266,Lewistown,tasmax
+2054,"High Emissions
+(SSP3-7.0)",63.105,58.277,59.613,Lewistown,tasmax
+2054,"Accelerating Emissions
+(SSP5-8.5)",64.027,59.894,61.638,Lewistown,tasmax
+2055,"Moderating Emissions
+(SSP1-2.6)",61.8,59.655,60.779,Lewistown,tasmax
+2055,"Middle of the Road
+(SSP2-4.5)",63.285,57.753,60.622,Lewistown,tasmax
+2055,"High Emissions
+(SSP3-7.0)",62.903,59.56,60.757,Lewistown,tasmax
+2055,"Accelerating Emissions
+(SSP5-8.5)",63.823,59.848,63.314,Lewistown,tasmax
+2056,"Moderating Emissions
+(SSP1-2.6)",61.573,58.994,61.13,Lewistown,tasmax
+2056,"Middle of the Road
+(SSP2-4.5)",62.772,58.922,60.656,Lewistown,tasmax
+2056,"High Emissions
+(SSP3-7.0)",63.27,58.936,60.64,Lewistown,tasmax
+2056,"Accelerating Emissions
+(SSP5-8.5)",63.7,60.323,62.503,Lewistown,tasmax
+2057,"Moderating Emissions
+(SSP1-2.6)",61.281,57.03,60.614,Lewistown,tasmax
+2057,"Middle of the Road
+(SSP2-4.5)",62.501,60.116,61.407,Lewistown,tasmax
+2057,"High Emissions
+(SSP3-7.0)",62.725,58.68,59.071,Lewistown,tasmax
+2057,"Accelerating Emissions
+(SSP5-8.5)",63.328,57.937,61.227,Lewistown,tasmax
+2058,"Moderating Emissions
+(SSP1-2.6)",62.481,58.177,60.182,Lewistown,tasmax
+2058,"Middle of the Road
+(SSP2-4.5)",64.127,59.031,62.164,Lewistown,tasmax
+2058,"High Emissions
+(SSP3-7.0)",62.514,59.231,60.931,Lewistown,tasmax
+2058,"Accelerating Emissions
+(SSP5-8.5)",63.696,58.991,60.611,Lewistown,tasmax
+2059,"Moderating Emissions
+(SSP1-2.6)",62.542,58.435,60.339,Lewistown,tasmax
+2059,"Middle of the Road
+(SSP2-4.5)",65.07,58.595,62.028,Lewistown,tasmax
+2059,"High Emissions
+(SSP3-7.0)",65.436,59.075,61.759,Lewistown,tasmax
+2059,"Accelerating Emissions
+(SSP5-8.5)",64.493,61.243,63.146,Lewistown,tasmax
+2060,"Moderating Emissions
+(SSP1-2.6)",62.49,58.43,59.773,Lewistown,tasmax
+2060,"Middle of the Road
+(SSP2-4.5)",64.033,59.368,60.283,Lewistown,tasmax
+2060,"High Emissions
+(SSP3-7.0)",62.571,59.213,60.985,Lewistown,tasmax
+2060,"Accelerating Emissions
+(SSP5-8.5)",63.388,60.14,61.639,Lewistown,tasmax
+2061,"Moderating Emissions
+(SSP1-2.6)",61.837,58.656,59.4,Lewistown,tasmax
+2061,"Middle of the Road
+(SSP2-4.5)",63.112,58.592,60.733,Lewistown,tasmax
+2061,"High Emissions
+(SSP3-7.0)",62.874,59.535,61.749,Lewistown,tasmax
+2061,"Accelerating Emissions
+(SSP5-8.5)",65.871,61.353,62.629,Lewistown,tasmax
+2062,"Moderating Emissions
+(SSP1-2.6)",61.555,58.562,59.651,Lewistown,tasmax
+2062,"Middle of the Road
+(SSP2-4.5)",62.332,58.711,59.989,Lewistown,tasmax
+2062,"High Emissions
+(SSP3-7.0)",62.275,60.161,61.374,Lewistown,tasmax
+2062,"Accelerating Emissions
+(SSP5-8.5)",63.954,60.965,63.22,Lewistown,tasmax
+2063,"Moderating Emissions
+(SSP1-2.6)",62.071,58.418,59.864,Lewistown,tasmax
+2063,"Middle of the Road
+(SSP2-4.5)",62.042,58.153,60.286,Lewistown,tasmax
+2063,"High Emissions
+(SSP3-7.0)",64.062,59.576,61.641,Lewistown,tasmax
+2063,"Accelerating Emissions
+(SSP5-8.5)",64.852,59.888,63.034,Lewistown,tasmax
+2064,"Moderating Emissions
+(SSP1-2.6)",62.687,58.13,60.41,Lewistown,tasmax
+2064,"Middle of the Road
+(SSP2-4.5)",61.024,59,59.851,Lewistown,tasmax
+2064,"High Emissions
+(SSP3-7.0)",62.607,59.514,60.857,Lewistown,tasmax
+2064,"Accelerating Emissions
+(SSP5-8.5)",63.676,61.111,62.676,Lewistown,tasmax
+2065,"Moderating Emissions
+(SSP1-2.6)",62.526,56.775,59.201,Lewistown,tasmax
+2065,"Middle of the Road
+(SSP2-4.5)",62.887,58.441,60.524,Lewistown,tasmax
+2065,"High Emissions
+(SSP3-7.0)",63.763,60.026,61.312,Lewistown,tasmax
+2065,"Accelerating Emissions
+(SSP5-8.5)",66.038,61.118,63.223,Lewistown,tasmax
+2066,"Moderating Emissions
+(SSP1-2.6)",63.196,58.512,60.544,Lewistown,tasmax
+2066,"Middle of the Road
+(SSP2-4.5)",63.22,59.659,61.775,Lewistown,tasmax
+2066,"High Emissions
+(SSP3-7.0)",63.709,59.565,60.964,Lewistown,tasmax
+2066,"Accelerating Emissions
+(SSP5-8.5)",66.118,60.406,63.776,Lewistown,tasmax
+2067,"Moderating Emissions
+(SSP1-2.6)",62.32,60.042,60.851,Lewistown,tasmax
+2067,"Middle of the Road
+(SSP2-4.5)",62.869,59.6,60.361,Lewistown,tasmax
+2067,"High Emissions
+(SSP3-7.0)",65.782,61.735,62.984,Lewistown,tasmax
+2067,"Accelerating Emissions
+(SSP5-8.5)",65.55,60.954,62.357,Lewistown,tasmax
+2068,"Moderating Emissions
+(SSP1-2.6)",62.865,58.138,59.519,Lewistown,tasmax
+2068,"Middle of the Road
+(SSP2-4.5)",62.235,58.957,61.062,Lewistown,tasmax
+2068,"High Emissions
+(SSP3-7.0)",64.413,59.354,60.981,Lewistown,tasmax
+2068,"Accelerating Emissions
+(SSP5-8.5)",65.027,61.904,62.951,Lewistown,tasmax
+2069,"Moderating Emissions
+(SSP1-2.6)",63.522,58.912,61.191,Lewistown,tasmax
+2069,"Middle of the Road
+(SSP2-4.5)",61.982,59.159,59.999,Lewistown,tasmax
+2069,"High Emissions
+(SSP3-7.0)",67.261,61.834,63.033,Lewistown,tasmax
+2069,"Accelerating Emissions
+(SSP5-8.5)",67.956,61.323,63.884,Lewistown,tasmax
+2070,"Moderating Emissions
+(SSP1-2.6)",61.321,58.586,60.416,Lewistown,tasmax
+2070,"Middle of the Road
+(SSP2-4.5)",63.57,57.766,60.888,Lewistown,tasmax
+2070,"High Emissions
+(SSP3-7.0)",65.481,61.783,62.41,Lewistown,tasmax
+2070,"Accelerating Emissions
+(SSP5-8.5)",67.779,62.286,63.301,Lewistown,tasmax
+2071,"Moderating Emissions
+(SSP1-2.6)",64.424,57.472,59.907,Lewistown,tasmax
+2071,"Middle of the Road
+(SSP2-4.5)",62.878,59.287,60.802,Lewistown,tasmax
+2071,"High Emissions
+(SSP3-7.0)",64.573,61.418,63.305,Lewistown,tasmax
+2071,"Accelerating Emissions
+(SSP5-8.5)",66.705,61.776,63.037,Lewistown,tasmax
+2072,"Moderating Emissions
+(SSP1-2.6)",63.833,59.602,60.344,Lewistown,tasmax
+2072,"Middle of the Road
+(SSP2-4.5)",63.062,57.765,61.235,Lewistown,tasmax
+2072,"High Emissions
+(SSP3-7.0)",65.327,59.736,62.144,Lewistown,tasmax
+2072,"Accelerating Emissions
+(SSP5-8.5)",65.474,62.033,63.559,Lewistown,tasmax
+2073,"Moderating Emissions
+(SSP1-2.6)",61.565,58.019,60.126,Lewistown,tasmax
+2073,"Middle of the Road
+(SSP2-4.5)",63.039,57.466,61.514,Lewistown,tasmax
+2073,"High Emissions
+(SSP3-7.0)",64.109,61.292,63.045,Lewistown,tasmax
+2073,"Accelerating Emissions
+(SSP5-8.5)",65.68,61.061,63.416,Lewistown,tasmax
+2074,"Moderating Emissions
+(SSP1-2.6)",63.279,57.108,60.598,Lewistown,tasmax
+2074,"Middle of the Road
+(SSP2-4.5)",63.972,59.368,60.888,Lewistown,tasmax
+2074,"High Emissions
+(SSP3-7.0)",64.187,60.329,61.528,Lewistown,tasmax
+2074,"Accelerating Emissions
+(SSP5-8.5)",67.439,61.594,63.349,Lewistown,tasmax
+2075,"Moderating Emissions
+(SSP1-2.6)",63.752,56.394,59.997,Lewistown,tasmax
+2075,"Middle of the Road
+(SSP2-4.5)",64.739,58.742,59.807,Lewistown,tasmax
+2075,"High Emissions
+(SSP3-7.0)",65.935,59.361,60.986,Lewistown,tasmax
+2075,"Accelerating Emissions
+(SSP5-8.5)",66.602,62.026,63.807,Lewistown,tasmax
+2076,"Moderating Emissions
+(SSP1-2.6)",62.622,56.617,59.55,Lewistown,tasmax
+2076,"Middle of the Road
+(SSP2-4.5)",61.674,59.361,60.23,Lewistown,tasmax
+2076,"High Emissions
+(SSP3-7.0)",66.196,61.245,62.932,Lewistown,tasmax
+2076,"Accelerating Emissions
+(SSP5-8.5)",67.179,61.282,64.494,Lewistown,tasmax
+2077,"Moderating Emissions
+(SSP1-2.6)",62.751,58.604,61.109,Lewistown,tasmax
+2077,"Middle of the Road
+(SSP2-4.5)",63.789,60.163,61.187,Lewistown,tasmax
+2077,"High Emissions
+(SSP3-7.0)",65.358,60.243,63.487,Lewistown,tasmax
+2077,"Accelerating Emissions
+(SSP5-8.5)",67.418,62.302,64.638,Lewistown,tasmax
+2078,"Moderating Emissions
+(SSP1-2.6)",62.973,59.03,59.711,Lewistown,tasmax
+2078,"Middle of the Road
+(SSP2-4.5)",63.105,60.163,61.535,Lewistown,tasmax
+2078,"High Emissions
+(SSP3-7.0)",65.756,60.664,62.864,Lewistown,tasmax
+2078,"Accelerating Emissions
+(SSP5-8.5)",64,61.87,62.597,Lewistown,tasmax
+2079,"Moderating Emissions
+(SSP1-2.6)",62.845,58.839,60.119,Lewistown,tasmax
+2079,"Middle of the Road
+(SSP2-4.5)",63.148,59.374,61.223,Lewistown,tasmax
+2079,"High Emissions
+(SSP3-7.0)",64.262,60.06,63.263,Lewistown,tasmax
+2079,"Accelerating Emissions
+(SSP5-8.5)",67.124,61.913,64.429,Lewistown,tasmax
+2080,"Moderating Emissions
+(SSP1-2.6)",61.634,58.006,59.081,Lewistown,tasmax
+2080,"Middle of the Road
+(SSP2-4.5)",63.34,58.904,61.192,Lewistown,tasmax
+2080,"High Emissions
+(SSP3-7.0)",66.8,61.222,62.594,Lewistown,tasmax
+2080,"Accelerating Emissions
+(SSP5-8.5)",67.393,63.065,64.823,Lewistown,tasmax
+2081,"Moderating Emissions
+(SSP1-2.6)",64.097,58.112,59.207,Lewistown,tasmax
+2081,"Middle of the Road
+(SSP2-4.5)",63.72,59.982,61.212,Lewistown,tasmax
+2081,"High Emissions
+(SSP3-7.0)",67.132,59.377,62.031,Lewistown,tasmax
+2081,"Accelerating Emissions
+(SSP5-8.5)",68.724,63.353,65.446,Lewistown,tasmax
+2082,"Moderating Emissions
+(SSP1-2.6)",63.486,58.535,61.544,Lewistown,tasmax
+2082,"Middle of the Road
+(SSP2-4.5)",64.924,59.763,61.33,Lewistown,tasmax
+2082,"High Emissions
+(SSP3-7.0)",66.108,59.807,62.499,Lewistown,tasmax
+2082,"Accelerating Emissions
+(SSP5-8.5)",68.921,62.781,66.553,Lewistown,tasmax
+2083,"Moderating Emissions
+(SSP1-2.6)",62.768,58.883,61.844,Lewistown,tasmax
+2083,"Middle of the Road
+(SSP2-4.5)",64.67,58.728,61.553,Lewistown,tasmax
+2083,"High Emissions
+(SSP3-7.0)",65.451,59.983,63.525,Lewistown,tasmax
+2083,"Accelerating Emissions
+(SSP5-8.5)",68.126,63.212,66.871,Lewistown,tasmax
+2084,"Moderating Emissions
+(SSP1-2.6)",63.695,57.966,59.185,Lewistown,tasmax
+2084,"Middle of the Road
+(SSP2-4.5)",65.371,60.22,61.916,Lewistown,tasmax
+2084,"High Emissions
+(SSP3-7.0)",67.996,62.092,64.678,Lewistown,tasmax
+2084,"Accelerating Emissions
+(SSP5-8.5)",68.611,63.298,65.39,Lewistown,tasmax
+2085,"Moderating Emissions
+(SSP1-2.6)",62.545,56.968,59.046,Lewistown,tasmax
+2085,"Middle of the Road
+(SSP2-4.5)",63.266,59.284,61.492,Lewistown,tasmax
+2085,"High Emissions
+(SSP3-7.0)",65.194,61.066,62.85,Lewistown,tasmax
+2085,"Accelerating Emissions
+(SSP5-8.5)",68.604,62.602,66.121,Lewistown,tasmax
+2086,"Moderating Emissions
+(SSP1-2.6)",62.678,59.685,60.895,Lewistown,tasmax
+2086,"Middle of the Road
+(SSP2-4.5)",64.35,60.851,61.466,Lewistown,tasmax
+2086,"High Emissions
+(SSP3-7.0)",66.721,61.698,63.68,Lewistown,tasmax
+2086,"Accelerating Emissions
+(SSP5-8.5)",68.478,62.877,66.379,Lewistown,tasmax
+2087,"Moderating Emissions
+(SSP1-2.6)",61.389,58.303,59.73,Lewistown,tasmax
+2087,"Middle of the Road
+(SSP2-4.5)",64.346,60.783,62.435,Lewistown,tasmax
+2087,"High Emissions
+(SSP3-7.0)",67.892,61.448,63.981,Lewistown,tasmax
+2087,"Accelerating Emissions
+(SSP5-8.5)",68.1,63.205,65.044,Lewistown,tasmax
+2088,"Moderating Emissions
+(SSP1-2.6)",63.808,57.833,58.738,Lewistown,tasmax
+2088,"Middle of the Road
+(SSP2-4.5)",64.043,61.387,62.541,Lewistown,tasmax
+2088,"High Emissions
+(SSP3-7.0)",66.997,61.72,63.667,Lewistown,tasmax
+2088,"Accelerating Emissions
+(SSP5-8.5)",67.861,64.108,66.018,Lewistown,tasmax
+2089,"Moderating Emissions
+(SSP1-2.6)",60.867,58.278,59.363,Lewistown,tasmax
+2089,"Middle of the Road
+(SSP2-4.5)",64.44,59.331,62.005,Lewistown,tasmax
+2089,"High Emissions
+(SSP3-7.0)",66.442,61.139,65.159,Lewistown,tasmax
+2089,"Accelerating Emissions
+(SSP5-8.5)",68.486,64.42,66.573,Lewistown,tasmax
+2090,"Moderating Emissions
+(SSP1-2.6)",61.512,58.721,60.218,Lewistown,tasmax
+2090,"Middle of the Road
+(SSP2-4.5)",63.303,60.107,62.016,Lewistown,tasmax
+2090,"High Emissions
+(SSP3-7.0)",68.569,63.611,64.338,Lewistown,tasmax
+2090,"Accelerating Emissions
+(SSP5-8.5)",69.222,65.294,66.566,Lewistown,tasmax
+2091,"Moderating Emissions
+(SSP1-2.6)",61.881,57.912,60.187,Lewistown,tasmax
+2091,"Middle of the Road
+(SSP2-4.5)",63.796,59.791,62.141,Lewistown,tasmax
+2091,"High Emissions
+(SSP3-7.0)",66.667,63.058,65.613,Lewistown,tasmax
+2091,"Accelerating Emissions
+(SSP5-8.5)",69.973,63.15,65.086,Lewistown,tasmax
+2092,"Moderating Emissions
+(SSP1-2.6)",62.872,57.317,60.956,Lewistown,tasmax
+2092,"Middle of the Road
+(SSP2-4.5)",65.53,58.939,63.017,Lewistown,tasmax
+2092,"High Emissions
+(SSP3-7.0)",65.802,61.584,64.255,Lewistown,tasmax
+2092,"Accelerating Emissions
+(SSP5-8.5)",69.909,64.038,66.366,Lewistown,tasmax
+2093,"Moderating Emissions
+(SSP1-2.6)",62.759,56.739,60.248,Lewistown,tasmax
+2093,"Middle of the Road
+(SSP2-4.5)",64.085,58.725,61.425,Lewistown,tasmax
+2093,"High Emissions
+(SSP3-7.0)",67.342,62.444,63.161,Lewistown,tasmax
+2093,"Accelerating Emissions
+(SSP5-8.5)",69.71,64.953,66.808,Lewistown,tasmax
+2094,"Moderating Emissions
+(SSP1-2.6)",62.934,58.086,58.974,Lewistown,tasmax
+2094,"Middle of the Road
+(SSP2-4.5)",66.113,58.435,62.498,Lewistown,tasmax
+2094,"High Emissions
+(SSP3-7.0)",67.134,62.598,64.259,Lewistown,tasmax
+2094,"Accelerating Emissions
+(SSP5-8.5)",71.21,64.449,68.541,Lewistown,tasmax
+2095,"Moderating Emissions
+(SSP1-2.6)",62.601,58.305,61.581,Lewistown,tasmax
+2095,"Middle of the Road
+(SSP2-4.5)",65.354,61.005,63.747,Lewistown,tasmax
+2095,"High Emissions
+(SSP3-7.0)",68.644,62.802,65.875,Lewistown,tasmax
+2095,"Accelerating Emissions
+(SSP5-8.5)",69.304,63.812,65.361,Lewistown,tasmax
+2096,"Moderating Emissions
+(SSP1-2.6)",62.076,58.059,60.406,Lewistown,tasmax
+2096,"Middle of the Road
+(SSP2-4.5)",64.514,61.397,62.633,Lewistown,tasmax
+2096,"High Emissions
+(SSP3-7.0)",66.849,62.511,65.81,Lewistown,tasmax
+2096,"Accelerating Emissions
+(SSP5-8.5)",69.37,64.438,66.263,Lewistown,tasmax
+2097,"Moderating Emissions
+(SSP1-2.6)",63.599,58.803,59.295,Lewistown,tasmax
+2097,"Middle of the Road
+(SSP2-4.5)",65.944,60.712,62.498,Lewistown,tasmax
+2097,"High Emissions
+(SSP3-7.0)",70.366,61.518,65.541,Lewistown,tasmax
+2097,"Accelerating Emissions
+(SSP5-8.5)",72.111,64.14,65.994,Lewistown,tasmax
+2098,"Moderating Emissions
+(SSP1-2.6)",61.625,57.416,59.705,Lewistown,tasmax
+2098,"Middle of the Road
+(SSP2-4.5)",63.67,60.336,62.288,Lewistown,tasmax
+2098,"High Emissions
+(SSP3-7.0)",67.998,62.418,64.595,Lewistown,tasmax
+2098,"Accelerating Emissions
+(SSP5-8.5)",69.354,64.84,67.176,Lewistown,tasmax
+2099,"Moderating Emissions
+(SSP1-2.6)",63.845,57.183,60.661,Lewistown,tasmax
+2099,"Middle of the Road
+(SSP2-4.5)",64.146,59.461,61.67,Lewistown,tasmax
+2099,"High Emissions
+(SSP3-7.0)",69.561,62.677,63.685,Lewistown,tasmax
+2099,"Accelerating Emissions
+(SSP5-8.5)",71.606,65.109,68.132,Lewistown,tasmax
+2100,"Moderating Emissions
+(SSP1-2.6)",62.147,56.951,58.742,Lewistown,tasmax
+2100,"Middle of the Road
+(SSP2-4.5)",66.091,59.958,62.426,Lewistown,tasmax
+2100,"High Emissions
+(SSP3-7.0)",66.876,61.892,65.784,Lewistown,tasmax
+2100,"Accelerating Emissions
+(SSP5-8.5)",71.027,64.319,66.205,Lewistown,tasmax
