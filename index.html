@@ -5,7 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Climate Explorer</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.24.2/plotly.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+    <script src="https://unpkg.com/papaparse@5.5.2/papaparse.min.js"></script>
+    <script src="https://unpkg.com/georaster"></script>
+    <script src="https://unpkg.com/georaster-layer-for-leaflet"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-zoom/2.0.1/chartjs-plugin-zoom.min.js"></script>
     <script src="https://unpkg.com/flatgeobuf@3.22.0/dist/flatgeobuf-geojson.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
@@ -69,7 +76,7 @@
             right: 20px;
             top: 20px;
             bottom: 20px;
-            width: 300px;
+            width: 500px;
             background: rgba(255, 255, 255, 0.25); /* Made more transparent */
             padding: 20px;
             border-radius: 12px;
@@ -212,20 +219,22 @@
                 <h3 class="section-title">Time Period</h3>
                 <select id="historical-time-selector">
                     <option value="annual">Annual</option>
-                    <option value="01">January</option>
-                    <option value="02">February</option>
-                    <option value="03">March</option>
-                    <option value="04">April</option>
-                    <option value="05">May</option>
-                    <option value="06">June</option>
-                    <option value="07">July</option>
-                    <option value="08">August</option>
-                    <option value="09">September</option>
-                    <option value="10">October</option>
-                    <option value="11">November</option>
-                    <option value="12">December</option>
+                    <option value="jan">January</option>
+                    <option value="feb">February</option>
+                    <option value="mar">March</option>
+                    <option value="apr">April</option>
+                    <option value="may">May</option>
+                    <option value="jun">June</option>
+                    <option value="jul">July</option>
+                    <option value="aug">August</option>
+                    <option value="sep">September</option>
+                    <option value="oct">October</option>
+                    <option value="nov">November</option>
+                    <option value="dec">December</option>
                 </select>
-                <div id="plot1" class="plot-container"></div>
+                <div class="plot-container">
+                    <canvas id="historical-plot" style="height: 100%; width: 100%;"></canvas>
+                </div>
             </div>
                 <h3 class="section-title">Region Type</h3>
                 <select>
@@ -300,9 +309,6 @@
     </div>
 
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
-    <script src="https://unpkg.com/papaparse@5.5.2/papaparse.min.js"></script>
-
     <script>
         function switchTab(index) {
             // Update tab styles
@@ -340,6 +346,22 @@
 
             
         });
+
+        // Function to update the map based on current selections
+        async function updateMap() {
+            const selectedVariable = document.getElementById('historical-variable-selector').value;
+            const selectedTime = document.getElementById('historical-time-selector').value;
+            const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable}/${selectedTime}_mean.tif`;
+            await addCOG(url, selectedVariable, true, selectedTime);
+        }
+
+        // Initial load event
+        document.addEventListener('DOMContentLoaded', updateMap);
+
+        // Change event listeners for both selectors
+        document.getElementById('historical-variable-selector').addEventListener('change', updateMap);
+        document.getElementById('historical-time-selector').addEventListener('change', updateMap);
+
         async function get_df(f) {
             try {
                 const response = await fetch(f);
@@ -355,6 +377,141 @@
             }
             return parsed_data
         }
+
+    let historical_chart_instance;
+
+    function resetZoom() {
+        historical_chart_instance.resetZoom();
+    }
+
+    function createChart(data) {
+        console.log(data);
+        const validData = data.filter(row => row && row.date && row.value);
+        const years = validData.map(row => parseInt(row.date.split('-')[0]));
+        const values = data.map(row => row.value);
+
+        // Calculate trend line if fit is true
+        let trendLineData = [];
+        // Calculate basic statistics
+        const n = years.length;
+        const sumX = years.reduce((a, b) => a + b, 0);
+        const sumY = values.reduce((a, b) => a + b, 0);
+        const sumXY = years.reduce((acc, x, i) => acc + x * values[i], 0);
+        const sumXX = years.reduce((acc, x) => acc + x * x, 0);
+
+        const slope = (n * sumXY - sumX * sumY) / (n * sumXX - sumX * sumX);
+        const intercept = (sumY - slope * sumX) / n;
+
+        // Calculate p-value for slope
+        const meanX = sumX / n;
+        const meanY = sumY / n;
+        const predictedY = years.map(x => slope * x + intercept);
+        const residuals = values.map((y, i) => y - predictedY[i]);
+        const SSE = residuals.reduce((a, b) => a + b * b, 0);
+        const SSX = years.reduce((a, x) => a + (x - meanX) * (x - meanX), 0);
+        const MSE = SSE / (n - 2);
+        const slopeStdError = Math.sqrt(MSE / SSX);
+        const tStat = slope / slopeStdError;
+        const degreesOfFreedom = n - 2;
+
+        // Two-tailed p-value approximation
+        const pValue = 2 * (1 - tCDF(Math.abs(tStat), degreesOfFreedom));
+
+        if (pValue < 0.05) {
+            datasets.push({
+                label: 'Trend Line',
+                data: trendLineData,
+                borderColor: 'rgb(255, 99, 132)',
+                backgroundColor: 'rgba(255, 99, 132, 0.5)',
+                borderDash: [5, 5],
+                pointRadius: 0,
+                tension: 0
+            });
+        }
+        // Helper function for t-distribution CDF approximation
+        function tCDF(t, df) {
+            const x = df / (df + t * t);
+            let a = df / 2;
+            const b = 0.5;
+            return 1 - betaIncomplete(a, b, x);
+        }
+
+        // Beta incomplete function approximation
+        function betaIncomplete(a, b, x) {
+            const maxIterations = 100;
+            let sum = 0;
+            let term = x ** a * (1 - x) ** b;
+            for (let i = 0; i < maxIterations; i++) {
+                sum += term;
+                term = term * x * (a + i) / (i + 1);
+                if (Math.abs(term) < 1e-10) break;
+            }
+            return sum;
+        }
+
+        const ctx = document.getElementById('historical-plot');
+        if (historical_chart_instance) {
+            historical_chart_instance.destroy();
+        }
+        
+        const datasets = [{
+            label: 'Values',
+            data: values,
+            borderColor: 'rgb(75, 192, 192)',
+            backgroundColor: 'rgba(75, 192, 192, 0.5)',
+            pointRadius: 4,
+            tension: 0.1
+        }];
+
+
+        historical_chart_instance = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: years,
+                datasets: datasets
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'Yearly Trend Analysis'
+                    },
+                    zoom: {
+                        pan: {
+                            enabled: true,
+                            mode: 'xy'
+                        },
+                        zoom: {
+                            wheel: {
+                                enabled: true,
+                            },
+                            pinch: {
+                                enabled: true
+                            },
+                            mode: 'xy',
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        ticks: {
+                            callback: function(val, index) {
+                                const year = this.getLabelForValue(val);
+                                return year % 5 === 0 ? year : '';
+                            }
+                        }
+                    },
+                    y: {
+                        beginAtZero: false
+                    }
+                }
+            }
+        });
+    }
     </script>
     
     </script>
@@ -379,14 +536,48 @@
             collapsed: false,
             position: 'topleft'
         }).addTo(map);
-        /**
-         * Loads a FlatGeobuf layer and adds it to the layer control
-         * @param {string} url - URL of the FlatGeobuf file
-         * @param {string} layerId - Unique identifier for the layer
-         * @param {string} layerName - Display name for the layer in the control panel
-         * @param {Object} style - Leaflet style object for the features
-         * @returns {Promise<void>}
-         */
+        
+        let current_layer = null;
+
+        async function addCOG(url, name_, display = false, time_) {
+            try {
+            const response = await fetch(url);
+            const arrayBuffer = await response.arrayBuffer();
+            const georaster = await parseGeoraster(arrayBuffer);
+            
+            const min = georaster.mins[0];
+            const max = georaster.maxs[0];
+            var layer = new GeoRasterLayer({
+                georaster: georaster,
+                opacity: 0.7,
+                updateWhenZooming: false,
+                pixelValuesToColorFn: function(pixelValues) {
+                var pixelValue = pixelValues[0];
+                if (pixelValue === -32767) return null;
+                return `rgba(${Math.round((pixelValue - min) / (max - min) * 255)}, 0, 0, 1)`;
+                },
+                resolution: 256
+            });
+            
+            layer.name = name_;
+            layer.time = time_;
+
+            // baseMaps.addBaseLayer(layer, name_);
+            if (current_layer !== null) {
+                map.removeLayer(current_layer);
+            }
+            current_layer = layer;
+
+            if (display) {
+                current_layer.addTo(map);
+            }
+
+
+            } catch (error) {
+            console.error('Error loading COG:', error);
+            }
+        }
+
         async function loadFlatGeobufLayer(url, layerId, layerName, add_to_group = true, style = {
             fillColor: "rgba(0, 0, 0, 0)",
             fillOpacity: 0.9,
@@ -431,7 +622,7 @@
             }
         }
         async function main() {
-        
+
             await loadFlatGeobufLayer(
                 "https://data.climate.umt.edu/mt-normals/fgb/mt.fgb",
                 "",
@@ -471,49 +662,43 @@
 
             f = 'https://data.climate.umt.edu/mt-normals/csvs/historical/rmax_huc_17010105.csv'
 
-            var dat = await get_df(f);
-            console.log(dat);
-
             Object.entries(overlayMaps).forEach(([key, value]) => {
-                value.on("click", event => {
+                value.on("click", async (event) => {
                     const parts = event.layer.feature.properties.id.split("_");
-                    console.log(parts);
-                })
+                    const activeTab = document.querySelector('.tab.active').textContent;
+                    const subdir = activeTab === "Historical Trends" ? "historical" : "future";
+                    const selectedVariable = document.getElementById('historical-variable-selector').value;
+                    const url = `https://data.climate.umt.edu/mt-normals/csvs/${subdir}/${selectedVariable}_${parts[0]}_${parts[1]}.csv`;
+                    const dat = await get_df(url);
+                    let dat_filtered = [];
+                    const selectedTime = document.getElementById('historical-time-selector').value;
+                    if (selectedTime === 'annual') {
+                        const groupedData = {};
+                        dat.forEach(item => {
+                            if (item.name === null) {
+                                return;
+                            }
+                            console.log(item);
+                            const year = item.date.split('-')[0];
+                            if (!groupedData[year]) {
+                                groupedData[year] = { year: year, value: 0 };
+                            }
+                            groupedData[year].value += item.value;
+                        });
+                        dat_filtered = Object.values(groupedData).map(item => ({ date: `${item.year}-01-01`, value: item.value })); // Use Jan 1 as a placeholder date
+                    } else {
+                        // Filter data for the selected month
+                        dat_filtered = dat.filter(item => {
+                            const month = item.date.split('-')[1];
+                            return month === String(new Date(Date.parse(`1970-${selectedTime}-01`)).getMonth() + 1).padStart(2, '0');
+                        });
+                    }
+                    console.log(dat_filtered);
+                    createChart(dat_filtered);
+
+                });
             });
 
-
-            function createPlot(elementId) {
-                const data = [{
-                    x: Array.from({length: 10}, (_, i) => i),
-                    y: Array.from({length: 10}, () => Math.random() * 10),
-                    type: 'scatter',
-                    mode: 'lines+markers',
-                    line: {color: '#4a90e2'}
-                }];
-
-                const layout = {
-                    margin: { t: 20, r: 20, l: 40, b: 40 },
-                    paper_bgcolor: 'rgba(0,0,0,0)',
-                    plot_bgcolor: 'rgba(0,0,0,0)',
-                    xaxis: {
-                        title: 'Time',
-                        gridcolor: '#eee'
-                    },
-                    yaxis: {
-                        title: 'Value',
-                        gridcolor: '#eee'
-                    }
-                };
-
-                Plotly.newPlot(elementId, data, layout, {
-                    responsive: true,
-                    displayModeBar: false
-                });
-            }
-
-            // Initialize plots
-            createPlot('plot1');
-            createPlot('plot2');
         }
         main();
     </script>
