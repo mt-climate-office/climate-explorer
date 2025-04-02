@@ -353,6 +353,8 @@
             const selectedTime = document.getElementById('historical-time-selector').value;
             const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable}/${selectedTime}_mean.tif`;
             await addCOG(url, selectedVariable, true, selectedTime);
+            // TODO: If a chart exists, render a chart on selection change using the last place that was clicked.
+            //createChart(dat_filtered);
         }
 
         // Initial load event
@@ -375,7 +377,9 @@
                 parsed_data = null
                 console.error('Error loading CSV:', error);
             }
-            return parsed_data
+            const validData = parsed_data.filter(row => row && row.date && row.value);
+
+            return validData
         }
 
     let historical_chart_instance;
@@ -385,9 +389,7 @@
     }
 
     function createChart(data) {
-        console.log(data);
-        const validData = data.filter(row => row && row.date && row.value);
-        const years = validData.map(row => parseInt(row.date.split('-')[0]));
+        const years = data.map(row => parseInt(row.date.split('-')[0]));
         const values = data.map(row => row.value);
 
         // Calculate trend line if fit is true
