@@ -17,7 +17,6 @@
     <script src="https://unpkg.com/flatgeobuf@3.22.0/dist/flatgeobuf-geojson.min.js"></script>
     <script
         src="https://cdn.jsdelivr.net/npm/chartjs-plugin-trendline@2.1.7/src/chartjs-plugin-trendline.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.1.2/dist/chart.umd.min.js"></script>
     <style>
         body,
         html {
@@ -673,6 +672,58 @@
         document.getElementById('historical-variable-selector').addEventListener('change', updateMap);
         document.getElementById('historical-time-selector').addEventListener('change', updateMap);
 
+        const customWatermarkPlugin = {
+            id: 'customWatermark',
+            beforeDraw: (chart, args, pluginOptions) => {
+                const imageSrc = "https://data.climate.umt.edu/website/assets/MCO_logo.png"; // Ensure path is correct
+
+                if (!chart.watermarkImage) {
+                    chart.watermarkImage = new Image();
+                    chart.watermarkImage.src = imageSrc;
+                    chart.watermarkImage.onload = () => {
+                        chart.draw();
+                    };
+                    chart.watermarkImage.onerror = () => {
+                        console.error("Watermark image failed to load:", imageSrc);
+                        chart.watermarkImage = null;
+                    }
+                }
+
+                if (chart.watermarkImage && chart.watermarkImage.complete && chart.watermarkImage.naturalWidth !== 0) {
+                    const img = chart.watermarkImage;
+                    const ctx = chart.ctx;
+                    const canvas = ctx.canvas;
+
+                    // --- 1. Define desired scale factor ---
+                    const scaleFactor = 0.07; // Make it 20% of its original size. Adjust this!
+
+                    // --- 2. Calculate the new width and height ---
+                    const newWidth = img.width * scaleFactor;
+                    const newHeight = img.height * scaleFactor;
+
+                    ctx.save();
+
+                    // --- 3. Recalculate position based on the NEW scaled dimensions ---
+
+
+                    // Alternative: Centered position, adjusted for the new size:
+                    // const x = (canvas.width - newWidth) / 2;
+                    // const y = (canvas.height - newHeight) / 2;
+
+                    // Apply transparency
+                    ctx.globalAlpha = 0.3; // Adjust as needed
+
+                    // --- 4. Draw the image using the new dimensions ---
+                    ctx.drawImage(img, 30, 35, newWidth, newHeight); // Use the version with width/height args
+
+                    ctx.restore();
+                }
+                return true;
+            }
+        };
+
+
+
         async function get_df(f) {
             try {
                 const response = await fetch(f);
@@ -718,7 +769,7 @@
                     colorMax: "gray",
                     lineStyle: "solid",
                     width: 2,
-                    projection: false
+                    projection: true
                 };
             }
 
@@ -784,7 +835,8 @@
                             beginAtZero: false
                         }
                     }
-                }
+                },
+                plugins: [customWatermarkPlugin] // --- This array REGISTERS plugin objects for *this chart only* ---
             });
         }
     </script>
