@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,27 +15,32 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-zoom/2.0.1/chartjs-plugin-zoom.min.js"></script>
     <script src="https://unpkg.com/flatgeobuf@3.22.0/dist/flatgeobuf-geojson.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-trendline@2.1.7/src/chartjs-plugin-trendline.min.js"></script>
-
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-plugin-trendline@2.1.7/src/chartjs-plugin-trendline.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.1.2/dist/chart.umd.min.js"></script>
     <style>
-        body, html {
+        body,
+        html {
             margin: 0;
             padding: 0;
             height: 100%;
             font-family: Arial, sans-serif;
             background: #FFFFFF;
         }
+
         .container {
             height: 100%;
             display: flex;
             flex-direction: column;
         }
+
         .tabs {
             display: flex;
             padding: 20px;
             gap: 10px;
             background: #FFFFFF;
         }
+
         .tab {
             flex: 1;
             padding: 12px 24px;
@@ -47,14 +53,17 @@
             transition: all 0.3s ease;
             color: #666;
         }
+
         .tab:hover {
             background: #d0d0d0;
         }
+
         .tab.active {
             background: #4a90e2;
             color: white;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
+
         .content {
             flex-grow: 1;
             position: relative;
@@ -63,12 +72,14 @@
             overflow: hidden;
             border: 1px solid #ddd;
             background: white;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
+
         .map {
             height: 100%;
             width: 100%;
         }
+
         .sidebar {
             display: none;
             position: absolute;
@@ -76,23 +87,29 @@
             top: 20px;
             bottom: 20px;
             width: 500px;
-            background: rgba(255, 255, 255, 0.25); /* Made more transparent */
+            background: rgba(255, 255, 255, 0.25);
+            /* Made more transparent */
             padding: 20px;
             border-radius: 12px;
-            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
             z-index: 1000;
             overflow-y: auto;
-            backdrop-filter: blur(5px); /* Added blur effect for better readability */
+            backdrop-filter: blur(5px);
+            /* Added blur effect for better readability */
         }
+
         .section-title {
             margin: 0px 0px;
         }
+
         .sidebar-title {
             margin: 0px 0px 10px 0px;
         }
-        
+
         /* Make form elements and plot container fully opaque for contrast */
-        select, .multiselect, .plot-container {
+        select,
+        .multiselect,
+        .plot-container {
             background: white;
         }
 
@@ -100,6 +117,7 @@
             display: flex;
             flex-direction: column;
         }
+
         select {
             width: 100%;
             margin: 10px 0;
@@ -109,24 +127,36 @@
             background: white;
             font-size: 14px;
         }
+
         select:focus {
             outline: none;
             border-color: #4a90e2;
         }
+
         .multiselect {
             border: 1px solid #ddd;
             padding: 12px;
             margin: 10px 0;
-            max-height: 300px;
+            min-height: 120px;
             overflow-y: auto;
             border-radius: 8px;
             background: white;
         }
+
+        .radio-group {
+            background: white; 
+            padding: 10px; 
+            border-radius: 8px; 
+            border: 1px solid #ddd; 
+            margin: 10px 0;
+        }
+
         .multiselect label {
             display: block;
             margin: 8px 0;
             color: #444;
         }
+
         .plot-container {
             margin-top: 20px;
             flex-grow: 1;
@@ -142,6 +172,7 @@
             margin: 20px auto;
             position: relative;
         }
+
         .logo {
             position: absolute;
             top: 10px;
@@ -159,22 +190,94 @@
             color: #333;
             border: 2px solid #ddd;
         }
+
         .controls {
             text-align: center;
             margin: 10px;
         }
+
         button {
             padding: 8px 16px;
             margin: 0 5px;
             cursor: pointer;
         }
+
+        .legend {
+            color: #555;
+            padding: 6px 8px;
+            font: 13 pxArial, Helvetica, sans-serif;
+            font-weight: bold;
+            background: white;
+            background: rgba(255, 255, 255, 0.8);
+            /*            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+            border-radius: 5px;
+            border-bottom-left-radius: 2px;
+            border-bottom-right-radius: 2px;
+            border-top-left-radius: 2px;
+            border-top-right-radius: 2px;
+            border-bottom: none;
+            border-bottom-width: initial;
+            border-bottom-style: none;
+            border-bottom-color: initial;
+            border: 2px solid rgba(0, 0, 0, .3);
+            border-radius: 4px;
+            width: 300px;
+        }
+
+        .legend span,
+        .legend label {
+            display: block;
+            width: 55px;
+            height: 18px;
+            float: left;
+            opacity: 0.7;
+            text-align: center;
+            font-size: 80%
+        }
+
+        .legend ul {
+            text-align: center;
+            display: block;
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            clear: both;
+        }
+
+        .legend li {
+            display: inline-block;
+            width: 1.25px;
+            height: 22px;
+        }
+
+        .legend .min {
+            float: left;
+            padding-bottom: 5px;
+            padding-left: 20px;
+        }
+
+        .legend .max {
+            float: right;
+            padding-bottom: 5px;
+            padding-right: 20px;
+        }
+
+        .legend span {
+            width: 50px;
+            height: 18px;
+            float: left;
+            margin: 0 8px 0 0;
+            opacity: 0.7;
+        }
     </style>
 </head>
+
 <body>
     <div class="container">
         <div class="tabs">
             <a href="https://climate.umt.edu" style="display: flex; align-items: center; margin-right: 20px;">
-            <img src="https://data.climate.umt.edu/website/assets/MCO_logo.png" alt="MCO Logo" style="height: 40px;">
+                <img src="https://data.climate.umt.edu/website/assets/MCO_logo.png" alt="MCO Logo"
+                    style="height: 40px;">
             </a>
             <button class="tab active" onclick="switchTab(0)">Historical Trends</button>
             <button class="tab" onclick="switchTab(1)">Climate Projections</button>
@@ -232,85 +335,165 @@
                     <option value="dec">December</option>
                 </select>
                 <div class="plot-container">
-                    <canvas id="historical-plot" style="height: 100%; width: 100%;"></canvas>
+                    <canvas id="historical-plot"></canvas>
                 </div>
             </div>
-                <h3 class="section-title">Region Type</h3>
-                <select>
-                    <option>Ut enim ad minim veniam</option>
-                    <option>Quis nostrud exercitation</option>
-                    <option>Ullamco laboris nisi ut</option>
-                </select>
-                <h3 class="section-title">Data Categories</h3>
-                <div class="multiselect">
-                    <label><input type="checkbox"> Duis aute irure dolor</label>
-                    <label><input type="checkbox"> In reprehenderit in voluptate</label>
-                    <label><input type="checkbox"> Velit esse cillum dolore</label>
-                    <label><input type="checkbox"> Eu fugiat nulla pariatur</label>
-                    <label><input type="checkbox"> Excepteur sint occaecat</label>
-                </div>
-                <div class="chart-container", id="historical_chart_container">
-                    <div class="logo">LOGO</div>
-                        <canvas id="historical_chart"></canvas>
-                    </div>
-                </div>            </div>
             <div class="sidebar">
-                <h2 class="sidebar-title">Economic Indicators</h2>
-                <h3 class="section-title">Industry Sector</h3>
-                <select>
-                    <option>Nulla facilisi morbi tempus</option>
-                    <option>Iaculis urna id volutpat</option>
-                    <option>Lacus suspendisse faucibus</option>
+                <h2 class="sidebar-title">CMIP6 Projections</h2>
+                <h3 class="section-title">Variable</h3>
+                <select id="future-variable-selector">
+                    <optgroup label="CMIP6 Variables">
+                        <option value="penman">Potential ET</option>
+                        <option value="tas">Avg. Air Temperature</option>
+                        <option value="tasmax">Max. Air Temperature</option>
+                        <option value="tasmin">Min. Air Temperature</option>
+                        <option value="sfcWind">Wind Speed</option>
+                        <option value="pr">Precipitation</option>
+                    </optgroup>
+                    <optgroup label="Derived Variables">
+                        <option value="above90">Days Above 90°F</option>
+                        <option value="freeze-free">Freeze Free Days</option>
+                        <option value="gdd">Growing Degree Days</option>
+                        <option value="con-wet">Consecutive Wet Days</option>
+                        <option value="con-dry">Consecutive Dry Days</option>
+                        <option value="dry-days">Dry Days</option>
+                        <option value="wet-days">Wet Days</option>
+                    </optgroup>
                 </select>
-                <h3 class="section-title">Metric Type</h3>
-                <select>
-                    <option>Interdum consectetur libero</option>
-                    <option>Id faucibus nisl tincidunt</option>
-                    <option>Eget nullam non nisi est</option>
-                </select>
-                <h3 class="section-title">Economic Factors</h3>
+                <h3 class="section-title">Scenario</h3>
                 <div class="multiselect">
-                    <label><input type="checkbox"> Sit amet tellus cras</label>
-                    <label><input type="checkbox"> Adipiscing commodo elit at</label>
-                    <label><input type="checkbox"> Imperdiet dui accumsan sit</label>
-                    <label><input type="checkbox"> Amet volutpat consequat mauris</label>
-                    <label><input type="checkbox"> Nunc consequat interdum varius</label>
+                    <label><input type="checkbox" value="ssp126"> Moderating Emissions (SSP1-2.6)</label>
+                    <label><input type="checkbox" value="ssp245"> Middle of the Road (SSP2-4.5)</label>
+                    <label><input type="checkbox" value="ssp370"> High Emissions (SSP3-7.0)</label>
+                    <label><input type="checkbox" value="ssp585"> Accelerating Emissions (SSP5-8.5)</label>
                 </div>
-                <div class="chart-container", id="future_chart_container">
-                    <div class="logo">LOGO</div>
-                        <canvas id="future_chart"></canvas>
-                    </div>
+                <h3 class="section-title">Plot Options</h3>
+                <h4 class="section-title">Plot Type</h4>
+                <div class="radio-group">
+                    <label><input type="radio" name="plot-type" value="timeseries"> Timeseries</label>
+                    <label><input type="radio" name="plot-type" value="monthly"> Monthly Trend</label>
                 </div>
+
+                <h4 class="section-title">Time Period</h4>
+                <div class="radio-group">
+                    <label><input type="radio" name="time-period" value="end"> End of Century</label>
+                    <label><input type="radio" name="time-period" value="mid"> Mid Century</label>
+                    <label><input type="radio" name="time-period" value="ref"> Reference Period</label>
+                </div>
+
+                <h4 class="section-title">Map Type</h4>
+                <div class="radio-group">
+                    <label><input type="radio" name="map-type" value="average"> Period Average</label>
+                    <label><input type="radio" name="map-type" value="difference"> Difference From Normal</label>
+                </div>
+                <div class="plot-container">
+                    <canvas id="future_chart"></canvas>
+                </div>
+            </div>
             <div class="sidebar">
-                <h2 class="sidebar-title">Environmental Data</h2>
-                <h3 class="section-title">Environmental Category</h3>
-                <select>
-                    <option>Dignissim convallis aenean et</option>
-                    <option>Tortor at risus viverra</option>
-                    <option>Adipiscing at in tellus</option>
+                <h2 class="sidebar-title">Generate a Report</h2>
+                <h3 class="section-title">Historical Variables</h3>
+                <select id="historical-report-selector">
+                    <optgroup label="GridMET Variables">
+                        <option value="erc">Energy Release Component</option>
+                        <option value="etr">Potential ET (Alfalfa)</option>
+                        <option value="pet">Potential ET (Grass)</option>
+                        <option value="pr" selected="selected">Precipitation</option>
+                        <option value="rmax">Maximum Relative Humidity</option>
+                        <option value="rmin">Minimum Relative Humidity</option>
+                        <option value="tmmn">Minumum Temperature</option>
+                        <option value="tmmx">Maximum Temperature</option>
+                        <option value="vpd">Vapor Pressure Deficit</option>
+                        <option value="vs">Wind Speed</option>
+                    </optgroup>
+                    <optgroup label="Satellite Indicators">
+                        <option value="afg">RAP Annual Forb and Grass Cover</option>
+                        <option value="bgr">RAP Bare Ground Cover</option>
+                        <option value="pfg">RAP Perennial Forb and Grass Cover</option>
+                        <option value="shr">RAP Shrub Cover</option>
+                        <option value="tre">RAP Tree Cover</option>
+                        <option value="evi">MOD13 EVI</option>
+                        <option value="ndvi">MOD13 NDVI</option>
+                        <option value="et_m16">MOD16 ET</option>
+                        <option value="pet_m16">MOD16 PET</option>
+                        <option value="gpp">MOD17 GPP</option>
+                        <option value="afgnpp">RAP Forb and Grass NPP</option>
+                        <option value="pfgnpp">RAP Perennial Forb and Grass NPP</option>
+                        <option value="shrnpp">RAP Shrub NPP</option>
+                        <option value="trenpp">RAP Tree NPP</option>
+                    </optgroup>
                 </select>
-                <h3 class="section-title">Data Source</h3>
-                <select>
-                    <option>Integer eget aliquet nibh</option>
-                    <option>Praesent elementum facilisis</option>
-                    <option>Leo vel fringilla est</option>
+                <h3 class="section-title">Future Variables</h3>
+                <select id="future-variable-selector">
+                    <optgroup label="CMIP6 Variables">
+                        <option value="penman">Potential ET</option>
+                        <option value="tas">Avg. Air Temperature</option>
+                        <option value="tasmax">Max. Air Temperature</option>
+                        <option value="tasmin">Min. Air Temperature</option>
+                        <option value="sfcWind">Wind Speed</option>
+                        <option value="pr">Precipitation</option>
+                    </optgroup>
+                    <optgroup label="Derived Variables">
+                        <option value="above90">Days Above 90°F</option>
+                        <option value="freeze-free">Freeze Free Days</option>
+                        <option value="gdd">Growing Degree Days</option>
+                        <option value="con-wet">Consecutive Wet Days</option>
+                        <option value="con-dry">Consecutive Dry Days</option>
+                        <option value="dry-days">Dry Days</option>
+                        <option value="wet-days">Wet Days</option>
+                    </optgroup>
                 </select>
-                <h3 class="section-title">Impact Metrics</h3>
+                <h3 class="section-title">Emission Scenarios</h3>
                 <div class="multiselect">
-                    <label><input type="checkbox"> Ullamcorper sit amet risus</label>
-                    <label><input type="checkbox"> Nullam ac tortor vitae</label>
-                    <label><input type="checkbox"> Purus gravida quis blandit</label>
-                    <label><input type="checkbox"> Turpis cursus in hac</label>
-                    <label><input type="checkbox"> Habitasse platea dictumst</label>
+                    <label><input type="checkbox" value="ssp126"> Moderating Emissions (SSP1-2.6)</label>
+                    <label><input type="checkbox" value="ssp245"> Middle of the Road (SSP2-4.5)</label>
+                    <label><input type="checkbox" value="ssp370"> High Emissions (SSP3-7.0)</label>
+                    <label><input type="checkbox" value="ssp585"> Accelerating Emissions (SSP5-8.5)</label>
+                </div>
+                <div id="selected-report-div" style="background: white; padding: 10px; border-radius: 8px; border: 1px solid #ddd; margin: 10px 0;">
+                    Selected Location: No Location Selected! Please Click a Polygon.
+                </div>
+                <div class="controls" id="report-button">
+                    <button onclick="generateReport()" disabled>Generate Report</button>
                 </div>
             </div>
         </div>
     </div>
+    </div>
+    </div>
 
 
     <script>
-
-    function standardNormalCDF(z) {
+        const historical_colors = {
+            'pr': 'YlGnBu',
+            'pet': 'OrRd',
+            'etr': 'OrRd',
+            'tmmn': 'Blues',
+            'tmmx': 'Reds',
+            'rmax': 'PuBuGn',
+            'rmin': 'PuBuGn',
+            'th': 'PuRd',
+            'erc': 'PuRd',
+            'vpd': 'OrRd',
+            'vs': 'RdPu',
+            'sph': 'Oranges',
+            'srad': 'YlOrRd',
+            'afg': 'Greens',
+            'bgr': 'Greens',
+            'pfg': 'Greens',
+            'shr': 'Greens',
+            'tre': 'Greens',
+            'evi': 'Greens',
+            'ndvi': 'Greens',
+            'et_m16': 'OrRd',
+            'pet_m16': 'OrRd',
+            'gpp': 'PuRd',
+            'afgnpp': 'OrRd',
+            'pfgnpp': 'OrRd',
+            'shrnpp': 'OrRd',
+            'trenpp': 'OrRd'
+        };
+        function standardNormalCDF(z) {
             // constants
             const p = 0.3275911;
             const a1 = 0.254829592;
@@ -398,6 +581,44 @@
 
             return pValue;
         }
+
+        async function processPlotData(parts) {
+            const activeTab = document.querySelector('.tab.active').textContent;
+            const subdir = activeTab === "Historical Trends" ? "historical" : "future";
+            const selectedVariable = document.getElementById('historical-variable-selector');
+            const url = `https://data.climate.umt.edu/mt-normals/csvs/${subdir}/${selectedVariable.value}_${parts[0]}_${parts[1]}.csv`;
+            const dat = await get_df(url);
+            let dat_filtered = [];
+            const selectedTime = document.getElementById('historical-time-selector');
+            if (selectedTime.value === 'annual') {
+                const groupedData = {};
+                dat.forEach(item => {
+                    if (item.name === null) {
+                        return;
+                    }
+                    const year = item.date.split('-')[0];
+                    if (!groupedData[year]) {
+                        groupedData[year] = { year: year, value: 0 };
+                    }
+                    groupedData[year].value += item.value;
+                });
+                dat_filtered = Object.values(groupedData).map(item => ({ date: `${item.year}-01-01`, value: item.value })); // Use Jan 1 as a placeholder date
+            } else {
+                // Filter data for the selected month
+                dat_filtered = dat.filter(item => {
+                    const month = item.date.split('-')[1];
+                    const sel_month = String(new Date(Date.parse(`1970-${selectedTime.value}-01`)).getMonth() + 1).padStart(2, '0');
+                    return month === sel_month;
+                });
+            }
+
+            let plot_meta = {
+                "loc_name": parts[parts.length - 1],
+                "time": selectedTime.options[selectedTime.selectedIndex].text,
+                "variable": selectedVariable.options[selectedVariable.selectedIndex].text
+            }
+            createChart(dat_filtered, plot_meta);
+        }
         function switchTab(index) {
             // Update tab styles
             document.querySelectorAll('.tab').forEach((tab, i) => {
@@ -409,30 +630,28 @@
                 sidebar.classList.toggle('active', i === index);
             });
 
-            // Trigger resize for plot
-            window.dispatchEvent(new Event('resize'));
         }
 
         // Add event listener for variable selector changes
-        document.getElementById('historical-variable-selector').addEventListener('change', function(e) {
+        document.getElementById('historical-variable-selector').addEventListener('change', function (e) {
             const timeSelector = document.getElementById('historical-time-selector');
             const selectedVariable = e.target.value;
-            
+
             // Hide monthly options for satellite variables
             const satelliteVars = ['afg', 'bgr', 'pfg', 'shr', 'tre', 'evi', 'ndvi', 'et_m16', 'pet_m16', 'gpp', 'afgnpp', 'pfgnpp', 'shrnpp', 'trenpp'];
-            
+
             Array.from(timeSelector.options).forEach(option => {
                 if (option.value !== 'annual') {
                     option.style.display = satelliteVars.includes(selectedVariable) ? 'none' : '';
                 }
             });
-            
+
             // Reset to annual if satellite variable selected and monthly was previously selected
             if (satelliteVars.includes(selectedVariable) && timeSelector.value !== 'annual') {
                 timeSelector.value = 'annual';
             }
 
-            
+
         });
 
         // Function to update the map based on current selections
@@ -441,8 +660,9 @@
             const selectedTime = document.getElementById('historical-time-selector').value;
             const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable}/${selectedTime}_mean.tif`;
             await addCOG(url, selectedVariable, true, selectedTime);
-            // TODO: If a chart exists, render a chart on selection change using the last place that was clicked.
-            //createChart(dat_filtered);
+            if (most_recent_click) {
+                await processPlotData(most_recent_click);
+            }
         }
 
 
@@ -471,101 +691,104 @@
             return validData
         }
 
-    let historical_chart_instance;
+        let historical_chart_instance;
 
-    function resetZoom() {
-        historical_chart_instance.resetZoom();
-    }
+        function resetZoom() {
+            historical_chart_instance.resetZoom();
+        }
 
-    function createChart(data) {
-        const years = data.map(row => parseInt(row.date.split('-')[0]));
-        const values = data.map(row => row.value);
-        const pValue = mannKendall(values);
-        console.log(pValue);
-        if (pValue < 0.05) {
-            const datasets = [{
+        function createChart(data, plot_meta) {
+            console.log(plot_meta);
+            const years = data.map(row => parseInt(row.date.split('-')[0]));
+            const values = data.map(row => row.value);
+            const pValue = mannKendall(values);
+            let datasets = [{
                 label: 'Values',
                 data: values,
                 borderColor: 'rgb(75, 192, 192)',
                 backgroundColor: 'rgba(75, 192, 192, 0.5)',
                 pointRadius: 4,
                 tension: 0.1,
-                trendlineLinear: {
+            }];
+            let extra_text;
+            if (pValue < 0.05) {
+                extra_text = "Trend is Statistically Significant";
+                datasets[0].trendlineLinear = {
                     colorMin: "gray",
                     colorMax: "gray",
                     lineStyle: "solid",
                     width: 2,
                     projection: false
-                }
-            }];
-        } else {
-            const datasets = [{
-                label: 'Values',
-                data: values,
-                borderColor: 'rgb(75, 192, 192)',
-                backgroundColor: 'rgba(75, 192, 192, 0.5)',
-                pointRadius: 4,
-                tension: 0.1,
-            }];
-        }
+                };
+            }
 
-    
 
-        const ctx = document.getElementById('historical-plot');
-        if (historical_chart_instance) {
-            historical_chart_instance.destroy();
-        }
 
-        historical_chart_instance = new Chart(ctx, {
-            type: 'line',
-            data: {
-                labels: years,
-                datasets: datasets
-            },
-            options: {
-                responsive: true,
-                plugins: {
-                    legend: {
-                        position: 'top',
-                    },
-                    title: {
-                        display: true,
-                        text: 'Yearly Trend Analysis'
-                    },
-                    zoom: {
-                        pan: {
-                            enabled: true,
-                            mode: 'xy'
+            const ctx = document.getElementById('historical-plot');
+            if (historical_chart_instance) {
+                historical_chart_instance.destroy();
+            }
+
+            historical_chart_instance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: years,
+                    datasets: datasets
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    // Add watermark/logo configuration
+
+                    plugins: {
+                        legend: {
+                            position: null,
+                        },
+                        title: {
+                            display: true,
+                            text: `Trend in ${plot_meta.loc_name} ${plot_meta.time} ${plot_meta.variable}`,
                         },
                         zoom: {
-                            wheel: {
+                            pan: {
                                 enabled: true,
+                                mode: 'xy'
                             },
-                            pinch: {
-                                enabled: true
-                            },
-                            mode: 'xy',
-                        }
-                    }
-                },
-                scales: {
-                    x: {
-                        ticks: {
-                            callback: function(val, index) {
-                                const year = this.getLabelForValue(val);
-                                return year % 5 === 0 ? year : '';
+                            zoom: {
+                                wheel: {
+                                    enabled: true,
+                                },
+                                pinch: {
+                                    enabled: true
+                                },
+                                mode: 'xy',
+                            }
+                        },
+                        subtitle: {
+                            display: extra_text !== undefined,
+                            text: extra_text,
+                            font: {
+                                weight: 'bold'
                             }
                         }
                     },
-                    y: {
-                        beginAtZero: false
+                    scales: {
+                        x: {
+                            ticks: {
+                                callback: function (val, index) {
+                                    const year = this.getLabelForValue(val);
+                                    return year % 5 === 0 ? year : '';
+                                }
+                            }
+                        },
+                        y: {
+                            beginAtZero: false
+                        }
                     }
                 }
-            }
-        });
-    }
+            });
+        }
     </script>
-    
+
     </script>
 
     <script>
@@ -588,45 +811,75 @@
             collapsed: false,
             position: 'topleft'
         }).addTo(map);
-        
+
+        // Create legend
+        function getColor(d, min, max) {
+            return `rgb(${Math.round((d - min) / (max - min) * 255)}, 0, 0)`;
+        }
+
+        const legend = L.control({ position: 'bottomleft' });
+
+        legend.onAdd = function (map) {
+            const div = L.DomUtil.create('div', 'legend');
+            const labels = [];
+            let min = 0;
+            let max = 100;
+
+            // Loop through our intervals and generate a label with a colored square for each interval
+            for (let i = min; i <= max; i++) {
+                labels.push(`<li style="background: ${getColor(i, min, max)}"></li>`);
+            }
+
+            div.innerHTML = `
+                <span class="min">${min}</span>
+                <ul>${labels.join('')}</ul>
+                <span class="max">${max}</span>
+            `;
+
+            return div;
+        };
+
+        legend.addTo(map);
+
         let current_layer = null;
+        let most_recent_click;
 
         async function addCOG(url, name_, display = false, time_) {
             try {
-            const response = await fetch(url);
-            const arrayBuffer = await response.arrayBuffer();
-            const georaster = await parseGeoraster(arrayBuffer);
-            
-            const min = georaster.mins[0];
-            const max = georaster.maxs[0];
-            var layer = new GeoRasterLayer({
-                georaster: georaster,
-                opacity: 0.7,
-                updateWhenZooming: false,
-                pixelValuesToColorFn: function(pixelValues) {
-                var pixelValue = pixelValues[0];
-                if (pixelValue === -32767) return null;
-                return `rgba(${Math.round((pixelValue - min) / (max - min) * 255)}, 0, 0, 1)`;
-                },
-                resolution: 256
-            });
-            
-            layer.name = name_;
-            layer.time = time_;
+                const response = await fetch(url);
+                const arrayBuffer = await response.arrayBuffer();
+                const georaster = await parseGeoraster(arrayBuffer);
 
-            // baseMaps.addBaseLayer(layer, name_);
-            if (current_layer !== null) {
-                map.removeLayer(current_layer);
-            }
-            current_layer = layer;
+                const min = georaster.mins[0];
+                const max = georaster.maxs[0];
+                var layer = new GeoRasterLayer({
+                    georaster: georaster,
+                    opacity: 0.7,
+                    updateWhenZooming: false,
+                    pixelValuesToColorFn: function (pixelValues) {
+                        var pixelValue = pixelValues[0];
+                        if (pixelValue === -32767) return null;
+                        return `rgba(${Math.round((pixelValue - min) / (max - min) * 255)}, 0, 0, 1)`;
+                    },
+                    resolution: 256
+                });
 
-            if (display) {
-                current_layer.addTo(map);
-            }
+                layer.name = name_;
+                layer.time = time_;
+
+                // baseMaps.addBaseLayer(layer, name_);
+                if (current_layer !== null) {
+                    map.removeLayer(current_layer);
+                }
+                current_layer = layer;
+
+                if (display) {
+                    current_layer.addTo(map);
+                }
 
 
             } catch (error) {
-            console.error('Error loading COG:', error);
+                console.error('Error loading COG:', error);
             }
         }
 
@@ -640,19 +893,19 @@
                 // Create a feature group for the layer
                 const layerGroup = L.featureGroup();
                 const response = await fetch(url);
-                
+
                 for await (const feature of flatgeobuf.deserialize(response.body)) {
                     var feat = L.geoJSON(feature, {
-                    style: () => style,
-                    onEachFeature: (feature, layer) => {
-                        if (feature.properties && add_to_group) {
-                        layer.bindTooltip(
-                            feature.properties.name
-                        );
+                        style: () => style,
+                        onEachFeature: (feature, layer) => {
+                            if (feature.properties && add_to_group) {
+                                layer.bindTooltip(
+                                    feature.properties.name
+                                );
+                            }
                         }
-                    }
                     })
-                    
+
                     if (add_to_group) {
                         feat.addTo(layerGroup);
                     } else {
@@ -717,36 +970,10 @@
             Object.entries(overlayMaps).forEach(([key, value]) => {
                 value.on("click", async (event) => {
                     const parts = event.layer.feature.properties.id.split("_");
-                    const activeTab = document.querySelector('.tab.active').textContent;
-                    const subdir = activeTab === "Historical Trends" ? "historical" : "future";
-                    const selectedVariable = document.getElementById('historical-variable-selector').value;
-                    const url = `https://data.climate.umt.edu/mt-normals/csvs/${subdir}/${selectedVariable}_${parts[0]}_${parts[1]}.csv`;
-                    const dat = await get_df(url);
-                    let dat_filtered = [];
-                    const selectedTime = document.getElementById('historical-time-selector').value;
-                    if (selectedTime === 'annual') {
-                        const groupedData = {};
-                        dat.forEach(item => {
-                            if (item.name === null) {
-                                return;
-                            }
-                            const year = item.date.split('-')[0];
-                            if (!groupedData[year]) {
-                                groupedData[year] = { year: year, value: 0 };
-                            }
-                            groupedData[year].value += item.value;
-                        });
-                        dat_filtered = Object.values(groupedData).map(item => ({ date: `${item.year}-01-01`, value: item.value })); // Use Jan 1 as a placeholder date
-                    } else {
-                        // Filter data for the selected month
-                        dat_filtered = dat.filter(item => {
-                            const month = item.date.split('-')[1];
-                            const sel_month = String(new Date(Date.parse(`1970-${selectedTime}-01`)).getMonth() + 1).padStart(2, '0');
-                            return month === sel_month;
-                        });
-                    }
-                    createChart(dat_filtered);
-
+                    most_recent_click = parts;
+                    document.getElementById('selected-report-div').innerHTML = `Selected Location: ${parts[parts.length - 1]}`;
+                    document.getElementById('report-button').querySelector('button').disabled = false;
+                    await processPlotData(parts);
                 });
             });
 
@@ -754,4 +981,5 @@
         main();
     </script>
 </body>
+
 </html>
