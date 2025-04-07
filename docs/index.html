@@ -17,6 +17,7 @@
     <script src="https://unpkg.com/flatgeobuf@3.22.0/dist/flatgeobuf-geojson.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-trendline@2.1.7/src/chartjs-plugin-trendline.min.js"></script>
     <script src="https://unpkg.com/chroma-js@2.0.3/chroma.min.js"></script>
+    <script src="https://unpkg.com/mathjs@14.4.0/lib/browser/math.js"></script>
     <style>
         
         body,
@@ -515,15 +516,15 @@
         const raster_units = {
             hurs: "percent",
             pr: "mm",
-            rsds: "W m-2",
-            rlds: "W m-2",
-            sfcWind: "m/s",
-            tas: "kelvin",
-            tasmax: "kelvin",
-            tasmin: "kelvin",
+            rsds: "W/m^2",
+            rlds: "W/m^2",
+            sfcWind: "m/s", 
+            tas: "K",
+            tasmax: "K",
+            tasmin: "K",
             penman: "mm",
             erc: "",
-            etr: "mm", 
+            etr: "mm",
             pet: "mm",
             rmax: "percent",
             rmin: "percent",
@@ -548,33 +549,33 @@
             ndvi: "",
             et_m16: "mm",
             pet_m16: "mm",
-            gpp: "kg m-2",
-            afgnpp: "kg m-2",
-            pfgnpp: "kg m-2",
-            shrnpp: "kg m-2",
-            trenpp: "kg m-2"
+            gpp: "kg/m^2",
+            afgnpp: "kg/m^2",
+            pfgnpp: "kg/m^2",
+            shrnpp: "kg/m^2",
+            trenpp: "kg/m^2"
         };
 
         const units = {
-            hurs: '%',
-            pr: 'in',
-            rsds: 'W/m²',
-            rlds: 'W/m²', 
-            sfcWind: 'mi/hr',
-            tas: '°F',
-            tasmax: '°F',
-            tasmin: '°F',
-            penman: 'in',
+            hurs: 'percent',
+            pr: 'inch',
+            rsds: 'W/m^2',
+            rlds: 'W/m^2',
+            sfcWind: 'mi/h',
+            tas: 'degF',
+            tasmax: 'degF',
+            tasmin: 'degF', 
+            penman: 'inch',
             erc: '',
-            etr: 'in',
-            pet: 'in',
-            rmax: '%',
-            rmin: '%',
+            etr: 'inch',
+            pet: 'inch',
+            rmax: 'percent',
+            rmin: 'percent',
             sph: 'kg/kg',
-            tmmn: '°F',
-            tmmx: '°F',
-            vpd: 'mb',
-            vs: 'mi/hr',
+            tmmn: 'degF',
+            tmmx: 'degF',
+            vpd: 'mbar',
+            vs: 'mi/h',
             above90: '',
             'con-dry': '',
             'con-wet': '',
@@ -582,20 +583,20 @@
             'freeze-free': '',
             gdd: '',
             'wet-days': '',
-            afg: '%',
-            bgr: '%',
-            pfg: '%',
-            shr: '%',
-            tre: '%',
+            afg: 'percent',
+            bgr: 'percent',
+            pfg: 'percent',
+            shr: 'percent',
+            tre: 'percent',
             evi: '',
             ndvi: '',
-            et_m16: 'in',
-            pet_m16: 'in',
-            gpp: 'kg/m²',
-            afgnpp: 'kg/m²',
-            pfgnpp: 'kg/m²',
-            shrnpp: 'kg/m²',
-            trenpp: 'kg/m²'
+            et_m16: 'inch',
+            pet_m16: 'inch',
+            gpp: 'kg/m^2',
+            afgnpp: 'kg/m^2',
+            pfgnpp: 'kg/m^2',
+            shrnpp: 'kg/m^2',
+            trenpp: 'kg/m^2'
         };
         function standardNormalCDF(z) {
             // constants
@@ -1049,19 +1050,37 @@
 
         let current_layer = null;
         let most_recent_click;
+        function smartRound(v) {
+            return v < 1 ? Math.round((v + Number.EPSILON) * 100) / 100 : Math.round(v);
+        }
 
         function updateLegend(selectedVariable) {
             const old_div = legend.getContainer().querySelector('div');
             const new_div = L.DomUtil.create('div');
             const options = current_layer.options;
-            const lower_lim = options.min < 1 ? Math.round((options.min + Number.EPSILON) * 100) / 100 : Math.round(options.min);
-            const upper_lim = options.max < 1 ? Math.round((options.max + Number.EPSILON) * 100) / 100 : Math.round(options.max);
+            let lower_lim = options.min;
+            let upper_lim = options.max;
 
             const labels = [];
             const scale = chroma.scale(options.pal).mode('lab');
+            let legend_title;
+            if (units[selectedVariable.value] !== "" && units[selectedVariable.value] !== 'percent') {
+                let orig_units = raster_units[selectedVariable.value];
+                let new_units = units[selectedVariable.value];
+                lower_lim = math.unit(lower_lim, orig_units).to(new_units).toNumber(); 
+                upper_lim = math.unit(upper_lim, orig_units).to(new_units).toNumber();
+            }
+            
+            lower_lim = smartRound(lower_lim);
+            upper_lim = smartRound(upper_lim);
+            
+            legend_title = units[selectedVariable.value] !== "" 
+                ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[options.variable]}]`
+                : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
 
+            
             new_div.innerHTML = `
-                <div class="legend-title">${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[options.variable]}]</div>
+                <div class="legend-title">${legend_title}</div>
                 <ul>${Array.from({length: 200}, (_, i) => {
                     const normalized = i / 199;
                     const color = scale(normalized).css();
