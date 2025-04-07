@@ -15,9 +15,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-zoom/2.0.1/chartjs-plugin-zoom.min.js"></script>
     <script src="https://unpkg.com/flatgeobuf@3.22.0/dist/flatgeobuf-geojson.min.js"></script>
-    <script
-        src="https://cdn.jsdelivr.net/npm/chartjs-plugin-trendline@2.1.7/src/chartjs-plugin-trendline.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-trendline@2.1.7/src/chartjs-plugin-trendline.min.js"></script>
+    <script src="https://unpkg.com/chroma-js@2.0.3/chroma.min.js"></script>
     <style>
+        
         body,
         html {
             margin: 0;
@@ -261,6 +262,14 @@
             padding-right: 20px;
         }
 
+        .legend-title {
+            display: block;
+            text-align: center;
+            margin-bottom: 5px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
         .legend span {
             width: 50px;
             height: 18px;
@@ -334,7 +343,7 @@
                     <option value="dec">December</option>
                 </select>
                 <div class="plot-container">
-                    <canvas id="historical-plot"></canvas>
+                    <canvas id="historical-plot" style="width: 100%; height: 100%;"></canvas>
                 </div>
             </div>
             <div class="sidebar">
@@ -386,62 +395,60 @@
                     <label><input type="radio" name="map-type" value="difference"> Difference From Normal</label>
                 </div>
                 <div class="plot-container">
-                    <canvas id="future_chart"></canvas>
+                    <canvas id="future-plot"></canvas>
                 </div>
             </div>
             <div class="sidebar">
                 <h2 class="sidebar-title">Generate a Report</h2>
                 <h3 class="section-title">Historical Variables</h3>
-                <select id="historical-report-selector">
-                    <optgroup label="GridMET Variables">
-                        <option value="erc">Energy Release Component</option>
-                        <option value="etr">Potential ET (Alfalfa)</option>
-                        <option value="pet">Potential ET (Grass)</option>
-                        <option value="pr" selected="selected">Precipitation</option>
-                        <option value="rmax">Maximum Relative Humidity</option>
-                        <option value="rmin">Minimum Relative Humidity</option>
-                        <option value="tmmn">Minumum Temperature</option>
-                        <option value="tmmx">Maximum Temperature</option>
-                        <option value="vpd">Vapor Pressure Deficit</option>
-                        <option value="vs">Wind Speed</option>
-                    </optgroup>
-                    <optgroup label="Satellite Indicators">
-                        <option value="afg">RAP Annual Forb and Grass Cover</option>
-                        <option value="bgr">RAP Bare Ground Cover</option>
-                        <option value="pfg">RAP Perennial Forb and Grass Cover</option>
-                        <option value="shr">RAP Shrub Cover</option>
-                        <option value="tre">RAP Tree Cover</option>
-                        <option value="evi">MOD13 EVI</option>
-                        <option value="ndvi">MOD13 NDVI</option>
-                        <option value="et_m16">MOD16 ET</option>
-                        <option value="pet_m16">MOD16 PET</option>
-                        <option value="gpp">MOD17 GPP</option>
-                        <option value="afgnpp">RAP Forb and Grass NPP</option>
-                        <option value="pfgnpp">RAP Perennial Forb and Grass NPP</option>
-                        <option value="shrnpp">RAP Shrub NPP</option>
-                        <option value="trenpp">RAP Tree NPP</option>
-                    </optgroup>
-                </select>
+                <div class="multiselect">
+                    <h5 style="margin: 2px 0">GridMET Variables</h5>
+                    <label><input type="checkbox" value="erc">Energy Release Component</label>
+                    <label><input type="checkbox" value="etr">Potential ET (Alfalfa)</label>
+                    <label><input type="checkbox" value="pet">Potential ET (Grass)</label>
+                    <label><input type="checkbox" value="pr">Precipitation</label> 
+                    <label><input type="checkbox" value="rmax">Maximum Relative Humidity</label>
+                    <label><input type="checkbox" value="rmin">Minimum Relative Humidity</label>
+                    <label><input type="checkbox" value="tmmn">Minimum Temperature</label>
+                    <label><input type="checkbox" value="tmmx">Maximum Temperature</label>
+                    <label><input type="checkbox" value="vpd">Vapor Pressure Deficit</label>
+                    <label><input type="checkbox" value="vs">Wind Speed</label>
+                    <h5 style="margin: 2px 0">Satellite Indicators</h5>
+                    <label><input type="checkbox" value="afg">RAP Annual Forb and Grass Cover</label>
+                    <label><input type="checkbox" value="bgr">RAP Bare Ground Cover</label>
+                    <label><input type="checkbox" value="pfg">RAP Perennial Forb and Grass Cover</label>
+                    <label><input type="checkbox" value="shr">RAP Shrub Cover</label>
+                    <label><input type="checkbox" value="tre">RAP Tree Cover</label>
+                    <label><input type="checkbox" value="evi">MOD13 EVI</label>
+                    <label><input type="checkbox" value="ndvi">MOD13 NDVI</label>
+                    <label><input type="checkbox" value="et_m16">MOD16 ET</label>
+                    <label><input type="checkbox" value="pet_m16">MOD16 PET</label>
+                    <label><input type="checkbox" value="gpp">MOD17 GPP</label>
+                    <label><input type="checkbox" value="afgnpp">RAP Forb and Grass NPP</label>
+                    <label><input type="checkbox" value="pfgnpp">RAP Perennial Forb and Grass NPP</label>
+                    <label><input type="checkbox" value="shrnpp">RAP Shrub NPP</label>
+                    <label><input type="checkbox" value="trenpp">RAP Tree NPP</label>
+                </div>
+
                 <h3 class="section-title">Future Variables</h3>
-                <select id="future-variable-selector">
-                    <optgroup label="CMIP6 Variables">
-                        <option value="penman">Potential ET</option>
-                        <option value="tas">Avg. Air Temperature</option>
-                        <option value="tasmax">Max. Air Temperature</option>
-                        <option value="tasmin">Min. Air Temperature</option>
-                        <option value="sfcWind">Wind Speed</option>
-                        <option value="pr">Precipitation</option>
-                    </optgroup>
-                    <optgroup label="Derived Variables">
-                        <option value="above90">Days Above 90°F</option>
-                        <option value="freeze-free">Freeze Free Days</option>
-                        <option value="gdd">Growing Degree Days</option>
-                        <option value="con-wet">Consecutive Wet Days</option>
-                        <option value="con-dry">Consecutive Dry Days</option>
-                        <option value="dry-days">Dry Days</option>
-                        <option value="wet-days">Wet Days</option>
-                    </optgroup>
-                </select>
+                <div class="multiselect">
+                    <h5 style="margin: 2px 0">CMIP6 Variables</h5>
+                    <label><input type="checkbox" value="penman">Potential ET</label>
+                    <label><input type="checkbox" value="tas">Avg. Air Temperature</label>
+                    <label><input type="checkbox" value="tasmax">Max. Air Temperature</label>
+                    <label><input type="checkbox" value="tasmin">Min. Air Temperature</label>
+                    <label><input type="checkbox" value="sfcWind">Wind Speed</label>
+                    <label><input type="checkbox" value="pr">Precipitation</label>
+
+                    <h5 style="margin: 2px 0">Derived Variables</h5>
+                    <label><input type="checkbox" value="above90">Days Above 90°F</label>
+                    <label><input type="checkbox" value="freeze-free">Freeze Free Days</label>
+                    <label><input type="checkbox" value="gdd">Growing Degree Days</label>
+                    <label><input type="checkbox" value="con-wet">Consecutive Wet Days</label>
+                    <label><input type="checkbox" value="con-dry">Consecutive Dry Days</label>
+                    <label><input type="checkbox" value="dry-days">Dry Days</label>
+                    <label><input type="checkbox" value="wet-days">Wet Days</label>
+                </div>
                 <h3 class="section-title">Emission Scenarios</h3>
                 <div class="multiselect">
                     <label><input type="checkbox" value="ssp126"> Moderating Emissions (SSP1-2.6)</label>
@@ -463,18 +470,24 @@
 
 
     <script>
-        const historical_colors = {
+        const palettes = {
             'pr': 'YlGnBu',
             'pet': 'OrRd',
+            'penman': 'OrRd',
             'etr': 'OrRd',
             'tmmn': 'Blues',
+            'tasmin': 'Blues',
+            'tas': 'RdYlBu',
             'tmmx': 'Reds',
+            'tasmax': 'Reds',
+            'above90': 'YlOrRd',
             'rmax': 'PuBuGn',
             'rmin': 'PuBuGn',
             'th': 'PuRd',
             'erc': 'PuRd',
             'vpd': 'OrRd',
             'vs': 'RdPu',
+            'sfcWind': 'RdPu',
             'sph': 'Oranges',
             'srad': 'YlOrRd',
             'afg': 'Greens',
@@ -490,7 +503,99 @@
             'afgnpp': 'OrRd',
             'pfgnpp': 'OrRd',
             'shrnpp': 'OrRd',
-            'trenpp': 'OrRd'
+            'trenpp': 'OrRd',
+            'con-dry': 'YlOrRd',
+            'con-wet': 'BuPu',
+            'dry-days': 'YlOrRd',
+            'freeze-free': 'RdPu', 
+            'gdd': 'YlOrBr',
+            'wet-days': 'BuPu',
+        };
+
+        const raster_units = {
+            hurs: "percent",
+            pr: "mm",
+            rsds: "W m-2",
+            rlds: "W m-2",
+            sfcWind: "m/s",
+            tas: "kelvin",
+            tasmax: "kelvin",
+            tasmin: "kelvin",
+            penman: "mm",
+            erc: "",
+            etr: "mm", 
+            pet: "mm",
+            rmax: "percent",
+            rmin: "percent",
+            sph: "kg/kg",
+            tmmn: "K",
+            tmmx: "K",
+            vpd: "kPa",
+            vs: "m/s",
+            above90: "",
+            "con-dry": "",
+            "con-wet": "",
+            "dry-days": "",
+            "freeze-free": "",
+            gdd: "",
+            "wet-days": "",
+            afg: "percent",
+            bgr: "percent",
+            pfg: "percent",
+            shr: "percent",
+            tre: "percent",
+            evi: "",
+            ndvi: "",
+            et_m16: "mm",
+            pet_m16: "mm",
+            gpp: "kg m-2",
+            afgnpp: "kg m-2",
+            pfgnpp: "kg m-2",
+            shrnpp: "kg m-2",
+            trenpp: "kg m-2"
+        };
+
+        const units = {
+            hurs: '%',
+            pr: 'in',
+            rsds: 'W/m²',
+            rlds: 'W/m²', 
+            sfcWind: 'mi/hr',
+            tas: '°F',
+            tasmax: '°F',
+            tasmin: '°F',
+            penman: 'in',
+            erc: '',
+            etr: 'in',
+            pet: 'in',
+            rmax: '%',
+            rmin: '%',
+            sph: 'kg/kg',
+            tmmn: '°F',
+            tmmx: '°F',
+            vpd: 'mb',
+            vs: 'mi/hr',
+            above90: '',
+            'con-dry': '',
+            'con-wet': '',
+            'dry-days': '',
+            'freeze-free': '',
+            gdd: '',
+            'wet-days': '',
+            afg: '%',
+            bgr: '%',
+            pfg: '%',
+            shr: '%',
+            tre: '%',
+            evi: '',
+            ndvi: '',
+            et_m16: 'in',
+            pet_m16: 'in',
+            gpp: 'kg/m²',
+            afgnpp: 'kg/m²',
+            pfgnpp: 'kg/m²',
+            shrnpp: 'kg/m²',
+            trenpp: 'kg/m²'
         };
         function standardNormalCDF(z) {
             // constants
@@ -581,12 +686,7 @@
             return pValue;
         }
 
-        async function processPlotData(parts) {
-            const activeTab = document.querySelector('.tab.active').textContent;
-            const subdir = activeTab === "Historical Trends" ? "historical" : "future";
-            const selectedVariable = document.getElementById('historical-variable-selector');
-            const url = `https://data.climate.umt.edu/mt-normals/csvs/${subdir}/${selectedVariable.value}_${parts[0]}_${parts[1]}.csv`;
-            const dat = await get_df(url);
+        function render_historical_plot(dat, selectedVariable, parts) {
             let dat_filtered = [];
             const selectedTime = document.getElementById('historical-time-selector');
             if (selectedTime.value === 'annual') {
@@ -597,10 +697,22 @@
                     }
                     const year = item.date.split('-')[0];
                     if (!groupedData[year]) {
-                        groupedData[year] = { year: year, value: 0 };
+                        groupedData[year] = { year: year, value: 0, count: 0 };
                     }
-                    groupedData[year].value += item.value;
+                    if (['pr', 'etr', 'pet'].includes(selectedVariable.value)) {
+                        groupedData[year].value += item.value; // Sum for precipitation and ET
+                    } else {
+                        groupedData[year].value += item.value; // Running sum for mean
+                        groupedData[year].count++; // Count for mean calculation
+                    }
+    
                 });
+                // Calculate means for non-summed variables
+                if (!['pr', 'etr', 'pet'].includes(selectedVariable.value)) {
+                    Object.values(groupedData).forEach(item => {
+                        item.value = item.value / item.count;
+                    });
+                }
                 dat_filtered = Object.values(groupedData).map(item => ({ date: `${item.year}-01-01`, value: item.value })); // Use Jan 1 as a placeholder date
             } else {
                 // Filter data for the selected month
@@ -617,6 +729,18 @@
                 "variable": selectedVariable.options[selectedVariable.selectedIndex].text
             }
             createChart(dat_filtered, plot_meta);
+        }
+        async function processPlotData(parts) {
+            const activeTab = document.querySelector('.tab.active').textContent;
+            const subdir = activeTab === "Historical Trends" ? "historical" : "future";
+            const selectedVariable = document.getElementById('historical-variable-selector');
+            const url = `https://data.climate.umt.edu/mt-normals/csvs/${subdir}/${selectedVariable.value}_${parts[0]}_${parts[1]}.csv`;
+            const dat = await get_df(url);
+            if (subdir === "historical") {
+                render_historical_plot(dat, selectedVariable, parts);
+            } else {
+                render_future_plot(dat);
+            }
         }
         function switchTab(index) {
             // Update tab styles
@@ -654,23 +778,64 @@
         });
 
         // Function to update the map based on current selections
-        async function updateMap() {
-            const selectedVariable = document.getElementById('historical-variable-selector').value;
-            const selectedTime = document.getElementById('historical-time-selector').value;
-            const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable}/${selectedTime}_mean.tif`;
-            await addCOG(url, selectedVariable, true, selectedTime);
-            if (most_recent_click) {
-                await processPlotData(most_recent_click);
+        async function updateMap(historical = true) {
+            if (historical) {
+                const selectedVariable = document.getElementById('historical-variable-selector');
+                const selectedTime = document.getElementById('historical-time-selector').value;
+                const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable.value}/${selectedTime}_mean.tif`;
+                await addCOG(url, selectedVariable, true, selectedTime);
+                if (most_recent_click) {
+                    await processPlotData(most_recent_click);
+                }
+            } else {
+                const selectedVariable = document.getElementById('future-variable-selector');
+                const selectedTime = document.querySelector('input[name="time-period"]:checked').value;
+                const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
+                const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable.value}/${selectedTime}_${selectedMapType}.tif`;
+                await addCOG(url, selectedVariable, false, selectedTime);
             }
+
         }
 
+        function draw_default_message(ctx) {
+            const canvas = ctx.canvas;
+            const dpr = window.devicePixelRatio;
+            const rect = canvas.getBoundingClientRect();
+            
+            canvas.width = rect.width * dpr;
+            canvas.height = rect.height * dpr;
+            
+            ctx.scale(dpr, dpr);
+            canvas.style.width = rect.width + 'px';
+            canvas.style.height = rect.height + 'px';
 
+            ctx.font = "20px Arial";
+            ctx.textAlign = "center"; 
+            ctx.textBaseline = "middle";
+            
+            ctx.fillText(
+                "To view a plot,",
+                rect.width / 2,
+                rect.height / 2 - 12
+            );
+            ctx.fillText(
+                "please click a polygon on the map.",
+                rect.width / 2,
+                rect.height / 2 + 12
+            );
+        }
         // Initial load event
         document.addEventListener('DOMContentLoaded', updateMap);
+        document.addEventListener('DOMContentLoaded', function () {
+            let hist_plot_canvas = document.getElementById("historical-plot").getContext("2d");
+            let future_plot_canvas = document.getElementById("future-plot").getContext("2d");   
+            draw_default_message(hist_plot_canvas);
+            draw_default_message(future_plot_canvas);
+        });
 
         // Change event listeners for both selectors
-        document.getElementById('historical-variable-selector').addEventListener('change', updateMap);
-        document.getElementById('historical-time-selector').addEventListener('change', updateMap);
+        document.getElementById('historical-variable-selector').addEventListener('change', () => updateMap(true));
+        document.getElementById('historical-time-selector').addEventListener('change', () => updateMap(true));
 
         const customWatermarkPlugin = {
             id: 'customWatermark',
@@ -695,7 +860,7 @@
                     const canvas = ctx.canvas;
 
                     // --- 1. Define desired scale factor ---
-                    const scaleFactor = 0.07; // Make it 20% of its original size. Adjust this!
+                    const scaleFactor = 0.04; // Make it 20% of its original size. Adjust this!
 
                     // --- 2. Calculate the new width and height ---
                     const newWidth = img.width * scaleFactor;
@@ -706,15 +871,15 @@
                     // --- 3. Recalculate position based on the NEW scaled dimensions ---
 
 
-                    // Alternative: Centered position, adjusted for the new size:
-                    // const x = (canvas.width - newWidth) / 2;
-                    // const y = (canvas.height - newHeight) / 2;
+                    // Calculate position as a percentage of canvas size
+                    const x = canvas.width * 0.95 - newWidth;  // 80% from left
+                    const y = canvas.height * 0.9 - newHeight;  // 80% from top
 
                     // Apply transparency
                     ctx.globalAlpha = 0.3; // Adjust as needed
 
-                    // --- 4. Draw the image using the new dimensions ---
-                    ctx.drawImage(img, 30, 35, newWidth, newHeight); // Use the version with width/height args
+                    // --- 4. Draw the image using the calculated position ---
+                    ctx.drawImage(img, x, y, newWidth, newHeight);
 
                     ctx.restore();
                 }
@@ -749,7 +914,6 @@
         }
 
         function createChart(data, plot_meta) {
-            console.log(plot_meta);
             const years = data.map(row => parseInt(row.date.split('-')[0]));
             const values = data.map(row => row.value);
             const pValue = mannKendall(values);
@@ -845,11 +1009,20 @@
 
     <script>
         // Montana coordinates
-        const MONTANA_CENTER = [46.8797, -108.8];
+        const MONTANA_CENTER = [47, -106];
         const ZOOM_LEVEL = 6.5;
 
-        // Initialize single map instance
-        const map = L.map('map').setView(MONTANA_CENTER, ZOOM_LEVEL);
+        // Initialize single map instance with bounds restrictions
+        const map = L.map('map', {
+            zoomDelta: 0.1,
+            zoomSnap: 0.1,
+            minZoom: 6.5,
+            maxBounds: [
+            [43.5, -117.5],
+            [49.5, -93.5]
+            ],
+            maxBoundsViscosity: 1.0
+        }).setView(MONTANA_CENTER, ZOOM_LEVEL);
 
         // Add base tile layer
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -864,39 +1037,49 @@
             position: 'topleft'
         }).addTo(map);
 
-        // Create legend
-        function getColor(d, min, max) {
-            return `rgb(${Math.round((d - min) / (max - min) * 255)}, 0, 0)`;
+        const legend = L.control({ position: 'bottomleft' });
+        legend.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'legend')
+
+            return div
         }
 
-        const legend = L.control({ position: 'bottomleft' });
-
-        legend.onAdd = function (map) {
-            const div = L.DomUtil.create('div', 'legend');
-            const labels = [];
-            let min = 0;
-            let max = 100;
-
-            // Loop through our intervals and generate a label with a colored square for each interval
-            for (let i = min; i <= max; i++) {
-                labels.push(`<li style="background: ${getColor(i, min, max)}"></li>`);
-            }
-
-            div.innerHTML = `
-                <span class="min">${min}</span>
-                <ul>${labels.join('')}</ul>
-                <span class="max">${max}</span>
-            `;
-
-            return div;
-        };
-
         legend.addTo(map);
+
 
         let current_layer = null;
         let most_recent_click;
 
-        async function addCOG(url, name_, display = false, time_) {
+        function updateLegend(selectedVariable) {
+            const old_div = legend.getContainer().querySelector('div');
+            const new_div = L.DomUtil.create('div');
+            const options = current_layer.options;
+            const lower_lim = options.min < 1 ? Math.round((options.min + Number.EPSILON) * 100) / 100 : Math.round(options.min);
+            const upper_lim = options.max < 1 ? Math.round((options.max + Number.EPSILON) * 100) / 100 : Math.round(options.max);
+
+            const labels = [];
+            const scale = chroma.scale(options.pal).mode('lab');
+
+            new_div.innerHTML = `
+                <div class="legend-title">${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[options.variable]}]</div>
+                <ul>${Array.from({length: 200}, (_, i) => {
+                    const normalized = i / 199;
+                    const color = scale(normalized).css();
+                    return `<li style="background: ${color}"></li>`;
+                }).join('')}</ul>
+                <div class="min">${lower_lim}</div>
+                <div class="max">${upper_lim}</div>
+            `;
+
+            if (old_div == null) {
+                legend.getContainer().appendChild(new_div);
+            } else {
+                // replace el with newEL
+                legend.getContainer().replaceChild(new_div, old_div);
+            }            
+        }
+
+        async function addCOG(url, selectedVariable, display = false, time_) {
             try {
                 const response = await fetch(url);
                 const arrayBuffer = await response.arrayBuffer();
@@ -909,14 +1092,25 @@
                     opacity: 0.7,
                     updateWhenZooming: false,
                     pixelValuesToColorFn: function (pixelValues) {
-                        var pixelValue = pixelValues[0];
-                        if (pixelValue === -32767) return null;
-                        return `rgba(${Math.round((pixelValue - min) / (max - min) * 255)}, 0, 0, 1)`;
+                        const pixelValue = pixelValues[0];
+                        if (isNaN(pixelValue)) {
+                            return 'rgba(0,0,0,0)';
+                        }
+                        // Get the color scale based on the variable name
+                        const scale = chroma.scale(palettes[selectedVariable.value]).mode('lab');
+                        // Normalize the value between 0 and 1
+                        const normalized = (pixelValue - min) / (max - min);
+                        // Get color and convert to rgba
+                        const color = scale(normalized).alpha(1);
+                        return color.css('rgba');
                     },
-                    resolution: 256
+                    min: min,
+                    max: max,
+                    pal: palettes[selectedVariable.value],
+                    variable: selectedVariable.value,
                 });
 
-                layer.name = name_;
+                layer.name = selectedVariable.value;
                 layer.time = time_;
 
                 // baseMaps.addBaseLayer(layer, name_);
@@ -928,6 +1122,7 @@
                 if (display) {
                     current_layer.addTo(map);
                 }
+                updateLegend(selectedVariable);
 
 
             } catch (error) {
