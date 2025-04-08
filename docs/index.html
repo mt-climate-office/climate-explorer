@@ -278,6 +278,14 @@
             margin: 0 8px 0 0;
             opacity: 0.7;
         }
+
+        .leaflet-control-layers:nth-of-type(3) {
+            margin-top: 10px !important;
+            border-top: 2px solid #888 !important;
+            padding-top: 10px !important;
+            display: none;
+        }
+
     </style>
 </head>
 
@@ -369,30 +377,24 @@
                         <option value="wet-days">Wet Days</option>
                     </optgroup>
                 </select>
-                <h3 class="section-title">Scenario</h3>
-                <div class="multiselect">
-                    <label><input type="checkbox" value="ssp126"> Moderating Emissions (SSP1-2.6)</label>
-                    <label><input type="checkbox" value="ssp245"> Middle of the Road (SSP2-4.5)</label>
-                    <label><input type="checkbox" value="ssp370"> High Emissions (SSP3-7.0)</label>
-                    <label><input type="checkbox" value="ssp585"> Accelerating Emissions (SSP5-8.5)</label>
-                </div>
+
                 <h3 class="section-title">Plot Options</h3>
                 <h4 class="section-title">Plot Type</h4>
                 <div class="radio-group">
-                    <label><input type="radio" name="plot-type" value="timeseries"> Timeseries</label>
+                    <label><input type="radio" name="plot-type" value="timeseries" checked> Timeseries</label>
                     <label><input type="radio" name="plot-type" value="monthly"> Monthly Trend</label>
                 </div>
 
                 <h4 class="section-title">Time Period</h4>
                 <div class="radio-group">
-                    <label><input type="radio" name="time-period" value="end"> End of Century</label>
+                    <label><input type="radio" name="time-period" value="end" checked> End of Century</label>
                     <label><input type="radio" name="time-period" value="mid"> Mid Century</label>
                     <label><input type="radio" name="time-period" value="ref"> Reference Period</label>
                 </div>
 
                 <h4 class="section-title">Map Type</h4>
                 <div class="radio-group">
-                    <label><input type="radio" name="map-type" value="average"> Period Average</label>
+                    <label><input type="radio" name="map-type" value="average" checked> Period Average</label>
                     <label><input type="radio" name="map-type" value="difference"> Difference From Normal</label>
                 </div>
                 <div class="plot-container">
@@ -724,10 +726,15 @@
                 });
             }
 
+            let y_axis_title = units[selectedVariable.value] !== "" 
+                ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[selectedVariable.value]}]`
+                : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
+
             let plot_meta = {
                 "loc_name": parts[parts.length - 1],
                 "time": selectedTime.options[selectedTime.selectedIndex].text,
-                "variable": selectedVariable.options[selectedVariable.selectedIndex].text
+                "variable": selectedVariable.options[selectedVariable.selectedIndex].text,
+                "ytitle": y_axis_title,
             }
             createChart(dat_filtered, plot_meta);
         }
@@ -790,10 +797,25 @@
                 }
             } else {
                 const selectedVariable = document.getElementById('future-variable-selector');
-                const selectedTime = document.querySelector('input[name="time-period"]:checked').value;
                 const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
-                const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable.value}/${selectedTime}_${selectedMapType}.tif`;
-                await addCOG(url, selectedVariable, false, selectedTime);
+                const selectedTime = document.querySelector('input[name="time-period"]:checked').value;
+
+                const scenarios = ["ssp126", "ssp245", "ssp370", "ssp585"];
+                scenarios.forEach(scenario => {
+                    let base_url = "https://data.climate.umt.edu/mca/cmip/derived/"
+                    if (selectedMapType === "difference") {
+                        base_url += `difference/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
+                    } else {
+                        base_url += `${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
+                    }
+                    const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
+                    if (element) element.style.display = 'block';
+                    baseMapsSSP._layers.forEach(l => {
+                        baseMapsSSP.removeLayer(l.layer);
+                    });
+                    // TODO: Figure out how to make layer switching for SSP layers work.
+                    addCOG(base_url, selectedVariable, false, selectedTime, baseMapsSSP, scenario);
+                });
             }
 
         }
@@ -837,6 +859,13 @@
         // Change event listeners for both selectors
         document.getElementById('historical-variable-selector').addEventListener('change', () => updateMap(true));
         document.getElementById('historical-time-selector').addEventListener('change', () => updateMap(true));
+        document.getElementById('future-variable-selector').addEventListener('change', () => updateMap(false));
+        document.addEventListener('click', function(e) {
+            if (e.target.classList.contains('tab') && e.target.textContent === "Climate Projections") {
+                updateMap(false)
+            }
+        });
+
 
         const customWatermarkPlugin = {
             id: 'customWatermark',
@@ -997,7 +1026,11 @@
                             }
                         },
                         y: {
-                            beginAtZero: false
+                            beginAtZero: false,
+                            title: {
+                                display: true,
+                                text: plot_meta.ytitle
+                            }
                         }
                     }
                 },
@@ -1032,8 +1065,12 @@
         // Store layers for the control panel
         var overlayMaps = {};
 
-        // Create the layer control immediately with baseLayers (first argument) instead of overlays
         const baseMaps = L.control.layers({}, null, {
+            collapsed: false,
+            position: 'topleft'
+        }).addTo(map);
+
+        const baseMapsSSP = L.control.layers({}, null, {
             collapsed: false,
             position: 'topleft'
         }).addTo(map);
@@ -1098,14 +1135,14 @@
             }            
         }
 
-        async function addCOG(url, selectedVariable, display = false, time_) {
+        async function addCOG(url, selectedVariable, display = false, time_, bm = null, scenario = null) {
             try {
                 const response = await fetch(url);
                 const arrayBuffer = await response.arrayBuffer();
                 const georaster = await parseGeoraster(arrayBuffer);
-
                 const min = georaster.mins[0];
                 const max = georaster.maxs[0];
+                
                 var layer = new GeoRasterLayer({
                     georaster: georaster,
                     opacity: 0.7,
@@ -1113,7 +1150,7 @@
                     pixelValuesToColorFn: function (pixelValues) {
                         const pixelValue = pixelValues[0];
                         if (isNaN(pixelValue)) {
-                            return 'rgba(0,0,0,0)';
+                        return 'rgba(0,0,0,0)';
                         }
                         // Get the color scale based on the variable name
                         const scale = chroma.scale(palettes[selectedVariable.value]).mode('lab');
@@ -1128,22 +1165,27 @@
                     pal: palettes[selectedVariable.value],
                     variable: selectedVariable.value,
                 });
+                
 
                 layer.name = selectedVariable.value;
                 layer.time = time_;
 
-                // baseMaps.addBaseLayer(layer, name_);
+                if (bm !== null) {
+                    bm.addBaseLayer(layer, scenario);
+                }
+                
                 if (current_layer !== null) {
                     map.removeLayer(current_layer);
                 }
+                
                 current_layer = layer;
-
                 if (display) {
                     current_layer.addTo(map);
                 }
+                
                 updateLegend(selectedVariable);
-
-
+                
+                return layer; // Return the layer for reference if needed
             } catch (error) {
                 console.error('Error loading COG:', error);
             }
