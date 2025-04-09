@@ -788,14 +788,22 @@
         // Function to update the map based on current selections
         async function updateMap(historical = true) {
             if (historical) {
+                const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
+                if (element) element.style.display = 'none';
                 const selectedVariable = document.getElementById('historical-variable-selector');
                 const selectedTime = document.getElementById('historical-time-selector').value;
                 const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable.value}/${selectedTime}_mean.tif`;
-                await addCOG(url, selectedVariable, true, selectedTime);
+                await addCOG(url, selectedVariable, true);
                 if (most_recent_click) {
                     await processPlotData(most_recent_click);
                 }
             } else {
+                const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
+                if (element) element.style.display = 'block';
+                baseMapsSSP._layers.forEach(l => {
+                    console.log(l);
+                    baseMapsSSP.removeLayer(l.layer);
+                });
                 const selectedVariable = document.getElementById('future-variable-selector');
                 const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
                 const selectedTime = document.querySelector('input[name="time-period"]:checked').value;
@@ -808,14 +816,11 @@
                     } else {
                         base_url += `${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
                     }
-                    const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
-                    if (element) element.style.display = 'block';
-                    baseMapsSSP._layers.forEach(l => {
-                        baseMapsSSP.removeLayer(l.layer);
-                    });
+
                     // TODO: Figure out how to make layer switching for SSP layers work.
-                    addCOG(base_url, selectedVariable, false, selectedTime, baseMapsSSP, scenario);
+                    addCOG(base_url, selectedVariable, false, baseMapsSSP, scenario);
                 });
+
             }
 
         }
@@ -861,9 +866,15 @@
         document.getElementById('historical-time-selector').addEventListener('change', () => updateMap(true));
         document.getElementById('future-variable-selector').addEventListener('change', () => updateMap(false));
         document.addEventListener('click', function(e) {
-            if (e.target.classList.contains('tab') && e.target.textContent === "Climate Projections") {
-                updateMap(false)
-            }
+            if (e.target.classList.contains('tab')) {
+                if (e.target.textContent === "Climate Projections") {
+                    updateMap(false)
+                } else {
+                    const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
+                    if (element) element.style.display = 'none';
+                    updateMap(true);
+                }
+            } 
         });
 
 
@@ -1135,7 +1146,7 @@
             }            
         }
 
-        async function addCOG(url, selectedVariable, display = false, time_, bm = null, scenario = null) {
+        async function addCOG(url, selectedVariable, display = false, bm = null, scenario = null) {
             try {
                 const response = await fetch(url);
                 const arrayBuffer = await response.arrayBuffer();
@@ -1168,7 +1179,6 @@
                 
 
                 layer.name = selectedVariable.value;
-                layer.time = time_;
 
                 if (bm !== null) {
                     bm.addBaseLayer(layer, scenario);
@@ -1185,7 +1195,7 @@
                 
                 updateLegend(selectedVariable);
                 
-                return layer; // Return the layer for reference if needed
+                return layer;
             } catch (error) {
                 console.error('Error loading COG:', error);
             }
