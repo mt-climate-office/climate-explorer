@@ -64,8 +64,7 @@ function(input, output, session) {
             table_type = input$plot_type,
             scenarios = scenarios
           )
-        ) %T>%
-        print() %>%
+        ) %>%
         httr::content(show_col_types = FALSE) %>% 
         factor_scenario() 
     
@@ -109,9 +108,8 @@ function(input, output, session) {
       hp <- input$historical_period
     }
     
-    print(glue::glue("{API_URL}/data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"))
     dat <- glue::glue(
-      "{API_URL}/data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"
+      "{API_URL}data/historical/{click[[1]]}/{click[[2]]}/{input$historical_variable}/"
 
     ) %>% 
       readr::read_csv(show_col_types = FALSE) 
@@ -197,7 +195,6 @@ function(input, output, session) {
     
     url = glue::glue("https://data.climate.umt.edu/mt-normals/cog/{input$historical_variable}/{tolower(hp)}_mean.tif")
         info <- historical_legend(input)
-    print(info)
 
     leafletProxy("map_historical", data = counties) %>%
       removeTiles(layerId = "geo") %>%
