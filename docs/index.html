@@ -10,16 +10,16 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
     <script src="https://unpkg.com/papaparse@5.5.2/papaparse.min.js"></script>
     <script src="https://unpkg.com/georaster"></script>
-    <script src="https://unpkg.com/georaster-layer-for-leaflet"></script>
+    <script src="https://unpkg.com/georaster-layer-for-leaflet@3.8.0/dist/georaster-layer-for-leaflet.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-zoom/2.0.1/chartjs-plugin-zoom.min.js"></script>
     <script src="https://unpkg.com/flatgeobuf@3.22.0/dist/flatgeobuf-geojson.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-trendline@2.1.7/src/chartjs-plugin-trendline.min.js"></script>
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-plugin-trendline@2.1.7/src/chartjs-plugin-trendline.min.js"></script>
     <script src="https://unpkg.com/chroma-js@2.0.3/chroma.min.js"></script>
     <script src="https://unpkg.com/mathjs@14.4.0/lib/browser/math.js"></script>
     <style>
-        
         body,
         html {
             margin: 0;
@@ -145,10 +145,10 @@
         }
 
         .radio-group {
-            background: white; 
-            padding: 10px; 
-            border-radius: 8px; 
-            border: 1px solid #ddd; 
+            background: white;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
             margin: 10px 0;
         }
 
@@ -285,7 +285,6 @@
             padding-top: 10px !important;
             display: none;
         }
-
     </style>
 </head>
 
@@ -298,7 +297,6 @@
             </a>
             <button class="tab active" onclick="switchTab(0)">Historical Trends</button>
             <button class="tab" onclick="switchTab(1)">Climate Projections</button>
-            <button class="tab" onclick="switchTab(2)">Report Builder</button>
         </div>
         <div class="content">
             <div id="map" class="map"></div>
@@ -401,71 +399,7 @@
                     <canvas id="future-plot"></canvas>
                 </div>
             </div>
-            <div class="sidebar">
-                <h2 class="sidebar-title">Generate a Report</h2>
-                <h3 class="section-title">Historical Variables</h3>
-                <div class="multiselect">
-                    <h5 style="margin: 2px 0">GridMET Variables</h5>
-                    <label><input type="checkbox" value="erc">Energy Release Component</label>
-                    <label><input type="checkbox" value="etr">Potential ET (Alfalfa)</label>
-                    <label><input type="checkbox" value="pet">Potential ET (Grass)</label>
-                    <label><input type="checkbox" value="pr">Precipitation</label> 
-                    <label><input type="checkbox" value="rmax">Maximum Relative Humidity</label>
-                    <label><input type="checkbox" value="rmin">Minimum Relative Humidity</label>
-                    <label><input type="checkbox" value="tmmn">Minimum Temperature</label>
-                    <label><input type="checkbox" value="tmmx">Maximum Temperature</label>
-                    <label><input type="checkbox" value="vpd">Vapor Pressure Deficit</label>
-                    <label><input type="checkbox" value="vs">Wind Speed</label>
-                    <h5 style="margin: 2px 0">Satellite Indicators</h5>
-                    <label><input type="checkbox" value="afg">RAP Annual Forb and Grass Cover</label>
-                    <label><input type="checkbox" value="bgr">RAP Bare Ground Cover</label>
-                    <label><input type="checkbox" value="pfg">RAP Perennial Forb and Grass Cover</label>
-                    <label><input type="checkbox" value="shr">RAP Shrub Cover</label>
-                    <label><input type="checkbox" value="tre">RAP Tree Cover</label>
-                    <label><input type="checkbox" value="evi">MOD13 EVI</label>
-                    <label><input type="checkbox" value="ndvi">MOD13 NDVI</label>
-                    <label><input type="checkbox" value="et_m16">MOD16 ET</label>
-                    <label><input type="checkbox" value="pet_m16">MOD16 PET</label>
-                    <label><input type="checkbox" value="gpp">MOD17 GPP</label>
-                    <label><input type="checkbox" value="afgnpp">RAP Forb and Grass NPP</label>
-                    <label><input type="checkbox" value="pfgnpp">RAP Perennial Forb and Grass NPP</label>
-                    <label><input type="checkbox" value="shrnpp">RAP Shrub NPP</label>
-                    <label><input type="checkbox" value="trenpp">RAP Tree NPP</label>
-                </div>
 
-                <h3 class="section-title">Future Variables</h3>
-                <div class="multiselect">
-                    <h5 style="margin: 2px 0">CMIP6 Variables</h5>
-                    <label><input type="checkbox" value="penman">Potential ET</label>
-                    <label><input type="checkbox" value="tas">Avg. Air Temperature</label>
-                    <label><input type="checkbox" value="tasmax">Max. Air Temperature</label>
-                    <label><input type="checkbox" value="tasmin">Min. Air Temperature</label>
-                    <label><input type="checkbox" value="sfcWind">Wind Speed</label>
-                    <label><input type="checkbox" value="pr">Precipitation</label>
-
-                    <h5 style="margin: 2px 0">Derived Variables</h5>
-                    <label><input type="checkbox" value="above90">Days Above 90°F</label>
-                    <label><input type="checkbox" value="freeze-free">Freeze Free Days</label>
-                    <label><input type="checkbox" value="gdd">Growing Degree Days</label>
-                    <label><input type="checkbox" value="con-wet">Consecutive Wet Days</label>
-                    <label><input type="checkbox" value="con-dry">Consecutive Dry Days</label>
-                    <label><input type="checkbox" value="dry-days">Dry Days</label>
-                    <label><input type="checkbox" value="wet-days">Wet Days</label>
-                </div>
-                <h3 class="section-title">Emission Scenarios</h3>
-                <div class="multiselect">
-                    <label><input type="checkbox" value="ssp126"> Moderating Emissions (SSP1-2.6)</label>
-                    <label><input type="checkbox" value="ssp245"> Middle of the Road (SSP2-4.5)</label>
-                    <label><input type="checkbox" value="ssp370"> High Emissions (SSP3-7.0)</label>
-                    <label><input type="checkbox" value="ssp585"> Accelerating Emissions (SSP5-8.5)</label>
-                </div>
-                <div id="selected-report-div" style="background: white; padding: 10px; border-radius: 8px; border: 1px solid #ddd; margin: 10px 0;">
-                    Selected Location: No Location Selected! Please Click a Polygon.
-                </div>
-                <div class="controls" id="report-button">
-                    <button onclick="generateReport()" disabled>Generate Report</button>
-                </div>
-            </div>
         </div>
     </div>
     </div>
@@ -510,7 +444,7 @@
             'con-dry': 'YlOrRd',
             'con-wet': 'BuPu',
             'dry-days': 'YlOrRd',
-            'freeze-free': 'RdPu', 
+            'freeze-free': 'RdPu',
             'gdd': 'YlOrBr',
             'wet-days': 'BuPu',
         };
@@ -520,7 +454,7 @@
             pr: "mm",
             rsds: "W/m^2",
             rlds: "W/m^2",
-            sfcWind: "m/s", 
+            sfcWind: "m/s",
             tas: "K",
             tasmax: "K",
             tasmin: "K",
@@ -566,7 +500,7 @@
             sfcWind: 'mi/h',
             tas: 'degF',
             tasmax: 'degF',
-            tasmin: 'degF', 
+            tasmin: 'degF',
             penman: 'inch',
             erc: '',
             etr: 'inch',
@@ -708,7 +642,7 @@
                         groupedData[year].value += item.value; // Running sum for mean
                         groupedData[year].count++; // Count for mean calculation
                     }
-    
+
                 });
                 // Calculate means for non-summed variables
                 if (!['pr', 'etr', 'pet'].includes(selectedVariable.value)) {
@@ -726,7 +660,7 @@
                 });
             }
 
-            let y_axis_title = units[selectedVariable.value] !== "" 
+            let y_axis_title = units[selectedVariable.value] !== ""
                 ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[selectedVariable.value]}]`
                 : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
 
@@ -738,16 +672,34 @@
             }
             createChart(dat_filtered, plot_meta);
         }
+
+        async function render_future_plot(parts) {
+            const selectedVariable = document.getElementById('future-variable-selector');
+            const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
+            const selectedScenarios = ['ssp245', 'ssp370']; // Default scenarios
+
+            let plot_meta = {
+                "loc_name": parts[parts.length - 1],
+                "variable": selectedVariable.options[selectedVariable.selectedIndex].text,
+                "plot_type": selectedPlotType
+            };
+
+            if (selectedPlotType === 'timeseries') {
+                await createFutureTimeseriesChart(parts, selectedVariable, selectedScenarios, plot_meta);
+            } else {
+                await createFutureMonthlyChart(parts, selectedVariable, selectedScenarios, plot_meta);
+            }
+        }
         async function processPlotData(parts) {
             const activeTab = document.querySelector('.tab.active').textContent;
-            const subdir = activeTab === "Historical Trends" ? "historical" : "future";
-            const selectedVariable = document.getElementById('historical-variable-selector');
-            const url = `https://data.climate.umt.edu/mt-normals/csvs/${subdir}/${selectedVariable.value}_${parts[0]}_${parts[1]}.csv`;
-            const dat = await get_df(url);
-            if (subdir === "historical") {
+            if (activeTab === "Historical Trends") {
+                const selectedVariable = document.getElementById('historical-variable-selector');
+                // Fix the CSV file naming convention: variable_layertype_locationId_plotType_differenceFromNormal.csv
+                const url = `https://data.climate.umt.edu/mt-normals/csvs/historical/${selectedVariable.value}_${parts[0]}_${parts[1]}.csv`;
+                const dat = await get_df(url);
                 render_historical_plot(dat, selectedVariable, parts);
-            } else {
-                render_future_plot(dat);
+            } else if (activeTab === "Climate Projections") {
+                await render_future_plot(parts);
             }
         }
         function switchTab(index) {
@@ -761,6 +713,12 @@
                 sidebar.classList.toggle('active', i === index);
             });
 
+            // Update map based on active tab
+            if (index === 0) {
+                updateMap(true);
+            } else if (index === 1) {
+                updateMap(false);
+            }
         }
 
         // Add event listener for variable selector changes
@@ -785,11 +743,88 @@
 
         });
 
+        let current_layer = null;
+        let most_recent_click;
+        let sspLayers = []; // Track SSP layers for proper cleanup
+
+        async function addCOG(url, selectedVariable, display = false, bm = null, scenario = null) {
+            try {
+                const response = await fetch(url);
+                const arrayBuffer = await response.arrayBuffer();
+                const georaster = await parseGeoraster(arrayBuffer);
+                const min = georaster.mins[0];
+                const max = georaster.maxs[0];
+
+                var layer = new GeoRasterLayer({
+                    georaster: georaster,
+                    opacity: 0.7,
+                    updateWhenZooming: false,
+                    pixelValuesToColorFn: function (pixelValues) {
+                        const pixelValue = pixelValues[0];
+                        if (isNaN(pixelValue)) {
+                            return 'rgba(0,0,0,0)';
+                        }
+                        // Get the color scale based on the variable name
+                        const scale = chroma.scale(palettes[selectedVariable.value]).mode('lab');
+                        // Normalize the value between 0 and 1
+                        const normalized = (pixelValue - min) / (max - min);
+                        // Get color and convert to rgba
+                        const color = scale(normalized).alpha(1);
+                        return color.css('rgba');
+                    },
+                    min: min,
+                    max: max,
+                    pal: palettes[selectedVariable.value],
+                    variable: selectedVariable.value,
+                });
+
+
+                layer.name = selectedVariable.value;
+
+                if (bm !== null) {
+                    bm.addBaseLayer(layer, scenario);
+                    // Track SSP layers for cleanup
+                    sspLayers.push(layer);
+                }
+
+                // Only set as current layer and add to map if display is true
+                if (display) {
+                    if (current_layer !== null) {
+                        map.removeLayer(current_layer);
+                    }
+                    current_layer = layer;
+                    current_layer.addTo(map);
+                }
+
+                // Only update legend for display layers (historical tab)
+                if (display) {
+                    updateLegend(selectedVariable);
+                }
+
+                return layer;
+            } catch (error) {
+                console.error('Error loading COG:', error);
+            }
+        }
+
         // Function to update the map based on current selections
         async function updateMap(historical = true) {
             if (historical) {
                 const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
                 if (element) element.style.display = 'none';
+
+                // Clear any existing SSP layers when switching to historical
+                sspLayers.forEach(layer => {
+                    map.removeLayer(layer);
+                    baseMapsSSP.removeLayer(layer);
+                });
+                sspLayers = [];
+
+                if (current_layer !== null) {
+                    map.removeLayer(current_layer);
+                    current_layer = null;
+                }
+
                 const selectedVariable = document.getElementById('historical-variable-selector');
                 const selectedTime = document.getElementById('historical-time-selector').value;
                 const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable.value}/${selectedTime}_mean.tif`;
@@ -800,47 +835,90 @@
             } else {
                 const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
                 if (element) element.style.display = 'block';
-                baseMapsSSP._layers.forEach(l => {
-                    console.log(l);
-                    baseMapsSSP.removeLayer(l.layer);
+
+                // Remove current historical layer if it exists
+                if (current_layer !== null) {
+                    map.removeLayer(current_layer);
+                    current_layer = null;
+                }
+
+                // Clear existing SSP layers
+                sspLayers.forEach(layer => {
+                    map.removeLayer(layer);
+                    baseMapsSSP.removeLayer(layer);
                 });
+                sspLayers = []; // Reset the tracking array
+
                 const selectedVariable = document.getElementById('future-variable-selector');
                 const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
                 const selectedTime = document.querySelector('input[name="time-period"]:checked').value;
 
                 const scenarios = ["ssp126", "ssp245", "ssp370", "ssp585"];
-                scenarios.forEach(scenario => {
-                    let base_url = "https://data.climate.umt.edu/mca/cmip/derived/"
+                const scenarioNames = {
+                    'ssp126': 'SSP1-2.6',
+                    'ssp245': 'SSP2-4.5',
+                    'ssp370': 'SSP3-7.0',
+                    'ssp585': 'SSP5-8.5'
+                };
+
+                let firstLayer = null;
+                let ssp245Layer = null;
+
+                for (const scenario of scenarios) {
+                    let base_url;
                     if (selectedMapType === "difference") {
-                        base_url += `difference/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
+                        base_url = `https://data.climate.umt.edu/mca/cmip/derived/difference/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
                     } else {
-                        base_url += `${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
+                        base_url = `https://data.climate.umt.edu/mca/cmip/derived/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
                     }
 
-                    // TODO: Figure out how to make layer switching for SSP layers work.
-                    addCOG(base_url, selectedVariable, false, baseMapsSSP, scenario);
-                });
+                    try {
+                        const layer = await addCOG(base_url, selectedVariable, false, baseMapsSSP, scenarioNames[scenario]);
+                        // Use the first layer for legend update
+                        if (!firstLayer && layer) {
+                            firstLayer = layer;
+                        }
+                        // Track SSP2-4.5 layer for default selection
+                        if (scenario === 'ssp245' && layer) {
+                            ssp245Layer = layer;
+                        }
+                    } catch (error) {
+                        console.error(`Error loading COG for scenario ${scenario}:`, error);
+                    }
+                }
 
+                // Update legend with the first layer's properties
+                if (firstLayer) {
+                    updateLegend(selectedVariable, firstLayer);
+                }
+
+                // Select SSP2-4.5 by default
+                if (ssp245Layer) {
+                    ssp245Layer.addTo(map);
+                }
+
+                if (most_recent_click) {
+                    await processPlotData(most_recent_click);
+                }
             }
-
         }
 
         function draw_default_message(ctx) {
             const canvas = ctx.canvas;
             const dpr = window.devicePixelRatio;
             const rect = canvas.getBoundingClientRect();
-            
+
             canvas.width = rect.width * dpr;
             canvas.height = rect.height * dpr;
-            
+
             ctx.scale(dpr, dpr);
             canvas.style.width = rect.width + 'px';
             canvas.style.height = rect.height + 'px';
 
             ctx.font = "20px Arial";
-            ctx.textAlign = "center"; 
+            ctx.textAlign = "center";
             ctx.textBaseline = "middle";
-            
+
             ctx.fillText(
                 "To view a plot,",
                 rect.width / 2,
@@ -856,7 +934,7 @@
         document.addEventListener('DOMContentLoaded', updateMap);
         document.addEventListener('DOMContentLoaded', function () {
             let hist_plot_canvas = document.getElementById("historical-plot").getContext("2d");
-            let future_plot_canvas = document.getElementById("future-plot").getContext("2d");   
+            let future_plot_canvas = document.getElementById("future-plot").getContext("2d");
             draw_default_message(hist_plot_canvas);
             draw_default_message(future_plot_canvas);
         });
@@ -865,17 +943,26 @@
         document.getElementById('historical-variable-selector').addEventListener('change', () => updateMap(true));
         document.getElementById('historical-time-selector').addEventListener('change', () => updateMap(true));
         document.getElementById('future-variable-selector').addEventListener('change', () => updateMap(false));
-        document.addEventListener('click', function(e) {
-            if (e.target.classList.contains('tab')) {
-                if (e.target.textContent === "Climate Projections") {
-                    updateMap(false)
-                } else {
-                    const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
-                    if (element) element.style.display = 'none';
-                    updateMap(true);
+
+        // Add event listeners for future plot controls
+        document.querySelectorAll('input[name="plot-type"]').forEach(radio => {
+            radio.addEventListener('change', () => {
+                if (most_recent_click) {
+                    processPlotData(most_recent_click);
                 }
-            } 
+            });
         });
+
+        document.querySelectorAll('input[name="time-period"]').forEach(radio => {
+            radio.addEventListener('change', () => updateMap(false));
+        });
+
+        document.querySelectorAll('input[name="map-type"]').forEach(radio => {
+            radio.addEventListener('change', () => updateMap(false));
+        });
+
+        // Tab click handling is now managed by switchTab function
+        // Individual control event listeners handle map updates
 
 
         const customWatermarkPlugin = {
@@ -949,9 +1036,302 @@
         }
 
         let historical_chart_instance;
+        let future_chart_instance;
 
         function resetZoom() {
-            historical_chart_instance.resetZoom();
+            if (historical_chart_instance) {
+                historical_chart_instance.resetZoom();
+            }
+            if (future_chart_instance) {
+                future_chart_instance.resetZoom();
+            }
+        }
+
+        async function createFutureTimeseriesChart(parts, selectedVariable, scenarios, plot_meta) {
+            const scenarioColors = {
+                'ssp126': 'rgba(54, 162, 235, 0.8)',
+                'ssp245': 'rgba(255, 206, 86, 0.8)',
+                'ssp370': 'rgba(255, 99, 132, 0.8)',
+                'ssp585': 'rgba(153, 102, 255, 0.8)'
+            };
+
+            const scenarioNames = {
+                'ssp126': 'SSP1-2.6',
+                'ssp245': 'SSP2-4.5',
+                'ssp370': 'SSP3-7.0',
+                'ssp585': 'SSP5-8.5'
+            };
+
+            const scenarioMapping = {
+                'ssp126': 'Moderating Emissions (SSP1-2.6)',
+                'ssp245': 'Middle-of-the-Road (SSP2-4.5)',
+                'ssp370': 'Regional Rivalry (SSP3-7.0)',
+                'ssp585': 'Fossil-fueled Development (SSP5-8.5)'
+            };
+
+            let datasets = [];
+
+            // Get the current selections for plot type and difference from normal
+            const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
+            const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
+            const differenceFromNormal = selectedMapType === 'difference' ? 'TRUE' : 'FALSE';
+
+            try {
+                // Corrected URL construction - no scenario in filename
+                const url = `https://data.climate.umt.edu/mt-normals/csvs/future/${selectedVariable.value}_${parts[0]}_${parts[1]}_${selectedPlotType}_${differenceFromNormal}.csv`;
+                console.log('Loading URL:', url);
+
+                // Load CSV data directly without get_df filtering
+                const response = await fetch(url);
+                const csv = await response.text();
+                const results = Papa.parse(csv, {
+                    header: true,
+                    dynamicTyping: true
+                });
+                const allData = results.data.filter(row => row && row.value !== null && row.value !== undefined);
+
+                console.log('Raw CSV data:', results.data.slice(0, 5)); // Show first 5 rows
+                console.log('Filtered data:', allData.slice(0, 5));
+                console.log('Available scenarios:', [...new Set(allData.map(row => row.scenario))]);
+
+                if (allData && allData.length > 0) {
+                    for (const scenario of scenarios) {
+                        // Filter data by scenario from the CSV - match by SSP code in parentheses
+                        const scenarioData = allData.filter(row => {
+                            const scenarioText = row.scenario || '';
+                            return scenarioText.includes(scenarioNames[scenario]) ||
+                                scenarioText.includes(scenario.toUpperCase());
+                        });
+
+                        console.log(`Scenario ${scenario} data:`, scenarioData);
+
+                        if (scenarioData.length > 0) {
+                            const values = scenarioData.map(row => parseFloat(row.value));
+
+                            datasets.push({
+                                label: scenarioNames[scenario],
+                                data: values,
+                                borderColor: scenarioColors[scenario],
+                                backgroundColor: scenarioColors[scenario].replace('0.8', '0.3'),
+                                pointRadius: 3,
+                                tension: 0.1,
+                            });
+                        }
+                    }
+                }
+                console.log('Final datasets:', datasets);
+            } catch (error) {
+                console.error('Error loading future data:', error);
+            }
+
+            const ctx = document.getElementById('future-plot');
+            if (future_chart_instance) {
+                future_chart_instance.destroy();
+            }
+
+            let y_axis_title = units[selectedVariable.value] !== ""
+                ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[selectedVariable.value]}]`
+                : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
+
+            future_chart_instance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: Array.from({ length: 86 }, (_, i) => 2015 + i), // 2015-2100
+                    datasets: datasets
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        },
+                        title: {
+                            display: true,
+                            text: `${plot_meta.variable} Projections - ${plot_meta.loc_name}`,
+                        },
+                        zoom: {
+                            pan: {
+                                enabled: true,
+                                mode: 'xy'
+                            },
+                            zoom: {
+                                wheel: {
+                                    enabled: true,
+                                },
+                                pinch: {
+                                    enabled: true
+                                },
+                                mode: 'xy',
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Year'
+                            }
+                        },
+                        y: {
+                            beginAtZero: false,
+                            title: {
+                                display: true,
+                                text: y_axis_title
+                            }
+                        }
+                    }
+                },
+                plugins: [customWatermarkPlugin]
+            });
+        }
+
+        async function createFutureMonthlyChart(parts, selectedVariable, scenarios, plot_meta) {
+            const scenarioColors = {
+                'ssp126': 'rgba(54, 162, 235, 0.8)',
+                'ssp245': 'rgba(255, 206, 86, 0.8)',
+                'ssp370': 'rgba(255, 99, 132, 0.8)',
+                'ssp585': 'rgba(153, 102, 255, 0.8)'
+            };
+
+            const scenarioNames = {
+                'ssp126': 'SSP1-2.6',
+                'ssp245': 'SSP2-4.5',
+                'ssp370': 'SSP3-7.0',
+                'ssp585': 'SSP5-8.5'
+            };
+
+            const scenarioMapping = {
+                'ssp126': 'Moderating Emissions (SSP1-2.6)',
+                'ssp245': 'Middle-of-the-Road (SSP2-4.5)',
+                'ssp370': 'Regional Rivalry (SSP3-7.0)',
+                'ssp585': 'Fossil-fueled Development (SSP5-8.5)'
+            };
+
+            let datasets = [];
+
+            // Get the current selections for plot type and difference from normal
+            const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
+            const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
+            const differenceFromNormal = selectedMapType === 'difference' ? 'TRUE' : 'FALSE';
+
+            try {
+                // Corrected URL construction - no scenario in filename
+                const url = `https://data.climate.umt.edu/mt-normals/csvs/future/${selectedVariable.value}_${parts[0]}_${parts[1]}_${selectedPlotType}_${differenceFromNormal}.csv`;
+                console.log('Loading monthly URL:', url);
+
+                // Load CSV data directly without get_df filtering
+                const response = await fetch(url);
+                const csv = await response.text();
+                const results = Papa.parse(csv, {
+                    header: true,
+                    dynamicTyping: true
+                });
+                const allData = results.data.filter(row => row && row.value !== null && row.value !== undefined);
+
+                console.log('Raw monthly CSV data:', results.data.slice(0, 5)); // Show first 5 rows
+                console.log('Filtered monthly data:', allData.slice(0, 5));
+                console.log('Available scenarios:', [...new Set(allData.map(row => row.scenario))]);
+
+                if (allData && allData.length > 0) {
+                    for (const scenario of scenarios) {
+                        // Filter data by scenario from the CSV - match by SSP code in parentheses
+                        const scenarioData = allData.filter(row => {
+                            const scenarioText = row.scenario || '';
+                            return scenarioText.includes(scenarioNames[scenario]) ||
+                                scenarioText.includes(scenario.toUpperCase());
+                        });
+
+                        console.log(`Monthly scenario ${scenario} data:`, scenarioData);
+
+                        if (scenarioData.length > 0) {
+                            // For monthly data, we need to organize by month
+                            const monthlyValues = new Array(12).fill(0);
+                            const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+                            scenarioData.forEach(row => {
+                                const monthIndex = monthNames.indexOf(row.month);
+                                if (monthIndex !== -1) {
+                                    monthlyValues[monthIndex] = parseFloat(row.value);
+                                }
+                            });
+
+                            datasets.push({
+                                label: scenarioNames[scenario],
+                                data: monthlyValues,
+                                borderColor: scenarioColors[scenario],
+                                backgroundColor: scenarioColors[scenario].replace('0.8', '0.3'),
+                                pointRadius: 3,
+                                tension: 0.1,
+                            });
+                        }
+                    }
+                }
+                console.log('Final monthly datasets:', datasets);
+            } catch (error) {
+                console.error('Error loading future monthly data:', error);
+            }
+
+            const ctx = document.getElementById('future-plot');
+            if (future_chart_instance) {
+                future_chart_instance.destroy();
+            }
+
+            let y_axis_title = units[selectedVariable.value] !== ""
+                ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[selectedVariable.value]}]`
+                : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
+
+            future_chart_instance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                    datasets: datasets
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        },
+                        title: {
+                            display: true,
+                            text: `${plot_meta.variable} Monthly Trends - ${plot_meta.loc_name}`,
+                        },
+                        zoom: {
+                            pan: {
+                                enabled: true,
+                                mode: 'xy'
+                            },
+                            zoom: {
+                                wheel: {
+                                    enabled: true,
+                                },
+                                pinch: {
+                                    enabled: true
+                                },
+                                mode: 'xy',
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Month'
+                            }
+                        },
+                        y: {
+                            beginAtZero: false,
+                            title: {
+                                display: true,
+                                text: y_axis_title
+                            }
+                        }
+                    }
+                },
+                plugins: [customWatermarkPlugin]
+            });
         }
 
         function createChart(data, plot_meta) {
@@ -1063,8 +1443,8 @@
             zoomSnap: 0.1,
             minZoom: 6.5,
             maxBounds: [
-            [43.5, -117.5],
-            [49.5, -93.5]
+                [43.5, -117.5],
+                [49.5, -93.5]
             ],
             maxBoundsViscosity: 1.0
         }).setView(MONTANA_CENTER, ZOOM_LEVEL);
@@ -1095,17 +1475,18 @@
 
         legend.addTo(map);
 
-
-        let current_layer = null;
-        let most_recent_click;
         function smartRound(v) {
             return v < 1 ? Math.round((v + Number.EPSILON) * 100) / 100 : Math.round(v);
         }
 
-        function updateLegend(selectedVariable) {
+        function updateLegend(selectedVariable, layer = null) {
             const old_div = legend.getContainer().querySelector('div');
             const new_div = L.DomUtil.create('div');
-            const options = current_layer.options;
+            // Use provided layer or fall back to current_layer
+            const targetLayer = layer || current_layer;
+            if (!targetLayer) return; // Exit if no layer available
+
+            const options = targetLayer.options;
             let lower_lim = options.min;
             let upper_lim = options.max;
 
@@ -1115,25 +1496,25 @@
             if (units[selectedVariable.value] !== "" && units[selectedVariable.value] !== 'percent') {
                 let orig_units = raster_units[selectedVariable.value];
                 let new_units = units[selectedVariable.value];
-                lower_lim = math.unit(lower_lim, orig_units).to(new_units).toNumber(); 
+                lower_lim = math.unit(lower_lim, orig_units).to(new_units).toNumber();
                 upper_lim = math.unit(upper_lim, orig_units).to(new_units).toNumber();
             }
-            
+
             lower_lim = smartRound(lower_lim);
             upper_lim = smartRound(upper_lim);
-            
-            legend_title = units[selectedVariable.value] !== "" 
+
+            legend_title = units[selectedVariable.value] !== ""
                 ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[options.variable]}]`
                 : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
 
-            
+
             new_div.innerHTML = `
                 <div class="legend-title">${legend_title}</div>
-                <ul>${Array.from({length: 200}, (_, i) => {
-                    const normalized = i / 199;
-                    const color = scale(normalized).css();
-                    return `<li style="background: ${color}"></li>`;
-                }).join('')}</ul>
+                <ul>${Array.from({ length: 200 }, (_, i) => {
+                const normalized = i / 199;
+                const color = scale(normalized).css();
+                return `<li style="background: ${color}"></li>`;
+            }).join('')}</ul>
                 <div class="min">${lower_lim}</div>
                 <div class="max">${upper_lim}</div>
             `;
@@ -1143,61 +1524,6 @@
             } else {
                 // replace el with newEL
                 legend.getContainer().replaceChild(new_div, old_div);
-            }            
-        }
-
-        async function addCOG(url, selectedVariable, display = false, bm = null, scenario = null) {
-            try {
-                const response = await fetch(url);
-                const arrayBuffer = await response.arrayBuffer();
-                const georaster = await parseGeoraster(arrayBuffer);
-                const min = georaster.mins[0];
-                const max = georaster.maxs[0];
-                
-                var layer = new GeoRasterLayer({
-                    georaster: georaster,
-                    opacity: 0.7,
-                    updateWhenZooming: false,
-                    pixelValuesToColorFn: function (pixelValues) {
-                        const pixelValue = pixelValues[0];
-                        if (isNaN(pixelValue)) {
-                        return 'rgba(0,0,0,0)';
-                        }
-                        // Get the color scale based on the variable name
-                        const scale = chroma.scale(palettes[selectedVariable.value]).mode('lab');
-                        // Normalize the value between 0 and 1
-                        const normalized = (pixelValue - min) / (max - min);
-                        // Get color and convert to rgba
-                        const color = scale(normalized).alpha(1);
-                        return color.css('rgba');
-                    },
-                    min: min,
-                    max: max,
-                    pal: palettes[selectedVariable.value],
-                    variable: selectedVariable.value,
-                });
-                
-
-                layer.name = selectedVariable.value;
-
-                if (bm !== null) {
-                    bm.addBaseLayer(layer, scenario);
-                }
-                
-                if (current_layer !== null) {
-                    map.removeLayer(current_layer);
-                }
-                
-                current_layer = layer;
-                if (display) {
-                    current_layer.addTo(map);
-                }
-                
-                updateLegend(selectedVariable);
-                
-                return layer;
-            } catch (error) {
-                console.error('Error loading COG:', error);
             }
         }
 
@@ -1283,14 +1609,11 @@
                 "Tribal Lands"
             );
 
-            f = 'https://data.climate.umt.edu/mt-normals/csvs/historical/rmax_huc_17010105.csv'
 
             Object.entries(overlayMaps).forEach(([key, value]) => {
                 value.on("click", async (event) => {
                     const parts = event.layer.feature.properties.id.split("_");
                     most_recent_click = parts;
-                    document.getElementById('selected-report-div').innerHTML = `Selected Location: ${parts[parts.length - 1]}`;
-                    document.getElementById('report-button').querySelector('button').disabled = false;
                     await processPlotData(parts);
                 });
             });
