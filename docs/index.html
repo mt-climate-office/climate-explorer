@@ -387,7 +387,7 @@
                 <div class="radio-group">
                     <label><input type="radio" name="time-period" value="end" checked> End of Century</label>
                     <label><input type="radio" name="time-period" value="mid"> Mid Century</label>
-                    <label><input type="radio" name="time-period" value="ref"> Reference Period</label>
+                    <label><input type="radio" name="time-period" value="reference"> Reference Period</label>
                 </div>
 
                 <h4 class="section-title">Map Type</h4>
@@ -852,7 +852,7 @@
                 const selectedVariable = document.getElementById('future-variable-selector');
                 const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
                 const selectedTime = document.querySelector('input[name="time-period"]:checked').value;
-
+                console.log(selectedTime);
                 const scenarios = ["ssp126", "ssp245", "ssp370", "ssp585"];
                 const scenarioNames = {
                     'ssp126': 'SSP1-2.6',
