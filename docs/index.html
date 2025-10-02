@@ -1070,15 +1070,16 @@
             };
 
             let datasets = [];
+            let allData = [];
 
             // Get the current selections for plot type and difference from normal
             const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
             const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
-            const differenceFromNormal = selectedMapType === 'difference' ? 'TRUE' : 'FALSE';
+            const differenceFromNormal = selectedMapType === 'difference';
 
             try {
-                // Corrected URL construction - no scenario in filename
-                const url = `https://data.climate.umt.edu/mt-normals/csvs/future/${selectedVariable.value}_${parts[0]}_${parts[1]}_${selectedPlotType}_${differenceFromNormal}.csv`;
+                // URL construction - always use FALSE since TRUE/FALSE files are identical
+                const url = `https://data.climate.umt.edu/mt-normals/csvs/future/${selectedVariable.value}_${parts[0]}_${parts[1]}_${selectedPlotType}_FALSE.csv`;
                 console.log('Loading URL:', url);
 
                 // Load CSV data directly without get_df filtering
@@ -1088,13 +1089,97 @@
                     header: true,
                     dynamicTyping: true
                 });
-                const allData = results.data.filter(row => row && row.value !== null && row.value !== undefined);
+                allData = results.data.filter(row => row && row.value !== null && row.value !== undefined);
 
                 console.log('Raw CSV data:', results.data.slice(0, 5)); // Show first 5 rows
                 console.log('Filtered data:', allData.slice(0, 5));
                 console.log('Available scenarios:', [...new Set(allData.map(row => row.scenario))]);
+                console.log('Data columns:', Object.keys(allData[0] || {}));
+                console.log('Sample historical data:', allData.filter(row => row.scenario === "Historical Emissions").slice(0, 3));
 
                 if (allData && allData.length > 0) {
+                    // Calculate baseline if difference from normal is selected
+                    let baseline = 0;
+                    if (differenceFromNormal) {
+                        const historicalData = allData.filter(row =>
+                            row.scenario === "Historical Emissions"
+                        );
+                        if (historicalData.length > 0) {
+                            // Calculate average of upper, lower, and value columns for 1991-2020 period
+                            const baselineValues = historicalData.map(row => {
+                                const upper = parseFloat(row.upper) || 0;
+                                const lower = parseFloat(row.lower) || 0;
+                                const value = parseFloat(row.value) || 0;
+                                return (upper + lower + value) / 3;
+                            });
+                            baseline = baselineValues.reduce((sum, val) => sum + val, 0) / baselineValues.length;
+                            console.log('Calculated baseline:', baseline);
+                        }
+                    }
+
+                    // Always add Historical Emissions first (in black)
+                    const historicalData = allData.filter(row =>
+                        row.scenario === "Historical Emissions"
+                    );
+                    if (historicalData.length > 0) {
+                        console.log('Historical data sample:', historicalData.slice(0, 3));
+
+                        // Sort historical data by time (year or grp)
+                        const sortedHistorical = historicalData.sort((a, b) => {
+                            if (a.year && b.year) return a.year - b.year;
+                            if (a.grp && b.grp) return a.grp.localeCompare(b.grp);
+                            return 0;
+                        });
+
+                        let values = sortedHistorical.map(row => parseFloat(row.value));
+                        let upperValues = sortedHistorical.map(row => parseFloat(row.upper));
+                        let lowerValues = sortedHistorical.map(row => parseFloat(row.lower));
+
+                        // Apply difference from normal if selected
+                        if (differenceFromNormal) {
+                            values = values.map(val => val - baseline);
+                            upperValues = upperValues.map(val => val - baseline);
+                            lowerValues = lowerValues.map(val => val - baseline);
+                        }
+
+                        // Add uncertainty ribbon (upper bound)
+                        datasets.push({
+                            label: 'Historical Upper',
+                            data: upperValues,
+                            borderColor: 'rgba(0, 0, 0, 0)',
+                            backgroundColor: 'rgba(0, 0, 0, 0.2)',
+                            fill: '+1',
+                            pointRadius: 0,
+                            tension: 0.1,
+                            showLine: false,
+                            legendHidden: true, // Custom property to hide from legend only
+                        });
+
+                        // Add uncertainty ribbon (lower bound)
+                        datasets.push({
+                            label: 'Historical Lower',
+                            data: lowerValues,
+                            borderColor: 'rgba(0, 0, 0, 0)',
+                            backgroundColor: 'rgba(0, 0, 0, 0.2)',
+                            fill: false,
+                            pointRadius: 0,
+                            tension: 0.1,
+                            showLine: false,
+                            legendHidden: true, // Custom property to hide from legend only
+                        });
+
+                        // Add main historical line
+                        datasets.push({
+                            label: 'Historical Emissions',
+                            data: values,
+                            borderColor: 'rgba(0, 0, 0, 1)',
+                            backgroundColor: 'rgba(0, 0, 0, 0.1)',
+                            pointRadius: 3,
+                            tension: 0.1,
+                        });
+                    }
+
+                    // Add future scenarios
                     for (const scenario of scenarios) {
                         // Filter data by scenario from the CSV - match by SSP code in parentheses
                         const scenarioData = allData.filter(row => {
@@ -1106,8 +1191,51 @@
                         console.log(`Scenario ${scenario} data:`, scenarioData);
 
                         if (scenarioData.length > 0) {
-                            const values = scenarioData.map(row => parseFloat(row.value));
+                            // Sort scenario data by time (year or grp)
+                            const sortedScenario = scenarioData.sort((a, b) => {
+                                if (a.year && b.year) return a.year - b.year;
+                                if (a.grp && b.grp) return a.grp.localeCompare(b.grp);
+                                return 0;
+                            });
 
+                            let values = sortedScenario.map(row => parseFloat(row.value));
+                            let upperValues = sortedScenario.map(row => parseFloat(row.upper));
+                            let lowerValues = sortedScenario.map(row => parseFloat(row.lower));
+
+                            // Apply difference from normal if selected
+                            if (differenceFromNormal) {
+                                values = values.map(val => val - baseline);
+                                upperValues = upperValues.map(val => val - baseline);
+                                lowerValues = lowerValues.map(val => val - baseline);
+                            }
+
+                            // Add uncertainty ribbon (upper bound)
+                            datasets.push({
+                                label: `${scenarioNames[scenario]} Upper`,
+                                data: upperValues,
+                                borderColor: 'rgba(0, 0, 0, 0)',
+                                backgroundColor: scenarioColors[scenario].replace('0.8', '0.2'),
+                                fill: '+1',
+                                pointRadius: 0,
+                                tension: 0.1,
+                                showLine: false,
+                                legendHidden: true, // Custom property to hide from legend only
+                            });
+
+                            // Add uncertainty ribbon (lower bound)
+                            datasets.push({
+                                label: `${scenarioNames[scenario]} Lower`,
+                                data: lowerValues,
+                                borderColor: 'rgba(0, 0, 0, 0)',
+                                backgroundColor: scenarioColors[scenario].replace('0.8', '0.2'),
+                                fill: false,
+                                pointRadius: 0,
+                                tension: 0.1,
+                                showLine: false,
+                                legendHidden: true, // Custom property to hide from legend only
+                            });
+
+                            // Add main scenario line
                             datasets.push({
                                 label: scenarioNames[scenario],
                                 data: values,
@@ -1118,11 +1246,73 @@
                             });
                         }
                     }
+
+                    // Add horizontal line at zero if difference from normal
+                    if (differenceFromNormal && datasets.length > 0) {
+                        const dataLength = datasets[0].data.length;
+                        datasets.push({
+                            label: 'Baseline (Zero)',
+                            data: new Array(dataLength).fill(0),
+                            borderColor: 'rgba(0, 0, 0, 0.8)',
+                            backgroundColor: 'rgba(0, 0, 0, 0.1)',
+                            borderDash: [5, 5],
+                            pointRadius: 0,
+                            tension: 0,
+                            legendHidden: true, // Custom property to hide from legend only
+                        });
+                    }
                 }
                 console.log('Final datasets:', datasets);
             } catch (error) {
                 console.error('Error loading future data:', error);
             }
+
+            // Create proper time-based chart with separate historical and future periods
+            const historicalYears = Array.from({ length: 65 }, (_, i) => 1950 + i); // 1950-2014
+            const futureYears = Array.from({ length: 86 }, (_, i) => 2015 + i); // 2015-2100
+            const allYears = [...historicalYears, ...futureYears]; // 1950-2100
+
+            // Restructure datasets to align with proper time periods
+            const restructuredDatasets = [];
+
+            // Process each dataset to align with correct time periods
+            datasets.forEach(dataset => {
+                if (dataset.label === 'Baseline (Zero)') {
+                    // Baseline spans the entire time range
+                    restructuredDatasets.push({
+                        ...dataset,
+                        data: new Array(allYears.length).fill(0)
+                    });
+                } else if (dataset.label === 'Historical Emissions' || dataset.label.includes('Historical')) {
+                    // Historical data: 1950-2014, then null for future years
+                    const fullData = new Array(allYears.length).fill(null);
+                    // Fill historical period with actual data
+                    for (let i = 0; i < Math.min(dataset.data.length, historicalYears.length); i++) {
+                        fullData[i] = dataset.data[i];
+                    }
+                    restructuredDatasets.push({
+                        ...dataset,
+                        data: fullData,
+                        spanGaps: false // Don't connect across null values
+                    });
+                } else {
+                    // Future scenario data: null for historical years, then 2015-2100
+                    const fullData = new Array(allYears.length).fill(null);
+                    // Fill future period with actual data
+                    const futureStartIndex = historicalYears.length;
+                    for (let i = 0; i < Math.min(dataset.data.length, futureYears.length); i++) {
+                        fullData[futureStartIndex + i] = dataset.data[i];
+                    }
+                    restructuredDatasets.push({
+                        ...dataset,
+                        data: fullData,
+                        spanGaps: false // Don't connect across null values
+                    });
+                }
+            });
+
+            console.log('Restructured datasets:', restructuredDatasets);
+            console.log('All years range:', allYears[0], 'to', allYears[allYears.length - 1]);
 
             const ctx = document.getElementById('future-plot');
             if (future_chart_instance) {
@@ -1136,8 +1326,8 @@
             future_chart_instance = new Chart(ctx, {
                 type: 'line',
                 data: {
-                    labels: Array.from({ length: 86 }, (_, i) => 2015 + i), // 2015-2100
-                    datasets: datasets
+                    labels: allYears,
+                    datasets: restructuredDatasets
                 },
                 options: {
                     responsive: true,
@@ -1145,6 +1335,13 @@
                     plugins: {
                         legend: {
                             position: 'top',
+                            labels: {
+                                filter: function (legendItem, chartData) {
+                                    // Hide datasets with legendHidden property
+                                    const dataset = chartData.datasets[legendItem.datasetIndex];
+                                    return !dataset.legendHidden;
+                                }
+                            }
                         },
                         title: {
                             display: true,
@@ -1213,11 +1410,11 @@
             // Get the current selections for plot type and difference from normal
             const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
             const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
-            const differenceFromNormal = selectedMapType === 'difference' ? 'TRUE' : 'FALSE';
+            const differenceFromNormal = selectedMapType === 'difference';
 
             try {
-                // Corrected URL construction - no scenario in filename
-                const url = `https://data.climate.umt.edu/mt-normals/csvs/future/${selectedVariable.value}_${parts[0]}_${parts[1]}_${selectedPlotType}_${differenceFromNormal}.csv`;
+                // URL construction - always use FALSE since TRUE/FALSE files are identical
+                const url = `https://data.climate.umt.edu/mt-normals/csvs/future/${selectedVariable.value}_${parts[0]}_${parts[1]}_${selectedPlotType}_FALSE.csv`;
                 console.log('Loading monthly URL:', url);
 
                 // Load CSV data directly without get_df filtering
@@ -1234,6 +1431,96 @@
                 console.log('Available scenarios:', [...new Set(allData.map(row => row.scenario))]);
 
                 if (allData && allData.length > 0) {
+                    // Calculate baseline if difference from normal is selected
+                    const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+                    let monthlyBaseline = new Array(12).fill(0);
+
+                    if (differenceFromNormal) {
+                        const historicalData = allData.filter(row =>
+                            row.scenario === "Historical Emissions"
+                        );
+                        if (historicalData.length > 0) {
+                            // Calculate monthly baseline averages
+                            historicalData.forEach(row => {
+                                const monthIndex = monthNames.indexOf(row.month);
+                                if (monthIndex !== -1) {
+                                    const upper = parseFloat(row.upper) || 0;
+                                    const lower = parseFloat(row.lower) || 0;
+                                    const value = parseFloat(row.value) || 0;
+                                    monthlyBaseline[monthIndex] = (upper + lower + value) / 3;
+                                }
+                            });
+                            console.log('Calculated monthly baseline:', monthlyBaseline);
+                        }
+                    }
+
+                    // Always add Historical Emissions first (in black)
+                    const historicalData = allData.filter(row =>
+                        row.scenario === "Historical Emissions"
+                    );
+                    if (historicalData.length > 0) {
+                        const monthlyValues = new Array(12).fill(0);
+                        const monthlyUpper = new Array(12).fill(0);
+                        const monthlyLower = new Array(12).fill(0);
+
+                        historicalData.forEach(row => {
+                            const monthIndex = monthNames.indexOf(row.month);
+                            if (monthIndex !== -1) {
+                                let value = parseFloat(row.value);
+                                let upper = parseFloat(row.upper);
+                                let lower = parseFloat(row.lower);
+
+                                // Apply difference from normal if selected
+                                if (differenceFromNormal) {
+                                    value = value - monthlyBaseline[monthIndex];
+                                    upper = upper - monthlyBaseline[monthIndex];
+                                    lower = lower - monthlyBaseline[monthIndex];
+                                }
+
+                                monthlyValues[monthIndex] = value;
+                                monthlyUpper[monthIndex] = upper;
+                                monthlyLower[monthIndex] = lower;
+                            }
+                        });
+
+                        // Add uncertainty ribbon (upper bound)
+                        datasets.push({
+                            label: 'Historical Upper',
+                            data: monthlyUpper,
+                            borderColor: 'rgba(0, 0, 0, 0)',
+                            backgroundColor: 'rgba(0, 0, 0, 0.2)',
+                            fill: '+1',
+                            pointRadius: 0,
+                            tension: 0.1,
+                            showLine: false,
+                            legendHidden: true, // Custom property to hide from legend only
+                        });
+
+                        // Add uncertainty ribbon (lower bound)
+                        datasets.push({
+                            label: 'Historical Lower',
+                            data: monthlyLower,
+                            borderColor: 'rgba(0, 0, 0, 0)',
+                            backgroundColor: 'rgba(0, 0, 0, 0.2)',
+                            fill: false,
+                            pointRadius: 0,
+                            tension: 0.1,
+                            showLine: false,
+                            legendHidden: true, // Custom property to hide from legend only
+                        });
+
+                        // Add main historical line
+                        datasets.push({
+                            label: 'Historical Emissions',
+                            data: monthlyValues,
+                            borderColor: 'rgba(0, 0, 0, 1)',
+                            backgroundColor: 'rgba(0, 0, 0, 0.1)',
+                            pointRadius: 3,
+                            tension: 0.1,
+                        });
+                    }
+
+                    // Add future scenarios
                     for (const scenario of scenarios) {
                         // Filter data by scenario from the CSV - match by SSP code in parentheses
                         const scenarioData = allData.filter(row => {
@@ -1247,15 +1534,56 @@
                         if (scenarioData.length > 0) {
                             // For monthly data, we need to organize by month
                             const monthlyValues = new Array(12).fill(0);
-                            const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+                            const monthlyUpper = new Array(12).fill(0);
+                            const monthlyLower = new Array(12).fill(0);
 
                             scenarioData.forEach(row => {
                                 const monthIndex = monthNames.indexOf(row.month);
                                 if (monthIndex !== -1) {
-                                    monthlyValues[monthIndex] = parseFloat(row.value);
+                                    let value = parseFloat(row.value);
+                                    let upper = parseFloat(row.upper);
+                                    let lower = parseFloat(row.lower);
+
+                                    // Apply difference from normal if selected
+                                    if (differenceFromNormal) {
+                                        value = value - monthlyBaseline[monthIndex];
+                                        upper = upper - monthlyBaseline[monthIndex];
+                                        lower = lower - monthlyBaseline[monthIndex];
+                                    }
+
+                                    monthlyValues[monthIndex] = value;
+                                    monthlyUpper[monthIndex] = upper;
+                                    monthlyLower[monthIndex] = lower;
                                 }
                             });
 
+                            // Add uncertainty ribbon (upper bound)
+                            datasets.push({
+                                label: `${scenarioNames[scenario]} Upper`,
+                                data: monthlyUpper,
+                                borderColor: 'rgba(0, 0, 0, 0)',
+                                backgroundColor: scenarioColors[scenario].replace('0.8', '0.2'),
+                                fill: '+1',
+                                pointRadius: 0,
+                                tension: 0.1,
+                                showLine: false,
+                                legendHidden: true, // Custom property to hide from legend only
+                            });
+
+                            // Add uncertainty ribbon (lower bound)
+                            datasets.push({
+                                label: `${scenarioNames[scenario]} Lower`,
+                                data: monthlyLower,
+                                borderColor: 'rgba(0, 0, 0, 0)',
+                                backgroundColor: scenarioColors[scenario].replace('0.8', '0.2'),
+                                fill: false,
+                                pointRadius: 0,
+                                tension: 0.1,
+                                showLine: false,
+                                legendHidden: true, // Custom property to hide from legend only
+                            });
+
+                            // Add main scenario line
                             datasets.push({
                                 label: scenarioNames[scenario],
                                 data: monthlyValues,
@@ -1265,6 +1593,20 @@
                                 tension: 0.1,
                             });
                         }
+                    }
+
+                    // Add horizontal line at zero if difference from normal
+                    if (differenceFromNormal && datasets.length > 0) {
+                        datasets.push({
+                            label: 'Baseline (Zero)',
+                            data: new Array(12).fill(0),
+                            borderColor: 'rgba(0, 0, 0, 0.8)',
+                            backgroundColor: 'rgba(0, 0, 0, 0.1)',
+                            borderDash: [5, 5],
+                            pointRadius: 0,
+                            tension: 0,
+                            legendHidden: true, // Custom property to hide from legend only
+                        });
                     }
                 }
                 console.log('Final monthly datasets:', datasets);
@@ -1293,6 +1635,13 @@
                     plugins: {
                         legend: {
                             position: 'top',
+                            labels: {
+                                filter: function (legendItem, chartData) {
+                                    // Hide datasets with legendHidden property
+                                    const dataset = chartData.datasets[legendItem.datasetIndex];
+                                    return !dataset.legendHidden;
+                                }
+                            }
                         },
                         title: {
                             display: true,
