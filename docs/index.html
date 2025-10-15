@@ -676,7 +676,7 @@
         async function render_future_plot(parts) {
             const selectedVariable = document.getElementById('future-variable-selector');
             const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
-            const selectedScenarios = ['ssp245', 'ssp370']; // Default scenarios
+            const selectedScenarios = ['ssp126', 'ssp245', 'ssp370', 'ssp585']; // Default scenarios
 
             let plot_meta = {
                 "loc_name": parts[parts.length - 1],
@@ -699,7 +699,7 @@
                 const dat = await get_df(url);
                 render_historical_plot(dat, selectedVariable, parts);
             } else if (activeTab === "Climate Projections") {
-                await render_future_plot(parts);
+                await render_future_plot(parts); 
             }
         }
         function switchTab(index) {
@@ -1922,7 +1922,7 @@
         async function main() {
 
             await loadFlatGeobufLayer(
-                "https://data.climate.umt.edu/mt-normals/fgb/mt.fgb",
+                "https://mco-normals.s3.us-east-2.amazonaws.com/fgb/mt.fgb",
                 "",
                 "",
                 false,
@@ -1935,25 +1935,25 @@
             );
 
             await loadFlatGeobufLayer(
-                "https://data.climate.umt.edu/mt-normals/fgb/explorer/counties.fgb",
+                "https://mco-normals.s3.us-east-2.amazonaws.com/fgb/counties.fgb",
                 "counties",
                 "Counties"
             );
 
             await loadFlatGeobufLayer(
-                "https://data.climate.umt.edu/mt-normals/fgb/explorer/blm.fgb",
+                "https://mco-normals.s3.us-east-2.amazonaws.com/fgb/blm.fgb",
                 "blm",
                 "BLM Districts"
             );
 
             await loadFlatGeobufLayer(
-                "https://data.climate.umt.edu/mt-normals/fgb/explorer/hucs.fgb",
+                "https://mco-normals.s3.us-east-2.amazonaws.com/fgb/hucs.fgb",
                 "hucs",
                 "HUCs"
             );
 
             await loadFlatGeobufLayer(
-                "https://data.climate.umt.edu/mt-normals/fgb/explorer/tribes.fgb",
+                "https://mco-normals.s3.us-east-2.amazonaws.com/fgb/tribes.fgb",
                 "tribes",
                 "Tribal Lands"
             );
