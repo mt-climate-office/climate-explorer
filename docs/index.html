@@ -694,8 +694,8 @@
             const activeTab = document.querySelector('.tab.active').textContent;
             if (activeTab === "Historical Trends") {
                 const selectedVariable = document.getElementById('historical-variable-selector');
-                // Fix the CSV file naming convention: variable_layertype_locationId_plotType_differenceFromNormal.csv
-                const url = `https://data.climate.umt.edu/mt-normals/csvs/historical/${selectedVariable.value}_${parts[0]}_${parts[1]}.csv`;
+                // Build S3 URL for parquet files
+                const url = `https://mco-normals.s3.us-east-2.amazonaws.com/zonal/type=${parts[0]}/id=${parts[1]}/variable=${selectedVariable.value}/part-0.parquet`;
                 const dat = await get_df(url);
                 render_historical_plot(dat, selectedVariable, parts);
             } else if (activeTab === "Climate Projections") {
@@ -1017,22 +1017,17 @@
 
 
 
-        async function get_df(f) {
+        async function get_df(url) {
             try {
-                const response = await fetch(f);
-                const csv = await response.text();
-                const results = Papa.parse(csv, {
-                    header: true,
-                    dynamicTyping: true
-                });
-                parsed_data = results.data;
+        const hyparquet = await import('https://unpkg.com/hyparquet/dist/hyparquet.min.js');
+        const res = await fetch(url);
+        const buf = new Uint8Array(await res.arrayBuffer());
+        const data = await hyparquet.parquetReadObjects({ buffer: buf });
+        return data;
             } catch (error) {
-                parsed_data = null
-                console.error('Error loading CSV:', error);
+                console.error('Error loading Parquet file:', error);
+                return [];
             }
-            const validData = parsed_data.filter(row => row && row.date && row.value);
-
-            return validData
         }
 
         let historical_chart_instance;
