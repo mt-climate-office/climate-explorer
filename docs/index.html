@@ -324,8 +324,8 @@
                         <option value="tre">RAP Tree Cover</option>
                         <option value="evi">MOD13 EVI</option>
                         <option value="ndvi">MOD13 NDVI</option>
-                        <option value="et_m16">MOD16 ET</option>
-                        <option value="pet_m16">MOD16 PET</option>
+                        <option value="m16_et">MOD16 ET</option>
+                        <option value="m16_pet">MOD16 PET</option>
                         <option value="gpp">MOD17 GPP</option>
                         <option value="afgnpp">RAP Forb and Grass NPP</option>
                         <option value="pfgnpp">RAP Perennial Forb and Grass NPP</option>
@@ -669,6 +669,9 @@
                 "time": selectedTime.options[selectedTime.selectedIndex].text,
                 "variable": selectedVariable.options[selectedVariable.selectedIndex].text,
                 "ytitle": y_axis_title,
+                "type": parts[0],
+                "id": parts[1],
+                "variable_code": selectedVariable.value,
             }
             createChart(dat_filtered, plot_meta);
         }
@@ -827,7 +830,7 @@
 
                 const selectedVariable = document.getElementById('historical-variable-selector');
                 const selectedTime = document.getElementById('historical-time-selector').value;
-                const url = `https://data.climate.umt.edu/mt-normals/cog/${selectedVariable.value}/${selectedTime}_mean.tif`;
+                const url = `https://mco-normals.s3.us-east-2.amazonaws.com/cog/${selectedVariable.value}/normals/1995-2024/${selectedTime}_${selectedVariable.value}_mean.tif`;
                 await addCOG(url, selectedVariable, true);
                 if (most_recent_click) {
                     await processPlotData(most_recent_click);
@@ -1019,16 +1022,40 @@
 
         async function get_df(url) {
             try {
-        const hyparquet = await import('https://unpkg.com/hyparquet/dist/hyparquet.min.js');
-        const res = await fetch(url);
-        const buf = new Uint8Array(await res.arrayBuffer());
-        const data = await hyparquet.parquetReadObjects({ buffer: buf });
-        return data;
-            } catch (error) {
+                const hyparquet = await import('https://cdn.jsdelivr.net/npm/hyparquet@1.20.2/+esm');
+                const res = await fetch(url);
+                const buf = await res.arrayBuffer();
+                const data = await hyparquet.parquetReadObjects({ file: buf });
+                // TODO: hyparquet is parsing date as datetime in localtime so date is getting goofed up.
+                // Do a smarter fix.
+                data.forEach(row => {
+                    if (row.date instanceof Date) {
+                        const year = row.date.getUTCFullYear();
+                        const month = String(row.date.getUTCMonth() + 1).padStart(2, '0');
+                        const day = String(row.date.getUTCDate()).padStart(2, '0');
+                        row.date = `${year}-${month}-${day}`;
+                    }
+                }); 
+                return data; 
+          } catch (error) {
                 console.error('Error loading Parquet file:', error);
                 return [];
             }
         }
+
+        // Load the precomputed stats parquet once for the entire document.
+        // This file contains columns: type, id, variable, p_value (among others).
+        let stats_df = [];
+        (async function loadStats() {
+            try {
+                const statsUrl = 'https://mco-normals.s3.us-east-2.amazonaws.com/stats.parquet';
+                stats_df = await get_df(statsUrl);
+                console.log('Loaded stats parquet, rows:', stats_df.length);
+            } catch (err) {
+                console.error('Failed to load stats parquet:', err);
+                stats_df = [];
+            }
+        })();
 
         let historical_chart_instance;
         let future_chart_instance;
@@ -1681,7 +1708,32 @@
         function createChart(data, plot_meta) {
             const years = data.map(row => parseInt(row.date.split('-')[0]));
             const values = data.map(row => row.value);
-            const pValue = mannKendall(values);
+            // Prefer precomputed p_value from the loaded stats parquet (loaded once at startup).
+            // stats_df should contain rows with columns: type, id, variable, p_value
+            let pValue = NaN;
+            try {
+                if (Array.isArray(stats_df) && stats_df.length > 0 && plot_meta && plot_meta.type !== undefined) {
+                    const match = stats_df.find(r => String(r.type) === String(plot_meta.type) && String(r.id) === String(plot_meta.id) && String(r.variable) === String(plot_meta.variable_code));
+                    if (match && match.p_value !== undefined && match.p_value !== null && match.p_value !== '') {
+                        pValue = parseFloat(match.p_value);
+                        console.log(pValue);
+                    }
+                }
+            } catch (e) {
+                console.error('Error looking up p_value in stats_df:', e);
+                pValue = NaN;
+            }
+
+            // If no precomputed p-value found, fall back to running Mann-Kendall locally
+            if (!isFinite(pValue)) {
+                try {
+                    pValue = mannKendall(values);
+                } catch (e) {
+                    console.error('Mann-Kendall fallback failed:', e);
+                    pValue = NaN;
+                }
+            }
+
             let datasets = [{
                 label: 'Values',
                 data: values,
@@ -1691,7 +1743,7 @@
                 tension: 0.1,
             }];
             let extra_text;
-            if (pValue < 0.05) {
+            if (isFinite(pValue) && pValue < 0.05) {
                 extra_text = "Trend is Statistically Significant";
                 datasets[0].trendlineLinear = {
                     colorMin: "gray",
