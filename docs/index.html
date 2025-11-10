@@ -311,7 +311,7 @@
                         <option value="pr" selected="selected">Precipitation</option>
                         <option value="rmax">Maximum Relative Humidity</option>
                         <option value="rmin">Minimum Relative Humidity</option>
-                        <option value="tmmn">Minumum Temperature</option>
+                        <option value="tmmn">Minimum Temperature</option>
                         <option value="tmmx">Maximum Temperature</option>
                         <option value="vpd">Vapor Pressure Deficit</option>
                         <option value="vs">Wind Speed</option>
@@ -534,95 +534,7 @@
             shrnpp: 'kg/m^2',
             trenpp: 'kg/m^2'
         };
-        function standardNormalCDF(z) {
-            // constants
-            const p = 0.3275911;
-            const a1 = 0.254829592;
-            const a2 = -0.284496736;
-            const a3 = 1.421413741;
-            const a4 = -1.453152027;
-            const a5 = 1.061405429;
-
-            const sign = (z >= 0) ? 1 : -1;
-            z = Math.abs(z) / Math.sqrt(2.0);
-
-            const t = 1.0 / (1.0 + p * z);
-            const erf = 1.0 - (((((a5 * t + a4) * t) + a3) * t + a2) * t + a1) * t * Math.exp(-z * z);
-            const cdf = 0.5 * (1.0 + sign * erf);
-            return cdf;
-        }
-
-        /**
-         * Calculates the Mann-Kendall trend test statistic (S),
-         * variance (Var(S)), Z-score, and p-value.
-         * Handles ties in the data.
-         *
-         * @param {number[]} dataArray The input time series data.
-         * @returns {{s: number, varS: number, z: number, pValue: number} | null}
-         * An object with test results or null if input is invalid.
-         */
-        function mannKendall(dataArray) {
-            const n = dataArray.length;
-
-            // Basic validation
-            if (n < 8) {
-                console.warn("Mann-Kendall test is generally more reliable with at least 8-10 data points. Results for N < 8 might be less accurate.");
-                // Allow calculation for N >= 3, but warn. Let's require at least 3.
-                if (n < 3) {
-                    console.error("Need at least 3 data points for the test.");
-                    return null;
-                }
-            }
-            if (!Array.isArray(dataArray) || dataArray.some(isNaN)) {
-                console.error("Input must be a valid array of numbers.");
-                return null;
-            }
-
-
-            let s = 0;
-            for (let j = 1; j < n; j++) {
-                for (let i = 0; i < j; i++) {
-                    s += Math.sign(dataArray[j] - dataArray[i]);
-                }
-            }
-
-            // Calculate variance, accounting for ties
-            const uniqueValues = {};
-            dataArray.forEach(value => {
-                uniqueValues[value] = (uniqueValues[value] || 0) + 1;
-            });
-
-            const tieCorrection = Object.values(uniqueValues)
-                .filter(count => count > 1)
-                .reduce((sum, t) => sum + t * (t - 1) * (2 * t + 5), 0);
-
-            const varS = (n * (n - 1) * (2 * n + 5) - tieCorrection) / 18.0;
-
-            if (varS <= 0) {
-                // If variance is zero (e.g., all values are the same), Z is undefined. No trend.
-                // Or handle very small N where formula might break down.
-                if (s === 0) return { s: s, varS: 0, z: 0, pValue: 1.0 };
-                else {
-                    console.warn("Variance of S is zero or negative. Cannot calculate Z-score reliably. This might happen with very short series or series with little variation.");
-                    // Returning p=1 as the most conservative estimate (no trend)
-                    return { s: s, varS: varS, z: NaN, pValue: 1.0 };
-                }
-            }
-
-            // Calculate Z-score with continuity correction
-            let z = 0;
-            if (s > 0) {
-                z = (s - 1) / Math.sqrt(varS);
-            } else if (s < 0) {
-                z = (s + 1) / Math.sqrt(varS);
-            } // if s === 0, z remains 0
-
-            // Calculate two-tailed p-value from Z-score using standard normal CDF
-            const pValue = 2 * (1 - standardNormalCDF(Math.abs(z)));
-
-            return pValue;
-        }
-
+        
         function render_historical_plot(dat, selectedVariable, parts) {
             let dat_filtered = [];
             const selectedTime = document.getElementById('historical-time-selector');
@@ -870,9 +782,9 @@
                 for (const scenario of scenarios) {
                     let base_url;
                     if (selectedMapType === "difference") {
-                        base_url = `https://data.climate.umt.edu/mca/cmip/derived/difference/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
+                        base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/derived/difference/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
                     } else {
-                        base_url = `https://data.climate.umt.edu/mca/cmip/derived/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
+                        base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/derived/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
                     }
 
                     try {
