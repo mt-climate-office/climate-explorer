@@ -358,7 +358,7 @@
                 <h3 class="section-title">Variable</h3>
                 <select id="future-variable-selector">
                     <optgroup label="CMIP6 Variables">
-                        <option value="penman">Potential ET</option>
+                        <option value="eto">Potential ET</option>
                         <option value="tas">Avg. Air Temperature</option>
                         <option value="tasmax">Max. Air Temperature</option>
                         <option value="tasmin">Min. Air Temperature</option>
@@ -410,7 +410,7 @@
         const palettes = {
             'pr': 'YlGnBu',
             'pet': 'OrRd',
-            'penman': 'OrRd',
+            'eto': 'OrRd',
             'etr': 'OrRd',
             'tmmn': 'Blues',
             'tasmin': 'Blues',
@@ -458,7 +458,7 @@
             tas: "K",
             tasmax: "K",
             tasmin: "K",
-            penman: "mm",
+            eto: "mm",
             erc: "",
             etr: "mm",
             pet: "mm",
@@ -501,7 +501,7 @@
             tas: 'degF',
             tasmax: 'degF',
             tasmin: 'degF',
-            penman: 'inch',
+            eto: 'inch',
             erc: '',
             etr: 'inch',
             pet: 'inch',
@@ -767,7 +767,6 @@
                 const selectedVariable = document.getElementById('future-variable-selector');
                 const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
                 const selectedTime = document.querySelector('input[name="time-period"]:checked').value;
-                console.log(selectedTime);
                 const scenarios = ["ssp126", "ssp245", "ssp370", "ssp585"];
                 const scenarioNames = {
                     'ssp126': 'SSP1-2.6',
@@ -782,9 +781,9 @@
                 for (const scenario of scenarios) {
                     let base_url;
                     if (selectedMapType === "difference") {
-                        base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/derived/difference/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
+                        base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${selectedTime}_diff.tif`;
                     } else {
-                        base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/derived/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
+                        base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
                     }
 
                     try {
@@ -962,7 +961,6 @@
             try {
                 const statsUrl = 'https://mco-normals.s3.us-east-2.amazonaws.com/stats.parquet';
                 stats_df = await get_df(statsUrl);
-                console.log('Loaded stats parquet, rows:', stats_df.length);
             } catch (err) {
                 console.error('Failed to load stats parquet:', err);
                 stats_df = [];
@@ -977,7 +975,53 @@
                 historical_chart_instance.resetZoom();
             }
             if (future_chart_instance) {
-                future_chart_instance.resetZoom();
+                if (future_chart_instance.midChart) {
+                    future_chart_instance.midChart.resetZoom();
+                }
+                if (future_chart_instance.eocChart) {
+                    future_chart_instance.eocChart.resetZoom();
+                }
+            }
+        }
+
+        async function parseFutureParquet(parts, selectedVariable, selectedPlotType) {
+            // parts[0] = type (blm, county, huc)
+            // parts[1] = id (unique identifier)
+            // selectedVariable.value = variable name
+            // selectedPlotType = 'monthly' or 'timeseries'
+            
+            // Construct the hive-partitioned S3 URL
+            const url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip_zonal/plot_type=${selectedPlotType}/type=${parts[0]}/id=${parts[1]}/variable=${selectedVariable.value}/part-0.parquet`;
+            
+            try {
+                const dat = await get_df(url);
+                return dat;
+            } catch (error) {
+                console.error('Error loading parquet file:', error);
+                console.error('Attempted URL:', url);
+                throw error;
+            }
+        }
+
+        // Convert value from raw units to display units
+        function convertValue(value, variableCode) {
+            if (isNaN(value)) return value;
+            
+            switch(variableCode) {
+                case 'tas':
+                case 'tasmax':
+                case 'tasmin':
+                    // K to degF: (K - 273.15) * 9/5 + 32
+                    return (value - 273.15) * 9/5 + 32;
+                case 'eto':
+                case 'pr':
+                    // mm to inches: mm / 25.4
+                    return value / 25.4;
+                case 'sfcWind':
+                    // m/s to mph: m/s * 2.237
+                    return value * 2.237;
+                default:
+                    return value;
             }
         }
 
@@ -1010,53 +1054,26 @@
             const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
             const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
             const differenceFromNormal = selectedMapType === 'difference';
-
+            let baseline = 0;   
             try {
-                // URL construction - always use FALSE since TRUE/FALSE files are identical
-                const url = `https://data.climate.umt.edu/mt-normals/csvs/future/${selectedVariable.value}_${parts[0]}_${parts[1]}_${selectedPlotType}_FALSE.csv`;
-                console.log('Loading URL:', url);
-
-                // Load CSV data directly without get_df filtering
-                const response = await fetch(url);
-                const csv = await response.text();
-                const results = Papa.parse(csv, {
-                    header: true,
-                    dynamicTyping: true
-                });
-                allData = results.data.filter(row => row && row.value !== null && row.value !== undefined);
-
-                console.log('Raw CSV data:', results.data.slice(0, 5)); // Show first 5 rows
-                console.log('Filtered data:', allData.slice(0, 5));
-                console.log('Available scenarios:', [...new Set(allData.map(row => row.scenario))]);
-                console.log('Data columns:', Object.keys(allData[0] || {}));
-                console.log('Sample historical data:', allData.filter(row => row.scenario === "Historical Emissions").slice(0, 3));
-
+                // Load parquet data using the hive-partitioned structure
+                allData = await parseFutureParquet(parts, selectedVariable, selectedPlotType);
+                allData = allData.filter(row => row && row.val !== null && row.val !== undefined);
                 if (allData && allData.length > 0) {
                     // Calculate baseline if difference from normal is selected
-                    let baseline = 0;
-                    if (differenceFromNormal) {
-                        const historicalData = allData.filter(row =>
-                            row.scenario === "Historical Emissions"
-                        );
-                        if (historicalData.length > 0) {
-                            // Calculate average of upper, lower, and value columns for 1991-2020 period
-                            const baselineValues = historicalData.map(row => {
-                                const upper = parseFloat(row.upper) || 0;
-                                const lower = parseFloat(row.lower) || 0;
-                                const value = parseFloat(row.value) || 0;
-                                return (upper + lower + value) / 3;
-                            });
-                            baseline = baselineValues.reduce((sum, val) => sum + val, 0) / baselineValues.length;
-                            console.log('Calculated baseline:', baseline);
-                        }
-                    }
-
+                    const baselineValues = allData
+                        .map(row => parseFloat(row.baseline))
+                        .filter(val => !isNaN(val));
+                    baseline = baselineValues.length > 0 
+                        ? baselineValues.reduce((a, b) => a + b) / baselineValues.length 
+                        : 0;
+                    
                     // Always add Historical Emissions first (in black)
                     const historicalData = allData.filter(row =>
-                        row.scenario === "Historical Emissions"
+                        row.year <= 2014
                     );
+
                     if (historicalData.length > 0) {
-                        console.log('Historical data sample:', historicalData.slice(0, 3));
 
                         // Sort historical data by time (year or grp)
                         const sortedHistorical = historicalData.sort((a, b) => {
@@ -1065,9 +1082,27 @@
                             return 0;
                         });
 
-                        let values = sortedHistorical.map(row => parseFloat(row.value));
-                        let upperValues = sortedHistorical.map(row => parseFloat(row.upper));
-                        let lowerValues = sortedHistorical.map(row => parseFloat(row.lower));
+                        // Group historical data by year and calculate means
+                        const yearGroups = {};
+                        sortedHistorical.forEach(row => {
+                            if (!yearGroups[row.year]) {
+                                yearGroups[row.year] = { vals: [], uppers: [], lowers: [] };
+                            }
+                            yearGroups[row.year].vals.push(parseFloat(row.val));
+                            yearGroups[row.year].uppers.push(parseFloat(row.upper));
+                            yearGroups[row.year].lowers.push(parseFloat(row.lower));
+                        });
+
+                        const groupedHistorical = Object.entries(yearGroups).map(([year, data]) => ({
+                            year: parseInt(year),
+                            val: data.vals.reduce((a, b) => a + b, 0) / data.vals.length,
+                            upper: data.uppers.reduce((a, b) => a + b, 0) / data.uppers.length,
+                            lower: data.lowers.reduce((a, b) => a + b, 0) / data.lowers.length
+                        }));
+
+                        let values = groupedHistorical.map(row => convertValue(parseFloat(row.val), selectedVariable.value));
+                        let upperValues = groupedHistorical.map(row => convertValue(parseFloat(row.upper), selectedVariable.value));
+                        let lowerValues = groupedHistorical.map(row => convertValue(parseFloat(row.lower), selectedVariable.value));
 
                         // Apply difference from normal if selected
                         if (differenceFromNormal) {
@@ -1118,12 +1153,11 @@
                         // Filter data by scenario from the CSV - match by SSP code in parentheses
                         const scenarioData = allData.filter(row => {
                             const scenarioText = row.scenario || '';
-                            return scenarioText.includes(scenarioNames[scenario]) ||
-                                scenarioText.includes(scenario.toUpperCase());
+                            return (row.year >= 2015) && (scenarioText.includes(scenarioNames[scenario]) ||
+                                scenarioText.includes(scenario.toUpperCase()) ||
+                                scenarioText === scenario);
                         });
-
-                        console.log(`Scenario ${scenario} data:`, scenarioData);
-
+                        
                         if (scenarioData.length > 0) {
                             // Sort scenario data by time (year or grp)
                             const sortedScenario = scenarioData.sort((a, b) => {
@@ -1132,9 +1166,9 @@
                                 return 0;
                             });
 
-                            let values = sortedScenario.map(row => parseFloat(row.value));
-                            let upperValues = sortedScenario.map(row => parseFloat(row.upper));
-                            let lowerValues = sortedScenario.map(row => parseFloat(row.lower));
+                            let values = sortedScenario.map(row => convertValue(parseFloat(row.val), selectedVariable.value));
+                            let upperValues = sortedScenario.map(row => convertValue(parseFloat(row.upper), selectedVariable.value));
+                            let lowerValues = sortedScenario.map(row => convertValue(parseFloat(row.lower), selectedVariable.value));
 
                             // Apply difference from normal if selected
                             if (differenceFromNormal) {
@@ -1182,11 +1216,11 @@
                     }
 
                     // Add horizontal line at zero if difference from normal
-                    if (differenceFromNormal && datasets.length > 0) {
+                    if (datasets.length > 0) {
                         const dataLength = datasets[0].data.length;
                         datasets.push({
-                            label: 'Baseline (Zero)',
-                            data: new Array(dataLength).fill(0),
+                            label: 'Baseline',
+                            data: differenceFromNormal ? new Array(151).fill(baseline): new Array(151).fill(0),
                             borderColor: 'rgba(0, 0, 0, 0.8)',
                             backgroundColor: 'rgba(0, 0, 0, 0.1)',
                             borderDash: [5, 5],
@@ -1196,7 +1230,6 @@
                         });
                     }
                 }
-                console.log('Final datasets:', datasets);
             } catch (error) {
                 console.error('Error loading future data:', error);
             }
@@ -1211,11 +1244,11 @@
 
             // Process each dataset to align with correct time periods
             datasets.forEach(dataset => {
-                if (dataset.label === 'Baseline (Zero)') {
+                if (dataset.label === 'Baseline') {
                     // Baseline spans the entire time range
                     restructuredDatasets.push({
                         ...dataset,
-                        data: new Array(allYears.length).fill(0)
+                        data: !differenceFromNormal ? new Array(151).fill(baseline): new Array(151).fill(0)
                     });
                 } else if (dataset.label === 'Historical Emissions' || dataset.label.includes('Historical')) {
                     // Historical data: 1950-2014, then null for future years
@@ -1245,12 +1278,18 @@
                 }
             });
 
-            console.log('Restructured datasets:', restructuredDatasets);
-            console.log('All years range:', allYears[0], 'to', allYears[allYears.length - 1]);
 
             const ctx = document.getElementById('future-plot');
             if (future_chart_instance) {
-                future_chart_instance.destroy();
+                // Handle both single chart and subplot instances
+                if (future_chart_instance.destroy) {
+                    future_chart_instance.destroy();
+                } else if (future_chart_instance.midChart) {
+                    future_chart_instance.midChart.destroy();
+                }
+                if (future_chart_instance.eocChart) {
+                    future_chart_instance.eocChart.destroy();
+                }
             }
 
             let y_axis_title = units[selectedVariable.value] !== ""
@@ -1339,146 +1378,62 @@
                 'ssp585': 'Fossil-fueled Development (SSP5-8.5)'
             };
 
-            let datasets = [];
-
             // Get the current selections for plot type and difference from normal
             const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
             const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
             const differenceFromNormal = selectedMapType === 'difference';
 
             try {
-                // URL construction - always use FALSE since TRUE/FALSE files are identical
-                const url = `https://data.climate.umt.edu/mt-normals/csvs/future/${selectedVariable.value}_${parts[0]}_${parts[1]}_${selectedPlotType}_FALSE.csv`;
-                console.log('Loading monthly URL:', url);
-
-                // Load CSV data directly without get_df filtering
-                const response = await fetch(url);
-                const csv = await response.text();
-                const results = Papa.parse(csv, {
-                    header: true,
-                    dynamicTyping: true
-                });
-                const allData = results.data.filter(row => row && row.value !== null && row.value !== undefined);
-
-                console.log('Raw monthly CSV data:', results.data.slice(0, 5)); // Show first 5 rows
-                console.log('Filtered monthly data:', allData.slice(0, 5));
-                console.log('Available scenarios:', [...new Set(allData.map(row => row.scenario))]);
-
+                // Load parquet data using the hive-partitioned structure
+                let allData = await parseFutureParquet(parts, selectedVariable, selectedPlotType);
+                allData = allData.filter(row => row && row.value !== null && row.value !== undefined);
+                console.log(allData);
+                
                 if (allData && allData.length > 0) {
-                    // Calculate baseline if difference from normal is selected
                     const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
                     let monthlyBaseline = new Array(12).fill(0);
 
                     if (differenceFromNormal) {
                         const historicalData = allData.filter(row =>
-                            row.scenario === "Historical Emissions"
+                            row.grp === "Reference Period (1995-2024)"
                         );
                         if (historicalData.length > 0) {
-                            // Calculate monthly baseline averages
                             historicalData.forEach(row => {
                                 const monthIndex = monthNames.indexOf(row.month);
                                 if (monthIndex !== -1) {
-                                    const upper = parseFloat(row.upper) || 0;
-                                    const lower = parseFloat(row.lower) || 0;
-                                    const value = parseFloat(row.value) || 0;
+                                    const upper = convertValue(parseFloat(row.upper) || 0, selectedVariable.value);
+                                    const lower = convertValue(parseFloat(row.lower) || 0, selectedVariable.value);
+                                    const value = convertValue(parseFloat(row.value) || 0, selectedVariable.value);
                                     monthlyBaseline[monthIndex] = (upper + lower + value) / 3;
                                 }
                             });
-                            console.log('Calculated monthly baseline:', monthlyBaseline);
                         }
                     }
 
-                    // Always add Historical Emissions first (in black)
-                    const historicalData = allData.filter(row =>
-                        row.scenario === "Historical Emissions"
-                    );
-                    if (historicalData.length > 0) {
-                        const monthlyValues = new Array(12).fill(0);
-                        const monthlyUpper = new Array(12).fill(0);
-                        const monthlyLower = new Array(12).fill(0);
+                    let y_axis_title = units[selectedVariable.value] !== ""
+                        ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[selectedVariable.value]}]`
+                        : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
 
-                        historicalData.forEach(row => {
-                            const monthIndex = monthNames.indexOf(row.month);
-                            if (monthIndex !== -1) {
-                                let value = parseFloat(row.value);
-                                let upper = parseFloat(row.upper);
-                                let lower = parseFloat(row.lower);
-
-                                // Apply difference from normal if selected
-                                if (differenceFromNormal) {
-                                    value = value - monthlyBaseline[monthIndex];
-                                    upper = upper - monthlyBaseline[monthIndex];
-                                    lower = lower - monthlyBaseline[monthIndex];
-                                }
-
-                                monthlyValues[monthIndex] = value;
-                                monthlyUpper[monthIndex] = upper;
-                                monthlyLower[monthIndex] = lower;
-                            }
-                        });
-
-                        // Add uncertainty ribbon (upper bound)
-                        datasets.push({
-                            label: 'Historical Upper',
-                            data: monthlyUpper,
-                            borderColor: 'rgba(0, 0, 0, 0)',
-                            backgroundColor: 'rgba(0, 0, 0, 0.2)',
-                            fill: '+1',
-                            pointRadius: 0,
-                            tension: 0.1,
-                            showLine: false,
-                            legendHidden: true, // Custom property to hide from legend only
-                        });
-
-                        // Add uncertainty ribbon (lower bound)
-                        datasets.push({
-                            label: 'Historical Lower',
-                            data: monthlyLower,
-                            borderColor: 'rgba(0, 0, 0, 0)',
-                            backgroundColor: 'rgba(0, 0, 0, 0.2)',
-                            fill: false,
-                            pointRadius: 0,
-                            tension: 0.1,
-                            showLine: false,
-                            legendHidden: true, // Custom property to hide from legend only
-                        });
-
-                        // Add main historical line
-                        datasets.push({
-                            label: 'Historical Emissions',
-                            data: monthlyValues,
-                            borderColor: 'rgba(0, 0, 0, 1)',
-                            backgroundColor: 'rgba(0, 0, 0, 0.1)',
-                            pointRadius: 3,
-                            tension: 0.1,
-                        });
-                    }
-
-                    // Add future scenarios
-                    for (const scenario of scenarios) {
-                        // Filter data by scenario from the CSV - match by SSP code in parentheses
-                        const scenarioData = allData.filter(row => {
-                            const scenarioText = row.scenario || '';
-                            return scenarioText.includes(scenarioNames[scenario]) ||
-                                scenarioText.includes(scenario.toUpperCase());
-                        });
-
-                        console.log(`Monthly scenario ${scenario} data:`, scenarioData);
-
-                        if (scenarioData.length > 0) {
-                            // For monthly data, we need to organize by month
+                    // Create helper function to build datasets for a specific period
+                    const buildDatasetsForPeriod = (periodGroupValue) => {
+                        let datasets = [];
+                        
+                        // Add reference period (1995-2024) if it matches
+                        const historicalData = allData.filter(row =>
+                            row.grp === "Reference Period (1995-2024)"
+                        );
+                        if (historicalData.length > 0) {
                             const monthlyValues = new Array(12).fill(0);
                             const monthlyUpper = new Array(12).fill(0);
                             const monthlyLower = new Array(12).fill(0);
 
-                            scenarioData.forEach(row => {
+                            historicalData.forEach(row => {
                                 const monthIndex = monthNames.indexOf(row.month);
                                 if (monthIndex !== -1) {
-                                    let value = parseFloat(row.value);
-                                    let upper = parseFloat(row.upper);
-                                    let lower = parseFloat(row.lower);
+                                    let value = convertValue(parseFloat(row.value), selectedVariable.value);
+                                    let upper = convertValue(parseFloat(row.upper), selectedVariable.value);
+                                    let lower = convertValue(parseFloat(row.lower), selectedVariable.value);
 
-                                    // Apply difference from normal if selected
                                     if (differenceFromNormal) {
                                         value = value - monthlyBaseline[monthIndex];
                                         upper = upper - monthlyBaseline[monthIndex];
@@ -1491,130 +1446,265 @@
                                 }
                             });
 
-                            // Add uncertainty ribbon (upper bound)
                             datasets.push({
-                                label: `${scenarioNames[scenario]} Upper`,
+                                label: 'Reference Upper',
                                 data: monthlyUpper,
                                 borderColor: 'rgba(0, 0, 0, 0)',
-                                backgroundColor: scenarioColors[scenario].replace('0.8', '0.2'),
+                                backgroundColor: 'rgba(0, 0, 0, 0.2)',
                                 fill: '+1',
                                 pointRadius: 0,
                                 tension: 0.1,
                                 showLine: false,
-                                legendHidden: true, // Custom property to hide from legend only
+                                legendHidden: true,
                             });
 
-                            // Add uncertainty ribbon (lower bound)
                             datasets.push({
-                                label: `${scenarioNames[scenario]} Lower`,
+                                label: 'Reference Lower',
                                 data: monthlyLower,
                                 borderColor: 'rgba(0, 0, 0, 0)',
-                                backgroundColor: scenarioColors[scenario].replace('0.8', '0.2'),
+                                backgroundColor: 'rgba(0, 0, 0, 0.2)',
                                 fill: false,
                                 pointRadius: 0,
                                 tension: 0.1,
                                 showLine: false,
-                                legendHidden: true, // Custom property to hide from legend only
+                                legendHidden: true,
                             });
 
-                            // Add main scenario line
                             datasets.push({
-                                label: scenarioNames[scenario],
+                                label: 'Reference Period',
                                 data: monthlyValues,
-                                borderColor: scenarioColors[scenario],
-                                backgroundColor: scenarioColors[scenario].replace('0.8', '0.3'),
+                                borderColor: 'rgba(0, 0, 0, 1)',
+                                backgroundColor: 'rgba(0, 0, 0, 0.1)',
                                 pointRadius: 3,
                                 tension: 0.1,
                             });
                         }
+
+                        // Add future scenarios for this period
+                        for (const scenario of scenarios) {
+                            const scenarioData = allData.filter(row => {
+                                const scenarioText = row.scenario || '';
+                                return row.grp === periodGroupValue && (
+                                    scenarioText.includes(scenarioNames[scenario]) ||
+                                    scenarioText.includes(scenario.toUpperCase()) ||
+                                    scenarioText === scenario
+                                );
+                            });
+
+                            if (scenarioData.length > 0) {
+                                const monthlyValues = new Array(12).fill(0);
+                                const monthlyUpper = new Array(12).fill(0);
+                                const monthlyLower = new Array(12).fill(0);
+
+                                scenarioData.forEach(row => {
+                                    const monthIndex = monthNames.indexOf(row.month);
+                                    if (monthIndex !== -1) {
+                                        let value = convertValue(parseFloat(row.value), selectedVariable.value);
+                                        let upper = convertValue(parseFloat(row.upper), selectedVariable.value);
+                                        let lower = convertValue(parseFloat(row.lower), selectedVariable.value);
+
+                                        if (differenceFromNormal) {
+                                            value = value - monthlyBaseline[monthIndex];
+                                            upper = upper - monthlyBaseline[monthIndex];
+                                            lower = lower - monthlyBaseline[monthIndex];
+                                        }
+
+                                        monthlyValues[monthIndex] = value;
+                                        monthlyUpper[monthIndex] = upper;
+                                        monthlyLower[monthIndex] = lower;
+                                    }
+                                });
+
+                                datasets.push({
+                                    label: `${scenarioNames[scenario]} Upper`,
+                                    data: monthlyUpper,
+                                    borderColor: 'rgba(0, 0, 0, 0)',
+                                    backgroundColor: scenarioColors[scenario].replace('0.8', '0.2'),
+                                    fill: '+1',
+                                    pointRadius: 0,
+                                    tension: 0.1,
+                                    showLine: false,
+                                    legendHidden: true,
+                                });
+
+                                datasets.push({
+                                    label: `${scenarioNames[scenario]} Lower`,
+                                    data: monthlyLower,
+                                    borderColor: 'rgba(0, 0, 0, 0)',
+                                    backgroundColor: scenarioColors[scenario].replace('0.8', '0.2'),
+                                    fill: false,
+                                    pointRadius: 0,
+                                    tension: 0.1,
+                                    showLine: false,
+                                    legendHidden: true,
+                                });
+
+                                datasets.push({
+                                    label: scenarioNames[scenario],
+                                    data: monthlyValues,
+                                    borderColor: scenarioColors[scenario],
+                                    backgroundColor: scenarioColors[scenario].replace('0.8', '0.3'),
+                                    pointRadius: 3,
+                                    tension: 0.1,
+                                });
+                            }
+                        }
+
+                        if (differenceFromNormal && datasets.length > 0) {
+                            datasets.push({
+                                label: 'Baseline (Zero)',
+                                data: new Array(12).fill(0),
+                                borderColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: 'rgba(0, 0, 0, 0.1)',
+                                borderDash: [5, 5],
+                                pointRadius: 0,
+                                tension: 0,
+                                legendHidden: true,
+                            });
+                        }
+
+                        return datasets;
+                    };
+
+                    // Get container and ensure it has subplot structure
+                    const plotContainer = document.getElementById('future-plot').parentElement;
+                    let midCenturyCanvas = document.getElementById('future-plot-mid-century');
+                    let endOfCenturyCanvas = document.getElementById('future-plot-end-of-century');
+
+                    if (!midCenturyCanvas) {
+                        const originalCanvas = document.getElementById('future-plot');
+                        originalCanvas.style.display = 'none';
+                        
+                        // Increase plot container height for dual subplots
+                        plotContainer.style.minHeight = '600px';
+
+                        const subplotContainer = document.createElement('div');
+                        subplotContainer.style.display = 'flex';
+                        subplotContainer.style.flexDirection = 'column';
+                        subplotContainer.style.height = '100%';
+                        subplotContainer.style.width = '100%';
+
+                        const topPlotWrapper = document.createElement('div');
+                        topPlotWrapper.style.flex = '1';
+                        topPlotWrapper.style.minHeight = '0';
+                        midCenturyCanvas = document.createElement('canvas');
+                        midCenturyCanvas.id = 'future-plot-mid-century';
+                        topPlotWrapper.appendChild(midCenturyCanvas);
+
+                        const bottomPlotWrapper = document.createElement('div');
+                        bottomPlotWrapper.style.flex = '1';
+                        bottomPlotWrapper.style.minHeight = '0';
+                        endOfCenturyCanvas = document.createElement('canvas');
+                        endOfCenturyCanvas.id = 'future-plot-end-of-century';
+                        bottomPlotWrapper.appendChild(endOfCenturyCanvas);
+
+                        subplotContainer.appendChild(topPlotWrapper);
+                        subplotContainer.appendChild(bottomPlotWrapper);
+                        plotContainer.appendChild(subplotContainer);
                     }
 
-                    // Add horizontal line at zero if difference from normal
-                    if (differenceFromNormal && datasets.length > 0) {
-                        datasets.push({
-                            label: 'Baseline (Zero)',
-                            data: new Array(12).fill(0),
-                            borderColor: 'rgba(0, 0, 0, 0.8)',
-                            backgroundColor: 'rgba(0, 0, 0, 0.1)',
-                            borderDash: [5, 5],
-                            pointRadius: 0,
-                            tension: 0,
-                            legendHidden: true, // Custom property to hide from legend only
-                        });
+                    // Build datasets for each period
+                    const midCenturyDatasets = buildDatasetsForPeriod('Mid Century (2040-2069)');
+                    const endOfCenturyDatasets = buildDatasetsForPeriod('End-of-Century (2070-2099)');
+
+                    // Destroy existing charts if they exist
+                    if (future_chart_instance && future_chart_instance.midChart) {
+                        future_chart_instance.midChart.destroy();
                     }
+                    if (future_chart_instance && future_chart_instance.eocChart) {
+                        future_chart_instance.eocChart.destroy();
+                    }
+
+                    // Create Mid Century chart
+                    const midCtx = midCenturyCanvas.getContext('2d');
+                    const midChart = new Chart(midCtx, {
+                        type: 'line',
+                        data: {
+                            labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                            datasets: midCenturyDatasets
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            plugins: {
+                                legend: {
+                                    position: 'top',
+                                    labels: {
+                                        filter: function (legendItem, chartData) {
+                                            const dataset = chartData.datasets[legendItem.datasetIndex];
+                                            return !dataset.legendHidden;
+                                        }
+                                    }
+                                },
+                                title: {
+                                    display: true,
+                                    text: `${plot_meta.variable} - Mid Century (2040-2069) - ${plot_meta.loc_name}`,
+                                },
+                                zoom: {
+                                    pan: { enabled: true, mode: 'xy' },
+                                    zoom: {
+                                        wheel: { enabled: true },
+                                        pinch: { enabled: true },
+                                        mode: 'xy',
+                                    }
+                                }
+                            },
+                            scales: {
+                                x: { title: { display: true, text: 'Month' } },
+                                y: { beginAtZero: false, title: { display: true, text: y_axis_title } }
+                            }
+                        },
+                        plugins: [customWatermarkPlugin]
+                    });
+
+                    // Create End of Century chart
+                    const eocCtx = endOfCenturyCanvas.getContext('2d');
+                    const eocChart = new Chart(eocCtx, {
+                        type: 'line',
+                        data: {
+                            labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                            datasets: endOfCenturyDatasets
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            plugins: {
+                                legend: {
+                                    position: 'top',
+                                    labels: {
+                                        filter: function (legendItem, chartData) {
+                                            const dataset = chartData.datasets[legendItem.datasetIndex];
+                                            return !dataset.legendHidden;
+                                        }
+                                    }
+                                },
+                                title: {
+                                    display: true,
+                                    text: `${plot_meta.variable} - End of Century (2070-2099) - ${plot_meta.loc_name}`,
+                                },
+                                zoom: {
+                                    pan: { enabled: true, mode: 'xy' },
+                                    zoom: {
+                                        wheel: { enabled: true },
+                                        pinch: { enabled: true },
+                                        mode: 'xy',
+                                    }
+                                }
+                            },
+                            scales: {
+                                x: { title: { display: true, text: 'Month' } },
+                                y: { beginAtZero: false, title: { display: true, text: y_axis_title } }
+                            }
+                        },
+                        plugins: [customWatermarkPlugin]
+                    });
+
+                    // Store both chart instances
+                    future_chart_instance = { midChart, eocChart };
                 }
-                console.log('Final monthly datasets:', datasets);
             } catch (error) {
                 console.error('Error loading future monthly data:', error);
             }
-
-            const ctx = document.getElementById('future-plot');
-            if (future_chart_instance) {
-                future_chart_instance.destroy();
-            }
-
-            let y_axis_title = units[selectedVariable.value] !== ""
-                ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[selectedVariable.value]}]`
-                : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
-
-            future_chart_instance = new Chart(ctx, {
-                type: 'line',
-                data: {
-                    labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
-                    datasets: datasets
-                },
-                options: {
-                    responsive: true,
-                    maintainAspectRatio: false,
-                    plugins: {
-                        legend: {
-                            position: 'top',
-                            labels: {
-                                filter: function (legendItem, chartData) {
-                                    // Hide datasets with legendHidden property
-                                    const dataset = chartData.datasets[legendItem.datasetIndex];
-                                    return !dataset.legendHidden;
-                                }
-                            }
-                        },
-                        title: {
-                            display: true,
-                            text: `${plot_meta.variable} Monthly Trends - ${plot_meta.loc_name}`,
-                        },
-                        zoom: {
-                            pan: {
-                                enabled: true,
-                                mode: 'xy'
-                            },
-                            zoom: {
-                                wheel: {
-                                    enabled: true,
-                                },
-                                pinch: {
-                                    enabled: true
-                                },
-                                mode: 'xy',
-                            }
-                        }
-                    },
-                    scales: {
-                        x: {
-                            title: {
-                                display: true,
-                                text: 'Month'
-                            }
-                        },
-                        y: {
-                            beginAtZero: false,
-                            title: {
-                                display: true,
-                                text: y_axis_title
-                            }
-                        }
-                    }
-                },
-                plugins: [customWatermarkPlugin]
-            });
         }
 
         function createChart(data, plot_meta) {
@@ -1628,7 +1718,6 @@
                     const match = stats_df.find(r => String(r.type) === String(plot_meta.type) && String(r.id) === String(plot_meta.id) && String(r.variable) === String(plot_meta.variable_code));
                     if (match && match.p_value !== undefined && match.p_value !== null && match.p_value !== '') {
                         pValue = parseFloat(match.p_value);
-                        console.log(pValue);
                     }
                 }
             } catch (e) {
@@ -1798,16 +1887,14 @@
             let lower_lim = options.min;
             let upper_lim = options.max;
 
+            // Apply custom conversions for raster data
+            lower_lim = convertValue(lower_lim, selectedVariable.value);
+            upper_lim = convertValue(upper_lim, selectedVariable.value);
+
             const labels = [];
             const scale = chroma.scale(options.pal).mode('lab');
             let legend_title;
-            if (units[selectedVariable.value] !== "" && units[selectedVariable.value] !== 'percent') {
-                let orig_units = raster_units[selectedVariable.value];
-                let new_units = units[selectedVariable.value];
-                lower_lim = math.unit(lower_lim, orig_units).to(new_units).toNumber();
-                upper_lim = math.unit(upper_lim, orig_units).to(new_units).toNumber();
-            }
-
+            
             lower_lim = smartRound(lower_lim);
             upper_lim = smartRound(upper_lim);
 
