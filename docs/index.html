@@ -10,7 +10,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
     <script src="https://unpkg.com/papaparse@5.5.2/papaparse.min.js"></script>
     <script src="https://unpkg.com/georaster"></script>
-    <script src="https://unpkg.com/georaster-layer-for-leaflet@3.8.0/dist/georaster-layer-for-leaflet.min.js"></script>
+    <script src="https://unpkg.com/georaster-layer-for-leaflet@4.1.2/dist/georaster-layer-for-leaflet.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-zoom/2.0.1/chartjs-plugin-zoom.min.js"></script>
@@ -368,7 +368,6 @@
                     <optgroup label="Derived Variables">
                         <option value="above90">Days Above 90°F</option>
                         <option value="freeze-free">Freeze Free Days</option>
-                        <option value="gdd">Growing Degree Days</option>
                         <option value="con-wet">Consecutive Wet Days</option>
                         <option value="con-dry">Consecutive Dry Days</option>
                         <option value="dry-days">Dry Days</option>
@@ -394,6 +393,14 @@
                 <div class="radio-group">
                     <label><input type="radio" name="map-type" value="average" checked> Period Average</label>
                     <label><input type="radio" name="map-type" value="difference"> Difference From Normal</label>
+                </div>
+
+                <h4 class="section-title">Emmission Scenarios (Select 1-4)</h4>
+                <div class="multiselect" id="scenario-selector">
+                    <label><input type="checkbox" name="scenario" value="ssp126" checked> SSP1-2.6 (Low Emissions)</label>
+                    <label><input type="checkbox" name="scenario" value="ssp245" checked> SSP2-4.5 (Middle)</label>
+                    <label><input type="checkbox" name="scenario" value="ssp370" checked> SSP3-7.0 (Regional)</label>
+                    <label><input type="checkbox" name="scenario" value="ssp585" checked> SSP5-8.5 (High Emissions)</label>
                 </div>
                 <div class="plot-container">
                     <canvas id="future-plot"></canvas>
@@ -591,7 +598,7 @@
         async function render_future_plot(parts) {
             const selectedVariable = document.getElementById('future-variable-selector');
             const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
-            const selectedScenarios = ['ssp126', 'ssp245', 'ssp370', 'ssp585']; // Default scenarios
+            const selectedScenarios = getSelectedScenarios();
 
             let plot_meta = {
                 "loc_name": parts[parts.length - 1],
@@ -693,32 +700,31 @@
                     variable: selectedVariable.value,
                 });
 
-
                 layer.name = selectedVariable.value;
+                console.log('Layer created:', { scenario, display, hasBaseLayerControl: bm !== null });
 
                 if (bm !== null) {
                     bm.addBaseLayer(layer, scenario);
+                    console.log('Added to base layer control:', scenario);
                     // Track SSP layers for cleanup
                     sspLayers.push(layer);
                 }
 
-                // Only set as current layer and add to map if display is true
+                // Add to map if display is true
                 if (display) {
                     if (current_layer !== null) {
                         map.removeLayer(current_layer);
                     }
                     current_layer = layer;
                     current_layer.addTo(map);
-                }
-
-                // Only update legend for display layers (historical tab)
-                if (display) {
                     updateLegend(selectedVariable);
+                    console.log('Layer added to map directly:', scenario);
                 }
 
                 return layer;
             } catch (error) {
                 console.error('Error loading COG:', error);
+                return null;
             }
         }
 
@@ -767,7 +773,7 @@
                 const selectedVariable = document.getElementById('future-variable-selector');
                 const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
                 const selectedTime = document.querySelector('input[name="time-period"]:checked').value;
-                const scenarios = ["ssp126", "ssp245", "ssp370", "ssp585"];
+                const selectedScenarios = getSelectedScenarios();
                 const scenarioNames = {
                     'ssp126': 'SSP1-2.6',
                     'ssp245': 'SSP2-4.5',
@@ -776,9 +782,11 @@
                 };
 
                 let firstLayer = null;
-                let ssp245Layer = null;
+                let defaultLayer = null;
 
-                for (const scenario of scenarios) {
+                console.log('Loading scenarios:', selectedScenarios);
+
+                for (const scenario of selectedScenarios) {
                     let base_url;
                     if (selectedMapType === "difference") {
                         base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${selectedTime}_diff.tif`;
@@ -786,15 +794,27 @@
                         base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
                     }
 
+                    console.log(`Processing scenario: ${scenario}, URL: ${base_url}`);
+
                     try {
                         const layer = await addCOG(base_url, selectedVariable, false, baseMapsSSP, scenarioNames[scenario]);
+                        console.log(`Layer returned for ${scenario}:`, layer);
+                        
+                        // Wait for layer stack to be ready
+                        if (layer && layer.stack && layer.stack instanceof Promise) {
+                            await layer.stack;
+                            console.log(`Layer stack resolved for ${scenario}`);
+                        }
+                        
                         // Use the first layer for legend update
                         if (!firstLayer && layer) {
                             firstLayer = layer;
+                            console.log(`Set firstLayer to ${scenario}`);
                         }
-                        // Track SSP2-4.5 layer for default selection
-                        if (scenario === 'ssp245' && layer) {
-                            ssp245Layer = layer;
+                        // Track first selected layer for default display
+                        if (!defaultLayer && layer) {
+                            defaultLayer = layer;
+                            console.log(`Set defaultLayer to ${scenario}`);
                         }
                     } catch (error) {
                         console.error(`Error loading COG for scenario ${scenario}:`, error);
@@ -806,9 +826,18 @@
                     updateLegend(selectedVariable, firstLayer);
                 }
 
-                // Select SSP2-4.5 by default
-                if (ssp245Layer) {
-                    ssp245Layer.addTo(map);
+                // Display the first selected scenario by default
+                if (defaultLayer) {
+                    console.log('Adding default layer to map:', defaultLayer);
+                    // Wait for the layer's stack promise to resolve before adding to map
+                    if (defaultLayer.stack && defaultLayer.stack instanceof Promise) {
+                        await defaultLayer.stack;
+                        console.log('Layer stack resolved, now adding to map');
+                    }
+                    defaultLayer.addTo(map);
+                    console.log('Default layer added to map');
+                } else {
+                    console.log('No default layer found!');
                 }
 
                 if (most_recent_click) {
@@ -861,6 +890,16 @@
         // Add event listeners for future plot controls
         document.querySelectorAll('input[name="plot-type"]').forEach(radio => {
             radio.addEventListener('change', () => {
+                if (most_recent_click) {
+                    processPlotData(most_recent_click);
+                }
+            });
+        });
+
+        // Add event listener for scenario selector changes
+        document.querySelectorAll('input[name="scenario"]').forEach(checkbox => {
+            checkbox.addEventListener('change', () => {
+                updateMap(false);
                 if (most_recent_click) {
                     processPlotData(most_recent_click);
                 }
@@ -975,26 +1014,96 @@
                 historical_chart_instance.resetZoom();
             }
             if (future_chart_instance) {
-                if (future_chart_instance.midChart) {
+                if (future_chart_instance.resetZoom) {
+                    // Single chart instance (timeseries)
+                    future_chart_instance.resetZoom();
+                } else if (future_chart_instance.midChart) {
+                    // Subplot instance (monthly)
                     future_chart_instance.midChart.resetZoom();
-                }
-                if (future_chart_instance.eocChart) {
                     future_chart_instance.eocChart.resetZoom();
                 }
             }
         }
 
-        async function parseFutureParquet(parts, selectedVariable, selectedPlotType) {
+        function resetPlotContainer() {
+            // Destroy any existing chart instances
+            if (future_chart_instance) {
+                if (future_chart_instance.destroy) {
+                    future_chart_instance.destroy();
+                } else if (future_chart_instance.midChart) {
+                    future_chart_instance.midChart.destroy();
+                }
+                if (future_chart_instance.eocChart) {
+                    future_chart_instance.eocChart.destroy();
+                }
+                future_chart_instance = null;
+            }
+            
+            // Reset the plot container DOM
+            const plotContainer = document.getElementById('future-plot').parentElement;
+            const originalCanvas = document.getElementById('future-plot');
+            
+            // Remove subplot container if it exists
+            const subplotContainer = plotContainer.querySelector('div[style*="flex-direction: column"]');
+            if (subplotContainer) {
+                subplotContainer.remove();
+            }
+            
+            // Restore original canvas visibility and reset styles
+            originalCanvas.style.display = '';
+            plotContainer.style.minHeight = '';
+            
+            // Clear any Canvas context issues by creating a fresh reference
+            const freshCanvas = document.createElement('canvas');
+            freshCanvas.id = 'future-plot';
+            originalCanvas.replaceWith(freshCanvas);
+        }
+
+        function getSelectedScenarios() {
+            const checkboxes = document.querySelectorAll('input[name="scenario"]:checked');
+            const selected = Array.from(checkboxes).map(cb => cb.value);
+            // Ensure 1-4 scenarios are selected
+            return selected.length > 0 ? selected : ['ssp245'];
+        }
+
+        async function parseFutureParquet(parts, selectedVariable, selectedPlotType, selectedScenarios = null) {
             // parts[0] = type (blm, county, huc)
             // parts[1] = id (unique identifier)
             // selectedVariable.value = variable name
             // selectedPlotType = 'monthly' or 'timeseries'
+            // selectedScenarios = array of scenario codes to filter by
+            
+            if (!selectedScenarios) {
+                selectedScenarios = getSelectedScenarios();
+            }
             
             // Construct the hive-partitioned S3 URL
             const url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip_zonal/plot_type=${selectedPlotType}/type=${parts[0]}/id=${parts[1]}/variable=${selectedVariable.value}/part-0.parquet`;
             
             try {
-                const dat = await get_df(url);
+                let dat = await get_df(url);
+                
+                // Filter data by selected scenarios
+                const scenarioNames = {
+                    'ssp126': 'SSP1-2.6',
+                    'ssp245': 'SSP2-4.5',
+                    'ssp370': 'SSP3-7.0',
+                    'ssp585': 'SSP5-8.5'
+                };
+                
+                // Include reference period and filter scenarios
+                dat = dat.filter(row => {
+                    if (row.grp === "Reference Period (1995-2024)") {
+                        return true;
+                    }
+                    const scenarioText = row.scenario || '';
+                    return selectedScenarios.some(scenario => 
+                        scenarioText.includes(scenarioNames[scenario]) ||
+                        scenarioText.includes(scenario.toUpperCase()) ||
+                        scenarioText === scenario
+                    );
+                });
+                
                 return dat;
             } catch (error) {
                 console.error('Error loading parquet file:', error);
@@ -1026,6 +1135,9 @@
         }
 
         async function createFutureTimeseriesChart(parts, selectedVariable, scenarios, plot_meta) {
+            // Reset plot container to clean state
+            resetPlotContainer();
+
             const scenarioColors = {
                 'ssp126': 'rgba(54, 162, 235, 0.8)',
                 'ssp245': 'rgba(255, 206, 86, 0.8)',
@@ -1057,12 +1169,12 @@
             let baseline = 0;   
             try {
                 // Load parquet data using the hive-partitioned structure
-                allData = await parseFutureParquet(parts, selectedVariable, selectedPlotType);
+                allData = await parseFutureParquet(parts, selectedVariable, selectedPlotType, scenarios);
                 allData = allData.filter(row => row && row.val !== null && row.val !== undefined);
                 if (allData && allData.length > 0) {
                     // Calculate baseline if difference from normal is selected
                     const baselineValues = allData
-                        .map(row => parseFloat(row.baseline))
+                        .map(row => convertValue(parseFloat(row.baseline), selectedVariable.value))
                         .filter(val => !isNaN(val));
                     baseline = baselineValues.length > 0 
                         ? baselineValues.reduce((a, b) => a + b) / baselineValues.length 
@@ -1280,17 +1392,6 @@
 
 
             const ctx = document.getElementById('future-plot');
-            if (future_chart_instance) {
-                // Handle both single chart and subplot instances
-                if (future_chart_instance.destroy) {
-                    future_chart_instance.destroy();
-                } else if (future_chart_instance.midChart) {
-                    future_chart_instance.midChart.destroy();
-                }
-                if (future_chart_instance.eocChart) {
-                    future_chart_instance.eocChart.destroy();
-                }
-            }
 
             let y_axis_title = units[selectedVariable.value] !== ""
                 ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[selectedVariable.value]}]`
@@ -1357,6 +1458,9 @@
         }
 
         async function createFutureMonthlyChart(parts, selectedVariable, scenarios, plot_meta) {
+            // Reset plot container to clean state
+            resetPlotContainer();
+
             const scenarioColors = {
                 'ssp126': 'rgba(54, 162, 235, 0.8)',
                 'ssp245': 'rgba(255, 206, 86, 0.8)',
@@ -1385,9 +1489,8 @@
 
             try {
                 // Load parquet data using the hive-partitioned structure
-                let allData = await parseFutureParquet(parts, selectedVariable, selectedPlotType);
+                let allData = await parseFutureParquet(parts, selectedVariable, selectedPlotType, scenarios);
                 allData = allData.filter(row => row && row.value !== null && row.value !== undefined);
-                console.log(allData);
                 
                 if (allData && allData.length > 0) {
                     const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -1606,14 +1709,6 @@
                     // Build datasets for each period
                     const midCenturyDatasets = buildDatasetsForPeriod('Mid Century (2040-2069)');
                     const endOfCenturyDatasets = buildDatasetsForPeriod('End-of-Century (2070-2099)');
-
-                    // Destroy existing charts if they exist
-                    if (future_chart_instance && future_chart_instance.midChart) {
-                        future_chart_instance.midChart.destroy();
-                    }
-                    if (future_chart_instance && future_chart_instance.eocChart) {
-                        future_chart_instance.eocChart.destroy();
-                    }
 
                     // Create Mid Century chart
                     const midCtx = midCenturyCanvas.getContext('2d');
