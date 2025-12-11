@@ -10,7 +10,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
     <script src="https://unpkg.com/papaparse@5.5.2/papaparse.min.js"></script>
     <script src="https://unpkg.com/georaster"></script>
-    <script src="https://unpkg.com/georaster-layer-for-leaflet@4.1.2/dist/georaster-layer-for-leaflet.min.js"></script>
+    <script src="https://unpkg.com/georaster-layer-for-leaflet@3.8.0/dist/georaster-layer-for-leaflet.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-zoom/2.0.1/chartjs-plugin-zoom.min.js"></script>
@@ -579,6 +579,12 @@
                 });
             }
 
+            // Apply unit conversions to the filtered data
+            dat_filtered = dat_filtered.map(item => ({
+                date: item.date,
+                value: convertValue(item.value, selectedVariable.value)
+            }));
+
             let y_axis_title = units[selectedVariable.value] !== ""
                 ? `${selectedVariable.options[selectedVariable.selectedIndex].text} [${units[selectedVariable.value]}]`
                 : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
@@ -651,18 +657,16 @@
             // Hide monthly options for satellite variables
             const satelliteVars = ['afg', 'bgr', 'pfg', 'shr', 'tre', 'evi', 'ndvi', 'et_m16', 'pet_m16', 'gpp', 'afgnpp', 'pfgnpp', 'shrnpp', 'trenpp'];
 
-            Array.from(timeSelector.options).forEach(option => {
-                if (option.value !== 'annual') {
-                    option.style.display = satelliteVars.includes(selectedVariable) ? 'none' : '';
-                }
-            });
+            // Array.from(timeSelector.options).forEach(option => {
+            //     if (option.value !== 'annual') {
+            //         option.style.display = satelliteVars.includes(selectedVariable) ? 'none' : '';
+            //     }
+            // });
 
             // Reset to annual if satellite variable selected and monthly was previously selected
             if (satelliteVars.includes(selectedVariable) && timeSelector.value !== 'annual') {
                 timeSelector.value = 'annual';
             }
-
-
         });
 
         let current_layer = null;
@@ -670,10 +674,17 @@
         let sspLayers = []; // Track SSP layers for proper cleanup
 
         async function addCOG(url, selectedVariable, display = false, bm = null, scenario = null) {
+            console.log(url);
             try {
                 const response = await fetch(url);
                 const arrayBuffer = await response.arrayBuffer();
                 const georaster = await parseGeoraster(arrayBuffer);
+
+                if (georaster.xmin > 180) {
+                    georaster.xmin -= 360;
+                    georaster.xmax -= 360;
+                }
+          
                 const min = georaster.mins[0];
                 const max = georaster.maxs[0];
 
@@ -701,16 +712,12 @@
                 });
 
                 layer.name = selectedVariable.value;
-                console.log('Layer created:', { scenario, display, hasBaseLayerControl: bm !== null });
-
                 if (bm !== null) {
                     bm.addBaseLayer(layer, scenario);
-                    console.log('Added to base layer control:', scenario);
                     // Track SSP layers for cleanup
                     sspLayers.push(layer);
                 }
 
-                // Add to map if display is true
                 if (display) {
                     if (current_layer !== null) {
                         map.removeLayer(current_layer);
@@ -718,9 +725,7 @@
                     current_layer = layer;
                     current_layer.addTo(map);
                     updateLegend(selectedVariable);
-                    console.log('Layer added to map directly:', scenario);
                 }
-
                 return layer;
             } catch (error) {
                 console.error('Error loading COG:', error);
@@ -733,7 +738,6 @@
             if (historical) {
                 const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
                 if (element) element.style.display = 'none';
-
                 // Clear any existing SSP layers when switching to historical
                 sspLayers.forEach(layer => {
                     map.removeLayer(layer);
@@ -781,10 +785,11 @@
                     'ssp585': 'SSP5-8.5'
                 };
 
+                // Track global min/max across all SSP layers
+                let globalMin = Infinity;
+                let globalMax = -Infinity;
                 let firstLayer = null;
                 let defaultLayer = null;
-
-                console.log('Loading scenarios:', selectedScenarios);
 
                 for (const scenario of selectedScenarios) {
                     let base_url;
@@ -794,50 +799,56 @@
                         base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
                     }
 
-                    console.log(`Processing scenario: ${scenario}, URL: ${base_url}`);
-
                     try {
                         const layer = await addCOG(base_url, selectedVariable, false, baseMapsSSP, scenarioNames[scenario]);
-                        console.log(`Layer returned for ${scenario}:`, layer);
                         
                         // Wait for layer stack to be ready
                         if (layer && layer.stack && layer.stack instanceof Promise) {
                             await layer.stack;
-                            console.log(`Layer stack resolved for ${scenario}`);
+                        }
+                        
+                        // Collect min/max from this layer
+                        if (layer && layer.options) {
+                            globalMin = Math.min(globalMin, layer.options.min);
+                            globalMax = Math.max(globalMax, layer.options.max);
                         }
                         
                         // Use the first layer for legend update
                         if (!firstLayer && layer) {
                             firstLayer = layer;
-                            console.log(`Set firstLayer to ${scenario}`);
                         }
                         // Track first selected layer for default display
                         if (!defaultLayer && layer) {
                             defaultLayer = layer;
-                            console.log(`Set defaultLayer to ${scenario}`);
                         }
                     } catch (error) {
                         console.error(`Error loading COG for scenario ${scenario}:`, error);
                     }
                 }
 
-                // Update legend with the first layer's properties
-                if (firstLayer) {
-                    updateLegend(selectedVariable, firstLayer);
+                // Update legend with global min/max values
+                if (firstLayer && isFinite(globalMin) && isFinite(globalMax)) {
+                    // Create a temporary object with global min/max for legend display
+                    const globalMinMaxLayer = {
+                        options: {
+                            min: globalMin,
+                            max: globalMax,
+                            pal: firstLayer.options.pal,
+                            variable: firstLayer.options.variable
+                        }
+                    };
+                    updateLegend(selectedVariable, globalMinMaxLayer);
                 }
 
-                // Display the first selected scenario by default
+                // Wait for the layer's stack promise to resolve before adding to map
                 if (defaultLayer) {
-                    console.log('Adding default layer to map:', defaultLayer);
-                    // Wait for the layer's stack promise to resolve before adding to map
                     if (defaultLayer.stack && defaultLayer.stack instanceof Promise) {
                         await defaultLayer.stack;
-                        console.log('Layer stack resolved, now adding to map');
                     }
+                    console.log(defaultLayer);
                     defaultLayer.addTo(map);
-                    console.log('Default layer added to map');
                 } else {
-                    console.log('No default layer found!');
+                    console.warn('No default layer was loaded for the selected scenarios');
                 }
 
                 if (most_recent_click) {
@@ -1120,9 +1131,15 @@
                 case 'tas':
                 case 'tasmax':
                 case 'tasmin':
+                case 'tmmn':
+                case 'tmmx':
                     // K to degF: (K - 273.15) * 9/5 + 32
                     return (value - 273.15) * 9/5 + 32;
                 case 'eto':
+                case 'etr':
+                case 'pet':
+                case 'et_m16': 
+                case 'pet_m16':
                 case 'pr':
                     // mm to inches: mm / 25.4
                     return value / 25.4;
@@ -1970,6 +1987,8 @@
         function smartRound(v) {
             return v < 1 ? Math.round((v + Number.EPSILON) * 100) / 100 : Math.round(v);
         }
+
+
 
         function updateLegend(selectedVariable, layer = null) {
             const old_div = legend.getContainer().querySelector('div');

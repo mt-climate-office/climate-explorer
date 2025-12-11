@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>GeoTIFF Viewer</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { height: 70vh; width: 100%; }
+    #metadata { padding: 20px; font-family: monospace; background: #f5f5f5; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div id="metadata"></div>
+  
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/georaster@1.6.0/dist/georaster.browser.bundle.min.js"></script>
+  <script src="https://unpkg.com/georaster-layer-for-leaflet@3.10.0/dist/georaster-layer-for-leaflet.min.js"></script>
+  
+  <script>
+    const map = L.map('map').setView([39, -98], 4);
+    
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+    
+    const url = 'https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/above90_ssp370_end.tif';
+    
+    fetch(url)
+      .then(response => response.arrayBuffer())
+      .then(arrayBuffer => {
+        parseGeoraster(arrayBuffer).then(georaster => {
+          // Rotate longitude from 0-360 to -180-180
+          if (georaster.xmin > 180) {
+            georaster.xmin -= 360;
+            georaster.xmax -= 360;
+          }
+          
+          const layer = new GeoRasterLayer({
+            georaster: georaster,
+            opacity: 0.7,
+            resolution: 256
+          });
+          layer.addTo(map);
+          map.fitBounds(layer.getBounds());
+          
+          // Display metadata
+          document.getElementById('metadata').innerHTML = '<pre>' + 
+            JSON.stringify(georaster, null, 2) + '</pre>';
+        });
+      });
+  </script>
+</body>
+</html>
