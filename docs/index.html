@@ -158,6 +158,39 @@
             color: #444;
         }
 
+        .scenario-button-group {
+            display: flex;
+            gap: 8px;
+            margin: 10px 0;
+            flex-wrap: wrap;
+        }
+
+        .scenario-btn {
+            flex: 1;
+            min-width: 90px;
+            padding: 10px 12px;
+            border: 2px solid #ddd;
+            background: white;
+            color: #666;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .scenario-btn:hover {
+            border-color: #4a90e2;
+            background: #f0f5ff;
+        }
+
+        .scenario-btn.active {
+            background: #4a90e2;
+            color: white;
+            border-color: #4a90e2;
+            box-shadow: 0 2px 4px rgba(74, 144, 226, 0.3);
+        }
+
         .plot-container {
             margin-top: 20px;
             flex-grow: 1;
@@ -496,7 +529,7 @@
                     </optgroup>
                 </select>
                 <h3 class="section-title">Time Period</h3>
-                <select id="historical-time-selector">
+                <select id="historical-time-selector" title="Select time period for historical data">
                     <option value="annual">Annual</option>
                     <option value="jan">January</option>
                     <option value="feb">February</option>
@@ -521,7 +554,7 @@
                 <select id="future-variable-selector">
                     <optgroup label="CMIP6 Variables">
                         <option value="eto">Potential ET</option>
-                        <option value="tas">Avg. Air Temperature</option>
+                        <option value="tas" selected="selected">Avg. Air Temperature</option>
                         <option value="tasmax">Max. Air Temperature</option>
                         <option value="tasmin">Min. Air Temperature</option>
                         <option value="sfcWind">Wind Speed</option>
@@ -537,18 +570,17 @@
                     </optgroup>
                 </select>
 
+                <h4 class="section-title">Map Time Period</h4>
+                    <div class="radio-group">
+                        <label><input type="radio" name="time-period" value="end" checked> End of Century</label>
+                        <label><input type="radio" name="time-period" value="mid"> Mid Century</label>
+                        <label><input type="radio" name="time-period" value="reference"> Reference Period</label>
+                    </div>
                 <h3 class="section-title">Plot Options</h3>
                 <h4 class="section-title">Plot Type</h4>
                 <div class="radio-group">
                     <label><input type="radio" name="plot-type" value="timeseries" checked> Timeseries</label>
                     <label><input type="radio" name="plot-type" value="monthly"> Monthly Trend</label>
-                </div>
-
-                <h4 class="section-title">Time Period</h4>
-                <div class="radio-group">
-                    <label><input type="radio" name="time-period" value="end" checked> End of Century</label>
-                    <label><input type="radio" name="time-period" value="mid"> Mid Century</label>
-                    <label><input type="radio" name="time-period" value="reference"> Reference Period</label>
                 </div>
 
                 <h4 class="section-title">Map Type</h4>
@@ -557,12 +589,12 @@
                     <label><input type="radio" name="map-type" value="difference"> Difference From Normal</label>
                 </div>
 
-                <h4 class="section-title">Emmission Scenarios (Select 1-4)</h4>
-                <div class="multiselect" id="scenario-selector">
-                    <label><input type="checkbox" name="scenario" value="ssp126" checked> SSP1-2.6 (Low Emissions)</label>
-                    <label><input type="checkbox" name="scenario" value="ssp245" checked> SSP2-4.5 (Middle)</label>
-                    <label><input type="checkbox" name="scenario" value="ssp370" checked> SSP3-7.0 (Regional)</label>
-                    <label><input type="checkbox" name="scenario" value="ssp585" checked> SSP5-8.5 (High Emissions)</label>
+                <h4 class="section-title">Emmission Scenarios</h4>
+                <div class="scenario-button-group" id="scenario-selector">
+                    <button class="scenario-btn" data-value="ssp126">SSP1-2.6</button>
+                    <button class="scenario-btn active" data-value="ssp245">SSP2-4.5</button>
+                    <button class="scenario-btn active" data-value="ssp370">SSP3-7.0</button>
+                    <button class="scenario-btn" data-value="ssp585">SSP5-8.5</button>
                 </div>
                 <div class="plot-container">
                     <canvas id="future-plot"></canvas>
@@ -666,7 +698,7 @@
             'pfgcov': 'Greens',
             'shrcov': 'Greens',
             'trecov': 'Greens',
-            'evicov': 'Greens',
+            'evi': 'Greens',
             'ndvi': 'Greens',
             'm16_et': 'OrRd',
             'm16_pet': 'OrRd',
@@ -1025,7 +1057,7 @@
                     } else {
                         base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
                     }
-
+                    console.log(base_url);
                     try {
                         const layer = await addCOG(base_url, selectedVariable, false, baseMapsSSP, scenarioNames[scenario]);
                         
@@ -1064,7 +1096,8 @@
                             variable: firstLayer.options.variable
                         }
                     };
-                    updateLegend(selectedVariable, globalMinMaxLayer);
+                    // Pass isDifference flag when updating legend for difference maps
+                    updateLegend(selectedVariable, globalMinMaxLayer, selectedMapType === 'difference');
                 }
 
                 // Wait for the layer's stack promise to resolve before adding to map
@@ -1122,7 +1155,29 @@
         // Change event listeners for both selectors
         document.getElementById('historical-variable-selector').addEventListener('change', () => updateMap(true));
         document.getElementById('historical-time-selector').addEventListener('change', () => updateMap(true));
-        document.getElementById('future-variable-selector').addEventListener('change', () => updateMap(false));
+        document.getElementById('future-variable-selector').addEventListener('change', () => {
+            const selectedVariable = document.getElementById('future-variable-selector').value;
+            const monthlyRadio = document.querySelector('input[name="plot-type"][value="monthly"]');
+            const timeseriesRadio = document.querySelector('input[name="plot-type"][value="timeseries"]');
+            
+            // Disable monthly plot type for con-wet and con-dry variables
+            if (selectedVariable === 'con-wet' || selectedVariable === 'con-dry') {
+                monthlyRadio.disabled = true;
+                monthlyRadio.parentElement.style.opacity = '0.5';
+                monthlyRadio.parentElement.style.pointerEvents = 'none';
+                
+                // If monthly is currently selected, switch to timeseries
+                if (monthlyRadio.checked) {
+                    timeseriesRadio.checked = true;
+                }
+            } else {
+                monthlyRadio.disabled = false;
+                monthlyRadio.parentElement.style.opacity = '1';
+                monthlyRadio.parentElement.style.pointerEvents = 'auto';
+            }
+            
+            updateMap(false);
+        });
 
         // Add event listeners for future plot controls
         document.querySelectorAll('input[name="plot-type"]').forEach(radio => {
@@ -1133,22 +1188,37 @@
             });
         });
 
-        // Add event listener for scenario selector changes
-        document.querySelectorAll('input[name="scenario"]').forEach(checkbox => {
-            checkbox.addEventListener('change', () => {
-                updateMap(false);
-                if (most_recent_click) {
-                    processPlotData(most_recent_click);
-                }
-            });
-        });
+        // Initialize scenario buttons
+        document.addEventListener('DOMContentLoaded', initializeScenarioButtons);
 
         document.querySelectorAll('input[name="time-period"]').forEach(radio => {
             radio.addEventListener('change', () => updateMap(false));
         });
 
         document.querySelectorAll('input[name="map-type"]').forEach(radio => {
-            radio.addEventListener('change', () => updateMap(false));
+            radio.addEventListener('change', () => {
+                const referenceRadio = document.querySelector('input[name="time-period"][value="reference"]');
+                const mapType = document.querySelector('input[name="map-type"]:checked').value;
+                
+                if (mapType === 'difference') {
+                    // Disable reference period for difference map type
+                    referenceRadio.disabled = true;
+                    referenceRadio.parentElement.style.opacity = '0.5';
+                    referenceRadio.parentElement.style.pointerEvents = 'none';
+                    
+                    // If reference is currently selected, switch to end
+                    if (referenceRadio.checked) {
+                        document.querySelector('input[name="time-period"][value="end"]').checked = true;
+                    }
+                } else {
+                    // Enable reference period for average map type
+                    referenceRadio.disabled = false;
+                    referenceRadio.parentElement.style.opacity = '1';
+                    referenceRadio.parentElement.style.pointerEvents = 'auto';
+                }
+                
+                updateMap(false);
+            });
         });
 
         // Tab click handling is now managed by switchTab function
@@ -1296,10 +1366,26 @@
         }
 
         function getSelectedScenarios() {
-            const checkboxes = document.querySelectorAll('input[name="scenario"]:checked');
-            const selected = Array.from(checkboxes).map(cb => cb.value);
+            const buttons = document.querySelectorAll('.scenario-btn.active');
+            const selected = Array.from(buttons).map(btn => btn.dataset.value);
             // Ensure 1-4 scenarios are selected
             return selected.length > 0 ? selected : ['ssp245'];
+        }
+
+        function initializeScenarioButtons() {
+            const buttons = document.querySelectorAll('.scenario-btn');
+            buttons.forEach(button => {
+                button.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const activeButtons = document.querySelectorAll('.scenario-btn.active');
+                    // Only allow deselection if more than one button is active
+                    if (button.classList.contains('active') && activeButtons.length <= 1) {
+                        return; // Prevent deselecting the last button
+                    }
+                    button.classList.toggle('active');
+                    updateMap(false);
+                });
+            });
         }
 
         async function parseFutureParquet(parts, selectedVariable, selectedPlotType, selectedScenarios = null) {
@@ -1349,7 +1435,8 @@
         }
 
         // Convert value from raw units to display units
-        function convertValue(value, variableCode) {
+        // isDifference: if true, applies scale-only conversion for temperature (not K-to-F offset)
+        function convertValue(value, variableCode, isDifference = false) {
             if (isNaN(value)) return value;
             
             switch(variableCode) {
@@ -1358,18 +1445,23 @@
                 case 'tasmin':
                 case 'tmmn':
                 case 'tmmx':
-                    // K to degF: (K - 273.15) * 9/5 + 32
-                    return (value - 273.15) * 9/5 + 32;
+                    // For differences, only scale by 9/5 (since delta K = delta degF * 5/9)
+                    // For absolute values, convert K to degF: (K - 273.15) * 9/5 + 32
+                    if (isDifference) {
+                        return value * 9/5;
+                    } else {
+                        return (value - 273.15) * 9/5 + 32;
+                    }
                 case 'eto':
                 case 'etr':
                 case 'pet':
                 case 'm16_et': 
                 case 'm16_pet':
                 case 'pr':
-                    // mm to inches: mm / 25.4
+                    // mm to inches: mm / 25.4 (same for both absolute and differences)
                     return value / 25.4;
                 case 'sfcWind':
-                    // m/s to mph: m/s * 2.237
+                    // m/s to mph: m/s * 2.237 (same for both absolute and differences)
                     return value * 2.237;
                 default:
                     return value;
@@ -2210,7 +2302,7 @@
 
 
 
-        function updateLegend(selectedVariable, layer = null) {
+        function updateLegend(selectedVariable, layer = null, isDifference = false) {
             const old_div = legend.getContainer().querySelector('div');
             const new_div = L.DomUtil.create('div');
             // Use provided layer or fall back to current_layer
@@ -2222,8 +2314,9 @@
             let upper_lim = options.max;
 
             // Apply custom conversions for raster data
-            lower_lim = convertValue(lower_lim, selectedVariable.value);
-            upper_lim = convertValue(upper_lim, selectedVariable.value);
+            // Pass isDifference flag for proper temperature conversion
+            lower_lim = convertValue(lower_lim, selectedVariable.value, isDifference);
+            upper_lim = convertValue(upper_lim, selectedVariable.value, isDifference);
 
             const labels = [];
             const scale = chroma.scale(options.pal).mode('lab');
