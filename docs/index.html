@@ -95,6 +95,7 @@
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
             z-index: 1000;
             overflow-y: auto;
+            -webkit-backdrop-filter: blur(5px);
             backdrop-filter: blur(5px);
             /* Added blur effect for better readability */
         }
@@ -498,7 +499,7 @@
             <div class="sidebar active">
                 <h2 class="sidebar-title">Climate and Vegetation Trends</h2>
                 <h3 class="section-title">Variable Selection</h3>
-                <select id="historical-variable-selector">
+                <select id="historical-variable-selector" title="Select historical variable">
                     <optgroup label="GridMET Variables">
                         <option value="erc">Energy Release Component</option>
                         <option value="etr">Potential ET (Alfalfa)</option>
@@ -814,7 +815,7 @@
                     if (!groupedData[year]) {
                         groupedData[year] = { year: year, value: 0, count: 0 };
                     }
-                    if (['pr', 'etr', 'pet'].includes(selectedVariable.value)) {
+                    if (['pr', 'etr', 'pet', 'm16_pet', 'm16_et', 'gpp'].includes(selectedVariable.value)) {
                         groupedData[year].value += item.value; // Sum for precipitation and ET
                     } else {
                         groupedData[year].value += item.value; // Running sum for mean
@@ -823,7 +824,7 @@
 
                 });
                 // Calculate means for non-summed variables
-                if (!['pr', 'etr', 'pet'].includes(selectedVariable.value)) {
+                if (!['pr', 'etr', 'pet', 'm16_pet', 'm16_et', 'gpp'].includes(selectedVariable.value)) {
                     Object.values(groupedData).forEach(item => {
                         item.value = item.value / item.count;
                     });
@@ -915,7 +916,7 @@
             const selectedVariable = e.target.value;
 
             // Hide monthly options for satellite variables
-            const satelliteVars = ['afgcov', 'bgrcov', 'pfgcov', 'shrcov', 'trecov', 'evi', 'ndvi', 'm16_et', 'm16_pet', 'gpp'];
+            const satelliteVars = ['afgcov', 'bgrcov', 'pfgcov', 'shrcov', 'trecov'];
 
             Array.from(timeSelector.options).forEach(option => {
                 if (option.value !== 'annual') {
@@ -952,14 +953,22 @@
                     opacity: 0.7,
                     updateWhenZooming: false,
                     pixelValuesToColorFn: function (pixelValues) {
-                        const pixelValue = pixelValues[0];
+                        let pixelValue = pixelValues[0];
                         if (isNaN(pixelValue)) {
                             return 'rgba(0,0,0,0)';
+                        }
+                        // Scale evi and ndvi values by dividing by 12 for raster display (annual only)
+                        const selectedTime = document.getElementById('historical-time-selector');
+                        const isAnnual = selectedTime && selectedTime.value === 'annual';
+                        if ((selectedVariable.value === 'evi' || selectedVariable.value === 'ndvi') && isAnnual) {
+                            pixelValue = pixelValue / 12;
                         }
                         // Get the color scale based on the variable name
                         const scale = chroma.scale(palettes[selectedVariable.value]).mode('lab');
                         // Normalize the value between 0 and 1
-                        const normalized = (pixelValue - min) / (max - min);
+                        const normalizedMin = ((selectedVariable.value === 'evi' || selectedVariable.value === 'ndvi') && isAnnual) ? min / 12 : min;
+                        const normalizedMax = ((selectedVariable.value === 'evi' || selectedVariable.value === 'ndvi') && isAnnual) ? max / 12 : max;
+                        const normalized = (pixelValue - normalizedMin) / (normalizedMax - normalizedMin);
                         // Get color and convert to rgba
                         const color = scale(normalized).alpha(1);
                         return color.css('rgba');
@@ -2317,6 +2326,14 @@
             // Pass isDifference flag for proper temperature conversion
             lower_lim = convertValue(lower_lim, selectedVariable.value, isDifference);
             upper_lim = convertValue(upper_lim, selectedVariable.value, isDifference);
+
+            // Scale evi and ndvi legend values by dividing by 12 (annual only)
+            const selectedTime = document.getElementById('historical-time-selector');
+            const isAnnual = selectedTime && selectedTime.value === 'annual';
+            if ((selectedVariable.value === 'evi' || selectedVariable.value === 'ndvi') && isAnnual) {
+                lower_lim = lower_lim / 12;
+                upper_lim = upper_lim / 12;
+            }
 
             const labels = [];
             const scale = chroma.scale(options.pal).mode('lab');
