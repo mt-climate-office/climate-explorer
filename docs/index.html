@@ -120,20 +120,44 @@
             flex-direction: column;
         }
 
+
         select {
             width: 100%;
             margin: 10px 0;
-            padding: 10px;
+            padding: 10px 40px 10px 14px;
             border-radius: 8px;
             border: 1px solid #ddd;
             background: white;
-            font-size: 14px;
+            font-size: 15px;
+            color: #333;
+            appearance: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            background-image: url('data:image/svg+xml;utf8,<svg fill="%234a90e2" height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M7.293 8.293a1 1 0 011.414 0L10 9.586l1.293-1.293a1 1 0 111.414 1.414l-2 2a1 1 0 01-1.414 0l-2-2a1 1 0 010-1.414z"/></svg>');
+            background-repeat: no-repeat;
+            background-position: right 12px center;
+            background-size: 20px 20px;
+            box-shadow: 0 1px 2px rgba(74,144,226,0.04);
+            transition: border-color 0.2s, box-shadow 0.2s;
         }
 
         select:focus {
             outline: none;
             border-color: #4a90e2;
+            box-shadow: 0 0 0 2px rgba(74,144,226,0.15);
         }
+
+        /* Remove default arrow in IE10+ */
+        select::-ms-expand {
+            display: none;
+        }
+
+        /* Hide default arrow in Safari */
+        @media not all and (min-resolution:.001dpcm) { @supports (-webkit-appearance:none) {
+            select {
+                padding-right: 40px;
+            }
+        }}
 
         .multiselect {
             border: 1px solid #ddd;
@@ -571,12 +595,7 @@
                     </optgroup>
                 </select>
 
-                <h4 class="section-title">Map Time Period</h4>
-                    <div class="radio-group">
-                        <label><input type="radio" name="time-period" value="end" checked> End of Century</label>
-                        <label><input type="radio" name="time-period" value="mid"> Mid Century</label>
-                        <label><input type="radio" name="time-period" value="reference"> Reference Period</label>
-                    </div>
+                <!-- Map Time Period radiogroup removed: now handled by baseMapsTime group -->
                 <h3 class="section-title">Plot Options</h3>
                 <h4 class="section-title">Plot Type</h4>
                 <div class="radio-group">
@@ -938,7 +957,7 @@
         let most_recent_click;
         let sspLayers = []; // Track SSP layers for proper cleanup
 
-        async function addCOG(url, selectedVariable, display = false, bm = null, scenario = null) {
+        async function addCOG(url, selectedVariable, display = false, bm = null, scenario = null, globalMin = null, globalMax = null) {
             try {
                 const response = await fetch(url);
                 const arrayBuffer = await response.arrayBuffer();
@@ -948,10 +967,23 @@
                     georaster.xmin -= 360;
                     georaster.xmax -= 360;
                 }
-          
-                const min = georaster.mins[0];
-                const max = georaster.maxs[0];
 
+                // Use global min/max if provided, else use raster min/max
+                let min = georaster.mins[0];
+                let max = georaster.maxs[0];
+                if (globalMin !== null && isFinite(globalMin)) min = globalMin;
+                if (globalMax !== null && isFinite(globalMax)) max = globalMax;
+
+                // Reverse palette if RdYlBu
+                let palette = palettes[selectedVariable.value];
+                let scale;
+                if (palette === 'RdYlBu') {
+                    // chroma.brewer.RdYlBu is an array of colors
+                    const colors = chroma.brewer && chroma.brewer.RdYlBu ? [...chroma.brewer.RdYlBu].reverse() : ['#d73027','#f46d43','#fdae61','#fee090','#e0f3f8','#abd9e9','#74add1','#4575b4'];
+                    scale = chroma.scale(colors).mode('lab');
+                } else {
+                    scale = chroma.scale(palette).mode('lab');
+                }
                 var layer = new GeoRasterLayer({
                     georaster: georaster,
                     opacity: 0.7,
@@ -967,9 +999,7 @@
                         if ((selectedVariable.value === 'evi' || selectedVariable.value === 'ndvi') && isAnnual) {
                             pixelValue = pixelValue / 12;
                         }
-                        // Get the color scale based on the variable name
-                        const scale = chroma.scale(palettes[selectedVariable.value]).mode('lab');
-                        // Normalize the value between 0 and 1
+                        // Normalize the value between 0 and 1 using global min/max
                         const normalizedMin = ((selectedVariable.value === 'evi' || selectedVariable.value === 'ndvi') && isAnnual) ? min / 12 : min;
                         const normalizedMax = ((selectedVariable.value === 'evi' || selectedVariable.value === 'ndvi') && isAnnual) ? max / 12 : max;
                         const normalized = (pixelValue - normalizedMin) / (normalizedMax - normalizedMin);
@@ -979,8 +1009,9 @@
                     },
                     min: min,
                     max: max,
-                    pal: palettes[selectedVariable.value],
+                    pal: palette,
                     variable: selectedVariable.value,
+                    scaleOverride: palette === 'RdYlBu' ? scale : null,
                 });
 
                 layer.name = selectedVariable.value;
@@ -996,7 +1027,16 @@
                     }
                     current_layer = layer;
                     current_layer.addTo(map);
-                    updateLegend(selectedVariable);
+                    // Pass min/max to legend for consistency
+                    const legendLayer = {
+                        options: {
+                            min: min,
+                            max: max,
+                            pal: palette,
+                            variable: selectedVariable.value
+                        }
+                    };
+                    updateLegend(selectedVariable, legendLayer);
                 }
                 return layer;
             } catch (error) {
@@ -1008,14 +1048,41 @@
         // Function to update the map based on current selections
         async function updateMap(historical = true) {
             if (historical) {
-                const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
-                if (element) element.style.display = 'none';
-                // Clear any existing SSP layers when switching to historical
-                sspLayers.forEach(layer => {
-                    map.removeLayer(layer);
-                    baseMapsSSP.removeLayer(layer);
+                // Hide baseMapsTime control (layergroup) in historical tab
+                document.querySelectorAll('.leaflet-control-layers').forEach(ctrl => {
+                    // Only hide controls in bottomleft (projections group)
+                    if (ctrl.closest('.leaflet-bottom.leaflet-left')) {
+                        ctrl.style.display = 'none';
+                    }
                 });
+                // Clear any existing SSP layers when switching to historical
+                // sspLayers.forEach(layer => {
+                //     map.removeLayer(layer);
+                //     baseMapsSSP.removeLayer(layer);
+                // });
                 sspLayers = [];
+
+                // Remove all layers from baseMapsTime (projection layers)
+                if (baseMapsTime && baseMapsTime._layers) {
+                    Object.values(baseMapsTime._layers).forEach(obj => {
+                        if (obj.layer) {
+                            map.removeLayer(obj.layer);
+                            baseMapsTime.removeLayer(obj.layer);
+                        }
+                    });
+                }
+                // Remove any sspLayers from the map
+                if (Array.isArray(sspLayers)) {
+                    sspLayers.forEach(layer => {
+                        if (map.hasLayer(layer)) {
+                            map.removeLayer(layer);
+                        }
+                        if (baseMapsTime && baseMapsTime.hasLayer && baseMapsTime.hasLayer(layer)) {
+                            baseMapsTime.removeLayer(layer);
+                        }
+                    });
+                    sspLayers = [];
+                }
 
                 if (current_layer !== null) {
                     map.removeLayer(current_layer);
@@ -1030,8 +1097,12 @@
                     await processPlotData(most_recent_click);
                 }
             } else {
-                const element = document.querySelector('.leaflet-control-layers:nth-of-type(3)');
-                if (element) element.style.display = 'block';
+                // Show baseMapsTime control (layergroup) in projections tab
+                document.querySelectorAll('.leaflet-control-layers').forEach(ctrl => {
+                    if (ctrl.closest('.leaflet-bottom.leaflet-left')) {
+                        ctrl.style.display = '';
+                    }
+                });
 
                 // Remove current historical layer if it exists
                 if (current_layer !== null) {
@@ -1040,15 +1111,41 @@
                 }
 
                 // Clear existing SSP layers
-                sspLayers.forEach(layer => {
-                    map.removeLayer(layer);
-                    baseMapsSSP.removeLayer(layer);
-                });
+                // sspLayers.forEach(layer => {
+                //     map.removeLayer(layer);
+                //     baseMapsSSP.removeLayer(layer);
+                // });
                 sspLayers = []; // Reset the tracking array
+
+                // Remove all layers from baseMapsTime
+                if (baseMapsTime && baseMapsTime._layers) {
+                    Object.values(baseMapsTime._layers).forEach(obj => {
+                        if (obj.layer) {
+                            map.removeLayer(obj.layer);
+                            baseMapsTime.removeLayer(obj.layer);
+                        }
+                    });
+                }
+                // Remove any sspLayers from the map before reloading
+                if (Array.isArray(sspLayers)) {
+                    sspLayers.forEach(layer => {
+                        if (map.hasLayer(layer)) {
+                            map.removeLayer(layer);
+                        }
+                        if (baseMapsTime && baseMapsTime.hasLayer && baseMapsTime.hasLayer(layer)) {
+                            baseMapsTime.removeLayer(layer);
+                        }
+                    });
+                    sspLayers = [];
+                }
 
                 const selectedVariable = document.getElementById('future-variable-selector');
                 const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
-                const selectedTime = document.querySelector('input[name="time-period"]:checked').value;
+                const selectedTimes = [
+                    { key: 'reference', label: 'Reference Period', years: '1995-2024' },
+                    { key: 'mid', label: 'Mid Century', years: '2041-2060' },
+                    { key: 'end', label: 'End of Century', years: '2081-2100' }
+                ];
                 const selectedScenarios = getSelectedScenarios();
                 const scenarioNames = {
                     'ssp126': 'SSP1-2.6',
@@ -1057,72 +1154,92 @@
                     'ssp585': 'SSP5-8.5'
                 };
 
-                // Track global min/max across all SSP layers
+                // Track global min/max across all time period layers
                 let globalMin = Infinity;
                 let globalMax = -Infinity;
                 let firstLayer = null;
                 let defaultLayer = null;
+                // First, collect min/max for all layers
+                const layerMinMaxArr = [];
 
-                for (const scenario of selectedScenarios) {
-                    let base_url;
-                    if (selectedMapType === "difference") {
-                        base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${selectedTime}_diff.tif`;
+                // Pass 0 for globalMin/globalMax on first pass, update after all layers loaded
+                for (const timeObj of selectedTimes) {
+                    if (timeObj.key === 'reference' && selectedMapType === 'difference') continue;
+                    for (const scenario of selectedScenarios) {
+                        let base_url;
+                        if (timeObj.key === 'reference') {
+                            base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_reference.tif`;
+                        } else {
+                            if (selectedMapType === "difference") {
+                                base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${timeObj.key}_diff.tif`;
+                            } else {
+                                base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${timeObj.key}.tif`;
+                            }
+                        }
+                        try {
+                            const layerLabel = `${timeObj.label} (${timeObj.years})${scenarioNames[scenario] ? ' - ' + scenarioNames[scenario] : ''}`;
+                            // Load layer to get min/max
+                            const layer = await addCOG(base_url, selectedVariable, false, baseMapsTime, layerLabel);
+                            if (layer && layer.stack && layer.stack instanceof Promise) {
+                                await layer.stack;
+                            }
+                            if (layer && layer.options) {
+                                layerMinMaxArr.push({ min: layer.options.min, max: layer.options.max, url: base_url, label: layerLabel });
+                                globalMin = Math.min(globalMin, layer.options.min);
+                                globalMax = Math.max(globalMax, layer.options.max);
+                            }
+                            if (!firstLayer && layer) {
+                                firstLayer = layer;
+                            }
+                            if (!defaultLayer && layer) {
+                                defaultLayer = layer;
+                            }
+                        } catch (error) {
+                            console.error(`Error loading COG for ${timeObj.label} scenario ${scenario}:`, error);
+                        }
+                    }
+                }
+
+                // Now reload all layers with global min/max for consistent color scaling
+                if (isFinite(globalMin) && isFinite(globalMax)) {
+                    // Remove all layers from baseMapsTime
+                    if (baseMapsTime && baseMapsTime._layers) {
+                        Object.values(baseMapsTime._layers).forEach(obj => {
+                            if (obj.layer) {
+                                map.removeLayer(obj.layer);
+                                baseMapsTime.removeLayer(obj.layer);
+                            }
+                        });
+                    }
+                    let firstReloadedLayer = null;
+                    let defaultReloadedLayer = null;
+                    for (const info of layerMinMaxArr) {
+                        try {
+                            const layer = await addCOG(info.url, selectedVariable, false, baseMapsTime, info.label, globalMin, globalMax);
+                            if (!firstReloadedLayer && layer) firstReloadedLayer = layer;
+                            if (!defaultReloadedLayer && layer) defaultReloadedLayer = layer;
+                        } catch (error) {
+                            console.error(`Error reloading COG for legend scaling:`, error);
+                        }
+                    }
+                    // Update legend with global min/max values
+                    if (firstReloadedLayer) {
+                        const globalMinMaxLayer = {
+                            options: {
+                                min: globalMin,
+                                max: globalMax,
+                                pal: firstReloadedLayer.options.pal,
+                                variable: firstReloadedLayer.options.variable
+                            }
+                        };
+                        updateLegend(selectedVariable, globalMinMaxLayer, selectedMapType === 'difference');
+                    }
+                    if (defaultReloadedLayer) {
+                        defaultReloadedLayer.addTo(map);
                     } else {
-                        base_url = `https://mco-normals.s3.us-east-2.amazonaws.com/cmip/agg/${selectedVariable.value}_${scenario}_${selectedTime}.tif`;
-                    }
-                    console.log(base_url);
-                    try {
-                        const layer = await addCOG(base_url, selectedVariable, false, baseMapsSSP, scenarioNames[scenario]);
-                        
-                        // Wait for layer stack to be ready
-                        if (layer && layer.stack && layer.stack instanceof Promise) {
-                            await layer.stack;
-                        }
-                        
-                        // Collect min/max from this layer
-                        if (layer && layer.options) {
-                            globalMin = Math.min(globalMin, layer.options.min);
-                            globalMax = Math.max(globalMax, layer.options.max);
-                        }
-                        
-                        // Use the first layer for legend update
-                        if (!firstLayer && layer) {
-                            firstLayer = layer;
-                        }
-                        // Track first selected layer for default display
-                        if (!defaultLayer && layer) {
-                            defaultLayer = layer;
-                        }
-                    } catch (error) {
-                        console.error(`Error loading COG for scenario ${scenario}:`, error);
+                        console.warn('No default layer was loaded for the selected time periods');
                     }
                 }
-
-                // Update legend with global min/max values
-                if (firstLayer && isFinite(globalMin) && isFinite(globalMax)) {
-                    // Create a temporary object with global min/max for legend display
-                    const globalMinMaxLayer = {
-                        options: {
-                            min: globalMin,
-                            max: globalMax,
-                            pal: firstLayer.options.pal,
-                            variable: firstLayer.options.variable
-                        }
-                    };
-                    // Pass isDifference flag when updating legend for difference maps
-                    updateLegend(selectedVariable, globalMinMaxLayer, selectedMapType === 'difference');
-                }
-
-                // Wait for the layer's stack promise to resolve before adding to map
-                if (defaultLayer) {
-                    if (defaultLayer.stack && defaultLayer.stack instanceof Promise) {
-                        await defaultLayer.stack;
-                    }
-                    defaultLayer.addTo(map);
-                } else {
-                    console.warn('No default layer was loaded for the selected scenarios');
-                }
-
                 if (most_recent_click) {
                     await processPlotData(most_recent_click);
                 }
@@ -1204,32 +1321,10 @@
         // Initialize scenario buttons
         document.addEventListener('DOMContentLoaded', initializeScenarioButtons);
 
-        document.querySelectorAll('input[name="time-period"]').forEach(radio => {
-            radio.addEventListener('change', () => updateMap(false));
-        });
+
 
         document.querySelectorAll('input[name="map-type"]').forEach(radio => {
             radio.addEventListener('change', () => {
-                const referenceRadio = document.querySelector('input[name="time-period"][value="reference"]');
-                const mapType = document.querySelector('input[name="map-type"]:checked').value;
-                
-                if (mapType === 'difference') {
-                    // Disable reference period for difference map type
-                    referenceRadio.disabled = true;
-                    referenceRadio.parentElement.style.opacity = '0.5';
-                    referenceRadio.parentElement.style.pointerEvents = 'none';
-                    
-                    // If reference is currently selected, switch to end
-                    if (referenceRadio.checked) {
-                        document.querySelector('input[name="time-period"][value="end"]').checked = true;
-                    }
-                } else {
-                    // Enable reference period for average map type
-                    referenceRadio.disabled = false;
-                    referenceRadio.parentElement.style.opacity = '1';
-                    referenceRadio.parentElement.style.pointerEvents = 'auto';
-                }
-                
                 updateMap(false);
             });
         });
@@ -1241,7 +1336,7 @@
         const customWatermarkPlugin = {
             id: 'customWatermark',
             beforeDraw: (chart, args, pluginOptions) => {
-                const imageSrc = "https://data.climate.umt.edu/website/assets/MCO_logo.png"; // Ensure path is correct
+                const imageSrc = "https://data.climate.umt.edu/website/assets/MCO_logo.png";
 
                 if (!chart.watermarkImage) {
                     chart.watermarkImage = new Image();
@@ -1258,10 +1353,11 @@
                 if (chart.watermarkImage && chart.watermarkImage.complete && chart.watermarkImage.naturalWidth !== 0) {
                     const img = chart.watermarkImage;
                     const ctx = chart.ctx;
-                    const canvas = ctx.canvas;
+                    const chartArea = chart.chartArea;
+                    if (!chartArea) return true; // Chart area not ready yet
 
                     // --- 1. Define desired scale factor ---
-                    const scaleFactor = 0.04; // Make it 20% of its original size. Adjust this!
+                    const scaleFactor = 0.035; // Even smaller for subtle logo
 
                     // --- 2. Calculate the new width and height ---
                     const newWidth = img.width * scaleFactor;
@@ -1269,15 +1365,13 @@
 
                     ctx.save();
 
-                    // --- 3. Recalculate position based on the NEW scaled dimensions ---
-
-
-                    // Calculate position as a percentage of canvas size
-                    const x = canvas.width * 0.95 - newWidth;  // 80% from left
-                    const y = canvas.height * 0.9 - newHeight;  // 80% from top
+                    // --- 3. Position in upper left of chart area ---
+                    const padding = 8;
+                    const x = chartArea.left + padding;
+                    const y = chartArea.top + padding;
 
                     // Apply transparency
-                    ctx.globalAlpha = 0.3; // Adjust as needed
+                    ctx.globalAlpha = 0.3;
 
                     // --- 4. Draw the image using the calculated position ---
                     ctx.drawImage(img, x, y, newWidth, newHeight);
@@ -1287,6 +1381,11 @@
                 return true;
             }
         };
+
+        // Register the watermark plugin globally for all Chart.js charts
+        if (typeof Chart !== 'undefined' && Chart.register) {
+            Chart.register(customWatermarkPlugin);
+        }
 
 
 
@@ -2269,16 +2368,16 @@
     <script>
         // Montana coordinates
         const MONTANA_CENTER = [47, -106];
-        const ZOOM_LEVEL = 6.5;
+        const ZOOM_LEVEL = 6.25;
 
         // Initialize single map instance with bounds restrictions
         const map = L.map('map', {
             zoomDelta: 0.1,
             zoomSnap: 0.1,
-            minZoom: 6.5,
+            minZoom: 4.5,
             maxBounds: [
-                [43.5, -117.5],
-                [49.5, -93.5]
+                [38.5, -125.5],
+                [52.5, -85.5]
             ],
             maxBoundsViscosity: 1.0
         }).setView(MONTANA_CENTER, ZOOM_LEVEL);
@@ -2295,17 +2394,41 @@
             position: 'topleft'
         }).addTo(map);
 
-        const baseMapsSSP = L.control.layers({}, null, {
+        // const baseMapsSSP = L.control.layers({}, null, {
+        //     collapsed: false,
+        //     position: 'topleft'
+        // }).addTo(map);
+
+
+        const baseMapsTime = L.control.layers({}, null, {
             collapsed: false,
-            position: 'topleft'
+            position: 'bottomleft'
         }).addTo(map);
 
         const legend = L.control({ position: 'bottomleft' });
         legend.onAdd = function (map) {
             var div = L.DomUtil.create('div', 'legend')
-
             return div
         }
+
+        // Ensure baseMapsTime control appears above the legend
+        document.addEventListener('DOMContentLoaded', function () {
+            // Find all leaflet controls in bottomleft
+            const controls = document.querySelectorAll('.leaflet-bottom.leaflet-left .leaflet-control');
+            // Move baseMapsTime control before the legend
+            if (controls.length > 1) {
+                const parent = controls[0].parentNode;
+                // Find legend and baseMapsTime controls
+                let legendControl = null, baseMapsTimeControl = null;
+                controls.forEach(ctrl => {
+                    if (ctrl.classList.contains('legend')) legendControl = ctrl;
+                    if (ctrl.querySelector('.leaflet-control-layers-list')) baseMapsTimeControl = ctrl;
+                });
+                if (legendControl && baseMapsTimeControl) {
+                    parent.insertBefore(baseMapsTimeControl, legendControl);
+                }
+            }
+        });
 
         legend.addTo(map);
 
@@ -2340,7 +2463,17 @@
             }
 
             const labels = [];
-            const scale = chroma.scale(options.pal).mode('lab');
+            let scale;
+            if (options.pal === 'RdYlBu') {
+                const colors = chroma.brewer && chroma.brewer.RdYlBu ? [...chroma.brewer.RdYlBu].reverse() : ['#d73027','#f46d43','#fdae61','#fee090','#e0f3f8','#abd9e9','#74add1','#4575b4'];
+                scale = chroma.scale(colors).mode('lab');
+            } else {
+                scale = chroma.scale(options.pal).mode('lab');
+            }
+            // If a scaleOverride is present (from addCOG), use it
+            if (options.scaleOverride) {
+                scale = options.scaleOverride;
+            }
             let legend_title;
             
             lower_lim = smartRound(lower_lim);
