@@ -832,9 +832,13 @@
                 dat_filtered = Object.values(groupedData).map(item => ({ date: `${item.year}-01-01`, value: item.value })); // Use Jan 1 as a placeholder date
             } else {
                 // Filter data for the selected month
+                const monthMap = {
+                    jan: "01", feb: "02", mar: "03", apr: "04", may: "05", jun: "06",
+                    jul: "07", aug: "08", sep: "09", oct: "10", nov: "11", dec: "12"
+                };
                 dat_filtered = dat.filter(item => {
                     const month = item.date.split('-')[1];
-                    const sel_month = String(new Date(Date.parse(`1970-${selectedTime.value}-01`)).getMonth() + 1).padStart(2, '0');
+                    const sel_month = monthMap[selectedTime.value.toLowerCase()];
                     return month === sel_month;
                 });
             }
