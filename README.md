@@ -1,14 +1,4 @@
-# report-builder
-Automated Reporting and Plotting of Climate Projections
+# climate-explorer
+This is a pure-Java interface for viewing the Montana climate normals.
 
-## Initialize and Restore the Database
-Spin up the database docker container: 
-```{bash}
-docker compose up --build -d db
-```
-
-Then, copy the backup script to the container and run the setup script:
-```{bash}
-docker cp ./setup/setup.sql db:/
-docker exec -it db psql -U mco -d blm -a -f /setup.sql
-```
+View the Montana Climate Explorer at [https://explorer.climate.umt.edu](https://explorer.climate.umt.edu).
