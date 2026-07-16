@@ -508,6 +508,26 @@
                 font-size: 13px;
                 color: #777;
             }
+
+            .download-data-btn {
+                display: none; /* shown via JS once plotted data has been captured */
+                flex-shrink: 0;
+                margin: 10px 0 0 0;
+                padding: 10px 14px;
+                background: #4a90e2;
+                color: white;
+                border: none;
+                border-radius: 8px;
+                font-size: 14px;
+                font-weight: 500;
+                cursor: pointer;
+                transition: all 0.3s ease;
+                box-shadow: 0 2px 4px rgba(74, 144, 226, 0.3);
+            }
+
+            .download-data-btn:hover {
+                background: #2563eb;
+            }
         </style>
     </head>
 
@@ -580,6 +600,13 @@
                     <div class="plot-container">
                         <canvas id="historical-plot" style="width: 100%; height: 100%"></canvas>
                     </div>
+                    <button
+                        id="historical-download-btn"
+                        class="download-data-btn"
+                        onclick="downloadPlotData('historical')"
+                        title="Download the plotted data as CSV">
+                        Download these data (CSV)
+                    </button>
                 </div>
                 <div class="sidebar">
                     <h2 class="sidebar-title">CMIP6 Projections</h2>
@@ -627,6 +654,13 @@
                     <div class="plot-container">
                         <canvas id="future-plot"></canvas>
                     </div>
+                    <button
+                        id="future-download-btn"
+                        class="download-data-btn"
+                        onclick="downloadPlotData('future')"
+                        title="Download the plotted data as CSV">
+                        Download these data (CSV)
+                    </button>
                 </div>
             </div>
         </div>
@@ -1520,6 +1554,45 @@
             let historical_chart_instance;
             let future_chart_instance;
 
+            // Data behind the currently rendered plots, powering the CSV download buttons
+            let download_data = { historical: null, future: null };
+
+            function slugify(s) {
+                return String(s).trim().replace(/[^A-Za-z0-9._-]+/g, "-");
+            }
+
+            function round4(v) {
+                return typeof v === "number" && isFinite(v) ? Math.round(v * 1e4) / 1e4 : v;
+            }
+
+            function setDownloadData(which, rows, filename) {
+                const btn = document.getElementById(
+                    which === "historical" ? "historical-download-btn" : "future-download-btn"
+                );
+                if (rows && rows.length > 0) {
+                    download_data[which] = { rows: rows, filename: filename };
+                    if (btn) btn.style.display = "inline-block";
+                } else {
+                    download_data[which] = null;
+                    if (btn) btn.style.display = "none";
+                }
+            }
+
+            function downloadPlotData(which) {
+                const state = download_data[which];
+                if (!state) return;
+                const csv = Papa.unparse(state.rows);
+                const blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement("a");
+                a.href = url;
+                a.download = state.filename;
+                document.body.appendChild(a);
+                a.click();
+                a.remove();
+                setTimeout(() => URL.revokeObjectURL(url), 1000);
+            }
+
             function resetZoom() {
                 if (historical_chart_instance) {
                     historical_chart_instance.resetZoom();
@@ -1537,6 +1610,8 @@
             }
 
             function resetPlotContainer() {
+                // Hide the download button until the new render captures fresh data
+                setDownloadData("future", null);
                 // Destroy any existing chart instances
                 if (future_chart_instance) {
                     if (future_chart_instance.destroy) {
@@ -1702,6 +1777,15 @@
                 let datasets = [];
                 let allData = [];
 
+                const dl_rows = [];
+                const dl_meta = {
+                    location: plot_meta.loc_name,
+                    area_type: parts[0],
+                    area_id: parts[1],
+                    variable: plot_meta.variable,
+                    units: units[selectedVariable.value] || ""
+                };
+
                 // Get the current selections for plot type and difference from normal
                 const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
                 const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
@@ -1766,6 +1850,21 @@
                                 upperValues = upperValues.map((val) => val - baseline);
                                 lowerValues = lowerValues.map((val) => val - baseline);
                             }
+
+                            groupedHistorical.forEach((row, i) => {
+                                dl_rows.push({
+                                    ...dl_meta,
+                                    scenario: "Historical Emissions",
+                                    year: row.year,
+                                    value: round4(values[i]),
+                                    lower: round4(lowerValues[i]),
+                                    upper: round4(upperValues[i]),
+                                    value_type: differenceFromNormal
+                                        ? "difference from 1995-2024 normal"
+                                        : "modeled value",
+                                    baseline_1995_2024: round4(baseline)
+                                });
+                            });
 
                             // Add uncertainty ribbon (upper bound)
                             datasets.push({
@@ -1841,6 +1940,21 @@
                                     upperValues = upperValues.map((val) => val - baseline);
                                     lowerValues = lowerValues.map((val) => val - baseline);
                                 }
+
+                                sortedScenario.forEach((row, i) => {
+                                    dl_rows.push({
+                                        ...dl_meta,
+                                        scenario: scenarioNames[scenario],
+                                        year: row.year,
+                                        value: round4(values[i]),
+                                        lower: round4(lowerValues[i]),
+                                        upper: round4(upperValues[i]),
+                                        value_type: differenceFromNormal
+                                            ? "difference from 1995-2024 normal"
+                                            : "modeled value",
+                                        baseline_1995_2024: round4(baseline)
+                                    });
+                                });
 
                                 // Add uncertainty ribbon (upper bound)
                                 datasets.push({
@@ -2008,6 +2122,12 @@
                     },
                     plugins: [customWatermarkPlugin]
                 });
+
+                setDownloadData(
+                    "future",
+                    dl_rows,
+                    `${slugify(plot_meta.loc_name)}_${selectedVariable.value}_projections-timeseries${differenceFromNormal ? "_difference-from-normal" : ""}.csv`
+                );
             }
 
             async function createFutureMonthlyChart(parts, selectedVariable, scenarios, plot_meta) {
@@ -2039,6 +2159,15 @@
                 const selectedPlotType = document.querySelector('input[name="plot-type"]:checked').value;
                 const selectedMapType = document.querySelector('input[name="map-type"]:checked').value;
                 const differenceFromNormal = selectedMapType === "difference";
+
+                const dl_rows = [];
+                const dl_meta = {
+                    location: plot_meta.loc_name,
+                    area_type: parts[0],
+                    area_id: parts[1],
+                    variable: plot_meta.variable,
+                    units: units[selectedVariable.value] || ""
+                };
 
                 try {
                     // Load parquet data using the hive-partitioned structure
@@ -2083,7 +2212,7 @@
                                 : `${selectedVariable.options[selectedVariable.selectedIndex].text}`;
 
                         // Create helper function to build datasets for a specific period
-                        const buildDatasetsForPeriod = (periodGroupValue) => {
+                        const buildDatasetsForPeriod = (periodGroupValue, captureReference) => {
                             let datasets = [];
 
                             // Add reference period (1995-2024) if it matches
@@ -2111,6 +2240,23 @@
                                         monthlyLower[monthIndex] = lower;
                                     }
                                 });
+
+                                if (captureReference) {
+                                    monthNames.forEach((m, i) => {
+                                        dl_rows.push({
+                                            ...dl_meta,
+                                            period: "Reference Period (1995-2024)",
+                                            scenario: "Reference Period",
+                                            month: m,
+                                            value: round4(monthlyValues[i]),
+                                            lower: round4(monthlyLower[i]),
+                                            upper: round4(monthlyUpper[i]),
+                                            value_type: differenceFromNormal
+                                                ? "difference from 1995-2024 normal"
+                                                : "modeled value"
+                                        });
+                                    });
+                                }
 
                                 datasets.push({
                                     label: "Reference Upper",
@@ -2180,6 +2326,21 @@
                                             monthlyUpper[monthIndex] = upper;
                                             monthlyLower[monthIndex] = lower;
                                         }
+                                    });
+
+                                    monthNames.forEach((m, i) => {
+                                        dl_rows.push({
+                                            ...dl_meta,
+                                            period: periodGroupValue,
+                                            scenario: scenarioNames[scenario],
+                                            month: m,
+                                            value: round4(monthlyValues[i]),
+                                            lower: round4(monthlyLower[i]),
+                                            upper: round4(monthlyUpper[i]),
+                                            value_type: differenceFromNormal
+                                                ? "difference from 1995-2024 normal"
+                                                : "modeled value"
+                                        });
                                     });
 
                                     datasets.push({
@@ -2271,8 +2432,8 @@
                         }
 
                         // Build datasets for each period
-                        const midCenturyDatasets = buildDatasetsForPeriod("Mid Century (2040-2069)");
-                        const endOfCenturyDatasets = buildDatasetsForPeriod("End-of-Century (2070-2099)");
+                        const midCenturyDatasets = buildDatasetsForPeriod("Mid Century (2040-2069)", true);
+                        const endOfCenturyDatasets = buildDatasetsForPeriod("End-of-Century (2070-2099)", false);
 
                         // Create Mid Century chart
                         const midCtx = midCenturyCanvas.getContext("2d");
@@ -2386,6 +2547,12 @@
 
                         // Store both chart instances
                         future_chart_instance = { midChart, eocChart };
+
+                        setDownloadData(
+                            "future",
+                            dl_rows,
+                            `${slugify(plot_meta.loc_name)}_${selectedVariable.value}_projections-monthly${differenceFromNormal ? "_difference-from-normal" : ""}.csv`
+                        );
                     }
                 } catch (error) {
                     console.error("Error loading future monthly data:", error);
@@ -2509,6 +2676,22 @@
                     },
                     plugins: [customWatermarkPlugin] // --- This array REGISTERS plugin objects for *this chart only* ---
                 });
+
+                const dl_rows = data.map((row) => ({
+                    location: plot_meta.loc_name,
+                    area_type: plot_meta.type,
+                    area_id: plot_meta.id,
+                    variable: plot_meta.variable,
+                    units: units[plot_meta.variable_code] || "",
+                    period: plot_meta.time,
+                    year: parseInt(row.date.split("-")[0]),
+                    value: round4(row.value)
+                }));
+                setDownloadData(
+                    "historical",
+                    dl_rows,
+                    `${slugify(plot_meta.loc_name)}_${plot_meta.variable_code}_${slugify(plot_meta.time)}_historical.csv`
+                );
             }
         </script>
 
